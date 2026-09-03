@@ -1,0 +1,23 @@
+{
+  "_comment": "Off-chain annotations keyed by outcome-token id. The chain knows a position was sold; it cannot know WHY. Entries here override the default 'Sold' label on closed positions. kind: 'manual' marks a discretionary close (our own decision, not a followed signal); 'reason' is shown on the row.",
+  "53195884283672774026891441921065904229748558118802479137535050914862599831224": {
+    "kind": "manual",
+    "reason": "Company/Financial category disabled by the forecast team on 2026-08-30 (below-average category performance); exited proactively instead of waiting for settlement."
+  },
+  "53455249154698091892597546188646780074388526414669356079477086663348609285332": {
+    "kind": "manual",
+    "reason": "Company/Financial category disabled by the forecast team on 2026-08-30 (below-average category performance); exited proactively instead of waiting for settlement."
+  },
+  "39562648310362326019310777383934329156732122520097749727753250850874074269403": {
+    "kind": "manual",
+    "reason": "Company/Financial category disabled by the forecast team on 2026-08-30 (below-average category performance); exited proactively instead of waiting for settlement."
+  },
+  "83306872676670487141923955076719880547615731904984802456074320945166801132851": {
+    "kind": "manual",
+    "reason": "Company/Financial category disabled by the forecast team on 2026-08-30 (below-average category performance); exited proactively instead of waiting for settlement."
+  },
+  "37461417265919800563099829598896496437436229231955379584818921535241120965562": {
+    "kind": "manual",
+    "reason": "Company/Financial category disabled by the forecast team on 2026-08-30 (below-average category performance); exited proactively instead of waiting for settlement."
+  }
+}

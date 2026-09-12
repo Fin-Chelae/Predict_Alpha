@@ -2658,7 +2658,7 @@
    "confidence": 0.375,
    "category": "Politics",
    "pipeline": 2,
-   "rationale": null,
+   "rationale": "The Polymarket anchor (38% YES, cooled from a 76.5% crisis peak) remains the best-informed signal and both forecasters landed reasonably near it. The critique correctly notes the gap versus the ~10-13% actuarial baseline, but that baseline explicitly understates risk: an 84-year-old still uncleared in rehab after 6+ weeks, zero votes in 43 days, and a public pressure campaign from Gov. Beshear materially raises both the mortality/incapacity and resignation hazards over the remaining ~5-month window. Countervailing forces are strong and default-favoring: resolution requires an affirmative act (or death), McConnell has repeatedly refused to resign, and Republicans have a clear incentive to avoid a Kentucky special-election vacancy under a Democratic governor — the Feinstein precedent shows severely diminished senators frequently simply run out the clock. The plausible 'incapacitated but never formally resigns' path resolves No and is a genuinely likely branch that market pricing may under-weight, so I settle marginally below the anchor at 36%.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/1109",
    "has_trace": true
   }
@@ -3224,7 +3224,7 @@
    "confidence": 0.5,
    "category": "Financials",
    "pipeline": 2,
-   "rationale": null,
+   "rationale": "The market auto-resolves NO absent a launch by Dec 31, 2026, and SEA's launch was pushed indefinitely from March 30, 2026 with no date, venue, or supply disclosed as of late July 2026 — so P(launch by year-end) is plausibly only ~15-20%, not the 60-85% that a higher Yes would require. The live Polymarket analog at 15.3% (down 14.6 pts in 30 days from a 51.4% high) is the best current anchor and already prices that deterioration. Conditional on launch, OpenSea's brand makes >$500M FDV likely (~75-85%), but the survivorship-biased comp set and the 2026 CAP token miss at $325M argue for trimming rather than boosting that conditional. Combining ~16% launch odds with ~80% conditional gives ~13%, so I sit marginally below both forecasters and the proxy anchor, reflecting the critique's point that 'indefinite delay' language skews launch odds lower while acknowledging residual upside if a surprise Q4 launch materializes.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/1111",
    "has_trace": true
   }
@@ -3340,7 +3340,7 @@
    "confidence": 0.5,
    "category": "Elections",
    "pipeline": 2,
-   "rationale": null,
+   "rationale": "The exact-market consensus sits in the low-to-mid 80s (Polymarket 85.5% with $4.9M volume and 90-day stability; Newsweek-cited Kalshi ~80%), while related Kalshi tickers (Jeffries Speaker 73%) reflect different resolution objects (Speaker selection, 2028 cycle) rather than a clean discount on 2026 House control, so the critique's implied heavy haircut is only partly warranted. Fundamentals independently corroborate: sustained D+3 to D+7 generic ballot, Trump net approval near -15/-17 (historically double-digit seat losses), and a GOP margin so thin that only a net +3 to +5 Democratic seats are needed — the low 35% historical flip rate is not the right reference class for a 3-5 seat majority. The genuine offsets — ~+18 gross GOP redistricting potential (TX/FL/OH/MO/NC vs CA's +5), unfinished post-Callais redraws in LA/TN/GA, and unquantified retirement/off-year data — justify shading below the Polymarket print, but the fundamentals-only model's 70-72% understates the informational value of convergent Cook/Sabato ratings and liquid market pricing. I land at 83%, between the market anchor and the more conservative synthesis, slightly below Forecast 1 and above Forecast 2.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/1121",
    "has_trace": true
   }
@@ -3986,7 +3986,7 @@
    "confidence": 0.5,
    "category": "Companies",
    "pipeline": 2,
-   "rationale": null,
+   "rationale": "Polymarket prices this identical event at 10.5% YES with a slight downward drift, and it remains the best consensus anchor absent Kalshi data. Fundamentals support No: no Chinese model has ever held outright #1 on LMArena's full Text Arena Overall, the best entrant (Qwen 3.7 Max) sits ~#5 with a ~30 Elo gap, and US labs (Gemini, Grok, Claude, GPT) keep trading the top slot among themselves while Chinese leadership is confined to open-weights and niche arenas. The critique's valid points — 'any checkpoint' resolution, possible CI/tie sharing of rank 1, multiple turnover events in the remaining months, and rapid Chinese release cadence with near-parity technical benchmarks — justify sitting modestly above the market rather than below it. The hazard-model 65-80% figure is unreconciled with the observed leaderboard gap and thin-but-real market pricing, so I discount it heavily. Final: 12% Yes, slightly above the anchor to account for tail paths to a transient #1.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/1115",
    "has_trace": true
   }
@@ -4898,7 +4898,7 @@
    "confidence": 0.5,
    "category": "Politics",
    "pipeline": 2,
-   "rationale": null,
+   "rationale": "The direct market anchor (Polymarket 19.5%, drifting down from a 36.5% peak) is the best-informed single estimate and reflects a market that has watched Hegseth survive repeated scandal cycles with Trump's continued backing. The critique fairly notes upward pressures: ~5 months of unobserved risk beyond the Aug 2026 evidence cutoff, an active congressional probe and withheld strike video, eroding GOP patience, the 'announcement thereof' lower resolution bar, and a high historical SecDef/cabinet churn hazard — plus the Kalshi 'next SecDef' market implying more risk than 19.5%. But that related contract likely spans a longer horizon and is not directly comparable, and no replacement search, legal jeopardy, or Trump withdrawal of support has been reported. Balancing these, I settle modestly above the direct anchor at 22%, close to Forecast 2 and above Forecast 1's sub-market 17%.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/1127",
    "has_trace": true
   }
@@ -5060,7 +5060,7 @@
    "confidence": 0.65,
    "category": "Economics",
    "pipeline": 2,
-   "rationale": null,
+   "rationale": "Five consecutive holds through July 29 mean only ~3 meetings remain (Sept, Oct/Nov, Dec), and the July vote was 9-3 with dissents favoring a HIKE, not a cut. The June dot plot removed any 2026 cut (median year-end 3.8%, 9/19 projecting hikes), core PCE is accelerating (3.0%→3.4%), and hawkish Chair Warsh plus CME pricing tilting toward hikes make a pivot to easing within five months implausible absent a sharp labor/credit break. Polymarket's 89.25% (rising 11pts/30d) is a reasonable anchor, and if anything it may lag the post-July-29 hawkish shift and the shrinking calendar, so I sit modestly above it. The critique's points about decelerating oil ($113→$100) and a possible Q4 growth shock are the main dovish counterweight, but a first cut would require both an inflation reversal and a full policy pivot in one or two meetings — that justifies the ~8-9% No tail rather than a larger one; the historical ~58-60% zero-cut base rate is regime-inappropriate here given five cuts-free meetings are already banked.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/1093",
    "has_trace": true
   }
@@ -5110,6 +5110,20 @@
   }
  ],
  "Will Alibaba have the best Chinese AI model at the end of September 2026?": [
+  {
+   "id": 2856,
+   "scanned_at": "2026-09-12T14:40:44.158002",
+   "date": "2026-09-12",
+   "agent": 67,
+   "market_price_t0": 75,
+   "edge": -0.07999999999999996,
+   "confidence": 0.48000000000000004,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "The Polymarket price of 75% YES with meaningful volume is the strongest anchor, and traders in this market almost certainly monitor the exact resolving leaderboard (Arena.ai Text Arena Overall, no style control), whereas the brief's Kimi K3-leads evidence comes from secondary aggregators tracking open-weight rankings and the Artificial Analysis Index rather than a confirmed snapshot of the resolution source. That said, the 30-day decline from the mid-80s, the reported 20-30 point Kimi gap on adjacent boards, the absence of a Qwen4 release before Sept 30, and the critique's valid point that 2026 churn has repeatedly moved the title away from Alibaba (with third parties like GLM or Ernie also able to produce a No) all justify shading below market. I place the final call between the two forecasts but closer to Forecast 1, since the market's implied information about the specific resolving leaderboard should outweigh unverified third-party aggregator snapshots. The fabricated sibling-market data was excluded entirely from this reasoning.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2856",
+   "has_trace": true
+  },
   {
    "id": 2327,
    "scanned_at": "2026-08-31T10:29:14.924276",
@@ -5220,7 +5234,7 @@
    "confidence": 0.25,
    "category": "Science and Technology",
    "pipeline": 2,
-   "rationale": null,
+   "rationale": "The only tradable anchor is a thin, ~$50K Polymarket print at 70.5%, which deserves partial but heavily discounted weight against a more rigorous structural base rate (LMArena leadership reportedly turning over ~every two months; steady-state share for any one lab ~20-33%) with five months still to run before the Dec 31 resolution. The critique is right that both forecasters split the difference toward the market without justifying the blend; I weight the base rate more heavily. Additional headwinds: Anthropic's historical relative underperformance on style-control-off human-preference chat rankings versus Google/OpenAI, the pending Gemini 3.5 Pro/Gemini 4 and further GPT-5.x releases, plus a non-trivial tail where a Chinese/open-weight entrant (Kimi K3, Qwen3.8) or a late-December refresh from any lab snipes the top spot right before resolution. Offsetting this, Anthropic's very recent Opus 5 (Jul 24) and Fable 5 launches plausibly reset the tenure clock in its favor while Google slips, and the mid-2026 snapshot shows it at least statistically tied at #1. Net: Yes at 0.40 — below both prior forecasts' midpoint and well below the illiquid market print, but above the pure Markov base rate to respect apparent incumbency and momentum.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/1107",
    "has_trace": true
   }
@@ -5308,7 +5322,7 @@
    "confidence": 0.5,
    "category": "Economics",
    "pipeline": 2,
-   "rationale": null,
+   "rationale": "The live 2026-specific evidence (June SEP with 9/18 dots showing ≥1 hike, the 9-3 July vote with three explicit hike dissents, core PCE ~3.3%, Warsh's 'no tolerance' rhetoric, futures pathing to ~4% by year-end) clearly justifies moving far above the ~10-21% historical base rate, and Polymarket at 67.5% with rising volume is the best live anchor. However, I shade below both forecasters for three under-weighted reasons: (1) the resolution window appears to end Dec 8, which likely excludes a hike announced at the Dec 8-9 FOMC meeting, leaving effectively only September and October as clean windows; (2) the reported Kalshi print (~50-54%), even if stale, suggests rate-sensitive flow prices this lower than retail-heavy Polymarket, and cross-market gaps this wide warrant a discount; (3) hawkish dissents and dot plots are frequently expectations-management tools — three dissenters do not equal a majority, and the committee has now held five straight times amid election-year caution. Netting the strong hawkish repricing against the truncated window and base-rate gravity puts me at ~0.61 Yes.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/1123",
    "has_trace": true
   }
@@ -5692,7 +5706,7 @@
    "confidence": 0.5,
    "category": "Politics",
    "pipeline": 2,
-   "rationale": null,
+   "rationale": "The primary market anchor (Polymarket, 24.5% and eroding on a -15pt/30d trend) and the base-rate model (~12-15% for contested, House-passed, election-year bills) bracket the answer, and I land modestly below the market because the specific news flow is directionally negative: missed pre-recess window, Thune's explicit deprioritization behind nominations/NDAA/Russia sanctions, unresolved Banking/Agriculture reconciliation, and the unresolved stablecoin-yield fight. The binding constraint is cloture math — moving from 2 committee-crossover Democrats to 7+ floor votes while Murphy, Van Hollen and Merkley formally oppose the merged draft is a large swing to complete in a compressed Sept–Dec calendar, even with the ethics compromise designed to court Gillibrand and others. The critique's fair points — Trump's personal lobbying, ready merged text on Calendar No. 423, procedural progress beyond anything FIT21 achieved, and a plausible lame-duck/must-pass vehicle attachment — justify keeping YES meaningfully above the pure base rate rather than shading toward 8-12%. Netting these, ~19% for Yes reflects both the genuine live pathway and the heavy procedural/vote-math burden remaining.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/1091",
    "has_trace": true
   }
@@ -8257,6 +8271,20 @@
  ],
  "Will there be no next Google Gemini Pro model release by November 1, 2026?": [
   {
+   "id": 2853,
+   "scanned_at": "2026-09-12T12:12:33.097993",
+   "date": "2026-09-12",
+   "agent": 31,
+   "market_price_t0": 25.5,
+   "edge": 0.05499999999999999,
+   "confidence": 0.515,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "The direct Polymarket anchor prices 'no Pro release by Nov 1' at ~25.5% and has trended firmly downward, but the market is thin (~$38k volume) and the brief finds no concrete launch signal (no leaks, no benchmark sightings, no flagship event) to justify the price drop beyond deadline-proximity extrapolation. Three missed ship windows, the resolved Aug-31 sibling at 100% Yes, leadership disruption, and visible resource diversion to Flash models and Gemini 4 pretraining all keep meaningful delay risk alive; the critique's point that Google has declined the 'easy' GA-promotion of 3.1 Pro for 7+ months is also valid, since it likely signals intent to leapfrog directly to 3.5 Pro rather than a cheap stopgap. Against this, ~7 weeks remain, 3.5 Pro has been in partner testing since July, and new leadership faces acute pressure to ship, so a release before Nov 1 remains the more likely outcome. I land modestly above both forecasters and the market at 31% Yes, reflecting the absence of launch signals while respecting the substantial remaining window.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2853",
+   "has_trace": true
+  },
+  {
    "id": 2003,
    "scanned_at": "2026-08-26T16:00:55.675486",
    "date": "2026-08-26",
@@ -8718,7 +8746,7 @@
    "confidence": 0.65,
    "category": "World",
    "pipeline": 2,
-   "rationale": null,
+   "rationale": "With only ~5 months left in the window, the applicable hazard is much smaller than the brief's 5-12% band for an 18-21 month horizon: elite-male mortality at 73 with top-tier care is roughly 1-1.5% over five months, and coup/forced-removal or incapacitation risk in a heavily securitized system with no presidential election until 2030 adds perhaps 2-3% even generously allowing for the broader 'detained/permanently prevented' resolution language and for the possibility that CIA/OSW reassurance narratives are wrong. The Polymarket 8.5% anchor is the best consensus proxy but such 'leader out' longshots carry a well-documented overpricing premium, and its decline from 13.5% is consistent with time decay rather than new stabilizing information. The critique's points on health-signal uncertainty and rising war attrition justify not going below ~5%, but neither offers a concrete mechanism operative within five months; historical precedent (no internal mid-term Russian removal since 1964) reinforces continuity. I therefore settle modestly below the market at 5.5% Yes.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/1131",
    "has_trace": true
   }
@@ -9004,7 +9032,7 @@
    "confidence": 0.5,
    "category": "Elections",
    "pipeline": 2,
-   "rationale": null,
+   "rationale": "Prop 40 is definitively on the Nov 3, 2026 ballot (SOS certification 2026-06-17), so this is purely a passage question, and the Polymarket anchor of 32.5% YES with $3.6M volume already reflects post-qualification information (its recent drift is downward, not upward). Both forecasters landed near that anchor, and the critique's strongest point — that a narrowly targeted billionaire tax with a healthcare earmark lacks the 'this hits me' backlash that sank Prop 30 and Prop 15 — justifies not sitting below the market, but not a large move above it either, since massive one-sided opposition spending ($82M+ reported, plus Brin-funded Props 41/42 and Newsom's opposition) is exactly the mechanism that has historically collapsed CA tax measures' polling leads. Polling dispersion (48–57% support, with the highest figure being campaign-internal) is consistent with a measure at or slightly below the 50% line before the ad blitz. The nullification ambiguity is a modest upward nudge if resolution keys only on a majority Yes vote, but it is speculative. Settling at 34% Yes — marginally above the cross-market anchor and between the two forecasts.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/1129",
    "has_trace": true
   }
@@ -9064,7 +9092,7 @@
    "confidence": 0.5,
    "category": "Climate and Weather",
    "pipeline": 2,
-   "rationale": null,
+   "rationale": "With ~7 of 12 months of 2026 elapsed and no qualifying trigger (max quake M7.8/M7.5, all 47 eruptions sub-VEI6, no US Cat-5 landfall, no confirmed 10kt+ airburst), only Aug–Dec residual risk remains. Rebuilding the Poisson sum with trigger-specific seasonality — M8.5+ quake ~0.093, 10kt+ meteor ~0.076, VEI≥6 ~0.006, and a hurricane term that keeps most of the season's landfall risk but halves it for El Niño/CSU-NOAA downgrades (~0.02–0.03) — gives a combined rate near 0.20 and P(≥1) ≈ 18–20%. I nudge above that for the critique's valid points: the Polymarket 40% print on non-trivial $232K volume may carry information (e.g., unreported CNEOS fireball data, ambiguity in the contract's resolution criteria) that the search failed to surface, and peak Atlantic season is genuinely still ahead. That yields ~24% YES — below the cross-platform 40% anchor, which I discount for contract-term mismatch and an unexplained 14.5%→40% repricing with zero fundamental trigger, but above the pure base-rate calculation.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/1119",
    "has_trace": true
   }
@@ -9258,7 +9286,7 @@
    "confidence": 0.375,
    "category": "World",
    "pipeline": 2,
-   "rationale": null,
+   "rationale": "The only usable consensus anchor is the identical-ticker Polymarket at 24.5% YES with $50.7M volume, and both forecasters shaded to 18-20% using essentially the same chain (Kharg control market near zero, Vance/Caine restraint, no confirmed troop buildup). The critique is partly persuasive: the resolution bar is 'commences an offensive intended to establish control over any portion' of Iran — not full occupation — so a limited Kharg Island/Hormuz island seizure, which the White House is reportedly actively discussing, would plausibly resolve YES, making the loose-incursion base rate (~13%) more relevant than the 1-2% full-invasion figure. Offsetting that, five-plus months of intense air/naval war have produced zero territorial seizure, strikes were paused for talks, and the June 2025 precedent shows even large strike packages stay air-only. The 7-day cooling (-6pts) is weakly informative against a 30-day rise (+11pts) with ~5 months of active-war tail risk remaining, so I settle just below the market rather than well below it.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/1092",
    "has_trace": true
   }
@@ -9666,7 +9694,7 @@
    "confidence": 0.5,
    "category": "World",
    "pipeline": 2,
-   "rationale": null,
+   "rationale": "The exact-market Polymarket contract at 7.5% YES with $23.6M volume is a strong, liquid anchor, and it has decayed from a 50.5% wartime peak precisely because the regime survived its worst stress test — Khamenei's assassination — via a constitutional succession completed within ten days, with the IRGC retaining coercive cohesion and the opposition fragmented and leaderless. The brief's base-rate model (12-24% mid-stress over two years) is not directly comparable: only ~5 months remain in the window, which pro-rates that annualized stress estimate down toward high-single digits, so the market is not obviously mispriced. The critique's strongest points — an unseen/possibly incapacitated Mojtaba and unresolved IAEA/nuclear disputes that could trigger a second regime-change war — justify a small upward tilt above the market, but both are partly reflected in adjacent pricing (leadership-change 3-6.5%, US-invade 19.5%, ceasefire-continuation 96-99.8%), and even renewed strikes historically produced institutional survival rather than collapse. Opposition-sourced casualty and 'coup clock' claims are opinion-tier and should not move the number materially. I settle at 8% Yes, a hair above the anchor to price the succession-opacity and renewed-war tails.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/1117",
    "has_trace": true
   }
@@ -10024,7 +10052,7 @@
    "confidence": 0.375,
    "category": "Companies",
    "pipeline": 2,
-   "rationale": null,
+   "rationale": "The best available anchor (Polymarket twin ~65%, reported Kalshi proxy ~65% for 'close before July 2027') reflects a market that has already repriced the July 2026 litigation delay, and fundamentals genuinely favor eventual closing: DOJ and EU clearances secured, shareholder approval done, no rival bidder, and a $7M/day ticking fee plus $7B reverse termination fee pushing Paramount to close promptly. However, the critique lands on two shared blind spots: (a) the standstill's 'trial conclusion or June 1, 2027' outer date leaves only ~4 weeks for post-ruling mechanics, and an adverse-party appeal with an injunction pending appeal, unfinished trial, or unresolved Discovery Global separation could easily push closing past June 30, 2027; and (b) the cited Kalshi proxy references a slightly looser 'before July 2027' framing, so the anchor may be modestly generous versus this stricter deadline. Additional friction signals (FCC Commissioner Gomez, national-security review questions on the ~$24B Mideast financing) and a still-declining price trend argue for shading below rather than above the anchor. I therefore set Yes at 0.60, slightly under both forecasters and the market anchor, distinguishing 'deal ultimately survives' (likely) from 'closes by June 30, 2027' (meaningfully less certain).",
    "url": "https://forecast.agenticlearning.ai/scans/v2/1101",
    "has_trace": true
   }
@@ -12566,7 +12594,7 @@
    "confidence": 0.65,
    "category": "Climate and Weather",
    "pipeline": 2,
-   "rationale": null,
+   "rationale": "With only ~5 months of exposure remaining (plus a one-week grace period), even a generous annualized rate for M6.5+ within 50 miles of downtown LA — say 3-5%/yr, allowing for the wider radius capturing San Andreas/Elsinore segments and the borderline 1933 Long Beach event — yields roughly 1.3-2.1% for the residual window. There is no LA-basin precursory swarm, no elevated USGS operational forecast, and the 'stress peak' coverage is tabloid extrapolation of long-term UCERF3 hazard already embedded in the base rate. The Polymarket 10.25% anchor on $16K volume is a weak signal typical of thin-market tail overpricing and media reflexivity, so I discount it heavily but not entirely, landing modestly above pure Poisson at 3%. This sits between the two forecasts while respecting the critique's point that radius definition and magnitude-revision uncertainty tilt the base rate slightly upward.\"}",
    "url": "https://forecast.agenticlearning.ai/scans/v2/1135",
    "has_trace": true
   }
@@ -12582,7 +12610,7 @@
    "confidence": 0.5,
    "category": "Science and Technology",
    "pipeline": 2,
-   "rationale": null,
+   "rationale": "The decisive fact is that Alibaba's Qwen3.8-Max already holds #1 among Chinese models on the exact resolution leaderboard (arena.ai Text Arena Overall, no style control, ~1496 Elo, #5 globally), with only ~4 weeks to the Aug 31 close. Elo leads on Arena rarely flip within a single month absent a major new frontier release, and no confirmed rival launch is scheduled in the window; competing indices favoring Kimi K3 (BenchLM, Frontend Code Arena) are not the resolution source and therefore matter mainly as a signal of narrow margins, not a direct threat. The critique's points about stale data (Aug 3 snapshot), unverified Chinese #2 Text Arena scores, thin Polymarket liquidity ($55k, 19 points, +51.5% in 30d), and the inconsistent ~34% de-vig estimate justify shading below the 86.5% anchor, but the de-vig used explicitly hypothetical companion prices and the 6-month churn model is the wrong horizon for a 4-week question. I therefore land slightly below the market and between the two forecasts at 82%, reserving ~18% for a surprise Moonshot/DeepSeek/Z.ai release, an open-weights-driven re-ranking, or the possibility that fresher leaderboard data already shows a flip.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/1133",
    "has_trace": true
   }
@@ -12598,7 +12626,7 @@
    "confidence": 0.5,
    "category": "Climate and Weather",
    "pipeline": 2,
-   "rationale": null,
+   "rationale": "The last confirmed official release (2026-07-07) shows D4 at exactly 0.00% with D3 at 20.30%, and the qualitative late-July reporting (88.3% total drought, no D4 mentioned) implies D4 remained negligible with only ~4 weekly releases left before the Aug 31 cutoff. Going from 0% to ≥1.00% areal coverage requires USDM authors to newly introduce an Exceptional Drought core, which typically follows sustained multi-indicator extremes and is usually telegraphed — no such signal appears in USDM narratives, NIFC's August outlook, or state climatologist commentary. Against that, the critique fairly notes the reference-class mismatch (2026 is already a record-low-snowpack tail year with accelerating D3 growth) and a real data blackout after July 7, so I do not push far below the escalation model's 13-20% band; the 7-day correction-holding mechanic is a mild additional drag on YES. The Polymarket proxy at 30.5% is falling fast on modest liquidity and is not a verified price for the Kalshi ticker, so I discount it toward the base-rate/escalation range while retaining meaningful tail allowance at 19% YES.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/1125",
    "has_trace": true
   }
@@ -12614,7 +12642,7 @@
    "confidence": 0.5,
    "category": "Science and Technology",
    "pipeline": 2,
-   "rationale": null,
+   "rationale": "Anthropic holds the #1 spot on the LMArena Text Arena Overall board in the most recent confirmed snapshot (Claude Fable 5, ~1505-1509 Elo, July 10, 2026) and has led nearly continuously since February 2026, reinforced by an unusually fast release cadence culminating in Opus 5 on July 24. The raw ~46% monthly leadership turnover base rate is a poor fit here because it ignores regime persistence: an incumbent that has already held the top spot for five-plus months is far stickier than the average, and no confirmed next-gen rival flagship (GPT-6, Grok 5, Gemini 4) is slated before the Aug 31 check. Google's July pattern of shipping only Flash-tier variants makes further Gemini 3.5 Pro slippage plausible, an asymmetry that favors Yes; offsetting risks are the genuinely tight 30-55 Elo top cluster with three July competitor models still accumulating votes and the precedent of Anthropic's own model being temporarily suspended (Fable 5, ~19 days in June). Netting these, I place the final estimate essentially at the 91.5% market anchor, a touch below it rather than the 88-89% both forecasters chose, since their discount double-counted a base rate the evidence brief already flagged as miscalibrated.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/1103",
    "has_trace": true
   }
@@ -12630,7 +12658,7 @@
    "confidence": 0.5,
    "category": "Health",
    "pipeline": 2,
-   "rationale": null,
+   "rationale": "The exact-question Polymarket contract trades at 7.5% YES with ~$958K volume, and crucially that price already incorporates the known, active Ebola (Bundibugyo) PHEIC and the first human H5N5 case — meaning the market has effectively priced the resolution-ambiguity question and concluded that PHEICs do not satisfy 'declares a pandemic.' That resolves the critique's central objection: the brief's 20–29% 'blended' figure double-counts interpretation uncertainty that informed traders have already adjudicated, and the strict historical base rate (2 uses of the word in ~56 years, ~3.5%/yr) plus never-invoked pandemic-emergency tier both point to single digits. Offsetting factors roughly cancel: ~5 remaining months with an expanding but contact-transmitted Ebola outbreak and possible H5 clustering argue mildly upward, while WHO's political disincentive to invoke a tier rejected by the US, Germany and Canada argues downward. I therefore settle essentially on the anchor at 7% YES, splitting the two forecasts and preserving a genuine tail for a novel airborne cluster emerging in Q4 2026.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/1099",
    "has_trace": true
   }
@@ -12646,13 +12674,13 @@
    "confidence": 0.5,
    "category": "Financials",
    "pipeline": 2,
-   "rationale": null,
+   "rationale": "There is zero company-specific evidence of Nebius as a target: all 2026 M&A reporting has Nebius as the acquirer (Eigen AI, AI21 Labs, Tavily), Nvidia's 9.3% stake is an explicitly passive 13G, and Volozh's 10:1 Class B control means any deal requires a founder who is publicly emphatic about independent growth. The critique fairly notes that dual-class control blocks hostile but not consensual deals and that the Yandex asset sale shows Volozh can transact — but a consensual sale still requires an initiated process with lead-time (announced review, banker mandate, leaks), none of which exists, and the remaining window to 2026-12-31 is only a few months, mechanically shrinking hazard exposure below the 13-month base rate of ~1-2%. Polymarket's 14.5% is the one contrary signal, but it has drifted down from 24.5%, has no corroborating reporting behind it, and such 'will X be acquired' binaries are chronically overpriced by narrative/lottery-ticket retail flow. I therefore sit modestly below both forecasters' midpoint, retaining a real premium above pure base rate for unverifiable AI-infrastructure consolidation tail risk: 5.5% Yes.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/1097",
    "has_trace": true
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-12T07:55:03.258Z",
+  "last_sync": "2026-09-12T17:45:02.967Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -13564,6 +13592,38 @@
    "pipeline": 2,
    "rationale": "The rules cite 'Opus 5.1' as a qualifying example, so Opus 5 (released July 24) almost certainly does not resolve this; a successor is needed within ~3 weeks of the latest research date. However, the critique's 'mispricing' thesis is weakened by timing: the +40pp move occurred over the 30 days ending Sept 11, well after Opus 5's release, so traders appear to be pricing a successor (plausibly expecting an Opus 5.1 to follow Fable/Mythos 5.1, consistent with Anthropic's 57–111 day 2026 Opus cadence). Countervailing evidence — no Opus 5.1 leaks, flagship attention shifting to Mythos/Fable, and the short remaining window — justifies a meaningful discount from the 77.5% anchor. Balancing the market signal against the reference-class and branding-shift concerns, I land at roughly 60% Yes, between the two forecasts but closer to the market-informed view.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/2833",
+   "has_trace": true
+  }
+ ],
+ "Will any AI model reach 1520 Overall Arena Score by September 30, 2026?": [
+  {
+   "id": 2859,
+   "scanned_at": "2026-09-12T17:00:22.103808",
+   "date": "2026-09-12",
+   "agent": 87,
+   "market_price_t0": 90.8,
+   "edge": -0.038000000000000034,
+   "confidence": 0.5,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "The Polymarket anchor at 90.9% YES is the strongest signal: with days to close and $87K volume, traders likely have direct access to the official arena.ai page, which the brief could not retrieve, so the market probably knows whether ~1520 has already been crossed. Tracker snapshots (1505–1512, one 1525 claim) and multiple frontier releases (GPT-6 Astra, Opus 4.8) landing right before Sep 30 make the remaining 10–15 points plausible, and the unverified 1525 claim is asymmetric upside for YES. The critique's points about the July re-baseline, decelerating growth, and the 74% model consensus justify only a modest discount, since those model estimates were built from lagging aggregator data rather than the informed late-window market price. I therefore land slightly above both forecasters and just below the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2859",
+   "has_trace": true
+  }
+ ],
+ "Will Legacy Win the FISSURE Playground 3?": [
+  {
+   "id": 2851,
+   "scanned_at": "2026-09-12T09:49:37.360883",
+   "date": "2026-09-12",
+   "agent": 38,
+   "market_price_t0": 35,
+   "edge": 0.030000000000000027,
+   "confidence": 0.6699999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "No Kalshi price exists, so the Polymarket 35% event price is the anchor, and the bracket math broadly reconciles with it: Legacy is a ~72% favorite over MIBR in the semifinal and then must win a Bo5 final. The critique is right that the final-round probability should be blended across opponents — roughly a coin flip vs G2 (63.5% to reach the final) but a clearer favorite vs BetBoom (36.5%) — which lifts the implied final win rate to ~52% and the product to ~37-38%. Legacy's undefeated group run (including a 2-0 over pre-event favorite FURIA), #8 ranking, HLTV's 'most consistent team' framing, absence of all elite teams, and a thin but rising market all justify a slight lean above the anchor. Two elimination series against live contenders still leave substantial upset risk, so No remains the more likely outcome.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2851",
    "has_trace": true
   }
  ]

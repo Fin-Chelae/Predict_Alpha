@@ -2179,6 +2179,20 @@
  ],
  "Will Anthropic have the best Code Arena | WebDev AI at the end of September 2026?": [
   {
+   "id": 2870,
+   "scanned_at": "2026-09-13T02:41:09.849889",
+   "date": "2026-09-13",
+   "agent": 22,
+   "market_price_t0": 20.5,
+   "edge": 0.015000000000000013,
+   "confidence": 0.55,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "OpenAI's GPT-6 Astra holds #1 as of the latest (Sept 8) snapshot with a 35–130 Elo margin over Anthropic's best, and Anthropic just spent its major release (Fable 5.1) on Sept 1 with no confirmed follow-up before Sept 30. The observed leadership churn was release-driven rather than random drift, so the memoryless-flip argument overstates Anthropic's chances; Astra is freshly launched and could widen its lead. However, the critique is right that Anthropic's ~5-week cadence makes a late-September update or 'max'/thinking variant not implausible, and a ~35-point gap to the Fable 5.1 score is closable, so I nudge slightly above the two forecasts. With no Kalshi quote, Polymarket's 20.5% is the primary anchor, and 22% Yes reflects that anchor plus modest weight on Anthropic's demonstrated ability to retake #1 quickly.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2870",
+   "has_trace": true
+  },
+  {
    "id": 2564,
    "scanned_at": "2026-09-03T10:30:59.647986",
    "date": "2026-09-03",
@@ -12680,7 +12694,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-12T17:45:02.967Z",
+  "last_sync": "2026-09-13T08:18:02.514Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -13624,6 +13638,86 @@
    "pipeline": 2,
    "rationale": "No Kalshi price exists, so the Polymarket 35% event price is the anchor, and the bracket math broadly reconciles with it: Legacy is a ~72% favorite over MIBR in the semifinal and then must win a Bo5 final. The critique is right that the final-round probability should be blended across opponents — roughly a coin flip vs G2 (63.5% to reach the final) but a clearer favorite vs BetBoom (36.5%) — which lifts the implied final win rate to ~52% and the product to ~37-38%. Legacy's undefeated group run (including a 2-0 over pre-event favorite FURIA), #8 ranking, HLTV's 'most consistent team' framing, absence of all elite teams, and a thin but rising market all justify a slight lean above the anchor. Two elimination series against live contenders still leave substantial upset risk, so No remains the more likely outcome.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/2851",
+   "has_trace": true
+  }
+ ],
+ "Will the Houthis enter Saudi Arabia by October 31?": [
+  {
+   "id": 2875,
+   "scanned_at": "2026-09-13T07:26:36.561914",
+   "date": "2026-09-13",
+   "agent": 14,
+   "market_price_t0": 10,
+   "edge": 0.04000000000000001,
+   "confidence": 0.56,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Both forecasters converge near the thin Polymarket anchor (10%), and the core evidence supports No: two months of renewed hostilities have been entirely missile/drone/naval, analysts describe a managed infrastructure war, Saudi border defenses are strong, and the window is only ~7 weeks. The critique's strongest points are that the Polymarket price is too thin (3 data points, $15K) to anchor tightly on, and that the resolution bar may be low — 2015-2018 small-unit cross-border raids were reported as incursions by credible outlets, and the current escalation ladder has climbed quickly, with a possible Saudi ground move into Yemen as a tit-for-tat trigger. I therefore nudge modestly above both forecasts to 14% rather than moving dramatically, since no ground activity has been reported at all and the question explicitly requires physical entry, not projectile impacts.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2875",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic's initial public offering occur in October 2026 (ET)?": [
+  {
+   "id": 2872,
+   "scanned_at": "2026-09-13T05:04:46.355559",
+   "date": "2026-09-13",
+   "agent": 53,
+   "market_price_t0": 59.5,
+   "edge": -0.06499999999999995,
+   "confidence": 0.575,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "The critique's central claim that both forecasts sit above the 59.5% anchor is factually wrong (both are below it), but its mechanical scheduling point has merit: a mid-October roadshow leaves only ~2 weeks before month-end, and mega-IPOs routinely slip a week or more. That said, the Reuters phrasing 'just days before' the Nov 3 (Tuesday) midterms most naturally maps to a Wed–Fri Oct 28–30 first trade, since Monday Nov 2 debuts are unusual and pricing after the election contradicts the stated intent — so if the current schedule holds, October is actually the modal month. The offsetting factors are real and independent: one slip already occurred, the company retains 'market conditions' optionality, ample private capital reduces urgency, and the small tail of no IPO at all also resolves No. Weighing a realistic ~55-60% probability the announced schedule holds within a few days against meaningful slippage risk, I land slightly below the declining market anchor at 53% Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2872",
+   "has_trace": true
+  }
+ ],
+ "Will OpenAI's valuation hit (HIGH) $2.0T by December 31?": [
+  {
+   "id": 2867,
+   "scanned_at": "2026-09-13T00:13:26.059639",
+   "date": "2026-09-13",
+   "agent": 14,
+   "market_price_t0": 17,
+   "edge": -0.03,
+   "confidence": 0.6799999999999999,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "The latest confirmed OpenAI mark is $852B (March 2026 primary), reaffirmed flat by the August 2026 $7B secondary tender, so hitting $2T requires a ~135% re-mark in roughly four months with no announced mega-round and an IPO explicitly pushed to 2027 with a >$1T (not $2T) target. NPM moves in discrete steps tied to primary rounds or tenders, and the two most recent data points show inertia rather than acceleration, which undercuts the quant model's trend-continuation scenarios. The critique correctly notes that Anthropic's rapid secondary jump to ~$1.5T shows step-changes can happen fast and that a surprise SoftBank/Nvidia-style tranche is an unquantified pathway, so I keep a meaningful tail rather than going below both forecasters. Polymarket's thin 17% is the only consensus proxy; shading slightly below it to ~14% reflects the flat August mark and IPO slip while respecting the rising market trend and sector froth.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2867",
+   "has_trace": true
+  }
+ ],
+ "Will the 10-year Treasury yield dip below 3.8% before 2027?": [
+  {
+   "id": 2864,
+   "scanned_at": "2026-09-12T21:50:06.169378",
+   "date": "2026-09-12",
+   "agent": 8,
+   "market_price_t0": 13.3,
+   "edge": -0.053000000000000005,
+   "confidence": 0.71,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Spot 10Y is ~4.95%, roughly 115bp above the 3.8% barrier with under four months left, and the window's documented low (4.14% in Nov 2025) confirms no prior trigger; the Nov 11-14, 2025 data gap is a negligible risk since yields were ~4.1% around that time. Every macro driver (hawkish Fed repricing toward hikes, core PCE 3.3%, oil shock, heavy supply, Kalshi-adjacent buckets favoring year-end ≥4.75%) points against a rapid rally, making a 115bp barrier touch a ~2-sigma-plus event even with elevated realized vol. The critique is right that the Polymarket YES price rising to 13.3% amid a yield surge is unexplained and that regime-shift precedents (80bp moves in months) argue against a naive Gaussian tail, so I nudge slightly above the two forecasts rather than fully discounting the market. A sudden Iran de-escalation plus growth/financial-stress shock is the only plausible path to YES, warranting a modest but non-trivial tail of ~8%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2864",
+   "has_trace": true
+  }
+ ],
+ "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?": [
+  {
+   "id": 2861,
+   "scanned_at": "2026-09-12T19:24:41.809894",
+   "date": "2026-09-12",
+   "agent": 27,
+   "market_price_t0": 22.4,
+   "edge": 0.04550000000000001,
+   "confidence": 0.545,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Both forecasters drew the same inference from the sub-questions: Bruce is a confirmed candidate with no exclusion risk who led polls through July but now narrowly trails the Renovación Popular list (IEP Sept: 20.1% vs 17.1%; Ipsos Aug: López Aliaga 21%), with Polymarket at ~22% after falling from a ~39% peak. The critique correctly notes the anchoring convergence and the unexplored Rubio-as-nominal-alcalde dynamic, but that structural quirk is already visible to voters in the polls and cuts ambiguously, so it does not justify a large move. The ~47% undecided bloc and Lima's history of late surges (Urresti near-misses, Villarán 2010) argue for genuine two-sided volatility, including a real chance a third candidate consolidates, which caps Bruce below a naive 'coin-flip tie' reading. I land modestly above the Polymarket anchor at 0.27, reflecting his name recognition and true statistical tie in top-line polling, but keeping him a clear underdog against the RP machine's momentum.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2861",
    "has_trace": true
   }
  ]

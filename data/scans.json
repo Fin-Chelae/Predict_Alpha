@@ -307,6 +307,20 @@
  ],
  "Gemini 4.0 released by September 30, 2026?": [
   {
+   "id": 2886,
+   "scanned_at": "2026-09-13T17:00:41.681074",
+   "date": "2026-09-13",
+   "agent": 10,
+   "market_price_t0": 16.5,
+   "edge": -0.065,
+   "confidence": 0.77,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "With roughly two weeks to the deadline, there is no Gemini 4 model string in any Google platform, Google has only confirmed pre-training began in July, and the flagship Gemini 3.5 Pro remains unshipped after months of quality-driven delays; cadence extrapolation and secondary market odds both cluster the release in October–November. The critique's strongest points (a rumored September Flash-Lite, Google's fast Flash-tier shipping, definitional looseness, and a noisy low-volume anchor) justify a modest tail above the forecasters' 8%, but a 3.5 Pro release would not plausibly be 'recognized as Gemini 4,' and no credible source projects a pre-Oct 1 launch. I therefore land slightly above the consensus forecasts but below the declining 16.5% Polymarket price, since the window is nearly closed with zero concrete artifacts.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2886",
+   "has_trace": true
+  },
+  {
    "id": 2289,
    "url": "https://forecast.agenticlearning.ai/scans/v2/2289",
    "date": "2026-08-31",
@@ -2621,6 +2635,20 @@
  ],
  "Mitch McConnell steps down from Senate before his term ends?": [
   {
+   "id": 2879,
+   "scanned_at": "2026-09-13T09:52:31.242669",
+   "date": "2026-09-13",
+   "agent": 17,
+   "market_price_t0": 17.5,
+   "edge": -0.004999999999999977,
+   "confidence": 0.5700000000000001,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Both forecasters landed at the Polymarket anchor (~17.5%) and the critique does not expose a shared directional flaw, though it correctly notes the actuarial figures must be rescaled to the ~3.5-month remaining horizon: frailty-adjusted mortality/incapacity over that window is roughly 4-6%, not high-teens. The residual ~10-12% comes from voluntary or pressured resignation given a three-month absence, no confirmed public reappearance as of mid-September, Beshear/media pressure, and Kentucky's special-election law removing the GOP disincentive to vacate. Against this, McConnell's explicit July 12 reaffirmation that he will retire only at term's end, colleagues' expectation of an imminent return, and his consistent refusal to resign through prior health scares (2023-2024) anchor the No case. Since Yes plausibly includes death or incapacity vacating the seat, I keep Yes near the market at 17% rather than moving below it, and see no evidence beyond what the market has priced to justify moving above it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2879",
+   "has_trace": true
+  },
+  {
    "id": 2529,
    "scanned_at": "2026-09-03T00:11:07.024548",
    "date": "2026-09-03",
@@ -2678,6 +2706,20 @@
   }
  ],
  "Nigel Farage out as Reform UK leader by December 31, 2026?": [
+  {
+   "id": 2881,
+   "scanned_at": "2026-09-13T12:14:03.219844",
+   "date": "2026-09-13",
+   "agent": 13,
+   "market_price_t0": 13.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.635,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Both forecasters converged tightly around the 13.5% Polymarket anchor and drew the same inferences from every sub-question: Farage remains leader, has explicitly committed to leading into the next general election, and the donations scandals have so far claimed aides rather than him. The critique's strongest point is the undifferentiated treatment of the Met Police probe, but a criminal charge against Farage personally within ~3.5 months is unlikely given typical UK investigation timelines, and its claim that prior exits were scandal-driven is factually weak (2009, 2016, 2021 exits followed strategic or electoral milestones, not scandals). The Yusuf succession 'hint' was immediately countered by Farage's own 'no question' commitment and there is no active challenge mechanism. The illiquid 'Next PM' market is not a reliable check. I land at 13% YES, essentially at the anchor, with the remaining mass reflecting genuine tail risk from the live criminal investigation and Farage's historical volatility.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2881",
+   "has_trace": true
+  },
   {
    "id": 2526,
    "scanned_at": "2026-09-02T23:18:39.439239",
@@ -12694,7 +12736,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-13T08:18:02.514Z",
+  "last_sync": "2026-09-13T18:12:23.563Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -13718,6 +13760,22 @@
    "pipeline": 2,
    "rationale": "Both forecasters drew the same inference from the sub-questions: Bruce is a confirmed candidate with no exclusion risk who led polls through July but now narrowly trails the Renovación Popular list (IEP Sept: 20.1% vs 17.1%; Ipsos Aug: López Aliaga 21%), with Polymarket at ~22% after falling from a ~39% peak. The critique correctly notes the anchoring convergence and the unexplored Rubio-as-nominal-alcalde dynamic, but that structural quirk is already visible to voters in the polls and cuts ambiguously, so it does not justify a large move. The ~47% undecided bloc and Lima's history of late surges (Urresti near-misses, Villarán 2010) argue for genuine two-sided volatility, including a real chance a third candidate consolidates, which caps Bruce below a naive 'coin-flip tie' reading. I land modestly above the Polymarket anchor at 0.27, reflecting his name recognition and true statistical tie in top-line polling, but keeping him a clear underdog against the RP machine's momentum.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/2861",
+   "has_trace": true
+  }
+ ],
+ "Will Iran target an Arab country by October 31, 2026?": [
+  {
+   "id": 2883,
+   "scanned_at": "2026-09-13T14:38:18.547465",
+   "date": "2026-09-13",
+   "agent": 76,
+   "market_price_t0": 77.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.635,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "The structural case for YES is strong: an active, un-ceasefired Iran–US/Israel war with clearly Iran-attributed strikes on Jordan, Kuwait, Bahrain, and UAE as recently as Sept 1–3, and ~7 weeks remaining for the established US-strike → Iranian-counterstrike-on-Gulf-bases cycle to recur. However, the critique correctly notes that both forecasts nudged above the market without modeling the two real NO paths: a ceasefire emerging from the ongoing MOU talks, and the strict attribution rule that would exclude proxy/Iraq-origin attacks like the disputed Sept 10–11 pipeline strike (a plausible deliberate substitution strategy). The Polymarket decline from 85% to 77.5% alongside the 8-day lull suggests traders are weighing these paths, and the timeline itself shows a multi-month gap (April–July) where no direct strikes are documented, so lulls can extend. I therefore anchor at or slightly below the market rather than above it, keeping YES as the clear favorite.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2883",
    "has_trace": true
   }
  ]

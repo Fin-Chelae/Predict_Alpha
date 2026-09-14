@@ -2015,6 +2015,20 @@
  ],
  "Will any aircraft land or take off at Kyiv Boryspil Airport by October 31?": [
   {
+   "id": 2898,
+   "scanned_at": "2026-09-14T02:27:35.567449",
+   "date": "2026-09-14",
+   "agent": 8,
+   "market_price_t0": 9.5,
+   "edge": -0.015,
+   "confidence": 0.755,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Both forecasters and the identical Polymarket contract (9.5%, trending down) point to a low-probability event: Boryspil has had zero manned movements in ~4.5 years, EASA/FAA bans remain in force, the working group is pre-decisional, and strikes hit the Boryspil district as recently as August with September's talks collapsing within a day. The critique is right that the question's low bar (any single manned landing/takeoff, including diplomatic or symbolic) and non-stationary conditions (active talks, airport-truce proposal) mean the historical ~0% base rate understates current risk somewhat, so I don't shade as far below the market as the two forecasts did. However, even a sudden ceasefire breakthrough would likely take longer than the ~7 remaining weeks to produce an actual flight given safety-certification requirements, and no Boryspil-bound VIP visit or corridor plan is identified. I land at 8% YES, between the forecasters' 6-7% and the thin market's 9.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2898",
+   "has_trace": true
+  },
+  {
    "id": 2575,
    "scanned_at": "2026-09-03T14:29:15.261844",
    "date": "2026-09-03",
@@ -4902,6 +4916,20 @@
   }
  ],
  "Pete Hegseth out as Secretary of Defense by December 31?": [
+  {
+   "id": 2894,
+   "scanned_at": "2026-09-14T00:06:58.019422",
+   "date": "2026-09-14",
+   "agent": 25,
+   "market_price_t0": 23.5,
+   "edge": 0.015000000000000013,
+   "confidence": 0.605,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "The closest direct anchor is Polymarket at 23.5% YES with a modest recent uptick, and both forecasters cluster around it (22% and 28%). The critique's push toward the 30-44% historical hazard misapplies a 12-16 month conditional rate to a ~3.5-month remaining window, where a flat hazard would imply only ~10%; the market is already pricing substantially elevated scandal risk above that baseline. Real upward catalysts exist — the loose 'announcement' resolution criterion, a post-midterm recalibration if Republicans lose badly, escalating boat-strike investigations, and the Kalshi 'next SecDef' market implying higher turnover on a longer horizon — but Trump has repeatedly defended Hegseth with no replacement vetting reported and is described as politically 'stuck' amid the Iran conflict. Netting these, I land slightly above the market at 25% YES, between the two forecasts and leaning toward the higher-confidence Forecast 2.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2894",
+   "has_trace": true
+  },
   {
    "id": 2345,
    "scanned_at": "2026-08-31T15:15:11.531109",
@@ -12736,7 +12764,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-13T18:12:23.563Z",
+  "last_sync": "2026-09-14T08:54:36.804Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -13776,6 +13804,102 @@
    "pipeline": 2,
    "rationale": "The structural case for YES is strong: an active, un-ceasefired Iran–US/Israel war with clearly Iran-attributed strikes on Jordan, Kuwait, Bahrain, and UAE as recently as Sept 1–3, and ~7 weeks remaining for the established US-strike → Iranian-counterstrike-on-Gulf-bases cycle to recur. However, the critique correctly notes that both forecasts nudged above the market without modeling the two real NO paths: a ceasefire emerging from the ongoing MOU talks, and the strict attribution rule that would exclude proxy/Iraq-origin attacks like the disputed Sept 10–11 pipeline strike (a plausible deliberate substitution strategy). The Polymarket decline from 85% to 77.5% alongside the 8-day lull suggests traders are weighing these paths, and the timeline itself shows a multi-month gap (April–July) where no direct strikes are documented, so lulls can extend. I therefore anchor at or slightly below the market rather than above it, keeping YES as the clear favorite.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/2883",
+   "has_trace": true
+  }
+ ],
+ "Will OpenAI release a social network in 2026?": [
+  {
+   "id": 2907,
+   "scanned_at": "2026-09-14T08:28:45.381157",
+   "date": "2026-09-14",
+   "agent": 34,
+   "market_price_t0": 41.5,
+   "edge": -0.07499999999999996,
+   "confidence": 0.535,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "The event title specifies a release 'in 2026', and the Polymarket contract traded at a 5.5% low while Sora was live and publicly accessible, which strongly implies traders and the resolution rules do not count Sora's Sept 2025 launch — so the critique's 'Sora already satisfies it' argument is mostly neutralized by revealed market pricing. Sora's April 2026 discontinuation and OpenAI's enterprise/compute/IPO pivot are bearish for a new consumer social launch, but the sharp thin-volume rally from 5.5% to 41.5% has no identified catalyst in the brief, which raises the possibility of unreported new information (e.g., progress on the biometric 'human-only' network or ChatGPT-integrated social features), and OpenAI has shown it can ship a social product within ~5 months of a rumor. The 'standalone or integrated' clause also lowers the bar somewhat. I therefore stay a bit above both forecasters (who may be over-discounting a market that is rallying on unknown news) but below the noisy Polymarket anchor, at ~34% YES.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2907",
+   "has_trace": true
+  }
+ ],
+ "US x Cuba military clash in 2026?": [
+  {
+   "id": 2906,
+   "scanned_at": "2026-09-14T07:53:30.504951",
+   "date": "2026-09-14",
+   "agent": 10,
+   "market_price_t0": 7.5,
+   "edge": 0.02500000000000001,
+   "confidence": 0.5800000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Both forecasters converge near 8-9%, slightly above the Polymarket 7.5% anchor, and the critique's strongest points are that the anchor is a thin, volatile proxy and that concrete operational signals (Pentagon options, 'on the table', indictment) arrived after much of the price decline. However, the Polymarket contract resolves on this same event and window, so the critique's 'annualized sentiment' argument does not hold — traders were pricing the remaining ~4 months and still moved down through the August escalation, indicating they read the rhetoric as coercive rather than pre-attack. No qualifying clash had occurred by early September, diplomatic and military channels remained open, and the historical base rate is near zero. I nudge modestly above both forecasts to reflect an administration that has actually used force in the region, forces positioned awaiting only a presidential decision, and a plausible definitional pathway via a Coast Guard/Border Guard or drone incident, but 'No' remains strongly favored.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2906",
+   "has_trace": true
+  }
+ ],
+ "Will there be 0 hurricanes during the Atlantic Hurricane Season in 2026?": [
+  {
+   "id": 2904,
+   "scanned_at": "2026-09-14T07:14:27.015067",
+   "date": "2026-09-14",
+   "agent": 22,
+   "market_price_t0": 25,
+   "edge": -0.03,
+   "confidence": 0.575,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "The relevant question is the conditional probability of zero hurricanes from mid-September through Nov 30, not the unconditional 0/112 base rate, which the critique over-weights; the brief's λ≈3–4 Poisson estimate covers Aug–Nov and is stale given no hurricane formed through Sept 13. Among El Niño analog seasons (1972, 1982, 1983, 1986, 1991, 1994, 1997, 2002, 2006, 2009, 2015), roughly two (1972, 1997) produced no hurricanes after mid-September and most produced only 1–2, implying λ≈1.2–1.5 and P(0)≈22–30%; 2026's suppression (ACE ~11% of normal, no formation expected for a week) is even stronger than typical analogs, supporting the higher end. Offsetting this, no season on record has ended hurricane-free, October Caribbean/Gulf development is a reliable hurricane source even in quiet years, and analysts frame this as a delayed rather than absent hurricane. I land slightly below the thin Polymarket anchor at 22% YES, between the two forecasts.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2904",
+   "has_trace": true
+  }
+ ],
+ "OKX IPO in 2026?": [
+  {
+   "id": 2900,
+   "scanned_at": "2026-09-14T04:49:35.655247",
+   "date": "2026-09-14",
+   "agent": 6,
+   "market_price_t0": 7.5,
+   "edge": -0.015,
+   "confidence": 0.78,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Both forecasters drew the same inferences from the sub-questions: no filing or bank mandate reported through Sept 2026, management explicitly deprioritizing a listing, a DOJ monitor through 2027, and a weak crypto-IPO window in which even Kraken paused despite an actual filing and '80% readiness.' With only ~3-4 months left and a typical filing-to-pricing lag well beyond that, completion is very unlikely. The critique correctly notes residual uncertainty the forecasters underweighted—confidential filings are not always reported, a Hong Kong or split listing could be faster, and the ICE relationship is an unexamined structural wildcard—which argues against shading far below the 7.5% market anchor. I settle at 6% Yes, slightly below the market given the compressed timeline and absence of any observed steps, but not as low as the individual forecasts.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2900",
+   "has_trace": true
+  }
+ ],
+ "Iran-Oman Hormuz Agreement by September 30?": [
+  {
+   "id": 2892,
+   "scanned_at": "2026-09-13T21:43:29.508106",
+   "date": "2026-09-13",
+   "agent": 18,
+   "market_price_t0": 19,
+   "edge": -0.010000000000000009,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "The Polymarket identical-ticker market at 19% (falling from 79%) already incorporates the Sept 13 Bloomberg 'unveiling' report, so the forecasters' nudge above the anchor double-counts that catalyst; the adjacent 'by Sept 14' market at 1.3% shows traders do not expect the Gulf-states unveiling to constitute a qualifying bilateral Iran-Oman declarative statement. The critique correctly highlights unaddressed downside: the deal is explicitly not a strait reopening and is tied to US concessions, the announcement format appears to be a briefing to Gulf nations rather than a joint Iran-Oman signing, and Defa Press suggests the formal traffic scheme is 30-60 days out. Serial 'final stage' claims since Aug 5 without a signed instrument, plus US pressure on Oman, reinforce the pattern of slippage. The 16 remaining days and grace window keep Yes materially above zero, but I land slightly below the anchor at 18%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2892",
+   "has_trace": true
+  }
+ ],
+ "Will the next Claude Opus model debut at a score of at least 1515 by December 31, 2026?": [
+  {
+   "id": 2888,
+   "scanned_at": "2026-09-13T19:23:09.752531",
+   "date": "2026-09-13",
+   "agent": 20,
+   "market_price_t0": 33.5,
+   "edge": -0.135,
+   "confidence": 0.5,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Both forecasters converged at 23-24% by splitting the difference between the thin, range-bound Polymarket anchor (33.5%) and a modeled fair value of ~13-20%; the critique correctly notes that the reference class (five Opus releases, none clearing ~1510, with 4.8 resolving <1480) plus Opus's demotion to third tier below Fable/Mythos argues for weighting the model more than the market. Decomposing: ~85-90% a new Opus lands on Arena by Dec 31, but conditional on release it must debut at or above the current leaderboard ceiling (~1505-1525) and 10+ points above any prior Opus debut, which looks like ~20-25% at best, yielding ~18-20% overall. The unresolved ambiguity over whether Opus 5/opus-5-max (~1505) already counts as the 'next' debut is asymmetric — if it counts, the outcome is essentially locked at No — which further cuts against YES. I shade slightly below both forecasters to 20% rather than the critique's 10-15%, because ceiling inflation and Arena re-baselining volatility leave a genuine upside tail that the market's premium over model value may partly reflect.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2888",
    "has_trace": true
   }
  ]

@@ -263,6 +263,20 @@
  ],
  "Will NVIDIA be the largest company in the world by market cap on September 30?": [
   {
+   "id": 2926,
+   "scanned_at": "2026-09-14T16:44:40.118454",
+   "date": "2026-09-14",
+   "agent": 83,
+   "market_price_t0": 82.8,
+   "edge": 0.0014999999999999458,
+   "confidence": 0.6000000000000001,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "The reported ~$700-900B (15-20%) NVIDIA lead over Apple with roughly two weeks to the Sept 30 snapshot would require an unusually large relative move to flip, and no NVIDIA earnings or scheduled negative catalyst precedes the close. However, the critique is right that both forecasters nudged above the only market anchor (Polymarket 82.85% YES) despite that price falling 14% in a week from a ~98% high — a signal that the true gap may be narrower or more fragile than the brief's possibly stale cap figures, as the July 2026 Apple-overtakes-NVDA flip and Apple's iPhone 17/CEO-transition catalysts illustrate. The 55% Monte Carlo is discounted for using outdated inputs, but the price erosion and the absence of a direct Kalshi quote argue for sitting at rather than above the market. I therefore anchor essentially on the Polymarket proxy at ~83% Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2926",
+   "has_trace": true
+  },
+  {
    "id": 2294,
    "url": "https://forecast.agenticlearning.ai/scans/v2/2294",
    "date": "2026-08-31",
@@ -424,6 +438,20 @@
   }
  ],
  "Will Anthropic have the highest IPO Market Cap 2026?": [
+  {
+   "id": 2914,
+   "scanned_at": "2026-09-14T11:42:00.073200",
+   "date": "2026-09-14",
+   "agent": 47,
+   "market_price_t0": 46.5,
+   "edge": 0.004999999999999949,
+   "confidence": 0.54,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Anthropic is clearly the leading 2026 mega-IPO candidate: active S-1, top-tier syndicate, mid-October target, $965B private mark, and OpenAI effectively conceding 2026. But resolution requires two things to go right—actually pricing before Dec 31 after one slip already, and clearing SpaceX's completed 2026 first-day market cap, which the brief never quantifies and which could plausibly be on the order of $1T+ given SpaceX's scale, so the comp risk is not negligible as the critique suggests. The critique correctly notes anchoring, but the market's 46.5% already reflects most of the bullish fundamentals and its recent drop plausibly tracks the October delay news. I keep the call near the anchor and both forecasts, with No narrowly favored on execution and comp-valuation risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2914",
+   "has_trace": true
+  },
   {
    "id": 2694,
    "scanned_at": "2026-09-07T00:13:37.367418",
@@ -1324,6 +1352,20 @@
   }
  ],
  "Will Anthony Fauci be arrested before 2027?": [
+  {
+   "id": 2924,
+   "scanned_at": "2026-09-14T16:11:15.509540",
+   "date": "2026-09-14",
+   "agent": 7,
+   "market_price_t0": 8.6,
+   "edge": -0.0155,
+   "confidence": 0.65,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Both forecasts sit at the Polymarket proxy (8.55%, declining), and the fundamentals modestly support going a bit below it: no indictment or confirmed grand jury against Fauci personally, Trump explicitly declining to challenge the pardon, and Aug 27 reporting that prosecution efforts are 'hitting a wall.' The critique is partly wrong on timelines — Bannon and Navarro were indicted within 1-2 months of referral and Navarro was physically arrested — so the contempt-for-2026-conduct path remains a real, pardon-proof tail with ~3.5 months left and an aggressive US Attorney (Pirro) holding the decision. But the critique is right that 'arrest' is a stricter bar than 'charged' (an 85-year-old defendant would likely get a summons or negotiated surrender), and the Oklahoma state-level rumor is too unsubstantiated to add meaningful mass. Netting the live DOJ referral and broader probe against stalled momentum and the short window, I land slightly below the market at 7% Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2924",
+   "has_trace": true
+  },
   {
    "id": 2479,
    "url": "https://forecast.agenticlearning.ai/scans/v2/2479",
@@ -2808,6 +2850,20 @@
   }
  ],
  "Will Google be the second-best AI lab at the end of September 2026?": [
+  {
+   "id": 2930,
+   "scanned_at": "2026-09-14T18:45:53.806368",
+   "date": "2026-09-14",
+   "agent": 57,
+   "market_price_t0": 69.5,
+   "edge": -0.125,
+   "confidence": 0.48,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "The resolution source is the arena.ai Text Arena Lab Rank on a single snapshot, and the brief never pins down the live #2, so the sharp +36pp move to 69.5% YES in the final week is the most direct (if thin) signal that Gemini currently sits #2 behind Anthropic — Gemini models historically over-index on Text Arena relative to Intelligence Index-style benchmarks, so the Sept Artificial Analysis ranking that excludes Google is weak counter-evidence for this specific board. However, every confirmed 2026 Arena snapshot shows Google in a near-statistical-tie cluster (#2-#4 within ~10-20 Elo) with OpenAI, xAI, and now Meta, and Google has no Pro-flagship before close while competitors ship frequently, so any late release or re-baseline could flip the ordering. The critique is right that both forecasters lean too hard on a thin, volatile market, but it overstates the case for No: the base-rate objection concerns 'undisputed' #2, whereas the market only requires Google to hold the #2 slot at check time, which is roughly a 3-way coin flip tilted toward Google if the recent price move reflects the live board. I settle between the two forecasts, shading below the market for liquidity and cluster-flip risk but staying Yes-leaning.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2930",
+   "has_trace": true
+  },
   {
    "id": 2522,
    "scanned_at": "2026-09-02T21:38:56.471789",
@@ -5725,6 +5781,20 @@
  ],
  "Clarity Act (H.R.3633) signed into law in 2026?": [
   {
+   "id": 2923,
+   "scanned_at": "2026-09-14T15:35:54.570114",
+   "date": "2026-09-14",
+   "agent": 26,
+   "market_price_t0": 27.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.5549999999999999,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Both forecasters and both prediction markets (Polymarket ~27.5%, Kalshi <25%) converge on roughly a one-in-four chance, and the brief contains no information beyond what the market has priced. The critique's concerns pull in opposite directions: a bottom-up chain (cloture with only 2 confirmed Democrats vs. 7+ needed → Senate floor passage → House concurrence or conference → signature in a compressed midterm/lame-duck calendar) argues for a somewhat lower number, while the sharp +13pt Polymarket move into the 9/15 cloture vote, active Trump/Bessent/Armstrong lobbying, and the GENIUS Act precedent argue that a live path exists. Since the pivotal cloture outcome is unconfirmed, the appropriate stance is to stay near the well-informed market consensus rather than lean either way. I settle at 26% YES, nudged marginally toward the higher-volume Polymarket read.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2923",
+   "has_trace": true
+  },
+  {
    "id": 2698,
    "scanned_at": "2026-09-07T02:33:25.397930",
    "date": "2026-09-07",
@@ -6229,6 +6299,20 @@
  ],
  "Will Anthropic have the best AI model at the end of October 2026?": [
   {
+   "id": 2932,
+   "scanned_at": "2026-09-14T19:26:56.158317",
+   "date": "2026-09-14",
+   "agent": 73,
+   "market_price_t0": 86.5,
+   "edge": -0.135,
+   "confidence": 0.5,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Anthropic currently holds #1 on arena.ai Text Arena Overall per two trackers, has just shipped its strongest models (Fable 5.1/Mythos 5.1), and occupies multiple top slots (Opus 4.8 and 4.7), which raises the odds that some Anthropic model sits at #1 on the Oct 31 snapshot even if individual rankings shuffle. However, the lead is under 50 Elo ('coin flip' range), GPT-6 Astra is already live and could climb as votes accumulate, a Gemini 4 launch is rumored for October explicitly to retake the top, and arena rankings have historically flipped with nearly every major lab release. The 86.5% Polymarket price is a thin-market proxy with a suspicious +12% weekly jump, so I weight it less than a liquid Kalshi quote would warrant. The critique correctly notes both forecasters may under-discount for flip risk, so I shade slightly below their 74-76% consensus to 73% while keeping Anthropic the clear favorite on incumbency and iteration momentum.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2932",
+   "has_trace": true
+  },
+  {
    "id": 2230,
    "scanned_at": "2026-08-30T06:22:12.190478",
    "date": "2026-08-30",
@@ -6260,6 +6344,20 @@
   }
  ],
  "Will Google be the third-best AI lab at the end of September 2026?": [
+  {
+   "id": 2920,
+   "scanned_at": "2026-09-14T14:20:16.868556",
+   "date": "2026-09-14",
+   "agent": 17,
+   "market_price_t0": 16.5,
+   "edge": 0.0050000000000000044,
+   "confidence": 0.515,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Both forecasts converge on the Polymarket anchor (16.5% YES) for the identical contract, and the critique does not surface evidence that would justify moving materially in either direction: thin liquidity and tiebreak randomness argue for slightly more uncertainty, while the July precedent (Google's third-place share collapsing toward ~0%) and the recent 7-day collapse from 65.5% argue the market may still be generous to Yes. Fundamentals favor No: Anthropic is a clear #1, OpenAI's GPT-5.5 Pro sits in the same ~1500-1510 cluster as Gemini 3.1 Pro, Google has shipped only Flash-tier updates with no confirmed flagship before Sept 30, and Meta adds a possible additional podium competitor. 'Exactly 3rd' is a narrow target in a near-tied 3-4 lab cluster, and a surprise Gemini flagship could push Google to #2 (also No) or fail to accrue enough votes before the snapshot. I hold at 17% YES, essentially at the market with offsetting adjustments.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2920",
+   "has_trace": true
+  },
   {
    "id": 2224,
    "scanned_at": "2026-08-30T04:47:31.424079",
@@ -7824,6 +7922,20 @@
   }
  ],
  "Will Moonshot be the second-best Chinese AI company at the end of September 2026?": [
+  {
+   "id": 2922,
+   "scanned_at": "2026-09-14T15:02:17.539965",
+   "date": "2026-09-14",
+   "agent": 26,
+   "market_price_t0": 24.5,
+   "edge": 0.015000000000000013,
+   "confidence": 0.41500000000000004,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Both forecasts converge at 25% YES, tightly anchored to the Polymarket price for this exact contract, and the critique does not expose a directional flaw: a naive base rate for exactly #2 in a rotating four-way race is ~25-33%, which independently validates the market anchor rather than challenging it. The 'Yes' outcome requires Moonshot to land at precisely #2 on the Arena Lab Rank on Sept 30, and Kimi K3's frontier-tier strength means the 'No' mass is plausibly split between #1 and #3-or-worse, so even a bullish read on K3 does not lift 'Yes' much. The Sept 10 Anthropic routing scandal may affect Polymarket sentiment more than Arena voting, and the market is thin, which justifies a very slight nudge above the 24.5% anchor, but with no verified live Lab Rank table there is no basis for a material deviation. Competing GLM-5.3, DeepSeek V4.1, and rumored Qwen releases plus the documented 1-3 month rank rotation keep the probability of holding this specific slot on a specific date near the base rate.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2922",
+   "has_trace": true
+  },
   {
    "id": 2083,
    "scanned_at": "2026-08-28T01:46:00.329671",
@@ -11475,6 +11587,20 @@
  ],
  "Will there be between 11 and 13 earthquakes of magnitude 7.0 or higher worldwide in 2026?": [
   {
+   "id": 2916,
+   "scanned_at": "2026-09-14T12:22:10.045819",
+   "date": "2026-09-14",
+   "agent": 17,
+   "market_price_t0": 14,
+   "edge": 0.03,
+   "confidence": 0.63,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "With ~11 M7.0+ events by mid-September and ~29% of the year remaining, Yes requires no more than two additional M7+ quakes; a Poisson model at the 1990–2025 rate (λ≈4.4) gives ~18%, while using the lower 2016–2025 mean (13.5/yr, λ≈3.9) pushes it toward ~25%, so the critique's sensitivity point is valid but bounded. Offsetting this upward pull, the brief is ambiguous on whether the September Colombia Mw7.5 is already in the tally of 11 (Al Jazeera reported 11 in mid-August), and if the true count is 12 the probability of ≤1 more event drops to ~7%; magnitude-revision risk is roughly symmetric. The one-month lull is not predictive under a Poisson process, so I don't credit it. Netting these, I land slightly above the Polymarket anchor (14%) and in line with both forecasters at 17% Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2916",
+   "has_trace": true
+  },
+  {
    "id": 1441,
    "scanned_at": "2026-08-18T01:36:04.796815",
    "date": "2026-08-18",
@@ -12764,7 +12890,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-14T08:54:36.804Z",
+  "last_sync": "2026-09-14T19:50:37.936Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -13900,6 +14026,134 @@
    "pipeline": 2,
    "rationale": "Both forecasters converged at 23-24% by splitting the difference between the thin, range-bound Polymarket anchor (33.5%) and a modeled fair value of ~13-20%; the critique correctly notes that the reference class (five Opus releases, none clearing ~1510, with 4.8 resolving <1480) plus Opus's demotion to third tier below Fable/Mythos argues for weighting the model more than the market. Decomposing: ~85-90% a new Opus lands on Arena by Dec 31, but conditional on release it must debut at or above the current leaderboard ceiling (~1505-1525) and 10+ points above any prior Opus debut, which looks like ~20-25% at best, yielding ~18-20% overall. The unresolved ambiguity over whether Opus 5/opus-5-max (~1505) already counts as the 'next' debut is asymmetric — if it counts, the outcome is essentially locked at No — which further cuts against YES. I shade slightly below both forecasters to 20% rather than the critique's 10-15%, because ceiling inflation and Arena re-baselining volatility leave a genuine upside tail that the market's premium over model value may partly reflect.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/2888",
+   "has_trace": true
+  }
+ ],
+ "Saudi Oil Pipeline (East-West) restarts by September 30?": [
+  {
+   "id": 2928,
+   "scanned_at": "2026-09-14T18:01:48.541271",
+   "date": "2026-09-14",
+   "agent": 43,
+   "market_price_t0": 47,
+   "edge": -0.03999999999999998,
+   "confidence": 0.565,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Both forecasters landed at 40% Yes, modestly below the Polymarket proxy of 47%, citing repair estimates (3–6 weeks from Sept 11, i.e., Oct 2 onward) that straddle or exceed the deadline, a destroyed pumping station, vague Saudi communications, and worsening regional security. The critique correctly notes that the partial-restart pathway is under-weighted: the question resolves on any official 'partially operational' declaration, AP sources explicitly mention partial flow sooner, a multi-station pipeline can often run at reduced throughput with one station bypassed, and the 5–7 day Yanbu buffer plus Bab el-Mandeb threats create intense pressure for a fast partial resumption. Against that, the market has been repricing sharply toward No as damage details emerged, and Saudi statements have shown no forward restart language. Balancing these, I stay close to the market anchor with a small haircut for the falling trend and the marginal-timing problem, landing at 43% Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2928",
+   "has_trace": true
+  }
+ ],
+ "U.S. enacts AI safety bill before 2027?": [
+  {
+   "id": 2927,
+   "scanned_at": "2026-09-14T17:25:49.737342",
+   "date": "2026-09-14",
+   "agent": 30,
+   "market_price_t0": 34.5,
+   "edge": -0.044999999999999984,
+   "confidence": 0.56,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Both forecasters converge near 0.28–0.30, slightly below the thin Polymarket anchor of 34.5%, and the critique's points largely offset each other: the low-liquidity, news-driven rally argues for discounting the market further, while the FY2027 NDAA must-pass vehicle and unresolved ambiguity over whether TAKE IT DOWN or the DeepSeek procurement ban already qualify argue for keeping meaningful Yes mass. No qualifying bill has passed both chambers, the House is out until after midterms leaving a ~6–7 week lame-duck window, and the administration favors preemption over new restrictions, so No remains clearly favored. However, Majority Leader Thune's direct involvement, OpenAI's lobbying shift, and the precedent of narrow AI riders on the NDAA make Yes a real tail rather than a negligible one. I land at 0.30 Yes, essentially agreeing with the consensus and a modest shade below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2927",
+   "has_trace": true
+  }
+ ],
+ "Will more than 8 tropical cyclones make landfall in China during 2026?": [
+  {
+   "id": 2919,
+   "scanned_at": "2026-09-14T13:44:23.503293",
+   "date": "2026-09-14",
+   "agent": 38,
+   "market_price_t0": 35.5,
+   "edge": 0.025000000000000022,
+   "confidence": 0.505,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Four CMA landfalls are confirmed through Aug 9, Saudel is probably a fifth, and Narra is an uncertain sixth, so the tally entering autumn is most likely 5 (possibly 6). CMA's Sept 2 outlook expects 2–4 more storms to landfall or affect China, and Krovanh's Japan landfall already consumed one autumn storm without counting, so reaching ≥9 requires the upper end of both the current count and the autumn forecast — roughly a 25–30% chance if the count is 5 and ~50% if it is 6. The critique correctly notes that both forecasts leaned toward the low end of the conditional model and that CMA's own 7–9 outlook makes the 18% unconditional base rate a weak reference class, which justifies a modest nudge above the thin, volatile Polymarket proxy at 35%. However, the sharp recent repricing lower likely reflects real information (e.g., Saudel/Narra status or a slower September), so I stay near the market rather than moving to the model's optimistic end.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2919",
+   "has_trace": true
+  }
+ ],
+ "Will WTI Crude Oil (WTI) hit (HIGH) $105 in September?": [
+  {
+   "id": 2917,
+   "scanned_at": "2026-09-14T13:03:51.269247",
+   "date": "2026-09-14",
+   "agent": 87,
+   "market_price_t0": 90.6,
+   "edge": -0.03649999999999998,
+   "confidence": 0.6799999999999999,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "WTI is at ~$102.52 with a September intraday high of $104.46, leaving a ~2.4% gap from spot (0.5% from the prior high) with roughly 12 trading sessions remaining. Re-running the reflection-principle barrier model at the actual spot ($102.5) and OVX ~60 (~13% one-sigma over the rest of the month) gives a touch probability near 80–85%; the critique's cited 45–75% grid used stale spot inputs of $95–100 and is not the right benchmark. The Polymarket anchor at ~91% is directionally consistent but thin and momentum-driven, and the April round-trip shows geopolitical premiums can unwind quickly, so I shade modestly below the market rather than above it. Resolution-mechanics uncertainty (active-month roll, need for an actual Pyth 1-min print) also warrants a small haircut. Final: ~87% YES.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2917",
+   "has_trace": true
+  }
+ ],
+ "AI wins IMO gold medal in 2026?": [
+  {
+   "id": 2913,
+   "scanned_at": "2026-09-14T11:01:08.087580",
+   "date": "2026-09-14",
+   "agent": 19,
+   "market_price_t0": 35,
+   "edge": -0.15999999999999998,
+   "confidence": 0.585,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Resolution requires a formal declaration by the IMO Grand Challenge or AIMO, and as of the post-September 2026 research window neither has certified any AI: the Grand Challenge's Lean formal-to-formal protocol is still unresolved and the AIMO $5M grand prize is unawarded, with only roughly one quarter left in the year. The 2025 analog resolved NO even after DeepMind's officially IMO-graded gold, so the many 2026 self-reported gold/perfect-score claims do not move the needle on the strict criterion. The critique is right that Polymarket's collapse from 88% to 27.5% already prices in much of this strictness, so I shade below the proxy only modestly, mainly for the short remaining window and the absence of any evidence a lab is pursuing formal certification. I retain ~19% for tail paths: a lenient resolver reading, a discretionary AIMO award under PR pressure, or the reported Lean-formalized proof being recognized by the Grand Challenge before year-end.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2913",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic's market cap be between $2.0T and $2.25T at market close on IPO day?": [
+  {
+   "id": 2912,
+   "scanned_at": "2026-09-14T10:19:32.482748",
+   "date": "2026-09-14",
+   "agent": 22,
+   "market_price_t0": 24.6,
+   "edge": -0.025999999999999995,
+   "confidence": 0.49,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "The Polymarket anchor (24.55%, rising) is the best available consensus signal, and banker chatter converging on ~$2T pricing with a mid-October 2026 timeline makes this bucket genuinely live rather than a tail. However, the critique correctly notes that 'No' aggregates several independent paths: IPO slippage past the resolution window (the timeline has already shifted once), pricing below $2.0T (FutureSearch median $1.82T, last confirmed private mark $965B), and overshoot above $2.25T if bankers hit $2T and a typical single-digit-to-teens pop follows — the last of which is especially plausible given the bucket's lower bound sits exactly at the target. Decomposing roughly: ~80% chance of an IPO in the window, times ~25-30% conditional probability of landing in this narrow ~11%-wide band, yields ~20-24%. The thin Polymarket liquidity and the ~7.7% illustrative model gap argue against shading above market, so I land slightly below the anchor and both forecasters at 22%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2912",
+   "has_trace": true
+  }
+ ],
+ "Houthis enter Aden by September 30, 2026?": [
+  {
+   "id": 2910,
+   "scanned_at": "2026-09-14T09:41:00.286549",
+   "date": "2026-09-14",
+   "agent": 19,
+   "market_price_t0": 18.5,
+   "edge": 0.0050000000000000044,
+   "confidence": 0.53,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Both forecasters converge near the Polymarket proxy (18.5%), and the critique is right that this thin, declining signal may lag the Sept 10-14 developments (Mocha's fall, unconfirmed encirclement claims), so I don't shade below it as Forecast 1 did. Countervailing factors keep No strongly favored: the western approach runs through excluded Al Buraiqeh, so a qualifying entry likely requires pushing through Lahj into Sheikh Othman/Dar Saad within ~16 days; civilians are still fleeing into Aden as a refuge, indicating defenders hold the city; and the strict physical-entry criterion means bombardment or encirclement alone won't resolve Yes. The genuinely novel conditions (truce collapse, coalition coordination failures, PLC-Southern Resistance fragmentation, STC reactivation) create a real tail for a rapid capitulation like the Jan 2026 STC collapse, which justifies staying at or slightly above the market rather than below. Final call: ~19% Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2910",
+   "has_trace": true
+  }
+ ],
+ "Will AI solve 3 more Millennium Prize Problems in 2026?": [
+  {
+   "id": 2909,
+   "scanned_at": "2026-09-14T09:04:22.553463",
+   "date": "2026-09-14",
+   "agent": 3.5,
+   "market_price_t0": 7.1,
+   "edge": -0.03649999999999999,
+   "confidence": 0.72,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "With ~3.5 months left, zero of the five qualifying problems (BSD, Hodge, P vs NP, Riemann, Yang-Mills) has a full solved-announcement; Anthropic's Riemann work is an explicit partial bound and OpenAI's rumored second problem is unconfirmed 'substantial progress,' not a solution. The critique correctly notes that announcement-based resolution and aggressive lab behavior (the disputed Navier-Stokes claim) create a fatter tail than pure historical base rates imply, but even generously assuming OpenAI announces one qualifying claim in Q4, reaching three distinct problems requires two further independent breakthroughs on problems with no visible progress. The thin Polymarket anchor (7.15%, declining) likely carries longshot bias, so shading below it toward the model-based estimates is justified while leaving room for correlated swarm-driven announcements. Final call: ~3.5% YES, in line with both forecasters.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2909",
    "has_trace": true
   }
  ]

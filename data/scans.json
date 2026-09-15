@@ -1967,6 +1967,20 @@
  ],
  "Will Meta be the #3 AI Lab at the end of September 2026 (Style Control On)?": [
   {
+   "id": 2941,
+   "scanned_at": "2026-09-14T22:19:18.010170",
+   "date": "2026-09-14",
+   "agent": 17,
+   "market_price_t0": 19,
+   "edge": -0.01999999999999999,
+   "confidence": 0.595,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Both forecasts converge near the Polymarket anchor (19%) and the critique does not expose a directional flaw: the thin-market and style-control data gaps argue for wider uncertainty, not for moving toward Yes. Muse Spark 1.3 sits in a mid-frontier cluster tied with GPT-5.6 Sol and Grok 4.6, below Claude Fable 5.1 and Opus 5, with Anthropic, OpenAI, and Google all fielding fresh flagships in early September and no further Meta frontier release expected before Sept 30. Meta's only #3 touch was a brief tie in April that was displaced within a model cycle, and its open-weight pivot suggests it isn't optimizing for this leaderboard. I retain meaningful Yes mass for the unretrieved style-control-on standings and possible tie-resolution quirks, landing slightly below the market at 17%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2941",
+   "has_trace": true
+  },
+  {
    "id": 2582,
    "scanned_at": "2026-09-03T16:57:24.497136",
    "date": "2026-09-03",
@@ -2086,6 +2100,20 @@
   }
  ],
  "Will Meta be the #2 AI lab at the end of September 2026?": [
+  {
+   "id": 2942,
+   "scanned_at": "2026-09-14T22:53:46.194124",
+   "date": "2026-09-14",
+   "agent": 60,
+   "market_price_t0": 66.5,
+   "edge": -0.06500000000000006,
+   "confidence": 0.44,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "The resolution source (arena.ai Lab Rank) is publicly observable, so Polymarket traders bidding this from ~44% to 65.5% over the past week following Muse Spark 1.3's release are likely reacting to visible leaderboard movement rather than pure speculation; that makes the price a more informative anchor than the critique's naive one-of-three (~33%) reference class suggests. However, the market is thin ($25k), has swung 11.5%–81% in 51 days, and if Meta were firmly #2 with days left the price would sit closer to 85–90%, implying Meta is at best marginally #2 or in a near-tie with OpenAI/xAI that could flip on a few Elo points or style-control adjustments. No direct scrape confirms Meta at #2, Meta's best confirmed Text Arena placement is tied-#3, and the felloai snippet is a different view and shouldn't be used asymmetrically against OpenAI. Balancing the market's informational value against its fragility and the absence of direct confirmation, I settle at 60% YES, slightly below the anchor and in line with both forecasters.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2942",
+   "has_trace": true
+  },
   {
    "id": 2570,
    "scanned_at": "2026-09-03T13:43:10.793155",
@@ -2633,6 +2661,20 @@
  ],
  "Will the Fed decide differently in the next three decisions (Jul–Sep–Oct)?": [
   {
+   "id": 2937,
+   "scanned_at": "2026-09-14T20:35:54.818504",
+   "date": "2026-09-14",
+   "agent": 89,
+   "market_price_t0": 89.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.6950000000000001,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "July is fixed as a pause, so 'No' requires both September and October to also pause; every other path (hike in either meeting) resolves Yes. September hike pricing of ~80-85% (CME FedWatch/Polymarket), a hot August CPI, hawkish Warsh/Kashkari guidance, and three July dissents for a hike make a September pause roughly a 15-20% event, and conditional on that pause October still carries a meaningful hike probability given the cumulative 'hike by October' pricing near 87%+. The critique's points largely reinforce Yes mechanically (Pause-Hike-Pause and Pause-Hike-Hike both differ) and the concern about rapid market repricing is a legitimate but modest reason not to exceed the anchor. I therefore hold near the 89.5% market anchor at 0.89 Yes / 0.11 No, with the No mass reflecting the double-pause scenario if data cools before Sept 16 and October then holds.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2937",
+   "has_trace": true
+  },
+  {
    "id": 2532,
    "scanned_at": "2026-09-03T00:59:21.223529",
    "date": "2026-09-03",
@@ -3043,6 +3085,20 @@
  ],
  "Will the Republicans win the Nebraska Senate race in 2026?": [
   {
+   "id": 2957,
+   "scanned_at": "2026-09-15T04:59:08.880074",
+   "date": "2026-09-15",
+   "agent": 70,
+   "market_price_t0": 67.5,
+   "edge": 0.02499999999999991,
+   "confidence": 0.595,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "The exact-event Polymarket price (67.5%) and secondary Kalshi citation (~70%) bracket the reasonable range, and the two forecasts (0.69, 0.73) are close to consensus. Structural factors strongly favor Ricketts: a Trump+20 state, incumbency with a 25-point 2024 win, an R+5.9 polling average, and the historical pattern that Nebraska polls understated Republican margins in 2024 when Osborn also faced no Democrat. The critique correctly notes the downward market drift, the adverse national environment, and Ricketts' -10 net favorability, which justify not shading far above the market as Forecast 1 did. I settle at 0.70—roughly the market consensus—since the downward drift and D-wave tail offset the mild longshot-bias argument for Ricketts.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2957",
+   "has_trace": true
+  },
+  {
    "id": 2512,
    "scanned_at": "2026-09-02T17:37:27.354809",
    "date": "2026-09-02",
@@ -3088,6 +3144,20 @@
   }
  ],
  "Will OpenAI have the best Math AI model at the end of September 2026?": [
+  {
+   "id": 2934,
+   "scanned_at": "2026-09-14T20:01:10.677209",
+   "date": "2026-09-14",
+   "agent": 14,
+   "market_price_t0": 10.5,
+   "edge": 0.03500000000000002,
+   "confidence": 0.47000000000000003,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "The only same-ticker price (Polymarket, ~10.5% and falling) plus multiple low-reliability trackers placing Anthropic at Math Arena #1 both point to No, and neither forecaster disputed that inference. The red-team's strongest points are valid but modest: the Fable 5 suspension muddies the current-leader claim, the reported Astra counter-momentum and extreme rank churn (17 flips in 21 snapshots) with ~2 weeks remaining leave a real path for an OpenAI flip, and the thin Polymarket volume weakens the anchor. However, a naive uniform base rate across 4-5 labs overstates OpenAI's chances given the market's clear downward trend and no primary evidence of an OpenAI lead. I nudge slightly above both forecasters to 14% to reflect the unverified current standings and late-release optionality, while keeping the bulk of mass on No.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2934",
+   "has_trace": true
+  },
   {
    "id": 2508,
    "scanned_at": "2026-09-02T16:00:18.032786",
@@ -3591,6 +3661,20 @@
  ],
  "Will Sergio Moro win the Governor of Paraná election?": [
   {
+   "id": 2962,
+   "scanned_at": "2026-09-15T08:08:09.041372",
+   "date": "2026-09-15",
+   "agent": 80,
+   "market_price_t0": 83.5,
+   "edge": -0.03499999999999992,
+   "confidence": 0.635,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Moro is a confirmed PL candidate leading every major pollster (Paraná Pesquisas, Quaest, AtlasIntel, RTBD) by 15-30 points in the first round and by double digits in runoff scenarios, and Polymarket prices him at 83.5% with no direct Kalshi anchor. The critique correctly notes that the TRE-PR candidacy dispute is a distinct tail (though a late-filed government plan is a curable defect, so disqualification is probably ~3-5%), that no post-mid-September polling exists, and that runoff dynamics against a PSD machine backed by an 80%-approval incumbent could tighten more than first-round numbers suggest (RTBD's 55/45 runoff is notably closer than others). Moro's 38% rejection rate and one poll showing Sandro Alex closing add modest downside. Netting these, I shade slightly below the market to 80%, in line with both forecasters, since a sustained multi-pollster lead of this size in September rarely evaporates but the legal and consolidation risks are real.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2962",
+   "has_trace": true
+  },
+  {
    "id": 2467,
    "scanned_at": "2026-09-02T04:55:56.057360",
    "date": "2026-09-02",
@@ -3838,6 +3922,20 @@
   }
  ],
  "Tyler Robinson convicted of homicide?": [
+  {
+   "id": 2958,
+   "scanned_at": "2026-09-15T05:49:16.656745",
+   "date": "2026-09-15",
+   "agent": 24,
+   "market_price_t0": 23,
+   "edge": 0.009999999999999981,
+   "confidence": 0.6000000000000001,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Both forecasters drew the same inference from the sub-questions: conviction is very likely (~90%) if the case resolves, but the binding constraint is timing — bound over only in September 2026, no trial date set, death-penalty notice not due until ~November 2026, and capital cases in Utah and nationally typically take 2-5 years to verdict. The critique correctly notes the Polymarket anchor is a low-liquidity proxy and that a plea catalyst (death-penalty notice, alleged confession) could accelerate resolution, so I give modest weight to the model's 30-40% estimate rather than fully dismissing it. However, no active plea talks are reported, the defense is contesting evidence rather than signaling a deal, and the 30-day downward market trend post-bindover reflects real delay pricing. I land near the market and between the two forecasts, slightly favoring No given ~10 months remaining in a capital case with no trial date.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2958",
+   "has_trace": true
+  },
   {
    "id": 2452,
    "scanned_at": "2026-09-02T00:57:28.227470",
@@ -4539,6 +4637,20 @@
  ],
  "Will Google have the best Text-to-Video AI at the end of October 2026?": [
   {
+   "id": 2939,
+   "scanned_at": "2026-09-14T21:42:50.952677",
+   "date": "2026-09-14",
+   "agent": 63,
+   "market_price_t0": 65.5,
+   "edge": -0.025000000000000022,
+   "confidence": 0.5,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "The primary anchor is the identical-ticker Polymarket price at ~65.5% YES, whose +21pp 30-day rise likely reflects traders observing Google currently atop the actual arena.ai resolution board, information the brief itself could not verify. Google's historical multi-model depth on arena.ai and OpenAI's full exit support persistence over a ~7-week horizon, where even a ~4-month average tenure implies roughly 65-70% survival if Google is currently #1. The critique is right that the March snapshot is stale and that the Wan 3.0/MiniMax/Seedance cadence creates real churn risk, but the Artificial Analysis overtake is on a non-resolution board with a razor-thin margin and does not directly transfer. Tail risks (a Veo 4/Gemini Omni update vs. a Chinese breakout) roughly offset, so I shade only modestly below the market to 63% given the unconfirmed current leader.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2939",
+   "has_trace": true
+  },
+  {
    "id": 2385,
    "scanned_at": "2026-09-01T04:56:45.897470",
    "date": "2026-09-01",
@@ -4612,6 +4724,20 @@
   }
  ],
  "Will Moonshot be the third-best AI Agent Lab at the end of September 2026?": [
+  {
+   "id": 2954,
+   "scanned_at": "2026-09-15T03:29:01.138941",
+   "date": "2026-09-15",
+   "agent": 75,
+   "market_price_t0": 77.7,
+   "edge": -0.027000000000000024,
+   "confidence": 0.615,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "The most recent model-level Pareto snapshots (Aug 31, Sep 1) consistently place Moonshot's Kimi K3 as the #3 unique lab behind Anthropic and OpenAI, with a ~2.5pp cushion over Zhipu and no newer entrant (Google, xAI, DeepSeek, Qwen) reported anywhere near it, which aligns with the 77.55% market anchor and its strong uptrend. The critique correctly notes two distinct No paths that both forecasters underweighted: Moonshot rising to #2 past OpenAI (only ~0.8pp gap) also resolves No, and the resolution-specific 'Labs' table was never directly observed and could aggregate differently from the Pareto view; the distillation dispute is a small additional tail. The sibling October market (Moonshot 16.5% for #2) is actually consistent with Moonshot sitting at #3, so it does not argue for a large downward move. I shave slightly below the market to reflect the unverified Labs view and the two-sided nature of the risk, landing at 75% Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2954",
+   "has_trace": true
+  },
   {
    "id": 2380,
    "scanned_at": "2026-09-01T03:20:28.020868",
@@ -5060,6 +5186,20 @@
   }
  ],
  "Will Mary Peltola win the Alaska Senate race in 2026?": [
+  {
+   "id": 2955,
+   "scanned_at": "2026-09-15T04:13:44.927584",
+   "date": "2026-09-15",
+   "agent": 60,
+   "market_price_t0": 66.5,
+   "edge": -0.06500000000000006,
+   "confidence": 0.5650000000000001,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Both forecasters landed at 0.60-0.62, modestly below the Polymarket anchor of 66.5%, and the critique does not expose a decisive shared flaw: the resolution-timing concern is irrelevant to who ultimately wins, and the claim of a liberal-skewed market anchor is not well supported (political prediction markets have more often leaned Republican). The valid points are the low Democratic base rate in Alaska Senate races, Sullivan's 2020 poll outperformance, and the fact that the combined GOP primary vote roughly matched Peltola's share, echoing her narrow 2024 loss. Against that, the midterm environment under a Republican president, Peltola's superior favorability and fundraising, most recent RCV polls showing her ahead, and a spoiler-name candidate that is at worst neutral for her keep her a modest favorite. I settle at 0.60, slightly under the market to reflect Alaska's structural R lean and historical polling error, but not lower given genuine Peltola momentum in recent polling and market pricing.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2955",
+   "has_trace": true
+  },
   {
    "id": 2339,
    "scanned_at": "2026-08-31T13:39:42.573454",
@@ -5706,6 +5846,20 @@
   }
  ],
  "Major meteor strike (10kt+) in 2026?": [
+  {
+   "id": 2938,
+   "scanned_at": "2026-09-14T21:08:45.646153",
+   "date": "2026-09-14",
+   "agent": 8.5,
+   "market_price_t0": 9,
+   "edge": -0.0049999999999999906,
+   "confidence": 0.75,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Both forecasters and the sub-question decomposition agree: no ≥10kt event through mid-September 2026, largest event ~1.1kt, and a Poisson remaining-year estimate of ~6–8% that aligns with the 9% Polymarket anchor and coherent sibling threshold markets (5kt≈24%, 1Mt≈1.5%). The critique raises valid points about small-N uncertainty in λ and unlisted DoD detections, but these mostly widen uncertainty symmetrically rather than shift the central estimate; a genuine ≥10kt airburst would almost certainly have surfaced in fireball/news coverage even if CNEOS listing lagged. The record AMS fireball count reflects sighting/reporting growth, not large-body flux, so it adds negligible tail risk. I land between the forecasters' 8% and the market's 9%, slightly favoring the market given the acknowledged λ uncertainty and possible upward revisions.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2938",
+   "has_trace": true
+  },
   {
    "id": 2281,
    "scanned_at": "2026-08-30T21:29:12.133018",
@@ -6808,6 +6962,20 @@
   }
  ],
  "Will the Democrats win the Wisconsin governor race in 2026?": [
+  {
+   "id": 2948,
+   "scanned_at": "2026-09-15T01:09:51.950760",
+   "date": "2026-09-15",
+   "agent": 74,
+   "market_price_t0": 83.5,
+   "edge": -0.09499999999999997,
+   "confidence": 0.5700000000000001,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Both forecasters landed near 0.72-0.74, blending the Polymarket proxy (83.5%, thin volume, no direct Kalshi price) with the poll-only Pollsmax model (~54%). The critique cuts both ways: the market is thin and may reflect primary-resolution relief (argues for a discount), but the 2022 precedent of WI polls underestimating Democrats and a strong out-party midterm environment (72% base rate, low Trump approval, 2025 Supreme Court blowout) argue the poll-only model understates Crowley. Consistent if narrow Crowley leads across Marquette, Badger Battleground, and the aggregate, with no third party and no active Crowley scandal, support a clear Democratic lean, while Wisconsin's razor-thin history and possible progressive consolidation issues keep meaningful GOP upside. I settle at 74% Yes, roughly midway between the market and a fundamentals-adjusted polling view.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2948",
+   "has_trace": true
+  },
   {
    "id": 2161,
    "scanned_at": "2026-08-29T12:52:03.565076",
@@ -10301,6 +10469,20 @@
  ],
  "Will there be at least 10000 measles cases in the U.S. in 2026?": [
   {
+   "id": 2961,
+   "scanned_at": "2026-09-15T07:20:43.411613",
+   "date": "2026-09-15",
+   "agent": 5.5,
+   "market_price_t0": 7,
+   "edge": -0.015499999999999993,
+   "confidence": 0.76,
+   "category": "Health",
+   "pipeline": 2,
+   "rationale": "With ~3,294 cases through Sept 10, reaching 10,000 requires ~6,700 more cases in ~16 weeks (~420/week), roughly 4-5x the year-to-date pace and well above even Pennsylvania's peak burst (~180/week), while the era's largest outbreaks (SC, West Texas) plateaued within months and Utah is already flattening. The critique's points on sibling-market inconsistency, reporting revisions, and ascertainment effects are real but modest: none plausibly generates thousands of additional confirmed cases by year-end, and the Trump-term ≥5,000 average market reflects multi-year expectations rather than this single-year 10,000 bar. Long-shot tail markets like Polymarket's 7% tend to be slightly overpriced, so I sit just below the anchor, between the two forecasts, leaving meaningful tail mass for a major urban super-spreading event or large year-end backfill.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2961",
+   "has_trace": true
+  },
+  {
    "id": 1777,
    "scanned_at": "2026-08-23T23:38:42.825969",
    "date": "2026-08-23",
@@ -12890,7 +13072,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-14T19:50:37.936Z",
+  "last_sync": "2026-09-15T08:40:31.617Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -14154,6 +14336,86 @@
    "pipeline": 2,
    "rationale": "With ~3.5 months left, zero of the five qualifying problems (BSD, Hodge, P vs NP, Riemann, Yang-Mills) has a full solved-announcement; Anthropic's Riemann work is an explicit partial bound and OpenAI's rumored second problem is unconfirmed 'substantial progress,' not a solution. The critique correctly notes that announcement-based resolution and aggressive lab behavior (the disputed Navier-Stokes claim) create a fatter tail than pure historical base rates imply, but even generously assuming OpenAI announces one qualifying claim in Q4, reaching three distinct problems requires two further independent breakthroughs on problems with no visible progress. The thin Polymarket anchor (7.15%, declining) likely carries longshot bias, so shading below it toward the model-based estimates is justified while leaving room for correlated swarm-driven announcements. Final call: ~3.5% YES, in line with both forecasters.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/2909",
+   "has_trace": true
+  }
+ ],
+ "Next Grok Model (4.7+) released by September 18, 2026?": [
+  {
+   "id": 2960,
+   "scanned_at": "2026-09-15T06:36:02.119319",
+   "date": "2026-09-15",
+   "agent": 17,
+   "market_price_t0": 65,
+   "edge": -0.48,
+   "confidence": 0.6499999999999999,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "The title deadline (Sept 18) most likely governs resolution, and under that framing Yes is very unlikely: Grok 4.6 remains the latest shipped model, Musk is 0-for-5 on 4.7 dates, no API/leaderboard sighting exists, and on Sept 13 he pivoted to a 'Grok 4.8' that is only finishing pretraining this week with RL still ahead (P(Yes|Sept 18) ≈ 0.10). The critique is right that the Oct 18 ticker close deserves explicit weighting: with a ~25-52 day training-to-release lag from mid-Sept, a 4.8 release by Oct 18 is plausible but not favored (P(Yes|Oct 18) ≈ 0.35). Weighting ~80/20 toward the title deadline yields roughly 0.15-0.17. The Polymarket 65% is thin, plunging (-20.5% in 7 days), and predates the 4.8 pivot, so I discount it heavily, but the residual chance of a surprise last-minute 4.7 drop (the Sept 11 'few more days to cook' model) keeps Yes from going lower.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2960",
+   "has_trace": true
+  }
+ ],
+ "Will Russia capture Orikhiv by December 31, 2026?": [
+  {
+   "id": 2951,
+   "scanned_at": "2026-09-15T02:41:48.949363",
+   "date": "2026-09-15",
+   "agent": 36,
+   "market_price_t0": 41.5,
+   "edge": -0.05499999999999999,
+   "confidence": 0.545,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Both forecasters drew the same inferences from the sub-questions: ISW explicitly rejects the Sept 1 encirclement claim, confirmed advances are at footpace with zero confirmed gains in early September, and Orikhiv's years-long fortification makes it more Kostiantynivka/Pokrovsk-like than Huliaipole, all of which argue for No with only ~3.7 months left and ISW's conservative shading standard (Huliaipole confirmation lagged the MoD claim by ~6 weeks). The critique is right that the Huliaipole 5-month precedent plus a possibly real 150K-troop buildup deserves explicit weight since a Sept push could land within the window, and that the Donetsk-centered freeze framework may not protect Orikhiv, so I pull modestly back toward the Polymarket anchor rather than discounting it by 8-10 points. However the anchor is only a proxy (no direct Kalshi price) and its momentum plausibly reflects the disputed MoD claims, so a full move to 41.5% is unwarranted. Final: Yes 0.36, No 0.64.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2951",
+   "has_trace": true
+  }
+ ],
+ "Will XRP reach $1.80 in September?": [
+  {
+   "id": 2949,
+   "scanned_at": "2026-09-15T01:56:03.212972",
+   "date": "2026-09-15",
+   "agent": 13,
+   "market_price_t0": 12.5,
+   "edge": 0.0050000000000000044,
+   "confidence": 0.63,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "XRP sits ~$1.35–$1.41 with ~16 days left, needing a ~28–30% move to print a $1.80 Binance 1-minute high; the month-to-date high of ~$1.70 was rejected and $1.60–$1.68 has repeatedly capped rallies. A reflection-principle barrier model at σ≈80% gives ~13% touch probability (log-distance 0.25 vs σ√T≈0.17), matching the identical Polymarket contract at 12.5%. The critique is right that a wick-based criterion, fat-tailed altcoin jumps, and a CLARITY Act catalyst argue against shading below the anchor, but fading ETF inflows, broad crypto outflows, escrow supply, and September mean-reversion offset that upside. I land between the two forecasts at 13%, essentially at the market and model consensus.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2949",
+   "has_trace": true
+  }
+ ],
+ "Will the next Claude Opus model debut at a score of at least 1500 by December 31, 2026?": [
+  {
+   "id": 2947,
+   "scanned_at": "2026-09-15T00:26:12.974192",
+   "date": "2026-09-15",
+   "agent": 74,
+   "market_price_t0": 78,
+   "edge": -0.040000000000000036,
+   "confidence": 0.555,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "The Polymarket anchor (78%) is the best available consensus proxy, and the frontier already sits at ~1508 with an Opus-labeled entry at ~1505, so a post-Opus-5 release competitive with its predecessor should clear 1500; Anthropic's ~2-month cadence makes a qualifying release before Dec 31 likely. I discount the code_execution ~90% because its trend model is contradicted by the observed leaderboard: the ceiling moved only ~1493→1508 over ten months, meaning the next Opus will debut in the same noisy 1490–1510 band rather than comfortably above it. Genuine No pathways remain: Opus 4.5 (~1493) and possibly Opus 4.8 (~1486) debuted below 1500, variant labeling (opus-5-high at 1493 vs opus-5-max at 1505) shows the 'debut' entry can land under the line, and Anthropic's Mythos/Fable tier could absorb the flagship-quality release. Netting these against the thin, volatile market, I land at 74%, slightly under the market and between the two forecasts.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2947",
+   "has_trace": true
+  }
+ ],
+ "Will Strava’s market cap be between $2B and $3B at market close on IPO day?": [
+  {
+   "id": 2943,
+   "scanned_at": "2026-09-14T23:33:13.083820",
+   "date": "2026-09-14",
+   "agent": 21,
+   "market_price_t0": 29.5,
+   "edge": -0.08499999999999999,
+   "confidence": 0.52,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Decomposing explicitly: Strava confidentially filed in Feb 2026 with Goldman engaged and stated CEO intent, but no public S-1 by Sept 2026 and a missed spring window, so I put P(IPO by end-2027) at roughly 50-55%. Conditional on listing, the hard anchors ($2.2B last round, Forge secondary unchanged at $2.2B) sit inside the band, but ~$490M ARR growing 32% means a 2026-27 pricing plus a typical day-one pop could readily clear $3B, while a Navan-style drop could push a low pricing under $2B; I estimate ~35-40% for landing in the $1B-wide band. That yields an unconditional Yes near 18-22%, below the declining Polymarket price (29.5%) but above the brief's Monte Carlo base case (~14%), which I think underweights the in-band private mark. The critique correctly flags the timing lever but doesn't expose a decisive shared flaw, so I stay near the two forecasts with a slight shade down for timing slippage.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2943",
    "has_trace": true
   }
  ]

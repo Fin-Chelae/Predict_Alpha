@@ -89,6 +89,20 @@
  ],
  "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?": [
   {
+   "id": 2980,
+   "scanned_at": "2026-09-15T16:05:48.893800",
+   "date": "2026-09-15",
+   "agent": 86,
+   "market_price_t0": 75.5,
+   "edge": 0.10499999999999998,
+   "confidence": 0.72,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Both forecasters and every sub-question point the same direction: ER enters with ~310-315 of 450 seats, controls the electoral machinery, has barred anti-war competitors, benefits from an unchanged mixed system where it historically sweeps ~200 single-mandate districts, and no poll or analyst places any rival near first place; the live debate is only about the 300-seat supermajority. The Polymarket 74.5% anchor likely reflects capital-lockup discount and narrative bets on New People (22.7% sibling price) rather than a concrete seat-winning path for any other party. The red-team's tail scenarios—postponement/martial law, a succession shock, or classification ambiguity if ER-aligned candidates run as nominal independents—are real but individually low-probability with the vote scheduled for 18-20 September and results normally certified well before the 30 September close. I therefore move well above the market but trim slightly from the forecasters' 87-90% to respect those unmodeled tails.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2980",
+   "has_trace": true
+  },
+  {
    "id": 2348,
    "url": "https://forecast.agenticlearning.ai/scans/v2/2348",
    "date": "2026-08-31",
@@ -190,6 +204,20 @@
   }
  ],
  "Strait of Hormuz traffic returns to normal by December 31?": [
+  {
+   "id": 2964,
+   "scanned_at": "2026-09-15T08:53:26.448602",
+   "date": "2026-09-15",
+   "agent": 14,
+   "market_price_t0": 17.5,
+   "edge": -0.034999999999999976,
+   "confidence": 0.6599999999999999,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Portwatch transits sit at ~5–10/day in early September 2026, roughly an order of magnitude below the 60 threshold, after two ceasefire/MOU attempts collapsed and with fresh Iranian threats against Gulf energy assets. A Yes requires a compound path: a durable settlement forming within the next ~2.5 months (plausibly 25–30%) and then insurers/shippers returning fast enough to push the 7-day average above 60 before Dec 31 (perhaps 50–60% conditional), yielding roughly 13–17%. The Red Sea analog and the 1.1% Sept 30 sibling argue for shading below the high-volume Polymarket anchor of 17.5%, while mine-clearing completion and Iran-Oman corridor talks keep the tail from collapsing to single digits. I land slightly below both forecasters at 14% Yes, agreeing the critique's escalation and measurement-risk points warrant a modest downward shade but not a wholesale departure from the market consensus.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2964",
+   "has_trace": true
+  },
   {
    "id": 2717,
    "scanned_at": "2026-09-07T14:36:13.354572",
@@ -880,6 +908,20 @@
   }
  ],
  "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?": [
+  {
+   "id": 2985,
+   "scanned_at": "2026-09-15T18:28:04.264957",
+   "date": "2026-09-15",
+   "agent": 58,
+   "market_price_t0": 60.5,
+   "edge": -0.025000000000000022,
+   "confidence": 0.56,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "With no direct Kalshi price, the same-ticker Polymarket market (60.5% Yes) and CME FedWatch (~60% Dec hike odds) form a consistent consensus anchor that already reflects the September-meeting branching as a marginal probability, so the critique's 'compounding conditional' point is largely misplaced (a December hike does not require a September hike). The hawkish case is substantive: core PCE running ~3%+ annualized, a hot August core CPI, oil above $100 from the Iran conflict, and an explicitly inflation-first new Chair Warsh, with market pricing shifting +35pp in 30 days. Offsetting this are cautious FOMC members (Waller, Williams), soft payroll growth, the Fed's historical reluctance to hike at consecutive meetings outside a sustained cycle, and the fact that a September hike would reduce December urgency. I shade slightly below the anchor to reflect these headwinds and the proxy-market uncertainty, landing between the two forecasts at 58% Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2985",
+   "has_trace": true
+  },
   {
    "id": 2643,
    "scanned_at": "2026-09-05T12:15:02.956016",
@@ -2849,6 +2891,20 @@
  ],
  "Will Trump's approval rating hit 35% in 2026?": [
   {
+   "id": 2968,
+   "scanned_at": "2026-09-15T11:24:24.901507",
+   "date": "2026-09-15",
+   "agent": 27,
+   "market_price_t0": 24,
+   "edge": 0.030000000000000027,
+   "confidence": 0.595,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Silver Bulletin sits at ~38% approve after setting a second-term low of net -20.6 in late July/Aug, so YES requires a further ~3-point aggregate decline within the remaining ~3.5 months of 2026 — a barrier-touch that a simple diffusion with ~2pt quarterly volatility puts in the mid-teens to mid-20s, higher with negative drift. The critique correctly notes that the current level is closer to the barrier than the simulation's central cases, that CNN's poll-of-polls already reads 35% and multiple individual polls sit in the low 30s, and that Trump's floor may lie below Biden's given weaker standing at the same point; these argue for leaning above the thin, downward-drifting Polymarket 24% anchor. Offsetting this, the SB aggregate has demonstrably dampened low-30s individual polls (never below ~37%), it partially rebounded after the low, and midterm-season dynamics often stabilize rather than collapse approval. I settle at 27% YES, modestly above the Polymarket proxy, in line with the higher of the two forecasts.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2968",
+   "has_trace": true
+  },
+  {
    "id": 2524,
    "scanned_at": "2026-09-02T22:26:18.128562",
    "date": "2026-09-02",
@@ -4365,6 +4421,20 @@
  ],
  "Will the upper bound of the target federal funds rate be ≥ 4.5% at the end of 2026?": [
   {
+   "id": 2965,
+   "scanned_at": "2026-09-15T09:50:41.210491",
+   "date": "2026-09-15",
+   "agent": 20,
+   "market_price_t0": 16.2,
+   "edge": 0.038500000000000006,
+   "confidence": 0.575,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Reaching a 4.50% upper bound from 3.75% requires 25bp hikes at all three remaining 2026 meetings (Sept, Oct, Dec) or a 50bp move, while futures imply a year-end upper bound around 4.25% — one hike short — and the joint probability of consecutive hikes implied by FedWatch (~84% Sept, ~60% Dec, Oct uncertain) lands in the mid-to-high teens. Polymarket's 18.7% YES (rising quickly) is the only direct market read and is consistent with that math; the critique correctly notes the June SEP is stale and that Warsh/oil/tariff dynamics create upside risk, but these are largely already reflected in the rapid Polymarket repricing rather than new information beyond it. The 50bp tail and a possible hawkish September SEP justify sitting slightly above Polymarket rather than below, but not a large deviation given no Kalshi price and a consensus path that stops at 4.25%. Final call: 20% Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2965",
+   "has_trace": true
+  },
+  {
    "id": 2415,
    "scanned_at": "2026-09-01T13:00:17.121675",
    "date": "2026-09-01",
@@ -4930,6 +5000,20 @@
   }
  ],
  "Will the Democrats win the Texas governor race in 2026?": [
+  {
+   "id": 2974,
+   "scanned_at": "2026-09-15T13:44:19.448558",
+   "date": "2026-09-15",
+   "agent": 14,
+   "market_price_t0": 15,
+   "edge": -0.009999999999999981,
+   "confidence": 0.64,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Both forecasters and the market anchor (Polymarket 15.5%, Pollsmax 13.8%) converge near 14-15%, and the critique's strongest points cut toward a slightly lower YES: Texas Democrats have systematically underperformed final polls (2018, 2022), Hinojosa faces a >20x cash gap with no evident national investment, and every credible poll still shows Abbott ahead by 3-5 points. Countervailing signals (D+4 to D+7.6 generic ballot, rating shifts to Likely R, a toss-up TX Senate race) keep a genuine upset path alive, so this is not a 5% event. The thin-volume market and the competitive Senate race argue against pushing far below the anchor. I land at 14% YES, marginally below consensus, reflecting the polling-overstatement adjustment without overcorrecting.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2974",
+   "has_trace": true
+  },
   {
    "id": 2366,
    "scanned_at": "2026-08-31T23:16:08.844310",
@@ -5638,6 +5722,20 @@
   }
  ],
  "Will NVIDIA be the largest company in the world by market cap on December 31?": [
+  {
+   "id": 2984,
+   "scanned_at": "2026-09-15T17:42:09.943125",
+   "date": "2026-09-15",
+   "agent": 68,
+   "market_price_t0": 68.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.6000000000000001,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "NVIDIA holds a ~15-20% market-cap lead over Apple and 35%+ over Alphabet/Microsoft with ~3.5 months to the Dec 31 snapshot; a relative-volatility calculation over that shortened horizon (relative vol ~20% over the window) gives roughly 0.75-0.80 vs Apple alone and ~0.70 against the field jointly, so the brief's 0.55 model figure (12-month horizon) understates NVDA's chances. The same-question Polymarket price of 68.5% is the best anchor, and the critique's point that it has fallen 9-10pp recently while forecasters nudged upward is fair — that trend, thin historical swap margins, Apple's Q4 seasonal strength, and consensus-reporting ambiguity argue against moving above the market. Both forecasters landed at 0.69-0.70; I settle marginally lower at 0.68 to respect the market's recent direction and multi-rival tail risk rather than override it with the September lead already reflected in the price.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2984",
+   "has_trace": true
+  },
   {
    "id": 2306,
    "scanned_at": "2026-08-31T04:54:45.083393",
@@ -6636,6 +6734,20 @@
   }
  ],
  "Will the Democrats win the New Hampshire Senate race in 2026?": [
+  {
+   "id": 2970,
+   "scanned_at": "2026-09-15T12:08:41.868955",
+   "date": "2026-09-15",
+   "agent": 80,
+   "market_price_t0": 84,
+   "edge": -0.039999999999999925,
+   "confidence": 0.615,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Both forecasts converge near 81-82% Yes, slightly below the 84% Polymarket anchor, and the sub-question evidence (Lean/Tilt Democratic ratings, D+6.5 generic ballot, NH's consistent federal blue lean, no GOP Senate win since 2010) supports a solid Democratic favorite. The critique correctly flags the thin Polymarket liquidity and the absence of October polling, which argues for modestly wider uncertainty, but the Rasmussen concern cuts the other way: a Pappas +11 from a GOP-leaning pollster is, if anything, favorable for Yes. The UNH Sununu +2 and Emerson tie polls plus the Sununu family brand keep a genuine ~1-in-5 upset path alive, consistent with NH's history of razor-thin Senate races. I settle at 80% Yes, a small haircut from the market for anchor reliability and stale data, without moving beyond both forecasts since the critique exposed no shared directional flaw.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2970",
+   "has_trace": true
+  },
   {
    "id": 2203,
    "scanned_at": "2026-08-29T22:31:41.895012",
@@ -9806,6 +9918,20 @@
   }
  ],
  "Kanye West performs in Russia by October 31?": [
+  {
+   "id": 2976,
+   "scanned_at": "2026-09-15T14:32:03.446807",
+   "date": "2026-09-15",
+   "agent": 18,
+   "market_price_t0": 24,
+   "edge": -0.06,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Both forecasters and the Polymarket proxy (24%) agree the Oct 10-11 Gazprom Arena shows are most likely dead: the venue publicly denied any signed agreement, WaPo reported a Kremlin-level 'call from above' forcing cancellation, and no alternate Russian venue or date has surfaced with roughly six weeks left. The critique's strongest point holds up — a sovereign-level political 'no' is a different and more durable category than Ye's logistics-driven slips (India, UK), so the reversal probability within this window should be discounted further than a generic cancelled-show base rate. Residual Yes mass comes from the promoter's insistence a contract exists, 100k+ tickets sold creating pressure to salvage something, the resolution criteria being satisfied by any ticketed/invited performance anywhere in Russia (smaller venue or Moscow), and the Sept 3 CBS itinerary still listing Russia. I shade slightly below both forecasts to 18% Yes, respecting the liquid market anchor while weighting the Kremlin intervention and the shrinking timeline more heavily.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2976",
+   "has_trace": true
+  },
   {
    "id": 2747,
    "scanned_at": "2026-09-08T14:21:47.289663",
@@ -13072,7 +13198,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-15T08:40:31.617Z",
+  "last_sync": "2026-09-15T19:00:11.300Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -14416,6 +14542,70 @@
    "pipeline": 2,
    "rationale": "Decomposing explicitly: Strava confidentially filed in Feb 2026 with Goldman engaged and stated CEO intent, but no public S-1 by Sept 2026 and a missed spring window, so I put P(IPO by end-2027) at roughly 50-55%. Conditional on listing, the hard anchors ($2.2B last round, Forge secondary unchanged at $2.2B) sit inside the band, but ~$490M ARR growing 32% means a 2026-27 pricing plus a typical day-one pop could readily clear $3B, while a Navan-style drop could push a low pricing under $2B; I estimate ~35-40% for landing in the $1B-wide band. That yields an unconditional Yes near 18-22%, below the declining Polymarket price (29.5%) but above the brief's Monte Carlo base case (~14%), which I think underweights the in-band private mark. The critique correctly flags the timing lever but doesn't expose a decisive shared flaw, so I stay near the two forecasts with a slight shade down for timing slippage.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/2943",
+   "has_trace": true
+  }
+ ],
+ "Will Aleksandar Vučić be the next Prime Minister of Serbia?": [
+  {
+   "id": 2983,
+   "scanned_at": "2026-09-15T16:53:45.964939",
+   "date": "2026-09-15",
+   "agent": 65,
+   "market_price_t0": 50.9,
+   "edge": 0.14050000000000007,
+   "confidence": 0.56,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Vučić has taken the costly, hard-to-reverse steps (resigning the presidency, securing SNS's formal PM nomination, forcing an Oct 25, 2026 snap vote) that a leader only takes when confident of winning, and SNS enters from 136/250 seats with an unbroken record of national election wins since 2012 and control of the state apparatus. The critique correctly notes the thin (~$50k volume) Polymarket series' sharp drop may be noise rather than information, while the more liquid Kalshi-related market at 73% and rising is the stronger anchor; however, the 'next PM' criterion is strict—any proxy PM, coalition-concession candidate, or opposition win locks in No—and 18+ months of mass protests plus narrow, contested local wins make electoral underperformance a real risk. Vučić's own recent precedent of installing a placeholder (Macut) also leaves a non-trivial chance he retreats to a proxy arrangement if the result is messy. Balancing structural momentum against genuine electoral and coalition uncertainty, I land at 0.65 Yes, modestly below the Kalshi anchor and above the noisy Polymarket series.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2983",
+   "has_trace": true
+  }
+ ],
+ "Will the ECB announce no change at the October 2026 meeting?": [
+  {
+   "id": 2979,
+   "scanned_at": "2026-09-15T15:20:38.151574",
+   "date": "2026-09-15",
+   "agent": 45,
+   "market_price_t0": 70,
+   "edge": -0.24999999999999994,
+   "confidence": 0.485,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "The ECB is in an active tightening cycle with back-to-back hikes, headline HICP above 3%, resilient growth, and Reuters/Bloomberg sourcing that October is 'in play,' while liquid OIS markets imply ~62% odds of a further 25bp hike. The critique's 'non-projection meeting' point is weak: during the 2022-23 cycle the ECB hiked at every meeting regardless of projection rounds, and the ~80% all-meeting hold base rate is largely a cutting/pause-era artifact that doesn't transfer to a live hiking cycle. The thin Polymarket 65% for 'no change' (trending sharply down from 92%) is the only event-market anchor, so it deserves some weight, but OIS is the more informative signal and both forecasters independently reached the same inference. I land close to both forecasts with a modest lean to a change, keeping meaningful mass on hold given Lagarde's non-committal stance and six weeks of unseen data.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2979",
+   "has_trace": true
+  }
+ ],
+ "Next OpenAI GPT Luna (5.7+) released by September 30, 2026?": [
+  {
+   "id": 2973,
+   "scanned_at": "2026-09-15T12:56:35.994440",
+   "date": "2026-09-15",
+   "agent": 76,
+   "market_price_t0": 89.5,
+   "edge": -0.135,
+   "confidence": 0.54,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "The only market anchor is Polymarket at 90% YES, but it is thin ($17K) and its surge coincided with GPT-6 Astra's launch, which under a strict reading does not itself qualify (no Luna branding, and GPT-5.7 was skipped entirely). The critique correctly notes that the Sol/Terra/Luna precedent was a simultaneous bundle, so Astra shipping solo weakens the case for a Luna companion within ~4 weeks, and a tiering-strategy shift is a real tail. Still, the price has held at ~90% for a week after Astra's release rather than collapsing, suggesting informed traders either expect an imminent budget/Luna tier or believe the resolution wording is satisfied; three weeks of unobserved news also leave meaningful room for a qualifying launch. I discount the anchor materially for the naming/strict-resolution risk and absence of confirmed reporting, landing between the two forecasts but closer to Forecast 1 given market persistence.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2973",
+   "has_trace": true
+  }
+ ],
+ "Will Google have the best Text-to-Video AI at the end of September 2026?": [
+  {
+   "id": 2967,
+   "scanned_at": "2026-09-15T10:38:15.298591",
+   "date": "2026-09-15",
+   "agent": 79,
+   "market_price_t0": 88.5,
+   "edge": -0.09499999999999997,
+   "confidence": 0.41500000000000004,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "The same-ticker Polymarket price (88.5%, stable over 7d and rising over 30d) is the best available signal because the arena.ai leaderboard is public and bettors can observe the live filtered ranking that the research brief failed to capture; a 39% low earlier in the window likely reflects a genuine temporary displacement that has since reversed. The llm-stats Kling v3 score of 1934 is inconsistent with arena.ai's documented 1006–1515 range, so it most plausibly reflects a different leaderboard, weakening the strongest anti-Google data point. However, the critique is right that the market is thin, Kalshi-direct was not retrieved, video leaderboards churn frequently with Kling/Seedance momentum strong, and the 'Preliminary' tag on Gemini Omni models introduces filter-eligibility risk over the remaining weeks. I therefore land near the midpoint of the two forecasts, discounting the proxy anchor by roughly 10pp.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2967",
    "has_trace": true
   }
  ]

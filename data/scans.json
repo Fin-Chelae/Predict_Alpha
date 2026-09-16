@@ -2697,6 +2697,20 @@
  ],
  "Will the next Google Gemini Pro model added to the Arena Leaderboard debut at a score of at least 1510?": [
   {
+   "id": 3027,
+   "scanned_at": "2026-09-16T15:23:02.414563",
+   "date": "2026-09-16",
+   "agent": 27,
+   "market_price_t0": 23.7,
+   "edge": 0.03300000000000003,
+   "confidence": 0.5,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "The Polymarket price on the identical ticker (23.7%) is the primary anchor, and both forecasters landed just above it; the critique cuts both ways (timing/delay risk pushes No higher, while the Gaussian fit and the fact that competitors are already at ~1510–1520 mean a Gemini flagship debuting near #1 would clear 1510 fairly easily). Conditional on a new Gemini Pro actually landing on the leaderboard before resolution, ≥1510 is roughly a coin flip or better given the frontier ceiling has moved past the threshold, but the repeated Gemini 3.5 Pro delays, unconfirmed release timing, and the flat 3→3.1 precedent substantially discount that path. The style-control noise is symmetric and should not be treated as bearish, which is a small reason not to go below market. Netting these, a modest premium to market is warranted, landing at 27% Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3027",
+   "has_trace": true
+  },
+  {
    "id": 2544,
    "scanned_at": "2026-09-03T04:07:58.942112",
    "date": "2026-09-03",
@@ -3817,6 +3831,20 @@
  ],
  "Will STRC hit $100 by September 30?": [
   {
+   "id": 3022,
+   "scanned_at": "2026-09-16T13:01:32.907149",
+   "date": "2026-09-16",
+   "agent": 21,
+   "market_price_t0": 21.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.53,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "With no Kalshi-direct price, the identical Polymarket contract at 21.5% Yes (declining, ~$590K volume) is the best anchor, and neither forecaster offered evidence beyond what that market has priced. STRC sits ~$97.14 after the mid-September ex-dividend drop, roughly 3% below par with about ten trading days left and no further dividend drag before Sep 30; for a low-volatility preferred that typically moves well under 1% daily, a ~3% barrier touch is plausible but not the base case, and management's continued buybacks below par plus paused ATM issuance suggest they are comfortable letting the price grind rather than forcing a par print. The critique's microstructure point (a stray 1-minute print on a thinly traded preferred could resolve Yes) and the one-touch nature of the criterion keep Yes meaningfully nonzero, roughly offsetting the bearish reading that buybacks below par are intended to avoid triggering the sustained-$100 rate-cut condition. The $100.42 52-week high almost certainly predates market creation (it aligns with the pre-decline period before the $71.25 low), so it does not imply prior resolution. Net, I stay essentially at the market anchor, between the two forecasts.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3022",
+   "has_trace": true
+  },
+  {
    "id": 2772,
    "scanned_at": "2026-09-09T12:21:01.743220",
    "date": "2026-09-09",
@@ -4446,6 +4474,20 @@
   }
  ],
  "Will Waymo operate in 12-15 cities on December 31 2026?": [
+  {
+   "id": 3030,
+   "scanned_at": "2026-09-16T16:54:10.588543",
+   "date": "2026-09-16",
+   "agent": 33,
+   "market_price_t0": 28.1,
+   "edge": 0.04949999999999999,
+   "confidence": 0.6000000000000001,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Waymo already counts 15 public metros, so Yes requires zero additional separately-counted launches over the remaining ~3.5 months; falling below 12 is effectively impossible, so this is a single-sided bet on the pipeline stalling. Detroit (stated 2026 target), Sacramento (CPUC-approved, likely counted as a distinct metro given its distance from the Bay Area), and London (testing with 2026 ambitions) each offer a plausible path to 16, and Waymo's recent cadence of batch launches makes at least one more before year-end more likely than not. Countervailing factors are real: Michigan approval is pending, Sacramento has no firm date, DC is legislatively blocked, and Waymo has repeatedly slipped announced timelines by months. Weighing the thin Polymarket anchor (~28%) against the brief's per-city model (~40%) and the documented blockers, I land near the forecasters' consensus at 33% Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3030",
+   "has_trace": true
+  },
   {
    "id": 2418,
    "scanned_at": "2026-09-01T13:48:19.097839",
@@ -5325,6 +5367,20 @@
  ],
  "Will the Republicans win the Nevada governor race in 2026?": [
   {
+   "id": 3034,
+   "scanned_at": "2026-09-16T18:33:09.086536",
+   "date": "2026-09-16",
+   "agent": 55,
+   "market_price_t0": 54.5,
+   "edge": 0.0050000000000000044,
+   "confidence": 0.538,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.56, 0.55, 0.54, 0.55, 0.55). The closest market anchor is Polymarket at 54.5% YES for a Republican win, with modest downward momentum; DDHQ (~58%) and Silver Bulletin ('Likely R') lean slightly more toward Lombardo. Public polling is a genuine toss-up (Emerson Ford 44-42, RCP Lombardo +0.5), offset by Lombardo's incumbency, net-positive approval, and a large fundraising/ad-spend edge ($20M PAC). Working against him are Trump's 37/55 approval in Nevada and the historical midterm penalty for the president's party (~59% incumbent win rate vs. ~67% NV incumbent base rate). Netting these, a slight lean toward the Republican around 0.56 is consistent with the market and model consensus, with no brief evidence justifying a large deviation.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3034",
+   "has_trace": true
+  },
+  {
    "id": 2342,
    "scanned_at": "2026-08-31T14:27:28.764805",
    "date": "2026-08-31",
@@ -5442,6 +5498,20 @@
   }
  ],
  "Will no Fed rate cuts happen in 2026?": [
+  {
+   "id": 3017,
+   "scanned_at": "2026-09-16T10:34:22.404626",
+   "date": "2026-09-16",
+   "agent": 94.5,
+   "market_price_t0": 93,
+   "edge": 0.015499999999999958,
+   "confidence": 0.765,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Zero cuts have occurred through mid-September 2026, the rate has been held at 3.50–3.75% for five meetings, and every fundamental signal (rising core PCE, unemployment falling to 4.1%, June SEP median rising to 3.8% with only 1/19 seeing a cut, hawkish Chair Warsh) points toward a hike, with FedWatch at ~84–90% for a September hike. The critique's strongest point holds: conditional on a September hike, a 'No' outcome requires a full policy U-turn to a cut within the Oct/Dec window, which is historically rarer than a generic any-cut tail (even the 2019 mid-cycle reversal took ~7 months); a rough decomposition (hike path ~2–3% cut risk, no-hike path ~15–20%) yields ~4–5% for 'No'. Long-dated high-probability Yes contracts on Polymarket also tend to trade slightly below fair value due to capital costs, so the 92.95% anchor is likely a modest underestimate. I move slightly beyond the 93/7 consensus but preserve a meaningful tail for a sudden labor-market or financial shock forcing an emergency cut before year-end.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3017",
+   "has_trace": true
+  },
   {
    "id": 2333,
    "scanned_at": "2026-08-31T12:04:15.092139",
@@ -9019,6 +9089,20 @@
  ],
  "OpenAI announces it has achieved AGI before 2027?": [
   {
+   "id": 3019,
+   "scanned_at": "2026-09-16T11:21:08.414283",
+   "date": "2026-09-16",
+   "agent": 14,
+   "market_price_t0": 17.5,
+   "edge": -0.034999999999999976,
+   "confidence": 0.6499999999999999,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Both forecasters landed modestly below the 17.5% Polymarket anchor and the critique's points largely offset: the base-rate/Kalshi-skepticism arguments push lower, while the observations that the expert panel gates only contractual consequences (not the announcement itself) and that the April 2026 decoupling removes downside from a hype-driven declaration push higher. Polymarket traders have already observed Brockman's 'AGI era'/'might be AGI' remarks and still price only 17.5%, indicating those statements have not been treated as resolving and the remaining ~3.5 months carry limited but real tail risk of a marketing-driven or IPO-narrative announcement. Altman's increasing hedging, the absence of any formal declaration through the flagship GPT-6 launch, and the fact that no lab has ever formally declared AGI keep the structural prior firmly on No. I settle at 14% Yes, slightly below market to reflect the skeptical Kalshi cross-signal while preserving mass for resolution ambiguity and Q4 surprises.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3019",
+   "has_trace": true
+  },
+  {
    "id": 2647,
    "scanned_at": "2026-09-05T14:34:42.749859",
    "date": "2026-09-05",
@@ -9108,6 +9192,20 @@
   }
  ],
  "US Government removes public access to another major AI model in 2026?": [
+  {
+   "id": 3032,
+   "scanned_at": "2026-09-16T17:40:50.661486",
+   "date": "2026-09-16",
+   "agent": 23,
+   "market_price_t0": 20,
+   "edge": 0.03,
+   "confidence": 0.505,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Both forecasters landed at ~20%, matching the same-ticker Polymarket proxy, and the brief confirms no second removal has occurred as of late August with all major Chinese models still broadly accessible. The critique's strongest point is that the Anthropic precedent shows a BIS 'Is-Informed Letter' can remove access within days without legislation, so the four-month window is less binding than the forecasts implied, and the AI Diffusion Framework and remote-server rules have reported September deadlines squarely inside the window. However, the quick reversal under industry and allied pushback raises the political cost of a repeat, an Entity List designation for Moonshot would restrict exports to the firm rather than necessarily remove US public access to Kimi, and it is unclear the pending rules would meet the 'general removal' bar. I nudge slightly above the thin-volume market to 23% Yes to reflect the demonstrated fast-action mechanism and near-term rule catalysts, while keeping No as the clear favorite.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3032",
+   "has_trace": true
+  },
   {
    "id": 1994,
    "scanned_at": "2026-08-26T12:29:38.334573",
@@ -13394,7 +13492,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-16T08:35:06.116Z",
+  "last_sync": "2026-09-16T18:54:32.448Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -13574,6 +13672,20 @@
   }
  ],
  "Will Anthropic have the best AI model on LiveBench (Overall) at the end of September 2026?": [
+  {
+   "id": 3016,
+   "scanned_at": "2026-09-16T09:44:23.824978",
+   "date": "2026-09-16",
+   "agent": 83,
+   "market_price_t0": 88,
+   "edge": -0.050000000000000044,
+   "confidence": 0.495,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "The best available anchor is the identical Polymarket ticker at 88% YES, corroborated directionally by the reported June 25 LiveBench snapshot showing Anthropic #1 Overall with a ~1.8pt lead over the nearest non-Anthropic model, and by the ~6-month refresh cadence that makes a pre-resolution reshuffle less likely. The critique correctly notes the thin liquidity (~$18K) behind the 27%→88% move, the reliance on unverified aggregator mirrors with suspicious model naming, and the live possibility of an interim LiveBench update incorporating GPT-6 Astra's Reasoning gains — these warrant shading below the market more than F2 did but not as far as a coin-flip. No source reports any non-Anthropic model actually topping Overall, only sub-category leads, so the incumbent advantage stands. I land at 0.83, between the two forecasts and modestly below the market to reflect structural verification gaps.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3016",
+   "has_trace": true
+  },
   {
    "id": 2621,
    "scanned_at": "2026-09-04T21:47:52.126761",
@@ -13942,6 +14054,20 @@
   }
  ],
  "US Government removes public access to a major Chinese AI model in 2026?": [
+  {
+   "id": 3020,
+   "scanned_at": "2026-09-16T12:13:42.997285",
+   "date": "2026-09-16",
+   "agent": 14,
+   "market_price_t0": 16.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.645,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Both forecasters and the Polymarket anchor (16.5%, drifting down) agree that no federal action has removed general public access to any major Chinese AI model, and the only concrete measures remain government-device bans and stalled committee bills. The critique correctly notes the forecasters ignored the FY2027 NDAA vehicle and resolution ambiguity around a hosting-liability EO, which justifies not shading as far below market as they did, but NDAA provisions historically target procurement rather than consumer access, and the draft EO remains paused amid open opposition from Sacks and the open-source lobby. With only a few months left and a high bar ('across ordinary public channels') that open-weight distribution makes hard to meet, time decay argues for staying modestly below the market price. I settle at 14% YES, between the forecasters' 12-13% and the 16.5% anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3020",
+   "has_trace": true
+  },
   {
    "id": 2764,
    "scanned_at": "2026-09-09T05:16:11.681044",
@@ -14850,6 +14976,70 @@
    "pipeline": 2,
    "rationale": "Both forecasters converged on 7-8%, slightly below the Polymarket 10% anchor, and the sub-question evidence uniformly supports No: Vance has never visited Ukraine, explicitly rebuffed Zelensky's invitations as 'propaganda tours,' skipped Munich 2026, is focused on domestic midterm travel, and Rubio/Witkoff/Kushner are the operational Ukraine point-people. The critique's strongest points—the post-midterm window and the fact that ceremonial signings draw different attendees than working-level negotiators—are legitimate tail pathways, but negotiations are stalled with no signing scheduled, Trump himself would be the more likely ceremonial attendee, and only ~3.5 months remain. I keep the distribution essentially at the forecasters' level rather than shading further below, respecting the market's ~10% given the thin Polymarket volume and genuine peace-deal tail risk.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3005",
+   "has_trace": true
+  }
+ ],
+ "US x China agree to pace the AI frontier in 2026?": [
+  {
+   "id": 3029,
+   "scanned_at": "2026-09-16T16:09:04.025007",
+   "date": "2026-09-16",
+   "agent": 6,
+   "market_price_t0": 7,
+   "edge": -0.010000000000000009,
+   "confidence": 0.7,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Both forecasts and the sub-question evidence point the same direction: the only active US-China AI channel is scoped to misuse/nonproliferation, not compute caps, safety-conditioned deployment, RSI limits, or slowdown commitments, and the Trump administration explicitly rejects restraint while China pursues a parallel WAICO track and imposes preconditions. The critique correctly notes the Polymarket anchor is thin and the Sept 24 Xi visit is an uncovered catalyst, but these cut in both directions: a face-saving joint communiqué could be loosely worded and create resolution-ambiguity risk toward Yes, while the Taiwan friction and recent escalations (WAICO, preconditions) arguably push the true probability of a substantive pacing deal below historical narrow-deal precedents. Netting the resolution-ambiguity upside against the deteriorating trajectory, I keep Yes in the 5-7% range consistent with both the proxy market and related Kalshi US-China deal markets (11-15% for structurally easier agreements), landing at 6%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3029",
+   "has_trace": true
+  }
+ ],
+ "Meta's Watermelon released by October 31, 2026?": [
+  {
+   "id": 3026,
+   "scanned_at": "2026-09-16T14:32:58.692144",
+   "date": "2026-09-16",
+   "agent": 55,
+   "market_price_t0": 67,
+   "edge": -0.12,
+   "confidence": 0.515,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Both forecasters shaded only modestly below a thin, volatile Polymarket proxy (67% YES, $16k volume, -6.5pp weekly) without seriously pricing two compounding risks the critique correctly flags: (1) an 'internal October target' for a frontier model routinely slips by weeks, and any slip past Oct 31 resolves NO even if the model is essentially done, and (2) a release that is closed-beta or integrated-only may fail the 'publicly accessible' bar. The Llama 4 Behemoth precedent (leaked targets, then delay and no public release) is a directly relevant reference class for Meta specifically. Countervailing evidence is real — Zuckerberg/Wang publicly teasing 🍉, Wang's Sept 3 'on track' statement, and a fast Aug–Sept shipping cadence — so Yes remains the more likely outcome. I land at 55% YES, below both forecasts and the illiquid market anchor, reflecting that the deadline and access-format conditions jointly create more downside than a 5-7 point haircut captures.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3026",
+   "has_trace": true
+  }
+ ],
+ "Michael Saylor federally charged by December 31, 2026?": [
+  {
+   "id": 3023,
+   "scanned_at": "2026-09-16T13:46:49.777005",
+   "date": "2026-09-16",
+   "agent": 5,
+   "market_price_t0": 8.5,
+   "edge": -0.035,
+   "confidence": 0.7,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Both forecasters converged at 4%, below the Polymarket proxy of 8.5%; the critique correctly notes this sits below the brief's own base-rate central estimate (~4.9%) without strong justification, so I nudge slightly upward. Still, the core evidence is one-sided: no reported DOJ probe, grand jury, or SEC referral, prior matters all civil, the class action dismissed with prejudice, and a DOJ/SEC that has actively retreated from crypto enforcement — with only ~4-5 months left, and high-profile crypto indictments historically preceded by public investigations. The thin Polymarket price plausibly carries a long-shot premium, and the unverified YouTube 'investigation' rumor appears civil-oriented, so I discount the market but not to the floor. A small residual accounts for sealed proceedings, ambiguity over whether an SEC civil action might count as 'formally charged,' and any sudden catalyst tied to Strategy's large leveraged BTC position.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3023",
+   "has_trace": true
+  }
+ ],
+ "Will Vitality Win the StarLadder StarSeries Fall 2026?": [
+  {
+   "id": 3014,
+   "scanned_at": "2026-09-16T08:57:50.979328",
+   "date": "2026-09-16",
+   "agent": 34,
+   "market_price_t0": 38.5,
+   "edge": -0.044999999999999984,
+   "confidence": 0.57,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "With no Kalshi price, the best anchors are Polymarket's 38.5% YES for this exact market and sportsbook odds of 2.8 (~33% de-vigged); both forecasters landed near the midpoint of these, and the critique's push toward 28-30% rests mainly on analyst opinions favoring MOUZ, which markets already incorporate and which are historically less reliable than bookmaker prices. Vitality's full roster and the absence of Spirit/Falcons justify favorite status, but an 8-team double-elimination bracket with MOUZ (fresh 2-0 H2H win), FURIA, NAVI, and Aurora keeps any single team's title odds well below 50%, consistent with the 25-40% base rate for top favorites. I apply a slight extra discount for thin Polymarket liquidity and MOUZ's momentum, settling marginally below the two forecasts at 34% YES. Postponement/cancellation risk is negligible, so residual mass goes to No.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3014",
    "has_trace": true
   }
  ]

@@ -161,6 +161,20 @@
  ],
  "Will the Republicans win the Iowa Senate race in 2026?": [
   {
+   "id": 3007,
+   "scanned_at": "2026-09-16T04:59:12.520109",
+   "date": "2026-09-16",
+   "agent": 60,
+   "market_price_t0": 57.5,
+   "edge": 0.025000000000000022,
+   "confidence": 0.5800000000000001,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "The best available anchors (Polymarket 57.5%, DDHQ 56%) and a Toss-Up Cook rating with an essentially tied RCP average put this near a coin flip with a modest GOP edge. Forecast 1's shading toward 64% rests on Iowa's historical pattern of polls understating Republicans (a real pattern in 2020/2022/2024, though not documented in the brief) and the R+11-13 structural lean; these are legitimate reasons to sit slightly above the market, but the market has likely already incorporated them, and the sharp 7-day decline in the Polymarket price plus underwater Trump approval in Iowa argue against moving far from it. The brief's 85-93% simulation is discounted because it assumes a mild D+4 environment inconsistent with the actual polling and forecaster consensus. I settle at 60% Yes, splitting the two forecasts with a slight tilt toward the market-consistent estimate.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3007",
+   "has_trace": true
+  },
+  {
    "id": 2315,
    "url": "https://forecast.agenticlearning.ai/scans/v2/2315",
    "date": "2026-08-31",
@@ -1511,6 +1525,20 @@
  ],
  "Will Likud win the most seats in the 2026 Israeli legislative election?": [
   {
+   "id": 3008,
+   "scanned_at": "2026-09-16T05:46:23.701531",
+   "date": "2026-09-16",
+   "agent": 42,
+   "market_price_t0": 39,
+   "edge": 0.02999999999999997,
+   "confidence": 0.535,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Both forecasters drew the same inference from the sub-questions: mid-September polls show a near-tie with a slight Yashar edge (5-poll average 23.6 vs 21.8; Kan/Maariv Yashar +2-6; ToI tie; i24 outlier Likud +5), and no Yashar-Together merger has materialized. The critique's strongest point is that the 39% Polymarket anchor is thin and possibly stale, but its push toward the 58% Monte Carlo is weak since that simulation appears to assume Likud level or ahead, whereas current polling has Likud ~2 seats behind — a poll-based estimate with ~3.5-seat error per party lands near 35-42%. I nudge slightly above the market because Likud has historically matched or beaten its polls and brand-new lists like Yashar often fade late, while list-submission deadlines cap the merger downside; Netanyahu's weak suitability numbers and Yashar's momentum keep this below 50%. Six weeks of demonstrated volatility justify staying near a coin flip with a modest No lean.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3008",
+   "has_trace": true
+  },
+  {
    "id": 2444,
    "url": "https://forecast.agenticlearning.ai/scans/v2/2444",
    "date": "2026-09-01",
@@ -2437,6 +2465,20 @@
  ],
  "Will the Democrats win the Ohio Senate race in 2026?": [
   {
+   "id": 3004,
+   "scanned_at": "2026-09-16T03:24:46.263290",
+   "date": "2026-09-16",
+   "agent": 54,
+   "market_price_t0": 56.5,
+   "edge": -0.02499999999999991,
+   "confidence": 0.5650000000000001,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Nominees are set and every major rater now calls Ohio a Toss-up, with the closest available market (Polymarket, identical question) at 56.5% Yes and trending toward Brown. The critique correctly notes that the Pollsmax aggregate (Husted +1.1, 52.8% win prob) and Ohio's structural GOP lean deserve real weight, which argues for shading below the market; but the Fermi model's 30-40% central estimate is anchored on Trump's 2024 presidential margin, an inappropriate baseline given a D+7 generic ballot and ~35% Trump approval that imply roughly an 8-point national swing versus 2024 — enough to convert Brown's 2024 3.6-point loss into a narrow lead, consistent with the near-even polling. Brown's demonstrated ~7-point overperformance is double-edged as the critique says, but the environment shift, not just his brand, is what changes the outcome calculus. Balancing the market (56.5%) against the poll-based model (~47%) with a modest tilt toward the favorable national environment lands me at 54% Yes, essentially in line with both forecasters.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3004",
+   "has_trace": true
+  },
+  {
    "id": 2556,
    "scanned_at": "2026-09-03T07:19:41.163942",
    "date": "2026-09-03",
@@ -2582,6 +2624,20 @@
   }
  ],
  "Fed Rate Hike by September 2026 Meeting?": [
+  {
+   "id": 2994,
+   "scanned_at": "2026-09-15T22:26:52.479515",
+   "date": "2026-09-15",
+   "agent": 87,
+   "market_price_t0": 87.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.72,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "No hike has occurred since Dec 2025 (DFEDTARU still 3.75%, July hold confirmed), so resolution depends entirely on the Sept 16 FOMC decision one day away. Market pricing (Polymarket 87.5%, CME FedWatch ~88-90%) has converged on a hike after hot August CPI/PPI and oil >$100, and is backed by three July hawkish dissents, minutes flagging tightening as likely necessary, a hawkish June SEP, and a Warsh Fed whose credibility is tied to inflation. The critique's point that the Fed rarely surprises against ~90% pricing argues for shading up, but the sharp whipsaw in odds over six weeks, explicit White House pressure against hiking, labor-market softness, and the fact that the surge occurred inside the blackout period (limiting Fed confirmation) argue for keeping some residual No mass. I settle essentially at the market anchor, ~0.87 Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2994",
+   "has_trace": true
+  },
   {
    "id": 2547,
    "scanned_at": "2026-09-03T04:55:17.042954",
@@ -4883,6 +4939,20 @@
  ],
  "Will inflation reach more than 5% in 2026?": [
   {
+   "id": 2987,
+   "scanned_at": "2026-09-15T19:18:52.654398",
+   "date": "2026-09-15",
+   "agent": 7.5,
+   "market_price_t0": 9.5,
+   "edge": -0.020000000000000004,
+   "confidence": 0.73,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "August headline CPI is 3.4% YoY with only four reports remaining; crossing 5% by December requires Sep–Dec MoM prints averaging roughly +0.65–0.7% (versus ~0.25% base-effect months being replaced), a pace seen only in 2022-style or 1970s oil-shock regimes. The critique is right that the unconditional base rate understates risk given an active Iran-driven oil shock (WTI ~$97, energy CPI +16% YoY) and that the market's uptrend carries real information, so I shade up from Forecast 1 — but even a further spike to $120-130 oil adds only ~1pp to headline in the near term, and no institutional or TIPS measure approaches 5%. Polymarket's 9.5% on a long-dated tail contract likely embeds some longshot/capital-cost premium, so a final ~7.5% sits between the forecasters and the anchor, retaining a meaningful tail for compounding oil + tariff pass-through escalation.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2987",
+   "has_trace": true
+  },
+  {
    "id": 2373,
    "scanned_at": "2026-09-01T01:45:33.145212",
    "date": "2026-09-01",
@@ -6163,6 +6233,20 @@
  ],
  "Will Russia enter Mykolaivka by September 30, 2026?": [
   {
+   "id": 2991,
+   "scanned_at": "2026-09-15T20:56:33.363409",
+   "date": "2026-09-15",
+   "agent": 43,
+   "market_price_t0": 44.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.48000000000000004,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Both forecasters landed within a few points of the Polymarket anchor (44.5%), and the critique's arguments cut in opposite directions: the D≈0 Monte Carlo case argues for higher, while the ~16-day window, the higher full-cycle ISW shading bar, the location-conflation risk, and Ukraine's nearby Lyman counteroffensive argue for lower. The most informative signal is that despite six-plus weeks of 'fighting inside Mykolaivka' reporting, the market has not resolved and its price fell 16pp in a week — indicating qualifying ISW shading has not locked in and traders see momentum shifting toward Ukraine on this axis. Still, Russian forces are genuinely engaged at or inside the town's edge with no ceasefire prospect, so an ISW infiltration/advance marking persisting through a cycle before Sept 30 remains a substantial possibility. I settle marginally below the anchor at 43% Yes, close to the consensus, with No modestly favored.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2991",
+   "has_trace": true
+  },
+  {
    "id": 2751,
    "scanned_at": "2026-09-08T18:21:02.043191",
    "date": "2026-09-08",
@@ -6825,6 +6909,20 @@
  ],
  "US recession by end of 2026?": [
   {
+   "id": 2989,
+   "scanned_at": "2026-09-15T20:03:26.254328",
+   "date": "2026-09-15",
+   "agent": 7,
+   "market_price_t0": 11.5,
+   "edge": -0.045,
+   "confidence": 0.74,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Both resolution paths look remote from mid-September 2026: the BEA two-quarter rule now requires both Q3 and Q4 2026 to print negative, yet GDPNow tracks Q3 at 4.4-4.8% and no negative quarter has occurred since Q1 2025, while the NBER path is even less likely given the committee's typical 6-18 month lag (only 2020's crash-style shock produced a fast declaration). The critique correctly notes the divergence from the 11.5% Polymarket anchor and the ~18.5% base rate, but the base rate is unconditional on a strong nowcast and non-inverted curve, and low-probability long-dated prediction markets systematically overprice tails (favorite-longshot bias, capital lock-up), so a modest shade below the anchor is justified rather than a reversion to it. I do give weight to unresolved labor-market softness, oil/Iran shock recurrence, and resolution-rule ambiguity, which keeps me from going as low as 5-6%. Final call ~7% Yes, between the two forecasts and below the market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2989",
+   "has_trace": true
+  },
+  {
    "id": 2679,
    "scanned_at": "2026-09-06T12:09:07.989410",
    "date": "2026-09-06",
@@ -7179,6 +7277,20 @@
  ],
  "Will Renan Santos finish in third place in the first round of the 2026 Brazilian presidential election?": [
   {
+   "id": 3002,
+   "scanned_at": "2026-09-16T02:36:17.956529",
+   "date": "2026-09-16",
+   "agent": 36,
+   "market_price_t0": 37.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.52,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "The only same-event market (Polymarket) sits at 37.5% YES with a sustained downward trend, even while most September polls place Renan narrowly 3rd at 3-8% — the divergence suggests traders expect his thin margin over Caiado/Zema to erode or the field (e.g., Tarcísio/Ratinho scenarios) to shift against him. The 2% runoff market is consistent with him being 3rd rather than raising that probability materially, since near-zero top-2 odds were already assumed. The 0/9 outsider base rate is a fragile reference class (n=9) and Renan's low rejection rate gives some upside, so I don't discount far below the anchor, but negative momentum and scenario-dependent polling justify landing slightly under it. Both forecasters converged on 0.35 and the critique did not expose a directional flaw, so I stay near consensus at 0.36.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3002",
+   "has_trace": true
+  },
+  {
    "id": 2150,
    "scanned_at": "2026-08-29T09:43:56.573911",
    "date": "2026-08-29",
@@ -7222,6 +7334,20 @@
   }
  ],
  "Will the Democrats win the Michigan Senate race in 2026?": [
+  {
+   "id": 2999,
+   "scanned_at": "2026-09-16T00:54:55.864088",
+   "date": "2026-09-16",
+   "agent": 63,
+   "market_price_t0": 61.5,
+   "edge": 0.015000000000000013,
+   "confidence": 0.62,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "The only available market anchor is Polymarket at 61.5% Dem win, and both forecasters landed at 64% — a modest premium justified by the midterm environment under a Republican president (out-party wins open swing seats ~70% historically), Michigan's 32-year streak of Democratic Senate wins, a small but consistent polling-aggregate lead (+1.4 across 27 polls), and Decision Desk HQ's rising 66% estimate. The critique's downside points are real — El-Sayed's progressive profile and net-negative favorability, Cook's Toss-up/top-GOP-pickup framing, the WDIV poll with Rogers narrowly ahead, and the 0.3-pt 2024 Slotkin–Rogers result — but the 2024 race occurred with Trump on the ballot in a presidential year, whereas 2026 is a midterm with Trump's approval slipping, which structurally favors Democrats relative to that reference class. The critique's upside points (base rate ~70%, polling-error model 65-75%) roughly offset the downside ones, so I see no reason to move far from consensus. I settle at 63% Yes, essentially at consensus but shaded a hair toward the market to reflect genuine uncertainty over how a progressive nominee performs with undecideds in a swing state.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2999",
+   "has_trace": true
+  },
   {
    "id": 2148,
    "scanned_at": "2026-08-29T08:57:46.112707",
@@ -7340,6 +7466,20 @@
   }
  ],
  "Will the Democrats win the Maine Senate race in 2026?": [
+  {
+   "id": 2998,
+   "scanned_at": "2026-09-16T00:11:08.556316",
+   "date": "2026-09-16",
+   "agent": 58,
+   "market_price_t0": 70.5,
+   "edge": -0.125,
+   "confidence": 0.6100000000000001,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "The Polymarket anchor (70.5%) is the only market signal, but the critique correctly notes it sits well above what the underlying evidence supports: professional forecasters rate the race a pure toss-up, Jackson's 2–3 point polling leads are within sampling error, and Collins beat her 2020 polling average by roughly 9 points in this exact state — a swing that would more than erase Jackson's current edge if even partially repeated. Additional downside factors both forecasters underweighted include the ~4:1 GOP ad-reservation advantage that will land in the final stretch, Jackson's status as a late replacement nominee with an untested statewide operation, and RCV/methodological uncertainty in the polls. Counterbalancing this, the national environment (unpopular president, tariff backlash, post-Dobbs abortion salience), Maine's blue lean, Jackson's strength among unaffiliated voters, and the near-perfect historical loss rate for crossover incumbents keep the Democrat a modest favorite. I therefore move below both forecasts toward the toss-up ratings while still giving Jackson the edge, landing at 58% Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2998",
+   "has_trace": true
+  },
   {
    "id": 2141,
    "scanned_at": "2026-08-29T05:48:04.567275",
@@ -7650,6 +7790,20 @@
   }
  ],
  "Will OpenAI have the best Text-to-Image AI at the end of October 2026?": [
+  {
+   "id": 3001,
+   "scanned_at": "2026-09-16T01:48:35.061320",
+   "date": "2026-09-16",
+   "agent": 80,
+   "market_price_t0": 91.5,
+   "edge": -0.11499999999999999,
+   "confidence": 0.5800000000000001,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Both forecasters agree OpenAI's GPT Image 2.5 (shipped Sept 8) currently leads or ties for #1 and no competitor has a confirmed release before Oct 31, which supports a strong Yes lean. The critique correctly notes that the 91.5% Polymarket anchor is thin (~$22k), the leading evidence is hedged ('preliminary board'), no primary Elo snapshot or gap was retrieved, and Google's image line has demonstrated much faster iteration than OpenAI's ~5-month cadence, leaving ~7 weeks for a Nano Banana update or another lab to overtake. I therefore shade slightly below both forecasts, but not dramatically, since a fresh release with reported quality gains and strong market momentum still makes an OpenAI hold the most likely outcome. Final call: 80% Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3001",
+   "has_trace": true
+  },
   {
    "id": 2125,
    "scanned_at": "2026-08-28T23:09:34.292006",
@@ -8334,6 +8488,20 @@
   }
  ],
  "Will FISA Section 702 reauthorization become law this year?": [
+  {
+   "id": 3013,
+   "scanned_at": "2026-09-16T08:11:36.957955",
+   "date": "2026-09-16",
+   "agent": 19,
+   "market_price_t0": 12.5,
+   "edge": 0.065,
+   "confidence": 0.52,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Section 702 has been statutorily lapsed since mid-June 2026 with no full reauthorization enacted through the research cutoff, and the FISA Court recertification running to March 2027 removes the operational deadline that historically forces action—in 2024 Congress passed RISAA only at the certification expiry, which here points to early 2027 rather than 2026. The critique correctly notes that Clayton's confirmation is a genuine catalyst, the House already passed a 3-year bill 235-191, and a lame-duck NDAA/omnibus vehicle is a real path that both forecasters underweighted; the event text's 'or otherwise qualifying' language also reduces the two-year-duration resolution risk. However, the thin 218-214 House margin, the Senate 60-vote warrant-requirement standoff, midterm-election disruption, and the absence of any confirmed vehicle attachment keep the base case at No. I move modestly above both forecasts and the thin, volatile Polymarket anchor (12.5%) to reflect the lame-duck scenario, landing at ~19% Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3013",
+   "has_trace": true
+  },
   {
    "id": 2074,
    "scanned_at": "2026-08-27T23:27:30.767962",
@@ -9471,6 +9639,20 @@
  ],
  "Billionaire one-time wealth tax passes in California election 2026?": [
   {
+   "id": 2992,
+   "scanned_at": "2026-09-15T21:41:59.585430",
+   "date": "2026-09-15",
+   "agent": 31,
+   "market_price_t0": 26.5,
+   "edge": 0.044999999999999984,
+   "confidence": 0.5900000000000001,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Qualification and withdrawal are settled, so this is purely a vote outcome. The late-August 48-41 lead with 11% undecided is a genuinely competitive position, but California ballot measures polling under 50% in summer against well-funded opposition (with the governor opposed and labor split) have a poor track record, and the 2022 Prop 30 collapse is the most relevant recent analog despite differing structure. The critique correctly notes that the Polymarket anchor is moderately thin and that the SF-only figure is not a clean bellwether, which argues for a small upward nudge from 26.5%, but not enough to override the structural headwinds and lack of post-ad polling. I land at 31% Yes, consistent with both forecasters and the brief's Fermi range of 20-42%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2992",
+   "has_trace": true
+  },
+  {
    "id": 1952,
    "scanned_at": "2026-08-25T22:47:56.487590",
    "date": "2026-08-25",
@@ -10056,6 +10238,20 @@
   }
  ],
  "Will Russia capture Mala Tokmachka by September 30, 2026?": [
+  {
+   "id": 2995,
+   "scanned_at": "2026-09-15T23:16:08.654896",
+   "date": "2026-09-15",
+   "agent": 6,
+   "market_price_t0": 7,
+   "edge": -0.010000000000000009,
+   "confidence": 0.72,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Both forecasters and the Polymarket anchor (7%, declining) converge on No, and the critique's strongest points actually argue for slightly lower, not higher: the 16-month record of failed Russian assaults, ISW showing only infiltration (not control) as of Sept 1, the ~6% tracker capture estimate on Sept 13, and the demonstrated multi-month lag between Russian claims and any ISW control shading make a full intersection capture in ~2.5 weeks very unlikely. The unverified 150,000-troop buildup report is the main tail, but even a real renewed offensive would struggle to convert to confirmed ISW shading before Sept 30, and a ceasefire scenario would lock in No rather than help Yes. I trim slightly below the thin-volume market price to 6% Yes, keeping a small tail for a sudden collapse or generous ISW reassessment.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/2995",
+   "has_trace": true
+  },
   {
    "id": 2755,
    "scanned_at": "2026-09-08T22:14:56.065967",
@@ -13198,7 +13394,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-15T19:00:11.300Z",
+  "last_sync": "2026-09-16T08:35:06.116Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -14606,6 +14802,54 @@
    "pipeline": 2,
    "rationale": "The same-ticker Polymarket price (88.5%, stable over 7d and rising over 30d) is the best available signal because the arena.ai leaderboard is public and bettors can observe the live filtered ranking that the research brief failed to capture; a 39% low earlier in the window likely reflects a genuine temporary displacement that has since reversed. The llm-stats Kling v3 score of 1934 is inconsistent with arena.ai's documented 1006–1515 range, so it most plausibly reflects a different leaderboard, weakening the strongest anti-Google data point. However, the critique is right that the market is thin, Kalshi-direct was not retrieved, video leaderboards churn frequently with Kling/Seedance momentum strong, and the 'Preliminary' tag on Gemini Omni models introduces filter-eligibility risk over the remaining weeks. I therefore land near the midpoint of the two forecasts, discounting the proxy anchor by roughly 10pp.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/2967",
+   "has_trace": true
+  }
+ ],
+ "Next Fable Model (5.2+) released by October 31, 2026?": [
+  {
+   "id": 3011,
+   "scanned_at": "2026-09-16T07:24:40.813663",
+   "date": "2026-09-16",
+   "agent": 54,
+   "market_price_t0": 63.5,
+   "edge": -0.09499999999999997,
+   "confidence": 0.47000000000000003,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "No Kalshi-direct price exists; the only direct anchor is Polymarket at 63.5% YES on ~$17k volume, with a +47pp 30-day surge that tracks a single unverified X-account rumor, so it deserves a meaningful discount. The Fable-specific precedent (5→5.1 in ~84 days) projects 5.2 to ~Nov 23, past the deadline, and the Manifold cross-market (85% by Dec 16) implies roughly 48–66% for Oct 31 depending on whether one interpolates linearly or assumes a constant hazard — consistent with a modest lean toward Yes but not the Polymarket level. Anthropic's accelerating overall cadence (recent cross-tier gaps of 16–40 days) and the ~7-week remaining window keep a late-Sept/early-Oct launch plausible, while the June export-control suspension and small naming-skip tail argue for shading toward No. Both forecasters drew the same inferences from the sub-questions; the critique mostly reinforces a downward discount on the market price rather than exposing a directional flaw, so I land near the midpoint of the two forecasts, slightly below Forecast 2.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3011",
+   "has_trace": true
+  }
+ ],
+ "Probable FDV above $50M one day after launch?": [
+  {
+   "id": 3010,
+   "scanned_at": "2026-09-16T06:31:30.938829",
+   "date": "2026-09-16",
+   "agent": 14,
+   "market_price_t0": 12,
+   "edge": 0.020000000000000018,
+   "confidence": 0.625,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "The binding constraint is whether a token identifiable as Probable's ever launches: the March 2026 acquisition by Predict.fun largely closes the standalone pathway, and the Polymarket proxy has drifted down to 12% despite a strongly bullish crypto backdrop, suggesting participants have priced in the acquisition. Decomposing explicitly, P(qualifying launch by end-2027) ≈ 15–20% times P(FDV>$50M | launch) ≈ 70% (Limitless/Opinion comparables landed $55–89M) yields roughly 11–14%, consistent with the anchor. I add a small increment for resolution ambiguity — a Predict.fun token being counted as Probable's is a real, if unlikely, tail given Predict.fun's traction and the long horizon — but Kalshi resolution rules would most likely require a Probable-branded token, so this tail is modest. The IOSG post-launch decline data is neutral for a day-1 question and I do not count it against Yes. Final: Yes 14%, No 86%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3010",
+   "has_trace": true
+  }
+ ],
+ "Will JD Vance visit Ukraine by December 31, 2026?": [
+  {
+   "id": 3005,
+   "scanned_at": "2026-09-16T04:13:43.549420",
+   "date": "2026-09-16",
+   "agent": 8,
+   "market_price_t0": 10.1,
+   "edge": -0.020500000000000004,
+   "confidence": 0.71,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Both forecasters converged on 7-8%, slightly below the Polymarket 10% anchor, and the sub-question evidence uniformly supports No: Vance has never visited Ukraine, explicitly rebuffed Zelensky's invitations as 'propaganda tours,' skipped Munich 2026, is focused on domestic midterm travel, and Rubio/Witkoff/Kushner are the operational Ukraine point-people. The critique's strongest points—the post-midterm window and the fact that ceremonial signings draw different attendees than working-level negotiators—are legitimate tail pathways, but negotiations are stalled with no signing scheduled, Trump himself would be the more likely ceremonial attendee, and only ~3.5 months remain. I keep the distribution essentially at the forecasters' level rather than shading further below, respecting the market's ~10% given the thin Polymarket volume and genuine peace-deal tail risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3005",
    "has_trace": true
   }
  ]

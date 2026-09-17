@@ -715,6 +715,20 @@
  ],
  "Will Alibaba be removed from Chinese Military Companies list by June 30, 2027?": [
   {
+   "id": 3086,
+   "scanned_at": "2026-09-17T18:30:30.471150",
+   "date": "2026-09-17",
+   "agent": 17.8,
+   "market_price_t0": 17.5,
+   "edge": 0.0030000000000000304,
+   "confidence": 0.5640000000000001,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.18, 0.16, 0.17, 0.18, 0.20). Alibaba was added to the 1260H list June 8, 2026 and remains listed; the only path to a Yes is a court-ordered or negotiated delisting before June 30, 2027. The unconditional 12-month removal base rate is ~3-5%, and recent litigants (Hesai, DJI) spent 1-2+ years in court without removal, though the 2021 Xiaomi/Luokung precedent and DoD's own Feb 2026 pre-publication withdrawal show a fast litigation win is plausible for a well-resourced plaintiff. With no administration signal of reversal and an adversarial trade environment (Chinese retaliatory sanctions), I anchor near the Polymarket proxy of 17.5% Yes (no Kalshi-direct price), slightly above the pure base rate to reflect the active lawsuit and possible trade-deal bargaining.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3086",
+   "has_trace": true
+  },
+  {
    "id": 2189,
    "url": "https://forecast.agenticlearning.ai/scans/v2/2189",
    "date": "2026-08-29",
@@ -1068,6 +1082,20 @@
   }
  ],
  "Will no listed leader be out before 2027?": [
+  {
+   "id": 3073,
+   "scanned_at": "2026-09-17T13:03:31.129745",
+   "date": "2026-09-17",
+   "agent": 36.2,
+   "market_price_t0": 32.5,
+   "edge": 0.03699999999999998,
+   "confidence": 0.512,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.36, 0.36, 0.36, 0.35, 0.38). The Polymarket anchor for 'None out' is 32.5% and trending down from 43% on Aug 1. Multiplying the per-leader sibling 'stay' odds (Netanyahu ~72%, Merz ~84%, Dan ~86%, Lee ~92%, Díaz-Canel ~92%, Lecornu ~94%, plus ~15 low-risk leaders at 97-99.5% each) yields roughly 35%, consistent with the market rather than the brief's 50-65% base-rate band, which appears to assume fewer leaders. Netanyahu's Oct 27 election is the biggest wildcard, though the outgoing government likely persists past year-end, and long-shot per-leader prices are probably somewhat inflated, justifying a modest tilt above the anchor. I settle at 36% Yes / 64% No.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3073",
+   "has_trace": true
+  },
   {
    "id": 2089,
    "url": "https://forecast.agenticlearning.ai/scans/v2/2089",
@@ -2358,6 +2386,20 @@
   }
  ],
  "Will Kareem Allam win the 2026 Vancouver mayoral election?": [
+  {
+   "id": 3082,
+   "scanned_at": "2026-09-17T16:53:11.742424",
+   "date": "2026-09-17",
+   "agent": 8,
+   "market_price_t0": 8.5,
+   "edge": -0.005000000000000018,
+   "confidence": 0.6759999999999999,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.08, 0.08, 0.08, 0.08, 0.08). Allam is a declared candidate with a real organizational base but trails Sim (30%) and is tied with Fry (19%) in the most credible August Research Co. poll, and the September progressive consolidation (Allen and Azaroff withdrawing) flows anti-Sim votes to Fry rather than to Allam. Polymarket, the best available proxy for Kalshi, prices Allam at 8.5% versus Sim 50.5% and Fry 40.3%, framing this as effectively a Sim-vs-Fry race. The Tyee analysis and incumbency precedent further favor Sim, while Allam's non-ABC lane is split with Hardwick and Bligh. The high undecided share (~1/3) and lack of post-consolidation polling justify not going below ~7-8%, so I stay near the market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3082",
+   "has_trace": true
+  },
   {
    "id": 2565,
    "scanned_at": "2026-09-03T11:19:24.249611",
@@ -3652,6 +3694,20 @@
   }
  ],
  "Will the Democratic Party control the House after the 2026 Midterm elections?": [
+  {
+   "id": 3065,
+   "scanned_at": "2026-09-17T09:44:29.775117",
+   "date": "2026-09-17",
+   "agent": 88.1,
+   "market_price_t0": 88.5,
+   "edge": -0.0040000000000000036,
+   "confidence": 0.688,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.87, 0.87, 0.89, 0.89, 0.89). The cross-platform anchor (Polymarket 88.5%, balance-of-power sub-markets implying ~90%) is consistent with the fundamentals: a D+6-8 generic ballot, Trump net approval at -19.5 to -32, a razor-thin GOP majority (218-214, D needs only +3-4 net), record GOP retirements, and the strong historical base rate for the president's party losing midterm seats. The main countervailing risk is unquantified GOP-favorable mid-decade redistricting (TX/MO/NC/OH/FL, partially offset by CA Prop 50) plus a possible Callais ruling, and the structural 2-3pt GOP seat bias, which together justify staying just under the market rather than above it. No brief evidence suggests the market has mispriced the environment, so I anchor close to consensus with a slight haircut for the redistricting gap and the ~7 weeks of remaining event risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3065",
+   "has_trace": true
+  },
   {
    "id": 2482,
    "scanned_at": "2026-09-02T08:52:42.867941",
@@ -8111,6 +8167,20 @@
  ],
  "Will a hurricane make landfall in Hawaii before 2027?": [
   {
+   "id": 3069,
+   "scanned_at": "2026-09-17T11:27:48.873002",
+   "date": "2026-09-17",
+   "agent": 14.4,
+   "market_price_t0": 15,
+   "edge": -0.00599999999999995,
+   "confidence": 0.518,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.16, 0.13, 0.14, 0.14, 0.15). The Polymarket anchor of 15% YES (down from a 56% peak during Lala's threat) indicates the market believes Hurricane Lala did not produce a qualifying CPHC landfall, consistent with CNBC's post-storm report that the eyewall 'skirted Hawaii without making landfall.' The historical base rate of Cat 1+ Hawaii landfalls is ~2.7%/yr, and even with a strengthening El Niño boosting Central Pacific activity, the remaining season (through Nov 30) implies only ~4-7% strict-landfall probability. However, residual resolution ambiguity around Lala (Wikipedia's 'direct hit' framing) and the unusually active season justify staying near the market price rather than the pure base rate. I land slightly above the market to reflect the unresolved Lala dispute and possible late-season El Niño storms.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3069",
+   "has_trace": true
+  },
+  {
    "id": 2723,
    "scanned_at": "2026-09-07T19:26:38.314882",
    "date": "2026-09-07",
@@ -8884,6 +8954,20 @@
   }
  ],
  "Will the Democrats win the South Carolina Senate race in 2026?": [
+  {
+   "id": 3063,
+   "scanned_at": "2026-09-17T08:59:09.660681",
+   "date": "2026-09-17",
+   "agent": 13.2,
+   "market_price_t0": 14.5,
+   "edge": -0.012999999999999984,
+   "confidence": 0.6559999999999999,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.12, 0.13, 0.14, 0.13, 0.14). No direct Kalshi price exists, so the Polymarket proxy of 14.5% YES is the market anchor. Structural fundamentals are heavily Republican: Trump +17.9 in 2024, Graham +10.2 in 2020 despite Harrison's $130M and similarly close pre-election polls, no Democratic SC Senate win since 1998, and Cook rates the race 'Solid R.' The current R+3.7 polling average across only 5 polls and a strong national environment (D+7-9 generic ballot) keep the Democratic path alive, and Darline Graham's appointment/debate stumbles add some variance, but 2020 showed SC polls overstating Democratic strength by ~7 points. Blending the fundamentals model (~8-10%) with the market's 14.5%, I land slightly below the Polymarket price at ~12%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3063",
+   "has_trace": true
+  },
   {
    "id": 2033,
    "scanned_at": "2026-08-27T05:09:16.424327",
@@ -9939,6 +10023,20 @@
  ],
  "Will Mojtaba Khamenei be head of state in Iran end of 2026?": [
   {
+   "id": 3078,
+   "scanned_at": "2026-09-17T15:22:51.847567",
+   "date": "2026-09-17",
+   "agent": 82,
+   "market_price_t0": 84,
+   "edge": -0.019500000000000073,
+   "confidence": 0.63,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.83, 0.81, 0.82, 0.82, 0.82). Mojtaba Khamenei has formally held the Supreme Leader title since March 8, 2026 with public IRGC and government backing, and regime control is described as solid despite months of war, so the status quo strongly favors Yes with only ~3.5 months remaining. No Kalshi-direct price exists; the liquid Polymarket sibling ($6.5M volume) prices Yes at ~84%, with the 'No Head of State' market at only 4.45%, and I anchor on that. The main downside risks are his 200+ days of invisibility with unresolved injury/coma reports, his status as an active US bounty target in an ongoing war, and the market's 'de facto control' standard, which could resolve No if he is shown to be incapacitated while others govern. Balancing the strong institutional incentive to keep him as figurehead against genuine mortality and resolution-ambiguity risk, I land close to the market at 0.83.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3078",
+   "has_trace": true
+  },
+  {
    "id": 1946,
    "scanned_at": "2026-08-25T21:26:19.480826",
    "date": "2026-08-25",
@@ -10088,6 +10186,20 @@
   }
  ],
  "Will the U.S. invade Iran before 2027?": [
+  {
+   "id": 3076,
+   "scanned_at": "2026-09-17T14:38:10.034152",
+   "date": "2026-09-17",
+   "agent": 15.2,
+   "market_price_t0": 16.5,
+   "edge": -0.013000000000000012,
+   "confidence": 0.5599999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.14, 0.15, 0.14, 0.15, 0.18). The Polymarket anchor for this exact event sits at ~16.5% YES and has drifted down from a 31.5% peak during the Feb–Mar 2026 war outbreak, reflecting a ceasefire/MOU since June 14 and Trump's deal-seeking rhetoric ('war will end immediately after our election'). Force posture (82nd Airborne, MEUs) is real and Pentagon planning for Kharg Island/coastal seizures would plausibly resolve YES, so tail risk is materially above the historical ~7–9% model estimate — but reporting consistently says plans 'stop short of full invasion' and Hegseth explicitly touts 'no boots on the ground.' Ceasefire-continuation markets at 66–93% and regime-fall at 6.5% signal markets expect de-escalation over the remaining ~3.5 months. I shade slightly below the anchor given the short window and stated political intent to end rather than expand the war, while keeping meaningful probability for a coercive island seizure if the fragile ceasefire collapses.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3076",
+   "has_trace": true
+  },
   {
    "id": 1936,
    "scanned_at": "2026-08-25T16:11:28.979711",
@@ -11475,6 +11587,20 @@
  ],
  "Will Trump and Putin not meet?": [
   {
+   "id": 3070,
+   "scanned_at": "2026-09-17T12:12:12.626699",
+   "date": "2026-09-17",
+   "agent": 36.8,
+   "market_price_t0": 33,
+   "edge": 0.03799999999999998,
+   "confidence": 0.536,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.37, 0.37, 0.38, 0.36, 0.36). The best market anchor (Polymarket) prices 'no meeting' at 33%, having fallen sharply from 76% as APEC-sideline trilateral chatter and the G20 Miami (Dec 14-15, Doral) venue emerged; Trump-era base rates for a 14-month window imply only ~17-25% no-meeting probability. Against that, the September 2026 Witkoff/Kushner Moscow trip produced 'no breakthrough,' Russia's maximalist demands are unchanged, Trump has explicitly conditioned a summit on Moscow being 'ready for a peace deal,' Budapest is effectively dead, and no date or venue is confirmed with only ~3.5 months left. Putin attending a US-hosted G20 or Trump attending APEC in China alongside Putin are both plausible but unconfirmed, so I lean slightly above the market toward 'Yes' while still favoring a meeting occurring.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3070",
+   "has_trace": true
+  },
+  {
    "id": 1641,
    "scanned_at": "2026-08-22T13:49:33.823316",
    "date": "2026-08-22",
@@ -12374,6 +12500,20 @@
   }
  ],
  "Will FaZe win a Tier 1 event in 2026?": [
+  {
+   "id": 3080,
+   "scanned_at": "2026-09-17T16:09:32.375770",
+   "date": "2026-09-17",
+   "agent": 15.4,
+   "market_price_t0": 18,
+   "edge": -0.025999999999999968,
+   "confidence": 0.5780000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.15, 0.14, 0.15, 0.16, 0.17). FaZe has no S-Tier title in 2025-2026, lost IGL karrigan to Falcons in April 2026, missed the Cologne Major, and posted 12th-15th finishes at its 2026 S-Tier events, with HLTV ranking hovering around the top-15 boundary. Only ~3-4 S-Tier events remain (BLAST Open Fall, EPL S24, IEM Beijing, PGL Major Singapore), and Major qualification for Singapore is unconfirmed; a borderline top-15 team realistically has ~3-5% per-event title odds against Vitality, Falcons, MongolZ, Spirit, etc. The Polymarket proxy at 18.3% (Kalshi unavailable) is the anchor, but the recent uptrend looks driven by a BLAST Bounty semifinal/BLAST Rivals run rather than any evidence FaZe can beat elite teams in a full bracket, and the subsequent reported ranking slide argues for slightly discounting it. I land marginally below market at 15% Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3080",
+   "has_trace": true
+  },
   {
    "id": 1438,
    "scanned_at": "2026-08-18T00:23:25.834567",
@@ -13604,10 +13744,24 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-17T08:39:07.146Z",
+  "last_sync": "2026-09-17T19:02:49.651Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
+  {
+   "id": 3066,
+   "scanned_at": "2026-09-17T10:29:00.705469",
+   "date": "2026-09-17",
+   "agent": 14,
+   "market_price_t0": 16.2,
+   "edge": -0.021999999999999992,
+   "confidence": 0.65,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.14, 0.12, 0.14, 0.15, 0.15). Fréchette is the incumbent CAQ Premier but the CAQ sits third in the polling consensus (Léger Sept 7: PQ 29, CAQ 23, PLQ 22; Nanos Sept 14: PQ 28) and third in the Poliwave seat projection (PQ 45, PLQ 38, CAQ 34), roughly 6 points behind the PQ with about three weeks to Oct 5. The 'Fréchette effect' rebound from 13% to ~23% has plateaued, and incumbents trailing by this margin so late rarely finish first; the lone late-August 'dead heat' poll is unreconciled with other trackers. A minority-legislature scenario gives a small tail where the sitting Premier attempts to govern, but the PQ's clear seat lead makes that unlikely. Polymarket (no Kalshi direct price) prices her at 16.2% with PSPP at 81.5%, and I shade slightly below that anchor given the stable third-place trend and recent downward market momentum.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3066",
+   "has_trace": true
+  },
   {
    "id": 2601,
    "scanned_at": "2026-09-04T07:31:57.893202",
@@ -15292,6 +15446,38 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.48, 0.48, 0.46, 0.48, 0.48). The Fed hiked 25bp on Sept 16, 2026 to 3.75-4.00% with the statement/dot plot explicitly flagging the 'possibility of another rate increase this year,' and inflation remains well above target (CPI/core PCE rising, one measure cited at 4.2%) with a stable ~4.1% unemployment rate that gives no reason to ease. The only direct market price (Polymarket 'no change' at 50.5%) has fallen 21pts in 30 days, indicating markets are pricing a meaningfully elevated chance of a consecutive October hike under hawkish Chair Warsh. Offsetting this, the Fed often pauses to assess data after a fresh move and Warsh stresses data-dependence, so a hold remains very plausible. I anchor close to the ~50% market consensus and tilt slightly toward 'No' given the downward momentum and hawkish signals, while acknowledging no independent confirmation of the October outcome.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3035",
+   "has_trace": true
+  }
+ ],
+ "Will Apple release a new product line before 2027?": [
+  {
+   "id": 3084,
+   "scanned_at": "2026-09-17T17:45:31.039219",
+   "date": "2026-09-17",
+   "agent": 16.2,
+   "market_price_t0": 16,
+   "edge": 0.0020000000000000018,
+   "confidence": 0.6060000000000001,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.17, 0.17, 0.17, 0.15, 0.15). No qualifying new Apple category has shipped as of the Sept 9, 2026 event, and the two headline candidates (smart glasses, tabletop robot) are confirmed pushed to 2027. The only live path is the smart home hub/display, which Gurman still called 'coming this year' as of late August 2026 (Oct 2026–early 2027 window) but which failed to appear in September and has slipped repeatedly; a late-fall press-release launch remains plausible, and Apple often ships home products outside the September keynote, but resolver ambiguity about whether a home display counts as 'not previously sold' adds further downside for YES. The Polymarket consensus at 15.5% YES with a sharp downward trend from 44% is the best available anchor absent a Kalshi price, and the brief surfaces no unpriced information to move meaningfully away from it. I land slightly above the market to reflect the still-open Q4 Home Hub window.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3084",
+   "has_trace": true
+  }
+ ],
+ "Will Alibaba have the best Chinese AI model at the end of October 2026?": [
+  {
+   "id": 3074,
+   "scanned_at": "2026-09-17T13:49:06.746546",
+   "date": "2026-09-17",
+   "agent": 60.2,
+   "market_price_t0": 47,
+   "edge": 0.132,
+   "confidence": 0.504,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.62, 0.60, 0.58, 0.61, 0.60). The resolution source (arena.ai no-style-control, Sep 13 snapshot) shows Alibaba's qwen3.8-max as the top Chinese model at #14 with a multi-rank gap over Z.ai (#20) and Moonshot (#23), and a Qwen Max 3.9+ release before Oct 31 is priced at 93%, which should defend or extend that lead. The structurally identical September market prices Alibaba at 87.5%, indicating the Arena-specific base rate favors Alibaba even when other benchmarks tilt toward Kimi K3. The Polymarket anchor for this market is 50%, down from 73.5% over 30 days on thin ($19K) volume, which I treat as real but noisy signal of anticipated competitor releases (GLM-5.x, Kimi updates) over a 7-week window with historically high leadership churn. Netting the incumbent advantage on the actual resolution source against the market's compression and stale snapshot, I land moderately above the 50% anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3074",
    "has_trace": true
   }
  ]

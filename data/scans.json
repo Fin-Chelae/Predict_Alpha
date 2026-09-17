@@ -1,6 +1,20 @@
 {
  "2026 Balance of Power: D Senate, D House": [
   {
+   "id": 3037,
+   "scanned_at": "2026-09-16T20:11:16.613247",
+   "date": "2026-09-16",
+   "agent": 56.4,
+   "market_price_t0": 58.5,
+   "edge": -0.020999999999999908,
+   "confidence": 0.584,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.56, 0.56, 0.55, 0.57, 0.58). The binding constraint is the Senate: Democrats need net +4 on a 53-47 map, and the joint sweep price (Polymarket 58.5%) is essentially identical to the standalone D-Senate price (~58%), since a D House (87.5%) is a near-certain component of any D-Senate scenario. The Senate case is genuinely competitive — NC (Cooper) leans D, and ME/OH/TX/IA/AK are toss-ups, with Nate Silver's model at ~57-59% D Senate — but the 2018 analog (D+7 generic ballot, ~40% approval, Senate did not flip) and the need to run the table in several red states argue for shading slightly below the market. Additional friction in NH (Sununu, now toss-up) and MI (El-Sayed) adds downside risk to the Democratic path. I anchor near the Polymarket 58.5% consensus but trim modestly for structural Senate difficulty, landing at 56% Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3037",
+   "has_trace": true
+  },
+  {
    "id": 2354,
    "url": "https://forecast.agenticlearning.ai/scans/v2/2354",
    "date": "2026-08-31",
@@ -805,6 +819,20 @@
  ],
  "Will the Republicans win the Texas Senate race in 2026?": [
   {
+   "id": 3059,
+   "scanned_at": "2026-09-17T06:37:42.853524",
+   "date": "2026-09-17",
+   "agent": 46.6,
+   "market_price_t0": 43.5,
+   "edge": 0.031000000000000028,
+   "confidence": 0.5559999999999999,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.47, 0.49, 0.46, 0.46, 0.45). No Kalshi-direct price exists, so the Polymarket direct market at 43.5% GOP Yes (declining trend) serves as the consensus anchor. Aug–Sep polls show Talarico with narrow 1–4 point leads and Cook/Sabato's have moved the race to Toss-up, reflecting Paxton's unpopularity and a Democratic-leaning midterm environment. Countervailing factors are strong: Texas has not elected a Democratic senator since 1988, Texas polls have historically understated Republican margins (O'Rourke 2018, Allred 2024), and $100M+ in late GOP outside spending plus ~9–10% GOP-leaning undecideds could pull the race back. I shade modestly above the market toward a near coin-flip given the structural Republican lean, but the candidate-quality gap and polling keep Talarico a slight favorite.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3059",
+   "has_trace": true
+  },
+  {
    "id": 2142,
    "url": "https://forecast.agenticlearning.ai/scans/v2/2142",
    "date": "2026-08-29",
@@ -848,6 +876,20 @@
   }
  ],
  "Will Apple release a touchscreen MacBook in 2026?": [
+  {
+   "id": 3043,
+   "scanned_at": "2026-09-16T23:19:37.683902",
+   "date": "2026-09-16",
+   "agent": 55.6,
+   "market_price_t0": 66,
+   "edge": -0.10399999999999998,
+   "confidence": 0.52,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.55, 0.57, 0.58, 0.54, 0.54). The only cross-market anchor is Polymarket YES at 66% (rising on Sept reports that a 14\"/16\" touch-OLED MacBook Pro/'Ultra' is in active testing on macOS 27.1 with M5 Pro/Max silicon, consistent with Apple's usual late-Oct/Nov Mac launch window). However, both Gurman and Kuo still frame the window as 'late 2026 or early 2027,' an April 2026 report flagged RAM/SSD/OLED shortages pushing to 2027, and the Sept 9 event passed with no Mac unveiling, leaving only ~3.5 months for announcement, production ramp, and retail availability. Apple's history with new-form-factor displays (OLED iPad Pro) shows repeated slippage, so I fade the 66% consensus modestly to 55% rather than fully trusting the recent uptick.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3043",
+   "has_trace": true
+  },
   {
    "id": 2139,
    "url": "https://forecast.agenticlearning.ai/scans/v2/2139",
@@ -4135,6 +4177,20 @@
  ],
  "Will the Democratic Party control the Senate after the 2026 Midterm elections?": [
   {
+   "id": 3049,
+   "scanned_at": "2026-09-17T02:41:48.357054",
+   "date": "2026-09-17",
+   "agent": 53.2,
+   "market_price_t0": 59.5,
+   "edge": -0.06299999999999994,
+   "confidence": 0.492,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.55, 0.56, 0.53, 0.54, 0.48). The clearest consensus price is Polymarket's same-question market at 59.5% YES, trending up +9pts over 30 days, and Silver Bulletin's model sits at ~59%, driven by a D+7.5 to D+8 generic ballot and Trump approval near 35%. Against that, Democrats need a net +4 on a map with 23 GOP seats up vs. 13, must simultaneously hold GA, MI, and NH, and the brief's bottom-up Monte Carlo yields only ~16% (though it likely understates correlation and the current environment shift, since TX, OH, NC, ME, IA, AK are all genuinely competitive in a D+8 year). The primary losses of Cornyn and Cassidy and Tillis's retirement have opened real paths (NC, TX, OH), consistent with the market's move. I anchor on the market but shade a few points toward No to reflect the structural map, correlated defense risk, and wide forecaster disagreement (VoteHub ~51%, PollsMax favors GOP), landing at 55% Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3049",
+   "has_trace": true
+  },
+  {
    "id": 2446,
    "scanned_at": "2026-09-01T23:21:12.105340",
    "date": "2026-09-01",
@@ -4760,6 +4816,20 @@
   }
  ],
  "Will Cleitinho Azevedo win the 2026 Minas Gerais gubernatorial election?": [
+  {
+   "id": 3062,
+   "scanned_at": "2026-09-17T08:12:14.539082",
+   "date": "2026-09-17",
+   "agent": 85.4,
+   "market_price_t0": 86.1,
+   "edge": -0.006500000000000172,
+   "confidence": 0.6719999999999999,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.83, 0.84, 0.86, 0.87, 0.87). Cleitinho's candidacy is officially confirmed (Republicanos, Aug 8) and he has led every first-round poll (29-36%) and every runoff simulation across Quaest and Real Time Big Data over 2+ months, with rivals fragmented (Kalil ~12% with 39% rejection, Ananias ~10%, Simões ~6%). Polymarket prices him at 85.65% YES, the best available consensus proxy since no direct Kalshi quote was returned. Residual risk comes from the four-week horizon, a first-round share only in the low 30s that likely forces a runoff, possible late consolidation behind a single rival, and the lack of independent Datafolha/AtlasIntel corroboration, so I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3062",
+   "has_trace": true
+  },
   {
    "id": 2388,
    "scanned_at": "2026-09-01T05:45:43.104696",
@@ -6570,6 +6640,20 @@
   }
  ],
  "Will OpenAI have a #1 AI model by December 31, 2026?": [
+  {
+   "id": 3056,
+   "scanned_at": "2026-09-17T05:50:02.503357",
+   "date": "2026-09-17",
+   "agent": 27,
+   "market_price_t0": 27.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.526,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.28, 0.25, 0.26, 0.28, 0.28). The resolution source (Sep 13, 2026) shows Anthropic's claude-fable-5 at #1 with OpenAI's best model at rank 18, 23 Elo behind, and the Polymarket sibling anchor sits at 27.5% YES on a downtrend. Offsetting factors are that ties (overlapping CIs) count as YES, the top tier is clustered within noise, the crown has changed hands ~19 times in 41 months, OpenAI historically held #1 ~37% of months, and GPT-6 Astra (Sep 3) has not yet clearly registered on the board and could climb. With ~3.5 months left and a multi-way race where Google and Anthropic are at least as likely to hold #1 at the snapshot, a probability near the market anchor is appropriate, nudged slightly for OpenAI's release cadence and the tie rule.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3056",
+   "has_trace": true
+  },
   {
    "id": 2685,
    "scanned_at": "2026-09-06T16:59:29.071482",
@@ -10515,6 +10599,20 @@
  ],
  "Will any presidential candidate win outright in the first round of the Brazil election?": [
   {
+   "id": 3060,
+   "scanned_at": "2026-09-17T07:27:19.036731",
+   "date": "2026-09-17",
+   "agent": 6.8,
+   "market_price_t0": 9.8,
+   "edge": -0.03,
+   "confidence": 0.718,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.06, 0.08, 0.08, 0.06, 0.06). Sept 2026 polls put Lula at 38-43% and Flávio Bolsonaro at 33-37%, meaning even after converting to valid-vote shares (excluding ~8-10% blank/null/undecided) the leader sits around 42-47%, short of the 50%+1 threshold. Every Brazilian election since 2002 (7 straight) has gone to a runoff, and 2022's 48.4% was the closest approach; the right-wing field is consolidated behind Flávio, leaving no fragmentation that would let Lula run away with a majority, while Cury's 8-11% further caps anyone's ceiling. The Polymarket proxy anchor sits at 8.65% (no direct Kalshi print), and a normal-approximation model implies ~1-8%. I shade slightly below the market given the strong recent base rate and no polling trend toward a majority, but leave meaningful residual for polling error and late-deciding voters breaking heavily to Lula.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3060",
+   "has_trace": true
+  },
+  {
    "id": 1865,
    "scanned_at": "2026-08-24T16:19:02.295911",
    "date": "2026-08-24",
@@ -11732,6 +11830,20 @@
   }
  ],
  "Lee Jae-myung out as president of South Korea in 2026?": [
+  {
+   "id": 3054,
+   "scanned_at": "2026-09-17T04:24:02.148019",
+   "date": "2026-09-17",
+   "agent": 5.3,
+   "market_price_t0": 7.8,
+   "edge": -0.025499999999999988,
+   "confidence": 0.754,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.04, 0.05, 0.04, 0.07, 0.07). With roughly 3.5 months remaining in 2026, every plausible exit path is structurally blocked: all four criminal cases are frozen under Article 84 immunity (Seoul High Court indefinitely postponed the retrial), the DP-aligned bloc controls the Assembly making the 200/300 impeachment threshold unreachable, no impeachment motion exists, and Lee has explicitly affirmed his constitutionally limited term with no resignation or health signals. Falling approval (Realmeter 33.8%) is a political headache but has no mechanism to remove a president absent legislative or judicial action in this window. No direct Kalshi price was available; Polymarket's 7.85% YES (trending down) is the closest anchor, and the Kalshi 'full term' proxy at 54% spans five years so overstates 2026 risk. Given the short remaining horizon and the historical 0% base rate for removal in years 1-2, I discount somewhat below Polymarket, which likely carries longshot premium, leaving ~4% for tail events (sudden health incident, unforeseen scandal cascade).",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3054",
+   "has_trace": true
+  },
   {
    "id": 1554,
    "scanned_at": "2026-08-20T17:41:10.167375",
@@ -13492,7 +13604,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-16T18:54:32.448Z",
+  "last_sync": "2026-09-17T08:39:07.146Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -13879,6 +13991,20 @@
  ],
  "Will US unemployment reach at least 5.5% in 2026?": [
   {
+   "id": 3055,
+   "scanned_at": "2026-09-17T05:07:41.545592",
+   "date": "2026-09-17",
+   "agent": 4.2,
+   "market_price_t0": 7.1,
+   "edge": -0.028999999999999984,
+   "confidence": 0.828,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.04, 0.03, 0.03, 0.05, 0.06). August 2026 U-3 is 4.1% (BLS, released 2026-09-04), flat-to-declining all year (4.1-4.4% range), so a Yes requires a ~1.4pp jump within the four remaining reference months — a pace seen only in the 2020 pandemic shock and late-2008 collapse. Initial claims (~200-217K), layoffs at a 4-year low, and the Sept FOMC SEP median of 4.3% show no incipient deterioration, and no mainstream forecaster projects above 4.7%. The Polymarket proxy anchor is 7.1% YES and trending down, but long-shot tail contracts are typically overpriced; I shade below it given the compressed window. Recession odds (10-49%) are not the binding constraint because even a recession starting in Q4 rarely lifts U-3 that fast.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3055",
+   "has_trace": true
+  },
+  {
    "id": 2688,
    "scanned_at": "2026-09-06T19:23:22.974657",
    "date": "2026-09-06",
@@ -14148,6 +14274,20 @@
   }
  ],
  "Alexandre de Moraes out as Brazil Supreme Court Justice?": [
+  {
+   "id": 3047,
+   "scanned_at": "2026-09-17T01:51:08.740383",
+   "date": "2026-09-17",
+   "agent": 13,
+   "market_price_t0": 17,
+   "edge": -0.040000000000000036,
+   "confidence": 0.608,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.12, 0.14, 0.12, 0.13, 0.14). Moraes remains seated with no impeachment request ruled admissible by Senate President Alcolumbre, and even opposition Sen. Damares Alves concedes a 2026 impeachment conclusion is implausible; the Senate 2/3 removal path is effectively closed for this window. The only realistic route is voluntary resignation under Vorcaro/Banco Master scandal pressure, which his camp explicitly denies and which would break with a 135-year zero-removal history outside authoritarian breakdowns. The best available anchor is Polymarket YES at 17%, which has retraced sharply from a crisis-driven 37.5% spike and likely still carries speculative premium; I shade below it given the procedural blockers and ~3.5 months remaining, while keeping meaningful tail weight for a scandal-forced 'honorable exit' or an adverse Sept 15 plenary outcome not captured in the brief.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3047",
+   "has_trace": true
+  },
   {
    "id": 2785,
    "scanned_at": "2026-09-10T00:11:35.589010",
@@ -15040,6 +15180,118 @@
    "pipeline": 2,
    "rationale": "With no Kalshi price, the best anchors are Polymarket's 38.5% YES for this exact market and sportsbook odds of 2.8 (~33% de-vigged); both forecasters landed near the midpoint of these, and the critique's push toward 28-30% rests mainly on analyst opinions favoring MOUZ, which markets already incorporate and which are historically less reliable than bookmaker prices. Vitality's full roster and the absence of Spirit/Falcons justify favorite status, but an 8-team double-elimination bracket with MOUZ (fresh 2-0 H2H win), FURIA, NAVI, and Aurora keeps any single team's title odds well below 50%, consistent with the 25-40% base rate for top favorites. I apply a slight extra discount for thin Polymarket liquidity and MOUZ's momentum, settling marginally below the two forecasts at 34% YES. Postponement/cancellation risk is negligible, so residual mass goes to No.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3014",
+   "has_trace": true
+  }
+ ],
+ "Will the highest score achieved by a Google Gemini model on Humanity’s Last Exam in 2026 be 55% or higher?": [
+  {
+   "id": 3050,
+   "scanned_at": "2026-09-17T03:30:26.416883",
+   "date": "2026-09-17",
+   "agent": 46.6,
+   "market_price_t0": 47,
+   "edge": -0.003999999999999948,
+   "confidence": 0.48,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.45, 0.47, 0.48, 0.45, 0.48). The official Scale AI leaderboard (resolution source) shows Gemini 3.1 Pro Preview at 46.44% as of ~Aug 2026, ~8.6pp short of the 55% threshold, and Google's own best self-reported no-tools figure (48.4% Deep Think, Feb 2026) has not been surpassed in roughly six months, indicating deceleration consistent with the brief's logistic fit. A Yes requires a new flagship (Gemini 4 / Deep Think update) to land a ~10pp jump AND be posted on the lagging official table before Dec 31, which is plausible given Google's cadence but far from assured. The neighboring-bucket structure (50% at 84%, 60% at 15%) implies the market's modal outcome is 50–54%, consistent with the Polymarket proxy anchor of 46.5%. Unresolved reports of competitors at 55–65% on third-party aggregators offer some upside, but leaderboard lag and the strict no-tools criterion offset it, so I sit slightly below the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3050",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic be the second-best Code Arena | WebDev AI lab at the end of September 2026?": [
+  {
+   "id": 3046,
+   "scanned_at": "2026-09-17T00:59:05.220861",
+   "date": "2026-09-17",
+   "agent": 72.6,
+   "market_price_t0": 71.8,
+   "edge": 0.008499999999999952,
+   "confidence": 0.616,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.73, 0.74, 0.72, 0.72, 0.72). The direct Sep 11 fetch of the resolution source shows OpenAI #1 (1800) and Anthropic #2 (1758), matching the Yes condition, and Polymarket (the only market proxy available) prices Yes at ~72%. A flip to No requires either Anthropic overtaking OpenAI (a 42-point swing with no further Anthropic release confirmed after Fable 5.1 on Sep 2) or a Chinese lab like Alibaba/Moonshot leapfrogging Anthropic within three weeks, with no confirmed major releases scheduled. The Sep 3 OpenAI↔Anthropic flip shows top-of-board volatility is real, so I keep meaningful tail probability on No, but the status quo over a ~3-week horizon is the most likely outcome and I stay close to the market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3046",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic have the best AI model on LiveBench (Coding) at the end of September 2026?": [
+  {
+   "id": 3044,
+   "scanned_at": "2026-09-17T00:11:09.423283",
+   "date": "2026-09-17",
+   "agent": 69.2,
+   "market_price_t0": 75.6,
+   "edge": -0.06400000000000006,
+   "confidence": 0.45599999999999996,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.68, 0.67, 0.70, 0.71, 0.70). No direct Kalshi price was available, so the Polymarket YES at 75.6% (down 9.4 pts over 7 days) serves as the anchor. The reported snapshot has Claude Opus 4.6 Thinking #1 at 74.5 but only 0.3 pts ahead of DeepSeek V4 Flash and within 1 pt of OpenAI and Google, and GPT-6 Astra (launched Sept 3, reportedly topping LiveBench Reasoning) does not yet appear in the coding snapshot, suggesting the data may be stale or that a reshuffle is pending. CNBC's 'model fatigue' reporting confirms near-weekly frontier releases across four-plus labs, so a sub-1-point lead is fragile over any remaining window. The resolution source could not be verified directly, and sibling markets summing to ~80% signal thin, possibly mispriced liquidity, so I shade modestly below the Polymarket anchor while keeping Anthropic the favorite given incumbency and its rapid release cadence.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3044",
+   "has_trace": true
+  }
+ ],
+ "Will the Democrats win the Minnesota Senate race in 2026?": [
+  {
+   "id": 3041,
+   "scanned_at": "2026-09-16T22:31:47.376023",
+   "date": "2026-09-16",
+   "agent": 89.5,
+   "market_price_t0": 91.5,
+   "edge": -0.02000000000000013,
+   "confidence": 0.692,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.89, 0.89, 0.89, 0.90, 0.91). The Polymarket anchor for this exact market is 91.5% YES, stable over 90 days, and the structural prior is strong: no GOP MN Senate win since 2002 and no statewide GOP win since 2006. Flanagan leads Tafoya by 2-6 points across multiple Aug-Sept pollsters (Pollsmax average +5.5), and Cook, Inside Elections, and Sabato all rate the race Likely Democratic, with the national midterm environment favoring the out-party. I shade slightly below the market because the polling margin is modest (TIPP +2), MN has trended modestly rightward (Harris +4 in 2024), and there is no October polling; a ~5-point lead with ~50 days remaining implies roughly 85-90% win probability, not 92%+. The event has not resolved, so the 0.95+ exception does not apply.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3041",
+   "has_trace": true
+  }
+ ],
+ "US-Canada diplomatic agreement to lower tariffs by September 30?": [
+  {
+   "id": 3040,
+   "scanned_at": "2026-09-16T21:46:54.106310",
+   "date": "2026-09-16",
+   "agent": 14.4,
+   "market_price_t0": 20,
+   "edge": -0.055999999999999966,
+   "confidence": 0.704,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.14, 0.14, 0.13, 0.14, 0.17). Formal US-Canada talks have been suspended since the Aug 21-22 collapse, both sides have escalated (50% Section 338 tariffs, C$27.6B Canadian counter-tariffs effective Sept 8, new US proclamations on dairy/alcohol/autos), and as of Sept 16 the resolution sources (USTR/White House) show no qualifying agreement. Commerce Secretary Lutnick explicitly signaled re-engagement only after mid-October Canadian by-elections, and no meetings are scheduled, leaving roughly two weeks for a reversal with only informal LeBlanc-Greer/Lutnick contact. The Polymarket proxy at 20% YES (vs 43.5% Oct 31 and 51.5% Dec 31) already reflects that most deal probability sits after the window; I shade slightly below the anchor because official statements point to no catalyst before Sept 30, while keeping meaningful tail probability given the Aug 19 precedent of a near-deal materializing within days under Trump's volatility.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3040",
+   "has_trace": true
+  }
+ ],
+ "Will Donald Trump publicly insult Kevin Warsh by September 30, 2026?": [
+  {
+   "id": 3038,
+   "scanned_at": "2026-09-16T20:59:13.259830",
+   "date": "2026-09-16",
+   "agent": 17.8,
+   "market_price_t0": 17.5,
+   "edge": 0.0030000000000000304,
+   "confidence": 0.5900000000000001,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.16, 0.20, 0.20, 0.17, 0.16). The Polymarket anchor for this identical question is 17% YES, and the brief surfaces no qualifying insult as of ~2026-09-16 despite four months of escalating rate friction. Trump has been unusually disciplined, repeatedly praising Warsh by name ('fantastic,' 'great job') while redirecting blame to the 'political board,' and related markets ('Warsh out' 3%, 'Trump tries to fire Warsh 2026' ~8%) price very low rupture risk. The Sept 16 unanimous hike is a genuine new trigger and the Powell precedent shows Trump can turn personal quickly, but only ~2 weeks remain and strict resolution criteria exclude mere policy criticism or expressions of disappointment. I land essentially at the market, slightly below, given the short window and Trump's demonstrated protective posture toward his own pick.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3038",
+   "has_trace": true
+  }
+ ],
+ "Will there be no change in Fed interest rates after the October 2026 meeting?": [
+  {
+   "id": 3035,
+   "scanned_at": "2026-09-16T19:26:17.243481",
+   "date": "2026-09-16",
+   "agent": 47.6,
+   "market_price_t0": 50.5,
+   "edge": -0.029000000000000026,
+   "confidence": 0.52,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.48, 0.48, 0.46, 0.48, 0.48). The Fed hiked 25bp on Sept 16, 2026 to 3.75-4.00% with the statement/dot plot explicitly flagging the 'possibility of another rate increase this year,' and inflation remains well above target (CPI/core PCE rising, one measure cited at 4.2%) with a stable ~4.1% unemployment rate that gives no reason to ease. The only direct market price (Polymarket 'no change' at 50.5%) has fallen 21pts in 30 days, indicating markets are pricing a meaningfully elevated chance of a consecutive October hike under hawkish Chair Warsh. Offsetting this, the Fed often pauses to assess data after a fresh move and Warsh stresses data-dependence, so a hold remains very plausible. I anchor close to the ~50% market consensus and tilt slightly toward 'No' given the downward momentum and hawkish signals, while acknowledging no independent confirmation of the October outcome.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3035",
    "has_trace": true
   }
  ]

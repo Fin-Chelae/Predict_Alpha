@@ -1215,6 +1215,20 @@
  ],
  "Will Iran Reconstruction Funding be in a US-Iran deal in 2026?": [
   {
+   "id": 3127,
+   "scanned_at": "2026-09-18T12:11:26.059680",
+   "date": "2026-09-18",
+   "agent": 12,
+   "market_price_t0": 13.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.662,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.11, 0.13, 0.12, 0.12, 0.12). The Polymarket anchor sits at 13.5% YES and has fallen sharply from ~69.5% after the June 17 Islamabad MoU's 60-day deadline lapsed on Aug 17 without a final deal; the MoU's $300bn clause explicitly deferred the funding mechanism to a future final agreement, and the market's failure to resolve YES on that text signals it doesn't qualify. Talks are stalled over Hormuz control, US officials (Trump/Vance) have hedged on any firm commitment, and standalone 'final deal by Dec 31 2026' markets price only ~10.5%. Conditional on a final deal, reconstruction language would likely reappear (~65%), giving roughly 7-9% via that path, plus a small premium for interpretive risk that a resolver reads the existing MoU or a partial instrument generously. I land slightly below the anchor at 11%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3127",
+   "has_trace": true
+  },
+  {
    "id": 2045,
    "url": "https://forecast.agenticlearning.ai/scans/v2/2045",
    "date": "2026-08-27",
@@ -3896,6 +3910,20 @@
   }
  ],
  "Will Abstract launch a token by December 31, 2026": [
+  {
+   "id": 3121,
+   "scanned_at": "2026-09-18T09:39:43.398747",
+   "date": "2026-09-18",
+   "agent": 15.6,
+   "market_price_t0": 17,
+   "edge": -0.014000000000000012,
+   "confidence": 0.6220000000000001,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.15, 0.15, 0.15, 0.16, 0.17). The Polymarket mirror of this ticker prices YES at 17% with a downward 30-day drift, and the sibling Sept-2026 market at ~1% indicates nothing is imminent. As of ~Sept 2026 there is no confirmed TGE date, ticker, or tokenomics from Abstract/Igloo, Netz's 2026 token commentary concerned a Nasdaq-listing vehicle rather than an Abstract chain token, and TVL has collapsed from ~$200M to ~$10M, reducing urgency. The L2 base rate (~60-65% by 23 months) and the long-running XP program argue a token is likely eventually, but launching within roughly 3.5 months with zero public groundwork (tokenomics, snapshot announcement) is rare, and the rising Polymarket term structure into 2027 confirms the market sees this window as too early. I shade slightly below the 17% anchor given the absence of any pre-launch signaling.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3121",
+   "has_trace": true
+  },
   {
    "id": 2470,
    "scanned_at": "2026-09-02T05:43:33.032158",
@@ -8219,6 +8247,20 @@
  ],
  "Will Russia enter Dopropillia by December 31, 2026?": [
   {
+   "id": 3136,
+   "scanned_at": "2026-09-18T16:10:26.778448",
+   "date": "2026-09-18",
+   "agent": 81.8,
+   "market_price_t0": 85.5,
+   "edge": -0.03700000000000003,
+   "confidence": 0.558,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.80, 0.80, 0.83, 0.83, 0.83). The Polymarket sibling market (identical question, $238k volume) prices YES at 85.5%, and the causal picture supports a high probability: Bilytske, immediately SE of Dobropillia, fell on 2026-07-23, elite Rubicon units are explicitly tasked with the city, evacuation is already only possible ~10km out, and no ceasefire mechanism is in sight after the failed September talks. ISW's infiltration-style shading also tends to register entry before confirmed control, lowering the bar for a 'Yes'. Against this, only ~3.5 months remain, Ukraine has retaken Nove Shakhove and Zapovidne and cleared T-0514 positions, ISW is openly skeptical of Russian tempo, and the market has drifted down 4.5pts over the week, so I shade modestly below the anchor to 0.80.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3136",
+   "has_trace": true
+  },
+  {
    "id": 2112,
    "scanned_at": "2026-08-28T16:59:12.683959",
    "date": "2026-08-28",
@@ -8410,6 +8452,20 @@
   }
  ],
  "Ink FDV above $500M one day after launch?": [
+  {
+   "id": 3129,
+   "scanned_at": "2026-09-18T12:59:44.770341",
+   "date": "2026-09-18",
+   "agent": 19.6,
+   "market_price_t0": 20,
+   "edge": -0.0040000000000000036,
+   "confidence": 0.602,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.19, 0.19, 0.20, 0.20, 0.20). No INK token has launched, and the dominant risk is timing: Polymarket prices only ~28.5% odds of a launch by the Dec 31, 2026 deadline, with the Sept 30 market at ~2% implying the TGE has already slipped past Ink Foundation's Q2–Q3 guidance. Conditional on launch, comparable L2 TGEs clear $500M FDV ~85% historically, but the Polymarket FDV ladder ($100M 29.5%, $250M 30%, $500M 19%) implies a more modest ~65% conditional probability given the utility-only token and heavy airdrop allocation. Multiplying gives roughly 28.5% × 65–85% ≈ 18–24%, consistent with the identical Polymarket market at 19% (down from 52.5% over 30 days, -13 pts in 7 days). Absent any Kalshi-direct price or fresh evidence of an imminent TGE, I anchor on the ~19% consensus.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3129",
+   "has_trace": true
+  },
   {
    "id": 2102,
    "scanned_at": "2026-08-28T11:37:05.605265",
@@ -8737,6 +8793,20 @@
  ],
  "China x Philippines military clash before 2027?": [
   {
+   "id": 3120,
+   "scanned_at": "2026-09-18T08:54:57.098208",
+   "date": "2026-09-18",
+   "agent": 64.6,
+   "market_price_t0": 31,
+   "edge": 0.3359999999999999,
+   "confidence": 0.562,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.42, 0.40, 0.47, 0.97, 0.97). The best available price proxy (Polymarket 31% YES, rising slowly) is the anchor; no Kalshi-direct price was captured. The brief asserts July 2026 baton-strike incidents injuring Philippine Navy personnel that would seemingly satisfy a melee-weapon clash definition, but a genuinely qualifying, widely reported incident would have pushed the market far above 31%, so either the incidents are less clear-cut than described (PCG vs AFP involvement, 'significant damage' threshold) or the reporting is unreliable — I discount them accordingly rather than treat resolution as documented. Still, the escalation trend at Second Thomas and Scarborough Shoals, the 2024 machete precedent, and a Poisson base rate of roughly 0.4-0.8 qualifying incidents/year over the remaining ~4-month window justify leaning modestly above market. Net: Yes ~42%, reflecting elevated risk plus a meaningful chance the July 2026 incidents are ruled qualifying, tempered by the market's strong disagreement.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3120",
+   "has_trace": true
+  },
+  {
    "id": 2082,
    "scanned_at": "2026-08-28T01:22:14.029494",
    "date": "2026-08-28",
@@ -8780,6 +8850,20 @@
   }
  ],
  "US x China tariff agreement by December 31?": [
+  {
+   "id": 3132,
+   "scanned_at": "2026-09-18T14:34:58.970390",
+   "date": "2026-09-18",
+   "agent": 89.6,
+   "market_price_t0": 90.3,
+   "edge": -0.006499999999999839,
+   "confidence": 0.632,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.88, 0.89, 0.89, 0.91, 0.91). Polymarket anchors YES at ~90% with a modestly rising trend. The structural drivers favor YES: the US reciprocal-tariff suspension (Nov 10, 2026) and China's countermeasure suspension (Dec 31, 2026) both expire inside the window, forcing a renewal or replacement announcement, and three Trump-Xi meetings (Sept Washington, Nov Shenzhen, Dec G20) are scheduled around those deadlines. China's Sept 10 statement that it hopes to agree on tariff reductions 'at an early date' and the 2025-26 cadence of roughly bimonthly truces/frameworks support a ~94% rolling base rate. Residual NO risk comes from a possible breakdown after chip/sanction frictions and from resolution ambiguity about whether a mere truce extension counts as a 'mutual tariff agreement', so I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3132",
+   "has_trace": true
+  },
   {
    "id": 2075,
    "scanned_at": "2026-08-27T23:31:41.283488",
@@ -9611,6 +9695,20 @@
  ],
  "Will the United Arab Emirates join the Mecca Agreement by December 31, 2026?": [
   {
+   "id": 3138,
+   "scanned_at": "2026-09-18T16:54:33.631827",
+   "date": "2026-09-18",
+   "agent": 6.4,
+   "market_price_t0": 10.5,
+   "edge": -0.040999999999999995,
+   "confidence": 0.688,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.06, 0.06, 0.06, 0.07, 0.07). The Makkah Joint Defence Agreement (signed 2026-08-07) has admitted no fourth member as of Pakistan's official 2026-09-10 confirmation, and the UAE appears on no candidate list (Egypt, Qatar, Bangladesh, Syria, Iraq, Kuwait are named instead). Reporting from Middle East Eye and others describes UAE-Saudi tension specifically over this pact, a UAE preference for 'strategic autonomy,' and deep UAE-Israel defense integration that positions Abu Dhabi structurally against the bloc. The best available anchor is the Polymarket sibling at 10.5% YES, with the 'any country joins' market at 25.5% implying UAE is a fraction of already-modest aggregate accession odds; I shade below the market to reflect long-shot bias in thin Polymarket pricing and the multi-year base rate for alliance accession. A surprise Gulf realignment within ~3.5 months is the main residual risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3138",
+   "has_trace": true
+  },
+  {
    "id": 1982,
    "scanned_at": "2026-08-26T08:44:00.460258",
    "date": "2026-08-26",
@@ -9928,6 +10026,20 @@
   }
  ],
  "Will Russia capture all of Kostyantynivka by December 31, 2026?": [
+  {
+   "id": 3125,
+   "scanned_at": "2026-09-18T11:20:15.931290",
+   "date": "2026-09-18",
+   "agent": 26.6,
+   "market_price_t0": 29,
+   "edge": -0.023999999999999966,
+   "confidence": 0.584,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.27, 0.26, 0.26, 0.27, 0.27). The Polymarket twin trades at 29% YES and has re-rated sharply down (58.5%→29%) after the Kremlin's July 2026 'complete capture' claim proved premature per DeepState, with ISW calling Russian advance claims 'divorced from reality' in late August. Fighting is still active inside and around the city in mid-September with 20+ daily clashes, and the resolution bar—the entire municipality shaded red on ISW's map (excluding infiltration) and sustained through an update cycle—typically lags Russian claims by weeks to months, as at Bakhmut and Avdiivka. The nearest geographic analog, Chasiv Yar, remains incompletely captured after 18+ months, and Russia's overall monthly gains have decelerated markedly, though heavy infiltration and semi-encirclement leave real risk of a late flank-collapse within the ~3.5-month window. Ceasefire risk (~22%) mostly cuts toward No by freezing lines. I land slightly below the anchor given the strict ISW shading requirement and the failed prior capture claim.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3125",
+   "has_trace": true
+  },
   {
    "id": 1960,
    "scanned_at": "2026-08-26T01:36:33.373980",
@@ -10718,6 +10830,20 @@
   }
  ],
  "Will another city host the final of the 2030 FIFA World Cup?": [
+  {
+   "id": 3124,
+   "scanned_at": "2026-09-18T10:30:31.031965",
+   "date": "2026-09-18",
+   "agent": 41.2,
+   "market_price_t0": 40.5,
+   "edge": 0.007000000000000006,
+   "confidence": 0.49799999999999994,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.40, 0.40, 0.42, 0.42, 0.42). Polymarket prices 'another city' at 40.5%, with the cross-market sum near 97%, so the anchor is coherent and reflects that this bucket is almost entirely a no-decision-by-Dec-2027 fallback rather than a genuinely unlisted venue (no credible unlisted city is discussed; Bernabéu and Hassan II/Benslimane are the only realistic contenders, Madrid 38.5% vs Morocco 16.9%). The timing base rate is the crux: the 2026 final venue was announced with the match schedule ~2.5 years pre-kickoff (Feb 2024), which mapped to 2030 lands around Dec 2027–early 2028, straddling the market's cutoff; FIFA's Dec 2026 stadium approvals and the politically charged Spain-Morocco dispute could either accelerate a decision or cause FIFA to delay. FIFA twice rebuked premature claims (Aug/Sept 2026) with only 'in due course' as guidance, so there is real fallback risk but also strong momentum toward a named Iberian/Moroccan venue before end-2027. I see no specific unpriced information to move meaningfully from the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3124",
+   "has_trace": true
+  },
   {
    "id": 1873,
    "scanned_at": "2026-08-24T19:57:12.573427",
@@ -12020,6 +12146,20 @@
   }
  ],
  "Trump x Greenland deal signed by December 31?": [
+  {
+   "id": 3140,
+   "scanned_at": "2026-09-18T17:43:17.433941",
+   "date": "2026-09-18",
+   "agent": 14.4,
+   "market_price_t0": 15,
+   "edge": -0.005999999999999978,
+   "confidence": 0.6279999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.15, 0.15, 0.15, 0.14, 0.13). No signed US-Denmark Greenland agreement exists as of mid-September 2026; the January 2026 'framework' was verbal only, and Frederiksen on Sept 14 said it is still 'too early' for a final agreement with no signable text or date. The Polymarket same-ticker proxy sits at 15% YES, down from a 62% peak, and related Kalshi acquisition markets (14-22%) are trending down, while September events (Trump's annexation map, Iceland summoning the US ambassador, paused drilling) point to friction rather than convergence. The low bar ('any' Greenland-related agreement including a basing/minerals MOU) and Trump's motivation to claim a win keep Yes meaningfully above single digits, but ~3.5 months remain with no drafting visibility, so I stay at the market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3140",
+   "has_trace": true
+  },
   {
    "id": 1571,
    "scanned_at": "2026-08-21T03:14:29.916990",
@@ -13898,7 +14038,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-18T08:14:44.555Z",
+  "last_sync": "2026-09-18T18:28:52.351Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -15724,6 +15864,38 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.14, 0.14, 0.13, 0.14, 0.13). The resolution source (IAA site) shows the Tel Aviv FIR fully open with no closure NOTAM, and the Polymarket/Kalshi anchor prices YES at 12% with coherent nested buckets (Sep30 3%, Dec31 21%). The historical base rate is meaningful — roughly four full closures in 30 months, all triggered by direct Iran-Israel exchanges, including a 40-day closure in Feb–Apr 2026 — and the ceasefire is fragile (Sept 1 Iranian strikes on US bases in Jordan; ceasefire-continues market at 80.5% through Oct 31). However, a ceasefire breakdown does not automatically mean a full FIR closure, the region appears to be in a post-war cooldown, and Houthi/Hezbollah-driven partial restrictions are excluded. I nudge slightly above the thin-volume market anchor to ~14% given the elevated regional risk over a ~6-week window.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3105",
+   "has_trace": true
+  }
+ ],
+ "Will any state enact a data center moratorium by December 31?": [
+  {
+   "id": 3135,
+   "scanned_at": "2026-09-18T15:24:49.326951",
+   "date": "2026-09-18",
+   "agent": 45.4,
+   "market_price_t0": 44.5,
+   "edge": 0.009000000000000008,
+   "confidence": 0.516,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.47, 0.46, 0.46, 0.44, 0.44). The outcome rests almost entirely on Gov. Hochul's decision on NY's Responsible Data Center Development Act, which passed both chambers in June 2026 and awaits action by year-end; no other state has a bill past even one chamber, and Maine's attempt died on a failed override. Hochul's Executive Order 62 shows she supports a pause, but issuing an executive moratorium a month after the bill passed could signal she prefers a narrower substitute (veto or chapter-amendment risk), and the Polymarket price collapsed from ~94% to 44.5% recently, suggesting the market either downgraded her signing odds or learned the EO won't count. Bottom-up modeling in the brief (33–46%) brackets the market price, while the election-year salience and NY's end-of-year signing tradition keep Yes plausible. With no Kalshi print, I anchor near the 44.5% Polymarket consensus with a slight upward nudge for resolution ambiguity around the EO and Hochul's demonstrated sympathy for a moratorium.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3135",
+   "has_trace": true
+  }
+ ],
+ "Will Revolut launch a USD stablecoin in 2026?": [
+  {
+   "id": 3131,
+   "scanned_at": "2026-09-18T13:45:58.455797",
+   "date": "2026-09-18",
+   "agent": 20.8,
+   "market_price_t0": 28.5,
+   "edge": -0.07700000000000001,
+   "confidence": 0.6279999999999999,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.24, 0.21, 0.20, 0.18, 0.21). The only crowd anchor is Polymarket at 28% YES, down sharply from a 63.5% high after Revolut's EURR launch (2026-08-26) clarified a EUR-first sequencing. Revolut's concrete USD stablecoin pathway is tied to its US national bank (conditional OCC approval 2026-09-03), targeted to open H1 2027 — after the Dec 31, 2026 deadline — and no USD token name, filing, chain, or date has surfaced. The 'Yes' case rests on Revolut using its proven MiCA e-money token infrastructure to ship a USD token from the EU/UK independently of the US bank, which it has hinted at ('first step') but shown no evidence of pursuing on a ~4-month timeline, while it is simultaneously dropping USDT support in the EEA. I shade slightly below the thin Polymarket price given the absence of any concrete USD signal and peer markets (Meta, X) priced under 10%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3131",
    "has_trace": true
   }
  ]

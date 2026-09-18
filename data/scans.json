@@ -789,6 +789,20 @@
  ],
  "Will Anthropic have the best Code Arena | WebDev AI at the end of October 2026?": [
   {
+   "id": 3110,
+   "scanned_at": "2026-09-18T04:54:35.076083",
+   "date": "2026-09-18",
+   "agent": 34.6,
+   "market_price_t0": 36.5,
+   "edge": -0.019000000000000017,
+   "confidence": 0.524,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.35, 0.33, 0.35, 0.35, 0.35). The direct resolution-source fetch (Sep 11, 2026) shows OpenAI's gpt-6-astra-max at #1 (1800) with Anthropic's claude-fable-5.1-max at #2 (1758), a 42-point gap that is well outside typical noise and that Arena's tightened confidence intervals make less likely to flip randomly. Anthropic's strong May–Aug dominance on WebDev and the ~7-week horizon with plausible further releases keep a meaningful path to Yes, and tie rules marginally favor Anthropic. No direct Kalshi price was available, so I anchor on Polymarket's 36.5% YES, which is consistent with the primary snapshot; I stay close to that anchor with a slight shade toward No given incumbency and methodology stabilization.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3110",
+   "has_trace": true
+  },
+  {
    "id": 2682,
    "scanned_at": "2026-09-06T14:35:02.234674",
    "date": "2026-09-06",
@@ -1729,6 +1743,20 @@
  ],
  "Will the next Google Gemini Pro model debut with a Humanity’s Last Exam score of 50% or higher?": [
   {
+   "id": 3092,
+   "scanned_at": "2026-09-17T20:55:54.056232",
+   "date": "2026-09-17",
+   "agent": 64.4,
+   "market_price_t0": 67.5,
+   "edge": -0.031000000000000028,
+   "confidence": 0.514,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.63, 0.66, 0.63, 0.66, 0.64). The best market anchor is Polymarket's identical-question price at 67.5% YES (softening from 91%), with a coherent sibling ladder (45%: 80%, 55%: 33%) placing the modal expected score in the high-40s to mid-50s. Gemini 3.1 Pro reportedly sits at 44.4% no-tools / 51.4% with tools, and historical per-generation gains of ~4-7 points plus intense competitive pressure (Claude/GPT rivals at 54-65%) make a ≥50% debut for a redesigned 3.5 Pro/next Pro plausible. Offsetting risks: the agi.safe.ai chart historically displays no-tools figures, independent CAIS evals often land at or below vendor claims, and Google's three missed launch targets leave a non-trivial chance of no qualifying Pro model appearing on the chart before the Dec 31 close (sibling markets imply ~5-10% no-release risk even by late Nov). I shade slightly below the market given the declining trend and configuration ambiguity.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3092",
+   "has_trace": true
+  },
+  {
    "id": 1843,
    "url": "https://forecast.agenticlearning.ai/scans/v2/1843",
    "date": "2026-08-24",
@@ -1834,6 +1862,20 @@
   }
  ],
  "Russia x Ukraine ceasefire agreement by December 31, 2026?": [
+  {
+   "id": 3096,
+   "scanned_at": "2026-09-17T22:33:59.777827",
+   "date": "2026-09-17",
+   "agent": 19.8,
+   "market_price_t0": 22.5,
+   "edge": -0.026999999999999996,
+   "confidence": 0.616,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.19, 0.19, 0.19, 0.21, 0.21). The market anchor (Polymarket, same event) sits at 22.5% YES, well off its 47% high, with the term structure showing only 7.5% for Oct'26 and a steep climb only into 2027 — implying the market itself expects any deal to land after the December 31, 2026 deadline. Active Witkoff/Kushner shuttle diplomacy and Russia's economic strain keep a non-trivial chance alive, but the core sticking points (Donbas cession, security guarantees) remain unresolved, every partial truce (Easter/Victory Day, 72-hour capitals truce, disputed 'energy ceasefire') collapsed or was never confirmed, and none would satisfy the strict 'general ceasefire' bar. FT/Meduza reporting that Putin prefers to exploit winter energy leverage before conceding, plus Ryabkov's 'realities on the ground favor Russia' line, points to Moscow delaying past 2026. With ~3.5 months remaining and no leaders' meeting priced above 10-16%, I shade slightly below the anchor to 19% YES.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3096",
+   "has_trace": true
+  },
   {
    "id": 1624,
    "url": "https://forecast.agenticlearning.ai/scans/v2/1624",
@@ -3234,6 +3276,20 @@
   }
  ],
  "Will the highest score achieved by a Meta model on Humanity’s Last Exam in 2026 be 55% or higher?": [
+  {
+   "id": 3107,
+   "scanned_at": "2026-09-18T03:16:36.473365",
+   "date": "2026-09-18",
+   "agent": 28.8,
+   "market_price_t0": 33,
+   "edge": -0.04199999999999998,
+   "confidence": 0.514,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.29, 0.28, 0.28, 0.30, 0.29). The Polymarket anchor is 33% YES and has been falling steadily (67.5% → 33%), reflecting that Meta's best independently verified no-tools HLE score (Muse Spark 1.3, ~45-47%) sits 8-10 points below the 55% threshold with roughly one quarter left in 2026. Meta's self-reported 62.1% 'with tools' figure would clear the bar, but the resolution source (agi.safe.ai) treatment of tool-augmented or self-reported scores is unconfirmed and third-party trackers separate those leaderboards, so this path is a genuine but uncertain upside tail. A YES still requires either a rumored 'Watermelon'/next Muse release delivering a ~10-point jump by December or a favorable tools interpretation; Meta's fast release cadence and compute buildout keep this plausible, but the Monte Carlo estimate (~10-20%) and frontier plateauing argue for staying slightly below the market. I settle modestly under the anchor at 29% YES.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3107",
+   "has_trace": true
+  },
   {
    "id": 2516,
    "scanned_at": "2026-09-02T19:11:59.728895",
@@ -5813,6 +5869,20 @@
  ],
  "Will Anthropic have the best AI model at the end of December 2026?": [
   {
+   "id": 3090,
+   "scanned_at": "2026-09-17T20:07:26.706055",
+   "date": "2026-09-17",
+   "agent": 67.8,
+   "market_price_t0": 71.5,
+   "edge": -0.03699999999999992,
+   "confidence": 0.584,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.67, 0.68, 0.67, 0.69, 0.68). The resolution source (arena.ai/lmarena text leaderboard, style-control off) shows Anthropic's Claude Fable 5 at #1 with Anthropic holding six of the top seven slots as of mid-September 2026, and the closest cross-market anchor (Polymarket) prices Anthropic YES at 71.5% and rising. Google's Gemini 3.5/3.6 Pro flagship remains delayed with DeepMind restructuring reported, weakening the most credible challenger over the remaining window. However, the leaderboard has changed leaders 19 times in 41 months, the Elo gap to Gemini 3.1 Pro, GPT-5.5/5.6, and Grok 4.5 is within statistical noise, and ~3.5 months leaves room for at least one competitor flagship cycle, so I shade modestly below the market. Net: status quo plus depth of Anthropic's top-rank sweep favors Yes, but churn risk justifies ~0.67.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3090",
+   "has_trace": true
+  },
+  {
    "id": 2324,
    "scanned_at": "2026-08-31T09:40:54.566792",
    "date": "2026-08-31",
@@ -7883,6 +7953,20 @@
  ],
  "Will Ciro Gomes win the 2026 Ceará gubernatorial election?": [
   {
+   "id": 3102,
+   "scanned_at": "2026-09-18T00:54:03.110274",
+   "date": "2026-09-18",
+   "agent": 56.4,
+   "market_price_t0": 57.5,
+   "edge": -0.010999999999999899,
+   "confidence": 0.542,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.56, 0.55, 0.55, 0.58, 0.58). Polymarket (the only available cross-market anchor; no Kalshi price) prices Ciro at 57.5% YES, down from a 73.5% high with a -4% 30-day trend, indicating a tightening race. Polling is genuinely divergent: Quaest and Ipsos-Ipec give Ciro 8–11 point first-round leads with a comfortable runoff margin, while Real Time Big Data shows a tie and a slight Elmano runoff edge. Offsetting Ciro's poll advantage are Elmano's 57% approval, the Camilo Santana/PT machine's strong track record in Ceará, and the general Brazilian incumbent-governor reelection base rate, with no polling after Sept 7 to confirm the trajectory. I stay close to the market anchor with a slight shade toward the tightening trend and structural incumbent strength.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3102",
+   "has_trace": true
+  },
+  {
    "id": 2131,
    "scanned_at": "2026-08-29T01:19:12.280034",
    "date": "2026-08-29",
@@ -8060,6 +8144,20 @@
   }
  ],
  "Will the highest score achieved by a SpaceXAI Grok model on Humanity’s Last Exam in 2026 be 45% or higher?": [
+  {
+   "id": 3099,
+   "scanned_at": "2026-09-18T00:06:08.538125",
+   "date": "2026-09-18",
+   "agent": 67.6,
+   "market_price_t0": 77.5,
+   "edge": -0.09950000000000003,
+   "confidence": 0.514,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.70, 0.68, 0.72, 0.64, 0.64). The best available market anchor (Polymarket, no Kalshi data) prices YES at ~77.5% and has been rising over 7d/30d, implying traders expect a late-2026 Grok release to clear the bar. The brief's most recent confirmed leaderboard figure is Grok 4.6 at 42.9% (Sept 2026), only ~2 points short, and xAI has shown large generational jumps (25%→~44% in one cycle), so any Grok 4.x refresh or Grok 5 shipping in Q4 would very plausibly exceed 45%. Countervailing factors are material: Grok 5 has slipped repeatedly (late-2025→Q1→Q2 2026, still unshipped as of Aug/Sept), the official leaderboard has historically lagged or excluded xAI's tools-enabled self-reports (the analogous Grok 4 45% market resolved NO), and only ~3.5 months remain including evaluation/posting lag. I shade below the market to ~0.70 to reflect delay and resolution-source-lag risk, while respecting that the gap to 45% is small and the industry trajectory is steep.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3099",
+   "has_trace": true
+  },
   {
    "id": 2121,
    "scanned_at": "2026-08-28T21:09:05.554776",
@@ -11159,6 +11257,20 @@
  ],
  "Will Russia capture Vodianske by December 31?": [
   {
+   "id": 3113,
+   "scanned_at": "2026-09-18T05:40:41.626884",
+   "date": "2026-09-18",
+   "agent": 28.8,
+   "market_price_t0": 25.5,
+   "edge": 0.032999999999999974,
+   "confidence": 0.414,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.30, 0.30, 0.30, 0.27, 0.27). The only live anchor is Polymarket at 25.5% YES, in a persistent downtrend from a 59.5% high, which is inconsistent with the unverified Wikipedia/video claims that Vodianske already fell; ISW-sourced reporting that Russia failed to hold its July Dobropillia-area gains and reverted to small-group infiltration (which ISW typically does not shade as control) plausibly explains the price decline. Countervailing signals — a renewed mid-September assault buildup toward Dobropillia, no ceasefire, ~3.5 months remaining, and adjacent Bilytske/Dobropillia markets priced far higher for a geographically nearby target — argue for modestly more upside than the market shows. With no verified ISW/DeepState shading read for the intersection, I stay close to the anchor with a slight upward tilt to reflect the related-market inconsistency and remaining time.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3113",
+   "has_trace": true
+  },
+  {
    "id": 1760,
    "scanned_at": "2026-08-23T18:41:09.773143",
    "date": "2026-08-23",
@@ -12675,6 +12787,20 @@
  ],
  "Will Gukesh Dommaraju win the 2026 World Chess Championship?": [
   {
+   "id": 3094,
+   "scanned_at": "2026-09-17T21:45:13.808614",
+   "date": "2026-09-17",
+   "agent": 30.8,
+   "market_price_t0": 29.5,
+   "edge": 0.013000000000000012,
+   "confidence": 0.634,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.31, 0.31, 0.31, 0.30, 0.31). No direct Kalshi price was retrieved, but the cross-market consensus is tight and unanimous: Polymarket prices Gukesh 'Yes' at 29.5%, Kalshi is reported third-party at ~30%, and bookmakers imply 25-30%. The fundamentals support this: Sindarov won the Candidates with a record 10/14, sits at world #4 near peak rating, while Gukesh has slumped to 2703 (world #32) with early exits at the Grand Swiss and World Cup — a 60-100+ Elo gap that historically translates to roughly a 70/30 match edge over 14 games. The ~79% champion-retention base rate is misleading here because past champions were usually the higher-rated player; the closest analogue (Ding vs. Gukesh 2024, weaker-form champion) went to the challenger. I nudge marginally above the market for Gukesh's title-match experience, dedicated preparation time, and small-sample variance, landing at 31%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3094",
+   "has_trace": true
+  },
+  {
    "id": 1385,
    "scanned_at": "2026-08-16T22:23:17.744379",
    "date": "2026-08-16",
@@ -12770,6 +12896,20 @@
   }
  ],
  "Will the Democrats win the Iowa Senate race in 2026?": [
+  {
+   "id": 3103,
+   "scanned_at": "2026-09-18T01:42:59.227046",
+   "date": "2026-09-18",
+   "agent": 35.6,
+   "market_price_t0": 39.5,
+   "edge": -0.039000000000000035,
+   "confidence": 0.596,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.36, 0.35, 0.34, 0.37, 0.36). The most reliable anchor is Polymarket at 39.5% YES with a Kalshi proxy at 35%, so consensus sits in the mid-to-high 30s. Polling supports a Republican lean: the Pollsmax aggregate has Hinson +4.8 with only a Cygnal tie and a registered-voter Fox poll favoring Turek, while Hinson holds a clear cash-on-hand edge ($6.75M vs $2.36M) and Trump's endorsement in a state he carried by 13. Cook's Toss Up rating and the weak national environment (tariffs hitting Iowa farmers, low Trump approval) justify pricing far above the ~6-17% historical flip base rate, but the caution that Democratic Senate longshots 'poll better than they perform' argues for landing slightly below the Polymarket price. I settle at 36% YES, roughly between the two market anchors.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3103",
+   "has_trace": true
+  },
   {
    "id": 1372,
    "scanned_at": "2026-08-16T15:26:37.028205",
@@ -13475,6 +13615,20 @@
  ],
  "Will Euphoria be the #1 searched TV show on Google this year?": [
   {
+   "id": 3098,
+   "scanned_at": "2026-09-17T23:17:47.350762",
+   "date": "2026-09-17",
+   "agent": 39.5,
+   "market_price_t0": 37.4,
+   "edge": 0.02100000000000002,
+   "confidence": 0.4575,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.42, 0.42, 0.40, 0.34). The Polymarket proxy anchor sits at 37.4% YES with a rising 30-day trend, and Euphoria is priced far above any single named rival (<6% each), so the remaining probability is a fragmented field of unnamed/late-year Netflix surprises. The brief's claim that no HBO show has won is incomplete: Euphoria itself was Google's #1 global TV show in 2022 (Season 2) and The Last of Us (HBO) topped 2023, so the structural Netflix headwind is weaker than stated, and the final-season hype plus Eric Dane's death and Zendaya's star power give S3 a strong spike profile. Working against Yes are the mixed S3 reception, the Google 'trending' methodology that rewards surprise breakout hits (Baby Reindeer, Adolescence, Monster), and possible late-2026 Netflix blockbusters or Stranger Things tail volume landing in the 2026 window. I nudge slightly above the anchor to ~42% given the overlooked 2022 precedent, but stay below 50% because the market has had months of visible Trends data and still prices it as an underdog.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3098",
+   "has_trace": true
+  },
+  {
    "id": 1192,
    "scanned_at": "2026-08-10T15:16:39.566721",
    "date": "2026-08-10",
@@ -13744,7 +13898,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-17T19:02:49.651Z",
+  "last_sync": "2026-09-18T08:14:44.555Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -14397,6 +14551,20 @@
  ],
  "Will an AI lab announce another Millennium Prize solution by December 31, 2026?": [
   {
+   "id": 3114,
+   "scanned_at": "2026-09-18T06:31:04.287626",
+   "date": "2026-09-18",
+   "agent": 41,
+   "market_price_t0": 60.5,
+   "edge": -0.195,
+   "confidence": 0.45,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.47, 0.30, 0.47, 0.43, 0.38). No Kalshi direct price exists, so the Polymarket 60.5% YES (volatile, recently -7% over 7d, $116K volume) is the best anchor, and the related 'how many more solved in 2026' market with '0' at 35% is roughly consistent with ~60-65% for at least one more announcement. However, the brief shows no eligible lab has claimed or signaled proximity to a full proof of any of the five qualifying problems — Anthropic's Riemann work is an explicitly partial bound, and DeepMind/OpenAI efforts remain clustered on Navier-Stokes-adjacent PDEs. Against this, the bar is purely announcement-based (no Clay verification needed), the OpenAI precedent shows labs are willing to make bold 'solved' claims, competitive dynamics are intense, and ~3 months remain, so the probability is far from negligible. I shade below the Polymarket price toward the evidence-favored 'No' while respecting the market's consensus, landing near a coin flip.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3114",
+   "has_trace": true
+  },
+  {
    "id": 2794,
    "scanned_at": "2026-09-10T07:27:07.051346",
    "date": "2026-09-10",
@@ -14474,6 +14642,20 @@
   }
  ],
  "Will Jared Kushner attend a US x Iran diplomatic meeting by December 31, 2026?": [
+  {
+   "id": 3088,
+   "scanned_at": "2026-09-17T19:17:57.850641",
+   "date": "2026-09-17",
+   "agent": 31,
+   "market_price_t0": 32.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.30, 0.31, 0.31, 0.32, 0.31). The operative consensus anchor is Polymarket's Kushner-specific YES at 32.5%, consistent with the general 'any US-Iran meeting by Dec 31' market at 40% times Kushner's ~80% conditional attendance rate given he joined every 2026 round (Oman, Geneva, Switzerland, Islamabad). However, all qualifying evidence points to a stalled process: the June ceasefire collapsed July 10, war resumed through Aug-Sept, Trump explicitly said no talks are scheduled, and the administration frames any 'day-after' planning as post-midterm, leaving only a ~7-week window for a formal senior-level round to be arranged and convened. Historically talks followed ceasefires rather than preceded them, and no ceasefire is in place. I shade slightly below the anchor given the narrow window and active hostilities, but keep meaningful YES weight because Trump's 'war ends immediately after midterms' rhetoric and Kushner's default-delegate status make a late-2026 round plausible.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3088",
+   "has_trace": true
+  },
   {
    "id": 2804,
    "scanned_at": "2026-09-10T17:09:26.522343",
@@ -15478,6 +15660,70 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.62, 0.60, 0.58, 0.61, 0.60). The resolution source (arena.ai no-style-control, Sep 13 snapshot) shows Alibaba's qwen3.8-max as the top Chinese model at #14 with a multi-rank gap over Z.ai (#20) and Moonshot (#23), and a Qwen Max 3.9+ release before Oct 31 is priced at 93%, which should defend or extend that lead. The structurally identical September market prices Alibaba at 87.5%, indicating the Arena-specific base rate favors Alibaba even when other benchmarks tilt toward Kimi K3. The Polymarket anchor for this market is 50%, down from 73.5% over 30 days on thin ($19K) volume, which I treat as real but noisy signal of anticipated competitor releases (GLM-5.x, Kimi updates) over a 7-week window with historically high leadership churn. Netting the incumbent advantage on the actual resolution source against the market's compression and stale snapshot, I land moderately above the 50% anchor.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3074",
+   "has_trace": true
+  }
+ ],
+ "Will Macky Sall be the next Secretary-General of the United Nations?": [
+  {
+   "id": 3118,
+   "scanned_at": "2026-09-18T08:09:36.564327",
+   "date": "2026-09-18",
+   "agent": 4.3,
+   "market_price_t0": 7.1,
+   "edge": -0.02849999999999999,
+   "confidence": 0.686,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.04, 0.04, 0.04, 0.04, 0.06). Sall is formally nominated and now backed by Senegal, but his UNSC straw-poll standing is static and weak (6 encourage / 7 discourage / 2 no opinion in both the 30 Jul and 21 Aug 2026 polls), leaving him 4th-5th behind Rodrigues-Birkett, Grynspan and Grossi; historically, candidates carrying 7 discourage votes with no upward movement essentially never reach the 9-vote/no-veto threshold. The AU failed to endorse him and the strong GRULAC rotation norm (6 of 8 candidates are Latin American/Caribbean) further disfavors an African pick. The only live proxy (Polymarket ~7%, no Kalshi quote retrieved) shows evidence of longshot overpricing and market fragmentation, so I shade below it while allowing a small tail for a deadlock-driven dark-horse compromise. Any delay in the selection beyond the 31 Dec 2026 close also weighs toward No.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3118",
+   "has_trace": true
+  }
+ ],
+ "Friedrich Merz out as Chancellor of Germany before December 31, 2026?": [
+  {
+   "id": 3116,
+   "scanned_at": "2026-09-18T07:22:10.941272",
+   "date": "2026-09-18",
+   "agent": 23.2,
+   "market_price_t0": 26.5,
+   "edge": -0.032999999999999974,
+   "confidence": 0.512,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.23, 0.23, 0.23, 0.24, 0.23). No direct Kalshi price exists; the best live anchor is Polymarket at 26.5% YES and rising sharply amid a genuine crisis (approval ~10-13%, CDU collapse to 17.2% in Saxony-Anhalt, open Junge Union calls for resignation, 'Kanzlertausch' chatter). However, the structural case for No is strong: constructive no-confidence requires a Bundestag majority for a named successor, no challenger has consolidated (Söder ruled out a move, Faas notes no strong internal rival), the coalition-break market sits at only 13%, and the remaining window is roughly 3.5 months, not 13. The realistic Yes path is a Merz-initiated resignation after failing an internal CDU confidence test, which is plausible but not the modal outcome given his stated plan to seek an 'indirect' rather than formal vote. Balancing the 4-7% historical base rate against acute-crisis salience and the unconfirmed Sept 20 election 'knockout' risk, I land slightly below the Polymarket price.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3116",
+   "has_trace": true
+  }
+ ],
+ "Will the highest score achieved by an OpenAI model on Humanity’s Last Exam in 2026 be 60% or higher?": [
+  {
+   "id": 3109,
+   "scanned_at": "2026-09-18T04:04:52.633025",
+   "date": "2026-09-18",
+   "agent": 39.6,
+   "market_price_t0": 42,
+   "edge": -0.023999999999999966,
+   "confidence": 0.45199999999999996,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.40, 0.43, 0.39, 0.38, 0.38). No Kalshi-direct price exists, so the Polymarket 42% YES (rising from 33%) is the primary anchor, and its sibling buckets (55%→79.5%, 65%→15.5%) form a coherent CDF around it. The brief places OpenAI's best model (GPT-6 'Astra') at ~54.7% as of Sept 2026, consistently trailing Anthropic's 55–65% frontier, while a saturation-aware model gives only ~20–35% for a further +5.3-point jump in the remaining months. Countervailing factors are OpenAI's rapid release cadence and the tools-vs-no-tools ambiguity on agi.safe.ai (tool-augmented scores run ~15+ points higher), which makes a ≥60% official entry more reachable than the no-tools trajectory suggests. Netting these, I shade slightly below the market at 40% YES; confidence is limited because the primary leaderboard was not captured and third-party trackers disagree by 10+ points on absolute scores.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3109",
+   "has_trace": true
+  }
+ ],
+ "Israeli airspace closed by October 31, 2026?": [
+  {
+   "id": 3105,
+   "scanned_at": "2026-09-18T02:28:53.536956",
+   "date": "2026-09-18",
+   "agent": 13.6,
+   "market_price_t0": 12,
+   "edge": 0.016000000000000042,
+   "confidence": 0.5740000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.14, 0.14, 0.13, 0.14, 0.13). The resolution source (IAA site) shows the Tel Aviv FIR fully open with no closure NOTAM, and the Polymarket/Kalshi anchor prices YES at 12% with coherent nested buckets (Sep30 3%, Dec31 21%). The historical base rate is meaningful — roughly four full closures in 30 months, all triggered by direct Iran-Israel exchanges, including a 40-day closure in Feb–Apr 2026 — and the ceasefire is fragile (Sept 1 Iranian strikes on US bases in Jordan; ceasefire-continues market at 80.5% through Oct 31). However, a ceasefire breakdown does not automatically mean a full FIR closure, the region appears to be in a post-war cooldown, and Houthi/Hezbollah-driven partial restrictions are excluded. I nudge slightly above the thin-volume market anchor to ~14% given the elevated regional risk over a ~6-week window.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3105",
    "has_trace": true
   }
  ]

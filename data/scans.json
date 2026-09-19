@@ -2101,6 +2101,20 @@
  ],
  "Will the highest score achieved by a Moonshot Kimi model on Humanity’s Last Exam in 2026 be 50% or higher?": [
   {
+   "id": 3195,
+   "scanned_at": "2026-09-19T17:41:09.171562",
+   "date": "2026-09-19",
+   "agent": 32,
+   "market_price_t0": 36.5,
+   "edge": -0.044999999999999984,
+   "confidence": 0.532,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.32, 0.30, 0.36, 0.30, 0.32). The Polymarket anchor sits at 36.5% YES with a declining 30-day trend, and the verified no-tools Kimi ceiling (K2.5 at 24.4%) is barely half the 50% threshold. Even Moonshot's tool-augmented self-report for K2 Thinking (44.9%) fell short, and Moonshot itself states K3 still trails proprietary frontier models, which only recently crossed 50-59%. The main path to YES is a late-2026 K3.x/K4 release scored with tool use and posted to agi.safe.ai, which the sibling markets (45%+ at 85%) suggest traders consider plausible, but the unresolved question of whether tool-augmented scores count plus the historical 10-30pp lag argues for landing modestly below the market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3195",
+   "has_trace": true
+  },
+  {
    "id": 2434,
    "url": "https://forecast.agenticlearning.ai/scans/v2/2434",
    "date": "2026-09-01",
@@ -3690,6 +3704,20 @@
   }
  ],
  "Opensea FDV above $500M one day after launch?": [
+  {
+   "id": 3191,
+   "scanned_at": "2026-09-19T16:04:36.584708",
+   "date": "2026-09-19",
+   "agent": 15.6,
+   "market_price_t0": 16.4,
+   "edge": -0.008500000000000008,
+   "confidence": 0.632,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.16, 0.15, 0.15, 0.16, 0.16). No Kalshi price exists, so Polymarket's 16.0% Yes on this exact market is the anchor. The binding constraint is launch risk: SEA's March 30, 2026 TGE was delayed indefinitely with no new date, tokenomics, or venue disclosed as of the latest reporting, and the sibling 'launch by Dec 31, 2026' market prices only ~18%. Conditional on a launch, precedent (Magic Eden ~$5B, BLUR >$2.5B settled, LOOKS) suggests a high (~85%) chance of clearing $500M FDV, which multiplies to roughly 0.18 × 0.85 ≈ 0.15–0.16. A soft late-2026 speculative-token environment and the downward 30/90-day price drift argue against deviating upward from the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3191",
+   "has_trace": true
+  },
   {
    "id": 2487,
    "scanned_at": "2026-09-02T10:27:26.542017",
@@ -7653,6 +7681,20 @@
  ],
  "Will Anthropic's valuation hit (HIGH) $3.0T by December 31?": [
   {
+   "id": 3194,
+   "scanned_at": "2026-09-19T16:52:43.751415",
+   "date": "2026-09-19",
+   "agent": 21,
+   "market_price_t0": 25.5,
+   "edge": -0.044999999999999984,
+   "confidence": 0.5900000000000001,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.21, 0.20, 0.21, 0.21, 0.22). The most recent authoritative reporting (WSJ, Sept 18) has Anthropic targeting a ~$2T IPO valuation in November, a full third below the $3T threshold, and the last confirmed primary mark is $965B with secondaries only around $1.05–1.2T. A Yes essentially requires (a) the IPO actually pricing before Dec 31 (Polymarket ~76.5%) and (b) a ~50% post-listing surge or upward repricing to $3T within weeks—plausible given AI hype and 'HIGH' (intraday-touch) resolution, but without precedent at this scale; if the IPO slips, NPM alone reaching $3T is a remote tail. Sibling markets (IPO-day cap <$1.25T at 0.9%, Anthropic > OpenAI at 87.5%) support a ~$2T base case, not $3T. I anchor on the Polymarket 25.5% (downtrending) but shade slightly lower given the explicit $2T guidance and IPO-timing risk, landing at ~21%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3194",
+   "has_trace": true
+  },
+  {
    "id": 2153,
    "scanned_at": "2026-08-29T10:28:48.017794",
    "date": "2026-08-29",
@@ -9127,6 +9169,20 @@
  ],
  "Will another country leave OPEC in 2026?": [
   {
+   "id": 3177,
+   "scanned_at": "2026-09-19T09:45:19.524002",
+   "date": "2026-09-19",
+   "agent": 17,
+   "market_price_t0": 19.5,
+   "edge": -0.025000000000000022,
+   "confidence": 0.5800000000000001,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.16, 0.16, 0.16, 0.18, 0.19). The UAE's exit (effective May 1, 2026) is already done, so this resolves YES only if a second member (Venezuela, Iraq, Nigeria, etc.) makes an official withdrawal announcement in the ~3.5 months remaining; as of mid-September no government has done so, and OPEC+ has continued routine joint quota-setting (Aug output hike, Sept unchanged decision, 2027 baseline review), signaling cohesion. The only concrete signal is a secondhand report that Venezuela is 'weighing' an exit, with no official statement; Iraq and Nigeria friction is about quotas, not membership. The Polymarket proxy anchor is 19.5% and falling (from a 39.5% post-UAE peak), and the historical base rate scaled to the remaining window is ~15–18%, with the 2018–2019 Qatar→Ecuador cluster the main argument for elevated contagion risk. Weighing the absence of any official rhetoric and the short window against genuine tail risk from Venezuela, I land slightly below the market at ~16% YES.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3177",
+   "has_trace": true
+  },
+  {
    "id": 2070,
    "scanned_at": "2026-08-27T22:43:12.023124",
    "date": "2026-08-27",
@@ -9204,6 +9260,20 @@
   }
  ],
  "Puffpaw FDV above $100M one day after launch?": [
+  {
+   "id": 3190,
+   "scanned_at": "2026-09-19T15:16:01.454329",
+   "date": "2026-09-19",
+   "agent": 24.6,
+   "market_price_t0": 25.5,
+   "edge": -0.009000000000000008,
+   "confidence": 0.5740000000000001,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.25, 0.24, 0.24, 0.25, 0.25). No Kalshi price exists, so the Polymarket anchor of 25.5% YES on this identical market is the consensus, and it has been trending down from a 53% peak. This is a compound question: the launch-by-Dec-31-2026 sister market sits at ~42.5%, and while conditional on launch a 100B-supply, low-float, $12M-revenue DePIN token could plausibly clear $100M (the $50M and $100M markets trade nearly identically at 28% vs 25.5%, implying the market sees a binary pump-or-fizzle outcome), final tokenomics remain unpublished and no CEX listing is confirmed, both of which raise delay risk and cap day-one FDV. The narrower analogue base rate (~46% conditional on launch) times a ~45-60% launch probability lands in the 20-30% range, consistent with the reconciled estimate of ~22-28%. I stay close to the market at 25% YES.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3190",
+   "has_trace": true
+  },
   {
    "id": 2037,
    "scanned_at": "2026-08-27T07:20:27.661348",
@@ -9446,6 +9516,20 @@
   }
  ],
  "Will there be no next Google Gemini Pro model release by November 1, 2026?": [
+  {
+   "id": 3186,
+   "scanned_at": "2026-09-19T13:40:48.805438",
+   "date": "2026-09-19",
+   "agent": 21.2,
+   "market_price_t0": 15.5,
+   "edge": 0.05699999999999997,
+   "confidence": 0.554,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.22, 0.24, 0.19, 0.22, 0.19). The market anchor (Polymarket, identical contract) prices 'no Pro release by Nov 1' at 15.5% and falling sharply (-26% over 30 days), with sibling weekly buckets concentrating a mid/late-October launch — traders appear to expect a product-event-timed 3.5 Pro or Gemini 4 launch. However, the brief documents three missed internal targets, no public preview or model ID as of early September, a leadership reshuffle explicitly tied to the stalled Pro launch, and Gemini 4 pretraining diverting focus; a ~6-7 week window with no preview artifact is tight for a Pro launch that has repeatedly slipped on reliability grounds. The resolution source (DeepMind models page) still shows 3.1 Pro as the only Pro model with '3.5 Pro coming soon,' so the condition is unmet but the window remains open. I shade modestly above the market toward 'Yes' given the absence of any concrete launch signal, but defer largely to the consensus and new leadership's stated urgency to ship.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3186",
+   "has_trace": true
+  },
   {
    "id": 2853,
    "scanned_at": "2026-09-12T12:12:33.097993",
@@ -9837,6 +9921,20 @@
  ],
  "Cuban regime falls in 2026?": [
   {
+   "id": 3179,
+   "scanned_at": "2026-09-19T10:35:27.308872",
+   "date": "2026-09-19",
+   "agent": 8.8,
+   "market_price_t0": 12.5,
+   "edge": -0.037000000000000005,
+   "confidence": 0.6719999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.08, 0.08, 0.11, 0.10). As of September 2026 the PCC still governs Cuba with Díaz-Canel in office, no confirmed elite defections or military fractures, and Raúl Castro's public reappearance on Sept 6 undercutting succession-crisis narratives. The Polymarket anchor is 12.5% and drifting down despite worsening blackout/protest headlines, while correlated markets (US invasion 6.5%, Díaz-Canel out 14.5%) suggest leadership reshuffling is seen as more likely than full loss of PCC control—and a reshuffle would likely still resolve No. Base rates for entrenched one-party regimes (~1-6%/yr, no collapses since 1991) and expert consensus (CFR, Foreign Affairs) that internal collapse is 'highly unlikely' in the short term argue for shading below the market, which typically overprices dramatic tail events with only ~3.5 months remaining. I land at ~7% Yes, modestly below the 12.5% anchor, retaining some weight for a US strike/engineered transition or sudden Castro death triggering cascade.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3179",
+   "has_trace": true
+  },
+  {
    "id": 1978,
    "scanned_at": "2026-08-26T07:47:17.301304",
    "date": "2026-08-26",
@@ -9866,6 +9964,20 @@
   }
  ],
  "Russia x Ukraine ceasefire by December 31, 2026?": [
+  {
+   "id": 3180,
+   "scanned_at": "2026-09-19T11:19:24.952557",
+   "date": "2026-09-19",
+   "agent": 12.6,
+   "market_price_t0": 14.5,
+   "edge": -0.01899999999999999,
+   "confidence": 0.6679999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.12, 0.12, 0.12, 0.13, 0.14). The Polymarket anchor prices YES at 14.5% and has trended down from a 30.5% 90-day high; the Oct 31, 2026 sibling market at 8% and rising 2027-dated markets (40–62%) indicate consensus expects any qualifying ceasefire to slip past year-end. With roughly 3.5 months remaining, the core gap (Russian demand for full Donbas withdrawal vs. Ukraine's territorial integrity stance) is unresolved, the Kremlin reportedly won't compromise until it seizes all of Donetsk 'by late 2026', and the Sept 5–8 Witkoff/Kushner visit yielded only a capitals-only pause that lapsed immediately. All three 2026 truces (Easter, Victory Day, September) failed the 'general suspension across the primary theater, held ≥10 days' bar, showing the resolution criteria are demanding. Active US diplomacy and a possible October trilateral round keep a meaningful tail, but a 12-month base rate of ~14–25% compressed into a 3.5-month window argues for slightly below the market price.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3180",
+   "has_trace": true
+  },
   {
    "id": 1975,
    "scanned_at": "2026-08-26T06:51:56.753248",
@@ -12191,6 +12303,20 @@
  ],
  "Will Solana hit $60 or $140 first?": [
   {
+   "id": 3188,
+   "scanned_at": "2026-09-19T14:26:55.253108",
+   "date": "2026-09-19",
+   "agent": 42,
+   "market_price_t0": 31.9,
+   "edge": 0.10100000000000003,
+   "confidence": 0.324,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.45, 0.42, 0.52, 0.36, 0.35). SOL is ~$110-113 after a 9-12% one-day rally, roughly 24% below $140 and 45% above $60, so a barrier model favors $140-first (~55% with ~15% $60-first and ~30% neither within the ~3.3-month window at 85% vol). The best available consensus anchor, Polymarket's same-question market at 31.9% Yes (down sharply over 30d), argues for a much lower number, but it likely reflects SOL's sub-$100 prints before the rebound and includes the 50-50 'neither' mechanics. Headwinds (ETF inflows down 96%, BTC stuck below Standard Chartered's $85K trigger, hawkish Fed) keep me from moving fully to the model estimate, and the Yes/No mapping to '$140 first' is inferred rather than confirmed, so I blend toward ~0.45.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3188",
+   "has_trace": true
+  },
+  {
    "id": 1600,
    "scanned_at": "2026-08-21T22:15:04.443483",
    "date": "2026-08-21",
@@ -12346,6 +12472,20 @@
   }
  ],
  "Will Alberta vote for independence in 2026?": [
+  {
+   "id": 3175,
+   "scanned_at": "2026-09-19T08:57:54.076915",
+   "date": "2026-09-19",
+   "agent": 5.8,
+   "market_price_t0": 7.3,
+   "edge": -0.014999999999999986,
+   "confidence": 0.752,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.06, 0.06, 0.07, 0.04, 0.06). The only 2026 vote on separation is the non-binding Question 10 on October 19, which asks only whether to start a legal process toward a future referendum; the APP's direct independence petition is legally frozen after the May 2026 court ruling. Polling from Aug–Sept 2026 (Leger 65/23, Research Co. 74/22, CBC Sept 12 showing a widening gap) puts 'Remain' far ahead with a stable-to-widening trend, and Premier Smith herself opposes separation. Even an unlikely Option 2 win would face interpretive uncertainty about whether it 'establishes desire for independence,' though it plausibly would resolve Yes. Anchoring on the Polymarket exact-match price of 7.3% (declining) and the broader Kalshi secession market at 12%, I land slightly below the Polymarket price given the polling margin exceeds Scotland 2014 and Quebec 1995 precedents.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3175",
+   "has_trace": true
+  },
   {
    "id": 1558,
    "scanned_at": "2026-08-20T19:11:47.340362",
@@ -13747,6 +13887,20 @@
  ],
  "Will Paramount close Warner Bros. acquisition by end of 2026?": [
   {
+   "id": 3183,
+   "scanned_at": "2026-09-19T12:07:31.080852",
+   "date": "2026-09-19",
+   "agent": 30.4,
+   "market_price_t0": 78.3,
+   "edge": -0.4785,
+   "confidence": 0.512,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.45, 0.40, 0.42, 0.11, 0.14). The fundamentals point strongly to No: Paramount itself guided a June 1, 2027 close (7/24/26), the 12-state AG antitrust trial is set for March 2027, settlement talks were reported 'far apart' on 8/22, and EDGAR through 9/16/26 shows no completion signal — comp-based timelines alone made a 2026 close thin. However, there is no Kalshi-direct price, and the exact-deadline Polymarket contract jumped +57pp in 7 days to 78% Yes, a move of a size that usually reflects real news (e.g., settlement progress that would allow a rapid close since all other approvals are in hand), even though the brief could not confirm any such event and volume is modest ($154K). Balancing company guidance and the trial calendar against a sharp market repricing whose cause is unverified, I land near a coin flip with a lean toward No.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3183",
+   "has_trace": true
+  },
+  {
    "id": 1249,
    "scanned_at": "2026-08-13T06:08:41.341731",
    "date": "2026-08-13",
@@ -14206,7 +14360,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-19T08:02:45.473Z",
+  "last_sync": "2026-09-19T18:00:58.641Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -15010,6 +15164,20 @@
   }
  ],
  "2026 Balance of Power: R Senate, R House": [
+  {
+   "id": 3173,
+   "scanned_at": "2026-09-19T08:13:03.447345",
+   "date": "2026-09-19",
+   "agent": 8.8,
+   "market_price_t0": 8.5,
+   "edge": 0.002999999999999989,
+   "confidence": 0.696,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.09, 0.09, 0.09, 0.09, 0.09). The Polymarket anchor for R Senate/R House is 8.5%, trending down from a 19.5% high, and standalone marginals (R Senate ~40.5%, R House ~10.5%) with strong positive correlation imply a joint probability in the 8-11% range. Silver Bulletin's model gives Democrats an 85-90% chance of the House and 57-59% for the Senate, with a D+7 to D+9 generic ballot and Trump net approval near -20 resembling 2006/2018 environments where the president's party lost at least one chamber. The compound outcome essentially requires a large systematic polling miss toward Republicans; in that world the Senate would very likely follow the House, so the joint sits close to P(R House) ≈ 10-12%. Redistricting roughly nets out and offers little offset. I stay near the market anchor with a slight upward nudge for correlation and polling-error tail risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3173",
+   "has_trace": true
+  },
   {
    "id": 2799,
    "scanned_at": "2026-09-10T12:24:31.547116",
@@ -16138,6 +16306,22 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.60, 0.57, 0.58, 0.69, 0.67). No Kalshi-direct price is available, so Polymarket's 71% (down from 91.5% and falling) is the best anchor. The latest Datafolha (Sept 17) has Lula 39% vs Flávio Bolsonaro 36% with rising approval (48%), but Quaest shows a statistical tie or Flávio numerically ahead, and 14% still sits with non-Flávio right candidates who could consolidate via 'voto útil' before Oct 4. Brazilian polls also underestimated the Bolsonaro-aligned vote in 2018 and 2022 by several points, which makes a 3-point Datafolha lead fragile. Netting Lula's incumbency, momentum in approval, and Flávio's corruption probe against the narrowing trend and right consolidation risk, I discount Polymarket to roughly 60% Yes.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3142",
+   "has_trace": true
+  }
+ ],
+ "Israeli airspace closed by December 31, 2026?": [
+  {
+   "id": 3184,
+   "scanned_at": "2026-09-19T12:57:39.965543",
+   "date": "2026-09-19",
+   "agent": 19.2,
+   "market_price_t0": 21.5,
+   "edge": -0.022999999999999993,
+   "confidence": 0.576,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.18, 0.18, 0.17, 0.21, 0.22). The only direct market anchor (Polymarket, same question) prices YES at 21.5% with thin volume; no closure has occurred in the counting window and the IAA shows normal operations with no closure NOTAM. Base rates support elevated risk (full-FIR closures in Apr'24, Oct'24, Feb'26, possibly Jun'25), but pro-rated to the ~3.5 months remaining the historical rate alone implies ~10%, and Israel's post-Feb-2026 'resilience' policy of keeping airspace open even amid Iranian launches (early-Sept closure recommendation rejected) plus 9+ days without direct Israel-Iran fire argue further against a full-FIR closure. Offsetting upward: the Iran war of attrition is unresolved, Hezbollah strikes continue, and the Houthi ceasefire is fragile, so a renewed major exchange within the window is plausible. Netting these, I shade slightly below the market anchor to ~18% YES.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3184",
    "has_trace": true
   }
  ]

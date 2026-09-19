@@ -949,6 +949,20 @@
  ],
  "Will Anthropic flip BTC by December 31?": [
   {
+   "id": 3166,
+   "scanned_at": "2026-09-19T04:58:06.034197",
+   "date": "2026-09-19",
+   "agent": 78.2,
+   "market_price_t0": 81.5,
+   "edge": -0.03299999999999992,
+   "confidence": 0.604,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.79, 0.75, 0.76, 0.81, 0.80). The ticker-matched market prices YES at 81.5% and has been uptrending, so that is the anchor. The case for Yes is strong: Anthropic's confirmed $965B Series H (May 2026), confidential SEC filing, a reported mid-October IPO with investors projecting ~$2T (Reuters/FT), and a ~$1.6T BTC cap that leaves only a modest gap; SpaceX's $1.77T debut shows trillion-plus IPOs are feasible this cycle. However, the $2T figure is unconfirmed, IPO timelines routinely slip (related IPO-by-Nov-30 market only 65.5%), the offering could price at $1.2-1.5T, and a Q4 BTC rally could widen the gap, so I shade slightly below the market. Net: ~0.79 Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3166",
+   "has_trace": true
+  },
+  {
    "id": 2119,
    "url": "https://forecast.agenticlearning.ai/scans/v2/2119",
    "date": "2026-08-28",
@@ -1579,6 +1593,20 @@
  ],
  "US strike on Cuba by December 31?": [
   {
+   "id": 3158,
+   "scanned_at": "2026-09-19T01:50:29.951783",
+   "date": "2026-09-19",
+   "agent": 12.4,
+   "market_price_t0": 15,
+   "edge": -0.025999999999999995,
+   "confidence": 0.616,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.11, 0.12, 0.12, 0.13, 0.14). No US strike on Cuban soil has occurred as of mid-September 2026, and Pentagon/CSIS statements indicate no operation is resourced or imminent, with force levels below the Dec 2025/Jan 2026 peak. The Kalshi-linked anchor sits at 15% YES, having cooled sharply from a 47% peak as the May threat cycle failed to produce kinetic action, and current policy is centered on sanctions (Sept 5 EO 14404) and indictments (Raúl Castro) rather than strikes. Trump's documented pattern of threatening without striking (CNN's seven-country list), plus only ~103 days remaining, argues for a modest discount below the market, though the Venezuela precedent, Nimitz presence, and contingency planning keep a real tail. I land slightly under the market at 11% YES.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3158",
+   "has_trace": true
+  },
+  {
    "id": 1955,
    "url": "https://forecast.agenticlearning.ai/scans/v2/1955",
    "date": "2026-08-25",
@@ -1936,6 +1964,20 @@
   }
  ],
  "Will Xi meet with Takaichi by December 31, 2026?": [
+  {
+   "id": 3155,
+   "scanned_at": "2026-09-19T00:10:11.200060",
+   "date": "2026-09-19",
+   "agent": 65.8,
+   "market_price_t0": 65.5,
+   "edge": 0.0030000000000000027,
+   "confidence": 0.5599999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.68, 0.68, 0.70, 0.61, 0.62). No Kalshi price exists, so Polymarket's 65.5% Yes (rising from 19.5%) is the anchor. The dominant Yes pathway is APEC Shenzhen (Nov 18-19), where Xi as host customarily greets every attending leader — the 2014 APEC Beijing Xi–Abe handshake amid a comparable freeze is a strong precedent, and Takaichi is ~92% likely to remain PM per adjacent markets. Against this, China still explicitly conditions dialogue on a retraction Takaichi refuses, Xi was personally hostile as recently as May 2026, and it is unconfirmed whether Takaichi will attend or whether a mere host receiving-line handshake would satisfy the resolver. Netting the near-automatic host-greeting mechanism against attendance and resolution-criteria uncertainty, I land slightly above the market at 0.68.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3155",
+   "has_trace": true
+  },
   {
    "id": 1578,
    "url": "https://forecast.agenticlearning.ai/scans/v2/1578",
@@ -4449,6 +4491,20 @@
  ],
  "Will any AI model reach 1560 Coding Arena Score by December 31, 2026?": [
   {
+   "id": 3151,
+   "scanned_at": "2026-09-18T22:29:06.449792",
+   "date": "2026-09-18",
+   "agent": 28.8,
+   "market_price_t0": 25.5,
+   "edge": 0.03300000000000003,
+   "confidence": 0.556,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.30, 0.28, 0.30, 0.28, 0.28). The resolution source (arena.ai coding, no style control) shows the top model at 1535/1536 as of Sep 13, 2026, leaving a ~25-point gap with ~3.5 months to go. Polymarket prices this exact event at 25.5% YES, having fallen sharply from 73%, suggesting an earlier bullish rumor (likely aggregator figures conflating WebDev Arena) was walked back. A 25-point jump typically requires a major frontier release landing on this specific leaderboard (e.g., GPT-6 Astra or a new Opus), which is plausible given the reported Q3-Q4 2026 release cadence but far from assured since top-of-leaderboard Elo gains per release have been in the 10-30 point range and Bradley-Terry scores can drift. The similar pricing of 1560 and 1580 buckets supports step-jump dynamics, so I tilt slightly above the market anchor to 30% but stay close to it given the authoritative snapshot and the third-party trackers' unreliability.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3151",
+   "has_trace": true
+  },
+  {
    "id": 2436,
    "scanned_at": "2026-09-01T19:24:11.634948",
    "date": "2026-09-01",
@@ -6057,6 +6113,20 @@
  ],
  "Will China’s 2026 annual GDP growth (Y/Y) be between 4.0% and 5.0%?": [
   {
+   "id": 3169,
+   "scanned_at": "2026-09-19T06:37:24.688979",
+   "date": "2026-09-19",
+   "agent": 90,
+   "market_price_t0": 89.5,
+   "edge": 0.0050000000000000044,
+   "confidence": 0.74,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.91, 0.90, 0.90, 0.89, 0.90). H1 2026 official growth is 4.7% (Q1 5.0%, Q2 4.3%), so exceeding 5.0% for the full year would require H2 averaging ~5.3%—implausible given the Q2 miss, deepening property slump, tariff drag, and Beijing's stated tolerance for growth near the floor of its 4.5–5% target. Falling below 4.0% would require H2 averaging ~3.3%, a sharp break from official statistical practice where prints have landed within ±0.3pp of target in 75% of years since 2013. IMF (4.6%), World Bank (4.5%), Goldman (4.2–4.7%), and China-Briefing (4.7–4.8%) all sit inside the band, and the Polymarket sibling market trades at 89.5% YES with the Q3 quarterly buckets concentrated at 4.3–4.9%. The main residual risks are a tariff/property shock pushing toward the 4% threshold or an exactly-5.0% print counting as the higher bracket, both modest tails.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3169",
+   "has_trace": true
+  },
+  {
    "id": 2312,
    "scanned_at": "2026-08-31T06:29:16.574643",
    "date": "2026-08-31",
@@ -6585,6 +6655,20 @@
  ],
  "Will ByteDance be added to the Chinese Military Companies list by June 30, 2027?": [
   {
+   "id": 3157,
+   "scanned_at": "2026-09-19T01:00:03.188554",
+   "date": "2026-09-19",
+   "agent": 13.2,
+   "market_price_t0": 16.5,
+   "edge": -0.033,
+   "confidence": 0.608,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.13, 0.13, 0.12, 0.14, 0.14). The June 8, 2026 1260H update was an aggressive expansion (+65 entities including Alibaba, Baidu, BYD) yet deliberately omitted ByteDance, signaling the administration is applying a distinguishing factor tied to the January 2026 TikTok JV divestiture, which it has since treated as resolving national-security concerns (lifting the government-device ban). No DoD or congressional actor has been found explicitly pushing 1260H designation for ByteDance, and the Alibaba lawsuit raises the legal cost of further contestable additions. YES requires a subsequent update before June 2027 that reverses this stance; another update is plausible given the statutory annual cadence, but the historical cadence is irregular and the political incentive to protect the Trump-brokered TikTok deal points against designation. With no Kalshi direct price, I anchor on Polymarket's 16.5% and shade slightly lower given the specific evidence that ByteDance was passed over in the most expansive round.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3157",
+   "has_trace": true
+  },
+  {
    "id": 2266,
    "scanned_at": "2026-08-30T15:54:57.451071",
    "date": "2026-08-30",
@@ -6658,6 +6742,20 @@
   }
  ],
  "Will the US acquire part of Greenland in 2026?": [
+  {
+   "id": 3150,
+   "scanned_at": "2026-09-18T21:45:39.099866",
+   "date": "2026-09-18",
+   "agent": 4.8,
+   "market_price_t0": 7.1,
+   "edge": -0.023499999999999993,
+   "confidence": 0.764,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.05, 0.05, 0.05, 0.04, 0.04). The Polymarket anchor for this exact contract is 5.25% with high liquidity and a stable, slightly declining trend; Kalshi analogs price even the 3-year horizon at only 22%, implying the 2026 window should be well below that. Nine months of 2026 have passed with no binding sovereignty or exclusive-jurisdiction instrument, Denmark and Greenland hold sovereignty as a firm red line, Trump disclaimed force on Jan 21, and the trilateral working group is trending toward expanded basing under the existing 1951/2004 framework, which would not qualify. The main residual risk is that a Q4 basing deal gets structured with US sovereign/exclusive-jurisdiction designation (an unconfirmed report says this was floated), or a resolution dispute over what counts, which keeps Yes above the floor. Historical base rate of failed US Greenland acquisition attempts further supports No.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3150",
+   "has_trace": true
+  },
   {
    "id": 2260,
    "scanned_at": "2026-08-30T14:22:27.674162",
@@ -7524,6 +7622,20 @@
   }
  ],
  "Will Alibaba be the third-best Code Arena | WebDev AI lab at the end of October 2026?": [
+  {
+   "id": 3153,
+   "scanned_at": "2026-09-18T23:19:39.666963",
+   "date": "2026-09-18",
+   "agent": 39.6,
+   "market_price_t0": 36,
+   "edge": 0.03600000000000003,
+   "confidence": 0.528,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.40, 0.42, 0.40, 0.38, 0.38). Alibaba currently holds Lab Rank 3 on the Sep 11 snapshot (Qwen3.8-max-0902, 1681), with OpenAI and Anthropic well ahead and Moonshot only ~17 pts behind, so the relevant risk is displacement from below or a leapfrog by Google/xAI/DeepSeek/Moonshot over a 7-week runway during which Alibaba's rank has already flipped three times. The Polymarket sibling market prices YES at 36%, well below the ~70% the Sept edition gave an incumbent Alibaba, indicating traders see elevated displacement risk this cycle. Incumbency plus Alibaba's rapid iteration cadence argue for a modest upward adjustment from the anchor, but the density of rival releases and the untracked 7-week gap keep me near market. I land at 40% YES.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3153",
+   "has_trace": true
+  },
   {
    "id": 2155,
    "scanned_at": "2026-08-29T11:18:34.748911",
@@ -11233,6 +11345,20 @@
  ],
  "Will Paramount close Warner Bros acquisition?": [
   {
+   "id": 3161,
+   "scanned_at": "2026-09-19T02:36:21.469265",
+   "date": "2026-09-19",
+   "agent": 79.4,
+   "market_price_t0": 86,
+   "edge": -0.06600000000000006,
+   "confidence": 0.624,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.79, 0.80, 0.75, 0.82, 0.81). The deal is a signed definitive agreement with unanimous board, shareholder, DOJ, UK CMA and 60+ territory clearances, so the sole binding constraint is the 12-state AG Clayton Act suit with a March 2027 trial. State-only antitrust challenges without DOJ backing have a weak historical record (e.g., T-Mobile/Sprint), and active settlement talks with CA's Bonta (October meeting, divestiture remedies discussed) offer a negotiated path that could permit closing well before the June 30, 2027 deadline. The main risk is timing: a post-trial ruling plus possible appeal/injunction requests could push past the ~June 4, 2027 outside date, though parties can mutually extend and the outside date auto-extended once already. Anchoring between the stale Kalshi 74% (Aug 2026) and current Polymarket 86% with strong upward momentum, I land at ~79% Yes, shading below Polymarket for the tight litigation calendar.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3161",
+   "has_trace": true
+  },
+  {
    "id": 1805,
    "scanned_at": "2026-08-24T03:48:55.848845",
    "date": "2026-08-24",
@@ -11625,6 +11751,20 @@
  ],
  "Ukraine signs peace deal with Russia before 2027?": [
   {
+   "id": 3168,
+   "scanned_at": "2026-09-19T05:48:30.480816",
+   "date": "2026-09-19",
+   "agent": 10.6,
+   "market_price_t0": 10.5,
+   "edge": 0.0010000000000000148,
+   "confidence": 0.658,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.10, 0.11, 0.12, 0.10, 0.10). With roughly 3.5 months remaining, the status quo is clearly unmet: the Sept 2026 Witkoff/Kushner shuttle produced 'progress' but no agreed draft text, no signing date, and Russia has not moved on Donbas cession or NATO renunciation. Prior deadlines (June 2026) passed, talks froze for 6-8 months, and allies now expect the war to run into 2027. The Polymarket same-ticker anchor sits at 10.5% (down from a 29.5% 90-day high), bracketed by a looser 'ceasefire by Dec 31' market at 22.5% and a Kalshi trilateral-meeting market at only 6%, which is consistent with a signed instrument being a low-probability tail. I stay essentially at the market anchor, since renewed US engagement and Trump's incentive to claim a win keep a non-trivial tail alive but nothing in the brief suggests the market is mispricing.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3168",
+   "has_trace": true
+  },
+  {
    "id": 1709,
    "scanned_at": "2026-08-23T04:13:25.930403",
    "date": "2026-08-23",
@@ -11960,6 +12100,20 @@
   }
  ],
  "Trump meets with Putin by December 31?": [
+  {
+   "id": 3143,
+   "scanned_at": "2026-09-18T19:17:44.365891",
+   "date": "2026-09-18",
+   "agent": 53.8,
+   "market_price_t0": 68,
+   "edge": -0.14200000000000013,
+   "confidence": 0.52,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.58, 0.55, 0.52, 0.57, 0.47). Polymarket prices YES at 68% with strong 30-day momentum, but no in-person meeting is scheduled and both sides frame a summit as the capstone to a peace deal that has not materialized (Trump: 'when we're ready to do a peace deal'; Peskov: meeting only to 'formalize agreements'). Correlated markets are bearish: ceasefire by Dec 31 at 22.5%, Kalshi trilateral at 6%, all venue-specific bilateral markets under 2%, and Trump himself doubts Putin attends the Miami G20. Offsetting this, there are two concrete multilateral windows (APEC Shenzhen Nov 18-19, G20 Miami Dec 14-15), renewed envoy shuttle diplomacy, a friendly Trump-Putin phone call, and the Alaska precedent shows Trump will meet Putin without a finished deal. I anchor near the market but shade down to reflect the ~3.5 months remaining, the second-term base rate of one meeting in 13 months, and the absence of any confirmed date.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3143",
+   "has_trace": true
+  },
   {
    "id": 1613,
    "scanned_at": "2026-08-22T06:00:01.941683",
@@ -12582,6 +12736,20 @@
   }
  ],
  "Yoon out of custody before 2027?": [
+  {
+   "id": 3146,
+   "scanned_at": "2026-09-18T20:06:26.600219",
+   "date": "2026-09-18",
+   "agent": 5,
+   "market_price_t0": 7,
+   "edge": -0.020000000000000004,
+   "confidence": 0.8160000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.05, 0.06, 0.05, 0.04, 0.05). Yoon is serving a life sentence for insurrection plus a 7-year obstruction sentence, both pending Supreme Court review with no ruling date; even a favorable Supreme Court outcome would likely be a remand rather than outright release. There is no precedent for bail or suspended detention for Park Geun-hye or Lee Myung-bak mid-appeal, no pardon signal from the opposing-camp Lee Jae-myung government, and no credible health-crisis reports. Polymarket's identical market trades at 7% YES and has decayed from a 25% high, consistent with convergence on 'No'. With only a few months remaining and every plausible release path requiring an unprecedented event, I sit slightly below the market price.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3146",
+   "has_trace": true
+  },
   {
    "id": 1467,
    "scanned_at": "2026-08-18T11:46:16.579801",
@@ -14038,7 +14206,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-18T18:28:52.351Z",
+  "last_sync": "2026-09-19T08:02:45.473Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -14374,6 +14542,20 @@
   }
  ],
  "Will Clavicular wear a Yarmulke in 2026?": [
+  {
+   "id": 3162,
+   "scanned_at": "2026-09-19T03:24:29.206089",
+   "date": "2026-09-19",
+   "agent": 26.6,
+   "market_price_t0": 24.5,
+   "edge": 0.02100000000000002,
+   "confidence": 0.48,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.30, 0.28, 0.27, 0.24, 0.24). The best available anchor is Polymarket at ~24% YES, rising +16.5pp over 30 days on Israel-trip content. Peters has a documented pattern of playing to prediction markets about himself, and the companion 'kiss the Western Wall' market signals engagement-farming around Israel content; notably, head coverings are customary/required for men at the Western Wall, so any staged visit there would almost mechanically produce kippah footage that mainstream outlets (which cover his every stunt) would pick up. Against this, there is no confirmed instance to date, no religious motivation, his Israel trip is framed as secular partying, and the resolution standard leans on credible reporting rather than raw stream clips. I nudge modestly above the market for the Western Wall custom and long remaining window, but keep No as the clear favorite.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3162",
+   "has_trace": true
+  },
   {
    "id": 2675,
    "scanned_at": "2026-09-06T09:45:22.192922",
@@ -14989,6 +15171,20 @@
  ],
  "Will Erling Haaland be the #1 searched person on Google this year?": [
   {
+   "id": 3164,
+   "scanned_at": "2026-09-19T04:14:20.267603",
+   "date": "2026-09-19",
+   "agent": 12.8,
+   "market_price_t0": 15.5,
+   "edge": -0.026999999999999996,
+   "confidence": 0.5780000000000001,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.12, 0.13, 0.12, 0.13, 0.14). The closest market anchor (Polymarket, no Kalshi-direct price) puts Haaland at 15.5%, down from a 30% World Cup peak after Norway's quarterfinal exit and Mbappé's record-setting Golden Boot overshadowed his 7-goal tournament. Google's Year in Search 'People' list ranks year-over-year spike momentum, which structurally favors sudden viral, scandal, death, or political figures (Depp 2022, Hamlin 2023, Trump 2024, d4vd 2025) over already-famous athletes with high baseline search volume; no top scorer or established star has topped it in the reviewed years. Haaland's Norway breakout does give him a genuine global spike and he is far the strongest footballer in the field, but five-plus months of unseen H2 2026 events (including US midterms) leave ample room for a non-football breakout to take #1. I shade slightly below the Polymarket price given the methodology headwind and the lack of a tournament-defining outcome.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3164",
+   "has_trace": true
+  },
+  {
    "id": 2843,
    "scanned_at": "2026-09-12T02:39:22.174717",
    "date": "2026-09-12",
@@ -15020,6 +15216,20 @@
   }
  ],
  "Will Likud win fewer than 20 seats in the 2026 Israeli legislative election?": [
+  {
+   "id": 3172,
+   "scanned_at": "2026-09-19T07:25:12.029384",
+   "date": "2026-09-19",
+   "agent": 25.8,
+   "market_price_t0": 23.1,
+   "edge": 0.026999999999999996,
+   "confidence": 0.544,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.27, 0.23, 0.25, 0.27, 0.27). The best available anchor is Polymarket's <20 contract at ~23% (de-vigged ~24%), trending upward as September polls (Channel 13/Haaretz 18, Maariv 19) show Likud at its weakest readings since 2022. However, pollster dispersion is wide (Channel 12 at 22, i24 at 27), the polling average is still ~21-22, and Likud has historically matched or slightly outperformed final polls, while ~5 weeks remain for Netanyahu to consolidate right-wing voters after failed mergers. Failed joint-list talks and the Gotliv defection remove upside consolidation, justifying a modest tilt above the market anchor, but the modal outcome remains low 20s. I place Yes slightly above the Polymarket price at 27%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3172",
+   "has_trace": true
+  },
   {
    "id": 2837,
    "scanned_at": "2026-09-11T21:49:55.745790",
@@ -15896,6 +16106,38 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.24, 0.21, 0.20, 0.18, 0.21). The only crowd anchor is Polymarket at 28% YES, down sharply from a 63.5% high after Revolut's EURR launch (2026-08-26) clarified a EUR-first sequencing. Revolut's concrete USD stablecoin pathway is tied to its US national bank (conditional OCC approval 2026-09-03), targeted to open H1 2027 — after the Dec 31, 2026 deadline — and no USD token name, filing, chain, or date has surfaced. The 'Yes' case rests on Revolut using its proven MiCA e-money token infrastructure to ship a USD token from the EU/UK independently of the US bank, which it has hinted at ('first step') but shown no evidence of pursuing on a ~4-month timeline, while it is simultaneously dropping USDT support in the EEA. I shade slightly below the thin Polymarket price given the absence of any concrete USD signal and peer markets (Meta, X) priced under 10%.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3131",
+   "has_trace": true
+  }
+ ],
+ "US x Iran ceasefire continues through October 31?": [
+  {
+   "id": 3147,
+   "scanned_at": "2026-09-18T20:57:38.182851",
+   "date": "2026-09-18",
+   "agent": 43.6,
+   "market_price_t0": 47,
+   "edge": -0.03399999999999992,
+   "confidence": 0.484,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.44, 0.43, 0.42, 0.45, 0.44). The only market anchor is Polymarket at 47% Yes and trending down (from 53.5%), on thin volume. The structural picture argues modestly against a clean hold: since Feb 2026 the US has struck Iranian-linked targets in recurring cycles roughly every 4-8 weeks (July 29, Aug 30, Sept 5), the MOU deadline expired Aug 17 with talks paused, and live flashpoints (Hormuz blockade, tanker attacks, Iranian 'exclusion zone', possible UNSC snapback) persist; the pause beginning ~Sept 8 would need to last ~7.5 weeks to reach Oct 31, right at the edge of the historical cycle length. Supporting Yes are the 11-period absence of land strikes, ~90% degraded Iranian air defenses (less reason for new US strikes), and the sibling Israel-Iran market at 82.5% Yes. Netting these, I lean slightly below the market anchor at 44% Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3147",
+   "has_trace": true
+  }
+ ],
+ "Will Lula win the most votes in the first round of the 2026 Brazil presidential election?": [
+  {
+   "id": 3142,
+   "scanned_at": "2026-09-18T18:32:50.492135",
+   "date": "2026-09-18",
+   "agent": 62.2,
+   "market_price_t0": 71,
+   "edge": -0.08799999999999997,
+   "confidence": 0.5279999999999999,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.60, 0.57, 0.58, 0.69, 0.67). No Kalshi-direct price is available, so Polymarket's 71% (down from 91.5% and falling) is the best anchor. The latest Datafolha (Sept 17) has Lula 39% vs Flávio Bolsonaro 36% with rising approval (48%), but Quaest shows a statistical tie or Flávio numerically ahead, and 14% still sits with non-Flávio right candidates who could consolidate via 'voto útil' before Oct 4. Brazilian polls also underestimated the Bolsonaro-aligned vote in 2018 and 2022 by several points, which makes a 3-point Datafolha lead fragile. Netting Lula's incumbency, momentum in approval, and Flávio's corruption probe against the narrowing trend and right consolidation risk, I discount Polymarket to roughly 60% Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3142",
    "has_trace": true
   }
  ]

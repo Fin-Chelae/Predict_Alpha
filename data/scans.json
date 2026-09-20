@@ -465,6 +465,20 @@
  ],
  "Strait of Hormuz traffic returns to normal by November 30?": [
   {
+   "id": 3243,
+   "scanned_at": "2026-09-20T14:32:47.745438",
+   "date": "2026-09-20",
+   "agent": 10,
+   "market_price_t0": 11.5,
+   "edge": -0.015,
+   "confidence": 0.6719999999999999,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.10, 0.10, 0.10, 0.10, 0.10). IMF Portwatch 7-day MA transits were ~8/day on 2026-09-13 versus the ≥60 threshold, meaning traffic would need to increase roughly 7-8x within ~2.5 months after two ceasefire/MOU attempts (April, June) already collapsed and US-Iran talks remained stalled into September. The Red Sea precedent shows chokepoint traffic recovers slowly even after de-escalation, and AIS dark-shipping adds undercount risk against a Yes resolution. No current Kalshi price was captured; the July Kalshi 43% is stale given subsequent deterioration, while Polymarket prices this exact market at 11.5% (downtrending) and the Dec 31 variant at 16.5%. Mine-clearance and Iran-Oman corridor talks provide a narrow upside path, justifying a small but non-trivial Yes probability.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3243",
+   "has_trace": true
+  },
+  {
    "id": 2279,
    "url": "https://forecast.agenticlearning.ai/scans/v2/2279",
    "date": "2026-08-30",
@@ -1344,6 +1358,20 @@
   }
  ],
  "Will Venezuela recognize Israel by December 31?": [
+  {
+   "id": 3238,
+   "scanned_at": "2026-09-20T12:14:31.812307",
+   "date": "2026-09-20",
+   "agent": 9.4,
+   "market_price_t0": 9,
+   "edge": 0.0040000000000000036,
+   "confidence": 0.6679999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.09, 0.11, 0.11, 0.08, 0.08). Polymarket YES sits at 9.0% (no Kalshi-direct price), down from a 59.5% spike as it became clear the Aug 11, 2026 agreement restored only consular coordination, explicitly not full diplomatic recognition. Both governments and the mediator (Rabbi Cohen, Sept 16) describe embassy reopening/full ties as an unscheduled 'later phase,' and Venezuelan leadership stability through year-end is itself uncertain (Rodríguez ~45% to remain). Momentum exists via the US-Venezuela $65B deal and Israel's 'Year of South America' push, but the Israel-Syria analog (26% by 2029) suggests such processes take years, and there is residual resolution ambiguity over whether recognition was ever formally withdrawn in 2009. I stay at the market anchor: roughly 3.5 months remain and a formal recognition act is a plausible but unlikely tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3238",
+   "has_trace": true
+  },
   {
    "id": 2034,
    "url": "https://forecast.agenticlearning.ai/scans/v2/2034",
@@ -3069,6 +3097,20 @@
  ],
  "Mitch McConnell steps down from Senate before his term ends?": [
   {
+   "id": 3234,
+   "scanned_at": "2026-09-20T10:35:33.612983",
+   "date": "2026-09-20",
+   "agent": 10,
+   "market_price_t0": 12.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.624,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.10, 0.09, 0.11, 0.10, 0.10). No Kalshi-direct price was available; the Polymarket proxy on the identical question sits at 12.5%, decayed from a 76.5% crisis peak. McConnell (84) returned to the Senate Sept 14, 2026 in a wheelchair and explicitly reaffirmed he will finish his term, and Gov. Beshear concurs; KY's 2024 special-election law removes any succession incentive for early resignation. With only ~3.5 months remaining, the dominant path to Yes is death or incapacitation-forced exit — an 84-year-old with a recent fall, pneumonia, and 92-day absence carries elevated but still modest short-window hazard (roughly 4-6% mortality plus a few points for a health-driven resignation). I shade slightly below the Polymarket anchor given the recent reaffirmations and short window, landing around 10%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3234",
+   "has_trace": true
+  },
+  {
    "id": 2879,
    "scanned_at": "2026-09-13T09:52:31.242669",
    "date": "2026-09-13",
@@ -4240,6 +4282,20 @@
   }
  ],
  "Will Sorin Grindeanu be the next Prime Minister of Romania?": [
+  {
+   "id": 3232,
+   "scanned_at": "2026-09-20T09:51:01.103554",
+   "date": "2026-09-20",
+   "agent": 27.4,
+   "market_price_t0": 27.7,
+   "edge": -0.0030000000000000027,
+   "confidence": 0.54,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.28, 0.26, 0.27, 0.28, 0.28). Kalshi (27%) and Polymarket (27.7%) converge on Grindeanu as the top named candidate, and PSD has formally and repeatedly nominated him with plurality leverage in parliament — but President Dan has now bypassed PSD three times and is actively backing PNL's Mureșan, whose government-formation attempt is the pivotal unknown. Two prior PSD-linked nominees already failed confidence votes, showing structural resistance in the current arithmetic, and a ~26% snap-election probability plus possible unnamed compromise figures further dilute the YES path. Grindeanu is the natural fallback if Mureșan fails, which justifies staying near the market anchor rather than below it. I place YES slightly above the anchor at 0.28 given the fallback logic, with most mass on No.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3232",
+   "has_trace": true
+  },
   {
    "id": 2458,
    "scanned_at": "2026-09-02T02:32:51.028564",
@@ -8131,6 +8187,20 @@
  ],
  "Will Benjamin Netanyahu be the next Prime Minister of Israel?": [
   {
+   "id": 3230,
+   "scanned_at": "2026-09-20T09:00:43.096574",
+   "date": "2026-09-20",
+   "agent": 29.4,
+   "market_price_t0": 27.5,
+   "edge": 0.019000000000000017,
+   "confidence": 0.5479999999999999,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.30, 0.30, 0.30, 0.28, 0.29). No direct Kalshi price was available, so the primary anchor is Polymarket's identical market at 27.5% YES (down from 39.5%), with Eisenkot priced at 52% as the leading alternative. Bloc polling is a statistical dead heat (~53.6 vs 53.4) with neither side near 61, so the outcome hinges on coalition bargaining where Netanyahu's bloc is more cohesive and he has a strong track record, but the opposition is competitive, 59% of voters oppose his continuation, Likud is at record-low seat projections, and the pending pardon/plea-deal track (Herzog pushing a deal that could involve his political exit) adds downside. Deadlock/repeat-election scenarios also work against a 'Yes' since he would not be newly sworn in during a caretaker period. I nudge slightly above the market to ~30% for Netanyahu's demonstrated ability to assemble majorities from tied positions, but stay close to the consensus.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3230",
+   "has_trace": true
+  },
+  {
    "id": 2133,
    "scanned_at": "2026-08-29T02:46:14.306727",
    "date": "2026-08-29",
@@ -9957,6 +10027,20 @@
  ],
  "Will Russia invade another country in 2026?": [
   {
+   "id": 3250,
+   "scanned_at": "2026-09-20T17:49:34.749124",
+   "date": "2026-09-20",
+   "agent": 6,
+   "market_price_t0": 7.5,
+   "edge": -0.015,
+   "confidence": 0.6839999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.05, 0.06, 0.06, 0.07, 0.07). The primary anchor is Polymarket's identical market at 7.5% YES, but with the brief dated ~September 2026 only ~3.5 months remain and no evidence of operational planning against Moldova, Georgia, or the Baltics exists. The Ukraine war continues without ceasefire (ceasefire-by-Dec-31 priced only 21.5%), tying down Russian forces, while economic and manpower strain limits a second front; US/German intelligence place a NATO attack window mostly in 2027–2029, and the NATO-specific 2026 invasion market prices just 5.5%. Ongoing drone/hybrid incidents are unlikely to meet a 'military offensive to seize territory' threshold under consensus reporting. Shading slightly below the market for long-shot bias and time decay, I estimate ~5% YES.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3250",
+   "has_trace": true
+  },
+  {
    "id": 1987,
    "scanned_at": "2026-08-26T10:35:36.129419",
    "date": "2026-08-26",
@@ -10288,6 +10372,20 @@
   }
  ],
  "Will China invade Taiwan by June 30, 2027?": [
+  {
+   "id": 3246,
+   "scanned_at": "2026-09-20T16:12:07.896425",
+   "date": "2026-09-20",
+   "agent": 6.1,
+   "market_price_t0": 7.5,
+   "edge": -0.013999999999999999,
+   "confidence": 0.6639999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.06, 0.06, 0.05, 0.07, 0.07). No invasion has occurred as of early Sept 2026, and both ODNI (Mar 2026) and Taiwan's MND assess Beijing has no fixed 2027 invasion plan and lacks full amphibious landing capability; the Pentagon frames 2027 as a readiness benchmark, not an attack date. Gray-zone coercion (record coast guard presence, Justice Mission-2025 blockade rehearsals) is characterized by ISW and Stimson/ASPI as erosion-of-sovereignty tactics rather than invasion preparation, and PLA corruption purges further constrain feasibility. The Polymarket anchor is 7.5% YES with a coherent, stable term structure (4.25% by end-2026, 11.5% by Dec 2027), while hazard-rate modeling at analyst-baseline 1–5%/yr implies only ~1.4–6.9% cumulative over the remaining ~10 months. I shade slightly below the market given the strong intelligence consensus, while keeping meaningful tail weight for a limited Kinmen-type seizure or unexpected crisis escalation.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3246",
+   "has_trace": true
+  },
   {
    "id": 1963,
    "scanned_at": "2026-08-26T02:33:21.785135",
@@ -14500,7 +14598,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-20T08:35:04.424Z",
+  "last_sync": "2026-09-20T18:12:09.257Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -15024,6 +15122,20 @@
   }
  ],
  "Will AfD win the most seats in 2 German state elections in September 2026?": [
+  {
+   "id": 3245,
+   "scanned_at": "2026-09-20T15:22:44.049437",
+   "date": "2026-09-20",
+   "agent": 52.4,
+   "market_price_t0": 52,
+   "edge": 0.0040000000000000036,
+   "confidence": 0.51,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.48, 0.52, 0.53, 0.55, 0.54). Saxony-Anhalt is confirmed (AfD 43.8%, 39/83 seats), and Berlin is effectively out of reach (AfD third at ~17-18%), so the question reduces entirely to whether AfD tops SPD in Mecklenburg-Vorpommern. Final MV polls were a near tie (AfD 36-37% vs SPD 35-37%) with late momentum toward Schwesig's SPD, and the Polymarket MV-specific market sits at 52.5% AfD while the compound '2 wins' market fell from 89% to 56%. The closest precedent, Brandenburg 2024, saw a popular incumbent SPD premier (Woidke) narrowly overtake a polling-favored AfD via last-week tactical consolidation — the same dynamic Schwesig appears to be riding — which argues for shading slightly below the market. Absent confirmed MV results in the brief, I land at a coin flip tilted marginally to No.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3245",
+   "has_trace": true
+  },
   {
    "id": 2729,
    "scanned_at": "2026-09-08T00:27:45.749617",
@@ -16584,6 +16696,70 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.17, 0.22, 0.17, 0.24, 0.22). The Polymarket analog for this identical question sits at 28.5% YES (flat, thin $17.6K volume), which serves as the consensus anchor. However, the base rate is stark: zero qualifying strikes in ~4 years of war despite hundreds of incursions, and even the casualty-causing May 2026 Romania apartment impact was ruled accidental spillover by the host government, while the Przewodów precedent shows adjudication defaults cautiously and slowly. The resolution bar (directed at an EU target, executed, not intercepted, per source consensus) excludes exactly the stray-drone incidents that are rising in frequency, and with only ~3.5 months remaining plus a US-brokered pause on capital strikes, the window for a deliberate Russian strike on EU soil is narrow. Long-dated low-probability contracts on thin Polymarket volume also tend to be inflated, so I shade below the anchor while leaving meaningful room for an ambiguous incident being adjudicated Yes.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3208",
+   "has_trace": true
+  }
+ ],
+ "SBF released from custody in 2026?": [
+  {
+   "id": 3249,
+   "scanned_at": "2026-09-20T16:58:45.766638",
+   "date": "2026-09-20",
+   "agent": 6.1,
+   "market_price_t0": 8.2,
+   "edge": -0.020500000000000004,
+   "confidence": 0.738,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.06, 0.06, 0.07, 0.06, 0.06). SBF's direct appeal was unanimously affirmed by the Second Circuit (2026-06-12) with the mandate issued in August and no bail, so the only realistic release path before Dec 31, 2026 is a Trump pardon/commutation, which Trump (Jan 2026) and the White House (June 2026) have repeatedly ruled out or called 'slim'. The dedicated Polymarket pardon market prices ~4% and the SCOTUS cert petition filed Sept 10 is extremely unlikely to yield a grant, reversal, and bail within ~3.5 months. The same-ticker Polymarket price of 8.85% is the anchor, but it appears to exceed the sum of its component pathways (pardon ~4% plus ~1-2pp for appellate/other mechanisms), so I shade slightly below the market while leaving room for a late-term surprise given Trump's history of white-collar pardons and the rising price trend.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3249",
+   "has_trace": true
+  }
+ ],
+ "Will Assimi Goïta be out as President of Mali by June 30, 2027?": [
+  {
+   "id": 3241,
+   "scanned_at": "2026-09-20T13:42:34.649577",
+   "date": "2026-09-20",
+   "agent": 34.8,
+   "market_price_t0": 46.5,
+   "edge": -0.11700000000000005,
+   "confidence": 0.526,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.33, 0.35, 0.35, 0.35, 0.36). No Kalshi price was available; the Polymarket proxy sits at 48% YES on thin volume ($18k) with a companion Dec-2026 market at only 20.5%, an internally inconsistent jump that suggests the longer-dated contract carries a YES/time-value premium typical of illiquid 'out as leader' markets. Structural factors favor continuity: the 2025 law grants Goïta a renewable 5-year term with no elections, he has survived 5+ years and multiple plots (Aug 2025 arrests, 2026 trials), he personally absorbed the Defense portfolio after Camara's April 2026 assassination, and Russian/AES backing just demonstrated (Niger, Sept 2026) that it can quash internal putsches. The empirical Sahel-junta hazard (~9-14% over 15 months) must be revised upward given Mali-specific compounding crises — a year-long fuel siege of Bamako, loss of Kidal, coordinated attacks on the capital — which create genuine tail risk of a palace coup or collapse. Blending the base rate with the elevated instability and discounting the noisy Polymarket anchor yields roughly one-in-three.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3241",
+   "has_trace": true
+  }
+ ],
+ "Will the Democrats win the Kansas Senate race in 2026?": [
+  {
+   "id": 3239,
+   "scanned_at": "2026-09-20T12:57:01.705565",
+   "date": "2026-09-20",
+   "agent": 23,
+   "market_price_t0": 27.5,
+   "edge": -0.04500000000000004,
+   "confidence": 0.562,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.24, 0.23, 0.23, 0.22, 0.23). Polymarket's identical 2026 KS Senate market sits at 27.5% YES and is trending up, which is the best available anchor absent a direct Kalshi price. The bullish case rests on a D+6-8 national environment, Marshall's medical-debt scandal and booing at the State Fair debate, Hamilton's strong fundraising, and a single Emerson poll showing Hamilton +2. However, the fundamentals remain heavily Republican: Kansas leans ~R+14 relative to the nation (Trump +16 in 2024), Bollier lost by 11.6 in 2020 despite strong funding, Democrats haven't won a KS Senate seat since 1932, Cook/Sabato still rate it Likely R (not Toss Up), and Pollsmax gives Marshall 92%. Blending a fundamentals-based expected margin of roughly R+5 to R+8 with substantial uncertainty yields a Democratic win probability in the low-to-mid 20s, so I shade slightly below the Polymarket price.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3239",
+   "has_trace": true
+  }
+ ],
+ "Will Chiang Wan-an win the next Taipei Mayor election?": [
+  {
+   "id": 3235,
+   "scanned_at": "2026-09-20T11:25:07.042298",
+   "date": "2026-09-20",
+   "agent": 86.6,
+   "market_price_t0": 86,
+   "edge": 0.006000000000000005,
+   "confidence": 0.6759999999999999,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.87, 0.87, 0.87, 0.86, 0.86). Chiang Wan-an is the confirmed KMT nominee and incumbent in a KMT-leaning city, with Dec 2025 TVBS polling showing 24-37 point leads over DPP contenders, and the DPP ultimately nominated Puma Shen, a polarizing legislator unlikely to outperform the more centrist options polled. The national environment favors the KMT after both 2025 recall waves failed (Polymarket: 87.5% KMT wins most local races), and Taiwan special-municipality incumbents win ~85% of the time historically. With no Kalshi price available, I anchor on Polymarket's 86.5% YES, noting the mild downward drift and unspecified 'legal complaints' as small tail risks, but no head-to-head poll or scandal suggests a competitive race. The main uncertainty is the ~3 months remaining and absence of Chiang-vs-Shen polling.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3235",
    "has_trace": true
   }
  ]

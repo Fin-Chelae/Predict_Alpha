@@ -1739,6 +1739,20 @@
  ],
  "Iran agrees to end enrichment of uranium by December 31?": [
   {
+   "id": 3205,
+   "scanned_at": "2026-09-19T21:44:05.962458",
+   "date": "2026-09-19",
+   "agent": 11.8,
+   "market_price_t0": 12.5,
+   "edge": -0.007000000000000006,
+   "confidence": 0.634,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.14, 0.13, 0.10, 0.11, 0.11). The consensus anchor (Polymarket, same event) sits at 12.5% and has been flat for weeks after fading from a 34% spike tied to earlier war/talks news. Iran's leadership, including new Supreme Leader Mojtaba Khamenei, has repeatedly reaffirmed enrichment as non-negotiable through Sept 2026, IAEA access is blocked, and current diplomacy is focused on Hormuz rather than the nuclear file; shorter-dated related markets (Sept 30 deadlines) priced near zero. The main path to Yes is a rapid post-midterm settlement in which Iran formalizes something like the 5-year moratorium it floated in April 2026 (which would qualify under 'any amount of time'), plus the 2003-05 precedent of suspension under extreme pressure—enough to sit a touch above the anchor but not materially. With roughly three months left and no active nuclear negotiations, No is strongly favored.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3205",
+   "has_trace": true
+  },
+  {
    "id": 1870,
    "url": "https://forecast.agenticlearning.ai/scans/v2/1870",
    "date": "2026-08-24",
@@ -2174,6 +2188,20 @@
   }
  ],
  "StandX FDV above $1B one day after launch?": [
+  {
+   "id": 3219,
+   "scanned_at": "2026-09-20T04:11:15.038297",
+   "date": "2026-09-20",
+   "agent": 13.2,
+   "market_price_t0": 11,
+   "edge": 0.022000000000000006,
+   "confidence": 0.568,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.13, 0.14, 0.13, 0.13, 0.13). No Kalshi price exists, so the Polymarket mirror market (11% Yes, $427K volume, flat over 30 days) is the primary anchor, and its internal threshold ladder (64.5%@$50M → 51%@$100M → 17%@$800M → 11%@$1B) coherently implies a modal day-one FDV in the low hundreds of millions. StandX's fundamentals (DUSD TVL ~$32M-$154M, no disclosed priced round, no confirmed tier-1 backer or exchange catalyst, no tokenomics) resemble the sub-$1B cohort (dYdX, GMX, Drift, Avantis) far more than Hyperliquid/Aster/Lighter. Additionally, the resolution source confirms no TGE yet with no scheduled date, so a meaningful share of No mass comes from no launch by Dec 31, 2026 — a risk that independent base-rate models (~0.40) underweight. I nudge slightly above the market to 13% to reflect the recent-cycle precedent of hype-driven perp-DEX launches clearing $1B, but the market's pricing is well-supported.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3219",
+   "has_trace": true
+  },
   {
    "id": 2583,
    "scanned_at": "2026-09-03T17:43:10.300838",
@@ -5573,6 +5601,20 @@
  ],
  "Will Oliver Tree be the #1 searched passing on Google in the US this year?": [
   {
+   "id": 3221,
+   "scanned_at": "2026-09-20T05:00:48.404499",
+   "date": "2026-09-20",
+   "agent": 10,
+   "market_price_t0": 10.5,
+   "edge": -0.0049999999999999906,
+   "confidence": 0.584,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.10, 0.11, 0.11, 0.09, 0.09). No Kalshi-direct price was available, so the Polymarket price of 10.5% (down sharply from a 46.5% high) serves as the anchor. Oliver Tree's June 14 death was a genuine, widely covered event, but Dolly Parton's August 25 death drew a far larger institutional and popular tribute wave (flags at half-staff, Empire State Building lit pink) and topped Glimpse's US person-search rankings for August, likely exceeding Tree's peak. Precedent (Charlie Kirk, Sept 2025) shows late-year, high-magnitude deaths dominate Google's annual Passings list, and ~3.5 months remain in 2026 for another major celebrity death to further displace Tree. I therefore sit close to the market anchor at ~10% Yes, with the residual reflecting uncertainty about Google's aggregation method and Tree's strong, sustained young-fan search base.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3221",
+   "has_trace": true
+  },
+  {
    "id": 2352,
    "scanned_at": "2026-08-31T17:35:55.089796",
    "date": "2026-08-31",
@@ -6257,6 +6299,20 @@
  ],
  "Will the Republicans win the Montana Senate race in 2026?": [
   {
+   "id": 3227,
+   "scanned_at": "2026-09-20T07:20:30.949807",
+   "date": "2026-09-20",
+   "agent": 91,
+   "market_price_t0": 92.5,
+   "edge": -0.015000000000000124,
+   "confidence": 0.7140000000000001,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.91, 0.90, 0.90, 0.92, 0.92). Republican Kurt Alme leads a three-way race by 8-19 points across multiple September polls (MTFP-Rutgers, Quantus, DDHQ aggregate 44-26-21), in a Trump+20 state rated Solid/Likely R by Cook, Sabato, and Inside Elections. The anti-Republican vote is split between Democrat Bankhead and Tester-backed independent Bodnar, with Democratic leadership unable to force consolidation; DDHQ's model gives Alme ~90% and Polymarket prices the Republican at 92.5% (the best available cross-platform anchor absent a direct Kalshi quote). The main downside risks are an open-seat penalty in a D-leaning national environment and the possibility that Bankhead withdraws or voters consolidate behind Bodnar, since head-to-head polling showed a closer Alme-Bodnar margin. I shade slightly below the market to account for open-seat and consolidation tail risk with ~7 weeks remaining.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3227",
+   "has_trace": true
+  },
+  {
    "id": 2303,
    "scanned_at": "2026-08-31T04:07:01.389270",
    "date": "2026-08-31",
@@ -6580,6 +6636,20 @@
   }
  ],
  "Will Russia enter Dobropillia by December 31?": [
+  {
+   "id": 3217,
+   "scanned_at": "2026-09-20T03:26:18.225127",
+   "date": "2026-09-20",
+   "agent": 87.6,
+   "market_price_t0": 90,
+   "edge": -0.02400000000000002,
+   "confidence": 0.6140000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.86, 0.87, 0.88, 0.89, 0.88). The same-question Polymarket market sits at 90% YES with a steep upward trend, and sibling deadline markets (Sep 15→Dec 31: 4%→37%→70%→90%) show strong consensus that entry is near-term. Pokrovsk and Myrnohrad have fallen, secondary reporting (CNN 9/8, Euromaidan Press 9/15) places intensified Russian infiltration at Dobropillia's immediate eastern approaches, ceasefire odds are low (~21%), and ISW's shading practice for infiltration/advance areas is relatively liberal, while the resolution criterion only requires any part of the city to be shaded. I shade slightly below the anchor because the primary ISW/DeepState shading status is unconfirmed, the 2025 Dobropillia salient was fully reversed, the 'inside the city' claims come from low-reliability sources, and the one-cycle persistence requirement could push confirmation past Dec 31 if the advance stalls at the outskirts.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3217",
+   "has_trace": true
+  },
   {
    "id": 2273,
    "scanned_at": "2026-08-30T18:18:08.054548",
@@ -7475,6 +7545,20 @@
  ],
  "Will Hyperliquid reach $100 by December 31, 2026?": [
   {
+   "id": 3197,
+   "scanned_at": "2026-09-19T18:28:53.118077",
+   "date": "2026-09-19",
+   "agent": 80.8,
+   "market_price_t0": 79,
+   "edge": 0.018000000000000016,
+   "confidence": 0.624,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.80, 0.79, 0.80, 0.84, 0.81). HYPE spot is ~$92 with an ATH of $94.40 set Sep 19, 2026, so only ~8-9% upside is needed to print a $100 Binance 1-minute high. Note the brief's '15 months of runway' is inconsistent with its own timeline — with the ATH and the Sep 29 unlock dating the present to late Sep 2026, roughly 3 months remain; even so, a lognormal barrier calculation with ~100% annualized vol over ~0.27 years gives a touch probability around 80-87% before drift/vol-drag adjustments. Polymarket, the best available anchor (no Kalshi comparable), prices YES at 79% and has re-rated sharply with the breakout, consistent with the Fermi estimate. Headwinds (monthly unlocks, near-ATH consolidation risk, unverified Binance data) justify not going higher than ~0.80.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3197",
+   "has_trace": true
+  },
+  {
    "id": 2174,
    "scanned_at": "2026-08-29T15:15:00.917491",
    "date": "2026-08-29",
@@ -7518,6 +7602,20 @@
   }
  ],
  "Extended FDV above $300M one day after launch?": [
+  {
+   "id": 3202,
+   "scanned_at": "2026-09-19T20:55:41.448297",
+   "date": "2026-09-19",
+   "agent": 39.6,
+   "market_price_t0": 39,
+   "edge": 0.006000000000000061,
+   "confidence": 0.586,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.40, 0.40, 0.40, 0.39, 0.39). No Kalshi-direct price exists, so the best anchor is the identical Polymarket market at 39% YES, which the brief's independent model cross-validates (~49% conditional on launch × ~80% launch-by-Dec-31 ≈ 39%). The monotonic sibling curve ($150M: 76.5% → $500M: 22%) looks efficient, and the ~18% risk of no TGE inside the window is a hard drag on Yes. Mild upside comes from the report that the team declined funding at $300M+ FDV plus strong TVL (~$200M) and ~$10B weekly volume, and a 30d uptrend in the price, but Extended is clearly a tier below HYPE/Aster/Lighter and tokenomics/supply remain unconfirmed. I stay essentially at the market with a slight nudge up for the private-valuation signal.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3202",
+   "has_trace": true
+  },
   {
    "id": 2171,
    "scanned_at": "2026-08-29T14:28:13.962977",
@@ -10905,6 +11003,20 @@
  ],
  "Will Bitcoin outperform Gold in 2026?": [
   {
+   "id": 3199,
+   "scanned_at": "2026-09-19T19:17:40.433739",
+   "date": "2026-09-19",
+   "agent": 34.4,
+   "market_price_t0": 35,
+   "edge": -0.00599999999999995,
+   "confidence": 0.5780000000000001,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.34, 0.34, 0.34, 0.35, 0.35). As of ~Sept 19, 2026, BTC is ~-6.9% YTD while gold is roughly flat-to-slightly-positive after its violent round trip, leaving BTC trailing by ~7-10 percentage points with only ~3.4 months remaining. Monte Carlo with BTC vol ~60%, gold vol ~18%, and low correlation puts catch-up odds at ~31-38%, consistent with Polymarket's identical-question price of 35% (rising trend, $458K volume), which serves as the anchor since no Kalshi-direct price was retrieved. The 67% historical base rate for BTC outperformance is largely superseded by the in-year deficit, though BTC's high beta and possible Fed pivot/ETF-flow catalysts keep a non-trivial path to reversal. Tightening Fed and strong dollar are headwinds for both but tend to hit risk assets like BTC harder, tilting the residual slightly toward No.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3199",
+   "has_trace": true
+  },
+  {
    "id": 1917,
    "scanned_at": "2026-08-25T07:16:57.172076",
    "date": "2026-08-25",
@@ -12031,6 +12143,20 @@
  ],
  "Will Hamas agree to disarm by December 31?": [
   {
+   "id": 3216,
+   "scanned_at": "2026-09-20T02:37:03.646923",
+   "date": "2026-09-20",
+   "agent": 16.8,
+   "market_price_t0": 18,
+   "edge": -0.011999999999999983,
+   "confidence": 0.5780000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.18, 0.16, 0.17, 0.17, 0.16). Polymarket (best available proxy, no Kalshi data) prices YES at 18% and has been trending down from an 83.5% spike around the July 30 'historic agreement' that evidently did not satisfy resolution — signaling that conditional Hamas gestures don't count. Senior Hamas officials (Abu Marzouk, Hamad) have repeatedly denied or conditioned disarmament on Israeli withdrawal/statehood, Netanyahu rejected the plan's sequencing on Aug 9, and ISF/technocratic-committee implementation is stalled with progress frozen pending the Oct 27 Israeli elections, leaving only ~2 months of realistic negotiating time afterward. Time-compressed base rates for fragmented groups in active conflict (~12-25%) and the structural Israel–Hamas sequencing impasse favor No, though a post-election push, the reported Nov 15 internal deadline, and the lenient 'partial/phased' criterion keep a meaningful tail for YES. I anchor near the market at 18%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3216",
+   "has_trace": true
+  },
+  {
    "id": 1656,
    "scanned_at": "2026-08-22T16:18:27.468469",
    "date": "2026-08-22",
@@ -12686,6 +12812,20 @@
   }
  ],
  "Will Hibachi launch a token by December 31, 2026?": [
+  {
+   "id": 3201,
+   "scanned_at": "2026-09-19T20:06:11.811892",
+   "date": "2026-09-19",
+   "agent": 38,
+   "market_price_t0": 39.5,
+   "edge": -0.014999999999999958,
+   "confidence": 0.56,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.38, 0.37, 0.37, 0.39, 0.39). The Polymarket consensus anchor sits at 39.5% YES and has fallen sharply from a ~72% mid-2026 peak, signaling timeline slippage. As of the Sep 18, 2026 resolution-source snapshot, no tradable token exists, no TGE date is confirmed, and the TGE is explicitly sequenced behind the not-yet-launched 'FX on Arc' product, leaving only ~3.5 months for two sequential milestones. Countervailing evidence — a confirmed $HEAT ticker, a 21-month points program structured toward TGE, institutional backing, and a 92% market for launch by end-2027 — makes eventual launch near-certain but leaves 2026 timing genuinely uncertain. I shade slightly below the anchor given the gating dependency and the recent 10-point weekly decline that may reflect unobserved delay news.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3201",
+   "has_trace": true
+  },
   {
    "id": 1502,
    "scanned_at": "2026-08-19T05:11:42.767609",
@@ -14360,7 +14500,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-19T18:00:58.641Z",
+  "last_sync": "2026-09-20T08:35:04.424Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -15259,6 +15399,20 @@
  ],
  "Will the peak RONI for the 2026–27 El Niño be 2.5 or above?": [
   {
+   "id": 3206,
+   "scanned_at": "2026-09-19T22:32:25.005927",
+   "date": "2026-09-19",
+   "agent": 75.2,
+   "market_price_t0": 73,
+   "edge": 0.02200000000000002,
+   "confidence": 0.6599999999999999,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.74, 0.76, 0.75, 0.75, 0.76). The Polymarket anchor sits at 73% Yes and is trending upward, closely matching CPC's own Sept 10, 2026 estimate of a 75% chance that OND 2026 RONI reaches ≥2.5 with a median forecast path peaking at +2.67°C. Real-time observations (Niño-3.4 +1.8°C, Niño-3 +2.5°C, deep subsurface heat >+10°C, strong wind coupling) are running ahead of 1997 and 2015 analogs, and independent analysis (Climate Brink ~77%) corroborates the official outlook. The main risk is that 2.5 RONI has essentially never been reached (only 1982-83 at ~2.69 in trend-adjusted terms), so a modest underperformance or late-season stall would land the peak in the 2.25–2.5 bucket, which the market prices at ~23%. No RONI values for the qualifying seasons have published yet, so this remains a forecast rather than a documented outcome; I stay close to the market/CPC consensus.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3206",
+   "has_trace": true
+  },
+  {
    "id": 2810,
    "scanned_at": "2026-09-10T21:51:02.370543",
    "date": "2026-09-10",
@@ -15463,6 +15617,20 @@
  ],
  "Will the Houthis enter Saudi Arabia by October 31?": [
   {
+   "id": 3228,
+   "scanned_at": "2026-09-20T08:10:52.024950",
+   "date": "2026-09-20",
+   "agent": 14.2,
+   "market_price_t0": 15,
+   "edge": -0.00799999999999998,
+   "confidence": 0.604,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.16, 0.12, 0.15, 0.14, 0.14). The Polymarket proxy anchors at ~15% YES, down from a 30% high, and no source in the brief reports any Houthi ground entry into Saudi territory despite two-plus months of intense missile/drone/naval escalation since the July 2026 truce collapse. Historically, Houthi ground infiltrations into Jizan/Najran occurred only during the 2015-16 full-war phase and were small, repelled raids, so a renewed hot war does create nonzero risk of a border-post raid that would satisfy a strict 'physical entry' definition. Offsetting this, analysts frame the conflict as an economic/shipping war, related markets (pipeline restart 75%) imply some de-escalation expectation, and the ~6-week window is short for a qualitative shift to ground operations. I stay close to the market anchor with a slight upward nudge for the tail risk of small infiltration claims.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3228",
+   "has_trace": true
+  },
+  {
    "id": 2875,
    "scanned_at": "2026-09-13T07:26:36.561914",
    "date": "2026-09-13",
@@ -15526,6 +15694,20 @@
   }
  ],
  "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?": [
+  {
+   "id": 3212,
+   "scanned_at": "2026-09-20T00:58:16.637180",
+   "date": "2026-09-20",
+   "agent": 16,
+   "market_price_t0": 14.7,
+   "edge": 0.013000000000000012,
+   "confidence": 0.522,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.16, 0.16, 0.16, 0.16, 0.16). Bruce is a registered, undisqualified candidate and a consistent top-two contender, but he lost his early-summer polling lead and now trails the López Aliaga/Rubio camp in both representative September polls (IEP: 20.1 vs 17.1; Citopinion: 33.4 vs 12.0), with only a non-representative 10-district CPI poll showing him narrowly ahead. No Kalshi market exists, so the Polymarket YES price of 14.7% (down 18 pts over 30 days) serves as the consensus anchor, and it is consistent with the polling slide. Lima's single-round plurality format in a fragmented 21-list field, historical late volatility, and unresolved ambiguity about whether López Aliaga is actually the mayoral candidate on the ballot keep a modest upside for Bruce, so I sit slightly above the market at 0.16.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3212",
+   "has_trace": true
+  },
   {
    "id": 2861,
    "scanned_at": "2026-09-12T19:24:41.809894",
@@ -16322,6 +16504,86 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.18, 0.18, 0.17, 0.21, 0.22). The only direct market anchor (Polymarket, same question) prices YES at 21.5% with thin volume; no closure has occurred in the counting window and the IAA shows normal operations with no closure NOTAM. Base rates support elevated risk (full-FIR closures in Apr'24, Oct'24, Feb'26, possibly Jun'25), but pro-rated to the ~3.5 months remaining the historical rate alone implies ~10%, and Israel's post-Feb-2026 'resilience' policy of keeping airspace open even amid Iranian launches (early-Sept closure recommendation rejected) plus 9+ days without direct Israel-Iran fire argue further against a full-FIR closure. Offsetting upward: the Iran war of attrition is unresolved, Hezbollah strikes continue, and the Houthi ceasefire is fragile, so a renewed major exchange within the window is plausible. Netting these, I shade slightly below the market anchor to ~18% YES.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3184",
+   "has_trace": true
+  }
+ ],
+ "Will Artificial Inu be the first to hit a $1B FDV?": [
+  {
+   "id": 3224,
+   "scanned_at": "2026-09-20T06:34:47.394662",
+   "date": "2026-09-20",
+   "agent": 8.4,
+   "market_price_t0": 8,
+   "edge": 0.0040000000000000036,
+   "confidence": 0.64,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.09, 0.08, 0.09, 0.08, 0.08). AI sits at ~$249–330M FDV, needing a 3–4x rally by Dec 25, 2026, with its ATH (~$355M) still 3x below the threshold and recent price action cooling across all four coins. The mirrored Polymarket market prices AI 'Yes' at 8% (down from a 48.5% peak) with 'None' at 85.5%, indicating the market views the mid-September rally as a faded near-miss. AI is the closest and flagship coin of the basket, so conditional on any coin hitting $1B it is the likeliest first-mover, which justifies staying near but slightly above the 8% anchor given memecoin tail volatility over ~3 months. No fresh catalysts or risk-on regime evidence warrant a larger deviation.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3224",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic have the best AI Agent at the end of October 2026?": [
+  {
+   "id": 3223,
+   "scanned_at": "2026-09-20T05:46:30.595789",
+   "date": "2026-09-20",
+   "agent": 84.6,
+   "market_price_t0": 86.5,
+   "edge": -0.019000000000000128,
+   "confidence": 0.6359999999999999,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.84, 0.84, 0.84, 0.86, 0.85). As of the Sep 15, 2026 resolution-source snapshot, Anthropic's Claude Fable 5.1 (Max) is #1 on Agent Arena with Anthropic also holding #3–#6, a dominant multi-model position rather than a narrow lead. No direct Kalshi price exists, so the Polymarket price of 86.5% Yes (rising +20pp over 30 days) and the sibling 'best AI model' market at 88.5% serve as the anchor. The main risk is GPT-6 Astra (launched Sep 3–4, marketed as an agentic 'generational leap') not yet being ranked on Agent Arena, plus ~6 weeks for re-ranking and historical Arena churn (#1 changed 19 times in 41 months on the text board). Google (Gemini 3.5 delayed) and xAI (Grok 5 delayed) appear unlikely to displace Anthropic, so I shade slightly below the Polymarket anchor to reflect unpriced GPT-6 integration uncertainty.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3223",
+   "has_trace": true
+  }
+ ],
+ "Will Renan Santos win 8% or more of the valid vote in the first round of the 2026 Brazilian presidential election?": [
+  {
+   "id": 3213,
+   "scanned_at": "2026-09-20T01:46:22.845358",
+   "date": "2026-09-20",
+   "agent": 7.5,
+   "market_price_t0": 7,
+   "edge": 0.0050000000000000044,
+   "confidence": 0.6519999999999999,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.07, 0.08, 0.07, 0.08). Most recent polling (Aug 2026 Quaest, BTG/Nexus, Datafolha) places Renan Santos at 3-4%, with only a single July AtlasIntel outlier at 7.8% and no sustained readings at or above 8%. The closest direct anchor, Polymarket's 8%+ bracket, trades at 7.5% and has fallen from 22.5% over 30 days, while Kalshi's advance-to-runoff proxy sits at 2% and is also declining; Polymarket's mass is concentrated in the 2-6% range. The right has consolidated around Flávio Bolsonaro, the historical base rate for fringe/activist first-time candidates (Amoêdo, d'Ávila) is a 0.5-5% plateau, and the September TSE campaign suspension (even if reversed) cost resources and debate access. Youth appeal and low rejection provide some tail upside, so I stay near the Polymarket anchor rather than below it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3213",
+   "has_trace": true
+  }
+ ],
+ "Another Fed rate hike in 2026?": [
+  {
+   "id": 3210,
+   "scanned_at": "2026-09-20T00:10:01.335816",
+   "date": "2026-09-20",
+   "agent": 86.4,
+   "market_price_t0": 88.5,
+   "edge": -0.020999999999999908,
+   "confidence": 0.7180000000000001,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.85, 0.85, 0.86, 0.88, 0.88). The Fed restarted its hiking cycle on Sept 16 (12-0 vote) and the dot plot shows 16/18 officials expecting at least one more 2026 hike, with the year-end median dot implying 1-2 additional moves; core PCE (~3.7% y/y) and a solid labor market give little reason to pause. Market pricing is tightly clustered: Kalshi's near-identical 'Next Fed hike before 2027' proxy at 86%, Polymarket at 88.5%, and CME FedWatch cumulative December odds ~88.5%, with October alone near 55%. Two meetings remain in scope, so even an October hold leaves a December opportunity. I shade slightly below consensus (0.85) to account for the well-documented tendency of dot plots and futures to overstate follow-through, Waller-style dovish pushback if inflation data soften, and political pressure — but no specific unpriced information justifies a larger move away from the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3210",
+   "has_trace": true
+  }
+ ],
+ "Russia military action against an EU country by December 31, 2026?": [
+  {
+   "id": 3208,
+   "scanned_at": "2026-09-19T23:17:12.385549",
+   "date": "2026-09-19",
+   "agent": 20.4,
+   "market_price_t0": 28.5,
+   "edge": -0.08099999999999996,
+   "confidence": 0.5740000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.17, 0.22, 0.17, 0.24, 0.22). The Polymarket analog for this identical question sits at 28.5% YES (flat, thin $17.6K volume), which serves as the consensus anchor. However, the base rate is stark: zero qualifying strikes in ~4 years of war despite hundreds of incursions, and even the casualty-causing May 2026 Romania apartment impact was ruled accidental spillover by the host government, while the Przewodów precedent shows adjudication defaults cautiously and slowly. The resolution bar (directed at an EU target, executed, not intercepted, per source consensus) excludes exactly the stray-drone incidents that are rising in frequency, and with only ~3.5 months remaining plus a US-brokered pause on capital strikes, the window for a deliberate Russian strike on EU soil is narrow. Long-dated low-probability contracts on thin Polymarket volume also tend to be inflated, so I shade below the anchor while leaving meaningful room for an ambiguous incident being adjudicated Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3208",
    "has_trace": true
   }
  ]

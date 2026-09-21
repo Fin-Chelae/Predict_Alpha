@@ -3315,6 +3315,20 @@
  ],
  "Will Ethereum dip to $1,500 by December 31, 2026?": [
   {
+   "id": 3260,
+   "scanned_at": "2026-09-20T21:45:33.373202",
+   "date": "2026-09-20",
+   "agent": 12,
+   "market_price_t0": 9.7,
+   "edge": 0.022999999999999993,
+   "confidence": 0.588,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.13, 0.12, 0.13, 0.11, 0.11). ETH trades ~$2,580–2,605 in late Sep 2026, requiring a fresh ~42% drop within ~3.3 months; a first-passage estimate with 70–80% annualized vol gives roughly 14–20% touch probability, while the Polymarket anchor (no Kalshi price available) sits at 9.7% with an internally consistent sibling-strike curve. The June 2026 low of ~$1,512 was a near miss and Binance 1m wicks are unconfirmed (resolution tool failed), leaving a small residual chance the barrier was already breached, but the market's collapse from 93% to ~10% strongly implies traders verified no Binance touch. Improving options skew, the BTC rally to ~$80k, and year-end consensus near $75k argue against an imminent crash. I lean slightly above the market to reflect tail vol and the unconfirmed June wick.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3260",
+   "has_trace": true
+  },
+  {
    "id": 2520,
    "scanned_at": "2026-09-02T20:46:42.103671",
    "date": "2026-09-02",
@@ -6973,6 +6987,20 @@
  ],
  "AI bubble burst in 2026?": [
   {
+   "id": 3263,
+   "scanned_at": "2026-09-20T23:17:23.685077",
+   "date": "2026-09-20",
+   "agent": 8.7,
+   "market_price_t0": 12.3,
+   "edge": -0.035500000000000004,
+   "confidence": 0.674,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.08, 0.07, 0.10, 0.11). Resolution requires ≥3 of 5 severe conditions (NVDA -50% from ATH, SOXX -40%, H100 ≤$1/hr for 5 days, lab bankruptcy/acquisition, major supplier -50%) and currently 0/5 are met: NVDA is only ~6-9% off its $235 ATH, SOXX ~20% off peak, H100 spot at $2.65/hr, and Nvidia's $105B OpenAI backstop plus a 94% Anthropic-IPO market signal no lab distress. Credit spreads (~2.7% HY OAS) and VIX (14-18) show no systemic stress. The historical base rate for a qualifying triple-condition crash is ~11-13% per full year, but only ~3.5 months remain and historical drawdowns of this magnitude typically unfold over many months, so the time-scaled probability is well below the annual rate. The Polymarket anchor at 12.3% likely reflects tail-risk premium; I shade below it to ~7% given the distance to thresholds and short remaining window.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3263",
+   "has_trace": true
+  },
+  {
    "id": 2251,
    "scanned_at": "2026-08-30T11:58:42.015368",
    "date": "2026-08-30",
@@ -7134,6 +7162,20 @@
   }
  ],
  "Will the highest score achieved by an Anthropic Claude model on Humanity’s Last Exam in 2026 be 60% or higher?": [
+  {
+   "id": 3268,
+   "scanned_at": "2026-09-21T01:49:43.561518",
+   "date": "2026-09-21",
+   "agent": 31.4,
+   "market_price_t0": 33.5,
+   "edge": -0.02100000000000002,
+   "confidence": 0.52,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.30, 0.29, 0.30, 0.34, 0.34). The identical Polymarket question sits at ~33.5% YES and has fallen 31.5 points over 30 days, reflecting a plateau in Claude scores (Opus 4.8 at 57.9% w/tools → Fable 5.1 at 59.1% w/tools, only +1.2pts per cycle). Critically, the resolution source (agi.safe.ai / Scale's official leaderboard) shows Fable 5.1 at just 46.5% and the overall leader GPT-6 Astra at 54.8% — no model is within striking distance of 60% on the official methodology, and official figures persistently lag lab self-reports by 5-15 points. A Yes requires either a large jump from a late-2026 Claude release (plausible given Anthropic's cadence) or the leaderboard adopting tool-augmented scoring, both uncertain within ~3 months. I lean slightly below the market anchor given the resolution-source gap and the Monte Carlo central estimate of ~30-36%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3268",
+   "has_trace": true
+  },
   {
    "id": 2239,
    "scanned_at": "2026-08-30T08:46:14.904144",
@@ -8008,6 +8050,20 @@
   }
  ],
  "Will Solana dip to $60 by December 31, 2026?": [
+  {
+   "id": 3252,
+   "scanned_at": "2026-09-20T18:33:26.322791",
+   "date": "2026-09-20",
+   "agent": 13,
+   "market_price_t0": 10.6,
+   "edge": 0.024000000000000007,
+   "confidence": 0.556,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.13, 0.13, 0.12, 0.14, 0.13). Polymarket prices YES at 10.2% (down from 83% at the 2026 lows), and the fact the market collapsed rather than staying elevated as SOL recovered strongly implies no Binance 1-min low ≤$60 printed, despite the reported $60.20 52-week low. With SOL at ~$102–$112 in mid-September 2026, only ~3.5 months remain, requiring a ~43% drop; a simple barrier model at 70–90% annualized vol gives roughly 12–20% touch probability, tempered by the improving macro/technical backdrop (BTC basing, SOL 'basing'). I add a few points for the unverified possibility a Binance wick already touched $60.00 and for fat-tail wick risk, landing slightly above the market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3252",
+   "has_trace": true
+  },
   {
    "id": 2147,
    "scanned_at": "2026-08-29T08:08:02.289145",
@@ -12211,6 +12267,20 @@
  ],
  "Will Iran withdraw from the NPT before 2027?": [
   {
+   "id": 3277,
+   "scanned_at": "2026-09-21T06:50:23.640291",
+   "date": "2026-09-21",
+   "agent": 13.2,
+   "market_price_t0": 12.2,
+   "edge": 0.010000000000000009,
+   "confidence": 0.624,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.13, 0.13, 0.13, 0.13, 0.14). (0) Not resolved: the UN treaty database and all Sept 20-21 reporting (PressTV, Tasnim, Iran International) show Iran remains a party with no Article X written notice filed; what must still happen is a Majlis floor vote (bill awaits Speaker Qalibaf's permission), Guardian Council clearance, and—crucially—an executive (SNSC/Foreign Ministry/Supreme Leader) decision to transmit a formal written notice to the UN. (a) About 3.3 months remain to the Dec 31, 2026 deadline. (b) Status quo is No: SNSC Secretary Rezaei said on Sept 19-20 that no decision has been made and withdrawal is merely 'possible' conditional on US/Israeli behavior, and the Foreign Ministry on Sept 12 said the bill is still being drafted. (c) NO scenario: the triple-urgency bill stalls or passes as a non-binding/conditional measure, the leadership keeps the threat as leverage amid ceasefire/negotiation efforts (as it did after snapback in 2025 and after the March 2026 bill), and no notice is sent by year-end—consistent with two decades of 'threaten but stay' and a base rate of one withdrawal (North Korea) in 56 years. (d) YES scenario: the ongoing war escalates or the UNSC acts on the Sept 9 IAEA referral, Qalibaf fast-tracks the bill (precedent for same-day review exists), and the SNSC/new leadership orders the Foreign Ministry to send an Article X letter—a template Iran already drafted in its June 2025 UNSC letter. The Polymarket anchor is 12.2% and I see no unpriced information: the September momentum (130 MPs, bill submitted) is genuine and the war/UNSC context is unusually severe, but every executive-branch signal remains contingent, so I stay essentially at the market with a slight lean up for the active-war tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3277",
+   "has_trace": true
+  },
+  {
    "id": 1658,
    "scanned_at": "2026-08-22T16:40:51.629618",
    "date": "2026-08-22",
@@ -12816,6 +12886,20 @@
   }
  ],
  "Will Delcy Rodríguez be the de facto leader of Venezuela at the end of 2026?": [
+  {
+   "id": 3256,
+   "scanned_at": "2026-09-20T20:07:16.522984",
+   "date": "2026-09-20",
+   "agent": 91,
+   "market_price_t0": 93,
+   "edge": -0.02000000000000013,
+   "confidence": 0.716,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.90, 0.91, 0.90, 0.92, 0.92). Rodríguez has held acting power since Jan 5, 2026, controls the armed forces after replacing Padrino as defense minister and purging Maduro-era security chiefs, and the Trump administration has deepened economic ties via the 55% US oil stake and $7B Chevron JV (Aug–Sep 2026), signaling no US push to remove her before year-end. No election is scheduled, her lapsed 90-day mandates went unenforced by the Assembly, and the December 'democratic talks' are not expected to yield a transfer of power within the ~3.5 months remaining. Polymarket prices Yes at 93% with a consistent 10.5% on 'out by Dec 31'; no Kalshi price was captured. Residual risk comes from Machado's planned return, opposition efforts to unseat her, and US ambiguity about her long-term role, plus the short-horizon hazard for any interim strongman, so I shade slightly below the market to ~0.90.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3256",
+   "has_trace": true
+  },
   {
    "id": 1533,
    "scanned_at": "2026-08-20T02:45:47.150373",
@@ -13645,6 +13729,20 @@
  ],
  "Will Trump visit North Korea by December 31?": [
   {
+   "id": 3257,
+   "scanned_at": "2026-09-20T20:56:00.323836",
+   "date": "2026-09-20",
+   "agent": 8.6,
+   "market_price_t0": 10,
+   "edge": -0.014000000000000012,
+   "confidence": 0.6519999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.08, 0.09, 0.08, 0.09, 0.09). The Polymarket proxy anchor for the identical question is 10% YES and declining over 7d/30d, with no Kalshi-direct price available. Sub-questions point strongly toward No: the White House confirms no formal summit planning or date, Kim Yo Jong has denied active communications and set preconditions the US hasn't met, and North Korea's Russia alignment plus constitutional nuclear status reduce its incentive to engage. The only Yes path is Trump's stated intent plus the November APEC trip to Shenzhen providing a logistical window for a DMZ/Pyongyang stop, echoing the 2019 Osaka-to-Panmunjom precedent, but that required prior summit machinery that does not exist today; the related 'meeting anywhere' market at 42% also implies DPRK-soil entry is a small subset. I shade slightly below the anchor given the roughly 3.5 months remaining and the total absence of confirmed contact.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3257",
+   "has_trace": true
+  },
+  {
    "id": 1364,
    "scanned_at": "2026-08-16T11:26:39.885991",
    "date": "2026-08-16",
@@ -13884,6 +13982,20 @@
   }
  ],
  "Will Oura's market cap be between $12.5B and $15B at market close on IPO day?": [
+  {
+   "id": 3271,
+   "scanned_at": "2026-09-21T02:36:46.049457",
+   "date": "2026-09-21",
+   "agent": 19.6,
+   "market_price_t0": 22.5,
+   "edge": -0.028999999999999998,
+   "confidence": 0.55,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.21, 0.19, 0.21, 0.17, 0.20). The most direct anchor is the Polymarket sibling contract at 23% YES, with ~70% of the ladder mass above $15B. Reports peg the IPO target at >$16B with up to $3B raised, and 2025-26 large tech IPOs have averaged ~20-34% day-one pops (SpaceX +19%, Cerebras +68%), which would push the close well past $15B if the $16B pricing holds; a lognormal model puts the bracket at only ~7-17%. However, the S-1 has no price range or share count yet, and listing-page market caps often use basic rather than fully diluted shares, so a $16B fully-diluted valuation with a muted debut could plausibly register in the $12.5-15B range — a real path to Yes that keeps me near the market. I shade slightly below the Polymarket price toward the model estimate given the strong pop base rates and above-target pricing chatter.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3271",
+   "has_trace": true
+  },
   {
    "id": 1331,
    "scanned_at": "2026-08-15T19:51:35.743801",
@@ -14598,7 +14710,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-20T18:12:09.257Z",
+  "last_sync": "2026-09-21T08:56:05.806Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -15775,6 +15887,20 @@
  ],
  "Will OpenAI's valuation hit (HIGH) $2.0T by December 31?": [
   {
+   "id": 3254,
+   "scanned_at": "2026-09-20T19:21:18.250909",
+   "date": "2026-09-20",
+   "agent": 8.2,
+   "market_price_t0": 10.5,
+   "edge": -0.022999999999999993,
+   "confidence": 0.6799999999999999,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.06, 0.08, 0.10, 0.10). The resolution source (NPM Price) sat at ~$734/share in Sep 2026, implying a valuation under $1T, and the last closed round was $852B (Mar 2026) with the most aggressive reported new-round talk at only $1.2T — 40% below the $2.0T threshold. Altman has ruled out a 2026 IPO, eliminating the public-market repricing path, and NPM Price historically lags primary-round headlines by weeks/months, so even a surprise $2T round would need to close early enough to be reflected before Dec 31. The sibling Polymarket '$1T by 2026' at ~70% versus this identical-event market at 10.5% shows a steep probability drop-off between $1T and $2T; the trend-extrapolation Monte Carlo (18-30%) ignores the deceleration and the resolution-source lag. I anchor on the Polymarket 10.5% proxy and shade slightly lower given no confirmed pathway near $2T within ~3 months.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3254",
+   "has_trace": true
+  },
+  {
    "id": 2867,
    "scanned_at": "2026-09-13T00:13:26.059639",
    "date": "2026-09-13",
@@ -16760,6 +16886,70 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.87, 0.87, 0.87, 0.86, 0.86). Chiang Wan-an is the confirmed KMT nominee and incumbent in a KMT-leaning city, with Dec 2025 TVBS polling showing 24-37 point leads over DPP contenders, and the DPP ultimately nominated Puma Shen, a polarizing legislator unlikely to outperform the more centrist options polled. The national environment favors the KMT after both 2025 recall waves failed (Polymarket: 87.5% KMT wins most local races), and Taiwan special-municipality incumbents win ~85% of the time historically. With no Kalshi price available, I anchor on Polymarket's 86.5% YES, noting the mild downward drift and unspecified 'legal complaints' as small tail risks, but no head-to-head poll or scandal suggests a competitive race. The main uncertainty is the ~3 months remaining and absence of Chiang-vs-Shen polling.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3235",
+   "has_trace": true
+  }
+ ],
+ "Will BYD be removed from Chinese Military Companies list by June 30, 2027?": [
+  {
+   "id": 3272,
+   "scanned_at": "2026-09-21T03:27:05.953709",
+   "date": "2026-09-21",
+   "agent": 16.2,
+   "market_price_t0": 22.5,
+   "edge": -0.063,
+   "confidence": 0.5900000000000001,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.15, 0.16, 0.16, 0.17, 0.17). BYD was confirmed on the June 8, 2026 1260H list and remains listed with no delisting notice; unlike Alibaba, WuXi AppTec, and CXMT, BYD has not filed a 1260H suit, only threatened one, which removes the main historical removal mechanism (Xiaomi's 2021 court-ordered removal). Recent litigation precedents (Hesai, DJI) show courts and DoD moving slowly and deferentially, making a court-ordered removal within ~12 months unlikely even if BYD sues, and no diplomatic/trade-talk linkage demanding BYD's removal has surfaced. No Kalshi direct price is available; the Polymarket proxy sits at 22.5% (uptrending, likely with longshot premium), while the scaled historical base rate and scenario model point to ~10-14%. I land at 15% YES, slightly below the Polymarket proxy given BYD's non-litigant status and DoD's resistant posture, but above the base rate to account for possible trade-deal concessions or routine list maintenance.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3272",
+   "has_trace": true
+  }
+ ],
+ "Will 1 Fed rate hike happen in 2026?": [
+  {
+   "id": 3267,
+   "scanned_at": "2026-09-21T01:01:33.048924",
+   "date": "2026-09-21",
+   "agent": 15,
+   "market_price_t0": 13.5,
+   "edge": 0.014999999999999986,
+   "confidence": 0.688,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.16, 0.15, 0.16, 0.14, 0.14). One 25bp hike already occurred on Sept 16, 2026 (3.75–4.00%, 12-0 vote, confirmed via Fed release and FRED), so this 'exactly 1' market now hinges on whether a second hike lands at the Oct 28 or Dec meeting. The Sept SEP shows 16/18 participants expecting at least one more 2026 hike, CME FedWatch put ~87% odds on another hike this year (~55-60% for Oct alone), and Polymarket prices 'another hike in 2026' at 85.5% while this identical exactly-1 market sits at 13.5% YES. With a hawkish new Chair Warsh, core PCE at 3.4% and reaccelerating, and a low historical base rate (~9-14%) for isolated single-hike years, the second-hike scenario is the modal outcome. I set YES slightly above the Polymarket anchor to account for two remaining meetings, data-dependency, and the possibility labor softening prompts a pause.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3267",
+   "has_trace": true
+  }
+ ],
+ "Will OpenAI be the second-best AI Agent Lab at the end of October 2026?": [
+  {
+   "id": 3265,
+   "scanned_at": "2026-09-21T00:13:20.843729",
+   "date": "2026-09-21",
+   "agent": 83,
+   "market_price_t0": 86,
+   "edge": -0.030000000000000138,
+   "confidence": 0.5660000000000001,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.83, 0.82, 0.82, 0.84, 0.84). The only direct market anchor (Polymarket, same question) sits at 86% YES and has risen +43.5% over 30 days, with sibling markets internally consistent: Anthropic ~85% for #1 and OpenAI only 14% for #1, implying OpenAI's modal outcome is #2. GPT-6 Astra's September release and its narrow Terminal-Bench 4.0 edge over Claude Fable 5.1 support OpenAI holding a top-two position, while Google has shipped no frontier model since early 2026 and is priced at just 7% for #2. The main 'No' paths are OpenAI overtaking Anthropic for #1 (~14%) or a surprise Google/Chinese-lab release displacing OpenAI before Oct 31; historical Arena churn makes this non-trivial. I shade slightly below the anchor because the brief could not extract the live Labs rank ordering, leaving the current #2 status inferred rather than confirmed.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3265",
+   "has_trace": true
+  }
+ ],
+ "Will Russia capture Svitle by October 31?": [
+  {
+   "id": 3261,
+   "scanned_at": "2026-09-20T22:29:49.463200",
+   "date": "2026-09-20",
+   "agent": 15.4,
+   "market_price_t0": 17.7,
+   "edge": -0.022999999999999965,
+   "confidence": 0.5660000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.14, 0.15, 0.15, 0.16, 0.17). The Polymarket proxy prices YES at 17.7% and has fallen steadily from a 38.85% high, and the brief surfaces reasons to lean slightly below that anchor: ISW's latest confirmed assessment (mid-July) still had Russian forces ~2.2 km from Svitle with no entry, August advances were 'glacial' (~124 sq km, a quarter of the prior year's pace), and Ukraine's mid-September 'Vivaldi' counteroffensive is reclaiming ground in the broader northern Donetsk sector. Strict ISW-shading resolution is unforgiving—comparable strict-capture markets for adjacent towns (Dobropillia 4%, Kostiantynivka 6.5%) sit in single digits—and no ceasefire mechanism appears plausible before Oct 31 given Putin's rejection of compromise. Some residual YES probability is warranted because milbloggers report an expanding Russian foothold around Dobropillia and the brief lacks data after ~Sept 20, leaving six weeks of unobserved fighting.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3261",
    "has_trace": true
   }
  ]

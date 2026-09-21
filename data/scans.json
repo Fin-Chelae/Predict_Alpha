@@ -14710,7 +14710,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-21T08:56:05.806Z",
+  "last_sync": "2026-09-21T19:59:00.307Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -16011,6 +16011,20 @@
  ],
  "Will there be 0 hurricanes during the Atlantic Hurricane Season in 2026?": [
   {
+   "id": 3282,
+   "scanned_at": "2026-09-21T10:17:38.152322",
+   "date": "2026-09-21",
+   "agent": 36.2,
+   "market_price_t0": 36,
+   "edge": 0.0019999999999999463,
+   "confidence": 0.5740000000000001,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.37, 0.37, 0.35, 0.36, 0.36). (0) Not resolved either way: the NHC resolution source (Sep 21, Advisory #8) shows TS Fay at 65 mph, below the 74 mph threshold, weakening under strong shear and forecast post-tropical by midweek; Wikipedia's tracker shows 6 storms, 0 hurricanes, ACE 5.1, and the season already broke the satellite-era record for latest first hurricane. For YES, no storm may reach 74 mph in any initial NHC advisory before Nov 30 (~10 weeks left); one advisory at hurricane strength locks in NO irreversibly. (a) ~70 days remain, covering the full October secondary peak and November. (b) Status quo is zero hurricanes, but status quo here is passive — it only holds if nothing forms, and the 7-day outlook shows no development expected. (c) NO scenario: Fay squeezes out a brief 75 mph advisory (low, ~5%), or more likely a Caribbean/western Atlantic system in October (Ben Noll flagged more conducive conditions) or a November subtropical-origin system reaches Cat 1, as happened in El Niño years like 2015 (Joaquin, Kate), 2009 (Ida), 1994 (Florence, Gordon). (d) YES scenario: the strong El Niño shear/dry-air regime that held through the entire climatological peak persists, as in 1997, 1982, 1986, and 2013 when no hurricanes formed after September, and the season joins 1907/1914. Climatologically ~60-70% of seasons produce a hurricane forming after late September, but the extreme suppression this year argues for lowering that toward ~60%, which lands close to the Polymarket price of 36% for zero; I see no unpriced information to move far from it and set 37% YES. The 1-3 bucket at 61% and near-zero on 4+ is consistent with this view.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3282",
+   "has_trace": true
+  },
+  {
    "id": 2904,
    "scanned_at": "2026-09-14T07:14:27.015067",
    "date": "2026-09-14",
@@ -16950,6 +16964,38 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.14, 0.15, 0.15, 0.16, 0.17). The Polymarket proxy prices YES at 17.7% and has fallen steadily from a 38.85% high, and the brief surfaces reasons to lean slightly below that anchor: ISW's latest confirmed assessment (mid-July) still had Russian forces ~2.2 km from Svitle with no entry, August advances were 'glacial' (~124 sq km, a quarter of the prior year's pace), and Ukraine's mid-September 'Vivaldi' counteroffensive is reclaiming ground in the broader northern Donetsk sector. Strict ISW-shading resolution is unforgiving—comparable strict-capture markets for adjacent towns (Dobropillia 4%, Kostiantynivka 6.5%) sit in single digits—and no ceasefire mechanism appears plausible before Oct 31 given Putin's rejection of compromise. Some residual YES probability is warranted because milbloggers report an expanding Russian foothold around Dobropillia and the brief lacks data after ~Sept 20, leaving six weeks of unobserved fighting.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3261",
+   "has_trace": true
+  }
+ ],
+ "Will Puma Shen win the next Taipei Mayor election?": [
+  {
+   "id": 3291,
+   "scanned_at": "2026-09-21T17:07:53.446932",
+   "date": "2026-09-21",
+   "agent": 15.4,
+   "market_price_t0": 18.7,
+   "edge": -0.033,
+   "confidence": 0.612,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.15, 0.16, 0.16, 0.15, 0.15). (0) Not resolved: the election is Nov 28, 2026 and the CEC source read failed; Shen would need to outpoll incumbent Chiang Wan-an on election day. (a) ~68 days to the vote, with the market open until June 2027. (b) Status quo strongly favors NO: every scientific/large poll from Dec 2025 through the Sept 14-20 Yahoo poll shows Chiang ahead by 28-42 points (TVBS 58-30 in May; Yahoo 57.4-25.3 in Sept), Templeman rates the race 'Likely KMT', the DPP has won Taipei only once (1994) and is 0-for-7 against KMT since, and the TPP is not fielding a spoiler. (c) NO scenario: Chiang's incumbency and Taipei's pan-blue lean hold, the September 'ocean current' buzz fades as Yahoo's data suggests, and Chiang wins by double digits. (d) YES scenario: DPP internal polls (reportedly <10-point gap, per Taipei Times Sept 14) are closer to reality than public online polls, Chiang's accumulating controversies (construction safety, school lunches, son's exchange program) plus the historical 5-10 point DPP polling underperformance produce a Han Kuo-yu-2018-style late crossover. The Polymarket anchor is 18.7% (Chiang market 82%, consistent), having risen sharply on the momentum narrative; I shade slightly below the market because the only hard September data point (Yahoo, non-random but 42k respondents) shows no tightening and the reference class is brutal for DPP challengers in Taipei, while keeping meaningful mass on YES given unverified internal polls and the 2018 Kaohsiung precedent.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3291",
+   "has_trace": true
+  }
+ ],
+ "EU country blames Russia for new sabotage attack by October 31?": [
+  {
+   "id": 3286,
+   "scanned_at": "2026-09-21T13:40:54.402412",
+   "date": "2026-09-21",
+   "agent": 56,
+   "market_price_t0": 56.5,
+   "edge": -0.004999999999999893,
+   "confidence": 0.542,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.56, 0.58, 0.58, 0.54, 0.54). (0) Resolution check: no source shows a qualifying attribution after market creation (2026-09-19); the resolution-source read and all reports confirm the clearest 2026 attribution (Germany/Leipzig, Sept 1) predates creation and is excluded, and post-creation coverage is warnings and 'suspected' language only. What must still happen: an EU national government or its prosecutors must unhedgedly name the Russian state (or charge suspects as acting for Russian services) for a post-Aug-1 sabotage/arson/explosive/physical attack on its own territory, by Oct 31 11:59 PM ET. (a) About 40 days remain. (b) Status quo is NO — as of today nothing qualifies. (c) NO scenario: the open cases (Munich/Rohde & Schwarz arrests, Tallinn/Milrem detentions, Poland's WB Electronics fire, Bulgaria, Slovakia) stay at 'political background under examination'/'suspected' stage through October, governments defer to EU/NATO-level 'hallmarks of state terrorism' rhetoric that doesn't count, and Bloomberg's noted official reluctance to blame openly persists. (d) YES scenario: German federal prosecutors charge the two Bulgarians in the Munich incendiary case as acting for Russian intelligence, or Tusk names Russia for the Skarżysko-Kamienna arson as he did within ~2 weeks for the Nov 2025 rail bombing, or a fresh incident in this very hot autumn gets a rapid Dobrindt/Tusk-style attribution. The base rate of qualifying-grade attributions (Poland 2024, 2025; Lithuania 2025; Germany 2026) is several per year, which alone implies ~35-45% over six weeks, but the unusually dense cluster of five post-Aug-1 arson/explosive incidents with suspects already in custody raises the hazard meaningfully. I anchor on Polymarket's 56.5% (thin volume, $15.8k, drifting up) and the coherent Dec-31 sister at 66%; the research surfaces nothing the market hasn't priced, so I stay essentially at the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3286",
    "has_trace": true
   }
  ]

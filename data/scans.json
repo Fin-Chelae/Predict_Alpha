@@ -7251,6 +7251,20 @@
  ],
  "Will Anthropic have the best AI model at the end of October 2026?": [
   {
+   "id": 3321,
+   "scanned_at": "2026-09-22T14:24:55.930722",
+   "date": "2026-09-22",
+   "agent": 88,
+   "market_price_t0": 88.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.6679999999999999,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.87, 0.87, 0.89, 0.88, 0.89). (0) Not yet resolved: the check is a single snapshot on Oct 31, 2026 12:00 PM ET, but the resolution source (arena.ai Text Arena Overall, style control off) read on Sep 13 shows Anthropic's claude-fable-5.1-max at #1 (1508) with Anthropic filling ranks 1–5 (and per the NO report, the top 9), the first non-Anthropic model (a Gemini Flash variant) ~15 points back. (a) ~39 days remain. (b) Status quo is YES: Anthropic's lead is broad across every sub-category (BenchLM), corroborated by independent trackers, and vote noise alone cannot flip #1 because the next several slots are also Anthropic — only a new rival release can. (c) NO scenario: Google ships a Pro-tier model (long-delayed Gemini 3.5 Pro or rumored October 'Gemini 4') or OpenAI ships a GPT-6 variant that debuts above ~1510 and accumulates enough votes to rank #1 by Oct 31; GPT-6 Astra (released Sep 3) has so far landed far down the board (~1444), so the credible threat is Google, whose release is unconfirmed and has repeatedly slipped. (d) YES scenario: no rival flagship lands and stabilizes above 1508 in the window, or Anthropic ships another update (rumored Opus 5.5) extending its lead. The Polymarket anchor is 88.5% (sibling September market 98.5%, end-of-2026 ~66–72%), which prices the ~six-week release risk sensibly given the historical crown-change rate (~19 in 41 months) offset by the current regime's unusual stickiness and depth; I see no unpriced information and stay essentially at the anchor, shading slightly for the Gemini 4 wildcard and rule mechanics (AutoEval exclusion).",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3321",
+   "has_trace": true
+  },
+  {
    "id": 2932,
    "scanned_at": "2026-09-14T19:26:56.158317",
    "date": "2026-09-14",
@@ -11095,6 +11109,20 @@
  ],
  "Kanye West performs in Russia by October 31?": [
   {
+   "id": 3325,
+   "scanned_at": "2026-09-22T16:48:38.084655",
+   "date": "2026-09-22",
+   "agent": 9,
+   "market_price_t0": 10.6,
+   "edge": -0.016,
+   "confidence": 0.6799999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.09, 0.09, 0.09, 0.09, 0.09). (0) Not resolved: no source shows Ye has performed in Russia; the Oct 10–11 Gazprom Arena shows were announced Aug 17 but the venue publicly disowned them Aug 25 (no rental contract, reportedly after a 'phone call from Moscow'), and Meduza/Kursiv report Ye's own tour website dropped the dates on Sept 18. For YES, a venue must sign, Kremlin-linked authorities must approve, and Ye must actually play before Oct 31. (a) ~39 days remain; the original dates are 18 days out with no confirmed venue. (b) Status quo is NO — the shows are in limbo with the promoter (Say Agency) insisting they're on but offering no signed replacement venue or date, and Gazprom Arena reiterated Sept 4 that its October calendar has no foreign performers. (c) NO scenario: the political block holds, Say Agency quietly refunds 100k+ tickets or keeps deferring, and Ye proceeds to Jakarta and US dates without a Russia stop — consistent with his 2026 pattern of cancellations in France, Poland, Czechia, UK, Italy. (d) YES scenario: the reported ~1.5B-ruble advance and sold-out demand push Say Agency to relocate to Luzhniki (whose CEO said it would 'consider' hosting), a pro-show Kremlin faction wins the internal debate, and Ye plays a rescheduled Moscow/St. Petersburg date in the schedule gap before Jakarta. Polymarket prices YES at 10.8% and falling (-10.7 pts in 7 days); the Sept 18 website removal is the newest negative datum and is likely already priced. I land slightly below the anchor at 9%, keeping meaningful weight on the financial incentives and promoter persistence given how unpredictable both Ye and Russian decision-making are.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3325",
+   "has_trace": true
+  },
+  {
    "id": 2976,
    "scanned_at": "2026-09-15T14:32:03.446807",
    "date": "2026-09-15",
@@ -14724,7 +14752,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-22T08:32:07.247Z",
+  "last_sync": "2026-09-22T18:54:23.723Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -17074,6 +17102,38 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.20, 0.21, 0.18, 0.21, 0.21). (0) Resolution check: no source shows the condition met — the bitcointreasuries.net read (updated Sep 18, 2026) and all four research reports find no S&P 500 constituent announcing a first-ever Bitcoin purchase since the window opened Nov 4, 2025; the only S&P names holding BTC (Tesla, Block, Coinbase) are pre-existing holders and do not qualify. (a) Roughly 3.3 months remain to the Dec 31, 2026 deadline (trading closes Nov 4, 2026). (b) Status quo is No: every prior tranche of this recurring series ('before May/July/October', 'by Nov 30, 2025') resolved No, and ~10.5 months of the current window have already elapsed with no hit, implying a low monthly hazard. (c) NO scenario: corporate treasury momentum stays confined to small/mid-cap 'treasury companies' (Strategy, Strive, miners), mega-caps keep rejecting BTC shareholder proposals, MSCI/Nasdaq governance friction and 5% yields keep S&P 500 boards risk-averse, and Strategy remains outside the index. (d) YES scenario: the BTC rally back above $80k plus a Q4 index rebalance brings in a smaller crypto-adjacent constituent or a surprise filing/8-K reveals an S&P member's holdings, which the rules count as a qualifying announcement even for older purchases; loose 'consensus of credible reporting' resolution also adds some tail. The Polymarket anchor is 25.8% (up ~8 pts in 30 days on the BTC rally); I shade modestly below it to 20% because the base rate over ~20 months of this series is zero hits, no named candidate is in the pipeline, and only ~100 days remain, while keeping meaningful weight for resolution ambiguity and disclosure surprises.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3295",
+   "has_trace": true
+  }
+ ],
+ "Will Prabowo Subianto cease to be President of Indonesia by December 31, 2026?": [
+  {
+   "id": 3318,
+   "scanned_at": "2026-09-22T12:03:32.954787",
+   "date": "2026-09-22",
+   "agent": 6.6,
+   "market_price_t0": 10,
+   "edge": -0.034,
+   "confidence": 0.6799999999999999,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.05, 0.06, 0.06, 0.08, 0.08). (0) Resolution check: not met — current-state research (Wikipedia infobox, SCMP tracker, Sept 12 New Delhi summit attendance, Sept 14 finance-minister firing, Sept 20 public speech) shows Prabowo fully in office and exercising power as of 2026-09-22; a YES would require a resignation announcement, removal, detention, or incapacitation before Jan 1, 2027. (a) About 100 days remain. (b) Status quo is NO: his coalition holds ~470 of 580 DPR seats, no impeachment motion has been filed, and the constitutional path (2/3 DPR → Constitutional Court → 2/3 MPR) is politically near-impossible on this timescale; analysts put formal impeachment at 'near zero'. (c) NO scenario: continued approval erosion (75%→37%), sporadic protests and scandals (free-meals poisoning, fiscal turmoil) answered with reshuffles rather than resignation, as in Aug 2025. (d) YES scenario: a sudden health event for a 74-year-old (roughly 1% mortality/incapacity risk over ~3 months) or a 1998-style protest explosion with military/elite defection forcing resignation — the Aug 27–28 2026 protests were far smaller than 2025's, and historical removals required months of visible crisis that is not underway. The Polymarket anchor is 9.5% (up 3.5 pts in a week on thin ~$56k volume, likely reacting to the Purbaya firing), but this looks like long-shot bias on an illiquid market; I shade down to 5%, keeping room for tail health/unrest risk and resolution ambiguity around 'effectively removed'.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3318",
+   "has_trace": true
+  }
+ ],
+ "Saudi-Houthi ceasefire agreement announced by October 31?": [
+  {
+   "id": 3314,
+   "scanned_at": "2026-09-22T09:39:39.634644",
+   "date": "2026-09-22",
+   "agent": 23.4,
+   "market_price_t0": 26.5,
+   "edge": -0.031000000000000028,
+   "confidence": 0.5720000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.22, 0.25, 0.23, 0.24, 0.23). (0) Not resolved: the CFR tracker (Sept 21) and JPost/SBS reporting (Sept 17-18) show only an unconfirmed Saudi proposal for a two-week ceasefire relayed via Oman, with no Houthi response and no official Saudi confirmation; fighting is intensifying (Riyadh strikes, Red Sea coast captures, Taiz battles). For YES, both Riyadh and the Houthi leadership would need to declaratively announce acceptance of the same dated, general suspension of hostilities by Oct 31 (11:59 PM ET). (a) About 40 days remain. (b) Status quo is NO: active war, Houthi maximalist demands (end of war, lifting blockade), Saudi still seeking missile-defense support and US strikes. (c) NO scenario: the Houthis, holding battlefield momentum after seizing Mokha/Perim/Hanish, reject or stall the two-week offer as 'nothing new' (mirroring March 2021), talks in Amman/Muscat drag on, and any de-escalation stays informal or partial — which the rules explicitly exclude. (d) YES scenario: Saudi pain from oil-infrastructure strikes plus US non-intervention pushes Riyadh to concede humanitarian terms, Oman brokers Houthi acceptance of the two-week truce with a specified start date, and both SPA and SABA/Al Masirah announce it — a truce with a dated mutual suspension would qualify even if framed as preliminary. The Polymarket anchor is 26.5% (drifting down from 31.5%); given the escalating trajectory, the historical base rate of Saudi offers stalling, the strict declarative/mutual/dated bar, and the fact that the only live path is a single unconfirmed proposal, I shade modestly below the market to 22%, keeping meaningful weight on the real Omani channel and strong Saudi incentive to stop the bleeding.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3314",
    "has_trace": true
   }
  ]

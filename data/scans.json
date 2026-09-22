@@ -3687,6 +3687,20 @@
  ],
  "Strait of Hormuz traffic returns to normal by October 31?": [
   {
+   "id": 3311,
+   "scanned_at": "2026-09-22T07:14:38.581880",
+   "date": "2026-09-22",
+   "agent": 5.4,
+   "market_price_t0": 7,
+   "edge": -0.016,
+   "confidence": 0.734,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.05, 0.05, 0.05, 0.06, 0.06). (0) Resolution check: the resolution source page could not be rendered, but every secondary read of IMF PortWatch puts the most recent 7-day MA in the single digits (8 transits on 2026-09-13 vs. a ~85-107 pre-crisis baseline); no source shows any date since market creation with a 7DMA ≥60, so the condition is not met and would require a roughly seven-fold, week-sustained surge in transits. (a) About 5.5 weeks remain until October 31, with PortWatch publishing on a lag. (b) Status quo: Iran declares the strait closed, tankers are still being struck (UKMTO incidents Sept 21-22), container carriers remain rerouted via the Cape, and weekend counts fell from 36 to 14 vessels — nothing changes and this resolves No. (c) NO scenario: UNGA/Beijing diplomacy produces talk but no comprehensive US-Iran deal, or a deal is announced but, as in April and June, traffic recovers only to 10-30/day because insurers and carriers hold back; the 7DMA never approaches 60. (d) YES scenario: a rapid, comprehensive settlement (Islamabad MoU revival plus lifting of the US blockade, catalyzed by Trump-Xi/UNGA) is fully implemented within days, escorts and insurers return en masse, and PortWatch records a 60+ 7DMA by late October — but even the April ceasefire only reached a 7DMA of 12 and the June reopening never hit 60, so this is a low-probability tail. The Polymarket anchor is 7% and Kalshi's equivalent 'above 60 before Nov 1' sits near 5%; every prior monthly contract in this series has resolved No, and markets have historically been too bullish on recovery speed, so I shade slightly below the anchor to 5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3311",
+   "has_trace": true
+  },
+  {
    "id": 2831,
    "scanned_at": "2026-09-11T16:59:40.128110",
    "date": "2026-09-11",
@@ -14710,7 +14724,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-21T19:59:00.307Z",
+  "last_sync": "2026-09-22T08:32:07.247Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -16996,6 +17010,70 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.56, 0.58, 0.58, 0.54, 0.54). (0) Resolution check: no source shows a qualifying attribution after market creation (2026-09-19); the resolution-source read and all reports confirm the clearest 2026 attribution (Germany/Leipzig, Sept 1) predates creation and is excluded, and post-creation coverage is warnings and 'suspected' language only. What must still happen: an EU national government or its prosecutors must unhedgedly name the Russian state (or charge suspects as acting for Russian services) for a post-Aug-1 sabotage/arson/explosive/physical attack on its own territory, by Oct 31 11:59 PM ET. (a) About 40 days remain. (b) Status quo is NO — as of today nothing qualifies. (c) NO scenario: the open cases (Munich/Rohde & Schwarz arrests, Tallinn/Milrem detentions, Poland's WB Electronics fire, Bulgaria, Slovakia) stay at 'political background under examination'/'suspected' stage through October, governments defer to EU/NATO-level 'hallmarks of state terrorism' rhetoric that doesn't count, and Bloomberg's noted official reluctance to blame openly persists. (d) YES scenario: German federal prosecutors charge the two Bulgarians in the Munich incendiary case as acting for Russian intelligence, or Tusk names Russia for the Skarżysko-Kamienna arson as he did within ~2 weeks for the Nov 2025 rail bombing, or a fresh incident in this very hot autumn gets a rapid Dobrindt/Tusk-style attribution. The base rate of qualifying-grade attributions (Poland 2024, 2025; Lithuania 2025; Germany 2026) is several per year, which alone implies ~35-45% over six weeks, but the unusually dense cluster of five post-Aug-1 arson/explosive incidents with suspects already in custody raises the hazard meaningfully. I anchor on Polymarket's 56.5% (thin volume, $15.8k, drifting up) and the coherent Dec-31 sister at 66%; the research surfaces nothing the market hasn't priced, so I stay essentially at the anchor.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3286",
+   "has_trace": true
+  }
+ ],
+ "Will the Republicans win the Florida governor race in 2026?": [
+  {
+   "id": 3307,
+   "scanned_at": "2026-09-22T04:53:37.510665",
+   "date": "2026-09-22",
+   "agent": 76.8,
+   "market_price_t0": 78.5,
+   "edge": -0.017000000000000015,
+   "confidence": 0.634,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.77, 0.77, 0.77, 0.77, 0.76). (0) Nothing is resolved: the election is Nov 3, 2026, no AP/Fox/NBC call exists, and the AP resolution-source fetch failed (403), so the status quo is an undetermined race between Republican Byron Donalds and Democrat David Jolly. (a) About six weeks remain until election day. (b) The 'status quo' structural picture favors YES: Republicans have won all seven Florida gubernatorial races since 1998, Trump won the state by 13 in 2024, the GOP has a large registration edge, Donalds has Trump's endorsement and $41M+ cash on hand versus under $6M for Jolly, and the RCP average (~Donalds +3.7) and Pollsmax model (81.9%, ~+6.5) still point Republican. (c) NO scenario: the tightening is real — St. Pete Polls (Sep 15-17) shows a 44-43 dead heat, Change Research and Hart show Jolly +1 to +3, independents favor Jolly by 12, Donalds' favorability is 34/46, Cook/Sabato/Inside Elections have all downgraded to Likely/Lean R, and a Trump-midterm Democratic environment plus Jolly's crossover appeal converts undecideds into a narrow upset. (d) YES scenario: Florida polls have repeatedly underestimated Republicans (2018, 2020, 2022), the GOP registration and turnout machinery plus Donalds' 7:1 spending advantage in the final weeks deliver a mid-single-digit win, consistent with most pre-primary independent polls (UNF +5, Targoz +7, Stetson +7). I anchor on the Polymarket price of 78.5% (Kalshi ~79.5%, an independent crowd agreeing), and shade only slightly lower to 0.77 because the recent post-primary polling is genuinely tied, the market's 7-day drift is downward, and the Change/Hart polls are partisan-sponsored so they neither fully confirm nor refute the tightening; the structural case remains strong enough that a toss-up read is unwarranted.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3307",
+   "has_trace": true
+  }
+ ],
+ "Anthropic lab leak by June 30, 2027?": [
+  {
+   "id": 3304,
+   "scanned_at": "2026-09-22T02:30:46.150462",
+   "date": "2026-09-22",
+   "agent": 2.7,
+   "market_price_t0": 7.5,
+   "edge": -0.048,
+   "confidence": 0.696,
+   "category": "Health",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.03, 0.03, 0.03, 0.03, 0.03). (0) Resolution check: the resolution-source read (TechCrunch/CNBC/Reuters, 2026-09-18) confirms only that Anthropic operates a Bay Area wet lab; no source reports any pathogen escape, exposure, or containment failure, so the condition is not met and YES would still require a confirmed escape reported by a consensus of credible outlets before June 30, 2027. (a) About 9 months remain until the 2027-07-01 close. (b) Status quo is NO: the lab does 'fundamental biology' of undisclosed BSL, with no evidence it handles any pathogen, let alone a select agent. (c) NO scenario: the lab continues routine biotech-style work (or handles only BSL-1/2 organisms), no incident occurs, or any minor incident never reaches the 'confirmed escape by consensus reporting' bar. (d) YES scenario: the lab begins working with a genuinely dangerous pathogen, a lab-acquired infection or release occurs, and heightened media scrutiny of Anthropic causes it to be widely and credibly confirmed within the window. The peer-reviewed base rate is ~0.1–0.3% per lab-year even for BSL-3 select-agent facilities, and Anthropic's lab has no confirmed pathogen work at all, so the outside view implies well under 1% for this window; I inflate somewhat for the lab's opacity, novel AI-automated operation, and intense scrutiny that would surface any incident. The Polymarket anchor of 7.5% (thin $49k volume, drifting down from 10.5%) looks like classic long-shot premium on a headline-driven market rather than information about actual risk, so I move below it to ~3%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3304",
+   "has_trace": true
+  }
+ ],
+ "Will the Republicans win the Mississippi Senate race in 2026?": [
+  {
+   "id": 3300,
+   "scanned_at": "2026-09-22T00:07:35.569435",
+   "date": "2026-09-22",
+   "agent": 91.9,
+   "market_price_t0": 93,
+   "edge": -0.01100000000000012,
+   "confidence": 0.708,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.91, 0.91, 0.92, 0.93, 0.93). (0) Not resolved: the election is Nov 3, 2026 and no AP/Fox/NBC call exists; the AP resolution-source fetch failed (403), so status is the pre-election campaign state. (a) ~6 weeks remain until election day, with any Dec 1 runoff also counting. (b) Status quo: incumbent Cindy Hyde-Smith (R) leads in every poll found (3–6.5 pts in Democratic-sponsored polls, ~11–15 pt projected margins in models), Mississippi hasn't elected a Democratic senator since 1982 or unseated an incumbent since 1942, and DDHQ/Pollsmax both give her ~93%. (c) NO scenario: a D+7 national environment (Democrats priced at 63.5% to take the Senate), Hyde-Smith's weak favorability (never above 47% in ballot tests, underperformed Trump by 6 in 2020), Colom's strong fundraising and favorability once known, and independent Pinkins splitting votes produce a low-single-digit upset or a runoff Colom wins. (d) YES scenario: the state's R+23 presidential lean, Trump's endorsement, and GOP outside spending hold the margin around R+8 to R+12 and all three networks call it for Hyde-Smith on election night. I anchor on Polymarket's 93% (stable over 30 days) and independent models at 92.5–93%, shading marginally lower to 91% because the polls actually released show a much tighter race than the fundamentals-heavy models (DDHQ weights polls only 5%), and this is an unusually strong Democratic year with a poorly-liked incumbent; no unpriced shock in either direction was found.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3300",
+   "has_trace": true
+  }
+ ],
+ "Another S&P 500 Company buys Bitcoin by December 31, 2026?": [
+  {
+   "id": 3295,
+   "scanned_at": "2026-09-21T20:36:12.314156",
+   "date": "2026-09-21",
+   "agent": 20.2,
+   "market_price_t0": 25.9,
+   "edge": -0.056499999999999995,
+   "confidence": 0.5800000000000001,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.20, 0.21, 0.18, 0.21, 0.21). (0) Resolution check: no source shows the condition met — the bitcointreasuries.net read (updated Sep 18, 2026) and all four research reports find no S&P 500 constituent announcing a first-ever Bitcoin purchase since the window opened Nov 4, 2025; the only S&P names holding BTC (Tesla, Block, Coinbase) are pre-existing holders and do not qualify. (a) Roughly 3.3 months remain to the Dec 31, 2026 deadline (trading closes Nov 4, 2026). (b) Status quo is No: every prior tranche of this recurring series ('before May/July/October', 'by Nov 30, 2025') resolved No, and ~10.5 months of the current window have already elapsed with no hit, implying a low monthly hazard. (c) NO scenario: corporate treasury momentum stays confined to small/mid-cap 'treasury companies' (Strategy, Strive, miners), mega-caps keep rejecting BTC shareholder proposals, MSCI/Nasdaq governance friction and 5% yields keep S&P 500 boards risk-averse, and Strategy remains outside the index. (d) YES scenario: the BTC rally back above $80k plus a Q4 index rebalance brings in a smaller crypto-adjacent constituent or a surprise filing/8-K reveals an S&P member's holdings, which the rules count as a qualifying announcement even for older purchases; loose 'consensus of credible reporting' resolution also adds some tail. The Polymarket anchor is 25.8% (up ~8 pts in 30 days on the BTC rally); I shade modestly below it to 20% because the base rate over ~20 months of this series is zero hits, no named candidate is in the pipeline, and only ~100 days remain, while keeping meaningful weight for resolution ambiguity and disclosure surprises.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3295",
    "has_trace": true
   }
  ]

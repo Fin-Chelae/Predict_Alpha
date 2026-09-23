@@ -14752,7 +14752,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-23T08:34:17.720Z",
+  "last_sync": "2026-09-23T19:03:37.182Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -17228,6 +17228,70 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.23, 0.22, 0.23, 0.26, 0.24). (0) Nothing is resolved yet. Ballotpedia and NBC's tracker show only the Aug. 18 primaries: Donalds is the Republican nominee and Jolly the Democrat. The Nov. 3 general election has not happened, so no AP/Fox/NBC call exists. (a) About six weeks remain; early voting runs Oct 24-31 and election day is Nov 3. (b) Status quo is a Donalds win. Republicans have won every Florida governor race since 1998, lead registration by a record 1.55M, and hold roughly a 7-to-1 cash-on-hand edge (~$41M vs <$6M). The RCP average still has Donalds +3.7, and Cook, Inside Elections and Sabato rate the race Likely or Lean R. (c) NO: Florida polls again understate Republicans, as in 2018, 2020 and 2022. Donalds' money advantage dominates October ad spending, and Jolly's decision to drop out of debates removes his best free-media chance. (d) YES: national headwinds (Trump net approval around -20), Jolly's crossover strength (13% of Republicans, +12 among independents), and a visible Republicans-for-Jolly effort turn the St. Pete Polls tie into a narrow upset. The anchor is this market's 26.5%, up 7 points in a week, apparently on the tied poll. But the same question trades around 20-21.5% on Kalshi and in Polymarket's winner market, and Pollsmax gives Jolly about 18%. Florida's history of polls leaning Democratic also argues against the full rally. I shade below the anchor to about 23%.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3328",
+   "has_trace": true
+  }
+ ],
+ "Will Olivia Chow win the 2026 Toronto mayoral election?": [
+  {
+   "id": 3360,
+   "scanned_at": "2026-09-23T16:48:07.346191",
+   "date": "2026-09-23",
+   "agent": 84.8,
+   "market_price_t0": 88,
+   "edge": -0.03199999999999992,
+   "confidence": 0.6639999999999999,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.84, 0.83, 0.84, 0.87, 0.86). (0) Nothing is resolved yet. Toronto's official elections page lists only logistics, and the election is on October 26, 2026. (a) That leaves about 33 days, with advance voting October 6–11. (b) If nothing changes, Chow wins. She leads Bradford 47-40 in Liaison's Sept 19–20 poll and 46-38 in Mainstreet's among decided and leaning voters. She is also the incumbent, and Canadian municipal incumbents win roughly 90% of the time. Alexander at about 10% splits the anti-Chow vote. (c) NO: the lead keeps eroding (11 points to 7 in two weeks). Crime and affordability framing works for Bradford, as Mainstreet's split test suggests. Alexander's voters then consolidate tactically onto Bradford, and municipal polling error, which is often large, flips a mid-single-digit race. (d) YES: the vote split persists, labour backing (CUPE 79, the Labour Council, LiUNA 183) turns out her base, and her leads in North York and Scarborough hold. The Polymarket anchor is 88%, with the linked winner market at about 89%. Two independent pollsters showing a 7–8 point lead with a month to go justify a win probability in the low-to-mid 80s. Given the clear narrowing trend, the roughly 30% of all voters still movable per Mainstreet, and the historically wide error in municipal polling, I shade slightly below the market to 84%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3360",
+   "has_trace": true
+  }
+ ],
+ "Will the Democrats win the Georgia governor race in 2026?": [
+  {
+   "id": 3356,
+   "scanned_at": "2026-09-23T14:25:12.268867",
+   "date": "2026-09-23",
+   "agent": 60,
+   "market_price_t0": 63.5,
+   "edge": -0.03500000000000014,
+   "confidence": 0.568,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.61, 0.61, 0.60, 0.59, 0.59). (0) Nothing is resolved yet. Nominees are set: Keisha Lance Bottoms (D) vs. Rick Jackson (R). AP, Fox and NBC have made no call, and the election is November 3, with a possible December 1 runoff if no one clears 50%.\n(a) About six weeks remain before Election Day. Resolution could slip past trading close if the race goes to a runoff or certification.\n(b) Status quo is a toss-up leaning slightly Democratic.\n- Polymarket prices Yes at 63.5% (+7 over the past week). Kalshi shows about 60%.\n- 270toWin's composite has D+3.7, and Pollsmax's polling average has D+4.4.\n- Poll-based models are closer: Pollsmax gives Bottoms 56.6%, VotePredictor 53%.\n- The national environment favors Democrats: Marist has the generic ballot at D+12 and Trump's approval at 39%. Record Democratic primary turnout and the 2025 PSC wins point the same way.\n(c) NO: Jackson's roughly $200M self-funded operation (about $76M in ad reservations vs. $8M for Bottoms) and the GOP's 0-for-7 streak since 1998 carry him to victory. The Rasmussen Jackson +3 poll proves accurate, and late-deciding independents break Republican, possibly in a December runoff.\n(d) YES: The Democratic wave that has markets pricing Ossoff around 90% carries Bottoms over the line on high Democratic turnout and the gender gap.\nThe only fresh September poll is from an R-leaning pollster and still shows a race within the margin of error. Heavy spending, candidate-quality gaps and runoff risk argue for shading slightly below the market. I land near 61%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3356",
+   "has_trace": true
+  }
+ ],
+ "Bank of England increases interest rates by 25 bps after November 2026 meeting?": [
+  {
+   "id": 3353,
+   "scanned_at": "2026-09-23T12:03:40.432363",
+   "date": "2026-09-23",
+   "agent": 63,
+   "market_price_t0": 69.5,
+   "edge": -0.06499999999999995,
+   "confidence": 0.5700000000000001,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.63, 0.63, 0.62, 0.63, 0.64). (0) Not resolved. The Bank of England's own pages show Bank Rate held at 3.75% on 17 September by a 6–3 vote, and no November decision has been published. (a) About six weeks remain until the 5 November decision. Before then come the September CPI print (21 October), the Autumn Budget (28 October) and a new Monetary Policy Report. (b) The status quo is a seventh straight hold, which would resolve No. Holding is the default unless at least two of the six majority members switch. (c) NO path: core and services inflation stay tame (2.6% and 3.4%) and pay and the labour market keep cooling. Bailey keeps resisting the idea that hikes are inevitable, as he did in July and September. Budget proximity gives cover to wait, or an Iran de-escalation knocks oil down, as the April ceasefire did when it erased hike pricing within a day. Economist surveys also lean hold, with only about 1 in 8 expecting a November hike. (d) YES path: another upside CPI surprise, Brent still near $100, and the Bank's own forecast of inflation slightly above 4% in 2027 Q1. Add upside-skewed risks and a November forecast meeting, and two members join Mann, Greene and Pill. The Fed and ECB hiking on the same energy shock supports this. The anchor is the Polymarket price of 69.5%, consistent with OIS-implied odds of about 67% (BlueGamma, 22 September). Market pricing usually beats economist polls on short horizons. I shade slightly below the market because the Governor is openly resisting, underlying inflation data have not deteriorated, the Budget timing argues for caution, and pricing is fragile to any geopolitical de-escalation.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3353",
+   "has_trace": true
+  }
+ ],
+ "Will the Republicans win the Iowa governor race in 2026?": [
+  {
+   "id": 3349,
+   "scanned_at": "2026-09-23T09:40:08.666312",
+   "date": "2026-09-23",
+   "agent": 19.8,
+   "market_price_t0": 17.5,
+   "edge": 0.02300000000000002,
+   "confidence": 0.65,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.20, 0.20, 0.21, 0.19, 0.19). (0) Not resolved. The election is Nov 3, 2026, and no AP/Fox/NBC call exists. Lahn (R) and Sand (D) were certified as nominees on Sept 6. (a) About six weeks remain, with four October debates (Oct 6, 14, 21, 27) as the main scheduled catalysts. (b) If nothing changes, Sand wins. Every public poll since August shows him ahead: Emerson +3, Suffolk +4, YouGov +10, with averages of +4.8 to +6.3. Cook, Sabato, Inside Elections, DDHQ and Silver Bulletin all rate the race Lean/Tilt/Likely D; only RCP still calls it a tossup. One research claim that Ballotpedia shows Lean/Likely R is dated in the future and contradicts every other source, so I discount it as stale or erroneous. (c) NO: Sand holds his mid-single-digit lead in a midterm environment favoring Democrats (Polymarket prices Democratic Senate control at 65%) and wins the open seat against an upset, lower-profile GOP nominee. (d) YES: Iowa polls again underestimate Republican turnout, as in 2014, 2020 and 2024. The ~184k GOP registration edge, heavy RGA spending ($10–15M+), and late cultural and donor attacks close a ~5-point gap. Iowa's R+6 lean and documented polling misses make this a real tail. The market anchor is 17.5% and trending down. Given Iowa's history of polling error toward Republicans, I shade slightly above it to 20% rather than following the momentum lower.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3349",
    "has_trace": true
   }
  ]

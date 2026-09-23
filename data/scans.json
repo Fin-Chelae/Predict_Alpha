@@ -14752,7 +14752,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-22T18:54:23.723Z",
+  "last_sync": "2026-09-23T08:34:17.720Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -16005,6 +16005,20 @@
  ],
  "Will Iran target an Arab country by October 31, 2026?": [
   {
+   "id": 3332,
+   "scanned_at": "2026-09-22T21:37:42.948349",
+   "date": "2026-09-22",
+   "agent": 37,
+   "market_price_t0": 33.5,
+   "edge": 0.034999999999999976,
+   "confidence": 0.526,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.36, 0.37, 0.39, 0.36, 0.37). (0) No source shows a qualifying Iranian strike on an Arab country since the market opened on Sept 9. The last confirmed launch was 20 missiles at Muwaffaq Salti, Jordan, on the night of Sept 8-9, which likely falls before market creation. The GlobalSecurity tracker reports a 10-day ballistic pause and a 14-day drone pause through Sept 19. (a) About 39 days remain until Oct 31. (b) If nothing changes, the pause continues and the market resolves No. The Polymarket price has fallen from 85% to 33.5% over the past week, reflecting that pause. The research cites a 73% figure, but it conflicts with the direct price feed and looks stale, so I anchor on 33.5%. (c) NO: Iran keeps pursuing the Oman/Hormuz reopening plan and the UNGA-week proposal to end hostilities. It stays absorbed by domestic Kurdish unrest and economic collapse, and avoids alienating the Gulf states that have restrained Washington. Houthi activity continues but does not count. (d) YES: the US resumes strikes, in line with Vance's 'different phase' remarks and Iran's Sept 20 claim that the US is preparing operations with regional support. Iran then retaliates on US bases in Jordan, Iraq, Kuwait or Bahrain, as it has done every 2-4 weeks since February. Alternatively, Iran carries out a 'preemptive' strike under its stated doctrine. Against that, the Israel-Iran ceasefire-through-Oct-31 market sits at 86.5%, and diplomacy is active. Given that the war is unresolved and strikes have recurred often, I sit slightly above the market at around 36%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3332",
+   "has_trace": true
+  },
+  {
    "id": 2883,
    "scanned_at": "2026-09-13T14:38:18.547465",
    "date": "2026-09-13",
@@ -17134,6 +17148,86 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.22, 0.25, 0.23, 0.24, 0.23). (0) Not resolved: the CFR tracker (Sept 21) and JPost/SBS reporting (Sept 17-18) show only an unconfirmed Saudi proposal for a two-week ceasefire relayed via Oman, with no Houthi response and no official Saudi confirmation; fighting is intensifying (Riyadh strikes, Red Sea coast captures, Taiz battles). For YES, both Riyadh and the Houthi leadership would need to declaratively announce acceptance of the same dated, general suspension of hostilities by Oct 31 (11:59 PM ET). (a) About 40 days remain. (b) Status quo is NO: active war, Houthi maximalist demands (end of war, lifting blockade), Saudi still seeking missile-defense support and US strikes. (c) NO scenario: the Houthis, holding battlefield momentum after seizing Mokha/Perim/Hanish, reject or stall the two-week offer as 'nothing new' (mirroring March 2021), talks in Amman/Muscat drag on, and any de-escalation stays informal or partial — which the rules explicitly exclude. (d) YES scenario: Saudi pain from oil-infrastructure strikes plus US non-intervention pushes Riyadh to concede humanitarian terms, Oman brokers Houthi acceptance of the two-week truce with a specified start date, and both SPA and SABA/Al Masirah announce it — a truce with a dated mutual suspension would qualify even if framed as preliminary. The Polymarket anchor is 26.5% (drifting down from 31.5%); given the escalating trajectory, the historical base rate of Saudi offers stalling, the strict declarative/mutual/dated bar, and the fact that the only live path is a single unconfirmed proposal, I shade modestly below the market to 22%, keeping meaningful weight on the real Omani channel and strong Saudi incentive to stop the bleeding.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3314",
+   "has_trace": true
+  }
+ ],
+ "Will Russia announce a new forced mobilization by October 31, 2026?": [
+  {
+   "id": 3346,
+   "scanned_at": "2026-09-23T07:17:20.891584",
+   "date": "2026-09-23",
+   "agent": 12.6,
+   "market_price_t0": 13.5,
+   "edge": -0.009000000000000008,
+   "confidence": 0.618,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.12, 0.12, 0.11, 0.14, 0.14). (0) Resolution check: nothing has resolved yet. The Kremlin acts feed (as of Sept 21) and all reporting through Sept 23 show no decree, new wave, category expansion or mandated call-up number. Even a mainstream Russian outlet states plainly that no October mobilization has been officially announced. (a) About 38 days remain until October 31, 2026, 11:59 PM ET. (b) If nothing changes, the answer is No. The Kremlin has kept up a disciplined denial campaign, roughly 18 statements since June, including Putin twice in September and Nebenzya at the UN. It has also leaned on contract recruitment, reservist summonses under training-assembly rules and regional pressure, all of which the rules explicitly exclude. (c) NO scenario: the post-election window passes with fragmented, deniable measures. These would include quiet reservist pressure, higher bonuses and regional quotas, or possibly a secret order that is never published. Kremlin-linked sources told Kyiv Independent and Meduza this is the preferred path, and without a formal act or announcement it does not qualify. Peace-talk momentum around UNGA also weakens the case for a visible escalation. (d) YES scenario: in early October, as Kremlin-adjacent sources (Vyorstka, iStories, Bloomberg) said was under consideration, Putin issues an order under the still-active 2022 decree mandating additional call-ups, perhaps around 300k. The drivers would be a roughly 10% year-on-year fall in contract signings and heavy losses. The 2022 pattern of denial right up to the decree makes this non-trivial. I anchor on the 13.5% market price, which is consistent with the ladder of 3.3% by Sept 30 and 26.5% by Dec 31. I shade slightly lower for three reasons: sources consistently report no decision, the expressed preference is for non-qualifying half-measures, there is no Kharkiv-style battlefield shock, and a secret order may never surface as a qualifying announcement.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3346",
+   "has_trace": true
+  }
+ ],
+ "Will the next Claude Opus model debut with a Humanity’s Last Exam score of 55% or higher?": [
+  {
+   "id": 3342,
+   "scanned_at": "2026-09-23T04:54:43.070586",
+   "date": "2026-09-23",
+   "agent": 57.2,
+   "market_price_t0": 50,
+   "edge": 0.07199999999999995,
+   "confidence": 0.48,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.57, 0.53, 0.57, 0.57, 0.62). (0) Not resolved: the fetched agi.safe.ai page showed no Opus result card, so there is no confirmation Opus 5.5 (released 2026-09-22) has been added; it must be added and display HLE Accuracy of at least 55% at noon ET the following day. (a) About 14 weeks remain to the 2026-12-31 deadline, ample time to add a flagship model; roughly 8-10% risk of it never being added or an operational failure. (b) Status quo: Opus 5.5 is the qualifying next Opus. The key question is which configuration the site displays: Anthropic's 67.7% with tools, Artificial Analysis's independent 61.4% at max effort, or an unverified single-source claim of 64.4% without tools. (c) NO: the site posts its own no-tools text-only evaluation, as the Opus 4.8 precedent suggests (49.8% no-tools, not 57.9% with-tools, governed settlement). Opus 5 sat at 54.9% on no-tools-style trackers, so a modest gain could leave Opus 5.5 at 52-54%. (d) YES: applying Opus 5.5's vendor gain over Opus 5 (63.6 to 67.7, about +4) to 54.9% gives roughly 59%, and the independent 61.4% also points above 55%. The market sits at 50%, rebounding from a 12.5% low on thin volume, and the 60%+ leg at 3-5% implies an expected displayed score of 50-60%, consistent with my estimate near 55-59%. I lean slightly above the market on the extrapolation, while the Opus 4.8 precedent and unknown site convention keep this near a coin flip.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3342",
+   "has_trace": true
+  }
+ ],
+ "José Luis Rodríguez Zapatero sentenced to prison?": [
+  {
+   "id": 3339,
+   "scanned_at": "2026-09-23T02:30:03.114536",
+   "date": "2026-09-23",
+   "agent": 2.7,
+   "market_price_t0": 7.1,
+   "edge": -0.044,
+   "confidence": 0.8140000000000001,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.03, 0.03, 0.03, 0.03, 0.03). (0) The condition has not been met. Zapatero has been 'investigado' since 19 May 2026 in the Audiencia Nacional Plus Ultra case, with smuggling and tax-fraud lines added over the jewelry. No auto de procesamiento, no opening of oral trial, no prosecution sentencing request and no trial date has been reported. (a) About 3 months remain before the 31 December 2026 deadline. (b) Status quo is No: the instruction phase is still gathering evidence. A new gemological appraisal was ordered on 21 September with no deadline, witnesses are cited for 19 November, and his daughters for 30 November. Art. 324 LECrim allows complex instructions to run 18+ months. Even an outside analyst puts any trial in 2027-2028. (c) No scenario: instruction continues through year-end amid appraisal disputes and defense motions, with no trial held. This is overwhelmingly likely. (d) Yes scenario: a sudden plea deal (conformidad) with prison time, or an extraordinarily accelerated trial. Neither has any sign of happening, and he loses no fast-track advantage here, since he is not aforado. The Ábalos precedent took about 28 months. The main residual Yes risk is resolution ambiguity. The prosecution is reconsidering precautionary measures after the €530k payment testimony, and a provisional imprisonment order might be loosely reported as 'jailed', although pretrial detention is not a sentence. The market's 7.1% likely prices that plus noise from the recent spike. I shade below it to about 3%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3339",
+   "has_trace": true
+  }
+ ],
+ "Will Russia capture Dobropillia by December 31, 2026?": [
+  {
+   "id": 3335,
+   "scanned_at": "2026-09-23T00:05:19.319602",
+   "date": "2026-09-23",
+   "agent": 18,
+   "market_price_t0": 21.5,
+   "edge": -0.035,
+   "confidence": 0.615,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.18, 0.16, 0.19, 0.19). (0) No source shows the condition met; the resolution-source fetch could not render the ISW map, and ISW-sourced reporting from Sept 21-22 says Russia is limited to small-group infiltration in the southwest, which the rules exclude. YES needs red shading at the likely-central intersection, persisting through a full ISW update cycle. (a) About 14 weeks remain, to Dec 31, 2026. (b) Status quo is NO: ISW reports 32 attacks a day with only insignificant results, Hannivka reportedly recaptured, and Operation Vivaldi disrupting the fortress-belt envelopment. (c) NO: the fall mechanized push stalls in mud season and under drone attrition, repeating the 2025 offensive that ended status quo ante; Azov's Prokopenko expects only one settlement to fall, and summer gains were about four times smaller than in 2025. (d) YES: concentrated Rubicon drone crews and a claimed 6:1 ratio, plus foot-only Ukrainian logistics, let Russian groups consolidate from the city's edges until ISW abruptly assesses control, as with Pokrovsk. The Sept 22 MoD encirclement claims are aggregator-only and contradicted by ISW, so I discount them. The 21.5% anchor is broadly consistent with the October market (5.5%) and comparable December markets; I shade slightly lower given no acceleration in the freshest ISW reporting.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3335",
+   "has_trace": true
+  }
+ ],
+ "Will the Democrats win the Florida governor race in 2026?": [
+  {
+   "id": 3328,
+   "scanned_at": "2026-09-22T19:13:54.636280",
+   "date": "2026-09-22",
+   "agent": 23.6,
+   "market_price_t0": 26.5,
+   "edge": -0.02899999999999997,
+   "confidence": 0.6399999999999999,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.23, 0.22, 0.23, 0.26, 0.24). (0) Nothing is resolved yet. Ballotpedia and NBC's tracker show only the Aug. 18 primaries: Donalds is the Republican nominee and Jolly the Democrat. The Nov. 3 general election has not happened, so no AP/Fox/NBC call exists. (a) About six weeks remain; early voting runs Oct 24-31 and election day is Nov 3. (b) Status quo is a Donalds win. Republicans have won every Florida governor race since 1998, lead registration by a record 1.55M, and hold roughly a 7-to-1 cash-on-hand edge (~$41M vs <$6M). The RCP average still has Donalds +3.7, and Cook, Inside Elections and Sabato rate the race Likely or Lean R. (c) NO: Florida polls again understate Republicans, as in 2018, 2020 and 2022. Donalds' money advantage dominates October ad spending, and Jolly's decision to drop out of debates removes his best free-media chance. (d) YES: national headwinds (Trump net approval around -20), Jolly's crossover strength (13% of Republicans, +12 among independents), and a visible Republicans-for-Jolly effort turn the St. Pete Polls tie into a narrow upset. The anchor is this market's 26.5%, up 7 points in a week, apparently on the tied poll. But the same question trades around 20-21.5% on Kalshi and in Polymarket's winner market, and Pollsmax gives Jolly about 18%. Florida's history of polls leaning Democratic also argues against the full rally. I shade below the anchor to about 23%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3328",
    "has_trace": true
   }
  ]

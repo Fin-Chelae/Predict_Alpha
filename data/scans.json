@@ -14752,7 +14752,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-23T19:03:37.182Z",
+  "last_sync": "2026-09-24T08:27:05.517Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -17292,6 +17292,102 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.20, 0.20, 0.21, 0.19, 0.19). (0) Not resolved. The election is Nov 3, 2026, and no AP/Fox/NBC call exists. Lahn (R) and Sand (D) were certified as nominees on Sept 6. (a) About six weeks remain, with four October debates (Oct 6, 14, 21, 27) as the main scheduled catalysts. (b) If nothing changes, Sand wins. Every public poll since August shows him ahead: Emerson +3, Suffolk +4, YouGov +10, with averages of +4.8 to +6.3. Cook, Sabato, Inside Elections, DDHQ and Silver Bulletin all rate the race Lean/Tilt/Likely D; only RCP still calls it a tossup. One research claim that Ballotpedia shows Lean/Likely R is dated in the future and contradicts every other source, so I discount it as stale or erroneous. (c) NO: Sand holds his mid-single-digit lead in a midterm environment favoring Democrats (Polymarket prices Democratic Senate control at 65%) and wins the open seat against an upset, lower-profile GOP nominee. (d) YES: Iowa polls again underestimate Republican turnout, as in 2014, 2020 and 2024. The ~184k GOP registration edge, heavy RGA spending ($10–15M+), and late cultural and donor attacks close a ~5-point gap. Iowa's R+6 lean and documented polling misses make this a real tail. The market anchor is 17.5% and trending down. Given Iowa's history of polling error toward Republicans, I shade slightly above it to 20% rather than following the momentum lower.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3349",
+   "has_trace": true
+  }
+ ],
+ "Will the Climate Clock's 1.5°C deadline change by December 31, 2026?": [
+  {
+   "id": 3381,
+   "scanned_at": "2026-09-24T07:15:36.643433",
+   "date": "2026-09-24",
+   "agent": 9.6,
+   "market_price_t0": 9,
+   "edge": 0.006000000000000005,
+   "confidence": 0.65,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.10, 0.10, 0.09, 0.09, 0.10). (0) Resolution check: the condition is not met. The current-state report's 2026-09-24 check of api.climateclock.world/v2/clock.json shows the carbon-deadline timestamp still at 2029-07-22T16:00:00+00:00, the market's baseline. The resolution-source tool, by contrast, got a DNS failure on the API and saw a 'Coming Soon' placeholder on the main site. That conflict suggests maintenance or a redesign, which cuts both ways: a relaunch could bring a re-based deadline, while permanent unavailability resolves No. (a) About 3 months remain, until Dec 31, 2026, 11:59 PM ET. (b) Status quo is No. Past discrete resets (2018, 2021) were tied to IPCC assessments, the AR7 timeline is stalled, and quarterly ticking has not moved the date for months. (c) No scenario: the clock keeps its AR6/MCC-anchored basis through COP31 and the November Global Carbon Budget release, so the deadline stays within 30 days of July 22, 2029. (d) Yes scenario: operators re-base the clock around COP31 (Nov 9–20) using fresh budget numbers, possibly as part of a site relaunch. The IGCC figure of 130 Gt from 2026 would put the deadline around early 2029, several months earlier. GCB's 170 Gt would put it around early 2030. Either shift clears the 30-day bar, and there is a 2021 precedent of a COP-timed shift. No announcement of such a plan was found, so I stay close to the 9% market anchor and nudge up slightly for the site-construction signal.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3381",
+   "has_trace": true
+  }
+ ],
+ "Will the Rhine River return to normal levels between October 1 and October 31, 2026?": [
+  {
+   "id": 3377,
+   "scanned_at": "2026-09-24T04:52:33.342325",
+   "date": "2026-09-24",
+   "agent": 28,
+   "market_price_t0": 33.5,
+   "edge": -0.05500000000000005,
+   "confidence": 0.616,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.28, 0.25, 0.27, 0.30, 0.30). (0) Not resolved. PegelOnline shows Kaub at 8 cm on 24 Sep, 69 cm short of the 77 cm GlW. The BfG short-term bulletin projects about 6 cm by 27 Sep, and its 14-day probabilistic product gives a 100% chance of staying below 77 cm every day through 5 Oct. For YES, a single reading of at least 77 cm must occur between roughly 6 Oct and 31 Oct.\n\n(a) About 37 days remain until the deadline, but only about 26 of them (6–31 Oct) have a realistic chance of a crossing.\n\n(b) Status quo is NO. The river sits near record lows, Alpine headwater rain is running 21% below normal, and the 16-day forecast is 42% below normal.\n\n(c) NO: the dry 'Altweibersommer' pattern persists through mid-October, as outlooks suggest, and rain arrives only near month-end. A deeply depleted catchment then absorbs it, much as in 2018, when recovery waited until December. The BfG 6-week median path reaches only about 68 cm by 15–21 Oct, and actual readings have undershot even that median.\n\n(d) YES: an Atlantic westerly regime sets in by mid-to-late October and delivers heavy Alpine and southern-German rain. That sends a pulse down the Upper Rhine and gives one transient reading of at least 77 cm. A roughly 50 cm pulse already happened in July, and the BfG 75th-percentile path exceeds 77 cm by 8–21 Oct.\n\nThe market sits at 34.5% and has fallen 19 points in a week. The related 'fail to return before Nov 1' market implies about 40%. I shade slightly below the market because actual levels are running well under the BfG recovery median and near-term precipitation outlooks are dry.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3377",
+   "has_trace": true
+  }
+ ],
+ "Will Hezbollah disarm by December 31?": [
+  {
+   "id": 3374,
+   "scanned_at": "2026-09-24T02:30:40.992099",
+   "date": "2026-09-24",
+   "agent": 5.8,
+   "market_price_t0": 8,
+   "edge": -0.021999999999999992,
+   "confidence": 0.776,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.05, 0.05, 0.05, 0.07, 0.07). (0) Nothing shows the condition met. The resolution-source read and the reporting through mid-September 2026 show Qassem repeatedly rejecting disarmament: April 27, May 25 (\"disarmament is extermination\"), June, August, and Hezbollah's early-September statement that it is not bound by negotiated outcomes. A YES would require a formal Qassem-endorsed announcement committing to at least partial disarmament within an acknowledged process. (a) About 3 months remain until December 31, 2026. (b) Status quo is NO: Hezbollah refuses, LAF pilot-zone seizures proceed unilaterally or in coordination, and none of that counts as a Hezbollah policy announcement. (c) NO scenario: the Rome talks slip (already pushed to October), Hezbollah keeps dispersing weapons, relations with the army and presidency stay ruptured, and Qassem keeps saying no through year-end. (d) YES scenario: financial strangulation plus Iranian retrenchment push Hezbollah to bless a staged, face-saving handover (for example south of the Litani or heavy weapons) tied to Israeli withdrawal under the Trilateral Framework before the US year-end deadline. Even then, a conditional statement might not qualify under the rules excluding plans contingent on future conditions. The market sits at 8% with a declining 7-day trend. The research surfaces no softening, only hardening signals (weapons dispersal, talks postponed), so I shade slightly below market to about 5%, keeping some tail for a sudden deal and for lenient resolution on the 'wide consensus of reporting' clause.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3374",
+   "has_trace": true
+  }
+ ],
+ "Will the Trump and Xi handshake last 10–15 seconds during their summit?": [
+  {
+   "id": 3370,
+   "scanned_at": "2026-09-24T00:08:49.179077",
+   "date": "2026-09-24",
+   "agent": 23.2,
+   "market_price_t0": 24,
+   "edge": -0.007999999999999952,
+   "confidence": 0.4640000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.23, 0.23, 0.22, 0.23, 0.25). (0) No source yet shows a measured duration for any handshake at this summit. Xi arrived at Joint Base Andrews on Sept 23, and the Sept 24 State Arrival Ceremony was imminent or underway at research time, so the question is not resolved. (a) The summit runs through Xi's departure around Sept 25, with the market deadline Oct 7; the \"longest filmed handshake\" can still come from the arrival ceremony, the state dinner or Friday's events. (b) The market anchor is 24%, down from about 46% a week ago. The sibling brackets have shifted sharply toward shorter durations: 2–6s at 28%, 6–10s at 31.5%, 15s+ at 20.5%. On Sept 23 the multi-outcome board showed 15s+ at 43% and 10–15s at 34%. That shift suggests traders saw footage, probably of the Andrews greeting, showing a shorter or more restrained handshake than the Busan (~27–30s) and Beijing (~12–14s) precedents. (c) NO: Xi keeps resisting Trump's grip-and-pull, so every handshake lands under 10s; or Trump reverts to a 15s+ marathon at the South Lawn ceremony, where the boundary rule also pushes exactly 15.0s into 15s+. (d) YES: one ceremonial clasp at the White House arrival, Rose Garden or dinner runs 10–14.9 seconds, as Beijing reportedly did. Because traders appear to have live information I lack, I stay close to the market, shading slightly down given the drift toward shorter brackets.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3370",
+   "has_trace": true
+  }
+ ],
+ "Will Benjamin Netanyahu be the next leader out before 2027?": [
+  {
+   "id": 3367,
+   "scanned_at": "2026-09-23T21:41:48.437517",
+   "date": "2026-09-23",
+   "agent": 33.8,
+   "market_price_t0": 35.5,
+   "edge": -0.017000000000000015,
+   "confidence": 0.556,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.33, 0.35, 0.33, 0.34, 0.34). (0) Not resolved: sources confirm Netanyahu remains PM and is campaigning for the Oct 27, 2026 election, with no resignation, verdict, incapacitation or plea deal. (a) About 14 weeks remain until Dec 31; results are confirmed Nov 4, then the President tasks a candidate with 28 days plus a possible 14-day extension. (b) Status quo is NO: he stays in office, and caretaker status explicitly does not count. (c) NO: his bloc wins or he stays first in a rotation deal, or coalition talks run long (2022 took 58 days, landing about Dec 24 from this election; 2021 took about 82 days), or another listed leader leaves first. (d) YES: an Eisenkot-led bloc or a Herzog-brokered unity deal forms quickly and is sworn in by mid-to-late December. 'Next PM' markets give Netanyahu about 30% to remain; combined with my ~55% chance of a swearing-in before year-end if he loses, that implies roughly 38-40% that he is out by Dec 31, below the standalone market's ~48-51%. Discounting for other listed leaders exiting first explains part of the gap to this market's 35.5% anchor, and I land slightly below it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3367",
+   "has_trace": true
+  }
+ ],
+ "Will Ulrich Siegmund be the next Minister-President of Sachsen-Anhalt?": [
+  {
+   "id": 3363,
+   "scanned_at": "2026-09-23T19:17:18.250928",
+   "date": "2026-09-23",
+   "agent": 33,
+   "market_price_t0": 41.5,
+   "edge": -0.08499999999999996,
+   "confidence": 0.552,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.35, 0.33, 0.32, 0.31, 0.34). (0) Not resolved: the Landtag site (updated 18 Sept) shows only the 6 Sept election and the 6 Oct constitutive session; no Minister-President vote is scheduled and Schulze remains caretaker. (a) About eight months remain until the 31 May 2027 deadline, enough for all three voting rounds but also for a prolonged deadlock ('Other'). (b) Status quo is stalemate: AfD holds 39 of 83 seats and needs 42 in rounds one and two. CDU/SPD/Greens/Left (39 seats) refuse cooperation, and all 15 CDU deputies deny they will defect. (c) NO: SPD and Greens accept BSW's non-partisan Minister-President idea and the CDU tolerates it, electing that candidate with 44 votes (like Saxony 2024). Or deadlock persists, or Siegmund declines a BSW-abstention third-round win, which he told Welt TV he would 'of course not' accept; base rate of AfD Minister-Presidents is 0. (d) YES: the AfD–BSW Landtag-presidency deal grows into BSW support or a coalition (44 seats). Or BSW abstains in round three, as Mohamed Ali said on 22 Sept, and Siegmund wins a relative majority or drops his 'stable majority' condition; the tied-third-round rule is unclear in the sources. Market anchor is 41.5% (down 4 points this week), consistent with the ~43% related market on AfD entering government. I shade below it given Siegmund's refusal of a minority mandate, BSW's conditions on abstaining, and the growing non-partisan alternative, while BSW's confirmed procedural cooperation keeps YES very live.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3363",
    "has_trace": true
   }
  ]

@@ -13225,6 +13225,20 @@
  ],
  "Will Ukraine re-enter Huliaipole by October 31, 2026?": [
   {
+   "id": 3391,
+   "scanned_at": "2026-09-24T14:23:49.414066",
+   "date": "2026-09-24",
+   "agent": 8.2,
+   "market_price_t0": 8,
+   "edge": 0.001999999999999974,
+   "confidence": 0.604,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.08, 0.07, 0.09, 0.09). (0) No source shows the condition met. ISW confirmed the Russian capture of Huliaipole on 6 Feb 2026, and DeepState reported the city lost again in late June 2026. The late-September reporting (DeepState on 23 Sep saying the area is 'being stabilized', Army Group South on 17 Sep, ACLED noting Russian gains in early September) describes Ukrainian defense and logistics interdiction, not any foothold in the town. The resolution-source fetch returned no map data, so this rests on secondary reporting. (a) About 37 days remain until 31 Oct 2026. (b) Status quo: Huliaipole stays Russian-held with no qualifying ISW shading, which resolves NO. (c) NO: fighting stays on the approaches (Hirkove, Kosivtsove, Charivne) and Ukraine keeps holding and striking logistics such as the Polohy bridges, while Russia presses Orikhiv and Dobropillya. (d) YES: the Da Vinci and 33rd Assault Regiments, reinforced by the 7th Air Assault Corps, turn their claimed 'counteroffensive actions' into a push onto the town's edge. ISW would then shade even a sliver of the municipality as 'Claimed Ukrainian Counteroffensives', repeating the quick February–March 2026 precedent. The low bar (any claimed counteroffensive shading persisting one cycle) and the halved Russian assault tempo keep this from being negligible. Still, I anchor on the Polymarket price of 8%, a level consistent with the 14.5% December sibling contract, and hold slightly below it given no evidence of Ukrainian entry into the town.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3391",
+   "has_trace": true
+  },
+  {
    "id": 1469,
    "scanned_at": "2026-08-18T12:57:14.331807",
    "date": "2026-08-18",
@@ -14752,7 +14766,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-24T08:27:05.517Z",
+  "last_sync": "2026-09-24T19:09:42.144Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -17388,6 +17402,54 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.35, 0.33, 0.32, 0.31, 0.34). (0) Not resolved: the Landtag site (updated 18 Sept) shows only the 6 Sept election and the 6 Oct constitutive session; no Minister-President vote is scheduled and Schulze remains caretaker. (a) About eight months remain until the 31 May 2027 deadline, enough for all three voting rounds but also for a prolonged deadlock ('Other'). (b) Status quo is stalemate: AfD holds 39 of 83 seats and needs 42 in rounds one and two. CDU/SPD/Greens/Left (39 seats) refuse cooperation, and all 15 CDU deputies deny they will defect. (c) NO: SPD and Greens accept BSW's non-partisan Minister-President idea and the CDU tolerates it, electing that candidate with 44 votes (like Saxony 2024). Or deadlock persists, or Siegmund declines a BSW-abstention third-round win, which he told Welt TV he would 'of course not' accept; base rate of AfD Minister-Presidents is 0. (d) YES: the AfD–BSW Landtag-presidency deal grows into BSW support or a coalition (44 seats). Or BSW abstains in round three, as Mohamed Ali said on 22 Sept, and Siegmund wins a relative majority or drops his 'stable majority' condition; the tied-third-round rule is unclear in the sources. Market anchor is 41.5% (down 4 points this week), consistent with the ~43% related market on AfD entering government. I shade below it given Siegmund's refusal of a minority mandate, BSW's conditions on abstaining, and the growing non-partisan alternative, while BSW's confirmed procedural cooperation keeps YES very live.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3363",
+   "has_trace": true
+  }
+ ],
+ "Will the next Google Gemini Pro model added to the Arena Leaderboard debut at a score of at least 1490?": [
+  {
+   "id": 3395,
+   "scanned_at": "2026-09-24T16:47:39.453738",
+   "date": "2026-09-24",
+   "agent": 87.4,
+   "market_price_t0": 91.5,
+   "edge": -0.04149999999999998,
+   "confidence": 0.6140000000000001,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.86, 0.85, 0.86, 0.89, 0.91). (0) Not yet resolved. The Sep 13 snapshot of the resolution source shows gemini-3.1-pro-preview (1487) and gemini-3-pro (1485) as the latest Pro entries. No newer Pro-labeled Gemini has appeared; the recent Gemini additions are 3.7 and 3.8 Flash, which don't qualify. (a) There are about 14 weeks until the Dec 31, 2026 deadline. A Pro-labeled Gemini must be added to the Arena text leaderboard and read at least 1490 at noon ET the next day. (b) If nothing changes, no qualifying model appears and the market resolves No. That makes release timing the first hurdle. Gemini 3.5 Pro was reportedly scrapped, and 'Gemini 4 Pro' is unconfirmed by Google. Sibling Polymarket markets put release at 47% by Oct 15 and 76.5% by Oct 31, which implies roughly 90-93% by year-end. (c) NO scenario: Gemini 4 slips toward late December or 2027, ships without a 'Pro' label, or keeps testing under stealth or Flash names. Alternatively it debuts mid-pack in the high 1480s, since the top of the board is crowded around 1495-1506. (d) YES scenario: the rumored 'Argon' checkpoint launches as Gemini 4 Pro around mid-October to November. Gemini 3.8 Flash already scores 1493, and past Pro debuts landed around 1500 (3 Pro at 1501, 3.1 Pro near 1500), so a new flagship very likely clears 1490. My estimate is about 0.92 for a timely, correctly labeled debut times about 0.93 for clearing 1490 given a debut, or roughly 0.85-0.87. That sits slightly below the 91.55% market anchor because the market seems to underprice the timing and labeling tail risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3395",
+   "has_trace": true
+  }
+ ],
+ "Will the Republicans win the New Hampshire Senate race in 2026?": [
+  {
+   "id": 3388,
+   "scanned_at": "2026-09-24T12:01:07.650060",
+   "date": "2026-09-24",
+   "agent": 17.2,
+   "market_price_t0": 16,
+   "edge": 0.01200000000000001,
+   "confidence": 0.6759999999999999,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.16, 0.18, 0.17, 0.17, 0.18). (0) Not resolved. Ballotpedia and Wikipedia confirm only the Sept 8 primaries: Pappas (D) and Sununu (R) are the nominees, and there are no general-election results or AP/Fox/NBC calls. (a) About six weeks remain until the Nov 3 election, plus any time needed for all three outlets to call the race or for certification. (b) Status quo: Pappas leads the 270toWin average 46.3–43.0, with individual polls running from a tie (co/efficient, R-aligned) to Pappas +11 (Rasmussen). Cook and Sabato rate the race Lean D, DDHQ gives Republicans about 22%, and Polymarket prices a Republican win at 16%. (c) NO scenario: the national environment holds or worsens for the GOP (generic ballot about D+8 per Silver, Emerson D+11, Trump at 32% approval in NH per UNH), and Pappas wins by mid-single digits. That would extend the Democrats' 16-year streak in NH Senate races in a Harris +3 state. (d) YES scenario: Sununu's personal brand, a roughly $11M ad-spending edge and the state's Republican registration advantage pull him to a narrow win. Occasional tied polls (Emerson in March, co/efficient in Sept, UNH August Sununu +2) show this is plausible. The research surfaced no unpriced information that justifies moving off the 16% anchor: the worsening national environment is offset by close state polling and GOP money. I stay near the market, slightly below DDHQ's 22%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3388",
+   "has_trace": true
+  }
+ ],
+ "Will stablecoins hit $500B before 2027?": [
+  {
+   "id": 3384,
+   "scanned_at": "2026-09-24T09:38:01.313408",
+   "date": "2026-09-24",
+   "agent": 3.7,
+   "market_price_t0": 7.6,
+   "edge": -0.039,
+   "confidence": 0.8699999999999999,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.03, 0.03, 0.03, 0.04, 0.06). (0) The condition has not been met and is close to impossible on fundamentals. A read of DefiLlama dated 2026-09-24, reported in the research, shows total stablecoins at about $306B. The 2026 all-time high was about $321-322B in April-May, and several secondary trackers (~$303-312B in September) are consistent with that. (a) Only about 98 days remain until December 31, 2026. (b) If nothing changes, the market cap stays in the $300-320B band it has held all year, and the market resolves No. (c) The NO case is simply the status quo. Growth is stalled (+0.95% over 30 days), Q2 2026 saw the first quarterly contraction since 2023, the GENIUS Act yield ban is pushing capital into tokenized Treasuries, and Treasury's rulemaking comment period runs to October 19, so no new-issuer supply shock is plausible this year. (d) YES would need roughly $194B (+63%) of net issuance in one quarter, far beyond the best-ever full-year growth of about 47-49%. The only realistic path is a data artifact, such as a mispriced or double-counted token spiking the DefiLlama chart for a day that then gets finalized. On the anchor: polymarket_direct shows 18% with an odd +12% 7-day jump, while the research read of the live Polymarket page shows 4%. The 18% figure looks stale or like a thin-book anomaly and cannot be reconciled with a $306B reading this late in the year, so I price well below it. I keep about 3% for data-glitch or resolution-quirk risk and for the chance my reading of the current level is wrong.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3384",
    "has_trace": true
   }
  ]

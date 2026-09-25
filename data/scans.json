@@ -14766,7 +14766,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-25T08:48:54.084Z",
+  "last_sync": "2026-09-25T19:14:51.932Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -16383,6 +16383,20 @@
  ],
  "Will the ECB announce no change at the October 2026 meeting?": [
   {
+   "id": 3426,
+   "scanned_at": "2026-09-25T14:22:38.685461",
+   "date": "2026-09-25",
+   "agent": 66.4,
+   "market_price_t0": 70,
+   "edge": -0.03599999999999992,
+   "confidence": 0.5660000000000001,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.67, 0.64, 0.66, 0.67, 0.68). (0) Not resolved. FRED shows the deposit rate at 2.50% since the 10 September hike took effect, and no October statement exists yet; the ECB decides on 29 October. (a) About five weeks remain, and the 2 October September flash HICP and oil prices are the main swing inputs. (b) Status quo favours a hold. The 2026 tightening has moved at staff-projection meetings (June, September) and paused in between (July). The next projections come in December, where Polymarket prices a 65.5% chance of a 25bp hike, consistent with a pause in October. (c) NO scenario: the September flash HICP comes in hot, energy re-spikes on the Iran/Ukraine front, and strong PMIs (best since April 2023) push a 'solid majority' to hike to 2.75%. (d) YES scenario: oil stays below $100 on US-Iran talks, second-round effects stay absent, and voters like Stournaras ('can pause and wait for next forecasts'), Kocher and Makhlouf keep October a hold, repeating the July pattern of hawkish talk followed by a unanimous hold. The Polymarket anchor is 70% after a 17-point jump this week. Futures trackers (Central Bank Watch about 50/50, ECB Watch about 42% hold) are more hawkish, so I shade slightly below market to about 67%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3426",
+   "has_trace": true
+  },
+  {
    "id": 2979,
    "scanned_at": "2026-09-15T15:20:38.151574",
    "date": "2026-09-15",
@@ -16638,6 +16652,20 @@
   }
  ],
  "Will there be no change in Fed interest rates after the October 2026 meeting?": [
+  {
+   "id": 3430,
+   "scanned_at": "2026-09-25T16:46:01.410039",
+   "date": "2026-09-25",
+   "agent": 33.2,
+   "market_price_t0": 37.5,
+   "edge": -0.04300000000000004,
+   "confidence": 0.616,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.33, 0.32, 0.31, 0.36, 0.34). (0) The condition has not been met yet. FRED DFEDTARU shows the upper bound at 4.00% since the September 16 hike, and the October 27-28 statement has not been issued. (a) The meeting is about 33 days away, with September core PCE, jobs data and the October 14 CPI still to come. (b) Status quo means the range stays at 3.75-4.00%, which resolves Yes. But the Committee just hiked 12-0, 16 of 18 dots show at least one more 2026 hike, and Schmid and Williams sounded hawkish afterward. So 'nothing changes' is not the natural default here. (c) NO: the data stay hot (the dollar rallied and bonds sold off on firm data around September 24), and the Fed hikes 25bp in October, as CME FedWatch implies at about 73-76% (Sep 24-25 aggregators) and Kalshi at about 63%. (d) YES: a cool September CPI or a soft payrolls print lets the Fed 'skip' to assess the first hike, as Citigroup forecasts. Money markets pricing only about 37bp across October and December fit that path, and the Fed already held in June and July against hawkish pricing. The Polymarket anchor is 37.5% and falling (down 34 points over 30 days). The independent crowds put a hold lower: futures about 24-32%, Kalshi about 34-35%. One Sep 23 source shows a 54/46 split, which conflicts with the rest and looks stale. I shade slightly below the market toward the futures consensus, while keeping room for data-driven reversals, which have happened repeatedly this cycle.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3430",
+   "has_trace": true
+  },
   {
    "id": 3035,
    "scanned_at": "2026-09-16T19:26:17.243481",
@@ -17546,6 +17574,54 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.86, 0.85, 0.87, 0.89, 0.88). (0) Not resolved. The regeringen.se resolution source still lists Kristersson, who has been caretaker since his 17 Sept resignation. No Riksdag vote on Andersson has happened. The earliest possible vote is 29 Sept, after the new Riksdag convenes on 28 Sept. (a) The deadline is 30 June 2027, about nine months away. Even the 2018 outlier of 134 days would fit comfortably, so timing is not the risk. (b) Status quo: Andersson is the Speaker's appointed sonderingsperson and her bloc holds 176 of 349 seats. Under negative parliamentarism she only needs fewer than 175 'no' votes. The default path is her confirmation, likely as an S or S-MP minority government tolerated by C and/or V. (c) NO scenario: the Centre–Left red lines stay irreconcilable. Left demands ministries and Centre refuses to sit with Left ministers. Either party is pivotal and could join the 173 Tidö votes to block her. The Speaker vote could slip, Kristersson gets a second turn, and C tolerates a centre-right government or a Thand Ringqvist compromise emerges. (d) YES scenario: V backs down to abstaining rather than risk returning an SD-backed Kristersson, as in 2021 when Andersson passed with only 101 'yes' votes. C tolerates an S-MP government, and Andersson is confirmed in October or November. I anchor on the 87.5% Polymarket price, down 5 points this week on the deadlock news. The research adds no decisive new information beyond that friction; the claim that she 'failed' in 2021 is a garbled source. So I stay slightly below the market to reflect the real veto power both C and V hold.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3398",
+   "has_trace": true
+  }
+ ],
+ "Will the Republicans win the Vermont governor race in 2026?": [
+  {
+   "id": 3433,
+   "scanned_at": "2026-09-25T19:12:23.717381",
+   "date": "2026-09-25",
+   "agent": 81,
+   "market_price_t0": 84,
+   "edge": -0.030000000000000027,
+   "confidence": 0.592,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.80, 0.79, 0.80, 0.84, 0.82). (0) Not resolved. Ballotpedia shows Phil Scott (R) and Amanda Janoo (D) as nominees for the Nov 3 general election, with no results yet; the AP, Fox and NBC calls will come after election day. (a) About 5.5 weeks remain, and mail ballots began going out around Sept 21. (b) Status quo points to a Scott win: he is a five-term incumbent who won 71% in 2022 and 73% in 2024, no Vermont incumbent governor has lost since 1962, and Cook, Inside Elections and Sabato still rate the race Solid/Safe R. (c) NO: the Sept 17–21 UNH poll showing Janoo 49–43 reflects a real shift. Drivers would be a Trump–Canada tariff shock, a D+11-ish national environment, Scott's crossover support among Democrats collapsing (20%), Janoo's 2:1 fundraising edge and a complacent Scott campaign, and turnout converting it into a narrow Democratic win. (d) YES: UNH has badly underestimated Scott before (it had him +17 in 2022 against an actual +47), undecideds and low-information voters break toward the familiar, popular incumbent, and Scott wins by single digits or more. Polymarket sits at 85% after a 4-point weekly drop, so the poll is partly priced. Its single-source status and UNH's pro-Janoo miss history argue against overreacting. Still, the down-ballot Democratic leads, forecaster downgrades to Likely R, and a margin market whose modal outcome is R 0–5% suggest slightly more upset risk than 15%, so I shade to 80%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3433",
+   "has_trace": true
+  }
+ ],
+ "Will Jumper launch a token by December 31, 2026?": [
+  {
+   "id": 3423,
+   "scanned_at": "2026-09-25T11:59:22.243983",
+   "date": "2026-09-25",
+   "agent": 84.6,
+   "market_price_t0": 87,
+   "edge": -0.024000000000000132,
+   "confidence": 0.6719999999999999,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.84, 0.84, 0.85, 0.84, 0.86). (0) The condition is not met yet. Jumper's official Sept 22 GlobeNewswire release confirms a JUMP token sale on Legion but says the token 'is planned to launch separately following the fundraising process.' Its X account (@jumperapp) shows ticker confirmation and teasers but no statement that the token is publicly tradable. (a) About 97 days remain until the Dec 31, 2026 11:59 PM ET deadline. (b) If nothing changes, the answer is No. But the status quo is actively moving: CryptoRank lists the Legion sale for Sept 29–Oct 6, with sale terms of '50% unlock at TGE,' which implies the token generation event is planned soon after the sale. (c) NO scenario: the sale slips, or the token generation event and exchange listings get pushed into the holiday period or 2027. The closest precedent is Superform's Legion sale, where listing came about two months after the sale closed and a MiCA-related postponement occurred; that kind of lag, plus Legion's spotty listing record, would push Jumper past the deadline. (d) YES scenario: the sale closes around Oct 6 and the token generation event follows within weeks. Jumper has 100k+ monthly users, no equity fallback, and CEO-level commitment to the token, so JUMP would likely trade on a DEX or exchange by November or early December. Even a Superform-length two-month lag lands before Dec 31. The market's 87% anchor reflects this. I shade slightly lower for the unconfirmed sale dates, slippage risk and an absent official launch date, and settle at 84%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3423",
+   "has_trace": true
+  }
+ ],
+ "Will Likud win 30-34 seats in the 2026 Israeli legislative election?": [
+  {
+   "id": 3419,
+   "scanned_at": "2026-09-25T09:36:23.663094",
+   "date": "2026-09-25",
+   "agent": 9.8,
+   "market_price_t0": 12,
+   "edge": -0.021999999999999992,
+   "confidence": 0.6599999999999999,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.09, 0.09, 0.09, 0.11, 0.11). (0) Nothing has resolved. The election is confirmed for October 27, 2026, the Central Elections Committee resolution page returned an error, and no results exist. Likud still has to win at least 30 of 120 seats on election day.\n\n(a) The vote is about 32 days away, and results should be known within days of it.\n\n(b) If nothing changes, Likud lands well below 30. The 14-poll aggregate has a mean of about 22 and an average of about 23. Independent pollsters (Channel 12, Channel 13, Kan) showed 18–23 in the last week. Only the Likud-friendly Direct Polls/Channel 14 lineage shows 27–31.\n\n(c) NO: the current polls roughly hold, with Ofer Winter's list and Yashar keeping Likud in the 18–27 range. That fits the 88–92% pricing on 'Likud loses seats'.\n\n(d) YES: several things break Likud's way at once, adding roughly 7 or more seats to its polling average.\n- A 2015-style late right-wing consolidation (that year's polls missed Likud by 6–8 seats).\n- Winter withdrawing before the October 16 deadline or falling below the 3.25% threshold.\n- The roughly 10-seat undecided pool breaking toward Likud.\n- The Likud-friendly pollster lineage proving the accurate one.\n\nThe Polymarket anchor is 12%, consistent with its sibling brackets (<20 at 20.5%, 20–24 at 36.5%, 25–29 at 24%, 35+ at 3%). I shade slightly below it for two reasons. The latest independent polls (18–20) are weaker than the 25–27 figure the market may be leaning on. And a surplus-vote pact does not count as a joint list under the rules, so it adds nothing to Likud's total. I ignore the code_execution output, which used fabricated bracket prices.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3419",
    "has_trace": true
   }
  ]

@@ -14766,7 +14766,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-24T19:09:42.144Z",
+  "last_sync": "2026-09-25T08:48:54.084Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -17450,6 +17450,102 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.03, 0.03, 0.03, 0.04, 0.06). (0) The condition has not been met and is close to impossible on fundamentals. A read of DefiLlama dated 2026-09-24, reported in the research, shows total stablecoins at about $306B. The 2026 all-time high was about $321-322B in April-May, and several secondary trackers (~$303-312B in September) are consistent with that. (a) Only about 98 days remain until December 31, 2026. (b) If nothing changes, the market cap stays in the $300-320B band it has held all year, and the market resolves No. (c) The NO case is simply the status quo. Growth is stalled (+0.95% over 30 days), Q2 2026 saw the first quarterly contraction since 2023, the GENIUS Act yield ban is pushing capital into tokenized Treasuries, and Treasury's rulemaking comment period runs to October 19, so no new-issuer supply shock is plausible this year. (d) YES would need roughly $194B (+63%) of net issuance in one quarter, far beyond the best-ever full-year growth of about 47-49%. The only realistic path is a data artifact, such as a mispriced or double-counted token spiking the DefiLlama chart for a day that then gets finalized. On the anchor: polymarket_direct shows 18% with an odd +12% 7-day jump, while the research read of the live Polymarket page shows 4%. The 18% figure looks stale or like a thin-book anomaly and cannot be reconciled with a $306B reading this late in the year, so I price well below it. I keep about 3% for data-glitch or resolution-quirk risk and for the chance my reading of the current level is wrong.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3384",
+   "has_trace": true
+  }
+ ],
+ "Bank of Japan increases interest rates by 25 bps after the October 2026 meeting?": [
+  {
+   "id": 3416,
+   "scanned_at": "2026-09-25T07:13:21.306702",
+   "date": "2026-09-25",
+   "agent": 17.2,
+   "market_price_t0": 18,
+   "edge": -0.008000000000000007,
+   "confidence": 0.654,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.16, 0.15, 0.17, 0.18, 0.20). (0) Not resolved yet. The BOJ schedule page shows the October 29–30 meeting still ahead, with the statement due October 30. The policy rate is 1.25% after the September 18 hike of 25bp.\n\n(a) About five weeks remain. Before the meeting come the September Summary of Opinions (Oct 1), the Tankan, CPI prints and the October Outlook Report.\n\n(b) The status quo is no change. The Bloomberg survey of Sept 4–10 found no economist expecting a back-to-back October hike, with a third picking December and the rest January. At his press conference Ueda said consecutive hikes would need a sharp inflation overshoot, and he framed October as the meeting to quantify the impact of past hikes. Board member Masu sounded gradualist, and the two appointees of Prime Minister Takaichi dissented even in September.\n\n(c) NO scenario: data comes in steady, the yen stabilizes, and the BOJ holds at 1.25% while signalling December or January.\n\n(d) YES scenario: the yen slides past 158–160 (a BOJ rate check has already been reported) and a hot CPI or Tankan print arrives. Hawks like Takata then invoke 'nimble' hikes under U.S. pressure and pull the December move forward.\n\nOn market pricing, the OIS tracker's 25–34% looks unreliable: its implied 1.11% post-meeting rate sits below the current rate, so it appears to be on a stale base. The other tracker's 84% for a 50bp hike is clearly stale. I anchor on Polymarket's 18% and shade slightly lower given the unanimous survey consensus against October, while keeping a meaningful tail for an FX-driven shock.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3416",
+   "has_trace": true
+  }
+ ],
+ "Will the Republicans win the Kansas Senate race in 2026?": [
+  {
+   "id": 3412,
+   "scanned_at": "2026-09-25T04:51:24.573303",
+   "date": "2026-09-25",
+   "agent": 70,
+   "market_price_t0": 69.5,
+   "edge": 0.0050000000000000044,
+   "confidence": 0.618,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.70, 0.70, 0.70, 0.70, 0.70). (0) The race is not resolved. The general election is November 3, 2026, and no AP, Fox or NBC call exists. The resolution-source read confirms Marshall (R) and Hamilton (D) are the nominees and nothing has been decided. (a) About 5.5 weeks remain until election day, and trading closes the same day. (b) Status quo: Marshall leads the polling averages by roughly 1–2 points (270toWin Marshall +1.5). Most forecasters rate the race Lean or Likely R, and DDHQ's model gives Marshall 79%. Kansas's R+8 lean, Trump's +16 margin in 2024 and a Democratic Senate drought since 1932 argue for a Republican hold. So does history: in 2014 (Orman) and 2020 (Bollier), close Kansas Senate polling broke decisively Republican on election day. The GOP's spending advantage points the same way. (c) NO path: a strong Democratic national environment (Polymarket prices Democrats about 92% to take the House and 62% the Senate) combines with the patient-lawsuit story and a booed debate performance. Hamilton consolidates the undecideds and independents and wins narrowly, as the Emerson poll (Hamilton 45–43) suggests is possible. (d) YES path: NRSC coordinated money and partisan gravity pull Republican-leaning voters home, and Marshall wins by mid-single digits. I anchor on the Polymarket price of 69.5%. The downward trend (-10 points over 30 days) and Cook's move to Lean R are already priced. Against that, the historical pattern of Kansas polls understating Republicans roughly offsets the national wave, so I stay near the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3412",
+   "has_trace": true
+  }
+ ],
+ "Will Russia capture all of Bilytske by December 31?": [
+  {
+   "id": 3409,
+   "scanned_at": "2026-09-25T02:28:43.930129",
+   "date": "2026-09-25",
+   "agent": 47.4,
+   "market_price_t0": 58.5,
+   "edge": -0.11099999999999993,
+   "confidence": 0.52,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.50, 0.45, 0.50, 0.46, 0.46). (0) Nothing shows the condition met. The resolution-source fetch could not render the ISW map. Every dated source through Sept 24 (ISW/CTP, the General Staff, DeepState) describes Bilytske as contested, with Russian infiltration and fighting inside the town. None describes it as captured. (a) About 97 days remain until the Dec 31 11:59 PM ET deadline. (b) If the front stays roughly where it is, the town stays split and the market resolves No. DeepState on Sept 17 put about 18% of the town under Russian control, about 18% firmly Ukrainian in the west, and the rest gray zone; infiltration shading does not qualify. (c) No path: Ukraine holds the western half, which is plausible given ISW reports of near-zero net Russian gains since March. Operation Vivaldi also disrupts the northern pincer, and Russian manpower is drained, so Bilytske stays partially contested into 2027, like Hryshyne after Pokrovsk. (d) Yes path: Dobropillia is the highest-tempo axis on the front, averaging about 32 attacks a day. Russian-held share rose from about 5% to 18% between late July and mid-September. If gray-zone conversion continues or Ukraine withdraws to protect Dobropillia, ISW could shade the whole town as control or 'assessed advance', which qualifies, before year-end. The market sits at 57.5% and has been flat over 30 days; a sibling Polymarket contract is at 61.5%. The research leans slightly toward slower progress: ISW debunked the encirclement claim, Sept 20 saw no advances, Russian claims run well ahead of verified gains, and comparable towns took many months to fall. I shade modestly below the market to 50%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3409",
+   "has_trace": true
+  }
+ ],
+ "Will Trump meet with Kim Jong Un in 2026?": [
+  {
+   "id": 3405,
+   "scanned_at": "2026-09-25T00:06:22.935676",
+   "date": "2026-09-25",
+   "agent": 17.6,
+   "market_price_t0": 21.5,
+   "edge": -0.03900000000000001,
+   "confidence": 0.618,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.17, 0.15, 0.17, 0.19, 0.20). (0) Not resolved. No source shows a Trump-Kim meeting in 2026 or a scheduled one. CNN and the Korea Herald (Aug 19) report only stated intent, and a White House official said there was 'no formal planning.' (a) About 3 months remain until Dec 31, 2026. The main windows are the APEC leaders' meeting in Shenzhen (Nov 18-19) and a speculative G20 invitation in Florida in December. (b) Status quo is No: no date, venue, confirmed channel or North Korean acknowledgment exists. (c) NO scenario: Pyongyang keeps withholding reciprocity, as it did in October 2025. Kim Yo Jong has denied any contact, called nuclear status 'absolute,' and North Korea has run missile and hypersonic tests. Kim gains leverage from Russia ties, and Trump's APEC trip passes without an encounter. (d) YES scenario: Trump attends Shenzhen and Seoul brokers the meeting, since Lee reaffirmed his push on Sept 23. A DMZ-style improvised meeting, or a Kim trip to China, happens on short notice, following the 2019 precedent. The Polymarket anchor is 21.5% and has fallen 10 points in 30 days. The research adds more negative signals than positive ones: the missile tests, Lee conceding North Korea refuses to communicate with Seoul, and no confirmed APEC invitation to Kim. That pushes me slightly below market, while keeping real weight on Trump's demonstrated capacity for spontaneous summits.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3405",
+   "has_trace": true
+  }
+ ],
+ "Will OpenAI not IPO by December 31, 2027?": [
+  {
+   "id": 3402,
+   "scanned_at": "2026-09-24T21:43:07.369662",
+   "date": "2026-09-24",
+   "agent": 26,
+   "market_price_t0": 22.4,
+   "edge": 0.036500000000000005,
+   "confidence": 0.5900000000000001,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.28, 0.25, 0.27, 0.25, 0.25). (0) Not resolved. No source shows a public S-1, a roadshow or a listing. OpenAI has only filed confidentially (June 2026), and Altman ruled out a 2026 IPO on Sept 12. (a) About 15 months remain until Dec 31, 2027, 11:59 PM ET, and a first-day closing price must exist by then. (b) The status quo is a private company, so if nothing changes the question resolves Yes. But the confidential filing and the CFO's Aug 19 statement that OpenAI 'will be a public company in 2027' mean momentum points toward a 2027 listing. The venue prices Yes at 22.35%, and the sister bucket markets imply roughly 21% for no IPO, so they are internally consistent. The 12% figure in the base-rate report appears stale. (c) NO path: safety optics settle, Anthropic lists successfully in late 2026 or early 2027, and OpenAI makes its S-1 public in H1 2027 and prices by mid or late 2027. The sister market gives about 67% by June 30, 2027, and SpaceX's roughly 10-week filing-to-pricing shows the mechanics are not the bottleneck. (d) YES path: the target keeps slipping, as it has every quarter so far. Contributing factors include Altman's refusal to commit to 2027, safety-slowdown pacts and the related antitrust suit, expanding state AG and Senate probes, SEC scrutiny of the Class N governance structure, CFO-CEO friction, and private mega-rounds removing any urgency. Amazon's contingent tranche is keyed to an IPO by end-2028, suggesting insiders see 2028 as plausible. Given this compounding slippage evidence and the rising price trend (+13 points over 30 days), I lean slightly above the market at about 28%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3402",
+   "has_trace": true
+  }
+ ],
+ "Will Magdalena Andersson be the next Prime Minister of Sweden?": [
+  {
+   "id": 3398,
+   "scanned_at": "2026-09-24T19:15:19.398410",
+   "date": "2026-09-24",
+   "agent": 87,
+   "market_price_t0": 87.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.688,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.86, 0.85, 0.87, 0.89, 0.88). (0) Not resolved. The regeringen.se resolution source still lists Kristersson, who has been caretaker since his 17 Sept resignation. No Riksdag vote on Andersson has happened. The earliest possible vote is 29 Sept, after the new Riksdag convenes on 28 Sept. (a) The deadline is 30 June 2027, about nine months away. Even the 2018 outlier of 134 days would fit comfortably, so timing is not the risk. (b) Status quo: Andersson is the Speaker's appointed sonderingsperson and her bloc holds 176 of 349 seats. Under negative parliamentarism she only needs fewer than 175 'no' votes. The default path is her confirmation, likely as an S or S-MP minority government tolerated by C and/or V. (c) NO scenario: the Centre–Left red lines stay irreconcilable. Left demands ministries and Centre refuses to sit with Left ministers. Either party is pivotal and could join the 173 Tidö votes to block her. The Speaker vote could slip, Kristersson gets a second turn, and C tolerates a centre-right government or a Thand Ringqvist compromise emerges. (d) YES scenario: V backs down to abstaining rather than risk returning an SD-backed Kristersson, as in 2021 when Andersson passed with only 101 'yes' votes. C tolerates an S-MP government, and Andersson is confirmed in October or November. I anchor on the 87.5% Polymarket price, down 5 points this week on the deadlock news. The research adds no decisive new information beyond that friction; the claim that she 'failed' in 2021 is a garbled source. So I stay slightly below the market to reflect the real veto power both C and V hold.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3398",
    "has_trace": true
   }
  ]

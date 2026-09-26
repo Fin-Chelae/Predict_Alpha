@@ -14766,7 +14766,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-25T19:14:51.932Z",
+  "last_sync": "2026-09-26T08:35:18.192Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -17622,6 +17622,86 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.09, 0.09, 0.09, 0.11, 0.11). (0) Nothing has resolved. The election is confirmed for October 27, 2026, the Central Elections Committee resolution page returned an error, and no results exist. Likud still has to win at least 30 of 120 seats on election day.\n\n(a) The vote is about 32 days away, and results should be known within days of it.\n\n(b) If nothing changes, Likud lands well below 30. The 14-poll aggregate has a mean of about 22 and an average of about 23. Independent pollsters (Channel 12, Channel 13, Kan) showed 18–23 in the last week. Only the Likud-friendly Direct Polls/Channel 14 lineage shows 27–31.\n\n(c) NO: the current polls roughly hold, with Ofer Winter's list and Yashar keeping Likud in the 18–27 range. That fits the 88–92% pricing on 'Likud loses seats'.\n\n(d) YES: several things break Likud's way at once, adding roughly 7 or more seats to its polling average.\n- A 2015-style late right-wing consolidation (that year's polls missed Likud by 6–8 seats).\n- Winter withdrawing before the October 16 deadline or falling below the 3.25% threshold.\n- The roughly 10-seat undecided pool breaking toward Likud.\n- The Likud-friendly pollster lineage proving the accurate one.\n\nThe Polymarket anchor is 12%, consistent with its sibling brackets (<20 at 20.5%, 20–24 at 36.5%, 25–29 at 24%, 35+ at 3%). I shade slightly below it for two reasons. The latest independent polls (18–20) are weaker than the 25–27 figure the market may be leaning on. And a surplus-vote pact does not count as a joint list under the rules, so it adds nothing to Likud's total. I ignore the code_execution output, which used fabricated bracket prices.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3419",
+   "has_trace": true
+  }
+ ],
+ "Will the UK’s 2026 inflation be between 3.5% and 3.9%?": [
+  {
+   "id": 3451,
+   "scanned_at": "2026-09-26T07:18:50.610568",
+   "date": "2026-09-26",
+   "agent": 56.8,
+   "market_price_t0": 63.2,
+   "edge": -0.0645,
+   "confidence": 0.5700000000000001,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.56, 0.55, 0.57, 0.57, 0.59). (0) Not resolved. The December 2026 ONS CPI print is due on 20 January 2027; the latest data point is August at 3.1%. (a) About four months remain, and three monthly prints (September to November) will arrive before the resolving one. (b) Status quo: the Bank of England's September update puts the Q4 2026 average at about 3.75%, rising to slightly above 4% in 2027 Q1. That makes the midpoint of the 3.5–3.9% band (effectively 3.45–3.94% before rounding) the central case. The adjacent September market prices 3.4–3.6% at about 58%, which is consistent with the climb continuing. (c) NO: the rising path, driven by fuel and the price cap, carries December to 4.0% or higher. Alternatively, oil eases, the electricity VAT cut from 1 October bites, and last December's high airfare base drags the rate to 3.4% or lower, which is the Treasury panel's (stale, August) Q4 average. (d) YES: energy pass-through lifts CPI from 3.1% into the upper 3s by Q4, in line with the Bank's 3.75%, NIESR's 3.8% peak and the poundf tracker's roughly 3.6% for December. The market anchor of 63% has risen 40 points in 30 days on the Bank's upgrade. However, a roughly 0.5pp-wide band three months out, during an energy shock where forecast vintages moved about 0.5pp in two months, implies a forecast error of perhaps 0.3–0.4pp. That gives roughly a 50–60% hit rate even if centred on the band. I shade slightly below the market to about 56%, with somewhat more miss risk on the upside given the Bank's rising trajectory.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3451",
+   "has_trace": true
+  }
+ ],
+ "Pakistan military action against Afghanistan by October 15, 2026?": [
+  {
+   "id": 3447,
+   "scanned_at": "2026-09-26T04:55:00.183708",
+   "date": "2026-09-26",
+   "agent": 42,
+   "market_price_t0": 30,
+   "edge": 0.12000000000000005,
+   "confidence": 0.54,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.42, 0.42, 0.42, 0.40, 0.44) after one crux research pass. (0) Not yet resolved. The qualifying strikes on Sept 21 (Kunar/Paktika) and Sept 24 (10 sites in Kandahar, Paktia and Khost) came before the market opened on Sept 25. The only post-creation incident found is the Sept 24/25 Gulistan clash, which was ground and artillery fighting and is explicitly excluded. So a new Pakistani air, drone or missile strike that lands in Afghanistan is still needed. (a) About 19-20 days remain, to Oct 15 at 11:59 PM AFT. (b) If nothing changes, the market resolves No. The latest reports describe an 'uneasy calm' with no new fighting, and Turkish and Qatari envoys are in Kabul. (c) NO: the Sept 24 wave proves to be the end of this retaliation cluster, and mediation produces a de facto pause. Any further friction stays at artillery, small arms or intercepted drones, as in past lulls that lasted weeks to months after strike clusters. (d) YES: Kabul follows through on its vowed 'appropriate response' (drones or border attacks), or another mass-casualty TTP attack like the Kohat mosque bombing occurs. Under its declared 'Ghazab lil Haq' doctrine, Pakistan then answers within days with another 'precision aerial and drone' wave. Weighing it: the long-run rate of roughly 15 strike episodes in 11 months implies about 60% for a 20-day window if strikes were evenly spread. They are strongly clustered, though, and clusters are often followed by lulls. Against that, this flare-up is live, with no ceasefire, mutual retaliation pledges and weekly triggers. The market sits at 30%, but the book is thin and wide (bid 10 / ask 50), so it is a weak anchor, and it fell from about 61%. I shade above the market to about 42%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3447",
+   "has_trace": true
+  }
+ ],
+ "Iran blockade lifted before Iran-Oman Hormuz agreement?": [
+  {
+   "id": 3444,
+   "scanned_at": "2026-09-26T02:29:43.762242",
+   "date": "2026-09-26",
+   "agent": 28.4,
+   "market_price_t0": 26,
+   "edge": 0.02400000000000002,
+   "confidence": 0.532,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.30, 0.31, 0.28, 0.27, 0.26). (0) Neither trigger has fired. CBS reports CENTCOM had redirected 122 vessels as of Sept 25, and no official US statement ends the blockade. Iran's Aug 26 claim of an agreement with Oman was never jointly and declaratively confirmed, and the Salalah unveiling was postponed indefinitely on Sept 13. (a) About three months remain until the Dec 31 deadline. (b) If nothing changes, the market resolves No, because a 'neither' outcome counts as No. (c) NO: US-Iran talks at the UN General Assembly stall, and Trump holds the blockade as leverage through the midterms and beyond; alternatively, Iran and Oman formally announce or register their already-finalized corridor deal, as Baghaei said they would decide how to do. (d) YES: the Witkoff/Kushner–Araghchi track produces a phased deal on Iran's seven-day roadmap, which lifts the blockade on day one and reopens the Oman corridor on day seven. Trump would then announce the lift on social media within minutes, as he did in June, before any formal Iran-Oman announcement. Iran explicitly refuses to reopen Hormuz before the blockade is lifted, which helps this sequencing. On cross-market arithmetic, 'US ends blockade by Dec 31' trades at 57% and 'Oman agreement by Oct 31' at 29%. If the blockade-end probability is discounted for this conflict's habit of timing optimism, and about half of blockade-end paths come before an Oman announcement, Yes lands near 28-32%. That is slightly above the market's 26% (bid 24 / ask 28), which fell 9 points this week on hawkish US 'no rush' signals. I nudge only modestly above the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3444",
+   "has_trace": true
+  }
+ ],
+ "Will Russia capture the Royal Café Alex in Kostyantynivka by October 31, 2026?": [
+  {
+   "id": 3440,
+   "scanned_at": "2026-09-26T00:06:56.863369",
+   "date": "2026-09-26",
+   "agent": 14,
+   "market_price_t0": 14.5,
+   "edge": -0.004999999999999977,
+   "confidence": 0.5775,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.14, 0.13, 0.14, 0.15). (0) Resolution check: no source shows the café's grey area shaded red on the ISW map; the latest ISW reporting (Sept 19-20) describes northwestern Kostyantynivka as a Russian 'infiltration mission' zone, which does not qualify. (a) About five weeks remain until the Oct 31, 11:59 PM ET deadline. (b) Status quo: the area stays contested or infiltration-only, resolving No. (c) No: fighting grinds on without movement, as it has for 11 months, ISW keeps rejecting exaggerated Russian claims (as in September), and the block stays grey or infiltration-only through October. (d) Yes: building on ISW-credited advances in northwestern Kostyantynivka (Sept 1) and near the city (Sept 23), and with this sector drawing the most Russian assaults, Russian forces consolidate, ISW upgrades the block to advance or gain shading, and it persists one cycle. Anchor: Polymarket is at 14.5%, down sharply from 58.5%; the thin Dec 31 companion at ~61.5% implies some near-term hazard, but ISW's documented near-zero net gains since March and its skepticism about Russian claims argue against moving up. The research adds nothing the market hasn't priced, so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3440",
+   "has_trace": true
+  }
+ ],
+ "Will the next Sonnet model debut at a score of at least 1490 by December 31, 2026?": [
+  {
+   "id": 3437,
+   "scanned_at": "2026-09-25T21:40:08.110200",
+   "date": "2026-09-25",
+   "agent": 11,
+   "market_price_t0": 11,
+   "edge": -1.3877787807814457e-17,
+   "confidence": 0.632,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.12, 0.11, 0.10, 0.12, 0.10). (0) Not resolved. No Sonnet model has appeared on the Arena Text leaderboard since Sonnet 5, which debuted July 2 and now sits at 1442, so the qualifying model is almost certainly Sonnet 5.5. Anthropic said on Sep 22 that Sonnet 5.5 will ship \"in the coming weeks\"; related Polymarket markets price a release by Oct 31 at about 95%, so timing is not the main risk. (a) About 3 months remain until the Dec 31, 2026 deadline. (b) Status quo: Sonnet scores on this board have ranged 1438–1458, 32–52 points short of 1490. Only about 11 models clear 1490, all Opus, Fable or rival flagships. (c) NO: Sonnet 5.5 ships in October–November as another efficiency upgrade and debuts in the 1450–1480 range. That fits past Sonnet debuts and the roughly 60-point Sonnet–Opus gap seen with Sonnet 5 versus Opus 5. (d) YES: Anthropic repeats its Opus 5.5 pattern (Fable-5.1-level quality at lower cost), and Sonnet 5.5 inherits enough of that jump to debut near 1490–1500. Debut scores also tend to be inflated before later drift, as with Sonnet 4.5 briefly tying for #1. Against that, the \"near Fable 5.1\" claim comes from a single unverified leak. The sibling market prices the easier 1470+ threshold at only about 34–52% (reports conflict), which fits 1490+ in the low teens. I anchor on the 11% market price and add a slight bump for debut-score inflation and the Opus 5.5 precedent.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3437",
    "has_trace": true
   }
  ]

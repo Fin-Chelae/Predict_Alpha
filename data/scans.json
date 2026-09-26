@@ -9769,6 +9769,20 @@
  ],
  "Will there be no next Google Gemini Pro model release by November 1, 2026?": [
   {
+   "id": 3461,
+   "scanned_at": "2026-09-26T14:26:36.947642",
+   "date": "2026-09-26",
+   "agent": 36.2,
+   "market_price_t0": 28,
+   "edge": 0.08199999999999996,
+   "confidence": 0.5519999999999999,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.34, 0.36, 0.36, 0.39, 0.36). (0) Resolution check: the resolution-source read flagged gemini-3.1-pro-preview as live, but it shipped Feb 19, 2026, before the market opened on Aug 17, so it does not qualify. No new Pro model or 3.1 Pro GA promotion appears in Google's catalog or changelog through Sept 22; the condition is not yet met. (a) About 36 days remain to Nov 1. (b) Status quo: nothing ships and the market resolves Yes, consistent with Google missing three Pro targets for 3.5 Pro and shelving it. (c) Yes path: Gemini 4 is only in early post-training and internal testing, post-training usually takes 2-6 months, the Oct 8 Gemini at Work event is enterprise/agent focused, and outside trackers estimated Nov-Dec. (d) No path: the new DeepMind chief ships an early-checkpoint gemini-4-pro-preview in mid/late October, having said 'as soon as possible' and 'much earlier' than year-end; a 3.1 Pro GA promotion would also count. Market anchor is 28% Yes, with the Gemini 4.0 by Oct 31 market near 73% for release, implying traders expect a mid-October launch. I shade toward Yes for the post-training timeline, the uncertain 'Pro' branding and Google's 2026 record of slips, but stay near the anchor given the credible new 'as soon as possible' framing.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3461",
+   "has_trace": true
+  },
+  {
    "id": 3186,
    "scanned_at": "2026-09-19T13:40:48.805438",
    "date": "2026-09-19",
@@ -14766,7 +14780,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-26T08:35:18.192Z",
+  "last_sync": "2026-09-26T18:36:49.576Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -15802,6 +15816,20 @@
   }
  ],
  "Will Moonshot be the second-best Chinese AI company at the end of October 2026?": [
+  {
+   "id": 3465,
+   "scanned_at": "2026-09-26T16:50:16.151880",
+   "date": "2026-09-26",
+   "agent": 14.8,
+   "market_price_t0": 15,
+   "edge": -0.0020000000000000018,
+   "confidence": 0.636,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.13, 0.13, 0.13, 0.17, 0.18). (0) Not resolved: the Sep 25 resolution-source read shows Xiaomi (Lab Rank 3) > Alibaba (5) > Moonshot (6), so Moonshot is third among Chinese labs. The research's Sep 13 snapshot (Alibaba > Z.ai > Moonshot) is older; related Polymarket September markets (Xiaomi best 87%, Alibaba second 90%, Moonshot third 92%, Z.ai second ~1%) corroborate the Sep 25 read. The 39% Moonshot figure in the research is stale. (a) About 5 weeks remain to the Oct 31 12:00 PM ET check. (b) Status quo: Alibaba stays second, so No. (c) No: no Kimi K4 before Oct 31, Alibaba keeps shipping Qwen updates, and the ordering holds. (d) Yes: Moonshot ships K4 or a strong K3 update that clears AutoEval status and passes Alibaba, or Alibaba's top model slips on a refresh. K4 is only rumoured (Manifold ~20% for all of 2026). The market anchor is 15% (bid 10/ask 20, falling); I shade slightly below it given the clear status quo but keep tail risk for rank volatility and new releases.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3465",
+   "has_trace": true
+  },
   {
    "id": 2841,
    "scanned_at": "2026-09-12T00:17:39.088063",
@@ -17702,6 +17730,38 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.12, 0.11, 0.10, 0.12, 0.10). (0) Not resolved. No Sonnet model has appeared on the Arena Text leaderboard since Sonnet 5, which debuted July 2 and now sits at 1442, so the qualifying model is almost certainly Sonnet 5.5. Anthropic said on Sep 22 that Sonnet 5.5 will ship \"in the coming weeks\"; related Polymarket markets price a release by Oct 31 at about 95%, so timing is not the main risk. (a) About 3 months remain until the Dec 31, 2026 deadline. (b) Status quo: Sonnet scores on this board have ranged 1438–1458, 32–52 points short of 1490. Only about 11 models clear 1490, all Opus, Fable or rival flagships. (c) NO: Sonnet 5.5 ships in October–November as another efficiency upgrade and debuts in the 1450–1480 range. That fits past Sonnet debuts and the roughly 60-point Sonnet–Opus gap seen with Sonnet 5 versus Opus 5. (d) YES: Anthropic repeats its Opus 5.5 pattern (Fable-5.1-level quality at lower cost), and Sonnet 5.5 inherits enough of that jump to debut near 1490–1500. Debut scores also tend to be inflated before later drift, as with Sonnet 4.5 briefly tying for #1. Against that, the \"near Fable 5.1\" claim comes from a single unverified leak. The sibling market prices the easier 1470+ threshold at only about 34–52% (reports conflict), which fits 1490+ in the low teens. I anchor on the 11% market price and add a slight bump for debut-score inflation and the Opus 5.5 precedent.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3437",
+   "has_trace": true
+  }
+ ],
+ "Will the Republicans win the Idaho Senate race in 2026?": [
+  {
+   "id": 3458,
+   "scanned_at": "2026-09-26T12:04:04.300509",
+   "date": "2026-09-26",
+   "agent": 90.5,
+   "market_price_t0": 90.1,
+   "edge": 0.0040000000000000036,
+   "confidence": 0.6719999999999999,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.91, 0.89, 0.91, 0.91, 0.91). (0) The race is not resolved. Ballotpedia and Wikipedia show only primary results: Risch won the GOP primary with 67.3%, and Democrat David Roth later withdrew in favor of independent Todd Achilles. No AP, Fox or NBC call can happen before November 3. (a) The election is about 5.5 weeks away, on November 3, 2026. (b) Status quo: Risch has roughly a 6-to-1 fundraising edge and about 18-to-1 in cash on hand. Every major forecaster (Cook, Sabato, Inside Elections, DDHQ, Silver Bulletin and others) rates the seat Safe or Solid R. Idaho has not elected a non-Republican senator since 1974 and is about 62% Republican by registration. If nothing changes, Risch wins. (c) NO scenario: Achilles consolidates Democrats, unaffiliated voters and Risch-fatigued Republicans. The Achilles-favorable polls (PPP 41-38, Bullfinch 38-33, Advanced Targeting Research 50-39) turn out to be real, and questions about Risch's age (83) or his refusal to debate produce an upset. (d) YES scenario: as with Osborn in Nebraska in 2024, where a competitive independent still lost by 6 in a far less red state, undecided Republicans come home. Risch's cash advantage dominates the closing weeks, and he wins comfortably. The Polymarket anchor is 90.1%, down about 5 points over the past week, apparently on the September 18 poll; Kalshi is at about 92%. The polls favoring Achilles are unreplicated and of unclear sponsorship, and red-state independents have historically underperformed their polling. I therefore sit marginally above the market at 91%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3458",
+   "has_trace": true
+  }
+ ],
+ "Will Student List – Students Win win the most seats in the 2026 Serbian parliamentary election?": [
+  {
+   "id": 3454,
+   "scanned_at": "2026-09-26T09:41:22.270596",
+   "date": "2026-09-26",
+   "agent": 31.4,
+   "market_price_t0": 31,
+   "edge": 0.0040000000000000036,
+   "confidence": 0.532,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.31, 0.31, 0.32, 0.30, 0.33). (0) Nothing is resolved yet. The RIK homepage shows only commission sessions, with no results, and the vote is on 25 October 2026. (a) About 29 days remain until election day, and final seat counts would follow shortly after. (b) Status quo: the SNS-led 'Aleksandar Vučić – United Serbia' list leads in conventional polls. The latest is Faktor Plus, 16–20 Sept: 48.6% vs 37.1%. SNS has also won every national election since 2012. That points to No. (c) No scenario: Vučić resigns and campaigns full-time, and media asymmetry plus the registry and phantom-list mechanics help SNS. SNS then takes a plurality in line with the Faktor Plus and Ipsos numbers, as in 2023. (d) Yes scenario: near-total opposition consolidation behind the Student List holds and turnout surges. The independent CRTA polls prove right: July showed Students 44.9% vs 35.7%, and a reported 13–27 Sept for/against-government framing showed 57.9–42.1. The Student List then wins the most seats. The Polymarket anchor is 31%, with the Vučić list at ~66.5%. The only information that might be underpriced is the late-September CRTA figure. It is binary-framed and I found it only through Wikipedia, so it does not justify moving off the anchor against pro-government pollsters and a strong incumbent base rate. I stay at the market price.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3454",
    "has_trace": true
   }
  ]

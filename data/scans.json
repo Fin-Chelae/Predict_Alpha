@@ -8519,6 +8519,20 @@
  ],
  "Will OpenAI have the best Text-to-Image AI at the end of October 2026?": [
   {
+   "id": 3482,
+   "scanned_at": "2026-09-27T04:53:03.956477",
+   "date": "2026-09-27",
+   "agent": 88.4,
+   "market_price_t0": 88,
+   "edge": 0.0040000000000000036,
+   "confidence": 0.746,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.87, 0.89, 0.88, 0.89, 0.89). (0) Not yet resolved. The resolution source (arena.ai Text-to-Image Overall, snapshot Sep 24, 2026) shows OpenAI at ranks 1–3: gpt-image-2.5-sunburst at 1424, flare at 1401 and gpt-image-2 (medium) at 1383. The best non-OpenAI model is Microsoft's mai-image-2.6 at about 1335, roughly 90 points behind the leader. (a) About five weeks remain until the Oct 31, 12 PM ET check. (b) Status quo is YES. Artificial Analysis and other trackers corroborate the lead, and the 'Preliminary' tag does not disqualify the OpenAI entries; only 'AutoEval' does. (c) NO requires Google's leaked 'Nano Banana 2.5'/spicy-mayo, or a surprise xAI or Microsoft model, to launch in October and gather enough votes to beat 1424. It would also need to shed any AutoEval status by the check. Leaked tester reports already say spicy-mayo trails GPT Image 2.5 on world knowledge, and closing a roughly 90-point gap in one release would be unusual. (d) YES only needs OpenAI's current models to go unbeaten for five weeks; any image refresh at DevDay (Sep 29) would only widen the lead. The market price of 88% (bid 86 / ask 90) and the November sibling at 84.5% are consistent with this. I see no specific unpriced information, so I stay near the anchor with a small haircut for the Google leak risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3482",
+   "has_trace": true
+  },
+  {
    "id": 3001,
    "scanned_at": "2026-09-16T01:48:35.061320",
    "date": "2026-09-16",
@@ -14780,7 +14794,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-26T18:36:49.576Z",
+  "last_sync": "2026-09-27T09:15:09.295Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -16727,6 +16741,20 @@
  ],
  "Will Alibaba have the best Chinese AI model at the end of October 2026?": [
   {
+   "id": 3472,
+   "scanned_at": "2026-09-26T21:40:03.112505",
+   "date": "2026-09-26",
+   "agent": 38.6,
+   "market_price_t0": 43.5,
+   "edge": -0.049000000000000044,
+   "confidence": 0.572,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.39, 0.38, 0.40, 0.36, 0.40). (0) Not resolved. The Sep 25 snapshot of the exact resolution board shows Xiaomi's mimo-v2.6-pro as the top Chinese model at #9 (1491±9, about 4k votes, no AutoEval tag). Alibaba's qwen3.8-max is at #17 (1480±5), so Alibaba currently loses. (a) About 35 days remain until the Oct 31 noon ET check. (b) Status quo is NO: Xiaomi leads by about 11 Elo, and the September market prices Xiaomi at about 85% and Alibaba at about 10%. (c) NO: Qwen 4 slips to November or early 2027, or ships too late to get a live-voted rank rather than AutoEval, and Xiaomi's score holds. Another rival (Moonshot, Z.ai, DeepSeek, StepFun) could also release something stronger. (d) YES: Qwen 4 Max ships in October, as Alibaba's 'very soon' Apsara remarks suggest. Qwen3.8-Max debuted at #5 with 1496, so a new Max could top 1491. Separately, mimo's thin 4k-vote sample could regress while in-place self-training lifts qwen3.8-max. I put a live-ranked Qwen 4 by the check at about 45%, beating the best Chinese rival at about 70% given release, plus a small organic-reversal path. That lands near 0.39, slightly under the 43% anchor (37/49 spread). The cited 74%-before-November Qwen 4 odds look stale, since the 44%-before-October component has almost surely failed.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3472",
+   "has_trace": true
+  },
+  {
    "id": 3074,
    "scanned_at": "2026-09-17T13:49:06.746546",
    "date": "2026-09-17",
@@ -16902,6 +16930,20 @@
   }
  ],
  "Will Anthropic have the best AI Agent at the end of October 2026?": [
+  {
+   "id": 3486,
+   "scanned_at": "2026-09-27T07:16:03.577216",
+   "date": "2026-09-27",
+   "agent": 83.6,
+   "market_price_t0": 83,
+   "edge": 0.006000000000000005,
+   "confidence": 0.6900000000000001,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.84, 0.84, 0.84, 0.83, 0.83). (0) Not yet resolved. The resolution source (arena.ai Agent Arena, snapshot dated Sep 25) shows Anthropic's Claude Fable 5.1 (Max) at Rank 1 with 13.80% ±1.77 net improvement, versus OpenAI's GPT 6 Astra (Max) at 10.85% ±2.29. Anthropic also holds five other top-10 slots. What still has to happen is that this lead holds until the Oct 31, 12:00 PM ET check. (a) About 34 days remain, enough time for one or two frontier releases to accumulate Arena sessions. (b) If nothing changes, Anthropic resolves YES. Its depth (Opus 5, Fable 5, and the newly launched Opus 5.5 still accumulating votes) means even a dethroned Fable 5.1 could be replaced by another Claude model. The prior monthly editions of this series (July, August, September) all went to Anthropic. (c) NO: OpenAI's GPT-6 Sol, now live in Agent Mode and claimed to beat Fable 5.1 on some agentic evals at lower cost, climbs as votes accumulate. Alternatively, a Google or OpenAI flagship lands in early October, clears AutoEval status and overtakes the roughly 3-point gap. Arena methodology tweaks such as cost weighting are another risk; OpenAI already flipped the WebDev board within days of Astra's launch. (d) YES: the status quo holds. Any late-October rival launch stays AutoEval-tagged and excluded at check time, and Opus 5.5 reinforces Anthropic's position. The market anchor is 83% (after a 3.5-point 7-day dip, likely reflecting the Sol/Luna launches). The research shows a lead that exceeds the error bars plus a fresh Anthropic model the NO case overlooked, so I sit marginally above the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3486",
+   "has_trace": true
+  },
   {
    "id": 3223,
    "scanned_at": "2026-09-20T05:46:30.595789",
@@ -17762,6 +17804,54 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.31, 0.31, 0.32, 0.30, 0.33). (0) Nothing is resolved yet. The RIK homepage shows only commission sessions, with no results, and the vote is on 25 October 2026. (a) About 29 days remain until election day, and final seat counts would follow shortly after. (b) Status quo: the SNS-led 'Aleksandar Vučić – United Serbia' list leads in conventional polls. The latest is Faktor Plus, 16–20 Sept: 48.6% vs 37.1%. SNS has also won every national election since 2012. That points to No. (c) No scenario: Vučić resigns and campaigns full-time, and media asymmetry plus the registry and phantom-list mechanics help SNS. SNS then takes a plurality in line with the Faktor Plus and Ipsos numbers, as in 2023. (d) Yes scenario: near-total opposition consolidation behind the Student List holds and turnout surges. The independent CRTA polls prove right: July showed Students 44.9% vs 35.7%, and a reported 13–27 Sept for/against-government framing showed 57.9–42.1. The Student List then wins the most seats. The Polymarket anchor is 31%, with the Vučić list at ~66.5%. The only information that might be underpriced is the late-September CRTA figure. It is binary-framed and I found it only through Wikipedia, so it does not justify moving off the anchor against pro-government pollsters and a strong incumbent base rate. I stay at the market price.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3454",
+   "has_trace": true
+  }
+ ],
+ "Will the next Claude Opus model debut with a Humanity’s Last Exam score of 60% or higher?": [
+  {
+   "id": 3479,
+   "scanned_at": "2026-09-27T02:31:08.589523",
+   "date": "2026-09-27",
+   "agent": 12,
+   "market_price_t0": 9.7,
+   "edge": 0.023499999999999993,
+   "confidence": 0.54,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.12, 0.12, 0.10, 0.12, 0.14). (0) No source shows an Opus 5.5 card on the agi.safe.ai chart yet: the chart did not render in the fetch, the latest news is HLE-Diamond on 09/22, and sibling markets are still uncertain (55%+ at 51.5%). Resolution requires the site to add Opus 5.5 and display at least 60.0% HLE Accuracy at noon ET the next day. (a) About three months remain until 2026-12-31. (b) Status quo: if no Opus is added the market resolves No; realistically Opus 5.5 is added soon and its displayed score decides it. The Polymarket ladder (60%+ at 9.65%, 55%+ at 51.5%, 50%+ at 88.7%) implies traders expect an official score around 55-59%, and the fall from a 70% high suggests they learned the site's numbers run below vendor figures. (c) NO: the site adds Opus 5.5 at 56-59%, near Fable 5.1's level on its lower CAIS/Scale-style grading (46.5% on the Scale Labs board, 59.1% on other trackers, with Scale Labs running 15-20 points below vendor claims). (d) YES: the site mirrors a no-tools figure like Artificial Analysis's 61.4% or Anthropic's 64.4%. The prior Opus 5 debut clearing 50%+ fits an Artificial Analysis-like 54.9%, which justifies a slight upward shade from the market. Confidence is moderate because the official chart's methodology and score were not observed.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3479",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic have the best Math AI model at the end of October 2026?": [
+  {
+   "id": 3475,
+   "scanned_at": "2026-09-27T00:07:11.681511",
+   "date": "2026-09-27",
+   "agent": 72.8,
+   "market_price_t0": 71,
+   "edge": 0.018000000000000016,
+   "confidence": 0.62,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.73, 0.74, 0.73, 0.72, 0.72). (0) The condition is not yet settled. The Sep 25, 2026 snapshot of the exact resolution page (Math, no style control) shows Anthropic's claude-opus-5-high at #1 (1533±13) and claude-opus-5-max at #2 (1530±17). Anthropic also holds ranks 4–7 and 12. The only real threat is Google's gemini-3.8-flash-high at #3 (1528±19), still preliminary on about 1,045 votes. Resolution depends on the Oct 31 noon ET check. (a) That leaves about 5 weeks. (b) If nothing changes, Anthropic wins. Its deep bench means even one model slipping leaves another Anthropic entry on top. Claude Opus 5.5, released Sep 22 and already #1 on the overall Text Arena, is not yet on the Math board and is more likely to add strength than subtract. (c) NO path: Gemini 3.8 Flash's preliminary score firms up above 1533 as votes accrue, since the 5-point gap is well inside the error bars. Other NO paths are a new Google Flash iteration or an early Gemini 4, or an OpenAI GPT-6 Astra variant whose low-vote Math score (#47, ±31) rises sharply. The category has historically changed leaders often (17 changes in 21 snapshots). (d) YES path: the preliminary Gemini score regresses or stalls, and Gemini 4 stays in post-training, with rumoured October dates unsourced. Opus 5.5 or the existing Opus 5 entries keep #1. The market sits at 71%, down 6.5% this week, likely pricing in the Gemini 3.8 Flash arrival, and the Google Math twin is at 19.5%. I nudge slightly above the market for Anthropic's bench depth and the pending Opus 5.5 entry.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3475",
+   "has_trace": true
+  }
+ ],
+ "Will AI solve 0 more Millennium Prize Problems in 2026?": [
+  {
+   "id": 3468,
+   "scanned_at": "2026-09-26T19:12:24.368387",
+   "date": "2026-09-26",
+   "agent": 58.2,
+   "market_price_t0": 57.5,
+   "edge": 0.007000000000000117,
+   "confidence": 0.514,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.58, 0.56, 0.58, 0.59, 0.60). (0) Resolution check: no source shows a qualifying announcement yet. The Clay page still lists all five qualifying problems as unsolved, and OpenAI's September 8 Navier-Stokes claim is explicitly excluded by the rules. The condition is neither met nor impossible, so a lab would have to announce a solution to Hodge, BSD, Riemann, P vs NP or Yang-Mills by December 31, 2026. (a) About three months remain. (b) Status quo is zero further qualifying solves, which resolves Yes on this 'solve 0 more' market. (c) NO path (at least one solve): OpenAI converts two things into a formal announcement before year-end. It told the NYT on Sept 11 that it had made 'substantial progress' on a second Millennium problem, and The Information and other outlets report an internal Hodge solve within its claimed haul of 100+ solved problems. The new IAS advisory group could serve as the disclosure scaffolding, and OpenAI retains control over timing. (d) YES path (zero solves): OpenAI deliberately delays or hedges any second announcement. Several things push that way: the Navier-Stokes PR and priority backlash, reporting that it 'wants to get the messaging right', the Fields medalists' declaration, and CMI's unhurried verification culture. Any statement before year-end may come framed as progress rather than a solve, which does not qualify. The market anchor is 57.5%, and the companion ladder prices '1' at about 27-33%, consistent with that. The research surfaces no information clearly beyond what the market has priced. The Hodge lead is anonymously sourced but corroborated by OpenAI's own on-record statement, so I stay close to the anchor with a slight lean toward the status quo.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3468",
    "has_trace": true
   }
  ]

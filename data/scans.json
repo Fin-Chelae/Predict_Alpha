@@ -9213,6 +9213,20 @@
  ],
  "China x Philippines military clash before 2027?": [
   {
+   "id": 3489,
+   "scanned_at": "2026-09-27T09:39:41.154714",
+   "date": "2026-09-27",
+   "agent": 22.5,
+   "market_price_t0": 26.5,
+   "edge": -0.04000000000000001,
+   "confidence": 0.625,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.21, 0.21, 0.24, 0.24). (0) Nothing in the research shows the condition already met. The Sept 18 ramming hit a BFAR fisheries vessel, which is non-military and suffered only railing damage. On Sept 25 PLAN and CCG blocked a Navy-operated resupply mission, but the AFP suspended it before any contact. The July 20 baton melee involving a Philippine Navy sailor came four days before the market opened on Jul 24, so it does not count. (a) About 3 months remain, to Dec 31, 2026. (b) Status quo is No: three years of near-monthly gray-zone incidents (water cannon, rammings, injuries) have not produced a clearly qualifying event inside this market's window. (c) No: Manila keeps choosing restraint, as it did when it suspended the Sept 25 mission. Beijing stays below the kinetic threshold, the provisional understanding limps on, and incidents keep involving the PCG or BFAR, which the rules exclude. (d) Yes: the next Second Thomas Shoal rotation, likely in November or December, is pushed through against PLAN/CCG interception. That produces a baton, axe or oar melee against Navy personnel (June 2024 style) or a hull-breaching ramming, which the 'melee weapons' clause would count. That bar is lower than gunfire, and the Sept 25 breakdown of a two-year calm raises the risk. The market sits at 26.5% and has drifted down 6 points in 30 days. Given the short window and demonstrated restraint, I shade modestly below it, while keeping real weight on melee-clause and ambiguous-resolution paths.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3489",
+   "has_trace": true
+  },
+  {
    "id": 3120,
    "scanned_at": "2026-09-18T08:54:57.098208",
    "date": "2026-09-18",
@@ -12441,6 +12455,20 @@
  ],
  "Will Trump and Putin not meet?": [
   {
+   "id": 3500,
+   "scanned_at": "2026-09-27T16:47:53.073575",
+   "date": "2026-09-27",
+   "agent": 23.2,
+   "market_price_t0": 22.5,
+   "edge": 0.0069999999999999785,
+   "confidence": 0.6140000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.26, 0.20, 0.25, 0.20, 0.25). (0) The condition is not resolved. Al Jazeera and the Moscow Times (Sept 24) confirm the two have not met in person since Anchorage in August 2025. Nothing is scheduled or confirmed on the Russian side. (a) About three months remain until the December 31, 2026 deadline, with two key windows: APEC Shenzhen on Nov 18–19 and the G20 in Miami on Dec 14–15. (b) If nothing changes, the status quo is no meeting. However, the momentum points toward Shenzhen: Bloomberg reports Putin plans to attend APEC in person for the first time since 2017, and a research report says Trump posted that he will attend. If both are physically present, the rules count even a handshake, so an interaction becomes very likely. (c) NO meeting (resolves Yes): Trump repeats his Gyeongju 2025 pattern, holding a Xi bilateral and leaving before the leaders' session, or Putin's trip changes. Separately, Putin skips Miami, as Bloomberg, Kremlin coolness and the Doral/European-ostracism optics suggest. The long record of collapsed summits (Budapest 2025, Buenos Aires 2018) adds to this risk. (d) Meeting (resolves No): both attend Shenzhen and interact, possibly in the Xi–Putin–Trump trilateral Ushakov floated, or Putin surprises by going to Miami. I anchor on the 22.5% market price, which fell 28 points in 30 days as the APEC signals emerged. I shade it slightly up because Trump's attendance rests on one report and he skipped APEC's main session last year. My estimate is about 26%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3500",
+   "has_trace": true
+  },
+  {
    "id": 3070,
    "scanned_at": "2026-09-17T12:12:12.626699",
    "date": "2026-09-17",
@@ -14794,7 +14822,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-27T09:15:09.295Z",
+  "last_sync": "2026-09-27T18:58:52.277Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -17852,6 +17880,38 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.58, 0.56, 0.58, 0.59, 0.60). (0) Resolution check: no source shows a qualifying announcement yet. The Clay page still lists all five qualifying problems as unsolved, and OpenAI's September 8 Navier-Stokes claim is explicitly excluded by the rules. The condition is neither met nor impossible, so a lab would have to announce a solution to Hodge, BSD, Riemann, P vs NP or Yang-Mills by December 31, 2026. (a) About three months remain. (b) Status quo is zero further qualifying solves, which resolves Yes on this 'solve 0 more' market. (c) NO path (at least one solve): OpenAI converts two things into a formal announcement before year-end. It told the NYT on Sept 11 that it had made 'substantial progress' on a second Millennium problem, and The Information and other outlets report an internal Hodge solve within its claimed haul of 100+ solved problems. The new IAS advisory group could serve as the disclosure scaffolding, and OpenAI retains control over timing. (d) YES path (zero solves): OpenAI deliberately delays or hedges any second announcement. Several things push that way: the Navier-Stokes PR and priority backlash, reporting that it 'wants to get the messaging right', the Fields medalists' declaration, and CMI's unhurried verification culture. Any statement before year-end may come framed as progress rather than a solve, which does not qualify. The market anchor is 57.5%, and the companion ladder prices '1' at about 27-33%, consistent with that. The research surfaces no information clearly beyond what the market has priced. The Hodge lead is anonymously sourced but corroborated by OpenAI's own on-record statement, so I stay close to the anchor with a slight lean toward the status quo.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3468",
+   "has_trace": true
+  }
+ ],
+ "Will the next US-Iran senior diplomatic meeting take place in the United States by December 31, 2026?": [
+  {
+   "id": 3496,
+   "scanned_at": "2026-09-27T14:25:45.687537",
+   "date": "2026-09-27",
+   "agent": 21.6,
+   "market_price_t0": 22,
+   "edge": -0.003999999999999976,
+   "confidence": 0.542,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.20, 0.20, 0.18, 0.26, 0.24) after one crux research pass. (0) Resolution check: this contract is the 'USA' leg of a 'where will the next meeting be' market that opened on Sept 22, after the New York UNGA-sideline session. A sibling Sept-30 location market already resolved USA on that session, so the Sept 22 meeting is most likely the baseline, not a resolving event for this contract. No source shows a later qualifying meeting on US soil. The follow-up research's 68% figure belongs to the timing market (any venue by Dec 31), not to this venue contract. The live anchor here is 22% (bid 21 / ask 23). (a) About three months remain until the Dec 31, 2026 deadline. (b) Status quo: the Iranian delegation has left UNGA, with no announced next round or venue. Iran's hardliners are pushing to impeach Araghchi over the New York contact, and Trump has rejected Tehran's roadmap. If nothing changes, this resolves No, either through no meeting (~40% in sibling pricing) or a third-country venue. (c) NO scenario: talks resume via Qatar, Oman or Pakistan in Doha, Muscat/Salalah or Switzerland, consistent with every round since 2025 except UNGA. Or talks collapse and bombing resumes after the midterms, as the WSJ reported Trump expects. (d) YES scenario: the NY shuttle channel is judged to have continued in a qualifying way after market creation (Sept 23–26 mediated exchanges while Araghchi stayed in NY). Or a special envoy-level session is convened in New York or Washington before year-end, perhaps tied to a UN Security Council track. Hardliner backlash specifically against appearing on US soil makes a fresh US-hosted round less likely. The small ambiguity over post-creation NY contacts keeps me near the market; I shade slightly below 22%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3496",
+   "has_trace": true
+  }
+ ],
+ "Will CMI declare the Riemann Hypothesis solved by December 31, 2027?": [
+  {
+   "id": 3493,
+   "scanned_at": "2026-09-27T12:01:19.324488",
+   "date": "2026-09-27",
+   "agent": 4,
+   "market_price_t0": 14.5,
+   "edge": -0.10499999999999998,
+   "confidence": 0.78,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.04, 0.04, 0.04, 0.04, 0.04). (0) Not met: CMI's Riemann Hypothesis page and its Millennium Problems list (modified 2026-09-11) still show RH as \"Unsolved.\" There is no CMI statement or award, and no candidate proof is known to be in any review pipeline. (a) About 15 months remain until the 2027-12-31 deadline. (b) The status quo is No. CMI's rules, live and last modified 2024, require three things before it will even consider a solution: publication in a qualifying outlet, a two-year wait after publication, and general acceptance by mathematicians. A proof appearing today could not clear that clock before late 2028. The only precedent, Poincaré, took about 7 years from Perelman's first posting to CMI's 2010 award. (c) No: AI-driven partial progress continues, such as Anthropic's critical-line bound rising from 41.6% to 67.2% and Lamzouri's follow-up. No complete proof is published, or one appears but is stuck in the two-year window, and CMI stays silent as it has on the bigger Navier-Stokes claim. (d) Yes: an AI lab produces a complete, Lean-verified proof or an easily checked counterexample, and CMI issues an official statement calling RH solved without waiting for a formal prize award. The market wording would allow that path, but CMI has never done it. The market anchor is 14.5%, and Kalshi's related contract on RH being mathematically resolved before 2028 is 18%. Both look inflated by the August Anthropic hype spike (the price range reached 47%). Neither prices the structural two-year gate, which makes a CMI declaration much harder than a bare solution. I price it well below the market, keeping a few percent for an unprecedented early CMI communication or a surprise counterexample.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3493",
    "has_trace": true
   }
  ]

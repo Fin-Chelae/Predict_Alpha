@@ -14665,6 +14665,20 @@
  ],
  "Will any Category 4 hurricane make landfall in the US in before 2027?": [
   {
+   "id": 3510,
+   "scanned_at": "2026-09-28T00:06:29.697272",
+   "date": "2026-09-28",
+   "agent": 5.6,
+   "market_price_t0": 15.5,
+   "edge": -0.09899999999999999,
+   "confidence": 0.736,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.04, 0.03, 0.05, 0.08, 0.08). (0) The condition has not been met. The NHC 2026 archive and Wikipedia both show zero Atlantic hurricanes through September 27-28. The only US landfalls so far, Arthur, Bertha and Edouard, were tropical storms. Polo is an Eastern Pacific storm hitting Baja California, which is not the conterminous US. (a) About 3 months remain until December 31, 2026; realistically this means about 2 months of the Atlantic season through November 30. (b) If nothing changes, the market resolves No: NHC shows only a weakening TD Fay near the Azores and a low-chance disturbance near Bermuda. (c) NO scenario: the record-strength Super El Niño keeps shear high through October-November. Historically, homegrown Gulf and Caribbean systems have not formed in October of Super El Niño years since 1960, and the season ends with few or no hurricanes. (d) YES scenario: a Central American Gyre system in the western Caribbean or Gulf finds a brief low-shear window over waters near 90°F. It rapidly intensifies, Milton-style, and strikes Florida or the Gulf Coast at exactly 130-156 mph. The rule excludes Cat 5, which further narrows the path. Historically, Cat 4 US landfalls in October-November are only a handful in about 175 years (e.g., Hazel 1954), so the unconditional late-season rate is only a few percent per year. This year's record-quiet season and extreme El Niño push it lower still. The Polymarket price of 15.5% (bid 13%) looks inflated, possibly from traders confusing it with Pacific Hurricane Polo. I fade it substantially but keep some residual weight for late-season surprises and model uncertainty.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3510",
+   "has_trace": true
+  },
+  {
    "id": 1157,
    "scanned_at": "2026-08-07T08:00:43.493382",
    "date": "2026-08-07",
@@ -14822,7 +14836,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-27T18:58:52.277Z",
+  "last_sync": "2026-09-28T09:45:47.891Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -16260,6 +16274,20 @@
   }
  ],
  "Will more than 8 tropical cyclones make landfall in China during 2026?": [
+  {
+   "id": 3514,
+   "scanned_at": "2026-09-28T02:31:59.218269",
+   "date": "2026-09-28",
+   "agent": 34,
+   "market_price_t0": 32.5,
+   "edge": 0.015000000000000013,
+   "confidence": 0.5425,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.29, 0.40, 0.33, 0.34). (0) Not resolved: a CMA briefing put China landfalls at 7 as of Sept 1, and no confirmed China landfall since was found; at least 2 more CMA-logged landfalls are needed, with the best track published in 2027. (a) About three months (Oct–Dec) remain, historically worth roughly 1 landfall on average. (b) Status quo leaves the count at 7, or 8 with a depression landfall, so No. (c) No: Dujuan and Surigae both recurved to Japan, ECMWF suppresses South China Sea development, and October gives 0–1 landfalls, as in 2024's shortfall. (d) Yes: the hyperactive basin (26 storms by Sept 24) sends two more systems into South China, or depression landfalls excluded from the named-storm briefing count get added in the all-intensity best track. The market is at 32.5% and sister contracts imply traders expect about 8; I shade slightly below the market given the low autumn landfall rate. I keep weight on the depression-counting and resolution-source uncertainty because the CMA page could not be read.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3514",
+   "has_trace": true
+  },
   {
    "id": 2919,
    "scanned_at": "2026-09-14T13:44:23.503293",
@@ -17912,6 +17940,86 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.04, 0.04, 0.04, 0.04, 0.04). (0) Not met: CMI's Riemann Hypothesis page and its Millennium Problems list (modified 2026-09-11) still show RH as \"Unsolved.\" There is no CMI statement or award, and no candidate proof is known to be in any review pipeline. (a) About 15 months remain until the 2027-12-31 deadline. (b) The status quo is No. CMI's rules, live and last modified 2024, require three things before it will even consider a solution: publication in a qualifying outlet, a two-year wait after publication, and general acceptance by mathematicians. A proof appearing today could not clear that clock before late 2028. The only precedent, Poincaré, took about 7 years from Perelman's first posting to CMI's 2010 award. (c) No: AI-driven partial progress continues, such as Anthropic's critical-line bound rising from 41.6% to 67.2% and Lamzouri's follow-up. No complete proof is published, or one appears but is stuck in the two-year window, and CMI stays silent as it has on the bigger Navier-Stokes claim. (d) Yes: an AI lab produces a complete, Lean-verified proof or an easily checked counterexample, and CMI issues an official statement calling RH solved without waiting for a formal prize award. The market wording would allow that path, but CMI has never done it. The market anchor is 14.5%, and Kalshi's related contract on RH being mathematically resolved before 2028 is 18%. Both look inflated by the August Anthropic hype spike (the price range reached 47%). Neither prices the structural two-year gate, which makes a CMI declaration much harder than a bare solution. I price it well below the market, keeping a few percent for an unprecedented early CMI communication or a surprise counterexample.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3493",
+   "has_trace": true
+  }
+ ],
+ "Will Baidu be removed from Chinese Military Companies list by June 30, 2027?": [
+  {
+   "id": 3524,
+   "scanned_at": "2026-09-28T09:41:45.303762",
+   "date": "2026-09-28",
+   "agent": 15.2,
+   "market_price_t0": 17.5,
+   "edge": -0.022999999999999993,
+   "confidence": 0.628,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.15, 0.15, 0.15, 0.15, 0.16). (0) Resolution check: the condition is not met. The June 8, 2026 list added Baidu, and the Federal Register delisting notice for that cycle named 10 other entities, not Baidu. A compliance mirror updated September 11, 2026 still shows Baidu listed, and Bloomberg on September 22 confirms it remains on the list. (a) About nine months remain until June 30, 2027. Section 1260H requires an update at least annually, so one more list refresh is likely around the deadline, though past releases have slipped. (b) If nothing changes, Baidu stays listed and the market resolves No. (c) NO scenario: DoD's next refresh keeps Baidu, citing its SASAC/MIIT military-civil fusion rationale. Baidu either never sues or its suit, like DJI's, drags on for years, and the trade truce yields no concessions on the list. (d) YES scenario: the new US-China AI dialogue or a broader trade deal produces delistings of AI champions. Internal lobbying already exists (McEntee pressing for Tencent's removal), and a late-spring 2027 refresh could drop Baidu, or a reconsideration petition could succeed quietly. The market sits at 17.5% after falling 10 points in a week, apparently because the Trump-Xi summit delivered no 1260H concession. Baidu has no confirmed lawsuit, litigation precedent shows slow removals, and incentives run toward retention as procurement bans take hold. I shade slightly below the market to 15%, keeping meaningful weight on a diplomatic deal before the next annual refresh.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3524",
+   "has_trace": true
+  }
+ ],
+ "Will the 10-year Treasury yield hit 5.2% before 2027?": [
+  {
+   "id": 3521,
+   "scanned_at": "2026-09-28T07:16:39.864151",
+   "date": "2026-09-28",
+   "agent": 92.3,
+   "market_price_t0": 90.6,
+   "edge": 0.01650000000000007,
+   "confidence": 0.75,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.92, 0.92, 0.92, 0.93). (0) Resolution check: the condition is not documented as met. The official-style daily series (FRED DGS10 / H.15, which tracks Treasury's par curve) printed 5.18% on Sept 24, the day of the 5.223% intraday headline. Secondary trackers put Sept 25 around 5.17%. TradingEconomics shows about 5.21% live on Sept 28, but that is an intraday quote, not Treasury's 3:30pm par-curve print. So YES still needs one official daily print of 5.20% or higher. (a) About three months (~65 trading days) remain until Dec 31, 2026. (b) Status quo: the yield sits only 2-3bp below the strike, the Fed is hiking with about 70% odds of another hike, and PCE (Sep 30), jobs (Oct 2), CPI (Oct 14) and the FOMC (Oct 27-28) are all still ahead. (c) NO: an Iran/Hormuz deal pushes oil lower, data soften, and yields retreat 2023-style, so official closes top out at 5.17-5.19% and then fall. (d) YES: any hot print or hawkish Fed remark yields a 3:30pm snapshot of 5.20% or more, possibly as soon as Sept 28 given the 5.21% live quote. A simple hitting-probability estimate (about 6bp daily volatility, 2bp gap, 65 days) gives well above 90% under zero drift. Discrete daily snapshots and the demonstrated reversibility trim that somewhat. I sit slightly above the 90.6% Polymarket anchor, and the ladder of related contracts (5.4% at 48.5%, 5.5% at 25%) is consistent with that.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3521",
+   "has_trace": true
+  }
+ ],
+ "Will NYC have between 4 and 5 inches of precipitation in September?": [
+  {
+   "id": 3517,
+   "scanned_at": "2026-09-28T04:53:50.757841",
+   "date": "2026-09-28",
+   "agent": 8.6,
+   "market_price_t0": 7.6,
+   "edge": 0.010000000000000009,
+   "confidence": 0.6519999999999999,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.08, 0.09, 0.10, 0.07, 0.09). (0) Not yet resolved: the NWS CLI shows 4.57\" month-to-date as of 4 PM Sep 27. With the F-6 figure (3.28\" through Sep 26) and ABC7's 1.46\" for all of Sep 27, the total is about 4.74\" through Sep 27, leaving roughly 0.25\" of room below 5.00\" (an exact 5.00\" resolves to the higher bracket). (a) Three days remain, Sep 28–30. (b) The storm was still raining Monday Sep 28: ABC7 reported moderate-to-heavy periods through midday, NWS kept a coastal flood warning until noon, and WPC flagged heavy rain into Monday, so the status quo is unlikely to hold. (c) NO: another 0.3\" or more falls on Sep 28, pushing past 5.00\"; sibling markets price this at 73% for 5–6\" and 14% for more than 6\". (d) YES: Monday rain misses Manhattan or stays under about 0.25\" and Sep 29–30 stay dry, finishing around 4.8–4.99\". The 7.6% market price likely reflects live Sep 28 observations, and I stay near it with a small allowance for data-reconciliation uncertainty.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3517",
+   "has_trace": true
+  }
+ ],
+ "Will the Republicans win the Texas governor race in 2026?": [
+  {
+   "id": 3507,
+   "scanned_at": "2026-09-27T21:39:51.875691",
+   "date": "2026-09-27",
+   "agent": 82,
+   "market_price_t0": 82.2,
+   "edge": -0.0020000000000000018,
+   "confidence": 0.67,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.82, 0.82, 0.82, 0.82, 0.82). (0) Nothing is resolved yet. The Nov 3 general election has not happened, and neither AP, Fox nor NBC has called the race. Abbott (R) and Hinojosa (D) are the confirmed nominees. (a) About five weeks remain until Election Day. Early voting runs Oct 19–30, and the resolution call would likely come on election night or soon after. (b) Status quo: Abbott leads every aggregate (RCP +1.8, Pollsmax +4.3). He has roughly a 20:1 cash advantage and a Trump endorsement, rater consensus is Likely R, and no Democrat has won a Texas governor's race since 1990, so an Abbott win is the default. (c) NO scenario: the anti-GOP 2026 environment (markets give Democrats ~62% to win the Senate) and the data-center backlash deepen. Recent polls showing Hinojosa ahead (Marist +3, Recon +4) prove accurate, and high Democratic turnout plus a drag from Paxton at the top of the ballot produce a narrow Hinojosa upset. (d) YES scenario: Abbott's 30:1 ad edge and his Harris County turnout operation hold, and Texas's usual polling bias toward Democrats (seen in 2018–2024) recurs. Abbott wins by 4–7 points, consistent with the Pollsmax model's 84% win probability. I anchor on the Polymarket price of 82.2%. The paired Democratic market sits at 18.5%, and the Pollsmax model agrees with the market. Tightening polls pull toward a lower price, while Texas's history of polling errors favouring Republicans and Abbott's money pull toward a higher one, so I stay essentially at the market. A delayed call in a very close race is a timing risk, not a directional one.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3507",
+   "has_trace": true
+  }
+ ],
+ "Will David Lisnard advance to the second round of the next French presidential election?": [
+  {
+   "id": 3503,
+   "scanned_at": "2026-09-27T19:12:07.517441",
+   "date": "2026-09-27",
+   "agent": 5.4,
+   "market_price_t0": 8.3,
+   "edge": -0.0295,
+   "confidence": 0.6639999999999999,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.04, 0.05, 0.04, 0.07, 0.07). (0) Nothing is resolved yet. The first round is scheduled for 18 April 2027, and the Interior Ministry source could not be read (HTTP 403), but nothing suggests an early election. (a) About 6.7 months remain until the first round, and the ballot is only fixed after parrainage validation in February–March 2027. (b) Status quo: Lisnard polls 3–5% (Elabe 3–3.5%, Cluster17 4.2–5%, IFOP spring 1–2%). He trails Retailleau (7.5%) on the right and sits far below Le Pen, Philippe and Mélenchon, and the runoff threshold is roughly 18–22%, so the status quo is No. (c) No: a right/centre consolidation, if it happens, concentrates votes on Philippe (about 18% as sole centrist) or Retailleau. Lisnard stays a fragmented independent, like Pécresse's 4.78% in 2022, or struggles to validate his self-reported 500 parrainage promises. (d) Yes: an open primary is forced after the Senate elections, Lisnard wins it on activist energy, rivals collapse, and a unified right surges past Philippe or the left for second place. That requires several unlikely steps and a Macron-2017-scale rise from a lower base. The market anchor is 8.35%, the same price as Polymarket's outright-win market for him, which is internally inconsistent: advancing should be priced above winning, so the pair looks hype-driven, not poll-driven. Commentary also notes a social-media narrative about his Polymarket price. No Fifth-Republic candidate polling about 4% at this stage has reached the runoff. I shade below the market to about 4%, keeping tail room for primary dynamics and polling error this far out.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3503",
    "has_trace": true
   }
  ]

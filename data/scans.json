@@ -2819,6 +2819,20 @@
  ],
  "Will Iliana Iotova win the next Bulgarian presidential election?": [
   {
+   "id": 3539,
+   "scanned_at": "2026-09-28T19:14:26.476498",
+   "date": "2026-09-28",
+   "agent": 83.8,
+   "market_price_t0": 81.5,
+   "edge": 0.02300000000000013,
+   "confidence": 0.682,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.85, 0.85, 0.84, 0.83, 0.82). (0) The race has not been decided. The first round is on 25 October 2026, with a runoff on 1 November if no one reaches 50%, and the CEC site could not be fetched. Iotova still has to top a 27-candidate field and very likely win a runoff. (a) About four weeks remain to the first round and about five to the runoff; the Dec 31, 2027 fallback deadline is irrelevant in practice. (b) If nothing changes, Iotova wins. She is the sitting president, backed by the dominant Progressive Bulgaria (Gallup: 42.3% vs GERB's 12%) plus the BSP and smaller parties, and she has the highest trust rating of any politician (48.4% vs about 30% distrust). Global Metrics had her near 50% against Gyurov's 23%, and Metaculus puts her first-round share around 45.6%. GERB is fielding no candidate, and several GERB mayors are defecting to her. Incumbents seeking re-election are 3/3 in Bulgaria. (c) NO: the 25 September UN-declaration controversy grows into a sustained foreign-policy liability. Anti-Radev voters, pro-EU and GERB-leaning, consolidate behind Gyurov in the runoff, turnout dynamics shift, and she loses narrowly; a tail risk is a contested result. (d) YES: she leads the first round with about 45% and beats Gyurov or a Vazrazhdane candidate comfortably in the runoff, as Radev did in 2021. The market anchor is 81.5% and rising (+14% over 7 days). The research adds no post-controversy polling, so I shade only slightly above the market, to 0.85. A 20+ point first-round lead and the opposition's lack of a unified runoff coalition make an upset unlikely.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3539",
+   "has_trace": true
+  },
+  {
    "id": 2550,
    "scanned_at": "2026-09-03T05:44:25.114311",
    "date": "2026-09-03",
@@ -14836,7 +14850,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-28T09:45:47.891Z",
+  "last_sync": "2026-09-28T21:14:21.446Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -17209,6 +17223,20 @@
  ],
  "EU country blames Russia for new sabotage attack by October 31?": [
   {
+   "id": 3535,
+   "scanned_at": "2026-09-28T16:51:45.817467",
+   "date": "2026-09-28",
+   "agent": 46.8,
+   "market_price_t0": 45,
+   "edge": 0.01799999999999996,
+   "confidence": 0.542,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.47, 0.48, 0.47, 0.46, 0.46). (0) No source shows the condition met. Germany's Leipzig attribution came on Sept 1-2, before the market opened on Sept 19, so it cannot count, and the resolution-source read confirms no qualifying post-creation attribution. Every newer case is still hedged: the Polish Starlink arson (prosecutors cite 'reasonable suspicion' of orders from Russian services), the Munich arson (FAZ reports investigators suspect the GRU, but prosecutors decline to confirm), and the Dutch rail and Danish airport incidents (not linked to Russia). (a) About 33 days remain until Oct 31. (b) If nothing changes, the market resolves No. (c) No scenario: investigations stall at 'likely/modus operandi' language, prosecutors keep charges generic (arson, criminal damage), and attribution lags for months, as with Marywilska. (d) Yes scenario: Polish prosecutors charge suspects in the Starlink fire with acting on behalf of Russian intelligence (a common Polish charging formula), or Munich prosecutors or German ministers formally name the GRU. Other candidates are Slovakia's Skyeton cell and the Wunstorf probe; any of these could cross the bar quickly given the current political willingness to name Moscow. The market sits at 45% and has drifted down from 54% as the week passed without an attribution. The December market at 67% implies a consistent hazard rate. The unusually dense pipeline of primed cases slightly offsets the strict wording bar, so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3535",
+   "has_trace": true
+  },
+  {
    "id": 3286,
    "scanned_at": "2026-09-21T13:40:54.402412",
    "date": "2026-09-21",
@@ -18020,6 +18048,38 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.04, 0.05, 0.04, 0.07, 0.07). (0) Nothing is resolved yet. The first round is scheduled for 18 April 2027, and the Interior Ministry source could not be read (HTTP 403), but nothing suggests an early election. (a) About 6.7 months remain until the first round, and the ballot is only fixed after parrainage validation in February–March 2027. (b) Status quo: Lisnard polls 3–5% (Elabe 3–3.5%, Cluster17 4.2–5%, IFOP spring 1–2%). He trails Retailleau (7.5%) on the right and sits far below Le Pen, Philippe and Mélenchon, and the runoff threshold is roughly 18–22%, so the status quo is No. (c) No: a right/centre consolidation, if it happens, concentrates votes on Philippe (about 18% as sole centrist) or Retailleau. Lisnard stays a fragmented independent, like Pécresse's 4.78% in 2022, or struggles to validate his self-reported 500 parrainage promises. (d) Yes: an open primary is forced after the Senate elections, Lisnard wins it on activist energy, rivals collapse, and a unified right surges past Philippe or the left for second place. That requires several unlikely steps and a Macron-2017-scale rise from a lower base. The market anchor is 8.35%, the same price as Polymarket's outright-win market for him, which is internally inconsistent: advancing should be priced above winning, so the pair looks hype-driven, not poll-driven. Commentary also notes a social-media narrative about his Polymarket price. No Fifth-Republic candidate polling about 4% at this stage has reached the runoff. I shade below the market to about 4%, keeping tail room for primary dynamics and polling error this far out.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3503",
+   "has_trace": true
+  }
+ ],
+ "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?": [
+  {
+   "id": 3531,
+   "scanned_at": "2026-09-28T14:27:07.642439",
+   "date": "2026-09-28",
+   "agent": 46.8,
+   "market_price_t0": 48,
+   "edge": -0.01200000000000001,
+   "confidence": 0.512,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.47, 0.47, 0.46, 0.47, 0.47). (0) The condition is not met. FRED shows the upper bound at 4.00% after the September 16, 2026 hike, and the January 26-27, 2027 meeting has not happened, so nothing is resolved. (a) About four months remain, with the October 28 and December 9 meetings, several CPI and jobs reports, and a new dot plot all due before the January decision. (b) The status quo favours No: the median dot implies one more 2026 hike and then a pause through 2027, and January meetings in this cycle have tended to be pause meetings. (c) No: the Fed hikes in October and/or December and then holds in January because data cool or it wants to wait, as JPMorgan's 'December then done' view suggests. A data disruption or growth scare would also push toward a hold. (d) Yes: CPI stays hot, which has already happened (a 0.4% August print and 2-year yields climbing to 4.87%), Warsh keeps removing 'doses' of accommodation, and January becomes a third or fourth consecutive hike. Futures pricing about 4.8% by September 2027 and roughly three hikes over the next year supports this. The anchor is Polymarket at 48%, up sharply from 34% on September 18. A futures-derived tracker puts a fresh January hike at about 53%, a close independent read. However, spreading the futures path across 2027 meetings implies roughly 40% per meeting, and the dots argue for a pause. I shade slightly below the market to 47% and treat the recent momentum as partly priced.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3531",
+   "has_trace": true
+  }
+ ],
+ "Will London have less than 30mm of precipitation in September?": [
+  {
+   "id": 3528,
+   "scanned_at": "2026-09-28T12:05:17.761706",
+   "date": "2026-09-28",
+   "agent": 30.6,
+   "market_price_t0": 32.5,
+   "edge": -0.019000000000000017,
+   "confidence": 0.524,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.31, 0.30, 0.30, 0.31, 0.31). (0) Not resolved: the Met Office file ends at August 2026 (12.0mm Provisional). The outcome depends on the final September total, including 28-30 Sept rain. (a) About 2-3 days of rainfall remain; the Provisional figure should be published in early October, well before the Dec 7 deadline. (b) Status quo: EA bulletins put south-east England at roughly 40-58% of the September average through 22 Sept, implying about 20-29mm at Heathrow; the EA gauge showed 0.00mm in the 24h to midday 28 Sept. A dry finish would likely give Yes, narrowly. (c) NO: multiple forecasts (Met Office SE regional, Met Office-cited >80% rain chance on Wed 30 Sept, TheWeatherOutlook ~12mm for 28-30 Sept) plus a rain band on 27 Sept push a high-20s total past 30mm. (d) YES: the actual running total is near 20mm and the Wednesday rain underdelivers at Heathrow. The market's 32.5% for Yes and 45.5% for the 30-40mm bracket imply traders see a mid-to-high-20s total likely tipped over by forecast rain. With no precise Heathrow running total found, I stay near the market and shade slightly toward No given the forecast rain.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3528",
    "has_trace": true
   }
  ]

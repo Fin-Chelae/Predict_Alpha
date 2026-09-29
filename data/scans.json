@@ -14850,7 +14850,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-28T21:14:21.446Z",
+  "last_sync": "2026-09-29T09:49:02.683Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -15994,6 +15994,20 @@
   }
  ],
  "Will the Houthis enter Saudi Arabia by October 31?": [
+  {
+   "id": 3552,
+   "scanned_at": "2026-09-29T04:55:27.668882",
+   "date": "2026-09-29",
+   "agent": 11.2,
+   "market_price_t0": 10.5,
+   "edge": 0.006999999999999992,
+   "confidence": 0.616,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.12, 0.11, 0.11, 0.11, 0.11). (0) Resolution check: the condition has not been met. The resolution-source read (CNN, Sept 8) and every tracker through Sept 27-28 (CTP-ISW, Al Jazeera, the Yemen Frontier brief) describe missile, drone and naval attacks. The rules explicitly exclude those, and no source reports Houthi ground forces on Saudi soil. (a) About 32 days remain until Oct 31, with a possible 3-day grace period for genuine ambiguity. (b) Status quo is No: the campaign's center of gravity is long-range fires plus Houthi land grabs inside Yemen, near Taiz and Bab el-Mandeb. (c) NO scenario: strikes and the blockade continue, Saudi-led and international air defenses harden, the Hajjah build-up is spent against Yemeni government positions, and diplomatic channels dampen escalation. (d) YES scenario: the 5,000+ fighters massing in the Midi-Haradh belt, close to the frontier, shift from force generation to maneuver. They mount a brief raid into Jizan or Najran, repeating the 2016 Najran and 2019 Jahfan episodes, and publish footage that credible outlets confirm. The market anchor is 10.5% (bid 9 / ask 12), down from a 30% high. Research adds modest upside the price may underweight: direct border-camp clashes at al-Tuwal, the Grand Mufti's call to border troops, and an OSINT brief flagging a plausible ground-pressure option. Against that, the historical base rate of entries is low, and the one prior sustained incursion required a two-sided ground offensive that analysts say is absent now. I land slightly above the market at 12%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3552",
+   "has_trace": true
+  },
   {
    "id": 3228,
    "scanned_at": "2026-09-20T08:10:52.024950",
@@ -18080,6 +18094,86 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.31, 0.30, 0.30, 0.31, 0.31). (0) Not resolved: the Met Office file ends at August 2026 (12.0mm Provisional). The outcome depends on the final September total, including 28-30 Sept rain. (a) About 2-3 days of rainfall remain; the Provisional figure should be published in early October, well before the Dec 7 deadline. (b) Status quo: EA bulletins put south-east England at roughly 40-58% of the September average through 22 Sept, implying about 20-29mm at Heathrow; the EA gauge showed 0.00mm in the 24h to midday 28 Sept. A dry finish would likely give Yes, narrowly. (c) NO: multiple forecasts (Met Office SE regional, Met Office-cited >80% rain chance on Wed 30 Sept, TheWeatherOutlook ~12mm for 28-30 Sept) plus a rain band on 27 Sept push a high-20s total past 30mm. (d) YES: the actual running total is near 20mm and the Wednesday rain underdelivers at Heathrow. The market's 32.5% for Yes and 45.5% for the 30-40mm bracket imply traders see a mid-to-high-20s total likely tipped over by forecast rain. With no precise Heathrow running total found, I stay near the market and shade slightly toward No given the forecast rain.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3528",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic IPO by October 31, 2026?": [
+  {
+   "id": 3560,
+   "scanned_at": "2026-09-29T09:39:19.431663",
+   "date": "2026-09-29",
+   "agent": 7.5,
+   "market_price_t0": 7.1,
+   "edge": 0.004000000000000017,
+   "confidence": 0.732,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.08, 0.08, 0.07, 0.07, 0.07). (0) Not met: the EDGAR search in the resolution-source read shows no Anthropic S-1, and outlets confirm Anthropic was still private as of Sept 25-26; Reuters' Sept 28 review of a 261-page prospectus may signal an imminent or just-made public flip, but this is unverified. (a) About 32 days remain to Oct 31, 2026. (b) Status quo: the 15-day pre-roadshow rule plus the WSJ-reported shift to a November listing after Q3 results means No. (c) No: the S-1 goes public around early October, the roadshow runs late Oct/early Nov, and pricing comes mid-to-late November, consistent with sibling Polymarket prices of 36.5% by Nov 15 and 71.5% by Nov 30; repeated slips and new litigation and political overhang reinforce this. (d) Yes: the prospectus went public around Sept 28, the 15-day clock ends about Oct 13, and a compressed SpaceX-style roadshow with banks and Nasdaq already set prices before the midterms, the 'late October at the earliest' Forbes mentions. The market anchor is 7.15%; I shade slightly up to 8% for the possibility the filing is already public.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3560",
+   "has_trace": true
+  }
+ ],
+ "Will the next Sonnet model debut at a score of at least 1470 by December 31, 2026?": [
+  {
+   "id": 3556,
+   "scanned_at": "2026-09-29T07:17:27.390165",
+   "date": "2026-09-29",
+   "agent": 88.4,
+   "market_price_t0": 92.5,
+   "edge": -0.041000000000000036,
+   "confidence": 0.636,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.88, 0.89, 0.87, 0.88, 0.90). (0) Not resolved yet. The resolution-source snapshot (Sep 25) and Arena's changelog (through Sep 28) show no Claude Sonnet 5.5 entry. Sonnet 5.5 launched Sep 28, so a non-AutoEval listing still has to appear and show a Score of at least 1470 at noon ET the next day. (a) About three months remain until Dec 31, 2026, far more than the roughly 3-day lag Opus 5.5 had between release and listing, so a listing in time is near-certain. (b) Status quo: Sonnet 5.5 is the next Sonnet, and the market prices it at 92.5% to clear 1470. The price rose 59 points in 7 days, and the related ladder sits at 83.5% for 1480, 79.5% for 1490 and 40% for 1500. That pattern implies traders expect a debut around 1490–1500, plausibly informed by early or AutoEval signals I cannot verify. (c) NO: Sonnet 5.5 lands in the historical Sonnet band (Sonnet 4.6 at 1458, Sonnet 5 at 1443). Alternatively, an AutoEval-labelled or removed entry, or a lower-scoring Sonnet variant listed first, sets the resolving snapshot below 1470. (d) YES: Sonnet 5.5's benchmark near-parity with Opus 5.5 carries over to human votes. Artificial Analysis rates it 56 vs 58 for Opus 5.5, and Opus 5.5 sits at 1518 on Arena. It then debuts somewhere in the 1480–1500 range, well above the crowded 1470 cutoff. I shade slightly below the market because the prior Sonnet base rate is poor and the rules carry technical-resolution risks. The steep price move, however, suggests information the research did not capture.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3556",
+   "has_trace": true
+  }
+ ],
+ "Will the Democrats win the Iowa governor race in 2026?": [
+  {
+   "id": 3549,
+   "scanned_at": "2026-09-29T02:30:40.869623",
+   "date": "2026-09-29",
+   "agent": 81.6,
+   "market_price_t0": 84,
+   "edge": -0.02400000000000002,
+   "confidence": 0.6759999999999999,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.82, 0.82, 0.79, 0.82, 0.83). (0) The race is not resolved. Ballotpedia and Wikipedia show Rob Sand (D) versus Zach Lahn (R) with the general election on Nov 3, 2026, and AP/Fox/NBC have made no call. (a) About five weeks remain until election day, with two debates still to come (Oct 6 and Oct 21), then calls or certification. (b) If today's state holds, Sand wins. He has led every public poll since the primary: Emerson +5 and +3, Suffolk +4, YouGov +10, Marist +12, an average near +7. Cook and Sabato rate the race Lean D and Inside Elections Tilt D. He holds a roughly 28:1 cash-on-hand edge, and the environment favors Democrats (Trump disapproval at 58%, generic ballot D+5). (c) NO: 'partisan gravity' in a Trump+13 state, a 184k Republican registration edge and the unified Trump/RGA backing for Lahn narrow the race. A Republican-leaning polling miss like the 2024 Selzer error (~16 points) then hands Lahn a narrow win. (d) YES: Sand's money and his crossover appeal with independents hold up through the debates, and he wins by mid-single digits in a Democratic-leaning midterm. The market anchor of 84% (bid 83 / ask 85) matches a ~7-point lead with Iowa-sized polling error, which I estimate at roughly 80-85% to win. I shade slightly below the market because of Iowa's recent record of polls understating Republicans and the fact that some polls show only a 3-4 point lead.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3549",
+   "has_trace": true
+  }
+ ],
+ "Will the Fed Hike–Hike–Hike in the next three decisions (Sep–Oct–Dec)?": [
+  {
+   "id": 3545,
+   "scanned_at": "2026-09-29T00:08:20.477985",
+   "date": "2026-09-29",
+   "agent": 45.8,
+   "market_price_t0": 48,
+   "edge": -0.021999999999999964,
+   "confidence": 0.604,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.46, 0.45, 0.46, 0.47, 0.45). (0) The September leg is done. The Fed's 2026-09-16 press release shows a 25bp hike to 3.75–4.00%, and FRED confirms it: DFEDTARU is at 4.00 and DFF moved from 3.63 to 3.88. YES still needs hikes at both October 28 and December 9, so nothing is resolved yet. (a) About 10 weeks remain, with two FOMC decisions left. The September jobs report (Oct 2) and the August PCE print (Sep 30) land before October. (b) If nothing changes, the rate holds at 4.00%, which resolves NO. But the status quo is actively tilting toward hikes: FedWatch put October at roughly 66–77% in late September (72.3% on Sep 28), and 16 of 18 dots see at least one more hike. (c) NO: a soft jobs print, midterm sensitivity and Trump pressure lead to an October pause, matching J.P. Morgan's hike-pause-hike call. Alternatively, the Fed hikes in October and then stops in December. (d) YES: inflation stays above 3%, Williams, Hammack and Schmid follow through, and the Fed hikes in October and again in December, as BMO forecasts. On the math, roughly 72% for an October hike times about 60–65% for a December hike given October gives about 43–47%. That is consistent with the market's 48% and with the rise in the two-more-hikes probability from 37% on Sep 16. I see no unpriced information to justify moving far from the anchor, so I shade slightly below it for midterm and data risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3545",
+   "has_trace": true
+  }
+ ],
+ "Google matches Anthropic's evaluator commitment by October 31?": [
+  {
+   "id": 3542,
+   "scanned_at": "2026-09-28T21:36:48.796471",
+   "date": "2026-09-28",
+   "agent": 18.4,
+   "market_price_t0": 24.5,
+   "edge": -0.061,
+   "confidence": 0.65,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.16, 0.17, 0.17, 0.21, 0.21). (0) Not resolved. No source shows Google or DeepMind committing to ongoing, employee-level evaluator access. TechCrunch (Sept 16), later roundups and Zvi's Sept 27 tracker all list Google as not committed. Hassabis's Sept 12 quote-tweet endorsed the direction only, which the rules exclude. (a) About 33 days remain until the Oct 31, 11:59 PM ET deadline. (b) Status quo is No. Google's consistent posture since July has been a pre-release (30-day) standards-body model, restated at the Sept 17 DeepMind Institute launch, plus double-blind pilots that restrict evaluator access. Both are disqualified arrangement types. (c) No path: the tripartite 'Frontier AI Standards Agency' talks continue on a year-end or early-2027 timeline and focus on pre-deployment testing and auditor standards. The Sept 18 Sherman Act suit and Hawley/Cruz hostility deter any visible reciprocal commitment, so Google stays silent or makes only non-qualifying statements. (d) Yes path: a joint charter or announcement with Anthropic and OpenAI before Oct 31 includes ongoing embedded-evaluator access, or Google moves unilaterally under competitive and PR pressure. OpenAI matched on the same day, which shows a match can come suddenly. The market sits at 24.5% and has trended down (-9% over 7 days, -18% over 30 days). The research adds specifics the price may not fully reflect: Google's doubled-down alternative framework, the standards body's year-end timeline, and the antitrust deterrent. That justifies shading below the anchor, while keeping meaningful weight on the active three-way talks.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3542",
    "has_trace": true
   }
  ]

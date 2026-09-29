@@ -14850,7 +14850,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-29T09:49:02.683Z",
+  "last_sync": "2026-09-29T19:59:14.271Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -17283,6 +17283,20 @@
  ],
  "Anthropic lab leak by June 30, 2027?": [
   {
+   "id": 3573,
+   "scanned_at": "2026-09-29T19:15:59.529567",
+   "date": "2026-09-29",
+   "agent": 3.1,
+   "market_price_t0": 8.5,
+   "edge": -0.05400000000000001,
+   "confidence": 0.728,
+   "category": "Health",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.03, 0.03, 0.03, 0.03, 0.04). ",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3573",
+   "has_trace": true
+  },
+  {
    "id": 3304,
    "scanned_at": "2026-09-22T02:30:46.150462",
    "date": "2026-09-22",
@@ -18174,6 +18188,54 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.16, 0.17, 0.17, 0.21, 0.21). (0) Not resolved. No source shows Google or DeepMind committing to ongoing, employee-level evaluator access. TechCrunch (Sept 16), later roundups and Zvi's Sept 27 tracker all list Google as not committed. Hassabis's Sept 12 quote-tweet endorsed the direction only, which the rules exclude. (a) About 33 days remain until the Oct 31, 11:59 PM ET deadline. (b) Status quo is No. Google's consistent posture since July has been a pre-release (30-day) standards-body model, restated at the Sept 17 DeepMind Institute launch, plus double-blind pilots that restrict evaluator access. Both are disqualified arrangement types. (c) No path: the tripartite 'Frontier AI Standards Agency' talks continue on a year-end or early-2027 timeline and focus on pre-deployment testing and auditor standards. The Sept 18 Sherman Act suit and Hawley/Cruz hostility deter any visible reciprocal commitment, so Google stays silent or makes only non-qualifying statements. (d) Yes path: a joint charter or announcement with Anthropic and OpenAI before Oct 31 includes ongoing embedded-evaluator access, or Google moves unilaterally under competitive and PR pressure. OpenAI matched on the same day, which shows a match can come suddenly. The market sits at 24.5% and has trended down (-9% over 7 days, -18% over 30 days). The research adds specifics the price may not fully reflect: Google's doubled-down alternative framework, the standards body's year-end timeline, and the antitrust deterrent. That justifies shading below the anchor, while keeping meaningful weight on the active three-way talks.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3542",
+   "has_trace": true
+  }
+ ],
+ "Next Astra Model (6.1+) released by October 31, 2026?": [
+  {
+   "id": 3570,
+   "scanned_at": "2026-09-29T16:49:25.570910",
+   "date": "2026-09-29",
+   "agent": 17,
+   "market_price_t0": 28.5,
+   "edge": -0.11499999999999996,
+   "confidence": 0.6639999999999999,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.15, 0.17, 0.17, 0.14, 0.22). (0) The condition is not met. No source shows any Astra 6.1+ model publicly available. The resolution-source fetch failed (HTTP 403), so this rests on reporting. On Sept 28, WSJ, CNBC, Engadget, Al Jazeera and 9to5Google all reported that OpenAI cancelled the planned October GPT-6.1 Astra release after safety and alignment regressions, specifically deception and scope-authorization failures. The Sept 29 DevDay keynote named no Astra successor or date. (a) About 32 days remain until Oct 31. In that time OpenAI would have to finish a root-cause investigation, run new reinforcement-learning passes, re-run safety evals and clear the bar it just failed, then ship publicly. (b) If nothing changes, the answer is No: only GPT-6 Astra, which is excluded, plus Sol and Luna are live, and OpenAI gave no timeline. (c) NO: OpenAI takes weeks to months to diagnose and retrain amid heavy safety scrutiny, including the Florida AG petition and the July Hugging Face incident. Any successor then lands in November or later, or under a different name. (d) YES: the fix is a narrow RL patch on an existing base model. OpenAI's fast cadence and Altman's 'normal course' framing let a retuned GPT-6.1 or 6.5 Astra clear evals and ship in late October, possibly with no advance notice. The market anchor is 27.5%, down from ~80% after the news, while the related Oct 23 contract trades at 16%. I shade below the anchor because a multi-source confirmed safety cancellation with no relaunch date, one month before the deadline, makes a public re-release unlikely. I keep some tail for OpenAI's rapid iteration and the chance of a quick patched relaunch.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3570",
+   "has_trace": true
+  }
+ ],
+ "Will the Swedish Social Democratic Party (S) be in the next Swedish government?": [
+  {
+   "id": 3566,
+   "scanned_at": "2026-09-29T14:26:44.396072",
+   "date": "2026-09-29",
+   "agent": 73.2,
+   "market_price_t0": 74.4,
+   "edge": -0.01200000000000001,
+   "confidence": 0.5860000000000001,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.75, 0.71, 0.72, 0.73, 0.75). (0) The condition is not yet met. The Riksdag page shows only seat counts and the Speaker elections. Andersson returned her exploratory mandate on 28 Sept, and Speaker Norlén calls a new round of party-leader talks on 1 Oct. No cabinet has been formed.\n\n(a) About four months remain before the 31 Jan 2027 deadline. For comparison, 2018 took 134 days, which would land close to the cutoff.\n\n(b) Status quo: the Kristersson caretaker government continues. That resolves NO if nothing is formed by the deadline.\n\n(c) NO scenario: the Dalarna fraud probe or a re-run flips the 176–173 left majority. Or Kristersson assembles a tolerated M-led cabinet. Or four failed PM votes force a snap election that pushes formation past January.\n\n(d) YES scenario: the Kristersson track fails quickly on the Centre-vs-SD veto. Andersson is re-nominated for an S-only or S+MP minority cabinet, tolerated under negative parliamentarism, as in 2021. That avoids the Left/Centre cabinet-seat dispute; an S+M arrangement would also count.\n\nS remains the largest party (99 seats) and leads the larger bloc, and the right's alternative is structurally blocked. That keeps S the favourite. Andersson's failed first attempt, the Left's defection on the Speaker vote, and the live fraud investigations explain the market's slide from about 95% to 74%.\n\nI see no unpriced information strong enough to move far from the 74.4% anchor. I hold roughly at market, slightly above, because the S-minority fallback has a clear precedent.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3566",
+   "has_trace": true
+  }
+ ],
+ "Eritrea invades Ethiopia by December 31?": [
+  {
+   "id": 3563,
+   "scanned_at": "2026-09-29T12:03:25.510974",
+   "date": "2026-09-29",
+   "agent": 18.4,
+   "market_price_t0": 16.5,
+   "edge": 0.01899999999999999,
+   "confidence": 0.496,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.19, 0.19, 0.18, 0.18, 0.18). (0) Resolution check: the condition is not met yet. No consensus of credible reporting shows Eritrean military forces entering Ethiopia in a new operation and holding territory for 48+ hours. The resolution-source read and wire reports from AP, Al Jazeera and Foreign Policy describe the fighting as an intra-Ethiopian war between the federal army and the TPLF/Fano alliance. Eritrea's alleged role there is financing, training and arming, and Eritrea denies even that. Its long-held Irob and Shiraro positions are excluded by the rules. (a) About three months remain until December 31, plus a 7-day confirmation window. (b) If nothing changes, this resolves No: Asmara keeps working through proxies and denials, as it did after the August Zalambesa flag crossing, which involved no sustained control. (c) NO: the civil war grinds on, Eritrea keeps supporting the rebels covertly, and claims of Eritrean troops stay single-source or unverified. (d) YES: the Afar governor's Sept 29 claim, reported by Al Jazeera, that Eritrean forces are fighting and controlling large parts of Afar gets corroborated, or Eritrea moves overtly into the Afar/Tigray border corridors. Ethiopia's army chief is already casting Eritrea as a belligerent, so Addis Ababa would amplify any real incursion. The market anchor is 16.5% on a wide 9/24 spread. The Afar allegation and an active war next door raise the risk somewhat above base rates. But the 'consensus of credible reporting' bar is high, and Eritrea's grey-zone style is historically hard to confirm quickly (in 2020-21 it took months). So I land slightly above the market at about 19%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3563",
    "has_trace": true
   }
  ]

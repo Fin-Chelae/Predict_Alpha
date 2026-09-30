@@ -14850,7 +14850,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-29T19:59:14.271Z",
+  "last_sync": "2026-09-30T09:41:40.453Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -16903,6 +16903,20 @@
  ],
  "Israeli airspace closed by October 31, 2026?": [
   {
+   "id": 3584,
+   "scanned_at": "2026-09-30T02:31:14.917229",
+   "date": "2026-09-30",
+   "agent": 12.6,
+   "market_price_t0": 12.5,
+   "edge": 0.0010000000000000009,
+   "confidence": 0.624,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.12, 0.13, 0.12, 0.13, 0.13). (0) No source shows the condition met. Delta and United resumed Tel Aviv service in early September. The mid-September LLLL NOTAM feed shows only routine notices, and EASA and trackers describe Israel as open or restricted, not closed. Israeli airspace also stayed open through the Sep 2 US-Iran flare-up that shut other FIRs such as Kuwait's.\n(a) About 31 days remain until the Oct 31, 11:59 PM ET deadline.\n(b) Status quo: airspace stays open and the market resolves No.\n(c) NO scenario: US-Iran talks keep grinding on, Lebanon fighting stays localized, and the Oct 27 election passes without a direct Iran-Israel missile exchange. Any Houthi missile incident produces only a brief ground stop, which the rules exclude.\n(d) YES scenario: a pre-election strike exchange with Iran triggers a full LLLL closure NOTAM. Every qualifying closure (Apr 2024, Jun 2025, Feb 2026) came from exactly this kind of event. Netanyahu warned on Sep 29 that adversaries may attack before Oct 27, and Ghalibaf issued threats, though officials say there is no concrete intelligence of an attack.\nAnchor: the market's 12.5% is coherent with the related markets. The 18.5% chance of the Israel-Iran ceasefire breaking by Oct 31 is an upper-ish bound, since not every breach closes the FIR. The Oct 15-31 market is at 6.5% and the Dec 31 market at 18.5%. I see no unpriced information justifying a large move, so I stay near the market at about 12%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3584",
+   "has_trace": true
+  },
+  {
    "id": 3105,
    "scanned_at": "2026-09-18T02:28:53.536956",
    "date": "2026-09-18",
@@ -17360,6 +17374,20 @@
   }
  ],
  "Saudi-Houthi ceasefire agreement announced by October 31?": [
+  {
+   "id": 3580,
+   "scanned_at": "2026-09-30T00:07:29.383211",
+   "date": "2026-09-30",
+   "agent": 16,
+   "market_price_t0": 20.5,
+   "edge": -0.044999999999999984,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.15, 0.14, 0.15, 0.17, 0.19). (0) No source shows the condition met. Wikipedia and CFR trackers list the conflict as ongoing. Saudi strikes (38 on Sept 29) and Houthi missile and drone attacks on Saudi cities continued through the last week of September, and no joint or matching acceptance announcement has been reported. (a) About 31 days remain until Oct 31, 11:59 PM ET. (b) If nothing changes, the war continues and the market resolves No. The only concrete proposal, Saudi Arabia's mid-September two-week truce via Oman, was dismissed by Houthi negotiator Abdulsalam as 'nothing new' (Sept 17). Houthi officials said on Sept 25 that attacks will continue until the blockade ends, and al-Houthi has demanded $57B+ in compensation. (c) NO scenario: Houthi battlefield gains (Mokha, Hanish Islands) harden their demands, Riyadh leans on the Mecca pact with Pakistan and Turkey and French air defenses, and any Yemen deal gets bundled into unresolved US–Iran Hormuz talks. Talks drag past October, or produce only a humanitarian pause or roadmap language that fails the strict 'dated, general, mutually announced' test. (d) YES scenario: Grundberg's parallel Muscat and Riyadh shuttle diplomacy (Sept 27–29), backed by Iran's public call for Saudi–Houthi dialogue, produces a revised Saudi offer easing the Sanaa airport and Hodeidah blockade. Both sides then announce a dated truce, as with the April 2022 UN truce. The market anchor is 20.5% and trending down (-7 pts over 7 days, -11 pts over 30 days). Given the strict resolution language, the 11-year base rate of only one formal ceasefire, and hardening late-September signals, I shade modestly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3580",
+   "has_trace": true
+  },
   {
    "id": 3314,
    "scanned_at": "2026-09-22T09:39:39.634644",
@@ -18236,6 +18264,70 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.19, 0.19, 0.18, 0.18, 0.18). (0) Resolution check: the condition is not met yet. No consensus of credible reporting shows Eritrean military forces entering Ethiopia in a new operation and holding territory for 48+ hours. The resolution-source read and wire reports from AP, Al Jazeera and Foreign Policy describe the fighting as an intra-Ethiopian war between the federal army and the TPLF/Fano alliance. Eritrea's alleged role there is financing, training and arming, and Eritrea denies even that. Its long-held Irob and Shiraro positions are excluded by the rules. (a) About three months remain until December 31, plus a 7-day confirmation window. (b) If nothing changes, this resolves No: Asmara keeps working through proxies and denials, as it did after the August Zalambesa flag crossing, which involved no sustained control. (c) NO: the civil war grinds on, Eritrea keeps supporting the rebels covertly, and claims of Eritrean troops stay single-source or unverified. (d) YES: the Afar governor's Sept 29 claim, reported by Al Jazeera, that Eritrean forces are fighting and controlling large parts of Afar gets corroborated, or Eritrea moves overtly into the Afar/Tigray border corridors. Ethiopia's army chief is already casting Eritrea as a belligerent, so Addis Ababa would amplify any real incursion. The market anchor is 16.5% on a wide 9/24 spread. The Afar allegation and an active war next door raise the risk somewhat above base rates. But the 'consensus of credible reporting' bar is high, and Eritrea's grey-zone style is historically hard to confirm quickly (in 2020-21 it took months). So I land slightly above the market at about 19%.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3563",
+   "has_trace": true
+  }
+ ],
+ "Will Indiana enact a data center moratorium by December 31, 2027?": [
+  {
+   "id": 3594,
+   "scanned_at": "2026-09-30T09:39:12.337473",
+   "date": "2026-09-30",
+   "agent": 13.6,
+   "market_price_t0": 28,
+   "edge": -0.14400000000000004,
+   "confidence": 0.658,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.08, 0.09, 0.10, 0.21, 0.20). (0) No statewide moratorium is enacted; trackers as of 2026-09-28 show only local pauses and HEA 1210 (revenue sharing). (a) About 15 months remain, with the Jan–Apr 2027 session the only realistic window. (b) Status quo is No: no pre-filed bill or leadership backing. (c) No: GOP supermajorities let bills die again as in 2026, and Braun keeps courting hyperscalers and calls moratoria a local matter. (d) Yes: CAC's statewide campaign, 25+ local moratoria and red-state precedents like Texas push a suspend-until-study bill through by April 2027. The 28% price comes from a two-day-old, thin market already falling from 53.5%, with sibling contracts also inflated; only Maine has a statutory statewide moratorium, so I fade the market with some tail for shifting politics.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3594",
+   "has_trace": true
+  }
+ ],
+ "Will Missouri enact a data center moratorium by June 30, 2027?": [
+  {
+   "id": 3591,
+   "scanned_at": "2026-09-30T07:16:07.278773",
+   "date": "2026-09-30",
+   "agent": 10.8,
+   "market_price_t0": 29.5,
+   "edge": -0.18699999999999997,
+   "confidence": 0.706,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.08, 0.07, 0.12, 0.13, 0.14) after one crux research pass. (0) No source shows a qualifying moratorium enacted; the resolution-source fetch returned only generic Missouri House and Senate homepages. (a) About nine months remain; the realistic window is the 2027 regular session (January to May 30), since Gov. Kehoe declined a special session and no statewide initiative could reach the ballot in time. (b) The status quo is No: the 2026 session passed 100 bills and none dealt with data centers, the only hearing (HB 3362, a rate-class/water bill) never got a committee vote, and a September 16 House hearing was cancelled. (c) No path: the leading 2027 vehicle, the House Future Caucus Wellenkamp/Costlow bill, is a guardrails bill (separate rate class, water rules), which is 'permitted subject to conditions' and excluded; leadership and the pro-industry Kehoe block any ban; nationally no state has had a statutory statewide moratorium signed (Maine vetoed). (d) Yes path: Ameren rate-hike pain, the 200-person Capitol rally and Republicans backing a 'pause' produce a moratorium that clears both GOP chambers by mid-May and is signed before June 30; a late-passed bill could still miss the deadline because the governor can take until mid-July. The 29.5% anchor looks inflated by generic anti-data-center sentiment; the December 31, 2026 sister market at 13.5% despite no session before January suggests systematic overpricing. I fade the market substantially.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3591",
+   "has_trace": true
+  }
+ ],
+ "Will the Democrats win the Vermont governor race in 2026?": [
+  {
+   "id": 3588,
+   "scanned_at": "2026-09-30T04:54:07.386540",
+   "date": "2026-09-30",
+   "agent": 18.8,
+   "market_price_t0": 17.3,
+   "edge": 0.015500000000000014,
+   "confidence": 0.584,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.18, 0.18, 0.18, 0.20, 0.20). (0) Nothing has resolved yet. Ballotpedia lists Scott (R) versus Janoo (D) for the November 3 general election, and no AP, Fox or NBC call exists. (a) About five weeks remain until election day, with one debate on October 21. (b) If nothing changes, the five-term incumbent Phil Scott is the favorite: he won by more than 40 points in each of his last three reelections. Most raters still have the race Solid or Safe R (Cook, Inside Elections, Sabato, Fox, DDHQ), though RCP has Lean R and Silver's model has Tossup. (c) NO: The Vermont Public/Braun poll (Scott up 44-34 among likely voters) proves more accurate than UNH, which a veteran journalist called an outlier. Undecideds break toward the well-known incumbent, and public polls again understate Scott, as UNH's did by more than 20 points in 2024. Janoo's thin cash and the establishment Democrats' funding gap limit her reach, and Scott wins comfortably. (d) YES: The Trump–Canada tariff backlash keeps Democrats defecting from Scott (73% back Janoo in UNH) and his approval keeps sliding toward 45%. Late Democratic mobilization such as the Pieciak/Gray fundraisers and a strong debate help Janoo win a nationally favorable midterm. The market sits at 17.25%, up about 7 points in 30 days, which already reflects the UNH shock. Averaging the conflicting polls gives a modest Scott lead, and history shows systematic understatement of his support. I see no unpriced information justifying a large move, so I stay near the anchor at 18%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3588",
+   "has_trace": true
+  }
+ ],
+ "Will the Bank of Canada make no change to the target for the overnight rate at the October interest rate announcement?": [
+  {
+   "id": 3577,
+   "scanned_at": "2026-09-29T21:42:52.429194",
+   "date": "2026-09-29",
+   "agent": 57.8,
+   "market_price_t0": 62.1,
+   "edge": -0.04299999999999993,
+   "confidence": 0.564,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.60, 0.58, 0.59, 0.56, 0.56). (0) The condition is not yet met. The BoC's page shows only the schedule, and the decision is due October 28 with no statement issued. (a) About four weeks remain, and the September jobs report (~Oct 9), the September CPI and the Business Outlook Survey (Oct 19) all land before the decision. (b) The status quo is a hold at 2.25%, which would be the eighth straight hold. The Polymarket anchor prices this at 62%, while CORRA OIS pricing is more hawkish at 47–53% hold (53–59% hike). Economists who follow the Bank closely (RBC's Fan, Desjardins' Bartlett, Capital Economics' Brown, NBC's Currie) still called a hold as of Sept 22, and core inflation (~1.9–2.0%), a -42k jobs print, 2.0% wage growth and tariff re-escalation all argue for patience. (c) NO scenario: Brent stays at $105+, September CPI comes in hot and ex-gasoline inflation keeps rising, and the October 19 BOS shows broadening price expectations. The Bank then pairs its MPR inflation upgrade with a 25bp hike, following Macklem's 'not too slow' warning and the Fed's hike. (d) YES scenario: core stays near 2% and jobs stay soft, so the Bank delivers its hawkishness through upgraded forecasts and guidance and holds, signalling December or Q1 2027 hikes. Swaps may embed some term/risk premium, and the BoC rarely moves against economist consensus. On the other hand, MPR meetings are natural moves and the OIS tilt is real, so I stay close to the market at about 60% hold.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3577",
    "has_trace": true
   }
  ]

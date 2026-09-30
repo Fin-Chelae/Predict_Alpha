@@ -14850,7 +14850,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-30T09:41:40.453Z",
+  "last_sync": "2026-09-30T20:00:30.095Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -17405,6 +17405,20 @@
  ],
  "Will Russia announce a new forced mobilization by October 31, 2026?": [
   {
+   "id": 3605,
+   "scanned_at": "2026-09-30T16:52:27.448581",
+   "date": "2026-09-30",
+   "agent": 7.3,
+   "market_price_t0": 7.5,
+   "edge": -0.001999999999999988,
+   "confidence": 0.6639999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.07, 0.07, 0.07, 0.08). (0) Not met: the Kremlin document bank, checked through Sept 21, shows no mobilization decree. The Sept 28/29 decree raising authorized strength by 15,500 is a force-size increase, which the rules expressly exclude, so the question is still open. (a) About 31 days remain until the Oct 31, 11:59 PM ET deadline. (b) If nothing changes, the outcome is No. Russia has kept relying on contract recruitment and coercive measures that don't qualify, and officials have issued 18+ denials since June, including Putin's Sept 2-3 'complete nonsense' remarks. (c) NO scenario: the Kremlin continues regional pressure, digital summons and army-size decrees without any formal call-up act, as it has for four years despite repeated 'second wave' predictions. (d) YES scenario: acting on the post-election timing Ukrainian intelligence (GUR) predicted, Putin signs a supplementary decree under the still-live 2022 framework, or a reserve measure authorizing compulsory deployment of reservists to the SMO zone, which the broad reserve criteria would count. Zelensky's Sept 28 claim that 'additional mobilization has begun' is Ukrainian-sourced and uncorroborated by any Russian legal act. Another risk is that a qualifying order could be secret, which would not resolve Yes without publication. The market sits at 7.5% and has fallen as the post-election window passed without action. I see no unpriced information that justifies departing much from it, so I shade slightly below, to 7%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3605",
+   "has_trace": true
+  },
+  {
    "id": 3346,
    "scanned_at": "2026-09-23T07:17:20.891584",
    "date": "2026-09-23",
@@ -18328,6 +18342,54 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.60, 0.58, 0.59, 0.56, 0.56). (0) The condition is not yet met. The BoC's page shows only the schedule, and the decision is due October 28 with no statement issued. (a) About four weeks remain, and the September jobs report (~Oct 9), the September CPI and the Business Outlook Survey (Oct 19) all land before the decision. (b) The status quo is a hold at 2.25%, which would be the eighth straight hold. The Polymarket anchor prices this at 62%, while CORRA OIS pricing is more hawkish at 47–53% hold (53–59% hike). Economists who follow the Bank closely (RBC's Fan, Desjardins' Bartlett, Capital Economics' Brown, NBC's Currie) still called a hold as of Sept 22, and core inflation (~1.9–2.0%), a -42k jobs print, 2.0% wage growth and tariff re-escalation all argue for patience. (c) NO scenario: Brent stays at $105+, September CPI comes in hot and ex-gasoline inflation keeps rising, and the October 19 BOS shows broadening price expectations. The Bank then pairs its MPR inflation upgrade with a 25bp hike, following Macklem's 'not too slow' warning and the Fed's hike. (d) YES scenario: core stays near 2% and jobs stay soft, so the Bank delivers its hawkishness through upgraded forecasts and guidance and holds, signalling December or Q1 2027 hikes. Swaps may embed some term/risk premium, and the BoC rarely moves against economist consensus. On the other hand, MPR meetings are natural moves and the OIS tilt is real, so I stay close to the market at about 60% hold.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3577",
+   "has_trace": true
+  }
+ ],
+ "Will Ohio enact a data center moratorium by December 31, 2026?": [
+  {
+   "id": 3608,
+   "scanned_at": "2026-09-30T19:14:12.824731",
+   "date": "2026-09-30",
+   "agent": 5.3,
+   "market_price_t0": 10.5,
+   "edge": -0.051999999999999984,
+   "confidence": 0.736,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.05, 0.05, 0.04, 0.06, 0.06). (0) Nothing shows the condition met. The research finds no statewide statutory or constitutional moratorium enacted as of Sept 30, 2026. The live resolution-source check failed, so this rests on the research reports. (a) About three months remain until Dec 31, 2026, but the General Assembly is on campaign break until a lame-duck session expected in mid-November, which leaves roughly six working weeks. (b) Status quo is No. The Conserve Ohio 25 MW ban initiative missed its July 1 signature deadline and now targets the November 2027 ballot, so no statewide vote can occur in the window. DeWine's pause on tax exemptions is administrative and explicitly 'not a data center ban', and it would not qualify under the rules anyway. HB 646, the leading vehicle, is a study-commission and tax bill whose sponsor deliberately stripped out the six-month moratorium. (c) No: the lame duck deals with HB 646's tax and tariff provisions, SB 294 and other business. The Republican leadership, which could not even pass a 50% sales-tax-break cut, adds no default-prohibition language, and candidates' conditional-moratorium pledges wait for the 2027 administration. (d) Yes: after the election, bipartisan backlash (138+ local moratoriums, every gubernatorial candidate pledging a conditional moratorium) pushes leaders to reinsert Click's original moratorium text or a conditional suspension into HB 646. It would then have to pass both chambers and be signed by DeWine before Dec 31. The national base rate is zero statutory state moratoriums: Maine's was vetoed and New York's came by executive order. The Polymarket anchor is 10.5% and has been falling. I shade below it because no moratorium bill exists, the window is narrow, and DeWine and leadership are pro-development.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3608",
+   "has_trace": true
+  }
+ ],
+ "Will no qualifying US-Iran senior diplomatic meeting take place by December 31, 2026?": [
+  {
+   "id": 3601,
+   "scanned_at": "2026-09-30T14:27:52.659337",
+   "date": "2026-09-30",
+   "agent": 22.8,
+   "market_price_t0": 36.5,
+   "edge": -0.137,
+   "confidence": 0.5860000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.32, 0.35, 0.30, 0.12, 0.05) after one crux research pass. (0) Resolution check: the Sept 22 New York session may already satisfy the rules, but nothing confirms it. Witkoff and Kushner met Araghchi's delegation for three hours, pre-arranged, with Qatari mediators shuttling between them in the same venue on the same day. That looks like a qualifying indirect meeting held separately alongside UNGA. Against that, Witkoff himself called it 'through the mediators', Trump said 'not the highest level', and there is no resolver ruling. The market has climbed from 13% to 36.5% since opening, so traders are apparently not treating Sept 22 as dispositive. That may reflect a clarification or a creation-date interpretation I cannot see. I give roughly a 30% chance it ends up counting.\n(a) About three months remain until Dec 31, 2026, 11:59 PM ET.\n(b) Status quo: contact has reverted to split-city Qatari shuttle diplomacy (New York/Washington/Doha on different days), which fails the same-city, same-day test. The talks are described as 'stuck', and Trump points to a deal only after the Nov 3 midterms. If that persists, this resolves Yes, unless Sept 22 is counted.\n(c) NO scenario: talks resume after the midterms, or around a Hormuz confidence-building framework, with Witkoff/Kushner or Vance and Araghchi or Ghalibaf co-located in Doha, Muscat, Islamabad or Geneva. Since 2025 this dyad has typically met every few weeks to few months whenever diplomacy is live.\n(d) YES scenario: Trump resumes bombing after November as WSJ and Axios report he expects. Iranian hardliners (Rezaei's 'no talks until conditions are met') and the backlash against Araghchi freeze overt contact, leaving only remote or split-location exchanges through year-end.\nIf Sept 22 does not count, I put a new qualifying meeting at roughly 55-60%, so 'no meeting' is about 40-45% in that branch. Blended with the chance Sept 22 counts, I land slightly below the 36.5% anchor, at 0.32.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3601",
+   "has_trace": true
+  }
+ ],
+ "Will there be no next Google Gemini Pro model release by October 31, 2026?": [
+  {
+   "id": 3598,
+   "scanned_at": "2026-09-30T12:02:32.463559",
+   "date": "2026-09-30",
+   "agent": 19.4,
+   "market_price_t0": 12.5,
+   "edge": 0.06900000000000003,
+   "confidence": 0.532,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.20, 0.20, 0.18, 0.20, 0.19). (0) The condition is not met. The resolution-source read shows only Gemini 3.1 Pro Preview, released Feb 2026, before this market was created, so it does not count as the 'next' Pro. No new Pro-labeled model appears in the changelog through Sept 22 or in Wikipedia as of Sept 30. (a) About 31 days remain until Oct 31, 2026 ET. (b) If nothing changes, the Pro drought continues and this market resolves Yes. (c) NO scenario: Gemini 4 leaves post-training, which Kavukcuoglu confirmed on Sept 24, and ships in October as a public 'Gemini 4 Pro' preview in the API or the Gemini app. Google usually brands its flagship as Pro, and a shelved 3.5 Pro could also be revived. (d) YES scenario: post-training and safety work slips, as Google's 2026 track record of repeated missed 3.5 Pro targets suggests. Gemini 4 could also launch Flash-first (as 3.5 did) or only to internal or closed testers, which would not qualify. The anchor is 12.5% Yes, and the related-market ladder agrees: Gemini 4.0 by Oct 31 at 88.5%, Pro by Oct 15 at ~43%. These heavily traded markets imply traders expect an imminent launch, perhaps from leaks I can't see. Against that, every sourced statement from the past week says 'early days of post-training' with no date or confirmed Pro tier, and analysts warn it won't compress easily. I therefore shade modestly toward Yes, to about 20%, rather than fully trusting the market's optimism.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3598",
    "has_trace": true
   }
  ]

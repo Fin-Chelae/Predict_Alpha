@@ -177,8 +177,10 @@ function aggregateTrades(activity) {
     if (t !== 'TRADE' && t !== 'REDEEM') continue;
     const b = by[a.asset] ||= { bought: 0, buyUsd: 0, sold: 0, sellUsd: 0,
                                 redeemed: 0, redeemUsd: 0, firstBuy: null,
-                                lastExit: null, title: null, outcome: null };
+                                lastExit: null, title: null, outcome: null,
+                                slug: null, eventSlug: null };
     b.title ||= a.title; b.outcome ||= a.outcome;
+    b.slug ||= a.slug; b.eventSlug ||= a.eventSlug;
     if (t === 'TRADE' && a.side === 'BUY') {
       b.bought += +a.size; b.buyUsd += +a.usdcSize;
       if (b.firstBuy == null || a.timestamp < b.firstBuy) b.firstBuy = a.timestamp;
@@ -207,6 +209,7 @@ function derive(positions, activity, gamma) {
       const cost = positionCost(p);
       closedRows.push({
         asset: p.asset, title: p.title, outcome: p.outcome,
+        slug: p.slug, eventSlug: p.eventSlug,
         size: +p.size, cost, entry: +p.avgPrice,
         exit: g.won ? 1 : 0,
         pnl: (g.won ? +p.size : 0) - cost,
@@ -221,6 +224,7 @@ function derive(positions, activity, gamma) {
     const end = parseWhen(p.endDate);
     open.push({
       asset: p.asset, title: p.title, outcome: p.outcome,
+        slug: p.slug, eventSlug: p.eventSlug,
       size: +p.size, entry_price: +p.avgPrice, cost: positionCost(p),
       market_value: +p.currentValue,
       days_to_resolution: end && end > 978307200000 ? (end - now) / 86400e3 : null,
@@ -235,6 +239,7 @@ function derive(positions, activity, gamma) {
     const viaRedeem = b.redeemed > b.sold;
     closedRows.push({
       asset, title: b.title, outcome: b.outcome,
+      slug: b.slug, eventSlug: b.eventSlug,
       size: b.bought, cost: b.buyUsd, entry: b.bought ? b.buyUsd / b.bought : null,
       exit: b.sold ? b.sellUsd / b.sold : (b.redeemed ? b.redeemUsd / b.redeemed : null),
       pnl: b.sellUsd + b.redeemUsd - b.buyUsd,
@@ -334,7 +339,7 @@ function mount() {
   drawHist(); initHistRanges();
   addEventListener('resize', drawHist);
   const toggle = (sel, rerender) => $(sel).addEventListener('click', ev => {
-    if (ev.target.closest('a')) return;
+    if (ev.target.closest('a') || !getSelection().isCollapsed) return;
     const row = ev.target.closest('.row.has-scan');
     if (!row) return;
     const key = row.dataset.k;
@@ -389,7 +394,7 @@ function renderBoard(S, first) {
     return `<div class="row ${scans ? 'has-scan' : ''} ${isOpen ? 'open' : ''}" data-k="${esc(key)}">
       <div class="rank ${i < 3 ? 'medal' : ''}">${medal}</div>
       <div class="mkt"><div class="t" title="${esc(r.title)}">${
-          scans ? '<span class="chev">▶</span>' : ''}${esc(r.title)}</div>
+          scans ? '<span class="chev">▶</span>' : ''}${mktLink(r)}</div>
         <div class="s">${r.size.toFixed(0)} sh · cost ${usd(r.cost)} · ${
           r.days_to_resolution != null ? 'settles ' + Math.round(r.days_to_resolution) + 'd' : 'settle date n/a'}${
           scans ? ` · ${scans.length} scans` : ''}</div></div>
@@ -415,6 +420,21 @@ function renderBoard(S, first) {
     }
   }
   drawSparks();
+}
+
+/* Market title → its Polymarket page (event slug + market slug). */
+function mktLink(r) {
+  const path = r.eventSlug && r.slug ? `event/${r.eventSlug}/${r.slug}`
+    : r.eventSlug ? `event/${r.eventSlug}` : r.slug ? `market/${r.slug}` : null;
+  return path
+    ? `<a class="pm" href="https://polymarket.com/${esc(path)}" target="_blank" rel="noopener">${esc(r.title)}</a>`
+    : esc(r.title);
+}
+/* Live re-renders replace innerHTML, which would wipe a text selection
+ * the reader is making — skip the repaint while one is inside `el`. */
+function selectingIn(el) {
+  const sel = getSelection();
+  return !!el && !sel.isCollapsed && el.contains(sel.anchorNode);
 }
 
 /* ── expandable scan reasoning (scraped by the companion fetch script) ── */
@@ -462,7 +482,7 @@ function renderClosed() {
     return `<div class="row crow ${scans ? 'has-scan' : ''} ${isOpen ? 'open' : ''}" data-k="${esc(key)}">
       <div class="cdate">${d}</div>
       <div class="mkt"><div class="t" title="${esc(r.title)}">${
-          scans ? '<span class="chev">▶</span>' : ''}${esc(r.title)}</div>
+          scans ? '<span class="chev">▶</span>' : ''}${mktLink(r)}</div>
         <div class="s">${r.size.toFixed(0)} sh · cost ${usd(r.cost)}${
           r.heldDays != null ? ` · held ${Math.round(r.heldDays)}d` : ''}${
           scans ? ` · ${scans.length} scans` : ''}${
@@ -495,6 +515,7 @@ function pushFeed(title, outcome, from, to) {
   const d = to - from;
   feedItems.unshift({ tm: nowHMS(), title, outcome, from, to, d });
   feedItems = feedItems.slice(0, 30);
+  if (selectingIn($('#feed'))) return;   // repaints on the next tick
   $('#feed').innerHTML = feedItems.map(f => `<div class="tick">
     <span class="tm">${f.tm}</span>
     <span class="body"><span class="t">${esc(f.title)}</span>
@@ -773,7 +794,7 @@ function refresh() {
   cEl.textContent = usd(S.cum, 1); cEl.className = cls(S.cum);
   const uEl = $('#unrD');
   uEl.textContent = usd(S.unreal, 1); uEl.className = cls(S.unreal);
-  renderBoard(S, false);
+  if (!selectingIn($('#board'))) renderBoard(S, false);
   drawHist();
 }
 
@@ -874,7 +895,7 @@ async function refreshWallet() {
       try { ws && ws.close(); } catch {}        // reconnect → resubscribe with new list
     }
     $('#dataTime').textContent = 'on-chain ' + nowHMS();
-    renderClosed();
+    if (!selectingIn($('#closedSec'))) renderClosed();
     renderStrip(liveState());
     scheduleRefresh();
   } catch {}

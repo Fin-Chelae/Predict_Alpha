@@ -803,6 +803,20 @@
  ],
  "Will Anthropic have the best Code Arena | WebDev AI at the end of October 2026?": [
   {
+   "id": 3629,
+   "scanned_at": "2026-10-01T09:34:53.990821",
+   "date": "2026-10-01",
+   "agent": 79.4,
+   "market_price_t0": 80.5,
+   "edge": -0.01100000000000012,
+   "confidence": 0.638,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.80, 0.79, 0.79, 0.80, 0.79). ",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3629",
+   "has_trace": true
+  },
+  {
    "id": 3110,
    "scanned_at": "2026-09-18T04:54:35.076083",
    "date": "2026-09-18",
@@ -7264,6 +7278,20 @@
   }
  ],
  "Will Anthropic have the best AI model at the end of October 2026?": [
+  {
+   "id": 3626,
+   "scanned_at": "2026-10-01T07:12:28.246325",
+   "date": "2026-10-01",
+   "agent": 28.8,
+   "market_price_t0": 27,
+   "edge": 0.018000000000000016,
+   "confidence": 0.5900000000000001,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.28, 0.30, 0.29, 0.28, 0.29). (0) Not resolved. The resolution source's Sep 30 snapshot shows Google's gemini-4-argon-high at #1 (1533, marked Preliminary) and Anthropic's claude-opus-5.5-high at #2 (1512), with Anthropic also holding ranks 3-7. If nothing changes, the market resolves No. (a) About 30 days remain until the Oct 31, 12:00 PM ET check. (b) Status quo is Google #1 by roughly 21 points. That is a large margin, and Argon leads across most sub-categories, so ordinary vote drift is unlikely to flip it. (c) No: Google expands access to paid API or Ultra users within Arena's two-week window, or Arena simply keeps the preliminary score. Argon then stays #1 through Oct 31, and OpenAI's GPT-6 Astra is a secondary non-Anthropic threat. (d) Yes has two paths. First, Arena applies its stated two-week public-availability rule and removes Argon because Google keeps it limited to Fairwind trusted testers with no public date, which would hand #1 back to Claude Opus 5.5. Second, Anthropic ships a new flagship (Reuters reported one under consideration around its mid-October IPO marketing) that beats 1533. I put the removal path at roughly 20% and the new-model path at under 10%. Together these roughly match the market's 26.5%, which I anchor on, nudging slightly up for the unverified but real policy-removal mechanism.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3626",
+   "has_trace": true
+  },
   {
    "id": 3321,
    "scanned_at": "2026-09-22T14:24:55.930722",
@@ -14850,7 +14878,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-09-30T20:00:30.095Z",
+  "last_sync": "2026-10-01T10:07:38.785Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -18390,6 +18418,70 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.20, 0.20, 0.18, 0.20, 0.19). (0) The condition is not met. The resolution-source read shows only Gemini 3.1 Pro Preview, released Feb 2026, before this market was created, so it does not count as the 'next' Pro. No new Pro-labeled model appears in the changelog through Sept 22 or in Wikipedia as of Sept 30. (a) About 31 days remain until Oct 31, 2026 ET. (b) If nothing changes, the Pro drought continues and this market resolves Yes. (c) NO scenario: Gemini 4 leaves post-training, which Kavukcuoglu confirmed on Sept 24, and ships in October as a public 'Gemini 4 Pro' preview in the API or the Gemini app. Google usually brands its flagship as Pro, and a shelved 3.5 Pro could also be revived. (d) YES scenario: post-training and safety work slips, as Google's 2026 track record of repeated missed 3.5 Pro targets suggests. Gemini 4 could also launch Flash-first (as 3.5 did) or only to internal or closed testers, which would not qualify. The anchor is 12.5% Yes, and the related-market ladder agrees: Gemini 4.0 by Oct 31 at 88.5%, Pro by Oct 15 at ~43%. These heavily traded markets imply traders expect an imminent launch, perhaps from leaks I can't see. Against that, every sourced statement from the past week says 'early days of post-training' with no date or confirmed Pro tier, and analysts warn it won't compress easily. I therefore shade modestly toward Yes, to about 20%, rather than fully trusting the market's optimism.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3598",
+   "has_trace": true
+  }
+ ],
+ "Will Oro launch a token by December 31, 2026?": [
+  {
+   "id": 3622,
+   "scanned_at": "2026-10-01T04:49:19.031675",
+   "date": "2026-10-01",
+   "agent": 11.4,
+   "market_price_t0": 9.5,
+   "edge": 0.01899999999999999,
+   "confidence": 0.6100000000000001,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.11, 0.11, 0.12, 0.12, 0.11). (0) Nothing shows a qualifying governance token live. The resolution-source read shows only the asset-backed $GOLD token, live since Sep 2025. The market does not count $GOLD: the sibling market for Sep 30, 2026 settled at about 0.3% Yes. (a) About three months remain until the 11:59 PM ET Dec 31, 2026 deadline. A YES needs a token that is actually tradable, not just announced. (b) Status quo is No. Trackers updated Sep 30, 2026 still list the Oro airdrop as unconfirmed, with no ticker, tokenomics or TGE date. (c) NO scenario: Oro follows the Season 1 snapshot with a Season 2, delays the token into 2027, or only announces a TGE without listing it before year-end. Oro took about nine months to get $GOLD from announcement to tradability, and the 2027 market sits only at about 56%. (d) YES scenario: the early-Sept 2026 Season 1 close and final snapshot, plus the 'more on what comes next soon' post, leads to a token announcement and a fast Q4 TGE on Solana DEXs. Peer gold protocols such as GGD launching governance tokens adds pressure. The snapshot signal is the main upside driver, but it is about a month old and the market (9.5%, +2% over 7 days) appears to have priced it. I sit slightly above the anchor to reflect that conventional snapshot-to-TGE path.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3622",
+   "has_trace": true
+  }
+ ],
+ "Will Oklahoma enact a data center moratorium by December 31, 2027?": [
+  {
+   "id": 3619,
+   "scanned_at": "2026-10-01T02:27:25.924485",
+   "date": "2026-10-01",
+   "agent": 18.6,
+   "market_price_t0": 34.5,
+   "edge": -0.15899999999999997,
+   "confidence": 0.6439999999999999,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.15, 0.17, 0.20, 0.22, 0.19) after one crux research pass. (0) Nothing shows the condition met. The resolution-source read and the Sept 30, 2026 tracker both report no statewide action, and SB 1488 is recorded as dead. Only local bans (OKC, Norman, Edmond) and tribal bans (Cherokee Nation) exist, and neither kind qualifies. (a) About 15 months remain, but the only realistic window is the 2027 regular session (roughly Feb to May 28, 2027) plus any special session. (b) If nothing changes, the answer is No: no statewide moratorium is enacted. (c) No scenario: Sacchieri refiles a moratorium, but it again stalls in committee under GOP leadership. That leadership prefers conditional rules like HB 2992 ratepayer protections and SB 259 groundwater limits, Chapman has publicly rejected 'one-size-fits-all' bans, and the executive branch keeps courting projects such as Lambda at MidAmerica. (d) Yes scenario: Sacchieri's interim study yields a revised bill covering 100MW+ facilities. Local-ban sprawl and anger over water and rates push leadership to pass it, and a new governor (Stitt is term-limited) signs it. The market sits at 34.5% but fell 11 points in three days. The research suggests it overprices this: SB 1488 never got a hearing despite a GOP supermajority, no state has enacted a statutory moratorium even at the 2026 peak, and New York's passed bill was replaced by an executive order. I keep some weight on Yes for national momentum, the governor transition, and the long window. I fade to about 15%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3619",
+   "has_trace": true
+  }
+ ],
+ "Will Tesla deliver between 475000 and 500000 vehicles in Q3 2026": [
+  {
+   "id": 3615,
+   "scanned_at": "2026-10-01T00:04:36.168957",
+   "date": "2026-10-01",
+   "agent": 77.8,
+   "market_price_t0": 87.5,
+   "edge": -0.09700000000000009,
+   "confidence": 0.534,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.78, 0.81, 0.83, 0.77, 0.70). (0) No source shows Tesla's Q3 2026 deliveries published as of Oct 1; the research says ir.tesla.com/press shows only the Sep 29 consensus post, with the report expected about Oct 2, and the resolution-source fetch returned a 403 error. (a) Resolution is about a day away; the Nov 30 non-publication backstop is negligible risk. (b) Without new information, the outside view sits below the bracket: Tesla's 24-analyst consensus is 461,974 (SD about 22.7k), Visible Alpha is 449-454k, Bloomberg is 466k, and revisions trended down on weak US (Aug -26% YoY) and China (-12.4% YTD) sales. (c) NO: Tesla prints near consensus (about 445-470k) or misses as in Q4'25 and Q1'26, landing in the 450-475k bucket or lower. (d) YES: a 3-8% beat, smaller than Q2 2026's +18%, driven by late-September China discounts, strong exports and a quarter-end push, consistent with JPMorgan's 482k and Barclays' 475k. The Polymarket price jumped from 24.5% to 87.5% in a week with neighbouring brackets near zero, which implies traders hold information (tracker data, registrations or leaks) the analyst research lacks; Kalshi was reportedly pricing the low-to-mid 470s. I respect that signal but shade it down because the market is thin ($23k) and the verifiable consensus sits below the bracket floor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3615",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic have the #1 AI model at the end of October 2026?": [
+  {
+   "id": 3612,
+   "scanned_at": "2026-09-30T21:38:12.116047",
+   "date": "2026-09-30",
+   "agent": 20.4,
+   "market_price_t0": 11,
+   "edge": 0.09400000000000001,
+   "confidence": 0.534,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.22, 0.22, 0.20, 0.20, 0.18). (0) Not met: the Sep 30 resolution-source fetch shows Google's gemini-4-argon-high at #1 (1525) and Anthropic's claude-opus-4-6-high at #2 (1505); YES requires Anthropic at #1 at the Oct 31 noon ET check. (a) About 31 days remain. (b) Status quo is Google #1, so NO. The market anchor is 11%, but the book is extremely thin (0.5% bid / 21.5% ask, $20k volume); the higher-volume related 'best AI model' market prices Anthropic at 27.5% and Google at ~71%, which I treat as context only. (c) NO: Google expands Argon's API/Ultra access within Arena's policy window, the preliminary tag drops and the score holds near 1525, above Anthropic's ~1505-1509 cluster; OpenAI GPT-6.x could also take #1. (d) YES: Argon is preliminary (~4.9k votes) with access gated to Google's cyber-defender program, and Arena policy requires public availability within two weeks or removal; missing that, or a 20+ point slide as fresh votes arrive, returns #1 to Anthropic, which held it since early September and ships frequently (Opus 5.5, Sonnet 5.5). The 20-point gap and Google's motivation favor NO, but the removal/drift mechanics and the unverified style-control view justify pricing somewhat above the thin 11% quote.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3612",
    "has_trace": true
   }
  ]

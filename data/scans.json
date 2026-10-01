@@ -14878,7 +14878,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-01T10:07:38.785Z",
+  "last_sync": "2026-10-01T20:21:02.342Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -18482,6 +18482,70 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.22, 0.22, 0.20, 0.20, 0.18). (0) Not met: the Sep 30 resolution-source fetch shows Google's gemini-4-argon-high at #1 (1525) and Anthropic's claude-opus-4-6-high at #2 (1505); YES requires Anthropic at #1 at the Oct 31 noon ET check. (a) About 31 days remain. (b) Status quo is Google #1, so NO. The market anchor is 11%, but the book is extremely thin (0.5% bid / 21.5% ask, $20k volume); the higher-volume related 'best AI model' market prices Anthropic at 27.5% and Google at ~71%, which I treat as context only. (c) NO: Google expands Argon's API/Ultra access within Arena's policy window, the preliminary tag drops and the score holds near 1525, above Anthropic's ~1505-1509 cluster; OpenAI GPT-6.x could also take #1. (d) YES: Argon is preliminary (~4.9k votes) with access gated to Google's cyber-defender program, and Arena policy requires public availability within two weeks or removal; missing that, or a 20+ point slide as fresh votes arrive, returns #1 to Anthropic, which held it since early September and ships frequently (Opus 5.5, Sonnet 5.5). The 20-point gap and Google's motivation favor NO, but the removal/drift mechanics and the unverified style-control view justify pricing somewhat above the thin 11% quote.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3612",
+   "has_trace": true
+  }
+ ],
+ "Will Missouri enact a data center moratorium by December 31, 2027?": [
+  {
+   "id": 3643,
+   "scanned_at": "2026-10-01T19:12:40.095191",
+   "date": "2026-10-01",
+   "agent": 13,
+   "market_price_t0": 27.5,
+   "edge": -0.14500000000000002,
+   "confidence": 0.6639999999999999,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.10, 0.10, 0.12, 0.16, 0.17). (0) Resolution check: no source shows the condition met. Missouri has no statewide statutory moratorium, the 2026 session produced zero moratorium bills (Programs.com tracker: \"None\"), and every enacted pause is local (St. Charles, Jackson County, Columbia), which the rules exclude. (a) About 15 months remain. In practice the window is one regular session (Jan 6–May 14, 2027) plus a September 2027 veto session. A citizen initiative would almost certainly not reach a statewide ballot before November 2028. (b) The status quo is No: no bill is pending, and the September 2026 House hearing was cancelled. (c) NO scenario: 2027 bills center on tariffs and rate classes (the Future Caucus agenda), committee chairs with data-center projects in their districts block votes as Farnan did in 2026, and Gov. Kehoe, who refused a special session and favors local control, would veto anything that slipped through. (d) YES scenario: rising voter backlash (Capitol rally, ousted local officials, midterm salience) and the 16-20 GOP members who sought a special session push a Byrnes-style hyperscale pause through both chambers. Kehoe then either signs it or is overridden, or a 'no approval absent county vote' bill technically qualifies as prohibition-by-default. Nationally no state has yet enacted a statutory moratorium (NY's was an executive order and Maine's was vetoed), so the base rate is low. The market's 27.5% (down from 44.5%) appears to still price in national momentum (Texas, Michigan rhetoric) more than Missouri's institutional barriers justify. I shade well below it, keeping some weight on fast-moving politics and on a loose bill qualifying technically.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3643",
+   "has_trace": true
+  }
+ ],
+ "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?": [
+  {
+   "id": 3640,
+   "scanned_at": "2026-10-01T16:45:42.265122",
+   "date": "2026-10-01",
+   "agent": 10.8,
+   "market_price_t0": 12.5,
+   "edge": -0.016999999999999987,
+   "confidence": 0.6599999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.11, 0.11, 0.10, 0.11, 0.11). (0) Resolution check: no source shows a qualifying statement. As of Oct 1, Netanyahu, Herzog, the PM spokesperson and Israel's UAE envoy all said it is \"too early to say\" whether Iran was involved. Reuters reported no official Israeli suggestion of Iranian involvement, and Israeli security officials described the co-pilot as likely acting alone. (a) About 30 days remain, to Oct 31, 11:59 PM ET. (b) Status quo is No. The only Iran-adjacent claim so far is that the attacker \"underwent Islamist radical indoctrination,\" an inspiration-level statement the rules exclude. A senior US official briefed on the Israeli probe told NBC there are no indications Iran directed the attack. (c) No: the joint Israel-UAE-Saudi interrogation drags on or concludes he was a radicalized or suicidal lone actor. Officials keep to ideological framing through the Oct 27 election and the month ends without an explicit 'Iran ordered or aided' claim. (d) Yes: the interrogation surfaces a handler, financier or communications link to Iran or Hezbollah or Hamas, and Netanyahu states it flatly, as he did for the UK RAF plot this same week. A second path is a cabinet loose cannon (Katz, Ben Gvir, Smotrich) asserting during the campaign that Iran 'sent' him, which would count as on the record. The election incentive and the cabinet-minister path keep this from being negligible. However, the lone-actor assessments from both Israeli and US sources point clearly to No. I stay slightly below the 12.5% market price.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3640",
+   "has_trace": true
+  }
+ ],
+ "Will Trump speak to Ahmed al-Sharaa by October 31?": [
+  {
+   "id": 3636,
+   "scanned_at": "2026-10-01T14:21:56.519238",
+   "date": "2026-10-01",
+   "agent": 31.4,
+   "market_price_t0": 31,
+   "edge": 0.003999999999999948,
+   "confidence": 0.6020000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.32, 0.31, 0.30, 0.32, 0.32). (0) Nothing in the research shows the condition already met. The January 2026 call flagged by the resolution-source read predates the market window (Oct 1–31, 2026), so it does not count. No October contact is confirmed or scheduled. (a) About 31 days remain, with confirmation needed by roughly Nov 3. (b) Status quo is No: absent a new call or meeting that credible media report, the market resolves No. (c) NO: Trump and al-Sharaa last interacted at UNGA on Sept 22–23, which reduces the need for an October follow-up. Israel-Syria talks stay stalled, and US-Syria business keeps moving through Rubio, Barrack and the State Department, as with the Sept 30 arms-ban removal, without leader-level speech. The Jan–May 2026 four-month gap shows quiet stretches happen. (d) YES: the near-complete Israel-Syria security arrangement gets finalized and Trump calls al-Sharaa or hosts a signing. Alternatively, a routine call follows the warming deliverables, as with the May 31 call and the June calls around visits. The base rate is roughly 5 of 9 months in 2026 with a documented contact, but contacts cluster, and a month right after a meeting is less likely to see another. The market's 31% is consistent with that outside view. I find no unpriced information that justifies moving materially, so I sit at about 32%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3636",
+   "has_trace": true
+  }
+ ],
+ "Will Louisiana enact a data center moratorium by December 31, 2027?": [
+  {
+   "id": 3633,
+   "scanned_at": "2026-10-01T11:57:26.249599",
+   "date": "2026-10-01",
+   "agent": 7.6,
+   "market_price_t0": 23.5,
+   "edge": -0.15899999999999997,
+   "confidence": 0.7060000000000001,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.07, 0.07, 0.08, 0.09) after one crux research pass. (0) Nothing has resolved. ThirstyGrid's tracker (2026-09-19) and electricchoice (2026-09-30) both report no statewide Louisiana moratorium bill proposed or enacted. The only statewide action is EO 26-058, a tax-incentive condition that the rules explicitly exclude. The New Orleans ban is local and also doesn't count.\n(a) About 15 months remain. The only regular vehicle is the 2027 session, April 12 to June 10, 2027. It is an odd-year fiscal session where each legislator may file only five non-fiscal bills, and floor passage must come by the 42nd legislative day unless two-thirds agree.\n(b) The status quo is No. Louisiana has a GOP trifecta, and Gov. Landry publicly said \"We don't need a moratorium.\" The LPSC is fast-tracking data-center approvals, and parish-level pauses in Caddo and St. Charles failed.\n(c) No scenario: the 2027 fiscal session passes at most incentive or ratepayer conditions, or nothing, and Landry calls no special session. That is the dominant path.\n(d) Yes scenario: ratepayer backlash over Meta's Hyperion and Entergy cost-shifting, plus 2027 election-year politics (governor and legislature are on the ballot in fall 2027), pushes a lawmaker to spend one of five bill slots on a >100MW moratorium. It would then have to pass both chambers and either get Landry's signature or a two-thirds override. That is very unlikely given his stance.\nThe market sits at 23.5%, down from 36.5% in three days of thin trading. It appears to underweight the fiscal-session constraint and the governor's opposition; the national base rate for statutory moratoria is roughly one or two states. I fade well below the market but keep some tail for a political shock or a qualifying provision folded into broader data-center legislation.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3633",
    "has_trace": true
   }
  ]

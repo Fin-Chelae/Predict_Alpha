@@ -32,6 +32,7 @@ let feedItems = [];
 let lastEquity = null;   // previous paint only — drives the flash color, no math
 let ws = null, wsAlive = false, wsRetry = 0;
 let histDays = null;   // null = all; 7 / 30 = window
+let catFilter = null;  // null = all; else one scan category (arena + closed)
 let assets = [];       // arena token ids — mutated in place, closed over by ws/poll
 let mounted = false;
 
@@ -194,6 +195,18 @@ function aggregateTrades(activity) {
   }
   return by;
 }
+/* A market's category comes from its scans (the chain has none); markets
+ * the scanner never saw — or hasn't synced yet — fall under Other. */
+const NO_CAT = 'Other';
+function catOf(title) {
+  const scans = SC[(title || '').trim()];
+  if (!Array.isArray(scans)) return NO_CAT;
+  let best = null;
+  for (const s of scans)
+    if (s.category && (!best || (s.scanned_at || '') >= (best.scanned_at || ''))) best = s;
+  return best ? best.category : NO_CAT;
+}
+const inCat = r => !catFilter || r.category === catFilter;
 function derive(positions, activity, gamma) {
   const by = aggregateTrades(activity);
   const now = Date.now();
@@ -256,19 +269,32 @@ function derive(positions, activity, gamma) {
     if (a && a.kind === 'manual') { r.manual = true; r.reason = a.reason; }
   }
 
+  // A market not scanned (or not synced) yet inherits the category of a
+  // scanned sibling in the same Polymarket event.
+  const all = [...open, ...closedRows], evCat = {};
+  for (const r of all) {
+    r.category = catOf(r.title);
+    if (r.category !== NO_CAT && r.eventSlug) evCat[r.eventSlug] = r.category;
+  }
+  for (const r of all) if (r.category === NO_CAT && evCat[r.eventSlug]) r.category = evCat[r.eventSlug];
+
   closedRows.sort((x, y) => y.ts - x.ts);
-  const priced = closedRows.filter(r => r.pnl != null);
-  CLOSED = {
-    rows: closedRows,
-    realized: priced.reduce((s, r) => s + r.pnl, 0),
-    wins: priced.filter(r => r.pnl > 0).length,
-    manualCount: closedRows.filter(r => r.manual).length,
-    manualPnl: priced.filter(r => r.manual).reduce((s, r) => s + r.pnl, 0),
-    needsRedeem: closedRows.filter(r => r.needsRedeem).length,
-  };
+  CLOSED = closedSummary(closedRows);
   POS = open;
   FEES = activity.filter(a => a.type === 'TRADE' && a.side === 'BUY')
     .reduce((s, a) => s + (+a.usdcSize || 0) - (+a.price || 0) * (+a.size || 0), 0);
+}
+
+function closedSummary(rows) {
+  const priced = rows.filter(r => r.pnl != null);
+  return {
+    rows,
+    realized: priced.reduce((s, r) => s + r.pnl, 0),
+    wins: priced.filter(r => r.pnl > 0).length,
+    manualCount: rows.filter(r => r.manual).length,
+    manualPnl: priced.filter(r => r.manual).reduce((s, r) => s + r.pnl, 0),
+    needsRedeem: rows.filter(r => r.needsRedeem).length,
+  };
 }
 
 /* ══════════════ live account view ══════════════ */
@@ -318,6 +344,7 @@ function mount() {
     <div class="main">
       <div class="panel board">
         <h2>Position Arena <span>ranked by live P&amp;L · tick-level prices · 1-week trend</span></h2>
+        <div class="cats" id="catBar"></div>
         <div class="rows" id="board"></div>
       </div>
       <div class="rail">
@@ -334,6 +361,7 @@ function mount() {
 
   mounted = true;
   renderStrip(S);
+  renderCatBar(); initCatBar();
   renderBoard(S, true);
   renderClosed();
   drawHist(); initHistRanges();
@@ -374,10 +402,42 @@ function renderStrip(S) {
   ].map(([k, v]) => `<span class="stat">${k} <b>${esc(v)}</b></span>`).join('');
 }
 
+/* ══════════════ category filter ══════════════
+ * One category at a time, applied to the arena and Closed Positions.
+ * Account-level numbers (equity, curve, stats strip) stay whole-account. */
+function renderCatBar() {
+  const n = {};
+  for (const r of POS) (n[r.category] ||= [0, 0])[0]++;
+  for (const r of (CLOSED ? CLOSED.rows : [])) (n[r.category] ||= [0, 0])[1]++;
+  if (catFilter && !n[catFilter]) catFilter = null;
+  const cats = Object.keys(n).sort((a, b) =>
+    (a === NO_CAT) - (b === NO_CAT) || n[b][0] - n[a][0] || a.localeCompare(b));
+  const btn = (c, label, open, closed) =>
+    `<button class="cat-btn ${catFilter === c ? 'on' : ''}" data-cat="${esc(c || '')}"
+      title="${open} open · ${closed} closed">${esc(label)} <i>${open}</i></button>`;
+  $('#catBar').innerHTML = btn(null, 'All', POS.length, CLOSED ? CLOSED.rows.length : 0) +
+    cats.map(c => btn(c, c, n[c][0], n[c][1])).join('');
+}
+function initCatBar() {
+  $('#catBar').addEventListener('click', ev => {
+    const b = ev.target.closest('[data-cat]');
+    if (!b) return;
+    const c = b.dataset.cat || null;
+    catFilter = c === catFilter ? null : c;
+    const u = new URL(location.href);
+    catFilter ? u.searchParams.set('cat', catFilter) : u.searchParams.delete('cat');
+    try { history.replaceState(null, '', u); } catch {}
+    renderCatBar();
+    renderBoard(liveState(), true);
+    renderClosed();
+  });
+}
+const catTag = r => r.category === NO_CAT ? '' : `<span class="cat">${esc(r.category)}</span> · `;
+
 /* ══════════════ arena (FLIP reorder animation) ══════════════ */
 function renderBoard(S, first) {
   const board = $('#board');
-  const sorted = [...S.rows].sort((x, y) => y.pnlNow - x.pnlNow);
+  const sorted = S.rows.filter(inCat).sort((x, y) => y.pnlNow - x.pnlNow);
   const maxAbs = Math.max(.0001, ...sorted.map(r => Math.abs(r.roiNow)));
   const old = {};
   if (!first) for (const el of board.children) old[el.dataset.k] = el.getBoundingClientRect().top;
@@ -395,7 +455,7 @@ function renderBoard(S, first) {
       <div class="rank ${i < 3 ? 'medal' : ''}">${medal}</div>
       <div class="mkt"><div class="t" title="${esc(r.title)}">${
           scans ? '<span class="chev">▶</span>' : ''}${mktLink(r)}</div>
-        <div class="s">${r.size.toFixed(0)} sh · cost ${usd(r.cost)} · ${
+        <div class="s">${catTag(r)}${r.size.toFixed(0)} sh · cost ${usd(r.cost)} · ${
           r.days_to_resolution != null ? 'settles ' + Math.round(r.days_to_resolution) + 'd' : 'settle date n/a'}${
           scans ? ` · ${scans.length} scans` : ''}</div></div>
       <div class="side ${(r.outcome || '').toLowerCase() === 'yes' ? 'yes' : 'no'}">${esc((r.outcome || '?').toUpperCase())}</div>
@@ -408,7 +468,7 @@ function renderBoard(S, first) {
           width:${w}%; left:${r.roiNow >= 0 ? 50 : 50 - w}%"></div>
         <span class="roi-txt ${cls(r.roiNow)}">${pctf(r.roiNow, 1)}</span>
       </div></div>${isOpen ? scanDetail(key, scans) : ''}`;
-  }).join('');
+  }).join('') || `<div class="closed-note">No open positions in ${esc(catFilter)}.</div>`;
 
   if (!first) for (const el of board.children) {
     const prev = old[el.dataset.k];
@@ -463,9 +523,10 @@ function scanDetail(key, scans) {
 
 /* ══════════════ closed positions ══════════════ */
 function renderClosed() {
-  const c = CLOSED, sec = $('#closedSec');
-  if (!c || !c.rows.length) { sec.hidden = true; return; }
+  const sec = $('#closedSec');
+  if (!CLOSED || !CLOSED.rows.length) { sec.hidden = true; return; }
   sec.hidden = false;
+  const c = catFilter ? closedSummary(CLOSED.rows.filter(inCat)) : CLOSED;
 
   const bits = [`Realized <b class="${cls(c.realized)}">${usd(c.realized, 1)}</b>`,
                 `${c.rows.length} trades (${c.wins} wins)`];
@@ -483,7 +544,7 @@ function renderClosed() {
       <div class="cdate">${d}</div>
       <div class="mkt"><div class="t" title="${esc(r.title)}">${
           scans ? '<span class="chev">▶</span>' : ''}${mktLink(r)}</div>
-        <div class="s">${r.size.toFixed(0)} sh · cost ${usd(r.cost)}${
+        <div class="s">${catTag(r)}${r.size.toFixed(0)} sh · cost ${usd(r.cost)}${
           r.heldDays != null ? ` · held ${Math.round(r.heldDays)}d` : ''}${
           scans ? ` · ${scans.length} scans` : ''}${
           r.manual && r.reason ? ` <span class="why">· ${esc(r.reason)}</span>` : ''}</div></div>
@@ -497,8 +558,8 @@ function renderClosed() {
     </div>${isOpen ? scanDetail(key, scans) : ''}`;
   }).join('');
 
-  sec.innerHTML = `<h2>Closed Positions <span>${bits.join(' · ')}</span></h2>
-    <div class="rows">${rows}</div>`;
+  sec.innerHTML = `<h2>Closed Positions <span>${catFilter ? esc(catFilter) + ' · ' : ''}${bits.join(' · ')}</span></h2>
+    <div class="rows">${rows || `<div class="closed-note">No closed positions in ${esc(catFilter)}.</div>`}</div>`;
 }
 
 function flashRow(asset, up) {
@@ -895,6 +956,7 @@ async function refreshWallet() {
       try { ws && ws.close(); } catch {}        // reconnect → resubscribe with new list
     }
     $('#dataTime').textContent = 'on-chain ' + nowHMS();
+    renderCatBar();
     if (!selectingIn($('#closedSec'))) renderClosed();
     renderStrip(liveState());
     scheduleRefresh();
@@ -914,6 +976,7 @@ async function refreshWallet() {
     const a = await jget('data/annotations.json');
     delete a._comment; ANN = a;
   } catch {}
+  catFilter = new URLSearchParams(location.search).get('cat') || null;
 
   let positions, activity, cash;
   try {

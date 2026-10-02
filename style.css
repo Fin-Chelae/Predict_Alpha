@@ -97,11 +97,11 @@ header .spacer { flex: 1; }
   flex-wrap: wrap; }
 .chart-box canvas { width: 100%; display: block; }
 .ranges { display: flex; gap: 4px; align-items: center; }
-.range-btn { font: 11px var(--mono); padding: 3px 9px; border-radius: 6px;
+.range-btn, .cat-btn { font: 11px var(--mono); padding: 3px 9px; border-radius: 6px;
   border: 1px solid var(--line); background: none; color: var(--ink-3);
   cursor: pointer; }
-.range-btn:hover { color: var(--ink-2); }
-.range-btn.on { border-color: var(--accent); color: var(--accent);
+.range-btn:hover, .cat-btn:hover { color: var(--ink-2); }
+.range-btn.on, .cat-btn.on { border-color: var(--accent); color: var(--accent);
   background: var(--accent-dim); }
 #histDelta { font: 11px var(--mono); margin-right: 6px; }
 
@@ -116,6 +116,9 @@ header .spacer { flex: 1; }
 .board h2 span, .rail h2 span { color: var(--ink-3); text-transform: none;
   letter-spacing: 0; font-weight: 400; margin-left: 8px; }
 .rail h2 span { display: block; margin: 2px 0 0; }   /* narrow rail: own line */
+.cats { display: flex; flex-wrap: wrap; gap: 4px; padding: 0 18px 12px; }
+.cats i { font-style: normal; opacity: .6; margin-left: 2px; }
+.mkt .s .cat { color: var(--ink-2); }
 .rows { display: flex; flex-direction: column; }
 .row { display: grid; align-items: center; gap: 10px; padding: 9px 18px;
   grid-template-columns: 30px minmax(160px, 1fr) 46px 110px 72px 110px 90px;

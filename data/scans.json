@@ -1327,6 +1327,20 @@
  ],
  "Will Iran Reconstruction Funding be in a US-Iran deal in 2026?": [
   {
+   "id": 3747,
+   "scanned_at": "2026-10-02T13:31:11.208174",
+   "date": "2026-10-02",
+   "agent": 6.8,
+   "market_price_t0": 9.5,
+   "edge": -0.026999999999999996,
+   "confidence": 0.688,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.06, 0.06, 0.07, 0.08). (0) The condition is not met. The only written text that mentions reconstruction funding is the June 17 Islamabad MoU. Its Article 6 only commits the US to 'develop a definitive, mutually agreed plan' with the mechanism 'to be finalized as part of a final deal.' The rules explicitly exclude that kind of commitment to plan, and this market opened after that signing. Trump also declared the MoU 'over' on July 8. (a) About three months remain until the December 31, 2026 deadline. Trump's own framing puts any deal 'after the election' on November 3, leaving roughly eight weeks. (b) Status quo is No. Talks via Qatar are stalled over sequencing, the Iranian delegation was sent out of the US, a third carrier is deploying, and Trump says he is hardening his terms and floats strikes after the midterms. (c) No scenario: strikes resume after the midterms, or at most a narrow Hormuz/ceasefire arrangement is restored. Merely re-adopting the old MoU text would still not create a present, binding non-Iranian fund. (d) Yes scenario: Iran collapses economically or Trump pivots after the midterms. A comprehensive final deal is then signed in December, setting up a defined Gulf/private-funded reconstruction vehicle as a present obligation. That is hard given IRGC sanctions obstacles, Gulf reluctance (Qatar called $300bn 'aspirational') and Vance's 'no money until behavior changes.' I anchor on the 9.5% market price and shade down somewhat. Even the related Hormuz-agreement market (41.5% by Dec 31, thin volume) covers a much lower bar than a binding funding mechanism, and the research found no sign of fund language in current proposals.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3747",
+   "has_trace": true
+  },
+  {
    "id": 3127,
    "scanned_at": "2026-09-18T12:11:26.059680",
    "date": "2026-09-18",
@@ -1632,6 +1646,20 @@
   }
  ],
  "Will Anthony Fauci be arrested before 2027?": [
+  {
+   "id": 3761,
+   "scanned_at": "2026-10-02T17:03:52.316518",
+   "date": "2026-10-02",
+   "agent": 5.8,
+   "market_price_t0": 7.7,
+   "edge": -0.01899999999999999,
+   "confidence": 0.692,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.06, 0.06, 0.05, 0.07, 0.07). (0) Not resolved: no source shows a warrant, indictment, or custodial action against Fauci as of Oct 2, 2026. Only his aide Morens was indicted and pleaded guilty, and Fauci has a committee-only contempt referral pending at DOJ plus state AG civil subpoena probes. (a) About 3 months remain until Dec 31, 2026. (b) Status quo is No: the DOJ is reportedly hesitant (Fox, Oct 1), and the referral is procedurally shaky because there was no full Senate vote (Wilson precedent, Pagliano analogue). The Biden pardon also complicates federal charges. (c) No path: DOJ sits on the referral, and the state probes stay at the subpoena/civil stage through year-end, which is the likeliest outcome given the multi-stage indictment process. (d) Yes path: DOJ indicts Fauci on contempt or false-statement theories, or to test the autopen pardon, and he self-surrenders for booking. Alternatively a red-state AG (FL/LA/WV/AL) files criminal charges and secures a surrender. Both are possible under this administration but show no visible movement. The market sits at 7.7% and has drifted down 2.75 points over 30 days, and the related 'charged by Dec 31' market is at 10%. Since arrest requires a charge plus processing in a short window, I shade slightly below the market to about 5.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3761",
+   "has_trace": true
+  },
   {
    "id": 2924,
    "scanned_at": "2026-09-14T16:11:15.509540",
@@ -9881,6 +9909,20 @@
  ],
  "Trump, Putin, and Zelensky seen together before 2027?": [
   {
+   "id": 3740,
+   "scanned_at": "2026-10-02T11:43:37.367731",
+   "date": "2026-10-02",
+   "agent": 6,
+   "market_price_t0": 7.5,
+   "edge": -0.014999999999999986,
+   "confidence": 0.692,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.06, 0.06, 0.06, 0.06, 0.07). (0) No source shows Trump, Putin and Zelensky in one authentic frame. The resolution-source read found only separate bilateral meetings, and Putin and Zelensky have never been pictured together since 2019. The condition is not met. (a) About three months remain, to Dec 31, 2026. The realistic opportunities are the Dec 14–15 G20 in Miami and a possible leader-level escalation of the proposed UAE trilateral talks, which still have no date. (b) If nothing changes, this resolves No. Putin has rejected every trilateral proposal since mid-2025, insists Zelensky come to Moscow, and Peskov called a Miami meeting 'impossible' on Sept 12. (c) No: Putin skips Miami in favor of the APEC summit in China (Bloomberg's 'most likely' scenario) or sends a representative. The UAE track stays at technical level, and the year ends without a three-way photo, as in the 14-month pattern of 'two weeks away' promises. (d) Yes: Putin accepts the Miami invitation, which Russia has deferred rather than refused. Zelensky, who pre-committed to attend if Putin does, is invited as a guest, and a family photo or brief trilateral puts all three in frame. Alternatively, a sudden breakthrough produces an Abu Dhabi signing summit. The Polymarket anchor is 7.5%. Same-question 'meet' markets sit at 5% (Polymarket) and 3% (Kalshi). The photo criterion is only slightly broader, since an incidental G20 group shot would count. Given the explicit Kremlin rejections, I shade slightly below the market to 6%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3740",
+   "has_trace": true
+  },
+  {
    "id": 2023,
    "scanned_at": "2026-08-27T00:42:47.080707",
    "date": "2026-08-27",
@@ -11045,6 +11087,20 @@
  ],
  "Will Mojtaba Khamenei be head of state in Iran end of 2026?": [
   {
+   "id": 3756,
+   "scanned_at": "2026-10-02T15:51:42.940500",
+   "date": "2026-10-02",
+   "agent": 85.7,
+   "market_price_t0": 87.8,
+   "edge": -0.021499999999999964,
+   "confidence": 0.644,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.86, 0.86, 0.86, 0.85, 0.85). (0) The condition is not yet resolved. As of early October 2026, Mojtaba Khamenei holds the Supreme Leader title. Wikipedia lists him as incumbent, and orders and appointments are still issued in his name (the Aug 10 Abdollahi decree, Oct 1 reports of orders 'covering all enemy scenarios'). No successor process or rival claimant exists. (a) About 3 months remain until the Dec 31, 2026 noon ET snapshot. (b) If nothing changes, he is still the formal and nominal apex on Dec 31, and consensus reporting would most likely name him. The Polymarket price of 87.85% reflects this and has risen 4.6% over 30 days. A related market, 'leadership change by Dec 31' at 11.5%, prices the same risk consistently. (c) NO comes from either of two paths. He could be killed or confirmed incapacitated in renewed US-Israeli strikes; Trump has hinted at action after the midterms, and he was reportedly pulled from rubble in an earlier strike. Alternatively, resolvers could apply the literal 'de facto control' test to an unseen leader whose own president describes a six-member council reaching decisions, and resolve elsewhere or to 'No Head of State.' (d) YES comes from institutional inertia: no faction has an incentive to invoke Article 111, his name keeps issuing binding directives, and credible outlets keep calling him Supreme Leader. The resolution-criteria ambiguity and the lack of independent proof of life justify trimming slightly below the market, but not much. The office is sticky, and Polymarket resolutions typically follow the recognized officeholder.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3756",
+   "has_trace": true
+  },
+  {
    "id": 3078,
    "scanned_at": "2026-09-17T15:22:51.847567",
    "date": "2026-09-17",
@@ -11102,6 +11158,20 @@
   }
  ],
  "Israel x Turkey military clash before 2027?": [
+  {
+   "id": 3734,
+   "scanned_at": "2026-10-02T10:30:54.471573",
+   "date": "2026-10-02",
+   "agent": 7.7,
+   "market_price_t0": 9.5,
+   "edge": -0.018000000000000002,
+   "confidence": 0.6759999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.07, 0.07, 0.09, 0.09). (0) No source reports a qualifying direct engagement. The resolution-source read and every research dimension say the Aug 18 Abu al-Duhur strike hit Syrian, not Turkish, assets. The Turkish naval shadowing near Cyprus never escalated to fire or ramming, so the condition is not met. (a) About 3 months remain until the Dec 31, 2026 deadline. (b) If nothing changes, it resolves No. Each 2026 flashpoint has followed the same pattern of strike, rhetoric and US-brokered de-escalation: the March and August Syria strikes, the September naval near-misses, and the UNGA 'tyrant' exchange. Turkey absorbed hits without retaliating, and Rutte and Barrack are both invested in restraint. (c) NO scenario: US deconfliction talks continue and the Oct 27 Israeli election, possibly bringing an Eisenkot-led government, lowers the political incentive for brinkmanship. Rivalry stays rhetorical and proxy-based through year-end. (d) YES scenario: Israel strikes a Syrian base that now hosts Turkish radar or air defenses, killing Turkish personnel or drawing Turkish fire. Alternatively, a Cyprus-channel naval standoff closes to hundreds of meters again and turns kinetic. The market anchor is 9.5% and trending down (-3% over 30 days). The historical base rate of direct clashes in this dyad is zero, and long-shot bias on Polymarket typically inflates small-probability Yes prices. Against that, the escalation trend is real and documented, so I shade slightly below the market to about 7%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3734",
+   "has_trace": true
+  },
   {
    "id": 1943,
    "scanned_at": "2026-08-25T19:32:51.658593",
@@ -11208,6 +11278,20 @@
   }
  ],
  "Will the U.S. invade Iran before 2027?": [
+  {
+   "id": 3742,
+   "scanned_at": "2026-10-02T12:21:07.263315",
+   "date": "2026-10-02",
+   "agent": 14.6,
+   "market_price_t0": 15.5,
+   "edge": -0.009000000000000008,
+   "confidence": 0.64,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.14, 0.14, 0.14, 0.15, 0.16). (0) No source shows the condition met. The CryptoSlate/Polymarket resolution-source read and current-state reporting through Oct 2, 2026 confirm the war has been air, naval and blockade operations with no ground or territorial-control offensive, so it is not resolved. (a) About three months remain until the Dec 31, 2026 11:59 PM ET deadline. (b) Status quo is No: seven months of war, two ceasefires and repeated 'ground option' reporting (Kharg Island plans in March, more in July and September) have never turned into an island seizure or landing. (c) NO scenario: Trump resumes bombing after the Nov 3 midterms, or reaches the post-election deal he keeps predicting via Qatari mediation on the Hormuz plan. Low war approval (31%), service-chief warnings about readiness and interceptor depletion all argue against committing ground forces. (d) YES scenario: the buildup finishes in November, with a third carrier, the Makin Island ARG carrying the 13th MEU, and the 82nd Airborne extended. Talks then fail, and Trump orders a limited seizure of Kharg Island or Hormuz islands to reopen shipping. The 'any portion' wording means that alone would qualify. The market anchor is 15.5%, flat over 7 days. The new buildup news supports the tail but appears already priced, and reporting points to bombing rather than ground operations as the November plan. I shade slightly below the market at 14%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3742",
+   "has_trace": true
+  },
   {
    "id": 3076,
    "scanned_at": "2026-09-17T14:38:10.034152",
@@ -12176,6 +12260,20 @@
   }
  ],
  "Will there be at least 10000 measles cases in the U.S. in 2026?": [
+  {
+   "id": 3759,
+   "scanned_at": "2026-10-02T16:27:51.903487",
+   "date": "2026-10-02",
+   "agent": 5.6,
+   "market_price_t0": 8,
+   "edge": -0.023499999999999993,
+   "confidence": 0.732,
+   "category": "Health",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.06, 0.04, 0.05, 0.07, 0.07). (0) The condition is not met. The CDC counter shows 3,887 confirmed 2026 cases as of October 1 (resolution-source read; Contagion Live cites the same figure), well short of 10,000. Nothing makes it impossible yet. (a) About 13 weeks remain until December 31. The CDC counter updates weekly on Thursday data, so the last update before the deadline will probably reflect counts through roughly December 24, which effectively shortens the window. (b) Status quo: at the recent pace of about 190-230 new cases a week, the year-end total lands near 6,800-7,200, a clear No. The sibling markets agree: 6,000 is priced at about 47% and 7,500 at about 15.5%. (c) No scenario: the Pennsylvania outbreak plateaus near South Carolina's ~1,000-case scale. Weekly additions stay in the low hundreds, and the total ends between 6,000 and 8,000. (d) Yes scenario: fall and winter seasonality plus holiday travel push weekly additions to an average of about 470 or more through December, roughly double the current pace. That would likely need one or more new large outbreaks beyond the PA/SC/UT/TX clusters. Even the YES-case research notes that compounding at 6% a week only reaches the high 8,000s to low 9,000s. The market anchor is 7.95% and has drifted up 3.45 points over 30 days. I shade slightly below it because the required pace has never been reached in 2026, absolute weekly additions are roughly linear, and the reporting lag eats into the final weeks. I still keep some tail for a seasonal surge or a new large cluster.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3759",
+   "has_trace": true
+  },
   {
    "id": 2961,
    "scanned_at": "2026-09-15T07:20:43.411613",
@@ -15144,7 +15242,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-02T09:45:39.033Z",
+  "last_sync": "2026-10-02T19:56:52.897Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -15510,6 +15608,20 @@
   }
  ],
  "Spain snap election called in 2026?": [
+  {
+   "id": 3732,
+   "scanned_at": "2026-10-02T09:54:49.687028",
+   "date": "2026-10-02",
+   "agent": 45.8,
+   "market_price_t0": 47,
+   "edge": -0.011999999999999955,
+   "confidence": 0.512,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.45, 0.45, 0.47, 0.46, 0.46). (0) Not resolved. As of 2026-10-02 neither La Moncloa nor the BOE shows a dissolution decree, and Congress is running ordinary sessions. YES still needs Sánchez to propose dissolution and a Real Decreto to be issued by Dec 31, 2026. (a) About three months remain. The most-discussed path needs a decree signed around Oct 5 for a Nov 29 vote, or around Oct 12 for Dec 6. A budget-defeat dissolution later in the autumn could also count if the decree is issued in December. (b) If nothing changes, Sánchez keeps his on-record June pledge of 'elections in 2027' and the market resolves No. (c) NO: the housing decrees fall but Sánchez takes Junts's off-ramp of a reissued decree, pushes the 2027 budget, and any dissolution comes in January or later for a Feb/March 2027 vote, as insider reporting from September suggested. (d) YES: after today's 178-172 type defeat, the ministers urging him to call elections 'en caliente' prevail. As in 2023, he signs within days for Nov 29 or Dec 6. This is backed by convergent reporting from elDiario.es, El Español and El Independiente. Against that, all sourcing is anonymous, PP insiders are sceptical, and his own record shows he often absorbs defeats without dissolving. The Polymarket anchor is about 47-50% with a wide 36/58 spread, which fits real uncertainty. I see no unpriced information strong enough to move far from it, so I shade slightly toward the status quo given his explicit 2027 commitments.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3732",
+   "has_trace": true
+  },
   {
    "id": 2706,
    "scanned_at": "2026-09-07T07:24:35.126899",
@@ -17441,6 +17553,20 @@
  ],
  "Russia military action against an EU country by December 31, 2026?": [
   {
+   "id": 3752,
+   "scanned_at": "2026-10-02T14:40:26.280741",
+   "date": "2026-10-02",
+   "agent": 10.8,
+   "market_price_t0": 12.5,
+   "edge": -0.016999999999999987,
+   "confidence": 0.638,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.10, 0.10, 0.11, 0.12, 0.11). (0) No source shows the condition met. The current-state, base-rate and NO-case research all find no confirmed Russian strike since the 2026-09-19 market creation that sources agree was directed at an EU target. Recent episodes do not qualify: the 9/24 Solca and Suceava drone crashes were treated as spillover, and the 9/30 jet scramble involved no impact. (a) About three months remain, until December 31, 2026. (b) If nothing changes the market resolves NO. Throughout the war, every munition landing on Polish or Romanian soil (Galați in May 2026, Tarnawa-Kolonia in July 2026) has been characterized by the affected governments as stray or spillover, never claimed by Moscow. The contract explicitly excludes munitions from attacks on Ukraine unless a consensus says they were directed at the EU state. (c) NO: incursions continue at a high rate, but they are intercepted, crash as debris, or are officially described as accidental. Romania and Poland keep declining to assert intent, and Putin and Peskov keep denying any plan to attack Europe. (d) YES: the Tusk/CIA-warned 'hybrid' scenario plays out, with a Russian drone or missile hitting Polish, Baltic or Romanian infrastructure in a way that is clearly targeted, such as an isolated launch or a strike on a logistics hub. Alternatively, Russia openly claims a strike on arms-transit logistics. Rising incident counts (Romania's airspace violations already above all of 2022–2025) and cabinet-level alarm keep this tail real. I anchor on the Polymarket price of 12.5%, which is trending down. I shade slightly lower because the strict attribution bar has never been met in more than four years, despite much higher incident frequency this year.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3752",
+   "has_trace": true
+  },
+  {
    "id": 3208,
    "scanned_at": "2026-09-19T23:17:12.385549",
    "date": "2026-09-19",
@@ -19098,6 +19224,86 @@
    "pipeline": 2,
    "rationale": "Mean of 4 draws (0.36, 0.35, 0.36, 0.35). (0) Not resolved. The live arena.ai Text Arena (no style control) snapshot from Sep 30 shows Google's gemini-4-argon-high at #1 (1533, marked Preliminary, about 4.9k votes). Anthropic's claude-opus-5.5-high is #2 at 1512, and Anthropic holds ranks 2–7. The rules exclude only 'AutoEval', not 'Preliminary', so Argon currently counts. (a) About 60 days remain until the Nov 30, 12:00 PM ET check. (b) Status quo is Google #1, so NO. A 21-point gap is meaningful, though a low-vote preliminary score could drift down as votes accumulate. (c) NO: Google meets Arena's two-week public-access commitment, Argon's score holds, and the reported October Gemini 4 Pro launch entrenches Google's lead. Meanwhile the next full Anthropic generation (Opus 6, about 15% on Kalshi to arrive before Nov 1) doesn't land in time. (d) YES: Argon is pulled for failing the public-access policy, or its preliminary score regresses below Opus 5.5. Alternatively, Anthropic repeats its late-November flagship cadence (Opus 4.5 shipped Nov 24, 2025) with an Opus 6 or Fable-class release that takes #1. Anthropic held #1 for roughly seven straight months, which shows it can respond quickly, but Google now has momentum and a second model in the pipeline. The anchor is the market at 36.5%, with the October sibling market at 35.5%. The research surfaces no unpriced information strong enough to move materially, so I stay near the market.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3648",
+   "has_trace": true
+  }
+ ],
+ "Will Texas enact a data center moratorium by December 31, 2027?": [
+  {
+   "id": 3763,
+   "scanned_at": "2026-10-02T17:39:48.529530",
+   "date": "2026-10-02",
+   "agent": 15.6,
+   "market_price_t0": 27.5,
+   "edge": -0.11900000000000002,
+   "confidence": 0.626,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.12, 0.13, 0.15, 0.18, 0.20). (0) Not met. Texas's current 'moratorium' consists of Abbott's August directive (an ERCOT/PUCT interconnection pause) and his September 21 TCEQ permit halt. Both are executive or agency actions, which the rules explicitly exclude. No statute exists, and no moratorium bill has been filed; pre-filing only opens November 9, 2026. (a) About 15 months remain. In practice the only window is the 90th Legislature's regular session, January 12 to May 31, 2027, plus any special session, which Abbott has so far refused to call. (b) If nothing changes, the answer is No. (c) NO scenario: the ERCOT audits finish and the executive pause lapses. The 2027 session then passes what Abbott and Speaker Burrows have actually previewed: sales-tax-exemption repeal, cost allocation under SB 6, water and siting rules. That is a 'permitted subject to conditions' regime that does not qualify. (d) YES scenario: a rural-GOP and Democratic bloc, energized by election-year salience and Sid Miller's demand for 'laws with teeth,' attaches a mandatory statutory pause on new interconnections above 100 MW to a data-center bill, and Abbott signs it. Even then, a pause 'until ERCOT completes its audit' would likely fail the rule that the condition cannot depend on an agency completing its own proceedings. The reference class is roughly 20 state statutory moratorium bills in 2025-26 with zero enactments; Maine's passed but was vetoed. Texas is pro-industry and has preempted local moratoria before (HB 2127). The market sits at 27.5% after falling from 51.5%. I think it still overprices a codified ban, so I shade down to about 12%, keeping some weight on political volatility and a possible special session.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3763",
+   "has_trace": true
+  }
+ ],
+ "Will there be no next German Chancellor before 2028?": [
+  {
+   "id": 3754,
+   "scanned_at": "2026-10-02T15:16:12.972385",
+   "date": "2026-10-02",
+   "agent": 69.2,
+   "market_price_t0": 67.5,
+   "edge": 0.016999999999999904,
+   "confidence": 0.604,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.66, 0.70, 0.68, 0.71, 0.71). (0) Nothing has resolved yet. Merz is still in office as of 2026-10-02. No resignation, confidence vote or constructive no-confidence motion has been announced. The resolution-source page was a generic Bundestag homepage and gave no settlement evidence. (a) About 15 months remain until the 31 Dec 2027 deadline. (b) If nothing changes, Merz stays and the market resolves Yes. Several things support that: Merz refuses to resign, all eight CDU state premiers backed him on 16 September, the September presidium gambit stalled on the successor problem, Söder has withdrawn and Wüst has not moved. A constructive no-confidence vote needs an agreed successor with an absolute majority, and German history has only one such success (1982). (c) The path to No runs through the April 2027 NRW election. A further collapse there could prompt a 'Kanzlertausch' to Wüst or Wadephul, elected by the CDU/CSU-SPD majority. Alternatively, the coalition could break and a snap election could seat a new chancellor before year-end 2027. Approval at a record-low 10% (ARD), AfD at 28-29% nationally and a coup attempt already floated make this a real tail. (d) Yes happens if the fear of a snap election that would strengthen the AfD, plus the lack of a successor, keeps Merz limping on through 2027. The sibling market prices Merz out before 2027 at only 8.5%, which implies most of the risk sits in 2027. I anchor on the 67.5% market price and the recent upward drift, and see no unpriced information strong enough to move far from it. I shade slightly toward No for the post-NRW 2027 hazard.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3754",
+   "has_trace": true
+  }
+ ],
+ "Will OpenAI have the best Image Edit AI at the end of October 2026?": [
+  {
+   "id": 3749,
+   "scanned_at": "2026-10-02T14:05:46.605958",
+   "date": "2026-10-02",
+   "agent": 88.4,
+   "market_price_t0": 87.5,
+   "edge": 0.009000000000000008,
+   "confidence": 0.736,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.89, 0.88, 0.89, 0.88, 0.88). (0) The condition is not yet resolved. The arena.ai Image Edit board fetched on Sep 29, 2026 shows OpenAI holding ranks 1-3: gpt-image-2.5-sunburst at 1522, flare at 1478 and gpt-image-2 medium at 1461. The nearest rival, SpaceXAI or Microsoft, sits at 1427, a gap of about 95 points. Preliminary tags still count under the rules. (a) About 29 days remain until the Oct 31 noon ET check. (b) If nothing changes, OpenAI is #1 and this resolves YES. Even if Sunburst drifted down or were removed under Arena's procedural rules, OpenAI's #2 and #3 models still lead every rival. (c) NO requires a rival flagship to debut above roughly 1522 before Oct 31. The most plausible path is a Gemini 4-era Google image model, since Gemini 4 'Argon' is already appearing on Arena text and code boards and DeepMind hints at an earlier launch. Tencent is another candidate; sibling markets price it at about 4.5%. Google's current best edit model is about 130 points behind, so it would need a jump like OpenAI's April 2026 record. (d) YES follows if no rival releases a frontier image-edit model in the window, or one lands below OpenAI, as Qwen-image-2.1 and Ideogram-4.5 recently did. The Polymarket anchor is 87.5%, and sibling markets sum to roughly 9-10% for non-OpenAI companies. I see no specific unpriced information, so I nudge only slightly up to reflect OpenAI's depth across three top slots.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3749",
+   "has_trace": true
+  }
+ ],
+ "Will Ethereum reach $2,800 in October?": [
+  {
+   "id": 3745,
+   "scanned_at": "2026-10-02T12:55:49.704797",
+   "date": "2026-10-02",
+   "agent": 89.6,
+   "market_price_t0": 87.5,
+   "edge": 0.02100000000000013,
+   "confidence": 0.704,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.89, 0.89, 0.89, 0.89, 0.92). (0) Not yet resolved. No source shows a Binance ETH/USDT 1-minute high of $2,800 or more since October 1, and the resolution-source fetch failed. September's touches ($2,807 on Sep 21, about $2,804 later) fall before the window and do not count. (a) About 29 days remain, until 11:59 PM ET on October 31. (b) Status quo: the live crypto tool shows ETH at about $2,751 (+2% in 24h, BTC +3.6%), roughly 1.8% below the strike. With ETH's typical monthly volatility of about 15-18%, a simple barrier-touch estimate gives about 90% odds of tagging a level that close within a month. The Polymarket anchor of 88.5% (bid 88 / ask 89, rising) agrees. (c) NO scenario: the $2,775-2,825 resistance band, rejected twice in late September, holds again. Flat-to-negative ETF flows, a hawkish lean at the Oct 28 FOMC (34% hike odds), or a macro risk-off move push ETH back toward $2,600 support for the rest of the month. (d) YES scenario: the current BTC-led bounce, a short squeeze on the stacked Bitfinex shorts, a resumption of ETF inflows, or Glamsterdam testnet sentiment (Oct 6) produces a single wick to $2,800. Only one 1-minute high is needed, and Binance often prints slightly higher wicks than aggregator prices. The well-defined resistance and recent rejections justify not going above the market much, so I sit near the anchor at 0.89.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3745",
+   "has_trace": true
+  }
+ ],
+ "Will Indiana enact a data center moratorium by December 31, 2028?": [
+  {
+   "id": 3738,
+   "scanned_at": "2026-10-02T11:07:38.360727",
+   "date": "2026-10-02",
+   "agent": 22.4,
+   "market_price_t0": 37.5,
+   "edge": -0.15100000000000005,
+   "confidence": 0.604,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.22, 0.22, 0.24, 0.22, 0.22) after one crux research pass. (0) Resolution check: not met. The 2026 session produced no statewide moratorium. HB 1333 died in Senate Utilities, and the enacted HEA 1210 is revenue-sharing only. Trackers through late September 2026 list only local/county pauses (e.g., Indianapolis through 2027), which are excluded. (a) About 27 months remain, covering the 2027 long budget session (Jan-Apr) and a 2028 short session; Indiana has no citizen initiative, so only the legislature can act. (b) Status quo is No: no statewide bill is pre-filed, and the GOP trifecta (70-30 House, 39-10 Senate) controls hearings. (c) No: Gov. Braun keeps his stated July/September 2026 position that each county decides, plus ratepayer and water guardrails; leadership channels backlash into abatement reform and interconnection cost allocation, which are conditional measures that do not count. (d) Yes: local backlash (about a third of counties with moratoria or bans) becomes a 2028 election issue, and legislators pass a statute suspending approvals or interconnection for facilities over 100 MW until an objective condition is met. I price below the market's 0.375 because no state has yet enacted such a moratorium by statute (Maine vetoed; New York and Texas used executive orders, which do not count), the governor explicitly favors local option, and no 2027 bill exists. The long horizon and bipartisan grassroots salience keep a meaningful tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3738",
    "has_trace": true
   }
  ]

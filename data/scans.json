@@ -233,6 +233,20 @@
  ],
  "Strait of Hormuz traffic returns to normal by December 31?": [
   {
+   "id": 3709,
+   "scanned_at": "2026-10-02T04:36:28.453716",
+   "date": "2026-10-02",
+   "agent": 15.4,
+   "market_price_t0": 20.5,
+   "edge": -0.05099999999999999,
+   "confidence": 0.648,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.14, 0.13, 0.13, 0.18, 0.19). (0) Not resolved. Secondary mirrors of IMF PortWatch (MacroMicro, straits.live, straitofhormuz.report) put the Strait of Hormuz 7-day moving average at about 3.1 as of 2026-09-27, with daily transit calls of 1-4. That is roughly 5% of the 60 threshold. I could not read the primary PortWatch page directly. (a) About 90 days remain until December 31, and any qualifying date would show up in PortWatch with a lag. (b) If nothing changes, the average stays in single digits and the market resolves No. (c) No path: Trump has rejected Iran's 7-day reopening offer and has signalled renewed bombing after the midterms. September saw at least 16 attacks on vessels. Tankers keep switching off their AIS transponders, so even recovering physical flows stay invisible to PortWatch's count. ADNOC has said full flows will not return until 2027. (d) Yes path: a ceasefire and reopening deal (the Sept 23 roadmap) is signed in October or November, the blockade is lifted, and confident operators switch AIS back on. Kpler crude volumes are already near pre-war levels and US NCAGS reports about 30 transits a day, which gives a latent base for a step change. Against that, the best post-deal reading this year was a 7-day average of about 32 in early July, and the June MOU peak was about 25 transits. Neither came close to 60. Every earlier sibling 'returns to normal' market has resolved No. The anchor is Polymarket at 20.5%, with the same-metric Kalshi pre-2027 contract at 17%. Given Trump's explicit rejection of Iran's offer, his escalation signals, and the lack of any precedent for even half the threshold, I shade below both to about 14%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3709",
+   "has_trace": true
+  },
+  {
    "id": 2964,
    "scanned_at": "2026-09-15T08:53:26.448602",
    "date": "2026-09-15",
@@ -465,6 +479,20 @@
  ],
  "Strait of Hormuz traffic returns to normal by November 30?": [
   {
+   "id": 3712,
+   "scanned_at": "2026-10-02T05:11:28.995739",
+   "date": "2026-10-02",
+   "agent": 7.6,
+   "market_price_t0": 9.5,
+   "edge": -0.019000000000000003,
+   "confidence": 0.698,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.07, 0.07, 0.09, 0.09). (0) The condition is not met. The latest IMF PortWatch data (via the MacroMicro mirror) shows a 7-day average of 3.14 for 2026-09-27, with 1 transit that day, against a threshold of 60. No source shows any value near 60 since February. (a) About 59 days remain until November 30, and the qualifying traffic has to actually occur by then, so a deal would realistically need to land by early-to-mid November. (b) If nothing changes, the average stays in single digits and the market resolves No, continuing an unbroken run of No results across every sibling \"by date\" contract since February. (c) No scenario: talks stall after Trump's rejections on Sept 26 and Oct 1, the blockade stays, attacks on tankers continue, and renewed bombing after the Nov 3 midterms suppresses traffic further. (d) Yes scenario: a phased blockade-lift-for-reopening deal is reached in October, and shippers return faster than in June. Even the June MOU produced a peak of only 51 daily transits and never a 7-day average of 60, so the ramp would have to beat that precedent and hold. The Polymarket anchor is 9.5%, against about 3% for the October 31 sibling and 20.5% for December 31. Given Trump's explicit rejections and bombing talk, plus the June precedent falling short of 60 even with a signed deal, I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3712",
+   "has_trace": true
+  },
+  {
    "id": 3243,
    "scanned_at": "2026-09-20T14:32:47.745438",
    "date": "2026-09-20",
@@ -508,6 +536,20 @@
   }
  ],
  "Will Anthropic have the highest IPO Market Cap 2026?": [
+  {
+   "id": 3674,
+   "scanned_at": "2026-10-01T23:21:29.777413",
+   "date": "2026-10-01",
+   "agent": 48.8,
+   "market_price_t0": 49.8,
+   "edge": -0.010000000000000009,
+   "confidence": 0.5820000000000001,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.49, 0.50, 0.49, 0.48, 0.48). (0) The condition is not met yet. Anthropic is still private: it has a confidential S-1 from June 1 and a leaked draft prospectus from Sept 28, but no public EDGAR filing, ticker or price range. SpaceX has already set the 2026 benchmark, with a June 12 first-day close of about $2.1T. (a) Three months remain until Dec 31, 2026. A public S-1 is expected in early-to-mid October, a roadshow after that, and a listing around November. (b) If nothing changes, Anthropic does not IPO in 2026, SpaceX keeps the title and this resolves No. (c) NO path: AI-safety turbulence (Amodei's slowdown essay, OpenAI's 2027 punt), the DoD litigation or market weakness pushes the deal into 2027. Alternatively Anthropic lists but prices near $2T and closes below SpaceX's roughly $2.1T on a weak or flat debut. (d) YES path: a November Nasdaq listing priced at the reported $2T+ target, supported by a possible ~$10B Nvidia cornerstone order and Q2 profitability, with a modest first-day pop to a close above $2.1T. The sibling Polymarket market prices a 2026 IPO at about 81.5%, and I put roughly 60-62% on Anthropic beating SpaceX's close given a listing. That gives about 0.49, consistent with the 50% anchor (48/52 book). No other 2026 rival is credible: OpenAI is at 0.7%, and the 25% xAI listing has zero volume. I shade slightly below 50 because of the repeated timeline slips and because a ~$2T pricing target only narrowly clears SpaceX's first-day close.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3674",
+   "has_trace": true
+  },
   {
    "id": 2914,
    "scanned_at": "2026-09-14T11:42:00.073200",
@@ -1035,6 +1077,20 @@
  ],
  "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?": [
   {
+   "id": 3730,
+   "scanned_at": "2026-10-02T09:19:39.480416",
+   "date": "2026-10-02",
+   "agent": 66,
+   "market_price_t0": 67.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.618,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.64, 0.65, 0.65, 0.68, 0.68). (0) Not resolved. FRED DFEDTARU shows the upper bound at 4.00% after the September 25bp hike, and the December 8-9 meeting has not happened. (a) About ten weeks remain until the December 9 statement. In between come the October 27-28 meeting, two CPI reports and two jobs reports. (b) Status quo, with the rate unchanged at the December meeting, resolves No. But the September dot plot showed 16 of 18 participants expecting at least one more 2026 hike, and the median projected one more. Polymarket prices Yes at 67.5%, and Kalshi's December-specific hike pricing is about 69-72%, so the consensus leans Yes. (c) No scenario, two paths: the Fed hikes in October instead and then pauses in December, given a median of only one more hike; or softer inflation data (August core PCE came in at 3.0%, below the 3.3% forecast), weak payrolls, Williams' 'no urgency' stance, or shutdown-driven data gaps keep the Fed on hold through December. (d) Yes scenario: October is a hold, inflation stays near 3%, and Warsh's hawkish committee delivers the signaled hike in December alongside a new SEP. This is the call of UBS, Deutsche Bank and JPM's Feroli. My path decomposition: October hike odds are roughly 30-45%; Fed-funds-based trackers put the chance of a higher rate by December at about 83%. That gives December-specific Yes odds of around 0.60-0.67. October-hike cannibalization is the main risk, so I shade slightly below the market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3730",
+   "has_trace": true
+  },
+  {
    "id": 2985,
    "scanned_at": "2026-09-15T18:28:04.264957",
    "date": "2026-09-15",
@@ -1138,6 +1194,20 @@
   }
  ],
  "Will no listed leader be out before 2027?": [
+  {
+   "id": 3678,
+   "scanned_at": "2026-10-01T23:31:12.404979",
+   "date": "2026-10-01",
+   "agent": 36.4,
+   "market_price_t0": 32.5,
+   "edge": 0.039000000000000035,
+   "confidence": 0.546,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.37, 0.38, 0.37, 0.35, 0.35) after one crux research pass. See walkthrough above.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3678",
+   "has_trace": true
+  },
   {
    "id": 3073,
    "scanned_at": "2026-09-17T13:03:31.129745",
@@ -1635,6 +1705,20 @@
  ],
  "US strike on Cuba by December 31?": [
   {
+   "id": 3715,
+   "scanned_at": "2026-10-02T05:47:28.321700",
+   "date": "2026-10-02",
+   "agent": 13.3,
+   "market_price_t0": 15.5,
+   "edge": -0.021999999999999992,
+   "confidence": 0.65,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.13, 0.13, 0.13, 0.14, 0.13). (0) No source shows a US drone, missile or air strike on Cuban soil as of Oct 2, 2026. The resolution-source read, GDELT and every research report agree the confrontation is still at the stage of sanctions, a fuel blockade, ISR flights and contingency planning. Boat strikes at sea do not count. (a) About 90 days remain until Dec 31, 2026. (b) If nothing changes, the market resolves No. Nine months of 'Cuba's next' rhetoric (March through September) produced no strike, and the Nimitz left the Caribbean in June with no carrier replacing it. (c) NO scenario: Trump keeps the coercive-diplomacy track he signalled on Sept 26 ('we'll make a deal... I don't think we'll need the military'). The Army Reserve 90–120 day support-unit survey matures in Jan–Feb 2027 or never becomes orders, and the midterms pass without an 'October surprise.' (d) YES scenario: a trigger such as unrest, a crackdown, a Cuban drone provocation or collapsed talks prompts a narrow surgical strike. That strike would resemble the June 2026 Niño Guerrero strike in Venezuela, justified under Rubio's Sept 29 national-security 'red line.' The Venezuela precedent shows this administration does convert buildup into strikes. The anchor is Polymarket at 15.5% (stable over 7 days, +1 point over 30), with sibling markets pricing invasion at 5.5%. The latest evidence leans slightly dovish and the market has not priced it in: Trump's deal talk, SOUTHCOM's Oct 1 testimony that no invasion rehearsals are underway, and the post-deadline planning horizon. I shade slightly below the market to about 13%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3715",
+   "has_trace": true
+  },
+  {
    "id": 3158,
    "scanned_at": "2026-09-19T01:50:29.951783",
    "date": "2026-09-19",
@@ -1961,6 +2045,20 @@
  ],
  "Russia x Ukraine ceasefire agreement by December 31, 2026?": [
   {
+   "id": 3700,
+   "scanned_at": "2026-10-02T02:18:07.079072",
+   "date": "2026-10-02",
+   "agent": 13.2,
+   "market_price_t0": 15,
+   "edge": -0.017999999999999988,
+   "confidence": 0.6679999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.12, 0.12, 0.13, 0.14, 0.15). (0) No qualifying agreement exists: the September 5-8 halt was unilateral or narrow, and the May truce predates this market, so Yes needs a mutually announced, dated general pause before December 31. (a) About three months remain. (b) The status quo is No: on October 1 at Valdai Putin rejected even a narrow strikes truce, Peskov said Moscow seeks peace 'not a temporary ceasefire', the Kremlin rejected the Miami G20 trilateral, and Kremlin-linked sources tie any frontline deal to capturing all of Donetsk, possibly not before 2027. (c) No: October UAE technical talks and Black Sea grain talks yield at most sectoral arrangements, which do not qualify, and fighting continues through December. (d) Yes: US pressure produces a short, mutually announced truce tied to talks or holidays; the May 9-11 three-day truce resolved a sibling contract Yes without dispute, and the September mutual capital-strike pause shows such deals can be arranged within days. The market sits at 15%, down 6.5 points in a week, with siblings at 5% for October and 7% for November; I shade slightly lower on the fresh hardline Valdai signals while keeping weight on the loose short-truce precedent and a possible December forcing event.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3700",
+   "has_trace": true
+  },
+  {
    "id": 3096,
    "scanned_at": "2026-09-17T22:33:59.777827",
    "date": "2026-09-17",
@@ -2020,6 +2118,20 @@
   }
  ],
  "Will Xi meet with Takaichi by December 31, 2026?": [
+  {
+   "id": 3682,
+   "scanned_at": "2026-10-01T23:39:22.271117",
+   "date": "2026-10-01",
+   "agent": 75.6,
+   "market_price_t0": 75.5,
+   "edge": 0.0010000000000000009,
+   "confidence": 0.626,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.78, 0.77, 0.78, 0.72, 0.73). (0) No source shows a qualifying meeting since the market opened on 2026-04-23. The only confirmed Xi–Takaichi meeting was at APEC Gyeongju on 2025-10-31, which predates the window. The resolution-source read (Taipei Times, Sept 27) reports only Takaichi–Trump contact. (a) About three months remain until Dec 31. The decisive window is the APEC Leaders' Meeting in Shenzhen on Nov 18–19, with the G20 in Miami (Dec 14–15) as a secondary chance. (b) If nothing changes, the two leaders do not meet, so status quo is NO. But the status quo includes Takaichi's confirmed attendance at an APEC summit Xi is hosting. (c) NO scenario: Beijing keeps demanding that Takaichi retract her Taiwan remarks, as Wang Yi did on Sept 29. China then choreographs the summit to avoid a host greeting, or Takaichi skips Shenzhen to avoid a snub, and no credible reporting confirms a handshake or exchange. (d) YES scenario: as host, Xi greets each arriving leader or poses in the family photo, and a reported handshake or brief words with Takaichi satisfies the market's low bar, with no formal bilateral needed. The 2014 Abe–Xi precedent in Beijing shows that even frozen relations produced a host handshake and talks. The 2025 lounge encounter shows APEC choreography forces contact. Experts call a formal bilateral 'very low' odds, but that is a different, higher bar than this market's definition. The market sits at 75.5% and has been rising; I land slightly above it, at 0.78, because a host greeting is close to standard protocol. I keep about 20% on a deliberate snub, a skipped trip, or ambiguous reporting.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3682",
+   "has_trace": true
+  },
   {
    "id": 3155,
    "scanned_at": "2026-09-19T00:10:11.200060",
@@ -2126,6 +2238,20 @@
   }
  ],
  "Will Google be the second-best Math AI lab at the end of October 2026?": [
+  {
+   "id": 3658,
+   "scanned_at": "2026-10-01T22:48:04.851193",
+   "date": "2026-10-01",
+   "agent": 37.2,
+   "market_price_t0": 34.5,
+   "edge": 0.02749999999999997,
+   "confidence": 0.5675,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.39, 0.38, 0.36, 0.36). (0) Not resolved yet. The official arena.ai Math Labs table (Sep 30) shows Google 1st with gemini-4-argon-high at 1534±35, marked Preliminary. Anthropic is 2nd with claude-opus-5-high at 1532±12, and Meta 3rd at 1504. If checked today, Google is not second, so the market would resolve No. (a) About 30 days remain until the Oct 31, 12:00 PM ET check. (b) Status quo is Google #1, which means No. (c) NO scenario: Argon's lead holds or grows as votes accumulate, or broader rollout firms up its score, and Google stays #1. (d) YES scenario: Argon's thin-vote preliminary score regresses a few points, or Anthropic's newer Claude Opus 5.5 (released Sep 22, apparently not yet the listed Anthropic entry) is added and overtakes. Google would then fall to #2. Its backup gemini-3.8-flash-high (~1528) keeps it well clear of Meta, so a drop to #3 is unlikely. The question therefore reduces to roughly 1 minus P(Google #1 in Math). The two-point Math margin is far narrower than the ~20-point overall Text lead behind the 64% 'Google best model' market. The Sep 25 snapshot also had Anthropic above Google, showing the order flips easily. I lean slightly above the 34.5% Polymarket anchor, consistent with the sibling November Google-#2 market at 42.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3658",
+   "has_trace": true
+  },
   {
    "id": 2442,
    "url": "https://forecast.agenticlearning.ai/scans/v2/2442",
@@ -3254,6 +3380,20 @@
   }
  ],
  "Will Trump's approval rating hit 35% in 2026?": [
+  {
+   "id": 3680,
+   "scanned_at": "2026-10-01T23:35:16.467746",
+   "date": "2026-10-01",
+   "agent": 29.6,
+   "market_price_t0": 29.5,
+   "edge": 0.0010000000000000564,
+   "confidence": 0.6020000000000001,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.28, 0.30, 0.27, 0.31, 0.32). (0) No source shows a finalized Silver Bulletin approval reading at or below 35% in 2026. Readings were 37.4% on Sep 28, 37.6% on Sep 23 and 37.7% on Oct 1, and the Oct 2 daily brackets centre on 37.0-37.4, so the event has not happened. (a) About three months remain, to Dec 31, 2026. (b) If the smoothed average holds near 37%, the market resolves No; September's slide of about 1.5 approval points in three weeks shows a fast downtrend is possible. (c) No: the smoothed average absorbs outlier lows (AP-NORC 31%, Reuters/Ipsos 32%) and stabilizes at 36-37%; Reuters/Ipsos already rebounded 33% to 35% in mid-September, other aggregators (RCP, DDHQ, CNN) sit at 36-39%, and Trump's only prior 34-35% dip came after January 6. (d) Yes: new career lows from AP-NORC and Reuters/Ipsos, Republican defections (82% to 73% in a week), the Nov 3 midterm fallout and the Dec 11 funding cliff push the average down to the roughly 35% that FiftyPlusOne and Economist/YouGov already show. The market at 29.5% is consistent with the related ladder (36% at 61%, 34% at 12.5%), and a roughly 2.3-point fall in a smoothed average over three months fits about 25-30%. I see no strong unpriced information, so I stay slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3680",
+   "has_trace": true
+  },
   {
    "id": 2968,
    "scanned_at": "2026-09-15T11:24:24.901507",
@@ -5029,6 +5169,20 @@
  ],
  "Will Google be the #3 AI Lab at the end of October 2026 (Style Control On)?": [
   {
+   "id": 3670,
+   "scanned_at": "2026-10-01T23:12:20.570043",
+   "date": "2026-10-01",
+   "agent": 8.4,
+   "market_price_t0": 7,
+   "edge": 0.013999999999999999,
+   "confidence": 0.604,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.10, 0.10, 0.06, 0.08, 0.08). (0) Not met: the Sep 30 arena.ai Labs view (style control on) shows Google #1 via preliminary gemini-4-argon-high at 1525, Anthropic #2 at 1505 and Meta #3 at 1495. (a) About 30 days remain to the Oct 31 12:00 PM ET check. (b) Status quo is Google #1, so NO; a 20-point lead is about twice Argon's ±9 interval, so vote drift alone is unlikely to drop it below two labs. (c) NO: Google widens Argon access or Arena keeps the score, and Google stays #1, or Anthropic's new Opus 5/5.5 entries pass Argon and Google sits #2. (d) YES: Arena's two-week public-access rule (around Oct 14) removes Argon because Fairwind-only access continues with no GA date, and Google reverts to its prior Gemini model. The market priced YES near 41% just before Argon was listed, implying that model sat near #3. I estimate removal at about 20-25% and #3 given removal at about 40%, plus a small residual. That gives roughly 10% versus the 7% anchor; the market may underweight the removal rule.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3670",
+   "has_trace": true
+  },
+  {
    "id": 2406,
    "scanned_at": "2026-09-01T10:35:07.512259",
    "date": "2026-09-01",
@@ -5743,6 +5897,20 @@
  ],
  "Pete Hegseth out as Secretary of Defense by December 31?": [
   {
+   "id": 3676,
+   "scanned_at": "2026-10-01T23:24:28.206960",
+   "date": "2026-10-01",
+   "agent": 21.2,
+   "market_price_t0": 21.5,
+   "edge": -0.002999999999999975,
+   "confidence": 0.6220000000000001,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.23, 0.22, 0.21, 0.20, 0.20). (0) The condition has not been met. The official war.gov Secretary page, updated Oct 1, 2026, still lists Hegseth, and he gave a State of the Force address at Quantico on Sept 30–Oct 1. No resignation or firing announcement exists. (a) About three months remain until Dec 31, 2026, and that window includes the Nov 3 midterms and the House's return on Nov 9. (b) If nothing changes, the market resolves No: Trump said in August he was \"extremely happy\" with Hegseth, the White House repeated \"full confidence\" on Oct 1, and Speaker Johnson plans to table Massie's impeachment resolution. (c) NO scenario: the GOP absorbs midterm losses, the impeachment resolution is tabled in November, and Trump keeps his loyalist through year-end, as he has through every prior monthly checkpoint. (d) YES scenario: after a midterm wipeout, Trump makes a Rumsfeld- or Esper-style post-election change, perhaps triggered by fresh Iran-war or turnover controversy, Tillis-type GOP defections, and private advisers' warnings. Trump's own record of firing Esper right after the 2020 election makes this credible. The anchor is Polymarket at 21.5%, and the Oct 31 sibling at about 3% implies roughly 18% of the risk sits in Nov–Dec. Kalshi's \"just over 30% before Dec 1\" figure, reported by Newsweek, is a related market of uncertain timing and is context only, but it slightly supports leaning a touch above the market. I put Yes at 0.23.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3676",
+   "has_trace": true
+  },
+  {
    "id": 2894,
    "scanned_at": "2026-09-14T00:06:58.019422",
    "date": "2026-09-14",
@@ -6338,6 +6506,20 @@
   }
  ],
  "Will NVIDIA be the largest company in the world by market cap on December 31?": [
+  {
+   "id": 3725,
+   "scanned_at": "2026-10-02T08:09:04.488827",
+   "date": "2026-10-02",
+   "agent": 79.8,
+   "market_price_t0": 80.5,
+   "edge": -0.007000000000000006,
+   "confidence": 0.6599999999999999,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.80, 0.80, 0.79, 0.80, 0.80). (0) Not yet resolved. CompaniesMarketCap and other trackers show NVIDIA #1 at about $5.57T as of Oct 1–2, ahead of Apple (~$4.82T) and Alphabet (~$4.1T). The result depends only on the December 31, 2026 close.\n\n(a) About 3 months (roughly 63 trading days) remain.\n\n(b) Status quo is YES: NVIDIA leads Apple by about $700–750B, a gap of roughly 15%. One source put the gap nearer $500B on Sept 25, so the lead moves around.\n\n(c) NO scenario: an AI-capex scare causes a 15–20% relative drawdown in NVIDIA versus Apple. Triggers could be a weak Nov 25 earnings reaction, export or antitrust news from China, or deleveraging like July's selloff. Meanwhile Apple rallies on the foldable iPhone and holiday demand. Apple already held the crown as recently as July 2026, and the title flipped about three times in 16 months.\n\n(d) YES scenario: NVIDIA's Nov 25 earnings land on rising estimates (42 up-revisions, no cuts). Its $235B buyback supports the price, and Apple's valuation stays capped near its consensus target (~$337).\n\nA simple relative-volatility model gives about 75–80%. That uses roughly 39% annualized volatility for NVIDIA relative to Apple, a 3-month horizon, and a 0.145 log gap, plus a little positive drift from estimate momentum. This is consistent with Polymarket's 80.5% price. Apple's 14%, Alphabet's 5.5% and the other company markets roughly sum to the complement. I see no unpriced information that justifies moving off the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3725",
+   "has_trace": true
+  },
   {
    "id": 2984,
    "scanned_at": "2026-09-15T17:42:09.943125",
@@ -7916,6 +8098,20 @@
   }
  ],
  "Will Alibaba be the third-best Code Arena | WebDev AI lab at the end of October 2026?": [
+  {
+   "id": 3660,
+   "scanned_at": "2026-10-01T22:51:46.724053",
+   "date": "2026-10-01",
+   "agent": 23,
+   "market_price_t0": 20.5,
+   "edge": 0.024999999999999994,
+   "confidence": 0.564,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.24, 0.23, 0.23, 0.23, 0.22). (0) Not resolved. The resolution-source snapshot for Sep 30 to Oct 1 shows Google third (gemini-4-argon-high, 1679, Preliminary) and Alibaba fourth (qwen3.8-max, 1671, Preliminary). Moonshot is fifth at 1658, so YES requires Alibaba to pass Google without being overtaken by anyone below.\n(a) There are about 30 days left until the Oct 31, 12:00 PM ET check.\n(b) If nothing changes, Alibaba stays fourth and the market resolves NO.\n(c) NO scenario: Argon's preliminary score holds or rises as more votes come in, Google adds another strong variant, or Moonshot or another lab passes Alibaba. Meanwhile no new Alibaba snapshot ships, which fits Qwen 4 still being 'in training' as of the Sep 22 Apsara conference.\n(d) YES scenario: Argon's score, based on only about 3k sessions and on gated access, falls back below 1671; the confidence intervals of ±14 and ±12 overlap. Alternatively, Alibaba ships a dated Qwen3.8-Max snapshot like the Sep 2 '0902' release, which added 22 points, or a Qwen 4 launch (one tracker cites 74% odds before Nov 1, unverified) and posts a high score in time.\nThe Polymarket anchor is 20.5% after a steep slide from about 45%, which mostly reflects Google's Argon jump. Alibaba's monthly release cadence plus the fragility of a preliminary score justify a slight bump above the market. That is tempered by the high churn of new entrants that could also push Alibaba down.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3660",
+   "has_trace": true
+  },
   {
    "id": 3153,
    "scanned_at": "2026-09-18T23:19:39.666963",
@@ -10541,6 +10737,20 @@
  ],
  "Will China invade Taiwan by June 30, 2027?": [
   {
+   "id": 3702,
+   "scanned_at": "2026-10-02T02:53:58.142315",
+   "date": "2026-10-02",
+   "agent": 5.8,
+   "market_price_t0": 8.5,
+   "edge": -0.026999999999999996,
+   "confidence": 0.726,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.04, 0.04, 0.05, 0.07, 0.08). (0) Resolution check: no source shows a PLA offensive to seize inhabited ROC territory. Taiwan's MND reports through late September 2026 show only routine, reduced gray-zone activity, so YES would still require an actual landing or seizure operation by June 30, 2027. (a) About 9 months remain until the June 30, 2027 11:59 PM ET deadline. (b) Status quo is NO. PLA fighter sorties hit a three-year low in H1 2026, there has been no large-scale drill for about a year, and the Central Military Commission is gutted to two listed members with reconstitution not due until fall 2027. The Sept 23–25 Xi-Trump summit and a fresh Oct 1 Reuters exclusive say US officials now judge an invasion before 2028 increasingly unlikely, citing readiness gaps and Beijing waiting on Taiwan's 2028 election. (c) NO scenario: coercion continues through the November 2026 local elections and arms-sale disputes, perhaps with a large drill, but no landing; this is the overwhelmingly likely path. (d) YES scenario: a trigger such as an independence-leaning move or a major arms package prompts a fast seizure of an inhabited outlying island like Kinmen or Matsu, which counts under the rules and is a lower bar than a main-island invasion. The Polymarket anchor is 8.5%, the Dec 2026 sibling is ~3%, and the Dec 2027 sibling is 12.5%, so this price is consistent with its siblings. However, the Oct 1 Reuters revision and the CMC vacancy argue for the low end, and long-dated tail markets typically carry longshot bias. I shade below the market to about 4.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3702",
+   "has_trace": true
+  },
+  {
    "id": 3246,
    "scanned_at": "2026-09-20T16:12:07.896425",
    "date": "2026-09-20",
@@ -10614,6 +10824,20 @@
   }
  ],
  "Will Russia capture all of Kostyantynivka by December 31, 2026?": [
+  {
+   "id": 3686,
+   "scanned_at": "2026-10-01T23:51:05.560425",
+   "date": "2026-10-01",
+   "agent": 17.8,
+   "market_price_t0": 20.5,
+   "edge": -0.02699999999999997,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.17, 0.17, 0.17, 0.19, 0.19). (0) Not resolved. The fetch of the ISW map and DeepStateMap returned no usable content. ISW's daily reports through September 29 still describe Kostyantynivka as contested: Russian 'offensive operations in and southwest of Kostyantynivka' alongside Ukrainian counterattacks, with no citywide qualifying shading. (a) About 3 months remain until December 31, 2026, 11:59 PM ET. (b) Status quo is No. After nearly a year of fighting since the October 2025 infiltration, Russia has made only incremental gains, such as the western Kostyantynivka advance ISW noted on September 26. ISW calls the northwestern activity 'infiltration', and infiltration areas do not count for this market. (c) No: the grinding urban fight continues, Russian effort shifts toward Druzhkivka, and Ukraine's counterattacks (Raiske, west of the city) and broader momentum (Operation Vivaldi, near-zero Russian net gains since March) keep the eastern districts or the core unshaded through year-end. (d) Yes: Russia's multi-army envelopment and its own December 31 target drive steady consolidation, Ukrainian logistics through Druzhkivka degrade, and the last districts fall in November or December with shading that persists. A negotiated settlement handing over the city with actual control is a small extra path. The anchor is Polymarket at 20.5%, down 20 points in 30 days, and the October 31 sibling market sits at 2.45%. Related markets (Royal Café Alex by December 31 at 45.5%, entry into Oleksiievo-Druzhkivka at 88%) imply real Russian pressure, so I stay close to the market. I shade slightly lower given ISW's consistent 'did not advance' language and the strict layer and persistence rules.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3686",
+   "has_trace": true
+  },
   {
    "id": 3125,
    "scanned_at": "2026-09-18T11:20:15.931290",
@@ -12149,6 +12373,20 @@
  ],
  "Nothing Ever Happens: 2026": [
   {
+   "id": 3689,
+   "scanned_at": "2026-10-01T23:55:00.991104",
+   "date": "2026-10-01",
+   "agent": 81.6,
+   "market_price_t0": 83.5,
+   "edge": -0.018999999999999906,
+   "confidence": 0.636,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.81, 0.82, 0.82, 0.81, 0.82). (0) No source shows any of the 13 triggers has fired as of Oct 1, 2026. Trump and Xi remain in office, and the US-Iran war is airstrikes and blockade rather than a territorial ground offensive. The Iranian regime is intact, Greenland stays Danish under the September basing deal, Bitcoin is about $84k, and no 9.0+ quake, VEI6 eruption or 250kt meteor has been reported. The Senate supermajority trigger is dead because new senators are not seated until 2027. (a) About three months remain, to Dec 31, 2026. (b) The status quo resolves Yes; the market anchor is 83.5%, up 2 points over 30 days. (c) NO: the Iran war escalates. On Oct 1 Trump sent a third carrier and 10,000 troops and spoke of a 'big decision' to annihilate Iran; a seizure of Kharg Island or Hormuz territory would count as an invasion, or the regime could collapse (about 6.5% on its sub-market). Smaller risks are Russia invading NATO (about 5.5%, likely high), Trump out (3.5%), Greenland (2.7%, overpriced after the deal) and roughly 1-2% for natural disasters. (d) YES: the Iran war ends in a deal or stays air and naval, and the dormant triggers stay dormant. Combining overlapping risks gives about 17-20% No; I shade slightly below the market for the fresh Iran escalation news.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3689",
+   "has_trace": true
+  },
+  {
    "id": 1733,
    "scanned_at": "2026-08-23T12:29:38.351543",
    "date": "2026-08-23",
@@ -12646,6 +12884,20 @@
   }
  ],
  "Trump meets with Putin by December 31?": [
+  {
+   "id": 3672,
+   "scanned_at": "2026-10-01T23:17:29.691532",
+   "date": "2026-10-01",
+   "agent": 77.8,
+   "market_price_t0": 81.5,
+   "edge": -0.03700000000000003,
+   "confidence": 0.622,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.76, 0.76, 0.78, 0.80, 0.79). (0) Not resolved. No Trump–Putin in-person meeting has happened since Alaska in August 2025, and the resolution-source read shows only an invitation and an undecided Kremlin as of Sept 24. (a) About three months remain, to Dec 31, 2026. (b) If nothing changes, the status quo is NO: 14 months of phone calls only, and Trump has said he wants to meet only when a peace deal is ready. Two scheduled events in the window change that. The first is APEC Shenzhen on Nov 18-19. Bloomberg's Kremlin sources say Putin will go, Trump reportedly confirmed he intends to go, and Ushakov and Peskov say a Putin-Trump-Xi encounter 'will definitely present itself'. The loose resolution rule means any handshake or exchange of words counts, which is likely if both attend. The second is G20 Miami on Dec 14-15, where Putin was formally invited, but Bloomberg calls his attendance 'highly unlikely'. (c) NO: Trump skips or shortens his APEC trip, or Putin and Trump are kept apart by scheduling or a sudden escalation (as with the 2018 G20 and Budapest 2025 cancellations), and Putin declines Miami. (d) YES: both attend Shenzhen and at least shake hands at the family photo, gala or a trilateral, or Putin accepts Miami. I put APEC joint attendance at roughly 65-75% with a high chance of interaction, plus a smaller independent Miami path, for a combined ~70-78%. That is slightly below the 81.5% market anchor, because Trump's APEC attendance rests on thinner sourcing and these leaders' meetings have a history of collapsing.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3672",
+   "has_trace": true
+  },
   {
    "id": 3143,
    "scanned_at": "2026-09-18T19:17:44.365891",
@@ -14215,6 +14467,20 @@
  ],
  "NATO x Russia military clash by December 31, 2026?": [
   {
+   "id": 3684,
+   "scanned_at": "2026-10-01T23:46:27.980790",
+   "date": "2026-10-01",
+   "agent": 19.6,
+   "market_price_t0": 22.5,
+   "edge": -0.028999999999999998,
+   "confidence": 0.558,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.18, 0.19, 0.19, 0.22, 0.20). (0) No source shows a qualifying encounter as of Oct 1, 2026. The 2026 NATO shoot-downs (Romania's F-16 and Spanish F-18 intercepts, Italian jets over Latvia on Aug 14 and over Lithuania on Sept 15) all appear to be stray or decoy one-way drones, which fall under the rules' carve-out for munitions targeting a third party. The 2025 sibling market resolved No on the same logic after the Poland shoot-down, and this market still trades at 22.5%, so the crowd is not treating Sept 15 as resolving. The Danish flare incident and the Mi-8 incursion are explicitly non-qualifying. (a) About three months remain, to Dec 31, 2026. (b) Status quo is continued sub-threshold hybrid friction: incursions, scrambles and shoot-downs of Ukraine-bound munitions, which resolves No. (c) No: NATO keeps its 'caution first' posture, Russia keeps calibrating its probes to stay deniable, and drone intercepts remain classified as munition interceptions. (d) Yes: under the new SACEUR-delegated Baltic air-defence authority, or Poland's pre-authorised shoot order, NATO forces down a Russian manned jet or a reconnaissance UAV such as an Orlan. Alternatively, a drone shoot-down gets read as a non-munition engagement by the 'consensus of credible reporting'. Diplomats' warnings that NATO would shoot down violating Russian jets raise this tail. The market anchor is 22.5%; the October-31 sibling at 11.5% implies a high monthly hazard that I think partly prices interpretation ambiguity. Given zero qualifying events historically and every 2026 shoot-down so far being excluded, I shade slightly below market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3684",
+   "has_trace": true
+  },
+  {
    "id": 1311,
    "scanned_at": "2026-08-15T10:01:42.221874",
    "date": "2026-08-15",
@@ -14878,7 +15144,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-01T20:21:02.342Z",
+  "last_sync": "2026-10-02T09:45:39.033Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -16205,6 +16471,20 @@
  ],
  "US x Cuba military clash in 2026?": [
   {
+   "id": 3696,
+   "scanned_at": "2026-10-02T01:10:07.584208",
+   "date": "2026-10-02",
+   "agent": 16.2,
+   "market_price_t0": 21,
+   "edge": -0.04799999999999999,
+   "confidence": 0.6100000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.16, 0.16, 0.15, 0.17, 0.17). (0) Resolution check: none of the sources show a direct clash between US and Cuban forces in 2026. The only violent incident, the Feb 25 Cayo Falcones shootout, was between the Cuban Border Guard and a civilian US-registered boat, and the US denied any involvement. So nothing has resolved yet. (a) About three months remain until the Dec 31, 2026 deadline. (b) Status quo is No: the pressure has been coercive (oil blockade, Nimitz show of force, Raúl Castro indictment, UNGA rhetoric), but nine months of acute crisis produced no force-on-force contact. Trump said on Sept 26 'I don't think we'll need the military' and predicted a deal, and back-channel talks persist. (c) No scenario: the talks drag on or produce concessions, the Army Reserve survey stays contingency planning, and its 90-120 day window (late Dec to late Jan) mostly falls after the deadline anyway. (d) Yes scenario: talks collapse, as Rubio's 'likelihood not high' comment hints, and a SOUTHCOM strike or air assault, or a blockade interdiction incident involving the Coast Guard and Cuban forces, produces an exchange of fire before Dec 31. The market anchor is 21% and has risen 6.5 points over 30 days on the CBS Army Reserve scoop. The related 'US strike on Cuba' market sits at 14.5% and invasion at 5.5%. A clash market should sit somewhat above the strike market, since maritime incidents also count. Even so, the planning timeline pointing mostly past Dec 31 and Trump's explicit de-escalatory framing lead me to shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3696",
+   "has_trace": true
+  },
+  {
    "id": 2906,
    "scanned_at": "2026-09-14T07:53:30.504951",
    "date": "2026-09-14",
@@ -16220,6 +16500,20 @@
   }
  ],
  "Will there be 0 hurricanes during the Atlantic Hurricane Season in 2026?": [
+  {
+   "id": 3666,
+   "scanned_at": "2026-10-01T23:04:50.940420",
+   "date": "2026-10-01",
+   "agent": 57.2,
+   "market_price_t0": 61,
+   "edge": -0.038000000000000145,
+   "confidence": 0.5900000000000001,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.57, 0.56, 0.57, 0.57, 0.59). (0) Not resolved. The NHC homepage and dashboard for Oct 1 show no Atlantic cyclones and no Atlantic hurricane all season; Fay peaked at 70 mph, just under the 74 mph threshold. YES still needs the basin to stay below hurricane strength on every NHC advisory through Nov 30. (a) About 61 days remain, covering October and November, with the first week already forecast quiet by NHC's 7-day outlook. (b) If nothing changes, YES: the record-strong El Niño shear is forecast by CPC to persist or strengthen (75% chance of a historic event for OND), and Fox Weather's Norcross expects the environment to stay hostile. (c) NO scenario: the southern Gulf development signal that Lowry and Arman flag for about 8 days out, fed by record-warm Gulf water and Eastern Pacific moisture, briefly spins up into a Cat 1 before shear arrives. Alternatively, a late-October or November subtropical or high-latitude system reaches 74 mph, which only takes one brief advisory. (d) YES scenario: shear keeps tearing apart every disturbance, like Fay, Gonzalo and Hanna, and the season ends with zero hurricanes, as in 1907 and 1914. The market sits at 61% after a sharp rally, while CSU's Klotzbach puts a shutout at about 50%. Historical strong El Niño years split roughly evenly on whether they produced October–November hurricanes: 1982 and 1997 did not, 2015 and 2009 did. This year's suppression is more extreme than those, and the first week of October is effectively locked in. I land slightly below the market at about 57%, giving weight to the concrete Gulf signal and the low one-storm bar.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3666",
+   "has_trace": true
+  },
   {
    "id": 3282,
    "scanned_at": "2026-09-21T10:17:38.152322",
@@ -16598,6 +16892,20 @@
   }
  ],
  "Next Fable Model (5.2+) released by October 31, 2026?": [
+  {
+   "id": 3668,
+   "scanned_at": "2026-10-01T23:08:24.020394",
+   "date": "2026-10-01",
+   "agent": 70,
+   "market_price_t0": 84.5,
+   "edge": -0.14500000000000002,
+   "confidence": 0.492,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.67, 0.68, 0.71, 0.74, 0.70). (0) The condition is not yet met. Anthropic's newsroom, read on Oct 1, shows Claude Fable 5.1 (Sep 1) as the newest Fable model, and the endoflife.date and benchlm trackers list no Fable 5.2+. A qualifying public release still has to happen by Oct 31. (a) About 30 days remain. (b) If nothing changes, Fable 5.1 stays the latest and the market resolves No. (c) NO scenario: Anthropic's safety evaluations and the CEO's stated three-step pacing commitment push Fable 5.2 to November–December, consistent with the ~3-month Fable 5→5.1 cadence. The Manifold same-event market puts most mass in early 2027, and the leaked 'late Sept/early Oct' window has already slipped once. (d) YES scenario: Reuters-reported deliberation about a competitive release ahead of the November IPO and the GPT-6 Astra share threat lead Anthropic to ship the stealth-tested Fable checkpoint in October. The leaker who correctly called the Fable 5.1 window also pointed to early October. The Polymarket anchor is 84.5%, up 28.5 points in a week, with the December contract at 95%. That rapid move hints the crowd may have seen signals the research didn't surface. But volume is thin ($34k), and I found no verifiable artifact such as a model ID, model card or official announcement. Anthropic also just shipped Opus 5.5 and Sonnet 5.5, which may have prompted extrapolation to the Fable line. I shade meaningfully below the market toward the base rate, but not all the way, out of respect for the momentum and leak track record.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3668",
+   "has_trace": true
+  },
   {
    "id": 3011,
    "scanned_at": "2026-09-16T07:24:40.813663",
@@ -17103,6 +17411,20 @@
  ],
  "Another Fed rate hike in 2026?": [
   {
+   "id": 3705,
+   "scanned_at": "2026-10-02T03:29:49.781475",
+   "date": "2026-10-02",
+   "agent": 74,
+   "market_price_t0": 76,
+   "edge": -0.020000000000000018,
+   "confidence": 0.62,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.72, 0.74, 0.73, 0.76, 0.75). (0) Not resolved. FRED DFEDTARU shows the upper bound at 4.00% through Oct 1, and the Fed's openmarket page shows no action after the Sept 16 hike, which does not count. A YES needs a hike at the Oct 27-28 or Dec 8-9 meeting, or an emergency move. (a) About 10 weeks and two meetings remain, ending Dec 9. (b) If nothing changes the rate stays at 3.75-4.00% and the market resolves No, so YES requires active tightening. The September dot plot does make that the Fed's own baseline: 16 of 18 participants project at least one more 2026 hike, and the median ends the year at 4.1%. (c) NO path: softer data continues. August PCE already undershot and 3-month core is near 2%. Williams and Jefferson have both said 'no urgency', and Goldman sees a 'strong chance' further hikes prove unnecessary. JPM's Feroli frames inflation as a supply shock. The Fed holds in October (UBS notes no pre-election October hike since 1990) and again in December as long-term yields do the tightening. (d) YES path: skip October, hike in December. This is the consensus of UBS, Goldman and GSAM, and Barr is openly hawkish. The Cleveland Fed nowcast has September inflation at 3.6%, and energy and Middle East risks keep pressure on. On calibration, I anchor on Polymarket's 76% (bid 75 / ask 77); Kalshi's similar 'before 2027' market sits at 80%. Third-party FedWatch reads range from 59% to 100%. Fed communications have clearly drifted dovish over the past week, and the price has fallen 14.5 points in seven days. Dot-plot projections of one more hike are often abandoned when data soften, so I shade slightly below market to about 72%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3705",
+   "has_trace": true
+  },
+  {
    "id": 3210,
    "scanned_at": "2026-09-20T00:10:01.335816",
    "date": "2026-09-20",
@@ -17215,6 +17537,20 @@
  ],
  "Will 1 Fed rate hike happen in 2026?": [
   {
+   "id": 3707,
+   "scanned_at": "2026-10-02T04:04:48.956452",
+   "date": "2026-10-02",
+   "agent": 20.2,
+   "market_price_t0": 20,
+   "edge": 0.0020000000000000018,
+   "confidence": 0.688,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.20, 0.20, 0.20, 0.21, 0.20). (0) Resolution check: FRED shows the target upper bound at 4.00% and an effective rate of 3.88%, and the Fed's 2026-09-16 statement confirms a 25bp hike, so the 2026 total is now 1. This question asks for exactly one hike, though. It resolves YES only if the Fed holds or cuts at both the Oct 27–28 and Dec 8–9 meetings with no emergency hike. Otherwise it resolves NO early once a second hike occurs. (a) About three months remain, covering two scheduled FOMC meetings plus any intermeeting action through Dec 31. (b) Status quo: if nothing further happens the count stays at 1, but the default policy path is not 'nothing'. 16 of 18 dots expect at least one more hike, and futures price roughly 79–89% odds of a hike by December. (c) NO scenario: hot September payrolls or CPI, or Brent above $100 feeding inflation, produce a December (or October) 25bp hike, as Logan, Barr and Kashkari favor and as most sell-side desks (Barclays, MUFG, JPM, PNC) forecast. (d) YES scenario: core PCE keeps running near 3%, below the SEP projection, and the Williams, Jefferson and Bowman 'no urgency' camp wins out. That is Goldman's 'strong chance no more hikes needed' path, ending with holds in both October and December. The market anchor is 20%, consistent with the inverse of Kalshi's 80% 'next hike before 2027' and Polymarket's 76% 'another hike in 2026'. The sibling strikes (2: 59.5%, 3: 15.3%, 4: 1.7%) also sum coherently with it. The research surfaces no unpriced information, so I stay at the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3707",
+   "has_trace": true
+  },
+  {
    "id": 3267,
    "scanned_at": "2026-09-21T01:01:33.048924",
    "date": "2026-09-21",
@@ -17246,6 +17582,20 @@
   }
  ],
  "Will Russia capture Svitle by October 31?": [
+  {
+   "id": 3664,
+   "scanned_at": "2026-10-01T23:00:13.021352",
+   "date": "2026-10-01",
+   "agent": 8.2,
+   "market_price_t0": 8.4,
+   "edge": -0.0020000000000000018,
+   "confidence": 0.64,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.08, 0.08, 0.09, 0.09). (0) Not resolved yet. ISW (Sept 20) and a Russian milblogger both say Ukraine controls Svitle, with only a Russian infantry infiltration into the southern outskirts. Ukrainian General Staff sitreps through Oct 1 list Svitle only as a place where Russian advances were attempted. Infiltration shading does not qualify. (a) About 30 days remain until Oct 31 11:59 PM ET, and any qualifying shading must persist through one more ISW update cycle. (b) Status quo is NO: the line around Svitle has been contested-but-held for months, and ISW measures the sector's pace in meters to a few km per week. (c) NO path: grinding infiltration fights continue. Azov and other Ukrainian units hold Svitle, as in the 2025 Dobropillia offensive that was fully rolled back and the failed armored pushes. ISW never moves the intersection into Assessed Advances/Controlled. (d) YES path: the Prokopenko-warned October shift to mechanized columns, backed by Rubicon drone crews, breaks through from Shevchenko. ISW then extends Assessed Russian Advances over the intersection. Map-integrity tail risk, as with the earlier Myrnohrad edit incident, adds a little. The market sits at 8.4% and has drifted down, consistent with the absence of any change. I shade slightly below it given no evidence of Russian presence inside the village itself.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3664",
+   "has_trace": true
+  },
   {
    "id": 3261,
    "scanned_at": "2026-09-20T22:29:49.463200",
@@ -17559,6 +17909,20 @@
  ],
  "Bank of England increases interest rates by 25 bps after November 2026 meeting?": [
   {
+   "id": 3656,
+   "scanned_at": "2026-10-01T22:43:04.385173",
+   "date": "2026-10-01",
+   "agent": 80.2,
+   "market_price_t0": 77,
+   "edge": 0.03199999999999992,
+   "confidence": 0.6759999999999999,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.81, 0.80, 0.79, 0.82, 0.79). (0) Not resolved. The Bank of England page, last updated 21 September, shows Bank Rate at 3.75% and the next decision on 5 November 2026. A YES needs the MPC to vote a 25bp rise at that meeting. (a) About five weeks remain, with the 21 October CPI print and the 28 October Autumn Budget landing before the decision. (b) If nothing changes, the status quo is another hold at 3.75%: the MPC voted 6-3 to hold in both July and September, with Greene, Mann and Pill dissenting for a hike, so at least two hold-voters still have to flip. (c) NO scenario: September CPI comes in soft or energy prices ease, the Budget is disinflationary, and the centre of the committee waits again, much as a persistent 3-vote hawkish minority failed to deliver a hike in late 2023. (d) YES scenario: inflation keeps heading toward the Bank's 3.75% Q4 projection, the Ofgem cap rises 4% on Middle East energy pressure, and Bailey, Ramsden and/or Lombardelli join the three hawks. Lombardelli has already called a hike 'increasingly likely' and Bailey said holding is getting harder. The Polymarket anchor is 77%, and the related 'No change' market sits at about 22.5%. Several OIS/swaps trackers price 80-94% for a November hike as of 29 September to 1 October, and Goldman, Capital Economics, Oxford Economics and BNP all now call a November hike. I lean slightly above the venue price, toward rates-market pricing. I hold back from going higher because of the vote arithmetic, the MPC's caution all year, and the two pending data and fiscal events.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3656",
+   "has_trace": true
+  },
+  {
    "id": 3353,
    "scanned_at": "2026-09-23T12:03:40.432363",
    "date": "2026-09-23",
@@ -17735,6 +18099,20 @@
  ],
  "Bank of Japan increases interest rates by 25 bps after the October 2026 meeting?": [
   {
+   "id": 3723,
+   "scanned_at": "2026-10-02T07:34:42.314878",
+   "date": "2026-10-02",
+   "agent": 15.4,
+   "market_price_t0": 15.5,
+   "edge": -0.0010000000000000009,
+   "confidence": 0.6599999999999999,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.14, 0.14, 0.14, 0.17, 0.18). (0) Not resolved. The BOJ's schedule page shows the October 29-30 meeting has not happened, and the policy rate stands at 1.25% after the September 18 hike. A YES needs a 25bp move to 1.50% announced October 30.\n(a) About four weeks remain. Before the decision come Ueda's October 6 speech, Koeda's October 15 speech, September CPI, and the FOMC and ECB decisions.\n(b) Status quo is a hold. Ueda's September press conference reserved back-to-back hikes for a sharp inflation overshoot. Core CPI eased to 1.7%, and the swing votes Masu and Koeda are reported to be in the cautious camp.\n(c) NO scenario: data stay benign, the yen is stable, and the board waits for the December or January cadence the pre-September Bloomberg survey favoured; none of the 52 economists picked October.\n(d) YES scenario: September CPI or the yen surprises hawkishly, Fed and ECB hikes come first, and the hawks behind the Summary of Opinions' 'accelerate the pace' remark win a majority. The October Outlook Report gives cover for a move.\nThe Polymarket anchor is 15.5%. OIS-implied odds of roughly 20-26% and Momma's 20-30% sit slightly higher. Against that, the market scaled back October bets after the Summary of Opinions, and this cycle has no precedent for a hike at consecutive meetings. I shade just below the market price, to 14%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3723",
+   "has_trace": true
+  },
+  {
    "id": 3416,
    "scanned_at": "2026-09-25T07:13:21.306702",
    "date": "2026-09-25",
@@ -17782,6 +18160,20 @@
   }
  ],
  "Will Trump meet with Kim Jong Un in 2026?": [
+  {
+   "id": 3693,
+   "scanned_at": "2026-10-02T00:32:36.809682",
+   "date": "2026-10-02",
+   "agent": 20,
+   "market_price_t0": 20.5,
+   "edge": -0.004999999999999977,
+   "confidence": 0.6140000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.18, 0.18, 0.19, 0.23, 0.22). (0) Resolution check: no source shows a Trump–Kim meeting in 2026. The resolution-source read (CNN, Aug 19) and reporting through Sep 30 (Al Jazeera, Korea Herald) confirm North Korea has not committed and Kim Yo Jong denies any contact, so the question is still open. (a) About 3 months remain until Dec 31, 2026. The realistic window is Trump's confirmed APEC trip to Shenzhen on Nov 18–19, which is roughly 7 weeks away; the related Polymarket 'by Oct 31' market sits at about 1.6%. (b) Status quo is NO: Trump keeps stating intent, but Pyongyang is non-committal and still sets preconditions (recognition as a nuclear state, no denuclearization talks), the same pattern that ended with no meeting at Gyeongju APEC in 2025. (c) NO scenario: the DMZ landmine dispute over the armistice violation escalates, or Kim simply declines to travel to China or arrange a snap DMZ meeting, and Trump returns from Shenzhen without a meeting. (d) YES scenario: a 2019-style snap summit on the sidelines of APEC or at the DMZ, which South Korea's NIS (Sep 30) put at about 50%; it is supported by Trump's reduced military drills and Pyongyang's restrained rhetoric toward him. I anchor on the market's 20.5%, which has fallen 12 points over 30 days. The NIS 50% looks optimistic given North Korea's formal non-commitment and the fresh DMZ tensions. The 8% 'Trump visits North Korea' market is consistent with a combined meeting probability in the high teens. I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3693",
+   "has_trace": true
+  },
   {
    "id": 3405,
    "scanned_at": "2026-09-25T00:06:22.935676",
@@ -18546,6 +18938,166 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.07, 0.07, 0.07, 0.08, 0.09) after one crux research pass. (0) Nothing has resolved. ThirstyGrid's tracker (2026-09-19) and electricchoice (2026-09-30) both report no statewide Louisiana moratorium bill proposed or enacted. The only statewide action is EO 26-058, a tax-incentive condition that the rules explicitly exclude. The New Orleans ban is local and also doesn't count.\n(a) About 15 months remain. The only regular vehicle is the 2027 session, April 12 to June 10, 2027. It is an odd-year fiscal session where each legislator may file only five non-fiscal bills, and floor passage must come by the 42nd legislative day unless two-thirds agree.\n(b) The status quo is No. Louisiana has a GOP trifecta, and Gov. Landry publicly said \"We don't need a moratorium.\" The LPSC is fast-tracking data-center approvals, and parish-level pauses in Caddo and St. Charles failed.\n(c) No scenario: the 2027 fiscal session passes at most incentive or ratepayer conditions, or nothing, and Landry calls no special session. That is the dominant path.\n(d) Yes scenario: ratepayer backlash over Meta's Hyperion and Entergy cost-shifting, plus 2027 election-year politics (governor and legislature are on the ballot in fall 2027), pushes a lawmaker to spend one of five bill slots on a >100MW moratorium. It would then have to pass both chambers and either get Landry's signature or a two-thirds override. That is very unlikely given his stance.\nThe market sits at 23.5%, down from 36.5% in three days of thin trading. It appears to underweight the fiscal-session constraint and the governor's opposition; the national base rate for statutory moratoria is roughly one or two states. I fade well below the market but keep some tail for a political shock or a qualifying provision folded into broader data-center legislation.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3633",
+   "has_trace": true
+  }
+ ],
+ "Will Bitcoin reach $87,500 in October?": [
+  {
+   "id": 3727,
+   "scanned_at": "2026-10-02T08:43:33.554012",
+   "date": "2026-10-02",
+   "agent": 87.4,
+   "market_price_t0": 86.5,
+   "edge": 0.009000000000000008,
+   "confidence": 0.686,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.88, 0.87, 0.88, 0.87, 0.87). (0) Not yet met. The best October print found is about $86,885 intraday on Oct 2 (CoinDesk), and September's cycle high was about $87,360–87,400, so no source shows a Binance 1m high at or above $87,500. The resolution-source fetch failed, so I keep some allowance that Binance-specific highs differ slightly from aggregator figures. (a) About 29–30 days remain until Oct 31 23:59 ET, and the window includes the Oct 27–28 FOMC meeting. (b) Status quo: spot is about $86,384, roughly 1.3% below the strike. A pure touch model with BTC's roughly 45–50% annualized volatility puts the chance of a single 1-minute wick that close over a month at about 90% or more. (c) NO: sellers keep defending the $87,000–87,400 zone (already rejected about three times). High Treasury yields (10-year about 5.2–5.3%), ETF outflows and a hawkish Fed hike push BTC back toward $80–83k for the rest of the month. (d) YES: a soft payrolls print, falling hike odds (38% from 71%), renewed ETF inflows or a short squeeze through the well-watched $87.4k level produce one wick above $87,500, possibly within days. The market anchor is 85.5% (bid 85 / ask 86). The sibling ladder ($90k at 66.5%, $92.5k at 47.5%) is consistent with that and arguably implies a slightly higher figure for a strike this close. The documented repeated rejections at resistance argue against going much above the touch math. I settle modestly above market at 0.88.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3727",
+   "has_trace": true
+  }
+ ],
+ "Will Missouri enact a data center moratorium by December 31, 2028?": [
+  {
+   "id": 3721,
+   "scanned_at": "2026-10-02T06:58:57.576988",
+   "date": "2026-10-02",
+   "agent": 18.4,
+   "market_price_t0": 36.5,
+   "edge": -0.181,
+   "confidence": 0.616,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.20, 0.17, 0.15, 0.20, 0.20) after one crux research pass. (0) Nothing shows the condition met. Missouri's 2026 session passed no data center bills, and trackers list Missouri's statewide moratorium bills as 'None'. Only local pauses exist (St. Charles, Jackson County, Columbia and others), and those do not count. (a) About 27 months remain. That covers the 2027 and 2028 regular sessions (Jan–mid-May each year) and the November 2028 ballot, for which initiative signatures are due around May 2028. (b) If nothing changes, the outcome is No. Gov. Kehoe is strongly pro-data center, says siting belongs at the local level, declined a special session and holds office through the deadline. The GOP trifecta's reform faction pushes 'guardrails' and disclosure bills, not bans, and committee gatekeepers have bottled up even mild bills. (c) NO scenario: the 2027–28 sessions produce cost-allocation or transparency rules that build on SB 4, local moratoria absorb the backlash, and no funded initiative qualifies for 2028. (d) YES scenario: the backlash keeps escalating and becomes a 2028 campaign issue. Then either a veto-proof or Kehoe-accepted bill imposes a large-load pause, or a statutory initiative needing 5% signatures qualifies and passes in November 2028. No such campaign or bill text exists yet. The Polymarket anchor of 36.5% (down from 44.5%) looks rich given these specifics, and the rules exclude executive actions and conditional permitting regimes. Bipartisan national momentum and a two-year window keep a meaningful tail, so I shade below the market to about 20%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3721",
+   "has_trace": true
+  }
+ ],
+ "Will the Democratic Party win the OH-07 House seat?": [
+  {
+   "id": 3718,
+   "scanned_at": "2026-10-02T06:22:35.307697",
+   "date": "2026-10-02",
+   "agent": 80,
+   "market_price_t0": 82.5,
+   "edge": -0.02499999999999991,
+   "confidence": 0.628,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.79, 0.79, 0.79, 0.82, 0.81). (0) Not resolved. The election is November 3, 2026, and the FEC page has no results. What still has to happen is Poindexter actually winning the vote. (a) About one month remains until Election Day. (b) Status quo: the race is rated Toss Up by Cook, and every public poll since August shows Poindexter ahead, including the Republican-aligned co/efficient poll at 47-33. On that standing, Democrats are favored, and the market prices this at 82.5%. (c) NO scenario: the scandal fades without charges or Ethics findings, and Trump's endorsement plus Miller's cash edge (including a roughly $1M self-loan) bring R+11 partisans home. A district Trump carried by 11 reverts to its baseline. (d) YES scenario: the custody fight and subpoena of Senator Moreno keep the story alive into October, and the Ethics probe stays open. Democrats' lopsided outside spending (House Majority PAC at $7M+ vs. NRCC at about $450K) and a favorable national environment (Dem Senate control at 62.5%, Jeffries as next Speaker at 81%) carry Poindexter. I shade slightly below the market for three reasons: no polls after early September, the 11-point Trump baseline, and handicappers holding at Toss Up rather than Lean D. Still, the evidence broadly supports Democrats as clear favorites.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3718",
+   "has_trace": true
+  }
+ ],
+ "Any of the Cornell 7 charged with a felony sex crime?": [
+  {
+   "id": 3698,
+   "scanned_at": "2026-10-02T01:41:59.101994",
+   "date": "2026-10-02",
+   "agent": 39.4,
+   "market_price_t0": 41.5,
+   "edge": -0.02100000000000002,
+   "confidence": 0.53,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.36, 0.37, 0.36, 0.44, 0.44). (0) Not met. Every source through Oct 1–2, 2026, including the DA's statements, CNN, ABC and IBTimes, confirms that none of the seven has been charged. The case is at the grand-jury preparation stage. (a) There are about four months left, until Jan 31, 2027. (b) The status quo is No: an indictment requires a grand jury to be convened, hear the evidence and vote within the window. (c) No scenario: AG Letitia James's office, newly appointed special prosecutor by Hochul on Oct 1, has to rebuild the file. That means new interviews, the newly surfaced 2024 transcript, the Snapchat evidence and defense submissions. AG special-prosecutor matters often take many months, so the presentation slips past January. Alternatively, the contested-consent record leads a grand jury, or the prosecutor, to decline. The same jurisdiction already declined once, finding that the conduct stopped when asked and the ketamine was taken voluntarily. (d) Yes scenario: strong political pressure from Hochul and AG James, both facing the November electorate, plus Van Houten's stated '45 days' urgency. Prosecutors present by December, and New York's low probable-cause bar yields at least one felony Article 130 count against at least one of the seven, for example third-degree rape for clearly expressed non-consent, or sexual abuse. Contemporaneous evidence such as the 'free sex upstairs' Snapchat message and Title IX admissions supports this. The market anchor is 41.5%, down from 71%, likely pricing in the timeline reset from the AG handoff. I shade slightly below the market because the handoff plausibly pushes a careful, high-profile multi-defendant presentation beyond four months.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3698",
+   "has_trace": true
+  }
+ ],
+ "US strike on Colombia by December 31?": [
+  {
+   "id": 3691,
+   "scanned_at": "2026-10-02T00:00:20.598765",
+   "date": "2026-10-02",
+   "agent": 14.4,
+   "market_price_t0": 17,
+   "edge": -0.025999999999999995,
+   "confidence": 0.6220000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.15, 0.14, 0.14, 0.15, 0.14). (0) No source shows a qualifying strike. All documented US strikes are maritime boat strikes or land strikes in Venezuela and Ecuador. The France24 resolution-source read describes only a Colombian military operation, with US troops explicitly not involved. (a) About 3 months remain until Dec 31, 2026, and a strike must be confirmed by credible reporting within two days of the deadline. (b) Status quo is No: in roughly 13 months of escalating US counter-narcotics operations, including peak Trump–Petro hostility, no US strike ever hit Colombian soil. (c) No scenario: de la Espriella's government keeps US support limited to intelligence and technology, as VP Restrepo said on Sept 25, with Colombian forces doing the bombing. Plan Patriota 2.0 stays unsigned, and any ambiguous joint-op strike fails the consensus-confirmation bar. (d) Yes scenario: under the August joint-operations authorization announced by Hegseth, a US drone or aircraft hits an ELN or Gulf Clan camp or lab, following the March 2026 Ecuador template where US forces struck a Colombia-based group at the host's request. De la Espriella has openly favored US-assisted bombing. The consensual pathway is real, which keeps this above a trivial base rate. However, nearly two months have passed since the authorization without any strike, and the Colombian government publicly frames operations as Colombian-led. I shade slightly below the 17% market anchor (bid 16 / ask 18) to about 15%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3691",
+   "has_trace": true
+  }
+ ],
+ "Will Texas enact a data center moratorium by December 31, 2026?": [
+  {
+   "id": 3662,
+   "scanned_at": "2026-10-01T22:55:08.843213",
+   "date": "2026-10-01",
+   "agent": 4,
+   "market_price_t0": 7.5,
+   "edge": -0.03499999999999999,
+   "confidence": 0.806,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.04, 0.04, 0.04, 0.05, 0.04). (0) The condition has not been met. All Texas moratorium actions so far are executive or agency directives: Abbott's August 4 PUCT/ERCOT pause and his September 21 TCEQ permit halt. The rules explicitly exclude these, and the Legislature portal shows no enacted moratorium bill. (a) About three months remain until December 31, 2026. The 90th Legislature does not convene until January 12, 2027, so the only path is a special session that Abbott would have to call, pass through both chambers, and sign within that window. (b) Status quo is NO: no special session has been called, and Abbott's office keeps deferring legislation to 'next session'. His stated legislative goals are incentive repeal and water/grid rules, not a statutory default-prohibition moratorium. (c) NO scenario: Abbott wins reelection on November 3 and the ERCOT audit finishes around mid-December. The executive pause lapses or continues administratively, and lawmakers take up bills in January 2027. (d) YES scenario: election pressure or a post-election shift leads Abbott to call a November or December special session. Leadership (Patrick, Burrows) then fast-tracks a mandatory statewide pause on large data centers, which he signs before year-end. Political scientists call this unlikely, and Texas GOP leadership has shown little appetite for a blanket statutory ban. I anchor on the market's 7.5% and shade lower. The research confirms no session call as of October 1, and the base rate is roughly one enacted statewide moratorium nationally. Even a special session would more likely target incentives than a qualifying default-prohibition moratorium.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3662",
+   "has_trace": true
+  }
+ ],
+ "Will the Democrats win the Mississippi Senate race in 2026?": [
+  {
+   "id": 3654,
+   "scanned_at": "2026-10-01T22:38:39.231669",
+   "date": "2026-10-01",
+   "agent": 8.7,
+   "market_price_t0": 9.5,
+   "edge": -0.007999999999999993,
+   "confidence": 0.6940000000000001,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.09, 0.09, 0.09, 0.09, 0.09). (0) The condition is not met. The resolution source (NBC, Ballotpedia) shows only the March 10 primary results: Hyde-Smith (R) won 80.8% and Colom (D) won about 73%, with independent Ty Pinkins also on the ballot. No general election has been held or called. (a) About 33 days remain until the November 3 election, plus a possible later runoff, since Mississippi requires a majority to win. (b) Status quo: Hyde-Smith wins. She leads polling averages by R+4.5 to R+7, all ten nonpartisan handicappers rate the seat Solid, Safe or Likely R, and models give her 90-98% (PoliAgg 98%, Pollsmax 92%, Macrovoter 90%). Democrats have not won a Mississippi Senate race since 1982. (c) NO: the usual Mississippi pattern repeats, with polls narrowing but the Republican outperforming them, as in 2018 and 2020 when Hyde-Smith beat Espy by 8-10 points. Her roughly 3:1 cash-on-hand edge, debate avoidance and tested culture-war attacks carry her past 50%. (d) YES: a strongly anti-GOP national environment (Polymarket gives Democrats 92.5% for the House and 62.5% for the Senate) lifts Black turnout. Hyde-Smith's weak favorables (net -10) and Pinkins's share hold her under 50%, forcing a runoff where Pinkins voters break toward Colom, while late national Democratic money arrives. The market at 9.5% (rising 4 points over 30 days) already reflects the tightening and the favorable environment. The research adds no new information beyond the August DFP poll and the October 1 Washington Post coverage. So I stay near the anchor, marginally below it, given the models' 2-10% range and the 44-year base rate.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3654",
+   "has_trace": true
+  }
+ ],
+ "Will the Democratic Party win the VA-05 House seat?": [
+  {
+   "id": 3652,
+   "scanned_at": "2026-10-01T22:34:46.796363",
+   "date": "2026-10-01",
+   "agent": 23.8,
+   "market_price_t0": 21.5,
+   "edge": 0.022999999999999993,
+   "confidence": 0.618,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.23, 0.23, 0.22, 0.24, 0.27). (0) Nothing has resolved yet. The FEC page shows no results, and the election is November 3, 2026. (a) About 33 days remain until election day, and calling the race could take a few days more. (b) Status quo: incumbent Republican John McGuire holds an R+6 seat that Trump won by 12 points and that he won by 15 in 2024. Spanberger lost the district by 7 in 2025, and the only nonpartisan poll (WaPo/Schar, Oct 1) has McGuire up 51-45. That points to a NO resolution. (c) NO scenario: the district's partisan floor holds, McGuire's stock-trading rebuttal blunts the ethics attack, and the WaPo margin roughly holds, giving a mid-single-digit Republican hold. (d) YES scenario: a 2006-style national wave, Perriello's cash advantage, and early in-person voting running 10-11 points bluer than 2025 (State Navigate/VoteHub) push Perriello past McGuire. Perriello's internal poll (46-45) suggests the race may be close. Raters are split: Sabato moved to Leans R, Cook to Likely R, Inside Elections still has Solid R, and Nuttycombe calls it tilting R. That mix is roughly consistent with the market's 21.5%. The improving early-vote signals and favorable national environment justify a small upward nudge, but the independent 6-point poll caps it, so I land near 23%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3652",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic have the best AI model on LiveBench (Mathematics) at the end of October 2026?": [
+  {
+   "id": 3650,
+   "scanned_at": "2026-10-01T22:31:14.564949",
+   "date": "2026-10-01",
+   "agent": 57.2,
+   "market_price_t0": 56.5,
+   "edge": 0.007000000000000006,
+   "confidence": 0.514,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.54, 0.57, 0.58, 0.58, 0.59). (0) Not resolved. The LiveBench page is JavaScript-rendered and could not be scraped. The LiveBench GitHub PR (2026-09-22) and trackers through 2026-09-29 show Anthropic leading Mathematics: Claude Opus 5.5 at 97.08 and Fable 5.1 at 97.01, ahead of GPT-6.1 Sol and Astra at about 96.8. (a) Thirty days remain until the October 31 noon ET check. (b) Status quo: if no new model is added that tops 97.08, Anthropic wins. (c) NO scenario: Google's Gemini 4 Argon, launched September 30 and not yet measured on LiveBench Math, gets added in October and edges past 97.08. Argon leads on RiemannBench and LABBench, and Google has historically been strong at math. A full Gemini 4 or another OpenAI tier could also land, and an exact tie would favor cheaper models on cost per task. (d) YES scenario: Argon lands below Opus 5.5 on math, consistent with Artificial Analysis putting it about 5 points behind overall. OpenAI's withheld model stays unreleased, or Anthropic adds an even stronger model, and Anthropic holds first place. The market sits at 56.5%; its 12-point drop over 7 days already reflects the Argon launch. I see no unpriced information beyond that, so I stay near the anchor and shade slightly down. The margin is very thin, LiveBench merges models on a rolling basis, and the leader has historically rotated often.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3650",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic have the best AI model at the end of November 2026?": [
+  {
+   "id": 3648,
+   "scanned_at": "2026-10-01T21:41:37.590603",
+   "date": "2026-10-01",
+   "agent": 35.5,
+   "market_price_t0": 36.5,
+   "edge": -0.010000000000000009,
+   "confidence": 0.54,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.36, 0.35, 0.36, 0.35). (0) Not resolved. The live arena.ai Text Arena (no style control) snapshot from Sep 30 shows Google's gemini-4-argon-high at #1 (1533, marked Preliminary, about 4.9k votes). Anthropic's claude-opus-5.5-high is #2 at 1512, and Anthropic holds ranks 2–7. The rules exclude only 'AutoEval', not 'Preliminary', so Argon currently counts. (a) About 60 days remain until the Nov 30, 12:00 PM ET check. (b) Status quo is Google #1, so NO. A 21-point gap is meaningful, though a low-vote preliminary score could drift down as votes accumulate. (c) NO: Google meets Arena's two-week public-access commitment, Argon's score holds, and the reported October Gemini 4 Pro launch entrenches Google's lead. Meanwhile the next full Anthropic generation (Opus 6, about 15% on Kalshi to arrive before Nov 1) doesn't land in time. (d) YES: Argon is pulled for failing the public-access policy, or its preliminary score regresses below Opus 5.5. Alternatively, Anthropic repeats its late-November flagship cadence (Opus 4.5 shipped Nov 24, 2025) with an Opus 6 or Fable-class release that takes #1. Anthropic held #1 for roughly seven straight months, which shows it can respond quickly, but Google now has momentum and a second model in the pipeline. The anchor is the market at 36.5%, with the October sibling market at 35.5%. The research surfaces no unpriced information strong enough to move materially, so I stay near the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3648",
    "has_trace": true
   }
  ]

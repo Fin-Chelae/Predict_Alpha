@@ -33,6 +33,7 @@ let lastEquity = null;   // previous paint only — drives the flash color, no m
 let ws = null, wsAlive = false, wsRetry = 0;
 let histDays = null;   // null = all; 7 / 30 = window
 let catFilter = null;  // null = all; else one scan category (arena + closed)
+let sortMode = 'pnl';  // arena order: pnl / newest / oldest (by first buy)
 let assets = [];       // arena token ids — mutated in place, closed over by ws/poll
 let mounted = false;
 
@@ -240,6 +241,7 @@ function derive(positions, activity, gamma) {
         slug: p.slug, eventSlug: p.eventSlug,
       size: +p.size, entry_price: +p.avgPrice, cost: positionCost(p),
       market_value: +p.currentValue,
+      opened: b && b.firstBuy ? b.firstBuy * 1000 : null,
       days_to_resolution: end && end > 978307200000 ? (end - now) / 86400e3 : null,
     });
   }
@@ -344,7 +346,11 @@ function mount() {
     <div class="main">
       <div class="panel board">
         <h2>Position Arena <span>ranked by live P&amp;L · tick-level prices · 1-week trend</span></h2>
-        <div class="cats" id="catBar"></div>
+        <div class="filters">
+          <div class="cats" id="catBar"></div>
+          <div class="cats" id="sortBar">${[['pnl', 'P&amp;L'], ['newest', 'Newest'], ['oldest', 'Oldest']]
+            .map(([k, t]) => `<button class="cat-btn ${sortMode === k ? 'on' : ''}" data-sort="${k}">${t}</button>`).join('')}</div>
+        </div>
         <div class="rows" id="board"></div>
       </div>
       <div class="rail">
@@ -361,7 +367,7 @@ function mount() {
 
   mounted = true;
   renderStrip(S);
-  renderCatBar(); initCatBar();
+  renderCatBar(); initCatBar(); initSortBar();
   renderBoard(S, true);
   renderClosed();
   drawHist(); initHistRanges();
@@ -432,17 +438,37 @@ function initCatBar() {
     renderClosed();
   });
 }
-const catTag = r => r.category === NO_CAT ? '' : `<span class="cat">${esc(r.category)}</span> · `;
+/* Arena order. Rank and medals always follow live P&L, whatever the order. */
+const SORTS = {
+  pnl: null,
+  newest: (x, y) => (y.opened ?? -Infinity) - (x.opened ?? -Infinity),
+  oldest: (x, y) => (x.opened ?? Infinity) - (y.opened ?? Infinity),
+};
+function initSortBar() {
+  $('#sortBar').addEventListener('click', ev => {
+    const b = ev.target.closest('[data-sort]');
+    if (!b || b.dataset.sort === sortMode) return;
+    sortMode = b.dataset.sort;
+    for (const x of $('#sortBar').children) x.classList.toggle('on', x === b);
+    const u = new URL(location.href);
+    sortMode === 'pnl' ? u.searchParams.delete('sort') : u.searchParams.set('sort', sortMode);
+    try { history.replaceState(null, '', u); } catch {}
+    renderBoard(liveState(), true);
+  });
+}
 
 /* ══════════════ arena (FLIP reorder animation) ══════════════ */
 function renderBoard(S, first) {
   const board = $('#board');
   const sorted = S.rows.filter(inCat).sort((x, y) => y.pnlNow - x.pnlNow);
+  sorted.forEach((r, i) => { r.rank = i; });
+  if (SORTS[sortMode]) sorted.sort(SORTS[sortMode]);
   const maxAbs = Math.max(.0001, ...sorted.map(r => Math.abs(r.roiNow)));
   const old = {};
   if (!first) for (const el of board.children) old[el.dataset.k] = el.getBoundingClientRect().top;
 
-  board.innerHTML = sorted.map((r, i) => {
+  board.innerHTML = sorted.map(r => {
+    const i = r.rank;
     const medal = i === 0 ? '🥇' : i === 1 ? '🥈' : i === 2 ? '🥉' : i + 1;
     const dirUp = r.asset && pxPrev[r.asset] != null && px[r.asset] != null
       ? (px[r.asset] > pxPrev[r.asset] ? 1 : px[r.asset] < pxPrev[r.asset] ? -1 : 0) : 0;
@@ -455,7 +481,8 @@ function renderBoard(S, first) {
       <div class="rank ${i < 3 ? 'medal' : ''}">${medal}</div>
       <div class="mkt"><div class="t" title="${esc(r.title)}">${
           scans ? '<span class="chev">▶</span>' : ''}${mktLink(r)}</div>
-        <div class="s">${catTag(r)}${r.size.toFixed(0)} sh · cost ${usd(r.cost)} · ${
+        <div class="s">${r.size.toFixed(0)} sh · cost ${usd(r.cost)} · ${
+          r.opened ? new Date(r.opened).toISOString().slice(5, 10) + ' · ' : ''}${
           r.days_to_resolution != null ? 'settles ' + Math.round(r.days_to_resolution) + 'd' : 'settle date n/a'}${
           scans ? ` · ${scans.length} scans` : ''}</div></div>
       <div class="side ${(r.outcome || '').toLowerCase() === 'yes' ? 'yes' : 'no'}">${esc((r.outcome || '?').toUpperCase())}</div>
@@ -544,7 +571,7 @@ function renderClosed() {
       <div class="cdate">${d}</div>
       <div class="mkt"><div class="t" title="${esc(r.title)}">${
           scans ? '<span class="chev">▶</span>' : ''}${mktLink(r)}</div>
-        <div class="s">${catTag(r)}${r.size.toFixed(0)} sh · cost ${usd(r.cost)}${
+        <div class="s">${r.size.toFixed(0)} sh · cost ${usd(r.cost)}${
           r.heldDays != null ? ` · held ${Math.round(r.heldDays)}d` : ''}${
           scans ? ` · ${scans.length} scans` : ''}${
           r.manual && r.reason ? ` <span class="why">· ${esc(r.reason)}</span>` : ''}</div></div>
@@ -977,6 +1004,8 @@ async function refreshWallet() {
     delete a._comment; ANN = a;
   } catch {}
   catFilter = new URLSearchParams(location.search).get('cat') || null;
+  const sortQ = new URLSearchParams(location.search).get('sort');
+  if (sortQ in SORTS) sortMode = sortQ;
 
   let positions, activity, cash;
   try {

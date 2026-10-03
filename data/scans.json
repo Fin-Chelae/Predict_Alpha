@@ -1457,6 +1457,20 @@
  ],
  "Will Venezuela recognize Israel by December 31?": [
   {
+   "id": 3813,
+   "scanned_at": "2026-10-03T13:20:27.204123",
+   "date": "2026-10-03",
+   "agent": 16.6,
+   "market_price_t0": 18,
+   "edge": -0.014000000000000012,
+   "confidence": 0.546,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.15, 0.16, 0.18, 0.18, 0.16). (0) The condition is not met. The only concrete step so far is the 11 August 2026 joint statement restoring consular and technical cooperation. Both governments and outlets including the Media Line, JPost and Al Jazeera say explicitly that this falls short of full diplomatic relations: no embassies, no ambassadors. The market also did not resolve on it, even though the price peaked at 56% then. (a) About three months remain until 31 December 2026. (b) The status quo is consular-only ties continuing through year-end, which resolves No. Nothing upgrading ties has been reported since the Danon meeting on 4 September, and Rodríguez's UN General Assembly speech did not mention Israel. (c) No: Rodríguez's government, focused on its contested mandate, election timing and US debt talks, keeps the 'dating period' open-ended and makes no formal recognition or ambassador exchange before 31 December. (d) Yes: Rodríguez, wanting to outflank Machado and please Washington, announces full restoration of relations or an embassy, possibly naming Rabbi Cohen as ambassador. Bolivia and Colombia show this can happen within weeks once there is political will. I anchor on Polymarket's 18%. The recent +8.5-point move may reflect rumours I cannot verify, while the research finds no roadmap or scheduled upgrade. I shade slightly below the market to about 15%, allowing some extra risk that an upgrade to full diplomatic relations is read as 'recognition'.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3813",
+   "has_trace": true
+  },
+  {
    "id": 3238,
    "scanned_at": "2026-09-20T12:14:31.812307",
    "date": "2026-09-20",
@@ -4622,6 +4636,20 @@
   }
  ],
  "Tyler Robinson convicted of homicide?": [
+  {
+   "id": 3823,
+   "scanned_at": "2026-10-03T16:30:37.295198",
+   "date": "2026-10-03",
+   "agent": 23.2,
+   "market_price_t0": 28.5,
+   "edge": -0.05299999999999999,
+   "confidence": 0.624,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.18, 0.17, 0.28, 0.28, 0.24). (0) The condition has not been met. Robinson was bound over on all seven counts on Sept 1, 2026 and pleaded not guilty. No trial date is set, and no plea, dismissal or charge reduction has been reported. (a) About 10 months remain until the July 31, 2027 deadline, and the next hearing is Oct 23, 2026, where trial dates may only be proposed. (b) If nothing changes, pretrial motions grind on into 2027, and the market resolves No because a capital trial verdict is very unlikely within roughly 9 months of scheduling. (c) NO path: the defense keeps up its pattern of serial motions (disqualification, venue, media, death-penalty challenges). An unaffiliated Utah capital-defense attorney projected a trial around 2029, and typical Utah capital timelines are multi-year. (d) YES path: the judge, pressed by the state and by Erika Kirk's statutory speedy-trial demand, sets a trial for mid-2027. The single-defendant, single-shot case moves fast and a jury convicts on what prosecutors call overwhelming DNA, video, note and confession evidence. Alternatively, Robinson pleads guilty to a homicide count to take death off the table. Evidentiary strength is high, but timing is the binding constraint. The market at 28.5% (drifting down) seems somewhat rich given no trial date and the defense's demonstrated delay posture, so I shade below it, while keeping weight on a guilty-plea path and an aggressive schedule.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3823",
+   "has_trace": true
+  },
   {
    "id": 2958,
    "scanned_at": "2026-09-15T05:49:16.656745",
@@ -7791,6 +7819,20 @@
  ],
  "US recession by end of 2026?": [
   {
+   "id": 3826,
+   "scanned_at": "2026-10-03T17:18:45.516246",
+   "date": "2026-10-03",
+   "agent": 5.5,
+   "market_price_t0": 7.5,
+   "edge": -0.01999999999999999,
+   "confidence": 0.798,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.03, 0.03, 0.07, 0.07, 0.07). (0) Neither trigger has fired. BEA and FRED show every quarter from Q2 2025 through Q2 2026 positive: 3.8–4.0%, 4.4%, 0.2–1.4%, 2.5% and 2.2%. FRED's USREC series shows no NBER recession, and no NBER announcement exists. So YES needs both Q3 and Q4 2026 to print negative, or an NBER recession call before the Q4 2026 advance estimate. (a) About 4 months remain: the Q3 advance estimate comes Oct 29, and the Q4 advance estimate likely in late January 2027. (b) If nothing changes, the outcome is NO. GDPNow tracks Q3 2026 at +3.7%, and the SPF puts the chance of a negative Q3 at about 13% and a negative Q4 at about 20%. Both negative together is far less likely, and Q3 is nearly done and tracking strongly. (c) NO scenario: Q3 prints positive on Oct 29, which by itself makes the GDP path almost impossible. The NBER, which historically announces 6–21 months after a recession begins, makes no call by January. (d) YES scenario: a sharp collapse reveals that Q3 was negative despite the nowcast, and a renewed oil shock plus the Fed hike pushes Q4 negative. Alternatively, the NBER fast-tracks a peak dating; the weak September payrolls (+29K) and July's revised -10K are its only seeds. The market's 7.5% looks to carry a long-tail and illiquidity premium. Given the 3.7% nowcast and the NBER lag, I price YES at about 3%, keeping some weight on data surprises and big revisions.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3826",
+   "has_trace": true
+  },
+  {
    "id": 2989,
    "scanned_at": "2026-09-15T20:03:26.254328",
    "date": "2026-09-15",
@@ -10076,6 +10118,20 @@
   }
  ],
  "Will there be no next Google Gemini Pro model release by November 1, 2026?": [
+  {
+   "id": 3818,
+   "scanned_at": "2026-10-03T14:58:03.996443",
+   "date": "2026-10-03",
+   "agent": 77,
+   "market_price_t0": 76.5,
+   "edge": 0.0050000000000000044,
+   "confidence": 0.6725,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.78, 0.77, 0.77, 0.77). (0) Not resolved: Google's models page and changelog (updated Oct 1) show Gemini 3.1 Pro, still Preview, as the newest Pro model. A No would need a public Pro-labeled model, or a GA promotion of 3.1 Pro, by Nov 1. (a) About four weeks remain. (b) Status quo is Yes: Gemini 4 Argon (Sept 30) is gated to Fairwind cyber partners and framed by Google as larger than its Pro models rather than Pro. Reuters/AFP report via a Google spokesperson that 3.5 Pro is cancelled. The rollout runs cyber partners, then paid API/Ultra, then broad, with no dates and safeguards still to be strengthened. (c) Argon stays gated or keeps a non-Pro name and 3.1 Pro stays in Preview, giving Yes. (d) Competitive pressure prompts a late-October public 'Gemini 4 Pro' launch, as rumoured by sites with a poor record, or 3.1 Pro is promoted to GA, giving No. The market is at 76.5% Yes, consistent with the related 'next Pro by Oct 31' market at 22.5% Yes. The confirmed 3.5 Pro cancellation and Argon's non-Pro framing nudge me slightly above the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3818",
+   "has_trace": true
+  },
   {
    "id": 3461,
    "scanned_at": "2026-09-26T14:26:36.947642",
@@ -12785,6 +12841,20 @@
  ],
  "Will Iran withdraw from the NPT before 2027?": [
   {
+   "id": 3806,
+   "scanned_at": "2026-10-03T11:00:21.773879",
+   "date": "2026-10-03",
+   "agent": 9.9,
+   "market_price_t0": 11.7,
+   "edge": -0.017600000000000005,
+   "confidence": 0.638,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.08, 0.08, 0.12, 0.12, 0.10). (0) No source shows a formal Article X notification to the UN. The resolution-source read (Sept 15) and an Oct 2 OSINT review both confirm only parliamentary bills and threats, so the condition is not met. What remains is a full chain: the Speaker releases the triple-urgency bill, it passes, the Guardian Council approves it, and the SNSC and government transmit a written Article X notice. (a) About 89 days remain until December 31, 2026. (b) Status quo is No: the bill sits with the Presiding Board, a National Security Committee member estimates no more than ~70 votes, President Pezeshkian said repeatedly in late September that Iran does not want to leave the NPT, and Ghalibaf-aligned Khorasan called the push 'a gift to Trump'. (c) NO: the bill stays off the floor, Russia (which publicly opposes withdrawal) and China shield Iran at the UNSC, and talks resume after the US midterms. Withdrawal stays leverage, as it did after the 2020 motion and the 2025 snapback. (d) YES: US-Iran diplomacy collapses after November 3 or new strikes occur, and SNSC Secretary Rezaei, who says withdrawal 'totally depends on Washington's behavior', authorizes a notice. The bill then moves fast under exceptional urgency. The market sits at 11.7%. The research adds fresh signals of leadership opposition (Pezeshkian, the Speaker's camp, the vote count) and a strong base rate of threats without follow-through, so I shade slightly below the market. I keep meaningful tail risk because the war environment and the Rezaei conditionality make a sudden flip possible.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3806",
+   "has_trace": true
+  },
+  {
    "id": 3277,
    "scanned_at": "2026-09-21T06:50:23.640291",
    "date": "2026-09-21",
@@ -13477,6 +13547,20 @@
  ],
  "Will CDU/CSU–SPD German federal coalition break before 2027?": [
   {
+   "id": 3828,
+   "scanned_at": "2026-10-03T18:12:02.187684",
+   "date": "2026-10-03",
+   "agent": 10.6,
+   "market_price_t0": 10.5,
+   "edge": 0.0010000000000000148,
+   "confidence": 0.648,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.11, 0.10, 0.10, 0.10, 0.11). (0) The coalition has not broken. The official Bundeskabinett page still lists both Union ministers (Merz, Dobrindt) and SPD ministers (Klingbeil, Bas, Pistorius), and no source reports a withdrawal, mass resignation or new government as of 2026-10-03. (a) About 3 months remain until the Dec 31, 2026 deadline. (b) If nothing changes, the coalition muddles through and the market resolves No. Inertia is strong: no federal CDU/CSU–SPD coalition has ever broken mid-term, the constructive no-confidence vote requires a named successor and none exists, and both parties poll badly, so a snap election would mainly help the AfD. (c) No scenario: the care, pension and sugar-tax disputes keep being patched up in the coalition committee. The SPD stays in while demanding renegotiation, as Klingbeil has said, and the CDU premiers, Frei and Söder keep backing Merz. (d) Yes scenario: the SPD walks out over the pension or care reform near the year-end Rentenkommission deadline, or the cabinet ruptures and Merz runs a Union minority government. The crisis is genuinely escalating: Steinmeier phoned Klingbeil and Dobrindt on Oct 2 out of fear the government would fall, and the cabinet vote on care reform was uncertain until the last moment. A Kanzlertausch within the Union that keeps the SPD would likely not count as a break, so the related 'Merz out' market at 8.5% is only loose context. I anchor on the 10.5% Polymarket price, which has fallen 3 points in the last week despite the Steinmeier news. I nudge up only slightly for that acute escalation, landing at about 11%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3828",
+   "has_trace": true
+  },
+  {
    "id": 1526,
    "scanned_at": "2026-08-19T21:37:08.458650",
    "date": "2026-08-19",
@@ -14114,6 +14198,20 @@
   }
  ],
  "Edi Rama out as Albania PM in 2026?": [
+  {
+   "id": 3821,
+   "scanned_at": "2026-10-03T15:44:53.756336",
+   "date": "2026-10-03",
+   "agent": 7.8,
+   "market_price_t0": 9,
+   "edge": -0.011999999999999997,
+   "confidence": 0.6719999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.07, 0.09, 0.09, 0.08). (0) The condition has not been met. Current-state research and Wikipedia's infobox (accessed 2026-10-03) show Rama as incumbent, with no resignation, dismissal or confidence vote. A direct read of the resolution source (kryeministria.al) failed, so this rests on secondary sources, but they agree. (a) About 89 days remain until Dec 31, 2026. A resignation announcement alone would trigger Yes. (b) If nothing changes, Rama stays and the market resolves No. The Socialist Party holds 82 of 140 seats, enough to block a no-confidence vote. Rama has repeatedly and explicitly refused to resign: on June 28 he cited his mandate to 2029, he tied his exit to EU accession in July, and on Sept 27 he said \"no one will stop me.\" (c) No scenario: the Flamingo Revolution protests (124+ days) keep fading, as the six-month 2025-26 opposition wave did. The SPAK arms-trafficking probe (Oct 2 raids on Yeffet/KAYO) stays at the level of businessmen and executives. Rama sacrifices subordinates, as he did with Balluku in February, and the majority holds. (d) Yes scenario: SPAK formally implicates Rama or his cabinet via the Ahmetaj recordings. That triggers a wave of Socialist defections beyond Koçeku, around 12 or more, enabling a no-confidence motion. Alternatively, EU pressure pushes party elites to replace him, or a health event intervenes. None of these precursors is currently visible: only one confirmed defection, the 'six MPs' claim was never verified, and no charges target Rama. I anchor on Polymarket's 9% (bid 8 / ask 10) but shade down. The short horizon, the durable majority and Rama's track record of surviving every protest wave since 2013 suggest the market includes some longshot/volatility premium. I keep meaningful tail weight for the escalating arms probe.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3821",
+   "has_trace": true
+  },
   {
    "id": 1389,
    "scanned_at": "2026-08-17T00:37:34.232243",
@@ -15312,7 +15410,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-03T09:08:39.573Z",
+  "last_sync": "2026-10-03T18:41:05.257Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -17403,6 +17501,20 @@
  ],
  "Friedrich Merz out as Chancellor of Germany before December 31, 2026?": [
   {
+   "id": 3802,
+   "scanned_at": "2026-10-03T09:28:55.983478",
+   "date": "2026-10-03",
+   "agent": 8.4,
+   "market_price_t0": 7.5,
+   "edge": 0.009000000000000008,
+   "confidence": 0.658,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.09, 0.09, 0.08, 0.08, 0.08). (0) Nothing shows the condition met. The government source fetch failed, but every report through 2 October 2026 has Merz still in office, with no resignation announcement, no Article 67 motion filed and no agreed successor. (a) About 89 days remain until 31 December 2026, and an announcement alone would resolve Yes. (b) If nothing changes, Merz stays: t-online reported the 'Kanzlersturz abgeblasen' (coup called off). The CDU state premiers and CSU figures (Söder, Weber) publicly backed him, Wüst said he wants to stay in NRW, and the 11 October Präsidium Klausur is framed as a strategy session, not a leadership vote. (c) No: Merz rides out record-low ratings (10–15% approval) because no successor wants the job and both coalition partners fear instability; the crisis fades into the budget fights. (d) Yes: a new shock, such as the €18bn revenue gap, a coalition rupture with the SPD, or another polling collapse, revives the 'stützen oder stürzen' push. A Präsidium reckoning then forces Merz to announce his exit, and Wüst, Söder or Rhein is installed with the existing Union-SPD majority, a path that nearly materialised around 20 September. The anchor is Polymarket at 8% and falling (−3.5% over 7 days), consistent with sibling contracts at about 2% by 31 October and about 4% by 30 November. The historical base rate for a mid-term chancellor swap is very low, but this crisis is unusually severe and Politico reports Europe 'war-gaming life after Merz'. I sit marginally above the market at 9% but find no strong unpriced information to move further.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3802",
+   "has_trace": true
+  },
+  {
    "id": 3116,
    "scanned_at": "2026-09-18T07:22:10.941272",
    "date": "2026-09-18",
@@ -18527,6 +18639,20 @@
  ],
  "Iran blockade lifted before Iran-Oman Hormuz agreement?": [
   {
+   "id": 3816,
+   "scanned_at": "2026-10-03T14:08:16.784165",
+   "date": "2026-10-03",
+   "agent": 26.4,
+   "market_price_t0": 25,
+   "edge": 0.014000000000000012,
+   "confidence": 0.536,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.30, 0.27, 0.25, 0.25, 0.25). See above.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3816",
+   "has_trace": true
+  },
+  {
    "id": 3444,
    "scanned_at": "2026-09-26T02:29:43.762242",
    "date": "2026-09-26",
@@ -19482,6 +19608,54 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.12, 0.11, 0.12, 0.12, 0.12). (0) Resolution has not been met. As of Oct 3, 2026 no credible reporting shows Mojtaba Khamenei removed, dead, detained or replaced. Pezeshkian publicly affirmed on Sept 27 that he is healthy, and state media keep issuing written statements in his name. (a) About 89 days remain until the Dec 31 deadline. (b) If nothing changes, he stays the nominal and de facto leader, protected by regime denials and a transitional-council workaround, and the market resolves No. (c) No scenario: the US-Iran talks drag on, the IranWire-reported succession plan stays gated on a formal war end that never arrives, and Basij/IRGC factions that benefit from an absent leader block an Assembly of Experts vote. (d) Yes scenario: a deal via Qatari mediation, or a decisive US strike after Trump's 'very soon' decision, ends hostilities in Q4. Elites then move quickly (the March succession took about 9 days) to name a new leader or council, or a strike kills him, or his incapacity or death is revealed. The anchor is the Polymarket price of 11.5%, and the term structure is consistent: Oct 31 at 2.35%, Nov 30 at 5.5%, Jun 2027 at 22.5%. The sibling 'Iran leader end of 2026' market also implies about 12%. The IranWire succession-plan reporting from Sept 28 is real but already priced, and its trigger is unmet, so I stay near the market with a slight tilt up for the unverified-health tail.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3770",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic announce bankruptcy by December 31, 2027?": [
+  {
+   "id": 3811,
+   "scanned_at": "2026-10-03T12:33:25.242243",
+   "date": "2026-10-03",
+   "agent": 7.2,
+   "market_price_t0": 10.5,
+   "edge": -0.033,
+   "confidence": 0.666,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.04, 0.04, 0.10, 0.09, 0.09). (0) The condition is not met. The resolution source (Anthropic's newsroom, through Oct 2, 2026) shows product launches, investments and enterprise deals, and no source mentions any bankruptcy filing, default, or hiring of restructuring advisors. (a) About 15 months remain, until Dec 31, 2027 at 11:59 PM ET. (b) If nothing changes, the answer is No. Anthropic closed a $65B Series H at a $965B valuation in May 2026 and posted its first positive adjusted operating quarter in Q2 2026 on $11.5B revenue. Its run-rate is reportedly near $100B, an Oct 14 investor day is set, and IPO marketing could start the week of Nov 9; that would bring in a large equity raise. (c) The No path is simple: the IPO completes or is merely delayed, and growth keeps the roughly $518B in compute commitments serviceable. Much of that compute exposure sits in SPV/Broadcom-backstopped structures or carries 90-day cancellation rights, so stress would show up as repossession, refinancing or a valuation markdown rather than a Chapter 11 filing. (d) The Yes path needs a chain of failures: an AI-market crash kills the IPO, revenue falls sharply as OpenAI's GPT-6 Astra takes share, and a lease default triggers acceleration that Anthropic cannot fund. It would then have to choose bankruptcy over a distressed equity raise or strategic rescue, all within 15 months. The market sits at 10.5%, but I think that price reflects longshot bias and the cost of locking up capital in No until 2028 (about 11.7% return), plus one large Yes trade. It does not reflect real distress information, and earlier tracker data showed this same strike near 5.5%. I price it at about 4%, leaving some room for a severe AI-bubble burst and for ambiguous 'credible reporting' resolution risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3811",
+   "has_trace": true
+  }
+ ],
+ "Will Ethereum dip to $2,100 in October?": [
+  {
+   "id": 3809,
+   "scanned_at": "2026-10-03T11:46:46.810892",
+   "date": "2026-10-03",
+   "agent": 12.6,
+   "market_price_t0": 13.5,
+   "edge": -0.009000000000000008,
+   "confidence": 0.62,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.11, 0.11, 0.14, 0.14, 0.14). (0) Nothing shows the condition met. Binance ETH/USDT lows on Oct 1-2 were about $2,676, and spot is about $2,685 on Oct 3, so the resolution source has not printed $2,100. The direct read of Binance failed, but CoinDesk benchmark data stands in for it. (a) About 28 days remain, until Oct 31 23:59 ET. (b) Status quo is NO: spot sits roughly 22% above the strike, with support shelves at about $2,630, $2,500, $2,445 and $2,272 in between. (c) NO path: ETH keeps ranging between $2,550 and $2,850. Open interest is at multi-month lows and September ETF inflows were positive, so a cascading flush is less likely. (d) YES path: a hawkish surprise at the Oct 28 FOMC meeting (about 25% odds of a hike), an exchange-hack confidence shock, or an unwinding of the large Bitfinex short buildup sets off a liquidation cascade through the 200-day EMA to $2,100. ETH did this kind of move in Feb 2026 and Oct 2025. A barrier-hit model using implied vol of about 48 gives roughly 6-7% (about a 1.85-sigma move). Fat tails, realized vol that tends to run above today's unusually low implied vol, and heavy put skew push that toward 10-12%. The market's 13.5% looks slightly rich but reasonable, so I shade modestly below it to 11%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3809",
+   "has_trace": true
+  }
+ ],
+ "Will NuScale announce bankruptcy by December 31, 2027?": [
+  {
+   "id": 3804,
+   "scanned_at": "2026-10-03T10:14:12.059564",
+   "date": "2026-10-03",
+   "agent": 7.6,
+   "market_price_t0": 13.5,
+   "edge": -0.059,
+   "confidence": 0.704,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.05, 0.05, 0.10, 0.10, 0.08). (0) Resolution check: nothing indicates the condition has been met. The resolution source page returned a 404, and the research found no bankruptcy statement, no restructuring counsel, and no going-concern opinion as of early October 2026. (a) About 15 months remain until the December 31, 2027 deadline. (b) If nothing changes, the answer is No. Per the Q2 2026 10-Q/8-K, NuScale holds about $1.9B in cash and investments, has essentially no debt, total liabilities of about $35M, and a current ratio near 38. It also has a fresh $750M ATM program on top of the earlier sales. (c) NO scenario: burn runs at $150-200M a quarter, and even the harshest outside forecasts (Vireo at ~$750M/yr, UBS at $700M over 2026-28) leave hundreds of millions to over $1B of cash at the deadline. With no creditors able to force a filing, dilution continues and the company survives. (d) YES scenario: TVA withdraws, RoPower collapses, a large ENTRA1-related milestone outlay or a litigation settlement drains cash, and equity markets close. Management then concludes a wind-down or Chapter 11 is needed before end-2027. That is mechanically hard to reach within 15 months from a $1.9B debt-free position. The Polymarket anchor of 13.5% looks inflated by longshot bias and the recent panic: it traded as high as 49% and is down 35 points in 30 days. The 2023 Iceberg 'bankruptcy' call also failed to materialize. I shade well below the market to about 5%, keeping some weight on tail risks such as contingent milestone obligations I can't fully verify and a severe capital-markets shock.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3804",
    "has_trace": true
   }
  ]

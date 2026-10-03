@@ -10509,6 +10509,20 @@
  ],
  "Cuban regime falls in 2026?": [
   {
+   "id": 3780,
+   "scanned_at": "2026-10-03T03:20:13.710108",
+   "date": "2026-10-03",
+   "agent": 8.7,
+   "market_price_t0": 10.5,
+   "edge": -0.018000000000000002,
+   "confidence": 0.656,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.07, 0.10, 0.10, 0.09). (0) Nothing shows the condition met. Reporting through Oct 2-3, 2026 has Díaz-Canel and Marrero governing normally: podcasts, public meetings, defending reforms. The PCC passed an economic reform package in June, and the military-run conglomerate GAESA is intact. (a) About 3 months remain until the Dec 31, 2026 deadline. (b) The status quo is No: the PCC keeps de facto control, no elections are due before 2028, and the Party Congress is postponed indefinitely. (c) NO scenario: the blockade, sanctions and repeated grid collapses grind on while the regime absorbs protests through repression. Trump's Sept 26 remark that he doesn't expect military action and that 'Cuba and us will make a deal' holds. Even a Raúl Castro death or a leadership reshuffle would preserve PCC control, as Venezuela's chavista structure survived Maduro's capture. (d) YES scenario: a U.S. strike or an insider-assisted operation on the Maduro model, perhaps coinciding with Raúl Castro's reported (unconfirmed) grave illness, fractures the party-military elite. A transitional authority would then take control of most of the population before year-end. I anchor on the Polymarket price of 10.5%, with no movement over 7 days and down 1 point over 30 days. I shade slightly lower for three reasons: Trump's explicit downplaying of military action, no confirmed defections or negotiations, and the short window against a 60-year record of failed collapse predictions. The related 'Díaz-Canel out' market at 12.5% should also sit above this one, since leader change is easier than regime change.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3780",
+   "has_trace": true
+  },
+  {
    "id": 3179,
    "scanned_at": "2026-09-19T10:35:27.308872",
    "date": "2026-09-19",
@@ -10552,6 +10566,20 @@
   }
  ],
  "Russia x Ukraine ceasefire by December 31, 2026?": [
+  {
+   "id": 3790,
+   "scanned_at": "2026-10-03T06:24:45.749852",
+   "date": "2026-10-03",
+   "agent": 10.1,
+   "market_price_t0": 11.5,
+   "edge": -0.013999999999999999,
+   "confidence": 0.7,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.08, 0.08, 0.12, 0.12, 0.12). (0) No source shows a qualifying ceasefire in effect. The May 2026 Victory Day and April Easter truces were short, and the May declarations were competing unilateral pauses that failed the mutual-agreement and 10-day rules, so nothing is resolved yet. (a) About 89 days remain until Dec 31, 2026. A ceasefire would need to start by roughly mid-to-late December to have a realistic chance of reaching 10 days, though the market stays open if one starts before the deadline. (b) The status quo is daily heavy fighting: 209 clashes on Sept 30, ongoing strikes on Kyiv, and Ukraine approving an expanded October deep-strike plan. If nothing changes, this resolves No. (c) No scenario: the October Abu Dhabi and Black Sea tracks yield at most sector-limited energy or shipping deals, which the rules explicitly exclude. Putin's Oct 1 Valdai rejection of even a narrow strikes truce holds, and a source close to the talks says no serious Russian concessions come before spring. (d) Yes scenario: a phased energy truce sticks, and Putin attends the December G20 in Miami. A Trump-brokered leader-level deal or an extended New Year/Christmas truce then becomes a general front-wide suspension that holds 10+ days. I anchor on Polymarket's 11.5%, which has been falling (-5% over 30 days). The 'agreement' sibling at 14% has different resolution terms, and Metaculus put roughly 15% back in July. Putin's explicit Oct 1 rejection and the purely sectoral scope of every live track justify shading a little below the market, to about 8%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3790",
+   "has_trace": true
+  },
   {
    "id": 3180,
    "scanned_at": "2026-09-19T11:19:24.952557",
@@ -11725,6 +11753,20 @@
  ],
  "Will Ukraine agree to cede territory to Russia before 2027?": [
   {
+   "id": 3794,
+   "scanned_at": "2026-10-03T07:11:41.609223",
+   "date": "2026-10-03",
+   "agent": 5.9,
+   "market_price_t0": 7,
+   "edge": -0.010999999999999996,
+   "confidence": 0.7220000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.04, 0.04, 0.07, 0.07, 0.07). (0) Resolution check: nothing shows a cession deal reached. As of Oct 2–3, 2026, the Commons Library, Kushner (Sept 11/20) and Zelensky's CBC and UNGA remarks all say territory is unresolved and Ukraine refuses to concede. (a) About 3 months remain until Dec 31, 2026, 11:59 PM ET. (b) Status quo is stalemate, with Russia demanding withdrawal from the rest of Donetsk and Ukraine refusing, which resolves NO. (c) NO path: the October UAE trilateral talks, still undated and focused on an energy-strike ceasefire, produce nothing on land. Russia keeps betting on conquering Donbas (a Kremlin source said there is \"zero chance\" of a frontline deal before then; ISW projects mid-2027). Ukraine's Rada-ratification and referendum requirements make a binding cession near-impossible this year. (d) YES path: Trump imposes a hard deadline and the revived Abu Dhabi channel revives Zelensky's December 2025 mutual-withdrawal/DMZ idea. A signed framework pulling Ukrainian troops from part of Donetsk would qualify under the Kumanovo-style de facto standard even without ratification. The market sits at 7% (bid 6/ask 8), and the related ceasefire-by-end-2026 market is 13.5%. A cession deal is a strictly harder bar than a ceasefire, and a pure line-freeze ceasefire likely would not count. Given no movement and the shrinking window, I shade slightly below the market to about 4.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3794",
+   "has_trace": true
+  },
+  {
    "id": 1876,
    "scanned_at": "2026-08-24T21:22:31.722452",
    "date": "2026-08-24",
@@ -12591,6 +12633,20 @@
  ],
  "Ukraine signs peace deal with Russia before 2027?": [
   {
+   "id": 3788,
+   "scanned_at": "2026-10-03T05:38:15.043261",
+   "date": "2026-10-03",
+   "agent": 7.6,
+   "market_price_t0": 8.5,
+   "edge": -0.008999999999999994,
+   "confidence": 0.708,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.07, 0.09, 0.09, 0.08). (0) Nothing qualifying has happened yet. The resolution-source read shows only the May 9–11 truce tied to a prisoner swap, which the rules explicitly exclude. No comprehensive or roadmap document signed by Ukraine with Russia as a party exists as of Oct 3, 2026.\n(a) About 3 months remain, until Dec 31, 2026 11:59 PM ET.\n(b) The status quo is No. Trilateral UAE talks are only \"accepted in principle\" for October, with no date set, and they focus on limited energy and Black Sea truces that would themselves fall under the exclusions.\n(c) NO scenario: Russia stalls through winter, expecting to take the rest of Donetsk. Any October talks produce at most a sector-limited truce, which does not qualify. Territory and security guarantees stay unresolved. Ukrainian officials themselves expect no serious talks before spring 2027.\n(d) YES scenario: US midterm-driven pressure and the existing near-complete draft (the 20-point framework and the Glavkom-reported text) let a December summit produce a signed framework or roadmap. That is a lower bar than a full treaty, and Ukraine's signature alone suffices.\nThe market anchor is 8.5% and drifting down (−5 points over 30 days). The looser ceasefire-by-Dec-31 market sits at 14%, consistent with a lower figure for a signed instrument. The Kremlin rejecting a G20 leader meeting and Trump privately doubting even an energy truce lean slightly below the market, so I price about 6.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3788",
+   "has_trace": true
+  },
+  {
    "id": 3168,
    "scanned_at": "2026-09-19T05:48:30.480816",
    "date": "2026-09-19",
@@ -12772,6 +12828,20 @@
   }
  ],
  "Will Hamas agree to disarm by December 31?": [
+  {
+   "id": 3783,
+   "scanned_at": "2026-10-03T04:07:14.698799",
+   "date": "2026-10-03",
+   "agent": 12.8,
+   "market_price_t0": 13.5,
+   "edge": -0.0069999999999999785,
+   "confidence": 0.6279999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.11, 0.11, 0.14, 0.14, 0.15). (0) The condition has not been met. Hamas accepted the Board of Peace decommissioning roadmap 'in principle' on July 30-31, 2026, and the price spiked to about 83.5%. The market was not resolved on that, and the price has since collapsed to 13.5%. That implies the July pledge, tied to Israeli withdrawal and statehood, is being treated as conditional and short of a formal policy directive. As of Oct 2 (Arab Center DC), Netanyahu has not approved the roadmap, the 14-day timetable talks have not started, and no handover has begun. (a) About 89 days remain until Dec 31, 2026. (b) Status quo is No: sequencing deadlock (Israel wants disarmament first, Hamas wants withdrawal first), ongoing IDF strikes, and reports of Hamas rearming. (c) NO: Netanyahu stalls through and after the Oct 27 election, the Nov 15 90-day target slips like earlier deadlines, and Hamas keeps its 'package' conditionality. (d) YES: a post-election Israeli green light starts the 14-day clock, and Hamas formally announces a first-phase handover (for example police weapons, or an inventory submission to the verification committee) that is widely reported as an instituted, staged disarmament process. Al-Hayya's late-September 'prepared to implement' remarks keep this path alive. I anchor on the 13.5% market, shade slightly lower for the falling trend (-9% over 30 days) and the strict 'no contingent plans' clause, and allow some upside for resolver leniency on a staged handover.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3783",
+   "has_trace": true
+  },
   {
    "id": 3216,
    "scanned_at": "2026-09-20T02:37:03.646923",
@@ -15242,7 +15312,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-02T19:56:52.897Z",
+  "last_sync": "2026-10-03T09:08:39.573Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -17227,6 +17297,20 @@
  ],
  "Will there be no change in Fed interest rates after the October 2026 meeting?": [
   {
+   "id": 3778,
+   "scanned_at": "2026-10-03T02:32:15.917029",
+   "date": "2026-10-03",
+   "agent": 82.8,
+   "market_price_t0": 82.5,
+   "edge": 0.0030000000000001137,
+   "confidence": 0.6980000000000001,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.83, 0.84, 0.82, 0.82, 0.82). ",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3778",
+   "has_trace": true
+  },
+  {
    "id": 3430,
    "scanned_at": "2026-09-25T16:46:01.410039",
    "date": "2026-09-25",
@@ -18096,6 +18180,20 @@
   }
  ],
  "Will the Rhine River return to normal levels between October 1 and October 31, 2026?": [
+  {
+   "id": 3796,
+   "scanned_at": "2026-10-03T07:57:37.536087",
+   "date": "2026-10-03",
+   "agent": 26.2,
+   "market_price_t0": 28.5,
+   "edge": -0.02300000000000002,
+   "confidence": 0.616,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.23, 0.24, 0.28, 0.28, 0.27). (0) The condition has not been met. PegelOnline shows Kaub at 9 cm on 3 Oct 09:45, and the last 15 days ranged from about 3 to 26 cm. The gauge set a record low of -6 cm on 1 Oct, so it would need to rise about 68 cm to reach 77 cm. (a) About 28 days remain, until 31 Oct (Berlin time). (b) If nothing changes, the river recovers slowly. ELWIS shows only single-digit values around 5 Oct. The BfG 14-day probabilistic forecast issued 2 Oct puts the chance the daily mean stays below 77 cm at 100% through about 10 Oct, easing to 92% by 15 Oct. That implies roughly 8% for a crossing by mid-October, with only extreme wet-tail ensemble members reaching 60-95 cm. (c) NO: the early-October rain pulses give only modest rises to 20-40 cm, and the second half of October lacks a basin-wide soaking. The catchment is deeply depleted after 74+ days below the threshold. As in 2018, recovery slips into November, which matches River Water Watch's 1% for this week versus 45% for November. (d) YES: a wetter-than-modeled system around 6-8 Oct, or a late-October Atlantic pattern shift, produces a fast multi-day rise. Even a single transient instantaneous reading of 77 cm counts. The BfG's earlier 6-week outlook named October as the earliest month to regain the threshold. I take about 8-10% by mid-October plus about 13-15% for the second half, giving roughly 23%. That is slightly below the market's 28.5% (the sister 'fail to return' market sits at 72.5%), because the latest official ensemble remains heavily skewed toward NO.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3796",
+   "has_trace": true
+  },
   {
    "id": 3377,
    "scanned_at": "2026-09-24T04:52:33.342325",
@@ -19304,6 +19402,86 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.22, 0.22, 0.24, 0.22, 0.22) after one crux research pass. (0) Resolution check: not met. The 2026 session produced no statewide moratorium. HB 1333 died in Senate Utilities, and the enacted HEA 1210 is revenue-sharing only. Trackers through late September 2026 list only local/county pauses (e.g., Indianapolis through 2027), which are excluded. (a) About 27 months remain, covering the 2027 long budget session (Jan-Apr) and a 2028 short session; Indiana has no citizen initiative, so only the legislature can act. (b) Status quo is No: no statewide bill is pre-filed, and the GOP trifecta (70-30 House, 39-10 Senate) controls hearings. (c) No: Gov. Braun keeps his stated July/September 2026 position that each county decides, plus ratepayer and water guardrails; leadership channels backlash into abatement reform and interconnection cost allocation, which are conditional measures that do not count. (d) Yes: local backlash (about a third of counties with moratoria or bans) becomes a 2028 election issue, and legislators pass a statute suspending approvals or interconnection for facilities over 100 MW until an objective condition is met. I price below the market's 0.375 because no state has yet enacted such a moratorium by statute (Maine vetoed; New York and Texas used executive orders, which do not count), the governor explicitly favors local option, and no 2027 bill exists. The long horizon and bipartisan grassroots salience keep a meaningful tail.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3738",
+   "has_trace": true
+  }
+ ],
+ "Will Ohio enact a data center moratorium by December 31, 2027?": [
+  {
+   "id": 3798,
+   "scanned_at": "2026-10-03T08:43:51.927614",
+   "date": "2026-10-03",
+   "agent": 20.5,
+   "market_price_t0": 24.5,
+   "edge": -0.03999999999999998,
+   "confidence": 0.5780000000000001,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.16, 0.16, 0.23, 0.24, 0.23). (0) Not met: no qualifying statewide law; no pending bill with mandatory statewide moratorium language (HB 646 is tax/water/NDA, stuck in Senate Energy); DeWine's pause covers tax exemptions only, which is excluded. (a) ~15 months remain to 2027-12-31; a new governor takes office Jan 2027 and the citizen initiative can reach voters no earlier than Nov 2, 2027. (b) Status quo is No: the GOP legislature hasn't passed even modest guardrails, and Rep. Click stripped draft moratorium language over home-rule concerns. (c) No: the 2027 legislature passes tax/cost measures, not a ban; Ramaswamy uses executive orders (which don't count) or Acton's conditional moratorium stalls; Conserve Ohio's volunteer drive can't get from ~130k raw signatures to the ~600k needed (413k valid, 44-county rule) by mid-2027. (d) Yes: the 25 MW amendment gets funded, qualifies for Nov 2027 and passes on 71% moratorium support, or cross-party populist pressure yields a statutory pause under the new governor. I put the ballot path at ~8% and the legislative path at ~6-8%; no state has yet enacted a qualifying statutory moratorium. Anchoring on the market's 24.5% (already down from 46.5%), I shade down because no concrete mechanism is currently on track.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3798",
+   "has_trace": true
+  }
+ ],
+ "Will OpenAI announce bankruptcy by December 31, 2027?": [
+  {
+   "id": 3785,
+   "scanned_at": "2026-10-03T04:52:34.307600",
+   "date": "2026-10-03",
+   "agent": 10.4,
+   "market_price_t0": 15.5,
+   "edge": -0.05099999999999999,
+   "confidence": 0.61,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.06, 0.15, 0.15, 0.09). (0) Nothing shows the condition met. The resolution source fetch failed, and every research thread found no filing, no statement of intent to file, and no credible-reporting consensus. (a) About 15 months remain, until Dec 31, 2027. (b) If nothing changes, the market resolves No. OpenAI held over $73B in cash and securities at Q1 2026, with quarterly burn of about $3.7B. SoftBank's final $10B tranche closed Oct 1, and OpenAI is negotiating a $30B+ bridge round at about $1.4T, framed as pre-IPO financing for 2027 rather than a rescue. (c) No scenario: the round closes or slips but capital keeps flowing, and the IPO goes ahead in 2027 or is delayed. Even a sharp AI downturn would more plausibly bring a down round, a restructuring of compute contracts or an acquisition by a hyperscaler than a bankruptcy filing within 15 months. (d) Yes scenario: credit contagion through SoftBank (CDS at a 3-year high, a $20B+ refinancing gap), Oracle (BBB-) or CoreWeave freezes OpenAI's financing and compute. That would collide with a projected $57B burn in 2027 and force a Chapter 11-style restructuring of its lease obligations before year-end 2027. The market anchor is 15%, roughly doubled in a week on the IPO delay and SoftBank CDS headlines. The sibling contracts barely rise with longer horizons (16.5% for 2028, 19.5% for 2029), which suggests longshot and sentiment premium rather than a coherent hazard rate. The base rate for a firm raising at rising valuations with a large cash cushion filing within 15 months is very low, and Manifold sits at about 5% for bankruptcy alone. I therefore shade well below the market to about 7%, keeping a tail for systemic AI-credit stress.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3785",
+   "has_trace": true
+  }
+ ],
+ "Will Alberto Núñez Feijóo be the next Prime Minister of Spain?": [
+  {
+   "id": 3775,
+   "scanned_at": "2026-10-03T01:45:12.283070",
+   "date": "2026-10-03",
+   "agent": 79.3,
+   "market_price_t0": 80.5,
+   "edge": -0.01200000000000001,
+   "confidence": 0.618,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.77, 0.78, 0.81, 0.81, 0.81). (0) Not resolved: Sánchez remains PM as of 2026-10-03, with no dissolution decree and no investiture; YES still needs an election, a PP+Vox majority, a coalition deal and a successful investiture by 31 Mar 2028. (a) About 18 months remain; an election is legally required by 22 Aug 2027, leaving time for one investiture attempt, though a failed attempt and repeat election would run close to the deadline. (b) Status quo is a snap election (29 Nov 2026 is widely reported after the 2 Oct housing-decree defeat) or one in 2027; PP leads PSOE by about 6 points in aggregates, SocioMétrica gives PP+Vox about 207 seats, and Feijóo calls a PP-Vox pact 'la única solución', with regional PP-Vox deals as precedent. (c) NO: the race tightens (More in Common has PP 28.7 vs PSOE 27), PP+Vox fall short of 176, PNV and Junts veto a Vox-inclusive government as in 2023, and Sánchez is re-invested or a repeat election runs past the deadline; a PP-Vox standoff over Vox ministries or Feijóo's replacement as leader are smaller risks. (d) YES: an election in Nov 2026 or mid-2027 gives the right bloc a clear majority and Feijóo is invested within one to two months. The 80.5% market price is consistent with the Sánchez market at about 14% plus a small 'Other' residual; I shade slightly down for coalition friction and narrowing polls.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3775",
+   "has_trace": true
+  }
+ ],
+ "Next Astra Model (6.1+) released by December 31, 2026?": [
+  {
+   "id": 3773,
+   "scanned_at": "2026-10-03T00:58:37.542332",
+   "date": "2026-10-03",
+   "agent": 76,
+   "market_price_t0": 90.5,
+   "edge": -0.14500000000000002,
+   "confidence": 0.568,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.75, 0.70, 0.78, 0.76, 0.81) after one crux research pass. (0) Resolution check: no source shows a qualifying release. OpenAI's pages returned 403 errors, but The Register, CNBC, WSJ and TechCrunch report that OpenAI shelved the planned October GPT-6.1 Astra on Sept 28 and shipped the non-qualifying GPT-6.1 Sol at DevDay instead. (a) About 89 days remain until the Dec 31, 2026 deadline. (b) Status quo is No: if nothing changes, no qualifying model ships. (c) No: OpenAI's 'pace the frontier' posture and safety-first statements from Altman persist, the shelved model's further training feeds other GPT-6 entries, and the next Astra slips into 2027 or is renamed. (d) Yes: the failures were narrow alignment regressions (deception, scope overreach); further RL passes fix them and a GPT-6.1 or 6.2 Astra ships in Nov-Dec, much as the August cyber pause on Astra cleared in under four weeks, consistent with OpenAI saying 'more Astra models are coming' and with competitive pressure. The market anchor is 90.5% with only a 3% drop after the shelving, and the Oct 31 contract at 16.5% shows traders expect a Nov-Dec release. The crux research shows 'very soon' was attached to other new models, not Astra, and no remediation timeline exists, so I shade meaningfully below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3773",
+   "has_trace": true
+  }
+ ],
+ "Iran leadership change by December 31?": [
+  {
+   "id": 3770,
+   "scanned_at": "2026-10-03T00:12:10.620637",
+   "date": "2026-10-03",
+   "agent": 11.6,
+   "market_price_t0": 11.5,
+   "edge": 0.000999999999999987,
+   "confidence": 0.606,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.12, 0.11, 0.12, 0.12, 0.12). (0) Resolution has not been met. As of Oct 3, 2026 no credible reporting shows Mojtaba Khamenei removed, dead, detained or replaced. Pezeshkian publicly affirmed on Sept 27 that he is healthy, and state media keep issuing written statements in his name. (a) About 89 days remain until the Dec 31 deadline. (b) If nothing changes, he stays the nominal and de facto leader, protected by regime denials and a transitional-council workaround, and the market resolves No. (c) No scenario: the US-Iran talks drag on, the IranWire-reported succession plan stays gated on a formal war end that never arrives, and Basij/IRGC factions that benefit from an absent leader block an Assembly of Experts vote. (d) Yes scenario: a deal via Qatari mediation, or a decisive US strike after Trump's 'very soon' decision, ends hostilities in Q4. Elites then move quickly (the March succession took about 9 days) to name a new leader or council, or a strike kills him, or his incapacity or death is revealed. The anchor is the Polymarket price of 11.5%, and the term structure is consistent: Oct 31 at 2.35%, Nov 30 at 5.5%, Jun 2027 at 22.5%. The sibling 'Iran leader end of 2026' market also implies about 12%. The IranWire succession-plan reporting from Sept 28 is real but already priced, and its trigger is unmet, so I stay near the market with a slight tilt up for the unverified-health tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3770",
    "has_trace": true
   }
  ]

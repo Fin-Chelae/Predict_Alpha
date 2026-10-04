@@ -1877,6 +1877,20 @@
  ],
  "Will the Republicans win the Ohio governor race in 2026?": [
   {
+   "id": 3858,
+   "scanned_at": "2026-10-04T04:09:06.987189",
+   "date": "2026-10-04",
+   "agent": 35.4,
+   "market_price_t0": 33.5,
+   "edge": 0.01899999999999996,
+   "confidence": 0.628,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.36, 0.37, 0.34, 0.34, 0.37). (0) Not resolved: the election is November 3, 2026, with no AP/Fox/NBC call, so Ramaswamy must still win and be called. (a) About one month remains; early voting starts October 6. (b) Status quo favors Acton narrowly: Suffolk +9, Marist +6, BGSU +3 and the RCP average D+1 to +3; Cook, Sabato and Inside Elections all rate it Toss-up; Trump's Ohio net approval is about -14 to -16 in a bad Republican environment; Kalshi reportedly had Acton near 61%. (c) NO: Acton's lead with independents and enthusiasm holds and she wins by a few points. (d) YES: Ohio polls undershoot Republicans again, as in 2024 (about 2 points), and Ramaswamy's large money and ad advantage plus Acton's debate refusal tip late deciders; Pollsmax's fundamentals model still gives him 74%. Anchoring on the 33.5% market, an adjusted D+2 margin with typical error implies about 35% for Republicans; I shade slightly up for Ohio's polling-error history.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3858",
+   "has_trace": true
+  },
+  {
    "id": 1898,
    "url": "https://forecast.agenticlearning.ai/scans/v2/1898",
    "date": "2026-08-25",
@@ -3715,6 +3729,20 @@
  ],
  "Will the Republicans win the Nebraska Senate race in 2026?": [
   {
+   "id": 3830,
+   "scanned_at": "2026-10-03T19:02:20.535852",
+   "date": "2026-10-03",
+   "agent": 73,
+   "market_price_t0": 72.5,
+   "edge": 0.0050000000000000044,
+   "confidence": 0.618,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.73, 0.74, 0.72, 0.72, 0.73). (0) The race is not resolved. The election is on Nov 3, 2026, and the resolution-source read shows only primaries and pre-election ratings, with no AP, Fox or NBC call. (a) About one month remains until Election Day; the market closes Nov 4. (b) Status quo: Ricketts is the Republican incumbent in an R+10 state. Republicans have not lost a Senate race here since 2006. Every major rater has it Likely or Solid R, and he has a large late ad-spending edge (about $8M booked vs $1.5M for Osborn's side) plus a Trump rally. All of that points to a Republican hold. (c) NO: the tied-to-Osborn+1 polling (FiftyPlusOne, SurveyUSA Osborn +4, GBAO Osborn +1) holds up. A Democratic-leaning midterm environment (Polymarket gives Democrats about 64.5% to control the Senate) and Ricketts' weak favorability let Osborn win nonpartisans and enough Republicans. (d) YES: as in 2024, when similar close polls preceded a roughly 7-point Fischer win, polls understate Republicans. The money advantage and the fresh 'lives probably suck' audio controversy then push Ricketts to a mid-single-digit win. I anchor on Polymarket's 72.5% (last close 74%), which Kalshi's roughly 73-74% matches. The 2024 polling-miss precedent and the Democratic-leaning environment roughly offset each other, so I stay near the market at 73%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3830",
+   "has_trace": true
+  },
+  {
    "id": 2957,
    "scanned_at": "2026-09-15T04:59:08.880074",
    "date": "2026-09-15",
@@ -5091,6 +5119,20 @@
  ],
  "Will Waymo operate in 12-15 cities on December 31 2026?": [
   {
+   "id": 3838,
+   "scanned_at": "2026-10-03T21:35:11.240632",
+   "date": "2026-10-03",
+   "agent": 52.8,
+   "market_price_t0": 51.8,
+   "edge": 0.009200000000000097,
+   "confidence": 0.544,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.57, 0.55, 0.52, 0.52, 0.48). (0) Not resolved: Waymo's official 'Serving Riders In' list (direct fetch 2026-10-03) shows exactly 15 cities/regions, corroborated by trackers (Sept 24) and local press (Oct 2). That is inside but at the top edge of the 12-15 band, and must hold on the Dec 31 snapshot. (a) About 89 days remain. (b) Status quo of 15 resolves Yes; any single Up Next launch flips it to No. (c) No: Waymo keeps its fast 2026 cadence (10 to 15 metros Feb-Sept) and pushes toward its repeated 20+ cities by year-end goal. Philadelphia, Detroit or Seattle goes fully public in Q4, making 16. A smaller tail is a multi-city pause or invite-only treatment of gradual launches dropping the count below 12. (d) Yes: Q4 is consolidation (Nashville depot opening), and DC (2028), NYC (lapsed permit) and Chicago (no AV law) stay blocked. Seattle, Philadelphia and Detroit have no announced dates, so the count holds at 15. Market anchor is 51.85%. Sibling markets look inconsistent ('fewer than 12' at ~39% despite 15 live; '16-19' at ~5%), suggesting stale or thin pricing. My decomposition is ~35-40% chance of a new launch and ~4% of falling below 12, putting Yes modestly above the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3838",
+   "has_trace": true
+  },
+  {
    "id": 3030,
    "scanned_at": "2026-09-16T16:54:10.588543",
    "date": "2026-09-16",
@@ -5134,6 +5176,20 @@
   }
  ],
  "Will the upper bound of the target federal funds rate be ≥ 4.5% at the end of 2026?": [
+  {
+   "id": 3848,
+   "scanned_at": "2026-10-04T00:55:12.373666",
+   "date": "2026-10-04",
+   "agent": 12.1,
+   "market_price_t0": 16.1,
+   "edge": -0.03950000000000001,
+   "confidence": 0.6775,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.11, 0.13, 0.13, 0.12). (0) Not met: the FRED DFEDTARU series shows the upper bound at 4.00% as of 2026-10-03 after the Sept 16 hike, so ≥4.50% needs 50bp more via hikes at both the Oct 27-28 and Dec 8-9 meetings, or a 50bp single move. (a) About 9-10 weeks and two scheduled FOMC decisions remain. (b) Status quo is 4.00%, which resolves NO; the modal path is one December hike to 4.25% (September median dot, Williams' 'one further upward adjustment late this year', Jefferson's 'no urgency'), also NO. (c) NO: October hold confirmed (October hike odds fell from ~70% to ~18-23% after Williams; weak +29K payrolls), then 25bp or nothing in December. (d) YES: hot inflation nowcasts (core PCE ~3%, Q4 CPI pace ~4%) and Logan's push for 50bp+ lead the FOMC to override troika guidance and hike in October and again in December, or less likely jump 50bp in December. Rough math: P(Oct hike) ~0.2 x P(Dec hike given Oct hike) ~0.5 ≈ 0.10, plus ~0.01-0.02 for a 50bp move, giving ~11%, slightly under the Polymarket anchor of 12.7% (bid/ask 12/14), which has already repriced sharply this week; no strong edge.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3848",
+   "has_trace": true
+  },
   {
    "id": 2965,
    "scanned_at": "2026-09-15T09:50:41.210491",
@@ -5624,6 +5680,20 @@
   }
  ],
  "Will inflation reach more than 5% in 2026?": [
+  {
+   "id": 3850,
+   "scanned_at": "2026-10-04T01:41:51.960996",
+   "date": "2026-10-04",
+   "agent": 7.6,
+   "market_price_t0": 8,
+   "edge": -0.00399999999999999,
+   "confidence": 0.682,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.08, 0.06, 0.08, 0.08, 0.08). (0) Not met: BLS shows August 2026 CPI at 3.4% y/y, and the 2026 peak was 4.2% in May. YES needs a 5.1%+ print in the Sep, Oct, Nov or Dec 2026 data. (a) Three releases remain before close (Oct 14, Nov 10, Dec 10), plus the December data in mid-January 2027. (b) Status quo is NO: September consensus is 3.6-3.7%, and SPF/FOMC forecasts put 2026 near 3.5-3.6%. (c) NO: the G7 reserve release, a cooling labor market (29k payrolls) and Fed hikes keep headline CPI at 3-4%. (d) YES: the Hormuz and refined-product shock escalates and gasoline rises well past $4.4. Low Nov/Dec 2025 base index levels (~324.1) mean about +1.65% NSA cumulative from August would push November 2026 above 5.05%. That requires roughly 0.6-0.7% SA monthly in Oct-Nov, which is plausible only with a further large energy jump. The live oil shock is a real tail risk, so I stay at the Polymarket anchor of 8%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3850",
+   "has_trace": true
+  },
   {
    "id": 2987,
    "scanned_at": "2026-09-15T19:18:52.654398",
@@ -10265,6 +10335,20 @@
  ],
  "OpenAI announces it has achieved AGI before 2027?": [
   {
+   "id": 3871,
+   "scanned_at": "2026-10-04T08:04:42.806848",
+   "date": "2026-10-04",
+   "agent": 19,
+   "market_price_t0": 16.5,
+   "edge": 0.024999999999999994,
+   "confidence": 0.562,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.15, 0.14, 0.24, 0.25, 0.17). (0) The condition has not been met. The resolution-source fetch failed, but the research found no formal OpenAI declaration. Brockman's 'Welcome to the AGI era' (Sep 3) was framed as a personal belief, and the market is still trading at 16.5%, so traders evidently did not treat it as resolving. (a) About 3 months remain until Dec 31, 2026. (b) Status quo is No: OpenAI keeps hedging ('not quite yet'), and DevDay (Sep 29–Oct 2) brought no AGI claim. (c) No scenario: safety incidents keep pausing frontier training runs (Sept 25). IPO caution, the defused Microsoft AGI clause and the opaque expert-verification panel give OpenAI little reason to make a crisp claim, and the year ends with more 'personal' or 'AGI era' rhetoric short of an official announcement. (d) Yes scenario: Altman follows through on his TIME statement (Aug 26) that he would call an internal system AGI by year-end, through a December blog post or interview. Credible outlets report it as OpenAI declaring AGI, and loose resolution wording ('official representative', 'consensus of credible reporting') lets Polymarket resolve Yes. That explicit dated commitment from the CEO is the main tail risk and keeps this well above the near-zero base rate. I anchor on the 16.5% market, which has been drifting down. I shade slightly lower because of the training pauses and Altman's history of walking back hype, while keeping meaningful weight on resolution-interpretation risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3871",
+   "has_trace": true
+  },
+  {
    "id": 3019,
    "scanned_at": "2026-09-16T11:21:08.414283",
    "date": "2026-09-16",
@@ -11052,6 +11136,20 @@
   }
  ],
  "Billionaire one-time wealth tax passes in California election 2026?": [
+  {
+   "id": 3866,
+   "scanned_at": "2026-10-04T06:29:51.127160",
+   "date": "2026-10-04",
+   "agent": 33.6,
+   "market_price_t0": 30.5,
+   "edge": 0.031000000000000028,
+   "confidence": 0.5860000000000001,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.31, 0.28, 0.40, 0.39, 0.30). (0) Not resolved yet. The Secretary of State lists Prop 40, a one-time 5% tax on net worth of $1B or more, as qualified for the November 3, 2026 ballot. That satisfies the certification condition. Passage is still pending, and nothing shows the measure has been removed or amended.\n\n(a) About one month remains until the November 3 vote, and mail ballots go out around October 5.\n\n(b) The status quo is a measure leading narrowly in polls. Recent readings range widely:\n- PPIC: 52–46\n- NBC/Telemundo: 48–38\n- Politico/Citrin: 45–43\n- Berkeley IGS: about +3\nSupport is below 50% in several of these, and the trend is downward from a large spring lead.\n\n(c) NO scenario: the $200M+ opposition (against roughly $36M in support), Newsom's opposition, and the usual late fade in initiative support push Yes under 50%. Prop 30 in 2022 is the precedent: it polled 55% in September and lost 42–58. Separately, Prop 41 or 42 could outpoll 40 and void it, which creates an interpretation risk even if 40 gets a majority.\n\n(d) YES scenario: high Democratic turnout from the governor's race, the state Democratic Party endorsement, and about 72% Democratic support carry Prop 40 to a bare majority.\n\nOn interpretation, the market's wording 'passes' most plausibly means a majority Yes vote, so nullification by 41/42 is a secondary risk rather than an automatic NO. Overall, the historical fade pattern and the spending gap make a majority Yes somewhat less likely than not. That is consistent with the market's 30.5%, and I stay close to that anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3866",
+   "has_trace": true
+  },
   {
    "id": 2992,
    "scanned_at": "2026-09-15T21:41:59.585430",
@@ -15410,7 +15508,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-03T18:41:05.257Z",
+  "last_sync": "2026-10-04T09:47:05.949Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -16337,6 +16435,20 @@
  ],
  "Will the peak RONI for the 2026–27 El Niño be 2.5 or above?": [
   {
+   "id": 3868,
+   "scanned_at": "2026-10-04T07:15:39.955877",
+   "date": "2026-10-04",
+   "agent": 74.8,
+   "market_price_t0": 73.5,
+   "edge": 0.013000000000000012,
+   "confidence": 0.6679999999999999,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.76, 0.76, 0.73, 0.73, 0.75). (0) Not resolved yet. CPC's RONI table runs only through JAS 2026 (+1.7°C), and none of the listed seasons (ASO through DJF) has been published. The first, ASO, is due in early November. (a) The window runs about six months, to DJF 2026-27 publication around early March 2027; OND, published around early January, is the decisive season. (b) If nothing changes, the published values so far are below 2.5, but the trajectory is sharply upward: weekly RONI reached +2.0 in mid-September and conventional Niño-3.4 was about +3.1°C in late September. (c) NO path: RONI's detrending keeps the peak near 2.3-2.4, like 1997-98 and 2015-16. CPC's own percentile table puts the OND and NDJ 25th percentiles below 2.5, and ASO and SON are unlikely to clear the bar. (d) YES path: warming continues as the 22-model IRI consensus and WMO's roughly +3.6°C SON Niño-3.4 mean imply. OND or NDJ then prints ≥2.5, near CPC's median path of +2.67 and +2.57. One assumption, not confirmed by the research: CPC publishes RONI to one decimal, so a seasonal value of about 2.45 or higher would appear as 2.5 and give a modest boost. The market anchor is 73.5%, while CPC gives 75% for OND alone. Taking the maximum across correlated seasons adds a few points. The low historical base rate (only 1982-83 reached 2.5) and the risk of forecast busts argue for staying near CPC rather than above it. I set Yes slightly above the market at 0.76.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3868",
+   "has_trace": true
+  },
+  {
    "id": 3206,
    "scanned_at": "2026-09-19T22:32:25.005927",
    "date": "2026-09-19",
@@ -17251,6 +17363,20 @@
  ],
  "Meta's Watermelon released by October 31, 2026?": [
   {
+   "id": 3873,
+   "scanned_at": "2026-10-04T08:49:53.177662",
+   "date": "2026-10-04",
+   "agent": 62,
+   "market_price_t0": 68.5,
+   "edge": -0.06500000000000006,
+   "confidence": 0.512,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.57, 0.60, 0.69, 0.69, 0.56). (0) No source shows Watermelon released or publicly accessible as of Oct 4; Meta's Sept 2 blog only teases 'bigger models.' (a) About four weeks remain until the Oct 31 ET deadline. (b) Status quo is No. (c) No: the July pre-training pause pushes launch past October; Meta Connect passed with no frontier model, the Muse Spark 1.2 open-weights promise is 45+ days overdue, Behemoth never shipped and Avocado slipped a quarter; a closed beta would not count. (d) Yes: Meta hits The Information's Aug 25 internal October target, which Wang reportedly called 'on track' on Sept 3; MSL ships fast, Meta publicly teased bigger models, an open waitlist qualifies, and the Oct 7 daily market at 14% hints at a rumored date. Anchor is the 68.5% Polymarket price (bid 63/ask 74); I shade down because every October claim traces to one leak and there is no news after late September.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3873",
+   "has_trace": true
+  },
+  {
    "id": 3026,
    "scanned_at": "2026-09-16T14:32:58.692144",
    "date": "2026-09-16",
@@ -17439,6 +17565,20 @@
  ],
  "Will Apple release a new product line before 2027?": [
   {
+   "id": 3835,
+   "scanned_at": "2026-10-03T20:48:37.165769",
+   "date": "2026-10-03",
+   "agent": 44.1,
+   "market_price_t0": 39.5,
+   "edge": 0.045999999999999985,
+   "confidence": 0.526,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.47, 0.47, 0.46, 0.40, 0.41). (0) Not resolved yet. As of Oct 3, Apple has posted no Newsroom announcement, press release or event invitation for any new-category product. YES still needs Apple to announce and launch something that Polymarket's resolvers accept as a category Apple has never sold, by Dec 31, 2026. (a) That leaves about 3 months. (b) Status quo: no qualifying product exists today, so a slip or a cancellation means NO. (d) YES scenario: Bloomberg/Gurman (Sept 30) report that Apple will unveil an all-new smart-home hub with a 6-inch display on Oct 13. This is corroborated by retail 'Do Not Open Until October 8' boxes, colour leaks and code findings, and Bloomberg itself calls it a new product category. Resolvers would then treat it as Apple's first smart display, distinct from the HomePod speaker. (c) NO scenario: the launch slips into 2027, which fits the earlier 'October to early next year' framing and three prior delays. Or, more likely, it launches but resolvers call it an extension of the HomePod/HomeKit line, especially if it carries HomePod branding. The rules' examples (robot, console) set a high bar, and Quartz framed it as Apple entering an existing category. I put launch by year-end at roughly 85%. Whether a launched hub counts is genuinely contestable, roughly 55% likely. That gives about 47%, a bit above the market's 39.5%. The market jumped 17.5 points this week on the Bloomberg news, and I suspect traders are slightly over-discounting the classification question given Bloomberg's 'new category' framing.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3835",
+   "has_trace": true
+  },
+  {
    "id": 3084,
    "scanned_at": "2026-09-17T17:45:31.039219",
    "date": "2026-09-17",
@@ -17454,6 +17594,20 @@
   }
  ],
  "Will Alibaba have the best Chinese AI model at the end of October 2026?": [
+  {
+   "id": 3840,
+   "scanned_at": "2026-10-03T22:26:19.036657",
+   "date": "2026-10-03",
+   "agent": 28.6,
+   "market_price_t0": 31,
+   "edge": -0.023999999999999966,
+   "confidence": 0.594,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.27, 0.27, 0.30, 0.30, 0.29). (0) The market is not resolved. The Oct 2 snapshot of the resolution source (arena.ai Text Overall, no style control) shows Xiaomi's mimo-v2.6-pro at rank 10 (1491) ahead of Alibaba's qwen3.8-max at rank 16 (1482). For YES, an Alibaba model must top all primarily Chinese models on that board at the Oct 31 12:00 PM ET check. (a) About 28 days remain. (b) If nothing changes, Xiaomi stays the top Chinese model and the market resolves NO. A ~9-point, six-rank gap is unlikely to close through vote drift alone. (c) NO scenario: Qwen 4 slips to November or later, as one tracker's late-2026/early-2027 estimate allows. Or it ships only as a preview, or still shows AutoEval or no rank at check time, or it lands below MiMo or a new Kimi/GLM/DeepSeek release. (d) YES scenario: Alibaba ships Qwen 4 Max in October, as it signalled at Apsara on Sept 22 ('very soon'). Arena ranks it quickly, as often happens with pre-release anonymous testing, and it places above rank 10. A silent Qwen3.8-Max refresh like the 0902 snapshot, but on the Text board, is a lesser path. A cited prediction market gave Qwen 4 74% odds of launching before November, but its 44% 'before October' leg has already failed. That implies roughly 50% conditional odds of an October launch. Multiplying by the chance it is ranked in time and also beats Xiaomi and others gives about 25-30%. This matches the 30% Polymarket anchor, so I shade slightly below it given the release timing uncertainty.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3840",
+   "has_trace": true
+  },
   {
    "id": 3472,
    "scanned_at": "2026-09-26T21:40:03.112505",
@@ -17934,6 +18088,20 @@
   }
  ],
  "Will Puma Shen win the next Taipei Mayor election?": [
+  {
+   "id": 3845,
+   "scanned_at": "2026-10-04T00:08:11.589876",
+   "date": "2026-10-04",
+   "agent": 20.7,
+   "market_price_t0": 20.7,
+   "edge": -0.00019999999999997797,
+   "confidence": 0.556,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.20, 0.20, 0.21, 0.21, 0.22). (0) The question is not resolved. The election is on Nov 28, 2026, the CEC source could not be fetched, and no result exists yet. (a) About 8 weeks remain until the vote, and the result will be known that night. (b) If nothing changes, incumbent Chiang Wan-an is favored. Taipei has elected a DPP mayor only once since 1994, and that was through a three-way split. The TPP is not running against Chiang, and KMT incumbents have historically won re-election 56-64%. (c) NO scenario: Chiang's shrunken but intact lead holds. KMT internal polls still reportedly show a double-digit lead. He avoids risky debates, and the drug-policy attack line plus the strong blue base in districts like Xinyi deliver a comfortable win. Voters' own expectations in the Sept 22 poll favor Chiang 57.8% to 21.3%. (d) YES scenario: Shen's 'ocean current' momentum is real and converts to turnout among 20-49-year-olds. That momentum shows in the 41.7-40.5 Sept 22 poll, an online tracker putting Shen up 50.1-41.4, a positive net favorability, and Chiang's sugarcane gaffe. Further incumbent missteps or a strong debate showing could then flip the race. The Sept 22 poll comes from a DPP-leaning pollster, and the tracker is non-random, so I discount both. I anchor on the Polymarket price of ~20.7%, which has already risen 13 points in 30 days to reflect this momentum. The research shows nothing the market hasn't priced, so I stay near the anchor at 20%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3845",
+   "has_trace": true
+  },
   {
    "id": 3291,
    "scanned_at": "2026-09-21T17:07:53.446932",
@@ -18465,6 +18633,20 @@
  ],
  "Will the Republicans win the Kansas Senate race in 2026?": [
   {
+   "id": 3843,
+   "scanned_at": "2026-10-03T23:16:24.252118",
+   "date": "2026-10-03",
+   "agent": 65.2,
+   "market_price_t0": 66.5,
+   "edge": -0.013000000000000012,
+   "confidence": 0.604,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.64, 0.64, 0.67, 0.67, 0.65). (0) Not resolved. The resolution-source read covers only the August 4 primaries, where Marshall won 79.9% and Hamilton won the Democratic nomination. The November 3 general election has not happened, and no AP/Fox/NBC call exists. (a) About one month remains until election day, with calls likely on or shortly after November 3. (b) Status quo: Polymarket prices Marshall at 66.5%, down 14.5 points over 30 days. Fundamentals models still favor him: DDHQ at 77% and Pollsmax at about 90%. Kansas was Trump +16 in 2024 and has not elected a Democrat to the Senate since 1932. (c) NO: the NYT medical-debt story and Hamilton's arrested-pregnant-patient ad keep dominating coverage. The D+8 national environment holds, and the defections of former GOP governors Graves and Hayden give cover to moderate Republicans. Hamilton turns his tied or slightly leading polls into a narrow win. Supporting this are the Emerson 45-43, Wedgewood 50-48 and DAGA/GSG 47-43 results, and the Trafalgar poll showing a tie. (d) YES: the Senate Leadership Fund's $8M+ buy, Trump's endorsement, the roughly 395k Republican registration edge and undecideds breaking to partisanship lift Marshall. That would echo 2020, when close polls preceded an 11-point win. I stay slightly below the market. The latest polling and the GOP shifting money out of North Carolina point to real erosion, and Polymarket's 64.5% Democratic Senate-control price implies red-state upsets like this one are in play. Against that, deep-red polling has historically undercounted Republicans, and one of the Hamilton-favorable polls is partisan.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3843",
+   "has_trace": true
+  },
+  {
    "id": 3412,
    "scanned_at": "2026-09-25T04:51:24.573303",
    "date": "2026-09-25",
@@ -18716,6 +18898,20 @@
   }
  ],
  "Will Student List – Students Win win the most seats in the 2026 Serbian parliamentary election?": [
+  {
+   "id": 3860,
+   "scanned_at": "2026-10-04T04:55:07.262010",
+   "date": "2026-10-04",
+   "agent": 33.9,
+   "market_price_t0": 34.5,
+   "edge": -0.006000000000000005,
+   "confidence": 0.53,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.33, 0.33, 0.34, 0.34, 0.34). (0) Not resolved. The election is on 25 October 2026, and the RIK homepage shows no results, so the Student List still has to out-seat Vučić's United Serbia list at the vote and have that certified. (a) About three weeks remain until the vote, which is also when trading closes; certification follows shortly after. (b) On the status quo, the last published multi-list poll (Faktor Plus, 16–20 Sep) has United Serbia at 48.6% and the Student List at 37.1%. SNS also has a 14-year winning streak, dominates the media and benefits from d'Hondt seat conversion, so No is the default. (c) No path: the government-aligned pollsters prove roughly right, tabloid attacks on Srdanović and state resources hold SNS turnout, and residual opposition and minority lists dilute the anti-SNS vote. SNS wins a plurality or majority of seats, or contested counting preserves its lead. (d) Yes path: the independent CRTA series is accurate (Student List ahead 44.9–35.7 in July; 57.9–42.1 in a late-September two-bloc scenario), consolidation behind the single student list holds, and protest-driven turnout surges, as when independent pollsters outperformed in Hungary. Pollster house effects are huge and unresolved, which keeps real uncertainty. The Polymarket anchor of 34.5% (sibling United Serbia contract at 66.5%) fairly reflects this split. I shade slightly lower for SNS's institutional and counting advantages and the small risk of delay or 'Other', but find no unpriced information to justify a bigger move.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3860",
+   "has_trace": true
+  },
   {
    "id": 3454,
    "scanned_at": "2026-09-26T09:41:22.270596",
@@ -19656,6 +19852,86 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.05, 0.05, 0.10, 0.10, 0.08). (0) Resolution check: nothing indicates the condition has been met. The resolution source page returned a 404, and the research found no bankruptcy statement, no restructuring counsel, and no going-concern opinion as of early October 2026. (a) About 15 months remain until the December 31, 2027 deadline. (b) If nothing changes, the answer is No. Per the Q2 2026 10-Q/8-K, NuScale holds about $1.9B in cash and investments, has essentially no debt, total liabilities of about $35M, and a current ratio near 38. It also has a fresh $750M ATM program on top of the earlier sales. (c) NO scenario: burn runs at $150-200M a quarter, and even the harshest outside forecasts (Vireo at ~$750M/yr, UBS at $700M over 2026-28) leave hundreds of millions to over $1B of cash at the deadline. With no creditors able to force a filing, dilution continues and the company survives. (d) YES scenario: TVA withdraws, RoPower collapses, a large ENTRA1-related milestone outlay or a litigation settlement drains cash, and equity markets close. Management then concludes a wind-down or Chapter 11 is needed before end-2027. That is mechanically hard to reach within 15 months from a $1.9B debt-free position. The Polymarket anchor of 13.5% looks inflated by longshot bias and the recent panic: it traded as high as 49% and is down 35 points in 30 days. The 2023 Iceberg 'bankruptcy' call also failed to materialize. I shade well below the market to about 5%, keeping some weight on tail risks such as contingent milestone obligations I can't fully verify and a severe capital-markets shock.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3804",
+   "has_trace": true
+  }
+ ],
+ "Will the Democrats win the Texas Senate race in 2026?": [
+  {
+   "id": 3876,
+   "scanned_at": "2026-10-04T09:36:58.447698",
+   "date": "2026-10-04",
+   "agent": 61.8,
+   "market_price_t0": 63.5,
+   "edge": -0.017000000000000015,
+   "confidence": 0.596,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.60, 0.60, 0.64, 0.64, 0.62). (0) The race is not resolved. The general election is Nov. 3, 2026, and no AP, Fox or NBC call exists yet. Paxton (R) and Talarico (D) are the confirmed nominees with no replacements reported. (a) About 30 days remain: early voting starts Oct. 19, Election Day is Nov. 3, and trading closes Nov. 4 with no general-election runoff. (b) Status quo: Talarico holds a narrow but persistent lead in nonpartisan polls. Six of eight September polls had him ahead by 1-6 points, Marist has him +6 among registered voters, Fox +2 among likely voters, and the Texas Tribune tracker +2. He also has a large cash advantage and a weak Trump approval in Texas (about 37%). Polymarket prices this at 63.5% and Kalshi's equivalent market at about 64%, two crowds that agree. (c) NO: Texas polls have historically understated Republicans (2018, 2020, 2024), and Republicans enjoy a likely-voter turnout edge. The $122M September GOP ad blitz on transgender issues keeps nudging the margin down, as the tracker's 3-to-2 point narrowing shows. Undecideds break to Paxton and he wins by 2-4 points, extending the GOP streak that dates to 1988, consistent with the Pollsmax and PoliAgg models (about 75% R). (d) YES: a D-leaning midterm environment holds (the House market prices Democrats at 93.5%), Paxton's scandals cap his support among suburban Republicans, and Talarico's spending edge holds a 2-4 point lead, as the Silver Bulletin's roughly 60-70% D estimate implies. I shade slightly below the 63.5% anchor because of Texas's documented pro-Republican polling error and the narrowing trend, but keep Yes favored given the consistent poll leads and the national environment.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3876",
+   "has_trace": true
+  }
+ ],
+ "Will Predict.fun launch a token by December 31, 2026?": [
+  {
+   "id": 3864,
+   "scanned_at": "2026-10-04T05:44:02.519865",
+   "date": "2026-10-04",
+   "agent": 41.6,
+   "market_price_t0": 45,
+   "edge": -0.033999999999999975,
+   "confidence": 0.5519999999999999,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.39, 0.37, 0.45, 0.45, 0.42). (0) No source shows the condition met: predict.fun's homepage, DropsTab, airdrops.io and cryptorank all show no token or TGE date, so a transferable, tradable governance token would still have to launch before Dec 31. (a) About 88 days remain. (b) Status quo is NO: about 20 official posts from Dec 2025 to Sept 23, 2026 never mention a token, tokenomics, ticker or listing, and August rewards were still paid in USDT and points. (c) NO: the team stays product-first and runs points into 2027, the window the sibling strikes favour (61.5% by Mar 2027, 83% by Dec 2027). (d) YES: a points-to-token conversion is announced in Q4 and listed quickly via the Binance ecosystem, supported by a YZi Labs backer, Susquehanna as a token market-maker, Binance Wallet integration, about $4.6B in volume and 10M points weekly. The market sits at 45% after rising 17.5% in 30 days and falling 10.5% in the last week, suggesting fading rumours. With zero official groundwork found, I shade modestly below the market but keep weight on the chance the research missed recent X announcements.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3864",
+   "has_trace": true
+  }
+ ],
+ "Trump, Putin, and Xi seen together before 2027?": [
+  {
+   "id": 3855,
+   "scanned_at": "2026-10-04T03:21:37.480433",
+   "date": "2026-10-04",
+   "agent": 76,
+   "market_price_t0": 77.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.646,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.72, 0.74, 0.78, 0.78, 0.79). (0) No source shows a Trump-Putin-Xi joint frame yet; the White House images are separate bilateral photos, so the condition is not met. (a) About three months remain until Dec 31, with the decisive window at APEC Shenzhen on Nov 18-19, which Xi hosts. (b) Status quo plans put all three in Shenzhen: Bloomberg, Ushakov, Chinese MFA (Oct 3-4) and Putin at Valdai all point to Putin attending, and Trump posted he plans to attend. APEC family photos (Danang 2017) and the Osaka 2019 G20 photo have put the three in one frame before. (c) NO: Trump skips or leaves early, as at Gyeongju 2025, or the Taiwan arms decision sours the trip; or Putin cancels; or no trilateral meeting or family photo occurs. Miami G20 is a weak backup since the Kremlin says Putin won't attend in person. (d) YES: both attend Shenzhen and Xi convenes the trilateral Ushakov said he would likely push for, or the family photo or gala captures all three. Multiplying attendance and same-frame odds (~0.85 x 0.9 x 0.9) gives about 0.69 plus small residuals. I shade slightly below the 77.5% market because the single venue is a point of failure and Trump has a record of skipping APEC.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3855",
+   "has_trace": true
+  }
+ ],
+ "Saudi troops fighting in Yemen by December 31, 2026?": [
+  {
+   "id": 3853,
+   "scanned_at": "2026-10-04T02:29:00.702135",
+   "date": "2026-10-04",
+   "agent": 22.2,
+   "market_price_t0": 25.5,
+   "edge": -0.032999999999999974,
+   "confidence": 0.596,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.20, 0.19, 0.26, 0.26, 0.21). (0) Resolution check: the condition is not met. No Saudi MoD statement and no credible reporting shows acknowledged regular Saudi troops in ground combat inside Yemen. The resolution-source fetch returned nothing relevant, and the Wikipedia tracker lists only Saudi air and air-defense units. (a) About 88 days remain until the December 31, 2026 deadline. (b) Status quo is No: Reuters/Defense News (six officials) and Axios (US officials) describe the planned Bab el-Mandeb counteroffensive as Yemeni-manned and 'overseen by Riyadh' with Saudi air cover. Riyadh keeps lobbying Washington for airstrikes rather than committing its own infantry, and its 2016 precedent is to deny ground deployment. (c) No scenario: the offensive launches in October or after the US midterms, Yemeni PLC factions do the ground fighting under Saudi air cover, and any embedded Saudi special forces or JTACs stay deniable or are classed as support. (d) Yes scenario: Yemeni forces underperform, or embedded Saudi special forces, JTAC or artillery teams (one Al Jazeera opinion piece mentions a Saudi task force at Mokha) clash with Houthis and credible outlets report it, or Riyadh openly commits land units to retake the strait. Houthi buildup near Saada also makes cross-border escalation possible. The market's 25.5% (up 9 points this week on the offensive news) prices this tail. Given the high acknowledgment bar and the uniform 'Yemeni-led' framing in fresh reporting, I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3853",
+   "has_trace": true
+  }
+ ],
+ "Will CoreWeave announce bankruptcy by December 31, 2027?": [
+  {
+   "id": 3833,
+   "scanned_at": "2026-10-03T19:55:53.767363",
+   "date": "2026-10-03",
+   "agent": 9.6,
+   "market_price_t0": 11.5,
+   "edge": -0.019000000000000003,
+   "confidence": 0.61,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.07, 0.12, 0.12, 0.10). (0) Resolution check: no source shows a bankruptcy announcement, missed payment, covenant breach or restructuring-advisor hire as of 2026-10-03. The investor-relations read failed with HTTP 403, but news through Oct 1-2 shows normal operations and new capacity contracts. (a) About 15 months remain until Dec 31, 2027. (b) Status quo is No: CoreWeave keeps raising capital. It issued $1.25B and €2B notes due 2032 in June, closed a $2.6B delayed-draw term loan in August and announced a $3B convertible in September. Its audit opinion is clean with no going-concern flag, debt maturities are long-dated (2030-32) and the main coverage-ratio covenant tests start only around mid-to-late 2027. (c) No scenario: the backlog of about $104B converts to revenue, Nvidia's backstop financing and lender appetite hold, and leverage stays expensive but serviceable through 2027. (d) Yes scenario: a big customer such as OpenAI or Anthropic fails to raise funds and defaults on its contract, or credit markets seize. That could trip the new 1.35x coverage covenant, let lenders accelerate the debt, and force a Chapter 11 announcement in late 2027. The Polymarket anchor is 11.5%, down from 48% a month ago. CDS spreads around 810-855bp imply roughly 13-14% risk-neutral annual default, but that includes a risk premium and covers default broadly, not a formal bankruptcy announcement. B+/Ba3 historical default rates point to roughly 3-5% over 15 months. Long-dated bankruptcy markets also tend to carry a longshot bias. I therefore shade modestly below the market to about 7.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3833",
    "has_trace": true
   }
  ]

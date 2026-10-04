@@ -4751,6 +4751,20 @@
  ],
  "Will the Democratic Party control the Senate after the 2026 Midterm elections?": [
   {
+   "id": 3896,
+   "scanned_at": "2026-10-04T15:50:12.160585",
+   "date": "2026-10-04",
+   "agent": 65.1,
+   "market_price_t0": 65.5,
+   "edge": -0.0040000000000000036,
+   "confidence": 0.602,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.65, 0.64, 0.66, 0.66, 0.66). (0) Not resolved. The resolution-source read shows only pre-election forecasts; election day is November 3, 2026, so Democrats still need to net four seats from the current 53R-47D Senate. (a) About one month remains until the vote, with trading closing November 4; runoffs or caucus questions could push final attribution later. (b) If today's polling and ratings held, forecasters lean Democratic: DDHQ projects 51 seats with 54%, The Hill 55%, and Silver and FiftyPlusOne about 71-72%. The national environment also favors Democrats, with Trump at roughly -22 net approval and a generic ballot near D+7. (c) NO: a repeat of the 2016/2020/2024-style polling miss toward Republicans, of the kind Enten documented in IA, OH and MI. Collins outrunning her polls again in Maine, Sullivan holding Alaska and Paxton winning Texas would leave Republicans at 50 or more seats with VP Vance breaking ties. (d) YES: Cooper wins North Carolina (Republican groups have pulled ad money), Democrats hold Georgia, Michigan and New Hampshire, and they take two or three of OH, AK, IA, ME and TX. That path needs a net +4 without sweeping every toss-up. The Polymarket price of 65.5% sits between the cautious DDHQ/Hill models and the more bullish Silver/FiftyPlusOne models. I found no unpriced information strong enough to move far off it, so I stay near the anchor and slightly shade toward the polling-error risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3896",
+   "has_trace": true
+  },
+  {
    "id": 3049,
    "scanned_at": "2026-09-17T02:41:48.357054",
    "date": "2026-09-17",
@@ -6138,6 +6152,20 @@
   }
  ],
  "Will Mary Peltola win the Alaska Senate race in 2026?": [
+  {
+   "id": 3893,
+   "scanned_at": "2026-10-04T15:02:55.673230",
+   "date": "2026-10-04",
+   "agent": 68.8,
+   "market_price_t0": 72.5,
+   "edge": -0.03700000000000003,
+   "confidence": 0.626,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.66, 0.67, 0.72, 0.72, 0.66). (0) Not resolved. The general election is November 3, 2026, and no AP/Fox/NBC call exists. Ballotpedia and Wikipedia show only the August 18 primary, where Peltola had 49.5% to Sullivan's 41.4%. (a) About one month remains until Election Day. Alaska's ranked-choice tabulation usually finishes roughly two weeks later. The Nov 4 trading close is not a resolution deadline, since the market resolves on the calls or certification. (b) Status quo: Peltola holds a narrow polling edge. The RCP average is about +1.5, FiftyPlusOne about +3.5, and NYT/Siena has her +7. AARP's ranked-choice simulation shows 53–47 and Alaska Survey Research 50.6–49.4. Quantus and Rasmussen show ties. Decision Desk HQ gives her a bit over 60%, while Cook still rates the race Toss Up. (c) NO: GOP outside spending (about $4.5M more), NRSC coordinated spending and Trump/Vance visits consolidate Republicans. Ballots for the minor Republicans transfer red or exhaust less than modeled, and Sullivan wins the final round narrowly in a Trump +13 state. (d) YES: Peltola's lead among independents (about +22 to +32), her positive net favorability against Sullivan's negative, the vote split from the second Daniel Sullivan, and a Democratic-leaning midterm environment (generic ballot about D+8, Trump approval about 38%) hold through Election Day. Her near-50% primary share is also a strong signal. The market at 72.5% sits above the polling-based models (DDHQ about 60%, Cook toss-up, one aggregator favoring Sullivan), so I shade slightly below the anchor to about 66%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3893",
+   "has_trace": true
+  },
   {
    "id": 2955,
    "scanned_at": "2026-09-15T04:13:44.927584",
@@ -8399,6 +8427,20 @@
  ],
  "Will the Democrats win the Michigan Senate race in 2026?": [
   {
+   "id": 3891,
+   "scanned_at": "2026-10-04T14:17:19.104085",
+   "date": "2026-10-04",
+   "agent": 71.8,
+   "market_price_t0": 72.5,
+   "edge": -0.007000000000000006,
+   "confidence": 0.628,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.71, 0.71, 0.72, 0.72, 0.72). (0) Not resolved. The election is November 3, 2026, and Wikipedia, Ballotpedia and the Michigan Advance guide confirm only that El-Sayed (D) and Rogers (R) are the nominees. (a) About one month remains, including two debates (Oct 8 and 21) and early voting from Oct 24. (b) Status quo: El-Sayed leads nearly every post-primary poll. Emerson has him +2, Fox +1 among likely voters and +3 among registered voters, InsiderAdvantage +2, Rasmussen +3, and the RCP average is about +3.5. The environment is Democratic-leaning: Trump is at 41/57 approval in Michigan (Marist), Polymarket prices Democratic House control at 93.5% and Senate control at 64.5%, and no Republican has won a Michigan Senate race since 1994. (c) NO: about a 2:1 Republican outside-money edge and $42M of $65M in reserved ads tilt the final month toward Rogers. The El-Sayed antisemitism controversy keeps eroding moderate and Jewish Democrats. Michigan polls again overstate Democrats, as in 2016, 2020 and 2024, when Slotkin won by only 0.3 points. Inside Elections' Oct 1 move to Tilt R reflects this. (d) YES: El-Sayed's narrow but consistent lead holds, aided by an anti-Trump midterm wave, firmer support among his backers (87% vs 80% certain), and strong Democratic turnout like the 1.5M-vote primary. The market anchor of 72.5% fits a ~3-point lead one month out in a favorable environment. I shade slightly lower for Michigan's history of polling error and the late Republican spending surge.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3891",
+   "has_trace": true
+  },
+  {
    "id": 2999,
    "scanned_at": "2026-09-16T00:54:55.864088",
    "date": "2026-09-16",
@@ -9590,6 +9632,20 @@
   }
  ],
  "China x Philippines military clash before 2027?": [
+  {
+   "id": 3884,
+   "scanned_at": "2026-10-04T11:57:07.143905",
+   "date": "2026-10-04",
+   "agent": 23.6,
+   "market_price_t0": 25.5,
+   "edge": -0.01899999999999996,
+   "confidence": 0.596,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.21, 0.21, 0.26, 0.26, 0.25). (0) No source shows the condition met since the market opened on 2026-07-24. The July 20-21 baton/oar melee between AFP personnel and the CCG happened before the window. Every incident since then either involved excluded Philippine agencies (the Sept 18 BFAR ramming, the Oct 4 PCG obstruction near Thitu) or stopped at obstruction, shadowing and radio challenges (the Sept 25 Sierra Madre blockade, PLAN shadowing at Sabina). (a) About 88 days remain, to Dec 31, 2026. (b) If nothing changes, gray-zone friction stays below the bar and the market resolves No. (c) No path: Sierra Madre resupplies continue under harassment, with water cannon and blocking but no melee or hull-breaching ram against an AFP vessel. Code of Conduct talks and Beijing's calibrated-pressure doctrine keep things sub-threshold through year-end. (d) Yes path: the renewed blockade of AFP-linked resupply missions leads to another CCG boarding or baton/knife melee with Navy personnel, as in June 2024 and July 2026. Alternatively, an unsafe PLAN or CCG maneuver punctures the hull of an AFP ship. 2026 has seen the highest tempo of PLAN-AFP close encounters on record, and the CCG counts as Chinese military, so this risk is real. The market sits at 25.5% and has drifted down 2.5 points over 30 days with no qualifying event. Historical qualifying melee incidents involving the AFP run roughly once a year or less, which implies perhaps 15-20% for a three-month window. I add some allowance for loose 'consensus of credible reporting' interpretation and for escalation after the September blockade, landing slightly below the market at 21%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3884",
+   "has_trace": true
+  },
   {
    "id": 3489,
    "scanned_at": "2026-09-27T09:39:41.154714",
@@ -13071,6 +13127,20 @@
  ],
  "Will Trump and Putin not meet?": [
   {
+   "id": 3900,
+   "scanned_at": "2026-10-04T17:30:16.561202",
+   "date": "2026-10-04",
+   "agent": 23.4,
+   "market_price_t0": 18.5,
+   "edge": 0.04899999999999999,
+   "confidence": 0.562,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.22, 0.23, 0.24, 0.25, 0.23). (0) No source shows a Trump–Putin in-person meeting since Alaska in August 2025, so the question is still open. (a) About three months remain, to December 31, 2026. (b) If nothing changes there is no meeting, but a scheduled path is live. Trump has reportedly accepted Xi's invitation to the APEC summit in Shenzhen on November 18–19. Bloomberg and Kremlin signals say Putin plans to attend APEC, and China has said it 'welcomes' his participation. If both attend an informal leaders' meeting, a handshake or exchange is near-certain, and a Putin–Xi–Trump trilateral has been floated. (c) The NO-meeting scenario: Putin skips Shenzhen ('depends on the situation in Russia'), or Trump drops the trip over Iran or domestic politics. Putin also skips Miami, as Bloomberg says is 'highly unlikely' to happen. With peace talks stalled, the year ends with no encounter, echoing the cancelled Budapest summit. (d) The meeting scenario: both attend APEC and interact, or a trilateral is held. A late peace push could also bring a Miami G20 sidelines meeting on December 14–15. The market's slide from 76.5% to 18.5% tracks these APEC developments. My own estimate of both leaders attending and interacting is around 70–75%, plus a small Miami or other tail. That puts no-meeting near 22%, slightly above the market to reflect the unconfirmed attendance and the history of cancellations.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3900",
+   "has_trace": true
+  },
+  {
    "id": 3500,
    "scanned_at": "2026-09-27T16:47:53.073575",
    "date": "2026-09-27",
@@ -15508,7 +15578,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-04T09:47:05.949Z",
+  "last_sync": "2026-10-04T18:38:26.663Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -15844,6 +15914,20 @@
   }
  ],
  "Will Clavicular wear a Yarmulke in 2026?": [
+  {
+   "id": 3878,
+   "scanned_at": "2026-10-04T10:24:10.418906",
+   "date": "2026-10-04",
+   "agent": 21,
+   "market_price_t0": 24,
+   "edge": -0.02999999999999997,
+   "confidence": 0.522,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.18, 0.18, 0.24, 0.24, 0.21). (0) No source shows the condition met. The resolution-source read (Wikipedia plus a Miami New Times profile through October 2026) and all research found no photo or video of Peters himself wearing a kippah. His documented Jewish-adjacent moments are the Star-of-David/OpenAI necklace, kosher meals, cholent, a July 'lunch, Tefillin & Clavicular' post by Rabbi Farro, and defending a friend's kippah. None is confirmed to show him in a kippah, and the market has not resolved despite trading as high as 66.5%. (a) About 88 days remain until Dec 31, 2026. (b) The status quo is No. Every opportunity so far has stopped one step short, and his calendar is now dominated by the Oct 14 rape arraignment and its fallout. (c) No scenario: legal jeopardy, possible bail conditions and toxic optics make Chabad figures wary, there is no further staged ritual photo-op, and year-end passes with no kippah image. (d) Yes scenario: Farro or another Chabad figure, who has a repeatable pipeline of tefillin and ritual photo-ops with celebrities, stages a Hanukkah event (early December) or a tefillin wrap with Peters. Alternatively, Peters dons a kippah on stream as a bit tied to his 'turning Jewish' meme, and outlets like TMZ or JTA report it. Anchoring on the market's 24% (down 6.5 points this week), I shade slightly lower. The September charges raise the reputational cost for Orthodox outreach figures, and the remaining window is short, though Hanukkah and his attention-seeking streaming keep a real tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3878",
+   "has_trace": true
+  },
   {
    "id": 3162,
    "scanned_at": "2026-09-19T03:24:29.206089",
@@ -16248,6 +16332,20 @@
   }
  ],
  "Alexandre de Moraes out as Brazil Supreme Court Justice?": [
+  {
+   "id": 3903,
+   "scanned_at": "2026-10-04T18:18:52.576519",
+   "date": "2026-10-04",
+   "agent": 16.6,
+   "market_price_t0": 21,
+   "edge": -0.04400000000000001,
+   "confidence": 0.608,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.15, 0.15, 0.18, 0.18, 0.17). (0) No source shows the condition met: as of 2026-10-02/04, Al Jazeera and Nexo confirm Moraes is still a sitting STF justice, and nothing shows a resignation or removal announcement. The STF portal (the resolution source) returned 403, but credible reporting is consistent. (a) About 88 days remain until Dec 31, 2026, and the judicial recess (Dec 20 to Jan 6) eats into that window. (b) The status quo is No. Dino's 90-day vista on the investigation vote expires in December, and court insiders (CNN Brasil) expect no resumption before February 2027. Senate President Alcolumbre has refused to process any of the 66+ impeachment petitions and is waiting on the STF; no justice has ever been impeached and removed. A Flávio Bolsonaro presidency or a new Senate would only take office in 2027, after the deadline. (c) NO: Dino holds the case through the recess, Alcolumbre keeps petitions shelved, Moraes rides out the scandal as he has told allies he will, and the election moves the news cycle on. (d) YES: new Banco Master revelations (the R$131m law-firm contract, Vorcaro's postponed depositions after the election) make his position untenable. That could prompt a resignation announcement, or Fachin could act on Mendonça's afastamento request via a precautionary-removal plenary vote, as the STJ did with Buzzi. This is a real tail given three major papers' editorials and a sitting colleague demanding his removal. The market anchor is 21%, up 6 points this week, likely on election-related speculation. Because the specific procedural evidence pushes both institutional tracks past the deadline, I shade below the market, keeping meaningful weight on a scandal-driven resignation.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3903",
+   "has_trace": true
+  },
   {
    "id": 3047,
    "scanned_at": "2026-09-17T01:51:08.740383",
@@ -17223,6 +17321,20 @@
  ],
  "Will the ECB announce no change at the October 2026 meeting?": [
   {
+   "id": 3898,
+   "scanned_at": "2026-10-04T16:35:35.041323",
+   "date": "2026-10-04",
+   "agent": 90.6,
+   "market_price_t0": 92,
+   "edge": -0.014000000000000012,
+   "confidence": 0.7060000000000001,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.89, 0.89, 0.92, 0.92, 0.91). (0) Not resolved yet. The ECB site and FRED show the deposit rate at 2.50% since the 10 Sept hike, and the 28-29 Oct meeting has not happened. (a) About 25 days remain until the 29 Oct decision; the market closes 30 Oct. (b) If nothing changes, the ECB holds: October is a non-projection meeting, and both of this cycle's hikes (June, September) came at projection meetings. (c) A NO path: energy prices keep surging after the 3.8% September flash HICP (energy at 18.8%) and services or wage signs firm up. That could prompt a back-to-back hike in October, a scenario Capital Economics says 'would not be a big surprise' if energy rises further. (d) A YES path: the ECB follows the broad sell-side consensus (Bloomberg survey, Bloomberg Economics, Standard Chartered, Capital Economics, Goldman) of holding in October and hiking in December alongside new projections. That fits Lagarde's 'no rush' and 'not embedded' messaging, Schnabel's cautious framing, and Rehn's point that higher yields are already tightening. The Polymarket anchor is 92% (bid 91, ask 93) and has risen 15.5 points in a week. €STR futures via ECB Watch showed 87% hold on 2 Oct, so the market sits slightly richer than futures. I shade a bit below the market to about 89% for the residual energy-shock tail and nearly four weeks of data still to come.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3898",
+   "has_trace": true
+  },
+  {
    "id": 3426,
    "scanned_at": "2026-09-25T14:22:38.685461",
    "date": "2026-09-25",
@@ -17330,6 +17442,20 @@
   }
  ],
  "Will JD Vance visit Ukraine by December 31, 2026?": [
+  {
+   "id": 3881,
+   "scanned_at": "2026-10-04T11:09:46.331632",
+   "date": "2026-10-04",
+   "agent": 6.3,
+   "market_price_t0": 7.4,
+   "edge": -0.01079999999999999,
+   "confidence": 0.6699999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.05, 0.05, 0.07, 0.07, 0.07). (0) No source shows Vance in Ukraine. The Wikipedia trip list and news through Oct 4, 2026 show no visit, and the Oct 4 'foreign delegation' to Kyiv turned out to be Germany's Merz, not a US delegation. (a) About 88 days remain until Dec 31, 2026. (b) Status quo is No: Vance has gone 21 months without visiting, has publicly dismissed Kyiv's 'propaganda tours', and the administration sends envoys (Witkoff and Kushner, September 2026) for in-country diplomacy. (c) NO scenario: peace talks drag on (the Dec 31 ceasefire market is ~15.5%), Russian strikes and the Kremlin's 'mortal danger' warnings continue, and US engagement stays with envoys, with Vance busy campaigning ahead of the midterms through early November. (d) YES scenario: a ceasefire or security-guarantee deal is reached in Q4 and Trump sends Vance to Kyiv for a signing or implementation event; even with a deal, a Vance trip before year-end is far from certain. The market sits at 7.4% (bid 6 / ask 9), above Trump's 4.7%; given no new signal and the low ceasefire odds, I shade slightly below the market to about 5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3881",
+   "has_trace": true
+  },
   {
    "id": 3005,
    "scanned_at": "2026-09-16T04:13:43.549420",
@@ -18555,6 +18681,20 @@
  ],
  "Will the next Google Gemini Pro model added to the Arena Leaderboard debut at a score of at least 1490?": [
   {
+   "id": 3886,
+   "scanned_at": "2026-10-04T12:43:03.359784",
+   "date": "2026-10-04",
+   "agent": 36.6,
+   "market_price_t0": 36.4,
+   "edge": 0.0015999999999999903,
+   "confidence": 0.522,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.35, 0.37, 0.36, 0.36, 0.38). (0) Not resolved. The live leaderboard (Oct 2) shows 'gemini-4-argon-high' at 1525, but it is not labeled 'Pro', so it does not qualify. The only Pro-labeled Gemini, gemini-3.1-pro-preview at 1487, debuted in February, before this market existed. YES still needs Google to add a new model labeled 'Pro' to the Text Arena by Dec 31, 2026, and for it to score at least 1490 the next day. (a) About 3 months remain. (b) Status quo: no Pro-labeled model appears, so the market defaults to No. (c) NO path: Google keeps the codename scheme (Argon) for Gemini 4, with no Pro ID, page or pricing and Argon access limited to trusted testers. No Pro-branded model reaches Arena before year-end. A weaker path is a Pro variant that debuts below 1490. (d) YES path: Google ships a 'Gemini 4 Pro' or '3.5 Pro'-type model in Q4, as the October rumors and Kavukcuoglu's 'as soon as possible' remark suggest. Given Argon's 1525 and the frontier cluster sitting at 1500+, it would very likely debut above 1490. I estimate roughly a 40-45% chance that a Pro-labeled model appears in time and about 85% that it then clears 1490, which gives about 35%. The market anchor is 36.4%, after a crash from about 92% once Argon launched without the Pro label. Sibling thresholds (1495 at 38%, 1480 at 44.5%) support the 35-40% range. I stay close to the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3886",
+   "has_trace": true
+  },
+  {
    "id": 3395,
    "scanned_at": "2026-09-24T16:47:39.453738",
    "date": "2026-09-24",
@@ -18740,6 +18880,20 @@
   }
  ],
  "Will the Republicans win the Vermont governor race in 2026?": [
+  {
+   "id": 3888,
+   "scanned_at": "2026-10-04T13:28:40.838254",
+   "date": "2026-10-04",
+   "agent": 75.8,
+   "market_price_t0": 77,
+   "edge": -0.01200000000000001,
+   "confidence": 0.5780000000000001,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.75, 0.74, 0.77, 0.77, 0.76). (0) Not resolved. The general election is November 3, 2026; Ballotpedia and Wikipedia show only August primary results, and none of AP, Fox or NBC has called anything. (a) About a month remains. The Oct 21 debate and possible RGA or DGA spending are the main events still ahead. (b) Status quo: Scott, a five-term incumbent, leads in two of three September/October polls (Vermont Public +10 with 20% undecided; State Navigate 48-42, still provisional). No Vermont incumbent governor has lost since 1962. Scott has historically beaten his polls, and his campaign notes UNH missed by double digits in 2022 and 2024. (c) NO: the hostile national environment (generic ballot around D+8-12) and falling crossover-Democrat approval (35%) drag Scott down. Janoo's fundraising surge and the education-reform backlash hold up, undecideds break Democratic, and the UNH Janoo +6 result proves accurate. (d) YES: undecided and soft Democrats return to Scott as in past cycles, the RGA steps in if needed, and he wins by mid-to-high single digits. The market sits at 77% after a sharp 15-point slide, Silver Bulletin calls it a tossup and RCP calls it Lean R. I lean very slightly below the market (75% vs 77%) to reflect the downward momentum and genuine poll deterioration, partly offset by Scott's history of beating his polls.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3888",
+   "has_trace": true
+  },
   {
    "id": 3433,
    "scanned_at": "2026-09-25T19:12:23.717381",

@@ -917,6 +917,20 @@
  ],
  "Will the Republicans win the Texas Senate race in 2026?": [
   {
+   "id": 3950,
+   "scanned_at": "2026-10-05T09:31:46.787067",
+   "date": "2026-10-05",
+   "agent": 38.6,
+   "market_price_t0": 36.5,
+   "edge": 0.02100000000000002,
+   "confidence": 0.6100000000000001,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.40, 0.40, 0.36, 0.36, 0.40). (0) The race is not resolved. The general election is on Nov 3, 2026, and AP, Fox News and NBC have not called it. Paxton (R) faces Talarico (D) after beating Cornyn in the May runoff.\n(a) About four weeks remain. Early voting runs Oct 19–30 and resolution follows the network calls on Nov 3–4.\n(b) Status quo: public polling averages show Talarico ahead by 2–4 points (FiftyPlusOne +3.2, RCP +2.4, DDHQ +3.9). The latest NYT/Siena has him +6 and Fox +2, so if nothing changes Talarico is the modest favorite. Polymarket prices Yes at 36.5%, down 14 points in 30 days.\n(c) NO: The national Democratic environment holds, with Trump's sliding approval, the Iran war and the cost of living. Paxton's ethics baggage and his refusal to debate keep wavering Republicans home, and Talarico wins by 2–3 points.\n(d) YES: The $131M+ Republican outside blitz, with $66M more reserved, consolidates Republicans. Paxton currently gets 84% of Republicans versus Abbott's 88%. The documented Texas Republican polling miss (about 4–6 points in 2020 and 2024) recurs, and Paxton wins narrowly. The Pulse internal poll and a Paxton internal poll both show Paxton +3, and Pollsmax gives him 56%.\nThe under-poll pattern is mainly a presidential-year phenomenon; in the 2018 midterm the polls overstated Cruz. Internal polls are partisan.\nStill, Texas's structural Republican lean, the money gap and the historical polling error justify nudging slightly above the market, to about 40%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3950",
+   "has_trace": true
+  },
+  {
    "id": 3059,
    "scanned_at": "2026-09-17T06:37:42.853524",
    "date": "2026-09-17",
@@ -1818,6 +1832,20 @@
   }
  ],
  "Will Likud win the most seats in the 2026 Israeli legislative election?": [
+  {
+   "id": 3940,
+   "scanned_at": "2026-10-05T06:19:59.921082",
+   "date": "2026-10-05",
+   "agent": 53.2,
+   "market_price_t0": 54,
+   "edge": -0.008000000000000007,
+   "confidence": 0.5559999999999999,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.53, 0.56, 0.54, 0.51, 0.52). (0) Nothing is resolved yet. The vote is on Oct 27, 2026, the resolution-source page could not be fetched, and no results exist. Likud has to out-seat Yashar on election day.\n(a) About three weeks remain until the vote, and certification should come well before the June 2027 'Other' cutoff.\n(b) On current polling the race is roughly tied. The MEF poll-of-polls has Likud and Yashar at about 22 each; the broader 14-poll aggregate has Yashar ahead by one. Most mainstream houses (Kan 23-21, Channel 13 21-19, Maariv 21-19) give Yashar a 2-seat lead. Only i24NEWS/Direct Polls shows Likud ahead, at 27-28.\n(c) NO: the mainstream polls are accurate, and Yashar consolidates the centrist and anti-Netanyahu vote to finish first by 1-3 seats.\n(d) YES: Likud repeats its record of beating final polls (2015 most dramatically). Its late uptick (Kan 20→21, Channel 13 18→19), turnout drive and the possible return of sub-threshold right-wing voters (e.g., Winter's list) push it past Yashar.\nThe Polymarket anchor is 54% after a +12.5-point weekly move, which already prices both the narrowing and the historical Likud polling bias. I see no unpriced information strong enough to move far from it. I shade slightly below 54% because most non-outlier polls still show Yashar narrowly ahead, while keeping roughly a coin-flip with a modest Likud tilt.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3940",
+   "has_trace": true
+  },
   {
    "id": 3008,
    "scanned_at": "2026-09-16T05:46:23.701531",
@@ -3306,6 +3334,20 @@
   }
  ],
  "Mitch McConnell steps down from Senate before his term ends?": [
+  {
+   "id": 3918,
+   "scanned_at": "2026-10-04T23:17:32.770694",
+   "date": "2026-10-04",
+   "agent": 7.6,
+   "market_price_t0": 8,
+   "edge": -0.00399999999999999,
+   "confidence": 0.736,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.07, 0.08, 0.08, 0.08). (0) Not resolved. The Senate.gov roster and McConnell's press-release page through late September 2026 show him as a sitting senator with no announcement of early departure. GovTrack shows him voting in 17 of 18 roll calls after September 22. (a) About three months remain, until January 3, 2027. (b) Status quo is No: he serves out the term, and the November 3 election picks his successor (Barr vs. Booker). (c) NO: he keeps attending intermittently, reaffirms his plan to finish the term as he did in his July 12 statement, and retires on schedule. (d) YES: a second acute health event (a fall, pneumonia, or death in office) forces resignation or vacates the seat. Death would plausibly count as 'otherwise vacates.' An early resignation to give a successor seniority is unlikely given Kentucky's 2024 no-appointment law. For an 84-year-old post-polio patient who was just hospitalized for months, a roughly 4-6% chance of death or incapacity in a quarter seems reasonable. Voluntary resignation adds very little, since he has resisted direct pressure from Beshear. I anchor on Polymarket's 8% (7/9 bid/ask) and shade slightly down because his attendance has recovered and no new health news has emerged since mid-September.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3918",
+   "has_trace": true
+  },
   {
    "id": 3234,
    "scanned_at": "2026-09-20T10:35:33.612983",
@@ -6123,6 +6165,20 @@
  ],
  "Will the Republicans win the Nevada governor race in 2026?": [
   {
+   "id": 3933,
+   "scanned_at": "2026-10-05T04:02:21.856903",
+   "date": "2026-10-05",
+   "agent": 48.1,
+   "market_price_t0": 48.5,
+   "edge": -0.0040000000000000036,
+   "confidence": 0.55,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.48, 0.47, 0.48, 0.48, 0.48). (0) Nothing is resolved yet. The general election is Nov 3, 2026, and no AP, Fox or NBC call exists. Ballotpedia and Wikipedia show only the June primaries: Lombardo (R) and Ford (D) are the nominees. (a) About four weeks remain to Election Day. Early voting runs Oct 17–30. Nevada's mail-ballot counting runs to Nov 10 and certification is Nov 24, so a call could come after the Nov 4 close, but resolution follows the eventual winner either way. (b) Status quo is a genuine toss-up. The September polling aggregate had Lombardo +1.2. The latest nonpartisan poll, Emerson Sept 5–8, had Ford +2 with 11% undecided. Cook and Sabato (as of Sept 22) both rate it Toss-up. The Polymarket anchor is 48.5%, down 12 points over 30 days, which suggests the crowd is pricing in Ford momentum and a weak GOP midterm environment. (c) NO: Trump's 37/55 approval in Nevada drags down an incumbent with only neutral personal approval (40/39). Ford's 31-point Hispanic lead and his edge with women carry a midterm wave, and the slow mail count confirms a narrow Ford win. (d) YES: Lombardo's roughly 5-to-1 money and ad advantage, plus Nevada's long record of re-electing incumbent governors, lets him hold a 1–3 point lead. Earlier models (DDHQ 58%, Pollsmax 68%) gave him this edge, but they are stale and predate the latest poll and the rating downgrades. On balance I see no unpriced information strong enough to move off the market, and I shade slightly toward its recent downward trend.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3933",
+   "has_trace": true
+  },
+  {
    "id": 3034,
    "scanned_at": "2026-09-16T18:33:09.086536",
    "date": "2026-09-16",
@@ -6850,6 +6906,20 @@
   }
  ],
  "Will the U.S. invade a Latin American country in 2026?": [
+  {
+   "id": 3923,
+   "scanned_at": "2026-10-05T00:56:36.779802",
+   "date": "2026-10-05",
+   "agent": 7,
+   "market_price_t0": 7,
+   "edge": 1.3877787807814457e-17,
+   "confidence": 0.6439999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.06, 0.07, 0.07, 0.07, 0.07). (0) Not resolved. The market opened 2026-01-04, the day after the January 3 Maduro capture raid, so that raid cannot count. Polymarket's sibling contract also clarified that a capture raid does not meet the 'establish control over land territory' bar. The March Ecuador operation was advisory support for Ecuadorian-led raids, not a U.S. offensive to take territory. (a) About 12 weeks remain until the Dec 31, 2026 deadline. (b) Status quo is No: Venezuela is under interim president Delcy Rodríguez with no U.S. garrison, and Operation Southern Spear has stayed limited to boat strikes plus one December 2025 dock strike. (c) No scenario: the Cuba track stays a sanctions-and-deal effort (Trump on Sept 26: 'I don't think we'll need the military'), Army Reserve units 'possibly needed in 90-120 days' only matter after the deadline, and any Mexico action is limited to strikes or raids that don't qualify. (d) Yes scenario: Cuba talks collapse and a fast amphibious or airborne operation follows, or the U.S. sends a ground force into Mexico, Colombia or Venezuela to hold an area. The latter is unlikely because Mexico resists and partner-nation models dominate. Recent signals push against each other: Cuba contingency surveys and Trump's renewed threats against Rodríguez point up, while his deal talk and SOUTHCOM's denials point down. I anchor on the 7.5% market (bid 6 / ask 9) and shade slightly lower, since the strict 'territorial control' wording excludes the most likely escalations (land strikes and raids).",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3923",
+   "has_trace": true
+  },
   {
    "id": 2292,
    "scanned_at": "2026-08-31T00:56:11.929211",
@@ -8587,6 +8657,20 @@
  ],
  "Will the Democrats win the Maine Senate race in 2026?": [
   {
+   "id": 3948,
+   "scanned_at": "2026-10-05T08:40:48.360449",
+   "date": "2026-10-05",
+   "agent": 55,
+   "market_price_t0": 58.5,
+   "edge": -0.03499999999999992,
+   "confidence": 0.6060000000000001,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.53, 0.53, 0.58, 0.58, 0.52). (0) Resolution check: the race is not resolved. The election is on Nov 3, 2026, and no AP, Fox or NBC call exists. Wikipedia and Ballotpedia show a pre-election toss-up between Collins and Troy Jackson, who replaced Platner as the Democratic nominee in July. (a) About four weeks remain until election day, and the market closes Nov 4. A ranked-choice tabulation could delay the call, but resolution falls back to certification. (b) Status quo: polls are essentially tied, with the 270toWin average at Jackson 48.3–47.5, RCP at Jackson +0.1, CBS/YouGov 50–50 and Trafalgar 46–46. Models are split: DDHQ has Jackson at 51–54%, while Pollsmax has Collins at 56.8%. (c) NO: Collins repeats 2020, when she trailed in nearly every poll and won by 8.6. Here the GOP's $50M+ ad advantage and her pull with voters over 50 carry her past a weaker, late-replacement nominee whom 40% of Democrats wish were someone else. (d) YES: the D+7 generic-ballot environment and 61% Trump disapproval erode Collins's insulation. Maine's Democratic lean reasserts itself, and Jackson's strength among younger voters lets him win narrowly, possibly after ranked-choice redistribution. The Polymarket anchor is 58.5%, down 11 points over 30 days. Given near-zero poll margins and Collins's documented history of beating her polls, I think the market still overprices Jackson slightly. I shade to about 53%, near the DDHQ coin-flip, rather than below 50%, given the hostile national environment.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3948",
+   "has_trace": true
+  },
+  {
    "id": 2998,
    "scanned_at": "2026-09-16T00:11:08.556316",
    "date": "2026-09-16",
@@ -8690,6 +8774,20 @@
   }
  ],
  "Will Benjamin Netanyahu be the next Prime Minister of Israel?": [
+  {
+   "id": 3945,
+   "scanned_at": "2026-10-05T07:53:31.445598",
+   "date": "2026-10-05",
+   "agent": 36.8,
+   "market_price_t0": 36.5,
+   "edge": 0.0030000000000000027,
+   "confidence": 0.572,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.37, 0.37, 0.36, 0.36, 0.37). (0) Nothing is resolved yet. The election is October 27, results are certified around November 4, and Herzog assigns the mandate by about November 11, so no new PM has been sworn in and the condition is neither met nor impossible. (a) About three weeks remain to the vote, but resolution effectively runs until a government is sworn in, with a December 31, 2027 backstop for \"Other\". (b) Status quo: Netanyahu stays as caretaker, which does not count. If polls hold (blocs roughly 51-54 each, 61 needed, about 14 Arab-aligned seats), neither bloc reaches a majority without crossover or Arab-party support. (c) NO: an Eisenkot-led Jewish opposition, possibly with Lieberman and Bennett, edges ahead or gets outside Arab-party support now that the Supreme Court has reinstated those lists. Alternatively, Herzog brokers a non-Netanyahu government, or deadlock drags on and an eventual government is led by someone else. Qatargate, the ongoing trial and record-low Likud polling add drag. (d) YES: late momentum, with the aggregate coalition up about one seat since September 8, plus surplus pacts, a possible Ben Gvir–Winter tie-up and Netanyahu-friendly pollsters (Channel 14 at 63-64) prove right. The bloc reaches 61, or a transactional Bennett or Lieberman defects, and the 2022 precedent shows a swearing-in within about two months. The Polymarket anchor is 36.5% and rising (+6 over 7 days), with Eisenkot at 46% and Bennett at 10.5%. The research surfaces nothing decisive that the market hasn't priced, so I stay near the anchor at 37%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3945",
+   "has_trace": true
+  },
   {
    "id": 3230,
    "scanned_at": "2026-09-20T09:00:43.096574",
@@ -14507,6 +14605,20 @@
  ],
  "Will the Democrats win the Iowa Senate race in 2026?": [
   {
+   "id": 3930,
+   "scanned_at": "2026-10-05T03:16:01.206759",
+   "date": "2026-10-05",
+   "agent": 43.4,
+   "market_price_t0": 42.5,
+   "edge": 0.009000000000000008,
+   "confidence": 0.596,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.44, 0.43, 0.42, 0.42, 0.45). (0) Nothing is resolved. Ballotpedia and the research show Turek (D) vs Hinson (R), plus Laehn (L), with no AP/Fox/NBC call; the election is November 3. (a) About four weeks remain, with debates on Oct 7 and Oct 13 and early voting starting Oct 14. (b) Status quo is a genuine toss-up. Cook and Sabato both rate it Toss-up, and recent polls lean slightly toward Turek: Fox D+2 among likely voters, Rasmussen D+4, Marist D+8 among registered voters, against Quantus and Co/Efficient leads for Hinson. Averages run roughly D+1 to D+2, while RCP and the poliwave model show about R+1. (c) NO: Iowa repeats 2020, when Greenfield led October polls and Ernst won by 6.6. That path runs on a roughly 180k GOP registration edge, a Trump+13 baseline and $53M+ in SLF spending. (d) YES: a national Democratic environment, with Polymarket pricing Senate control at 67.5% D and the House at 92.5% D, plus Trump disapproval and the Sand/Turek joint lead, carries Turek past a structurally red lean. Higher Democratic shares of ballot requests point the same way. I anchor on the 42.5% Polymarket price, which has risen 7 points in 30 days. I nudge it up slightly because the related Senate-control pricing implies Democrats win seats of roughly Iowa's difficulty. The documented 2020 pro-GOP polling miss in Iowa keeps me below 50%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3930",
+   "has_trace": true
+  },
+  {
    "id": 3103,
    "scanned_at": "2026-09-18T01:42:59.227046",
    "date": "2026-09-18",
@@ -15578,7 +15690,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-04T18:38:26.663Z",
+  "last_sync": "2026-10-05T10:25:40.598Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -15740,6 +15852,20 @@
   }
  ],
  "Andrew Tate released from custody by December 31, 2026?": [
+  {
+   "id": 3935,
+   "scanned_at": "2026-10-05T04:48:11.102255",
+   "date": "2026-10-05",
+   "agent": 7.6,
+   "market_price_t0": 8,
+   "edge": -0.00399999999999999,
+   "confidence": 0.746,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.07, 0.08, 0.08, 0.08). (0) Resolution check: nothing shows the condition met. Tate has been held at the Federal Detention Center in Miami since his July 18 arrest. A magistrate denied bail on Sept 9, calling the brothers \"quintessential flight risks,\" and reporting as of Oct 1–4 still has them in custody. (a) About 87 days remain until the Dec 31, 2026 11:59 PM ET deadline. (b) Status quo is NO. The UK's formal request arrived Sept 9 and is in State Department treaty-compliance review. On Oct 4 the judge only asked the parties to propose hearing dates, and experts describe the full process as taking months to years. (c) NO scenario: the extradition hearing slips into late 2026 or 2027, no renewed bail motion succeeds against the specific findings (a fake passport, extensive travel and resources), and the White House keeps its stated non-intervention. Tate stays in Miami through year-end. (d) YES scenario: the district judge reverses the bail denial, or McBride's challenge that the request lacks supporting documents leads to discharge, or there is unexpected political intervention. A minor added path: he waives or quickly loses on extradition and a UK court bails him before Dec 31; a transfer alone would not count. The market sits at 8% (bid 7, ask 9) and has drifted down from 35%. The research surfaces no unpriced catalyst; no renewed bail motion or appeal has even been filed. I shade slightly under the market to 7%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3935",
+   "has_trace": true
+  },
   {
    "id": 2628,
    "scanned_at": "2026-09-05T02:42:52.850699",
@@ -17305,6 +17431,20 @@
  ],
  "Will Aleksandar Vučić be the next Prime Minister of Serbia?": [
   {
+   "id": 3905,
+   "scanned_at": "2026-10-04T19:04:55.187144",
+   "date": "2026-10-04",
+   "agent": 65.6,
+   "market_price_t0": 66.6,
+   "edge": -0.010199999999999876,
+   "confidence": 0.5660000000000001,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.65, 0.66, 0.67, 0.67, 0.64). (0) Nothing is resolved yet. The resolution source (srbija.gov.rs) shows no new PM election, and the parliamentary vote is not until 25 October 2026. Đuro Macut remains caretaker PM. (a) The rules give a deadline of 30 June 2028, about 20 months away, so even a slow 4-6 month formation like 2022 or 2023 fits easily. Trading closes on 25 October. (b) Status quo: Vučić resigned the presidency on 27 September specifically to run as the United Serbia PM candidate. If his list wins as SNS lists have since 2012, the Assembly is expected to elect him, possibly within weeks, as with Macut in 2025. (c) NO: independent polls (CRTA July 45-36, BIRODI around 48-39) show the Student List ahead. A Student List plurality and government, a deadlock, or a disputed result could keep Vučić out. A health event or substitution of another SNS figure as PM would also resolve NO. (d) YES: a fragmented opposition across seven-plus lists, a 112-seat SNS baseline, and coalition partners (SPS, minority parties) give United Serbia a path to 126 seats. Vučić has already announced a 12-minister cabinet. My decomposition starts from the sibling 'most seats' market at 64% for United Serbia. I take about 92% conversion to PM given an SNS plurality, plus about 15% chance he still forms a coalition if he trails. That gives roughly 0.64, close to the Polymarket anchor of 66.65%. The same-topic Kalshi market (61%, wide spread) also sits near this. I shade slightly below the anchor but find no strong unpriced information.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3905",
+   "has_trace": true
+  },
+  {
    "id": 2983,
    "scanned_at": "2026-09-15T16:53:45.964939",
    "date": "2026-09-15",
@@ -18477,6 +18617,20 @@
  ],
  "Will the Democrats win the Florida governor race in 2026?": [
   {
+   "id": 3908,
+   "scanned_at": "2026-10-04T19:56:25.662916",
+   "date": "2026-10-04",
+   "agent": 24.4,
+   "market_price_t0": 23.5,
+   "edge": 0.009000000000000008,
+   "confidence": 0.64,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.25, 0.25, 0.23, 0.23, 0.25). (0) Not resolved. The general election is November 3, 2026, and none of AP, Fox News or NBC has called the race. The resolution-source read shows only polling: Donalds 47.0 to Jolly 43.3.\n\n(a) About one month remains. Early voting starts around Oct 24, and mail ballots are already being returned.\n\n(b) If nothing changes, Republican Byron Donalds wins. He leads the polling averages by about 3–4 points (Pollsmax +3.3; 270toWin +3.7). He also has a 1.5-million voter-registration edge and outraised Jolly roughly $134M to $16.6M. Cook, Sabato and Inside Elections all rate the race Lean R; DDHQ's model gives Jolly 40%.\n\n(c) NO: Florida's habitual pro-GOP polling miss recurs (as in 2018, 2020 and 2022). Trump and Vance rallies consolidate the base, and the spending gap lets Donalds win by 4–8 points.\n\n(d) YES: the national anti-GOP environment holds and Democrats' early mail-ballot edge (Oct 3 state data, single-sourced) reflects real enthusiasm. Late national money reaches Jolly, and Donalds' Trump-website flap and gaffes erode him with independents, whom Jolly leads in some polls. Jolly then edges a near-tie, as St. Pete Polls (44–43) suggests is possible.\n\nThe market sits at 23.5% and Kalshi's same question is about 24%. That agrees with a ~3.5-point poll lead given a month of uncertainty and Florida's R-leaning polling error. The fresh mail-ballot and gaffe news nudges me only slightly above the market, to 25%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3908",
+   "has_trace": true
+  },
+  {
    "id": 3328,
    "scanned_at": "2026-09-22T19:13:54.636280",
    "date": "2026-09-22",
@@ -18508,6 +18662,20 @@
   }
  ],
  "Will the Democrats win the Georgia governor race in 2026?": [
+  {
+   "id": 3943,
+   "scanned_at": "2026-10-05T07:06:21.315259",
+   "date": "2026-10-05",
+   "agent": 45.6,
+   "market_price_t0": 45.5,
+   "edge": 0.0010000000000000564,
+   "confidence": 0.5740000000000001,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.46, 0.46, 0.46, 0.46, 0.45). (0) Nothing has resolved. The general election is November 3, 2026, and no AP, Fox News or NBC call exists. Ballotpedia and WABE (not the named sources) list the race as a toss-up. (a) The election is about four weeks away, with early voting October 13–30. A December 1 runoff is possible if no one clears 50%; per the rules the market would then resolve on the eventual winner or certification, not default to No. (b) If nothing changes, this is a near coin-flip with a slight Republican lean. Individual September polls (Rasmussen 48-45, YouGov 45-44, InsiderAdvantage 48-46) and DDHQ's average (Jackson +1.3) favor Jackson narrowly, while the FiftyPlusOne aggregate shows Bottoms +3.5. (c) No scenario: Jackson's huge spending edge ($87M fall ad reservation, RGA backing) and Georgia's 28-year Republican hold on the governorship carry him through enough Ossoff ticket-splitters, much as Kemp outperformed in 2018 and 2022. (d) Yes scenario: a Democratic-leaning midterm environment brings undecided independents home to Bottoms. Signs of that environment include Ossoff's ~10-point lead, Democrats' 67.5% Senate-control price and record Democratic primary turnout, along with a strong ground game; a good October 6 town hall could help. The Polymarket anchor is 45.5% and has fallen 12 points in 30 days, consistent with the September polls. The research offers no clear unpriced edge: the favorable national environment roughly offsets Jackson's money and the state's down-ballot Republican lean. I stay near the market, nudging slightly up because the poll-based model's 30% looks overconfident given the mixed aggregates.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3943",
+   "has_trace": true
+  },
   {
    "id": 3356,
    "scanned_at": "2026-09-23T14:25:12.268867",
@@ -18927,6 +19095,20 @@
  ],
  "Will Likud win 30-34 seats in the 2026 Israeli legislative election?": [
   {
+   "id": 3928,
+   "scanned_at": "2026-10-05T02:30:15.015419",
+   "date": "2026-10-05",
+   "agent": 13.8,
+   "market_price_t0": 15.5,
+   "edge": -0.017000000000000015,
+   "confidence": 0.6439999999999999,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.12, 0.12, 0.15, 0.15, 0.14). (0) Not yet resolved: the election is Oct 27, 2026, and Likud needs 30-34 seats in the official count; the resolution source could not be read. (a) About 22 days remain to the vote; trading closes Oct 28. (b) Status quo: independent polls cluster at 19-23 (Middle East Forum average 22, Statista 23.2, Channel 13 at 19 on Oct 1, Tatika 21), with i24 at 27-28 and only Likud-affiliated Channel 14/Filber at 31-32, so the status-quo outcome is well below the bracket. (c) NO: polls hold, Yashar keeps splitting the vote, and Likud lands around 20-27. (d) YES: a 2015-style late right-wing consolidation from Winter's list, Otzma and undecided voters, plus a systematic poll underestimate, lifts Likud by 8+ seats to about 30-32 as Filber shows. Market anchor is 15.5% (about 15% after normalizing sibling brackets that sum to roughly 103%); I shade to 12% because only a conflicted outlier supports the bracket, while keeping meaningful weight on the documented history of late Likud surges.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3928",
+   "has_trace": true
+  },
+  {
    "id": 3419,
    "scanned_at": "2026-09-25T09:36:23.663094",
    "date": "2026-09-25",
@@ -19210,6 +19392,20 @@
   }
  ],
  "Will the Republicans win the Texas governor race in 2026?": [
+  {
+   "id": 3925,
+   "scanned_at": "2026-10-05T01:45:06.582922",
+   "date": "2026-10-05",
+   "agent": 74,
+   "market_price_t0": 73,
+   "edge": 0.010000000000000009,
+   "confidence": 0.616,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.76, 0.74, 0.73, 0.73, 0.74). (0) The race has not resolved. Primaries set an Abbott vs. Hinojosa matchup, and the general election is on November 3, 2026; no AP, Fox or NBC call exists yet. (a) About four weeks remain: early voting opens October 19 and Election Day is November 3, a day before the market closes. If the race goes uncalled, the rules fall back to certification, so a delayed call means waiting, not an automatic No. (b) Status quo: Abbott leads polling averages by roughly 2–4 points (RCP Abbott +2.6, Pollsmax 49–45). Forecasters still favor him: DDHQ 74% R, Pollsmax ~84% R, Cook/Inside Elections Likely R, Sabato Lean R. Republicans have won every Texas governor race since 1994, and Abbott has a huge cash edge. (c) NO: the national midterm environment favors Democrats (the Polymarket Senate market has D control at 67%). The late polls showing Hinojosa ahead prove accurate: NYT/Siena +4, Marist +3, ReconMR/Siena +4. Her lead among independents holds and turnout favors Democrats despite Abbott's $12M ad blitz. (d) YES: Texas polls have repeatedly underestimated Republicans (2020, 2022, 2024). Undecided voters break toward the incumbent, and Abbott's money and rural turnout carry a mid-single-digit win. The Polymarket anchor is 73% after an 8-point weekly slide, roughly matching Kalshi's ~75%. I shade slightly above it because of Texas's history of polling error favoring Democrats, the forecast models, and the fact that a delayed call does not hurt Yes. The real late momentum toward Hinojosa and the Democratic-leaning environment limit how far I move.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3925",
+   "has_trace": true
+  },
   {
    "id": 3507,
    "scanned_at": "2026-09-27T21:39:51.875691",
@@ -20086,6 +20282,102 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.07, 0.07, 0.12, 0.12, 0.10). (0) Resolution check: no source shows a bankruptcy announcement, missed payment, covenant breach or restructuring-advisor hire as of 2026-10-03. The investor-relations read failed with HTTP 403, but news through Oct 1-2 shows normal operations and new capacity contracts. (a) About 15 months remain until Dec 31, 2027. (b) Status quo is No: CoreWeave keeps raising capital. It issued $1.25B and €2B notes due 2032 in June, closed a $2.6B delayed-draw term loan in August and announced a $3B convertible in September. Its audit opinion is clean with no going-concern flag, debt maturities are long-dated (2030-32) and the main coverage-ratio covenant tests start only around mid-to-late 2027. (c) No scenario: the backlog of about $104B converts to revenue, Nvidia's backstop financing and lender appetite hold, and leverage stays expensive but serviceable through 2027. (d) Yes scenario: a big customer such as OpenAI or Anthropic fails to raise funds and defaults on its contract, or credit markets seize. That could trip the new 1.35x coverage covenant, let lenders accelerate the debt, and force a Chapter 11 announcement in late 2027. The Polymarket anchor is 11.5%, down from 48% a month ago. CDS spreads around 810-855bp imply roughly 13-14% risk-neutral annual default, but that includes a risk premium and covers default broadly, not a formal bankruptcy announcement. B+/Ba3 historical default rates point to roughly 3-5% over 15 months. Long-dated bankruptcy markets also tend to carry a longshot bias. I therefore shade modestly below the market to about 7.5%.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3833",
+   "has_trace": true
+  }
+ ],
+ "Perim Island no longer under Houthi control by October 31?": [
+  {
+   "id": 3953,
+   "scanned_at": "2026-10-05T10:20:07.315566",
+   "date": "2026-10-05",
+   "agent": 11.2,
+   "market_price_t0": 8,
+   "edge": 0.0325,
+   "confidence": 0.594,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.12, 0.11, 0.12, 0.12, 0.09). (0) Resolution check: the condition is not met. Multiple outlets (Al Jazeera, CNN, AFP, the UN Security Council's 1 October forecast) report that the Houthis took Perim/Mayyun on about 11 September after government forces withdrew. No source shows a landing on the island or any change of control since then. (a) About 26 days remain until the 31 October, 11:59 PM ET deadline. (b) If nothing changes, the Houthis keep the island and the market resolves No. The rules add that contested or unclear control, announcements, raids and bombardment all count as No, which raises the bar for Yes. (c) No scenario: the Saudi-backed counteroffensive launched 4 October stays on the mainland (Dhubab, the Kahboub highlands, Taiz) and prioritises Sanaa. Its forces rely on light infantry with no assembled amphibious lift. Reuters noted the larger operation might not begin until after the November midterms, and the Hudaydah precedent shows Houthi coastal positions resist quick reversal. (d) Yes scenario: the government's 5 October claim to have taken Dhubab, the mainland directly facing Perim, would cut the garrison's boat-borne supply. Under heavy Saudi air strikes, the Houthis either withdraw the way government troops did in September or are overrun by the Giants Brigades, who have coastal experience. This would echo the five-week reversal of the STC's gains in 2025–26. The market sits at 8% (bid 6 / ask 10) and rose about 4 points this week. The Dec 31 version trades at 18.5%. I nudge slightly above the market to about 12%, because the fresh Dhubab gains create a real isolation-and-withdrawal path. That is tempered by the strict 'actual control established' requirement and the absence of any reported operation against the island itself.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3953",
+   "has_trace": true
+  }
+ ],
+ "Will the Republicans win the Arizona governor race in 2026?": [
+  {
+   "id": 3938,
+   "scanned_at": "2026-10-05T05:33:55.768341",
+   "date": "2026-10-05",
+   "agent": 10.2,
+   "market_price_t0": 8,
+   "edge": 0.022000000000000006,
+   "confidence": 0.65,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.10, 0.10, 0.11, 0.11, 0.09). (0) The race has not been decided. The general election is November 3, 2026, and no AP, Fox News or NBC call exists yet; Hobbs (D) faces Biggs (R) after the July 21 primaries. (a) About four weeks remain until Election Day, and early voting starts October 7. (b) If nothing changes, the status quo favors Hobbs. Every public poll shows her ahead, aggregators put her at roughly D+5 to D+7, Cook moved the race to Solid D on October 1, and she has incumbency in a midterm under a Republican president. (c) NO: Hobbs keeps a mid-single-digit lead, early ballots lock in current sentiment, and Biggs's modest $1.75M ad buy and the pay-to-play attacks fail to move independents. Arizona would then reject a Trump-aligned election-denier nominee again, as it did in 2022 and 2024. (d) YES: Republicans consolidate behind Biggs, the stale polls (none after Aug. 19) overstate Hobbs's lead, and the Senate's pay-to-play probe plus late ad spending tighten the race toward the RCP D+1.5 figure. A strong Republican Election Day vote then flips a 2022-style sub-1-point race. The Polymarket anchor is 8%, below Kalshi's 13% from September 29 and the roughly 13% implied by both venues per the October 4 report. PoliAgg's model gives Biggs about 29%, but expert ratings and the widening August polls support a low number. Given the seven-week polling gap and normal polling error, I shade slightly above the market, to 10%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3938",
+   "has_trace": true
+  }
+ ],
+ "Will Iran target Iraq by September 30, 2026?": [
+  {
+   "id": 3920,
+   "scanned_at": "2026-10-05T00:10:44.261094",
+   "date": "2026-10-05",
+   "agent": 91.7,
+   "market_price_t0": 90.5,
+   "edge": 0.01200000000000001,
+   "confidence": 0.64,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.96, 0.95, 0.85, 0.85, 0.97). (0) The deadline (Sept 30) has passed. Polymarket trades this market at 99.95% Yes (bid 0.999), up 85 points in the last 7 days. A jump that late, and that large, after the window closed almost certainly means traders have seen a qualifying event, probably with a resolution proposed. The likely candidate is the Sept 27–28 Koya/Erbil missile and drone strikes, which SOF.News and Roj News attributed to the IRGC (IRGC Ground Forces routinely claim strikes on Kurdish opposition groups), or the Sept 30 Azadi Camp drone strike. The sister October-deadline market at 99% is consistent with this. (a) No time remains; only attribution and adjudication, including the rules' 3-day consensus clause, are left to settle. (b) Status quo: the market resolves Yes on the basis of an incident already in the record. (c) The NO path: trackers like ISW and GlobalSecurity describe a continuous 'fire pause' with no Iranian attack on host states, and no explicit IRGC claim surfaced in the research. If adjudication treated the Koya strikes as unattributed or proxy action, it would resolve No. (d) The YES path: an IRGC claim or consensus of Iranian origin for the late-September Erbil/Koya strikes, which the market price strongly implies has been accepted. My research did not find the explicit claim, so I keep a few percent on an attribution dispute, but a post-deadline price this extreme should dominate.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3920",
+   "has_trace": true
+  }
+ ],
+ "Will the Democrats win the Arizona governor race in 2026?": [
+  {
+   "id": 3915,
+   "scanned_at": "2026-10-04T22:24:58.834373",
+   "date": "2026-10-04",
+   "agent": 88.2,
+   "market_price_t0": 92,
+   "edge": -0.038000000000000034,
+   "confidence": 0.6679999999999999,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.89, 0.88, 0.88, 0.87, 0.89). (0) Nothing has been resolved. The general election is November 3, 2026. No AP, Fox or NBC call exists, and the resolution source shows only Hobbs (D) vs. Biggs (R) as nominees with Lean/Tilt D ratings. (a) About one month remains, and early voting starts October 7, so the window for movement is shrinking. (b) If nothing changes, Hobbs wins: every post-primary public poll has her ahead, by 8 (AARP), 13 (Noble) and 15 (HighGround), and the DDHQ average puts her up 7. She has outspent Biggs on ads by roughly 15-to-1, the DGA has added $10M, and the RGA has not committed money. (c) NO path: the polls are stale (none after August 19), and Biggs's $1.75M negative ad buy on the Sunshine Residential 'pay-to-play' issue only began recently. Republicans could consolidate, and Arizona's history of razor-thin races (Hobbs won by under 1 point in 2022) could produce a polling miss and a narrow Biggs win. (d) YES path: Hobbs's money and incumbency hold a mid-to-high single-digit lead. Biggs's 2020-election baggage and Trump's weak approval depress the GOP vote, and Hobbs wins as Arizona Democrats have in recent statewide races. The Polymarket anchor is 92%, up from about 87% on both Kalshi and Polymarket on October 1, and I see no new information justifying the latest uptick. DDHQ's model at about 70% and the staleness of the polls argue for a slight shade down, so I settle at 0.89.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3915",
+   "has_trace": true
+  }
+ ],
+ "Will MicroStrategy announce holding 1M+ BTC by December 31, 2026?-bV81": [
+  {
+   "id": 3913,
+   "scanned_at": "2026-10-04T21:37:37.770205",
+   "date": "2026-10-04",
+   "agent": 5.9,
+   "market_price_t0": 7,
+   "edge": -0.010999999999999996,
+   "confidence": 0.746,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.04, 0.05, 0.07, 0.07, 0.07). (0) The condition is not met. Strategy's ledger and the 9/27 8-K both show 847,666 BTC, about 152,334 short of 1,000,000, and no later purchase is confirmed. Saylor's 10/4 \"More orange than ever\" tease names no amount. (a) About 13 weeks remain until the December 31, 2026 deadline, so roughly 11,600 BTC per week is needed. At about $86k spot that is around $13B of buying. (b) If the status quo holds, weekly adds stay in the hundreds to low thousands, occasional flat or net-sale weeks continue, and holdings finish near 850–870k: NO. (c) NO scenario: mNAV stays at or below parity (cited near 0.62x), so ATM issuance is dilutive and the $15B preferred program raises slowly. The BTC Monetization Program keeps sales on the table and Strategy simply misses the mark. (d) YES scenario: a BTC rally pushes mNAV up, and Strategy stacks its $18.8B of ATM capacity, the new preferred raise and its USD reserves into several 25–35k BTC weeks. That would require repeating its record April bursts back-to-back for the whole quarter to hit the round-number milestone. The market anchor is 7% (bid 6 / ask 8) and has been drifting down. I shade slightly below it because the required pace exceeds anything sustained in 2026, and the funding flywheel looks impaired. I keep a small tail for a deliberate milestone sprint.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3913",
+   "has_trace": true
+  }
+ ],
+ "Will Jay Clayton be Trump's AI czar?": [
+  {
+   "id": 3910,
+   "scanned_at": "2026-10-04T20:46:46.368823",
+   "date": "2026-10-04",
+   "agent": 92,
+   "market_price_t0": 91,
+   "edge": 0.009999999999999898,
+   "confidence": 0.764,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.93, 0.93, 0.89, 0.88, 0.97). (0) Resolution check: by Oct 4, 2026 the condition looks substantively met. Trump announced on Truth Social that Jay Clayton would lead the new \"Super Intelligence Force.\" NPR, AP/PBS, CNBC, CBS, NBC, Breitbart and others report this as Trump naming Clayton his \"AI czar\", and Wikipedia already lists him as White House AI czar. This follows Trump's Sept 19 pledge to appoint an \"AI czar\", his Sept 29 promise to name one within days, and his Axios remark that Clayton \"would be a good AI czar.\" (a) There are about 88 days to the Dec 31, 2026 deadline, so even a stricter re-announcement would have time to happen. (b) Status quo: the consensus of credible reporting, which the rules explicitly allow as a fallback, describes Clayton as the named AI czar, so Yes is the likely resolution. (c) NO scenario: resolvers read the rule literally and require the word \"czar\" in Trump's own text. The verbatim quotes of the post contain no \"czar\", and NewsNation called it \"unclear\" whether this was the official naming. Under that reading the market could be disputed or held for a later qualifying statement that never comes. (d) YES scenario: Polymarket accepts the near-unanimous media framing of the Oct 4 announcement, or Trump or the White House later uses \"czar\" explicitly, and the market resolves Yes. I anchor on the 91% market price, with the related \"no czar by Dec 31\" market at about 7.7% and every other candidate near zero. I nudge slightly up because the consensus-reporting clause strongly supports Yes, while keeping about 7% on the textual-technicality and dispute risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3910",
    "has_trace": true
   }
  ]

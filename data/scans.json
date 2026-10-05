@@ -2941,6 +2941,20 @@
  ],
  "Will the Democrats win the Ohio Senate race in 2026?": [
   {
+   "id": 3968,
+   "scanned_at": "2026-10-05T15:04:13.143784",
+   "date": "2026-10-05",
+   "agent": 59.8,
+   "market_price_t0": 61.5,
+   "edge": -0.017000000000000015,
+   "confidence": 0.6140000000000001,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.58, 0.58, 0.61, 0.61, 0.60). (0) The race is not resolved. Wikipedia and Ballotpedia, read on Oct 5, show no results or calls. The election is Nov 3, and early voting starts Oct 6.\n(a) About four weeks remain until Election Day, and AP/Fox/NBC calls would follow.\n(b) If the status quo holds, Brown keeps a roughly 3-point lead in the polling averages. 270toWin has D+3.0 and PollingSource D+3.0, with Siena 49-46, Suffolk 47-44, Marist 51-43 and InsiderAdvantage 44-43. He also leads in fundraising and benefits from a D-leaning national environment (generic ballot about D+7.7). That points toward Brown, which the Polymarket price of 61.5% reflects.\n(c) NO path: Ohio's structural R lean (Trump +11) pulls undecideds toward Husted. Fairshake's $30M+ crypto ad blitz lands, and polls understate Republicans again as in 2024, when the final RCP average was Moreno +1.7 against a +3.6 result and Brown had led many polls. Husted wins narrowly; fundamentals-weighted models such as Pollsmax (52.8% Husted) favor him.\n(d) YES path: Brown's independent and crossover strength and his lead among highly motivated voters hold. Weak Trump approval in Ohio (56% disapprove) and a broader Democratic wave, with Acton leading for governor, carry him over the line.\n\nI shade slightly below the market because Brown sits under 48% and Ohio has a recent record of R-favoring polling error. Consistency with the 65.5% Democratic Senate-control price, where Ohio is likely pivotal, keeps me near 0.58.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3968",
+   "has_trace": true
+  },
+  {
    "id": 3004,
    "scanned_at": "2026-09-16T03:24:46.263290",
    "date": "2026-09-16",
@@ -3042,6 +3056,20 @@
   }
  ],
  "Will Iliana Iotova win the next Bulgarian presidential election?": [
+  {
+   "id": 3992,
+   "scanned_at": "2026-10-05T21:33:44.496311",
+   "date": "2026-10-05",
+   "agent": 90,
+   "market_price_t0": 90,
+   "edge": 0,
+   "confidence": 0.744,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.89, 0.90, 0.90, 0.90, 0.91). (0) Not yet resolved. The CEC page could not be fetched, but the first round is on 25 Oct and the near-certain runoff is on 1 Nov 2026. The Oct 26 date is only the trading close; resolution follows the final result, which comes well before the Dec 2027 'Other' cutoff. (a) About three weeks remain to round one and about four weeks to the runoff. (b) Status quo: Iotova is the incumbent and is endorsed by the ruling Progressive Bulgaria (which has an absolute majority) plus BSP and VMRO. Four independent polls fielded Sept 23–Oct 4 (Market Links 41.4, Alpha 44.5, Sova Harris 50.2, Myara 46.9) put her roughly 18–26 points ahead of Gyurov (22–26%). She also has the highest personal approval of any politician (45.7%). In a runoff, Revival's roughly 10–13% leans toward her, so the status quo is an Iotova win. (c) NO: GERB formally backs Gyurov, or Borissov campaigns for him. A scandal (pardons, EU deficit clash) or 'one camp controls everything' framing then motivates pro-EU voters, and Gyurov wins a low-turnout runoff on differential motivation. One analysis puts this at about 14%. (d) YES: Iotova tops round one with mid-40s, consolidates nationalist and MRF-leaning voters, and wins the Nov 1 runoff comfortably. The market's 90% (bid 89/ask 91) already reflects the widening poll lead. I see no unpriced information to move far from it, so I shade slightly to 0.89 for low-turnout runoff variance.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3992",
+   "has_trace": true
+  },
   {
    "id": 3539,
    "scanned_at": "2026-09-28T19:14:26.476498",
@@ -10131,6 +10159,20 @@
  ],
  "Will the Democrats win the South Carolina Senate race in 2026?": [
   {
+   "id": 3985,
+   "scanned_at": "2026-10-05T19:52:10.457717",
+   "date": "2026-10-05",
+   "agent": 14.2,
+   "market_price_t0": 14.5,
+   "edge": -0.002999999999999975,
+   "confidence": 0.608,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.14, 0.13, 0.14, 0.14, 0.15). (0) Not resolved. The Ballotpedia and Wikipedia reads show the Nov 3 general election between Darline Graham (R) and Annie Andrews (D) has not happened, and AP, Fox and NBC have made no call. (a) About four weeks remain until Election Day, with resolution once all three outlets call the race or once it is certified. (b) The status quo is a Republican hold. Every likely-voter poll since the runoff has Graham ahead: InsiderAdvantage +2, Trafalgar +1, Rasmussen +5, Abacus +13. Cook rates the race Likely R, Sabato Safe R, and the models give Graham 85–96%. (c) NO path: SC's deep-red lean (Trump +18, no Democratic Senate win since 1998) reasserts itself. Undecided Republicans come home and NRSC and outside money reach the airwaves late, so Graham wins by mid-to-high single digits. That is the 2020 pattern, when Harrison polled near-tied and lost by 10. (d) YES path: Graham, an untested appointee, stumbles in the Oct 11 SCETV debate. Andrews' cash edge and the youth surge seen in Trafalgar's crosstabs combine with a D+7 national environment and Norman-aligned GOP defections to produce a turnout-driven upset. The tightened raw polling (about a 1–3 point gap) is real and unusual for SC, but polls here have historically overstated Democrats. The Polymarket price of 14.5% is stable over 30 days, and nothing found is clearly unpriced. I stay close to the anchor at 14%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3985",
+   "has_trace": true
+  },
+  {
    "id": 3063,
    "scanned_at": "2026-09-17T08:59:09.660681",
    "date": "2026-09-17",
@@ -12684,6 +12726,20 @@
   }
  ],
  "Will Russia capture Vodianske by December 31?": [
+  {
+   "id": 3989,
+   "scanned_at": "2026-10-05T20:41:01.357631",
+   "date": "2026-10-05",
+   "agent": 23.4,
+   "market_price_t0": 24.5,
+   "edge": -0.01100000000000001,
+   "confidence": 0.48600000000000004,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.21, 0.22, 0.24, 0.24, 0.25). (0) Not resolved. The resolution-source fetch returned no usable ISW or DeepState map data. No report shows ISW shading the Vodianske intersection as Russian-controlled or as an assessed advance. ISW has repeatedly rejected Russian MoD claims in this sector, including the Aug 19 claim that Vodianske was captured and the Sept 22 claim that Dobropillia was encircled. It put the nearest confirmed Russian-held terrain about 10 km from Dobropillia's southeastern outskirts.\n(a) About 12 weeks remain until Dec 31, 2026.\n(b) Status quo is NO: Vodianske is contested, with Russian infiltration that ISW classifies under layers that don't count, and ISW recorded no advances on this axis on Oct 2.\n(c) NO scenario: the slow Russian pace continues (ISW cites about 1.2 km²/day nationally and net losses of about 300 km² from March to September). Ukrainian units such as Azov hold the Dobropillia approaches, repeating the 2025 pattern here where Russian gains were reversed.\n(d) YES scenario: the August local breakthrough that CIT describes, the breach of the New Donbas fortification line, and DeepState-confirmed advances near Shevchenko, Bilytske and Ivanivka lead ISW to upgrade Vodianske to 'Assessed Russian Advances' before year-end. A settlement freezing the lines would not help, since Russia does not actually hold the village.\nThe market has fallen from about 43% to 24.5% over 30 days, consistent with stalled momentum. I shade slightly below the anchor because I found no evidence of qualifying shading and three months is short at the observed pace.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3989",
+   "has_trace": true
+  },
   {
    "id": 3113,
    "scanned_at": "2026-09-18T05:40:41.626884",
@@ -15690,7 +15746,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-05T10:25:40.598Z",
+  "last_sync": "2026-10-05T22:00:56.428Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -17241,6 +17297,20 @@
  ],
  "Will more than 8 tropical cyclones make landfall in China during 2026?": [
   {
+   "id": 3960,
+   "scanned_at": "2026-10-05T12:40:45.512416",
+   "date": "2026-10-05",
+   "agent": 20.2,
+   "market_price_t0": 20.5,
+   "edge": -0.002999999999999975,
+   "confidence": 0.528,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.19, 0.20, 0.20, 0.20, 0.21). (0) The condition has not been met. The CMA's most recent official tallies, a Sept 29 press briefing and a corroborating Oct 2 interagency release, both put 2026 China landfalls at 7. No new landfall was found between Sept 29 and Oct 5. YES therefore needs at least 2 more distinct landfalls. The resolution page itself could not be loaded, so an all-intensity count above the press figure (for example, depressions) is a modest upside risk to price. (a) About three months of calendar 2026 remain, but climatologically almost all late landfalls happen in October, with November and December landfalls rare. (b) Status quo: the count stays at 7 or reaches 8, both of which resolve NO. (c) NO: one storm hits Guangdong or Hainan in October, the season ends at 8, and a strengthening super El Niño pushes late-season genesis southeast and recurving away from China. (d) YES: CMA's 1–2 October landfall forecast verifies at the high end with two strikes, or one in October plus a rare November South China Sea landfall, or the Best Track page counts a weak system the press tally omitted. The Polymarket anchor is 20.5%, with related brackets pricing exactly 8 at 63.5% and exactly 7 at 11.5%. That is consistent with CMA's forecast centring on +1, and the research gives no specific unpriced information to move far from it. I shade slightly below the market because El Niño tends to suppress late-season China landfalls and the \"1–2\" forecast includes storms that merely \"significantly affect\" China without landing.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3960",
+   "has_trace": true
+  },
+  {
    "id": 3514,
    "scanned_at": "2026-09-28T02:31:59.218269",
    "date": "2026-09-28",
@@ -18600,6 +18670,20 @@
   }
  ],
  "Will Russia capture Dobropillia by December 31, 2026?": [
+  {
+   "id": 3958,
+   "scanned_at": "2026-10-05T11:53:38.182003",
+   "date": "2026-10-05",
+   "agent": 12.6,
+   "market_price_t0": 13,
+   "edge": -0.0040000000000000036,
+   "confidence": 0.548,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.12, 0.11, 0.13, 0.13, 0.14). (0) Not met. None of the sources show qualifying ISW shading at the central intersection. ISW's Sept 25 map put the nearest confirmed Russian positions about 10 km from the city, and its Oct 2 assessment found only infiltration attempts with no confirmed progress. The resolution-source fetch returned no map data, so the status quo has to be inferred from secondary reports of ISW. (a) About 12 weeks remain until Dec 31, 2026. (b) If nothing changes, the intersection stays outside the Russian-controlled and advance layers, and the market resolves No. (c) NO: Ukrainian forces (Azov/1st Corps) keep holding the town, as they did when they retook Hannivka. ISW keeps logging Russian entries as infiltration, which does not qualify, and the attack grinds through the New Donbas layers. That matches the 2025 Dobropillia offensive, which was reversed, and the slow Pokrovsk siege (about 21 months). (d) YES: Russia's committed reserves (90th Tank Division, 76th Airborne Assault Division, 2nd Combined Arms Army) widen the flanking pressure and force a Ukrainian withdrawal. The town is small, so if that happens, ISW could mark Assessed Russian Advances through the center within weeks, as with Avdiivka's quicker collapse. Russian MoD claims of fighting in the city center are unverified and contradicted by ISW. Meduza does confirm entry from the south and growing pressure, which is enough to keep a meaningful tail. The market sits at 13% (bid 12/ask 14), and the Oct 31 contract trades near 3%. The research surfaced no unpriced information pushing either way, so I stay just below the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3958",
+   "has_trace": true
+  },
   {
    "id": 3335,
    "scanned_at": "2026-09-23T00:05:19.319602",
@@ -20378,6 +20462,134 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.93, 0.93, 0.89, 0.88, 0.97). (0) Resolution check: by Oct 4, 2026 the condition looks substantively met. Trump announced on Truth Social that Jay Clayton would lead the new \"Super Intelligence Force.\" NPR, AP/PBS, CNBC, CBS, NBC, Breitbart and others report this as Trump naming Clayton his \"AI czar\", and Wikipedia already lists him as White House AI czar. This follows Trump's Sept 19 pledge to appoint an \"AI czar\", his Sept 29 promise to name one within days, and his Axios remark that Clayton \"would be a good AI czar.\" (a) There are about 88 days to the Dec 31, 2026 deadline, so even a stricter re-announcement would have time to happen. (b) Status quo: the consensus of credible reporting, which the rules explicitly allow as a fallback, describes Clayton as the named AI czar, so Yes is the likely resolution. (c) NO scenario: resolvers read the rule literally and require the word \"czar\" in Trump's own text. The verbatim quotes of the post contain no \"czar\", and NewsNation called it \"unclear\" whether this was the official naming. Under that reading the market could be disputed or held for a later qualifying statement that never comes. (d) YES scenario: Polymarket accepts the near-unanimous media framing of the Oct 4 announcement, or Trump or the White House later uses \"czar\" explicitly, and the market resolves Yes. I anchor on the 91% market price, with the related \"no czar by Dec 31\" market at about 7.7% and every other candidate near zero. I nudge slightly up because the consensus-reporting clause strongly supports Yes, while keeping about 7% on the textual-technicality and dispute risk.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3910",
+   "has_trace": true
+  }
+ ],
+ "Will Russia capture the Royal Café Alex in Kostyantynivka by December 31, 2026?": [
+  {
+   "id": 3982,
+   "scanned_at": "2026-10-05T19:05:04.358228",
+   "date": "2026-10-05",
+   "agent": 32,
+   "market_price_t0": 33,
+   "edge": -0.010000000000000009,
+   "confidence": 0.44800000000000006,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.30, 0.31, 0.33, 0.33, 0.33). (0) Resolution check: neither the ISW StoryMap nor DeepStateMap could be read, and no source mentions shading at 48.538°N, 37.688°E. I assume the building is not yet under a qualifying layer. (a) About 87 days remain until the December 31, 2026 deadline. (b) Status quo: ISW reported no Russian advances around Kostyantynivka on October 1–2 and a Russian net loss of about 81 km² across the front in September, so if nothing changes this resolves No. (c) No path: the city stays contested through winter. Russian presence (72% as of September 1, much of it infiltration) is not converted into ISW 'controlled' or 'advance' shading at this block. This mirrors the railway-station sibling market, which stayed contested past its deadline. (d) Yes path: the Subordinate Main Effort pushing from the south and southwest consolidates the western districts (Chervone, Suputnyk), and ISW extends its advance shading over this western-city building. That is plausible given Russian gains adjacent to the area. The Polymarket anchor is 33%, down from 86% within 30 days, which suggests traders saw map evidence that the building is not on the verge of falling. The sibling term structure is internally consistent: 7.5% by October 31, 15.5% by November 30, and 60.5% by March 31. I have no unpriced information to beat the market, so I shade slightly below it, given stalled advances and Ukrainian counterpressure.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3982",
+   "has_trace": true
+  }
+ ],
+ "Will David Eby be the next Premier of British Columbia?": [
+  {
+   "id": 3979,
+   "scanned_at": "2026-10-05T18:14:36.386028",
+   "date": "2026-10-05",
+   "agent": 53.4,
+   "market_price_t0": 56.5,
+   "edge": -0.030999999999999917,
+   "confidence": 0.568,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.51, 0.50, 0.56, 0.56, 0.53). (0) Not resolved. Eby is the sitting Premier, but the snap election is October 24, 2026, and swearing-in follows the official count (Nov 6–10) and return day (Nov 18). The Government of BC page only shows the pre-election status quo. (a) About 19 days until election day; resolution depends on a post-election swearing-in, with a June 30, 2027 backstop. (b) Status quo: Eby stays Premier and the NDP holds 47 seats, but the election itself decides the outcome. Current polls are a statistical tie to a small Conservative lead (Ipsos C42–N40, Leger C39–N36, Pollara tie, Innovative N41–C39). (c) NO: the snap-election backlash holds and the consolidated Conservatives under Doerkson win a plurality or majority. This fits 338Canada (Con 49 seats, about 54% to win most seats) and Vote-Scope (Con 52, 85% to finish first). (d) YES: the race tightens, as in Poliwave's Oct 4 projection of C47–N44. Eby's personal lead on preferred premier (39–35), OneBC/CentreBC vote-splitting in marginal seats like Kelowna Centre, and NDP turnout strength repeat 2024. That yields an NDP plurality, or a minority sustained with Green support. The market's 56.5% (up 7 points over the week) prices Eby as a slight favourite. Seat models lean Conservative, but the NDP-plus-Green minority path and the recent tightening offset some of that. I shade modestly below the market to roughly a coin flip.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3979",
+   "has_trace": true
+  }
+ ],
+ "Will OpenAI have the best Text-to-Image AI at the end of November 2026?": [
+  {
+   "id": 3975,
+   "scanned_at": "2026-10-05T17:25:20.377108",
+   "date": "2026-10-05",
+   "agent": 88.8,
+   "market_price_t0": 88.5,
+   "edge": 0.0030000000000001137,
+   "confidence": 0.72,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.88, 0.89, 0.89, 0.89, 0.90). (0) Not resolved yet. The latest read of arena.ai (Sep 24, still showing that timestamp on Oct 5) has OpenAI's gpt-image-2.5-sunburst at #1 with 1424, Flare at #2 and gpt-image-2 (medium) at #3. The nearest rival, Microsoft's mai-image-2.6, is ~89 points back. Yes resolves only if that still holds at the Nov 30 noon ET check. (a) About 8 weeks remain. (b) If nothing changes, OpenAI's top spot holds and the market resolves Yes. It has held #1 since ~April 2026, and the July and September sibling contracts both resolved for OpenAI. (c) The No path is Google shipping 'Nano Banana 3/Next' or xAI a new Grok Imagine in October or early November that clears ~1425 and finishes AutoEval before the check. Google's earlier Nano Banana launches did jump straight to #1, so this is a real but unconfirmed risk; no release date has surfaced. A small further slice comes from leaderboard methodology shifts or the source going down. (d) The Yes path is no rival flagship launching, or one landing too late or still AutoEval-tagged, which the rules exclude. OpenAI's three models keep the top spots, helped by the large gap and corroborating independent leaderboards. The market's 88.5% already prices this well, and the research found no unpriced information, so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3975",
+   "has_trace": true
+  }
+ ],
+ "Will WTI Crude Oil (WTI) hit (HIGH) $100 in October?": [
+  {
+   "id": 3973,
+   "scanned_at": "2026-10-05T16:38:26.372494",
+   "date": "2026-10-05",
+   "agent": 33.6,
+   "market_price_t0": 35,
+   "edge": -0.014000000000000012,
+   "confidence": 0.554,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.31, 0.33, 0.35, 0.35, 0.34). (0) Not resolved. Proxy data from Investing.com shows October intraday highs of only $91.85–$93.68 through Oct 4, and WTI is near $90 on Oct 5 (Trading Economics, Bloomberg). The Pyth CLL feed itself could not be read, so those figures are proxies. (a) There are about 26 days of trading sessions left before Oct 31. (b) Status quo is NO: WTI needs an ~11% rally, and momentum has been down for three weeks from September's ~$106.6 peak. (c) NO path: Gulf supply keeps recovering (JPMorgan sees 97% in October), Aramco's price cut signals competition for market share, and Trump has pushed renewed Iran action past the Nov 3 midterms. The roll to the Dec contract around Oct 15 likely moves the Active Month to a lower, backwardated price, so WTI grinds in the $85–95 range. (d) YES path: Hormuz is still closed, tanker strikes continue daily, and Houthi strikes on Khurais or the Bab el-Mandeb fight produce a confirmed supply loss. In this regime of very high volatility (FRED shows $10+ daily swings), a spike to $100 within days is plausible. A barrier-hit model with 45–60% annualized volatility gives roughly 35–50%. Bearish fundamentals, falling momentum and the backwardation roll argue toward the lower end. I anchor on the 35% market price, which has already fallen steeply, and shade slightly lower to 31%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3973",
+   "has_trace": true
+  }
+ ],
+ "Will Saudi airspace be closed by October 31?": [
+  {
+   "id": 3970,
+   "scanned_at": "2026-10-05T15:51:35.940292",
+   "date": "2026-10-05",
+   "agent": 6.8,
+   "market_price_t0": 7.5,
+   "edge": -0.0069999999999999785,
+   "confidence": 0.648,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.06, 0.06, 0.07, 0.07, 0.07). (0) No source shows a qualifying closure. As of Oct 4-5, Saudi airspace is open, GACA's news feed shows routine business, and flights are running normally on JED-RUH. The EASA CZIB and the French NOTAM are foreign advisories covering sub-areas, which exclusions (vii) and (ix) rule out. The southern airport closures are also subset closures and don't count. (a) About 26 days remain until Oct 31, 11:59 PM ET. (b) If nothing changes, the market resolves No. Saudi Arabia has kept the Jeddah FIR open through roughly eight months of the US-Iran war and the escalating Houthi campaign. Its ESCAT protocol is built for localized southern closures, not a FIR-wide one. (c) No: Houthi strikes keep being mostly intercepted or limited to energy sites, and GACA keeps responding with airport-level or sectoral measures through Oct 31. (d) Yes: a successful high-damage strike on Riyadh or Jeddah airport infrastructure, or a renewed Iran-Gulf flare-up (ceasefire break priced near 15% by Oct 31), prompts GACA to issue a precautionary FIR-wide NOTAM, as Kuwait, Qatar and Bahrain did within hours earlier in the war. Even a few hours would count. Escalation is real: missiles have reached Riyadh (Sep 19, Oct 3) and Medina. But the market at 7.5% already reflects this, and Saudi Arabia's consistent pattern of staying open as the reroute corridor argues slightly below the market. I estimate about 6%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3970",
+   "has_trace": true
+  }
+ ],
+ "Will the USS George Washington depart CENTCOM by November 30, 2026?": [
+  {
+   "id": 3965,
+   "scanned_at": "2026-10-05T14:15:30.651701",
+   "date": "2026-10-05",
+   "agent": 51.2,
+   "market_price_t0": 53,
+   "edge": -0.018000000000000016,
+   "confidence": 0.528,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.46, 0.47, 0.53, 0.53, 0.57). (0) Not resolved. CENTCOM imagery from Oct 1–2 shows GW operating in the Middle East, and since Bush quietly left (arriving in Phuket Oct 4), GW is the only carrier in theater; nothing on CENTCOM or Navy.mil shows a departure. (a) About 56 days remain until the Nov 30, 11:59 PM ET deadline. (b) If nothing changes, GW stays as the sole carrier and the market resolves No, so YES requires an affirmative rotation. (d) YES path: Theodore Roosevelt left San Diego Sept 27 and should reach the Arabian Sea around late October to early November after a roughly 4–5 week transit; GW is then released within days, as Lincoln was in August, and exits toward the Pacific before Nov 30. (c) NO path: with Bush already gone and a declared buildup aiming for multiple carriers near Iran by the end of November, planners hold GW alongside Roosevelt for a two-carrier posture. Roosevelt's arrival could also slip, or a quiet, unannounced exit could leave the departure materially ambiguous, which defaults to No. The related carrier-count markets put the most weight on 2 carriers on Nov 30 (45%) versus 1 (24%), consistent with GW staying. I anchor on the 53% Polymarket price, where the Nov 15 and Dec 31 ladder sits at 41.5% and 73%, but shade slightly toward No for two reasons the market may underweight: Bush's early exit raises the value of keeping GW, and the ambiguity clause favors No.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3965",
+   "has_trace": true
+  }
+ ],
+ "Will WTI Crude Oil (WTI) hit (LOW) $85 in October?": [
+  {
+   "id": 3963,
+   "scanned_at": "2026-10-05T13:28:44.947686",
+   "date": "2026-10-05",
+   "agent": 72.6,
+   "market_price_t0": 72,
+   "edge": 0.006000000000000005,
+   "confidence": 0.5800000000000001,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.73, 0.74, 0.72, 0.72, 0.72). (0) Not yet met. The lowest documented October print is $88.06 on Oct 2 (CME, Tradingeconomics, Investing.com). Live Pyth CLL data could not be read, so none of these sources shows $85 touched. (a) About 26 calendar days, roughly 19 trading sessions, remain before the October sessions end. Mid-month the Active Month rolls from the Nov26 contract (last trade Oct 19) to Dec26 around Oct 15. In a backwardated, supply-shocked curve the December contract likely trades below November, which modestly helps YES. (b) Status quo: WTI is near $89–90, about 5% above the strike, so if prices simply drift sideways in the high-$80s to low-$90s this resolves NO. (c) NO path: the Iran/Hormuz risk premium persists, with tanker attacks and Trump rejecting a ceasefire. Dips keep being bought at $87.75–88.5 Fibonacci support, and the G7 release proves too small, as Goldman suggests. (d) YES path: the 100M-barrel G7 release hits mainly in October–November and Gulf exports keep recovering. A de-escalation headline or a break of $88.5 then sends prices to the $86.3/$84.4 technical targets. Realized volatility is very high (about $5 daily ranges), and a simple touch-probability calculation at roughly 55% annualized vol gives about 70–75% for a 5% drop within the window. That matches the market's 72%, so I see no unpriced information to justify a large move and stay close to the anchor with a slight nudge for the roll effect.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3963",
+   "has_trace": true
+  }
+ ],
+ "Will the Democrats win the Nevada governor race in 2026?": [
+  {
+   "id": 3955,
+   "scanned_at": "2026-10-05T11:06:17.338614",
+   "date": "2026-10-05",
+   "agent": 53.2,
+   "market_price_t0": 54.5,
+   "edge": -0.013000000000000012,
+   "confidence": 0.522,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.52, 0.52, 0.55, 0.55, 0.53). (0) Nothing is resolved yet. The general election is November 3, 2026, with AP, Fox and NBC calls or certification to follow. The NO report's claim that a slow count before the Nov 4 trading close forces NO misreads the rules: resolution waits for the calls or certification, so I give that path no weight. (a) About four weeks remain; mail ballots go out the week of Oct 5 and early voting runs Oct 17–30. (b) Status quo is a genuine toss-up. RCP averages Ford +0.5, a five-tracker aggregate has Lombardo +1.2, and the only recent nonpartisan poll (Emerson, Sept 5–8) has Ford 44–42 with about 11% undecided. (c) NO: Lombardo's large cash and paid-media edge ($20M+ in reserved ads, $9M vs $3.7M cash on hand) and incumbency carry him narrowly. That would fit Sabato, Inside Elections and Race to the WH leaning R, plus Nevada's recent tendency for polls to underrate Republicans (2024). (d) YES: a favorable midterm environment for the out-party, the Culinary Union ground game, abortion-rights Question 6 turnout and Planned Parenthood spending push Ford over the line. That would fit his rising support and Lombardo's approval slipping to 40/39. The Polymarket anchor is 54.5%, up 15 points in 30 days. That run-up may reflect national-environment sentiment more than new Nevada-specific data, since I found no post-September 8 polling. Given the R-leaning forecaster split and the money gap, I shade slightly below the market to about 52%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3955",
    "has_trace": true
   }
  ]

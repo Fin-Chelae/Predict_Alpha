@@ -2053,6 +2053,20 @@
  ],
  "Trump declares election interference national emergency by December 31?": [
   {
+   "id": 3998,
+   "scanned_at": "2026-10-05T23:13:49.269406",
+   "date": "2026-10-05",
+   "agent": 25.4,
+   "market_price_t0": 29.5,
+   "edge": -0.04099999999999998,
+   "confidence": 0.584,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.22, 0.21, 0.29, 0.29, 0.25). (0) Not resolved. The Federal Register and White House listings through October 2, 2026 show no new NEA declaration citing election interference. The only election-related emergency action is the August 31 routine renewal of the 2018 EO 13848 foreign-interference emergency, and renewals are explicitly excluded.\n\n(a) About 12 weeks remain until December 31, 2026, a window that includes the November 3 midterms and the post-election contest period.\n\n(b) Status quo is No. The administration has worked through other channels: ordinary EO 14399 litigation, the routine renewal, and the Hegseth cyber memo. There have been no reported OLC or Staff Secretary procedural steps since the September 24 CNN/Atlantic \"advisers urge\" story, and the White House said those outside advisers play no role.\n\n(c) No scenario: Trump keeps hedging (\"I'm not committing to anything,\" Time, around October 1), relies on the courts, the midterms pass, and no qualifying order is signed. This fits the empty historical reference class for domestic election-control emergencies and the lapse of Bannon's late-August predicted deadline.\n\n(d) Yes scenario: Republicans lose a chamber or races are close, and the existing 17-page draft order is signed in November or December to contest results. Alternatively, Trump amends EO 13848 to explicitly add voting machines or ballots, which could count as a material modification.\n\nThe market sits at 29.5% and has risen 12.5 points in 30 days on the September reporting and Trump's non-denials. I shade below it because there is no concrete procedural evidence, the legal and political costs are high, and the trend looks news-driven rather than tied to documented steps. Still, Trump's repeated refusal to rule it out and the ready-made draft keep a real tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3998",
+   "has_trace": true
+  },
+  {
    "id": 1802,
    "url": "https://forecast.agenticlearning.ai/scans/v2/1802",
    "date": "2026-08-24",
@@ -4575,6 +4589,20 @@
  ],
  "Will Kuomintang (KMT) win the most head of local government elections in the 2026 Taiwan local elections?": [
   {
+   "id": 4011,
+   "scanned_at": "2026-10-06T03:22:18.739239",
+   "date": "2026-10-06",
+   "agent": 88.7,
+   "market_price_t0": 89.5,
+   "edge": -0.008000000000000118,
+   "confidence": 0.6119999999999999,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.88, 0.88, 0.90, 0.90, 0.89). (0) The condition is not yet met. Voting is on Nov 28, 2026, and the CEC results page could not be accessed, though no results could exist yet. (a) About 7.5 weeks remain until the election and the Nov 29 close. (b) Status quo: the KMT holds 16 of 22 seats, and Templeman's Aug 28 seat ratings give it about 12 (safe, likely and leans) against about 7 for the DPP, with New Taipei and Penghu as toss-ups and Hsinchu City held by an independent. That is a clear KMT plurality. (c) NO: the DPP holds its leaners and likelies (7), wins both toss-ups, and flips Taipei or two lean-KMT seats such as Hualien or Hsinchu County, helped by scandal fallout and the TPP split in Zhubei. Even a tie would go to the DPP, because ties resolve alphabetically and 'Democratic Progressive Party' precedes 'Kuomintang'. That is a real tail risk, since the DPP needs only to draw level, not to pass. (d) YES: Taipei (Chiang led by 15 in TPOC's Sept 20 poll, though one Sept 22 poll had him up only 1.2), Taichung (+12.6) and the offshore strongholds hold, giving the KMT about 11-13 seats against the DPP's 7-9. The Polymarket anchor of 89.5% (DPP contract at 11.35%) fits this structure. The KMT defending 10 open seats, Lai's roughly even approval and the weak New Taipei candidate justify a slight trim but not a big move.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4011",
+   "has_trace": true
+  },
+  {
    "id": 2461,
    "scanned_at": "2026-09-02T03:20:28.896877",
    "date": "2026-09-02",
@@ -6831,6 +6859,20 @@
  ],
  "Will the Republicans win the Montana Senate race in 2026?": [
   {
+   "id": 4009,
+   "scanned_at": "2026-10-06T02:36:54.528272",
+   "date": "2026-10-06",
+   "agent": 92.2,
+   "market_price_t0": 91.5,
+   "edge": 0.007000000000000006,
+   "confidence": 0.77,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.93, 0.93, 0.92, 0.92, 0.93). (0) Not resolved: the election is Nov. 3, 2026, and per Ballotpedia and Wikipedia no results or calls exist yet. AP, Fox and NBC would still have to call the race for Alme, or certification would have to confirm it. (a) About four weeks remain until Election Day; the market closes Nov. 4. (b) Status quo strongly favors YES. Every post-primary poll shows Alme with a double-digit lead in the three/four-way field: American Pulse has him at 45-26-19, Quantus at 44-24-23, and the RCP average at Alme +14. Bankhead and Bodnar both refused to exit before the Aug. 10 deadline, and Montana law would replace a withdrawn Democratic nominee anyway. Cook, Inside Elections and Sabato all rate the race Solid or Safe R, and DDHQ gives Alme roughly 90%. (c) NO path: Bankhead informally urges her voters to back Bodnar, and a late collapse in her support plus Bodnar's fundraising edge and Alme's debate absences produce consolidation. Head-to-head polls (GQR Bodnar 50-44, Hart 47-45 Alme) show a consolidated anti-Alme vote could win, but nothing like that is visible in October polling. (d) YES path: the vote split persists, Trump-endorsed Alme carries an R+20 state with around 42-45%, and networks call it on election night. Anchoring on the Polymarket price of 91.5%, I nudge slightly up because the most recent October poll shows the split holding and no consolidation signals. A large-ish residual remains for a late shadow-consolidation tail and the polling errors typical of multi-candidate races.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4009",
+   "has_trace": true
+  },
+  {
    "id": 3227,
    "scanned_at": "2026-09-20T07:20:30.949807",
    "date": "2026-09-20",
@@ -8321,6 +8363,20 @@
  ],
  "Will the Democrats win the Wisconsin governor race in 2026?": [
   {
+   "id": 4000,
+   "scanned_at": "2026-10-06T00:10:33.255018",
+   "date": "2026-10-06",
+   "agent": 72.8,
+   "market_price_t0": 80.5,
+   "edge": -0.07700000000000007,
+   "confidence": 0.612,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.75, 0.75, 0.73, 0.72, 0.69). (0) The race has not happened. Election day is November 3 and no AP, Fox or NBC call exists, so nothing is resolved; Crowley has to win the vote and get called or certified. (a) About four weeks remain. There is one debate on Oct 21, and absentee voting is already underway. (b) Status quo: Crowley leads narrowly. Marquette (Sept 16–23) has him at 49–46 among likely voters, RCP's average is Crowley +3.5, and every post-primary poll has had him ahead. The environment is poor for the president's party, with Trump at 38% approval in Wisconsin, and since 1932 the White House party has won only 6 of 34 Wisconsin governor races. (c) NO scenario: Tiffany's money keeps eroding Crowley. His side has outspent Crowley on ads $40M to $26M, with a $62M support network, while Crowley's net favorability fell from +4 to -13. Undecided independents break late, the debate helps Tiffany, and a typical Wisconsin polling miss of 3–4 points flips a race that is within the margin of error. (d) YES scenario: the midterm backlash against an unpopular Trump, the Democratic turnout-enthusiasm edge (85% vs 78% certain to vote) and the generic-ballot lead hold. That carries Crowley's persistent 3-point lead to a win. The market sits at 80.5%. That looks somewhat rich next to the polls, the model-based Pollsmax forecast of 61% and the toss-up ratings from Cook, Sabato and Inside Elections. The tightening trend, the money gap and Crowley's sliding favorability argue for shading down, while the national environment argues against going much lower. I settle around 75%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4000",
+   "has_trace": true
+  },
+  {
    "id": 2948,
    "scanned_at": "2026-09-15T01:09:51.950760",
    "date": "2026-09-15",
@@ -8990,6 +9046,20 @@
   }
  ],
  "Will there be exactly 0 confirmed VEI 4 or higher volcanic eruptions worldwide in 2026?": [
+  {
+   "id": 4021,
+   "scanned_at": "2026-10-06T06:32:14.454853",
+   "date": "2026-10-06",
+   "agent": 28.8,
+   "market_price_t0": 24,
+   "edge": 0.04799999999999999,
+   "confidence": 0.4640000000000001,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.24, 0.26, 0.30, 0.30, 0.34). (0) The resolving condition is not met yet. The GVP 2026 row still shows \"—\" in the VEI columns, the data cut off on 31 Mar 2026, and the 7 Aug 2026 release finished reviewing only 2025. The outcome turns on how GVP classifies 2026 events in its 31 Mar 2027 snapshot. (a) That leaves about 3 months of eruptions still to happen and about 6 months of classification lag. (b) If nothing changes, the table reads zero, but that zero reflects the lag, not a final count. (c) NO: Anak Krakatau's 4–6 Sept paroxysm, with ash reported to 15 km and about 3,000 flights disrupted, is logged as a new 2026-start eruption at VEI 4. Other routes to NO are the separately dated Lewotobi eruption of 3 Mar 2026 being rated VEI 4, or a new VEI4+ eruption somewhere in Q4. The base rate is about 1.5 VEI4+ per year, so roughly a 25% chance of at least one in the remaining months. (d) YES: GVP rates Krakatau VEI 2–3. Its lava fountains, lava flows and the 300 m column measured by PVMBG suggest more effusive than Plinian volume, and volcanodb already lists it as VEI 2. Krakatau might also be folded into an older start year, Lewotobi's 2026 activity stays small (1–2.5 km plumes), and Q4 stays quiet. The historical rate of zero years is about 15–20%. The Polymarket anchor is 23.5%, with a wide 17/30 spread and a sharp drop over the last week; the sibling market for exactly 1 sits at 45.5%. I see the Krakatau VEI4 case as weaker than the plume headlines imply. However, the market may be reacting to information the research didn't surface, and the classification risks cut both ways. So I stay close to the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4021",
+   "has_trace": true
+  },
   {
    "id": 2659,
    "scanned_at": "2026-09-06T00:13:40.118980",
@@ -13397,6 +13467,20 @@
  ],
  "Will the Republicans win the Florida Senate race in 2026?": [
   {
+   "id": 4006,
+   "scanned_at": "2026-10-06T01:50:53.489416",
+   "date": "2026-10-06",
+   "agent": 90.3,
+   "market_price_t0": 91.5,
+   "edge": -0.012000000000000122,
+   "confidence": 0.688,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.88, 0.90, 0.92, 0.92, 0.91). (0) Not resolved yet. Wikipedia and Ballotpedia, as of Oct 5, show Moody (R) and Nixon (D) as nominees and report no results or race call; AP, Fox and NBC calls can only come after the Nov 3 vote. (a) About four weeks remain until the election, and early voting runs Oct 24–31. (b) Status quo favours Moody: the 270toWin average is roughly Moody 48.6–Nixon 43.4. Stetson (51–40), InsiderAdvantage (+7) and Quantus (+7) all show her ahead, and Cook and Sabato rate the race Solid/Safe R. She has a large cash edge, the GOP has a 1.5M voter-registration advantage, Trump won Florida by 13 in 2024, and Democrats have not won a Florida Senate race since 2012. (c) NO path: the national environment is sour for Republicans and Florida is not immune. Polymarket prices Democratic Senate control at 65.5%, and Civiqs shows Trump net approval in Florida at -16. The Hope Florida grand jury story keeps hurting Moody, who is ducking debates, and further disclosures could land before Nov 3. Nixon wins independents, as St. Pete Polls (tie) and Change Research (+1) suggest, and benefits from a polling miss. (d) YES path: the fundamentals hold, Nixon's money and name-ID deficits cap her ceiling, and Moody wins by mid-single digits or more. The market anchor is 91.5%. I shade slightly below it because of the tightening late-September polls and the clearly Democratic-leaning national environment. The related Florida governor market at only 76.5% R also suggests some Republican softness, though Florida's history of polls understating Republicans limits how far I move.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4006",
+   "has_trace": true
+  },
+  {
    "id": 1618,
    "scanned_at": "2026-08-22T07:40:09.071127",
    "date": "2026-08-22",
@@ -15746,7 +15830,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-05T22:00:56.428Z",
+  "last_sync": "2026-10-06T10:16:48.310Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -16961,6 +17045,20 @@
  ],
  "Will the Houthis enter Saudi Arabia by October 31?": [
   {
+   "id": 4019,
+   "scanned_at": "2026-10-06T05:44:47.189931",
+   "date": "2026-10-06",
+   "agent": 13.4,
+   "market_price_t0": 11,
+   "edge": 0.024000000000000007,
+   "confidence": 0.5860000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.12, 0.11, 0.16, 0.16, 0.12). (0) Resolution check: no source shows the condition met. The resolution-source read through Oct 4, CFR's tracker and the news reports all describe missile and drone strikes (Riyadh-area Aramco, Medina substation, Khamis Mushait), a naval blockade and fighting inside Yemen. The rules explicitly exclude all of these. (a) About 25 days remain until Oct 31, with a possible 3-day grace period if the outcome is ambiguous. (b) If nothing changes, the status quo is bombardment plus a Yemeni government counteroffensive inside Yemen, which resolves No. (c) NO scenario: the Houthis stay tied down defending Mocha, Taiz and Hodeidah against Operation Yemen Dawn and its 100-jet air cover. Meanwhile the newly activated Mecca Defence Alliance reinforces Saudi border defence, and the Saada buildup produces only shelling or a repelled attempt with no credible confirmation of entry. (d) YES scenario: forces massed at Kataf, Al-Buqaa and Alab launch a brief symbolic raid into Najran or Jizan, seizing a border post on video, as claimed in 2015 and 2019. Credible outlets or Saudi statements about 'repelled infiltration' then establish that Houthi forces did cross. The New Arab's Oct 1 report of government sources saying 'a border war is coming' is the main new upside signal. Against it stand the historical rarity of confirmed entry, the contested-claim problem and the coalition's current momentum. Anchoring on Polymarket's 11% (bid 10 / ask 12), I see roughly balanced evidence: the buildup report is offset by the alliance activation and the Houthi losses elsewhere. I nudge only slightly to 12%, allowing for the fact that 2015–2019 border fighting inside Saudi territory was more common than the base-rate report implies.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4019",
+   "has_trace": true
+  },
+  {
    "id": 3552,
    "scanned_at": "2026-09-29T04:55:27.668882",
    "date": "2026-09-29",
@@ -17808,6 +17906,20 @@
   }
  ],
  "Will the Democrats win the Minnesota Senate race in 2026?": [
+  {
+   "id": 4004,
+   "scanned_at": "2026-10-06T01:03:58.447587",
+   "date": "2026-10-06",
+   "agent": 84.6,
+   "market_price_t0": 86.5,
+   "edge": -0.019000000000000017,
+   "confidence": 0.622,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.84, 0.83, 0.86, 0.86, 0.83). (0) The race is not resolved. Ballotpedia and Wikipedia show only the Aug 11 primaries: Flanagan won the DFL nomination with 59% and Tafoya the GOP nomination with 52.1%. AP, Fox and NBC calls can only come after the Nov 3 general election. (a) About four weeks remain. Early voting is underway and the MPR debate is on Oct 16. (b) Status quo: Flanagan leads narrowly in every public poll (RCP +1.6; InsiderAdvantage +1; Big Data +2; SurveyUSA tied; Quantus +3.8). Minnesota has elected no Republican senator since 2002. (c) NO: the Medicaid/Feeding Our Future fraud scandal keeps sticking to Flanagan, soft and undecided voters break toward Tafoya, and late NRSC money tips a race within one point. (d) YES: the national environment pulls Flanagan through. Polymarket prices Democrats at 92.5% for the House and 65.5% for the Senate, which implies a strongly Democratic year. Many of the tight polls come from R-leaning firms, and Flanagan's money, endorsement and youth-vote advantages hold. The market anchor is 86.5%, down 7 points in 30 days. The quantitative models I found sit somewhat lower (PoliAgg 79%, Pollsmax 79.6%), Kalshi is at 86%, and Cook still rates the race Lean D while openly skeptical of the close public polls. I shade slightly below the market to 84% to reflect genuinely close polling and downward momentum, offset by the favorable midterm environment.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4004",
+   "has_trace": true
+  },
   {
    "id": 3041,
    "scanned_at": "2026-09-16T22:31:47.376023",
@@ -18731,6 +18843,20 @@
  ],
  "Will Olivia Chow win the 2026 Toronto mayoral election?": [
   {
+   "id": 4026,
+   "scanned_at": "2026-10-06T08:05:50.471508",
+   "date": "2026-10-06",
+   "agent": 84,
+   "market_price_t0": 87.5,
+   "edge": -0.03499999999999992,
+   "confidence": 0.708,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.85, 0.85, 0.83, 0.83, 0.84). (0) The race has not been decided. The City of Toronto elections page shows only logistics: advance voting runs Oct 6–11 and election day is Oct 26. No results exist, so Chow still has to win a plurality on Oct 26. (a) About 20 days remain until election day, and the market closes Oct 27. (b) If nothing changes, Chow wins. Every independent poll through Sept 30 has her ahead of Bradford, with Alexander third at 6–10%: Liaison 48–39, Mainstreet about 45–38, Forum 46–35 and Canada Pulse 51–34. The field has been locked since Aug 21, and the anti-incumbent vote remains split. (c) NO scenario: polls drift toward Bradford in the final weeks, which is plausible. Chow's approval has slipped to 49/45, North York and Scarborough have tightened to single digits, and many undecided voters say they want change. Alexander could fold his support behind Bradford, or the WhatsApp group-chat story could grow, producing a Bradford plurality. (d) YES scenario: the stable 7–17 point lead holds through a fragmented field and Chow is re-elected, matching the strong record of Toronto incumbents. The Polymarket anchor is 87.5%, flat over 7 days. The only purpose-built model (City Hall Watcher) is more cautious at about 77%, because historical poll-to-result drift accounts for 80% of its uncertainty. I shade slightly below the market toward the model, but a consistent multi-pollster lead three weeks out justifies staying near the low-to-mid 80s.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4026",
+   "has_trace": true
+  },
+  {
    "id": 3360,
    "scanned_at": "2026-09-23T16:48:07.346191",
    "date": "2026-09-23",
@@ -19054,6 +19180,20 @@
   }
  ],
  "Will Russia capture all of Bilytske by December 31?": [
+  {
+   "id": 3995,
+   "scanned_at": "2026-10-05T22:27:00.472712",
+   "date": "2026-10-05",
+   "agent": 48.4,
+   "market_price_t0": 52.5,
+   "edge": -0.041000000000000036,
+   "confidence": 0.472,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.45, 0.44, 0.53, 0.53, 0.48). (0) Not resolved. The ISW map could not be fetched. ISW's daily reports through late September and early October still describe fighting inside Bilytske, Ukrainian positions in its western and southwestern parts, and Russian infiltration, which does not qualify. The lone Wikipedia claim of a July 23 capture contradicts ISW's later reporting and appears stale, so I give it little weight. (a) About 87 days remain until the Dec 31, 11:59 PM ET deadline. (b) If the front holds as it is, the town stays contested and the market resolves No. (c) No scenario: Ukraine keeps repelling attacks, as the General Staff reported on Oct 4–5, and Vivaldi-era momentum holds; ISW reported a net Russian loss of 81 km² in September and no confirmed progress near Dobropillia on Oct 2. Ukrainian pockets in the west of the town keep the full-shading requirement unmet, consistent with how long other Donetsk towns have taken to fall. (d) Yes scenario: DeepState logged near-weekly Russian advances at Bilytske (Sep 14 entry, Sep 18, Sep 28, Oct 1, Oct 3), Russia is pushing on its Shevchenko flank, and a reported Oct–Dec buildup lands here. Because the built-up area is small (~2 km²), once those pockets collapse ISW could shade the whole municipality within a single update. The market anchor is 52.5% and has drifted down 5 points this week. The looser-resolution sister market sits at 70.5% and the October-deadline market at 15.5%, consistent with Yes landing late in the window. I shade slightly below the market because the full-area and persistence requirements are strict, and ISW's latest reporting shows stalled Russian progress.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/3995",
+   "has_trace": true
+  },
   {
    "id": 3409,
    "scanned_at": "2026-09-25T02:28:43.930129",
@@ -19522,6 +19662,20 @@
   }
  ],
  "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?": [
+  {
+   "id": 4024,
+   "scanned_at": "2026-10-06T07:19:23.928651",
+   "date": "2026-10-06",
+   "agent": 38.4,
+   "market_price_t0": 37,
+   "edge": 0.014000000000000068,
+   "confidence": 0.558,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.39, 0.40, 0.37, 0.37, 0.39). (0) Not resolved. The Fed's open market page and FRED's DFEDTARU series show the upper bound at 4.00% after the September 16, 2026 hike, and the January 26-27, 2027 meeting has not happened. YES needs a fresh 25bp hike at that meeting, measured against whatever level exists just before it. (a) About 16 weeks remain, with the October 28 and December 9 meetings coming first. (b) Status quo is NO. The September dot plot median has one more hike in 2026 and then a flat 2027, so the expected path ends with a hike in December, not January. A Bloomberg economist survey also leaned toward an extended hold. (c) NO: the Fed hikes in December, as Kalshi's 72% for that meeting suggests, then pauses in January to assess. That fits January being a non-SEP meeting and the softer September jobs and inflation data that cooled hike odds. (d) YES: inflation stays near 3.5% and Warsh, who has been more hawkish than the median dot, keeps pushing. Several outlooks (U.S. Bank, iShares, Morningstar) model 2-4 more hikes by mid-2027, and futures-based Central Bank Watch shows roughly a 44.5% chance of a fresh move priced at the January meeting. The Polymarket anchor is 37% (bid 36, ask 38), down 9.5 points this week after the soft data. Futures imply somewhat more, but far-dated futures pricing is noisy and the economist consensus leans toward a hold. I nudge slightly above the market to 39%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4024",
+   "has_trace": true
+  },
   {
    "id": 3531,
    "scanned_at": "2026-09-28T14:27:07.642439",
@@ -20590,6 +20744,70 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.52, 0.52, 0.55, 0.55, 0.53). (0) Nothing is resolved yet. The general election is November 3, 2026, with AP, Fox and NBC calls or certification to follow. The NO report's claim that a slow count before the Nov 4 trading close forces NO misreads the rules: resolution waits for the calls or certification, so I give that path no weight. (a) About four weeks remain; mail ballots go out the week of Oct 5 and early voting runs Oct 17–30. (b) Status quo is a genuine toss-up. RCP averages Ford +0.5, a five-tracker aggregate has Lombardo +1.2, and the only recent nonpartisan poll (Emerson, Sept 5–8) has Ford 44–42 with about 11% undecided. (c) NO: Lombardo's large cash and paid-media edge ($20M+ in reserved ads, $9M vs $3.7M cash on hand) and incumbency carry him narrowly. That would fit Sabato, Inside Elections and Race to the WH leaning R, plus Nevada's recent tendency for polls to underrate Republicans (2024). (d) YES: a favorable midterm environment for the out-party, the Culinary Union ground game, abortion-rights Question 6 turnout and Planned Parenthood spending push Ford over the line. That would fit his rising support and Lombardo's approval slipping to 40/39. The Polymarket anchor is 54.5%, up 15 points in 30 days. That run-up may reflect national-environment sentiment more than new Nevada-specific data, since I found no post-September 8 polling. Given the R-leaning forecaster split and the money gap, I shade slightly below the market to about 52%.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/3955",
+   "has_trace": true
+  }
+ ],
+ "Will the next Muse model family be named Muse Flare?": [
+  {
+   "id": 4031,
+   "scanned_at": "2026-10-06T09:40:24.855634",
+   "date": "2026-10-06",
+   "agent": 16.3,
+   "market_price_t0": 18.1,
+   "edge": -0.01739999999999997,
+   "confidence": 0.512,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.15, 0.14, 0.18, 0.18, 0.17). (0) Not resolved. Muse Spark, Image, Video, Glimmer and Code all predate this market's September 2026 opening and are existing families, so they do not count. Meta's site lists no new family as of Oct 6, and no source anywhere ties the word \"Flare\" to Meta. (a) About 12 weeks remain until Dec 31, 2026. (b) If nothing changes, either no new family ships or it ships under some other name, so the status quo is No. (c) NO: Meta ships the \"Watermelon\" frontier model in Oct–Nov, but as Muse Spark 2, a standalone name, or another Muse word (Fire, Flame, Nova). Alternatively, Meta ships only Spark point releases, which do not qualify. (d) YES: Watermelon or a parallel model launches as \"Muse Flare\", continuing the light/fire naming of Spark and Glimmer. The anchor is Polymarket at 18%, up about 8 points this week, which is the highest among the named options except Fire (21.5%). That move could reflect a leak my research did not surface, but I found no trademark, app-string or reporter evidence for \"Flare\". The sibling market at 89% for a Watermelon release by Nov 30 makes a qualifying launch likely, but the specific word remains a guess among many candidates. I shade slightly below market to 15%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4031",
+   "has_trace": true
+  }
+ ],
+ "Will the Republic of the Congo have an Ebola case in 2026?": [
+  {
+   "id": 4029,
+   "scanned_at": "2026-10-06T08:54:29.724648",
+   "date": "2026-10-06",
+   "agent": 18.8,
+   "market_price_t0": 24,
+   "edge": -0.05199999999999999,
+   "confidence": 0.6220000000000001,
+   "category": "Health",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.16, 0.16, 0.22, 0.22, 0.18). (0) No source shows the condition met: CDC's Oct 5 summary lists confirmed cases only in DRC, Uganda and France, WHO's Disease Outbreak News has no Congo entry, WHO AFRO's Congo page shows only preparedness news, and Congo-Brazzaville said in May it had recorded no case. (a) About 86 days remain until December 31, 2026. (b) Status quo is No: after nearly five months of a record outbreak, no case has appeared, Sud-Ubangi on the border is stuck at 1-2 cases, and growth is concentrated in far-eastern North Kivu. (c) No path: Sud-Ubangi stays contained, the epidemic burns mainly in the east, and entry screening holds, as in the 11th and 14th DRC outbreaks when the same high-risk label produced no case here. (d) Yes path: a traveller from Sud-Ubangi or a new Equateur or Kinshasa flare-up crosses the rivers or the Kinshasa-Brazzaville corridor and is lab-confirmed in Congo. The Polymarket mid of 24% (bid 14 / ask 34) is a weak anchor; WHO's high-risk rating and one report of imports reaching Kinshasa keep the risk real, but the absence of Congo from the published importation model, the flat border front and the historical record justify pricing below the mid.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4029",
+   "has_trace": true
+  }
+ ],
+ "Will Pedro Sánchez be the next Prime Minister of Spain?": [
+  {
+   "id": 4016,
+   "scanned_at": "2026-10-06T04:57:19.115963",
+   "date": "2026-10-06",
+   "agent": 17,
+   "market_price_t0": 17.5,
+   "edge": -0.005249999999999977,
+   "confidence": 0.66,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.15, 0.18, 0.18, 0.18). (0) Not resolved. La Moncloa still lists Sánchez as Presidente del Gobierno, now in a caretaker role after dissolving parliament on 5 Oct 2026. To resolve YES he would need to win an investiture vote after the 29 Nov 2026 snap election and be sworn in again. (a) About 18 months remain before the 31 Mar 2028 deadline. That leaves ample time for one or even two investiture cycles, so the question is who wins, not whether anyone does. (b) Status quo: if the polls hold, PP+Vox win roughly 199–212 seats (8-poll average about 205), well above the 176 needed, and Feijóo is invested, so NO. (c) NO scenario: PP leads by 7–8 points, Vox nearly doubles its seats, Junts stays hostile after helping defeat the housing decrees, and Feijóo becomes PM in December or January, possibly with Vox in coalition. (d) YES scenario: Sánchez repeats his 2023 pattern. A late left consolidation as Sumar's Frente Amplio flounders, plus a polling miss, pushes PP+Vox just under 176. He then rebuilds the ERC/Bildu/PNV/BNG/Junts support bloc, or PP–Vox talks collapse. This needs a much larger polling error than in 2023, when the right was projected near 176 rather than about 205. I anchor on Polymarket's 17.5%, with Kalshi's equivalent market at about 15–19%. The recent upward drift likely reflects the incumbent's 2023 comeback reputation, but the structural seat gap and Junts' break argue for trimming slightly to 15%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4016",
+   "has_trace": true
+  }
+ ],
+ "Houthis enter Aden by October 31, 2026?": [
+  {
+   "id": 4014,
+   "scanned_at": "2026-10-06T04:10:03.791840",
+   "date": "2026-10-06",
+   "agent": 9.7,
+   "market_price_t0": 11.5,
+   "edge": -0.01800000000000003,
+   "confidence": 0.638,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.08, 0.12, 0.12, 0.10). (0) Nothing shows the condition met. The resolution-source read (Wikipedia 2026 Yemen offensives page, Reuters/US News Sept 24) finds Aden under PLC control since January 2026 and no Houthi ground entry into any of the seven qualifying districts. The only Houthi 'contact' with Aden so far is drones and missiles, which the bombardment clause excludes. (a) About 25 days remain until October 31, plus a possible 3-day grace window for genuine ambiguity. (b) If nothing changes, the answer is No. The nearest confirmed Houthi gains (al-Safiya/al-Turbah on the Taiz–Aden road) are roughly 150km by road from Aden city. Lahij defenses are reported holding, with Houthi attacks at Al-Mudharabah repelled on Oct 5. The PLC and Saudi coalition have also launched a large counteroffensive (Operation Yemen Dawn) backed by about 100 Saudi aircraft. (c) No scenario: Saudi airpower and the layered Lahij defenses keep the front well north of Aden, and Taiz City holds. ISW/CTP say Taiz must fall before any Aden push, so no Aden operation can begin within the window. (d) Yes scenario: Taiz collapses quickly after the road cut and morale breaks among government units. A 2015-style rapid exploitation through Lahij and Al-Anad then puts Houthi units, or proxy cells acting on their behalf, inside Sheikh Othman or Dar Sad before Oct 31. That chain requires several unlikely steps in under four weeks. I anchor on the Polymarket price of 11.5% (down from a 44.5% peak, flat over 7 days) and shade below it. The newest reporting (Oct 2–5) shows stalled Houthi progress near Aden and government momentum, which the market may not fully reflect. I keep a tail for sudden collapse or proxy infiltration under the broad 'on its behalf' clause.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4014",
    "has_trace": true
   }
  ]

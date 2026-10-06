@@ -989,6 +989,20 @@
  ],
  "Will Apple release a touchscreen MacBook in 2026?": [
   {
+   "id": 4047,
+   "scanned_at": "2026-10-06T14:27:47.003785",
+   "date": "2026-10-06",
+   "agent": 76.2,
+   "market_price_t0": 79,
+   "edge": -0.027999999999999914,
+   "confidence": 0.606,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.76, 0.76, 0.76, 0.79, 0.74). (0) The condition is not met yet. Apple's newsroom and MacBook Pro pages show only M5-series MacBook Pros without touch. No touchscreen MacBook has been announced or put on sale, so Apple must announce and ship one to the public by Dec 31, 2026. (a) That leaves about 12 weeks. (b) The status quo is No: if nothing happens, the market resolves No. (c) No scenario: the DRAM/NAND shortage, which Macworld in September and Gurman in April said pushed the project toward early 2027, forces a slip past year-end. Or Apple announces in December with 2027 availability. Gurman made a similar 'as early as October' call a year earlier that did not pan out, though that 2025 quote looks suspiciously identical to the 2026 one and may be misdated. (d) Yes scenario: Gurman's Oct 1 call holds ('as early as October, could slip to November'). Hardware testing is tied to macOS 27.2, whose beta 3 adds named touch-gesture APIs in Notes, Photos, Safari and Quick Look. The device uses existing M5 Pro/Max silicon, and Apple launches it via press release or event in October or November with near-immediate availability. Branding risk is small: even 'MacBook Ultra' contains 'MacBook' and should satisfy the 'explicitly branded a MacBook' rule. I anchor on the 79% Polymarket price, which rose 17 points in 30 days on this fresh Gurman reporting. I shade slightly lower because the base rate of slippage in this rumor cycle is poor, the memory shortage is ongoing, no Mac event is scheduled, and an announced-but-not-shipping outcome remains possible.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4047",
+   "has_trace": true
+  },
+  {
    "id": 3043,
    "scanned_at": "2026-09-16T23:19:37.683902",
    "date": "2026-09-16",
@@ -4255,6 +4269,20 @@
  ],
  "Will the Democratic Party control the House after the 2026 Midterm elections?": [
   {
+   "id": 4039,
+   "scanned_at": "2026-10-06T12:04:15.268480",
+   "date": "2026-10-06",
+   "agent": 89.3,
+   "market_price_t0": 92.5,
+   "edge": -0.03200000000000003,
+   "confidence": 0.716,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.89, 0.89, 0.89, 0.89, 0.91). (0) Not resolved. The election is November 3, 2026. The resolution-source read (Silver Bulletin, Oct 5) shows only forecasts, not results, so Democrats still have to win at least 218 seats on Election Day. (a) About four weeks remain until the election, plus possible counting time; early voting is underway with over a million ballots cast. (b) If nothing changes, Democrats win. The generic ballot sits at a cycle-high D+8.9 (D+9.6 among likely voters), Trump's approval is around 37% (about -23 net), Cook projects a 5-15 seat Democratic gain, and Sabato and Cook toss-ups lean heavily toward Republican-held seats. Democrats need only about a net +3 to +6 seats. (c) NO path: a 2016/2020-style pro-GOP polling miss of 3-4 points, combined with the Republican redistricting buffer (+5 to +8 seats) and a large cash and ad advantage ($888M vs $666M), lets Republicans sweep most of the roughly 20 toss-ups and narrowly hold the chamber. (d) YES path: the D+9 environment, comparable to or larger than 2018's 41-seat wave, holds and Democrats land at 223-235 seats, as DDHQ, Poliwave and Smarter.Vote project. The anchor is Polymarket at 92.5%, with Kalshi's same question at 91.5% as an independent crowd. The seat models are lower (DDHQ 76%, Smarter.Vote 72.5%, Silver figures of uncertain date around 66-70%). That gap and residual polling-error risk lead me to shade slightly below market, to 0.89.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4039",
+   "has_trace": true
+  },
+  {
    "id": 3065,
    "scanned_at": "2026-09-17T09:44:29.775117",
    "date": "2026-09-17",
@@ -7341,6 +7369,20 @@
  ],
  "Will ByteDance be added to the Chinese Military Companies list by June 30, 2027?": [
   {
+   "id": 4063,
+   "scanned_at": "2026-10-06T19:09:03.689160",
+   "date": "2026-10-06",
+   "agent": 13.6,
+   "market_price_t0": 16.5,
+   "edge": -0.02899999999999997,
+   "confidence": 0.5860000000000001,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.10, 0.10, 0.17, 0.17, 0.15). (0) Not met. The DoD/DoW release of the June 8, 2026 list (188 entities) does not show ByteDance, and every law-firm and press summary of the additions omits it. No source shows ByteDance added since. YES requires a new official 1260H update naming ByteDance or a parent/subsidiary. (a) The deadline is June 30, 2027, about 8.8 months away. (b) Status quo is NO. The statute only requires updates 'no less frequently than annually,' and the last update came about 17 months after the one before it, so a new list before the deadline is likely but not certain (roughly 55-65%). (c) NO scenario: the next update slips past June 2027, or it arrives but targets hardware, chip, EV and biotech firms like those on the Feinberg shortlist and in congressional letters (DeepSeek, Xiaomi, Gotion, etc.). ByteDance has appeared on none of these. Its TikTok issue was handled through the PAFACA/CFIUS divestiture, and the administration's TikTok deal and trade-truce posture lower the appetite to list it. (d) YES scenario: congressional anger over ByteDance's retained TikTok algorithm and 19.9% stake, shown in the Select Committee scrutiny, feeds into an H1 2027 update that names ByteDance or an AI subsidiary under a broad military-civil-fusion rationale. The subsidiary clause widens this path. The market sits at 16.5%. Given no shortlist mention, no congressional request and an uncertain update timing, I estimate roughly 60% × 15% ≈ 9-10%, a bit below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4063",
+   "has_trace": true
+  },
+  {
    "id": 3157,
    "scanned_at": "2026-09-19T01:00:03.188554",
    "date": "2026-09-19",
@@ -9135,6 +9177,20 @@
  ],
  "Will OpenAI have the best Text-to-Image AI at the end of October 2026?": [
   {
+   "id": 4037,
+   "scanned_at": "2026-10-06T11:17:16.911173",
+   "date": "2026-10-06",
+   "agent": 89.6,
+   "market_price_t0": 88.5,
+   "edge": 0.01100000000000012,
+   "confidence": 0.756,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.90, 0.91, 0.89, 0.89, 0.90). (0) Not yet resolved. The resolution source snapshot from Oct 5, 2026 shows OpenAI holding ranks 1-3 on the arena.ai Text-to-Image Overall board: sunburst at 1425, flare at 1397 and gpt-image-2 medium at 1384. None of these is flagged AutoEval, so OpenAI currently wins, but resolution depends on the Oct 31 12:00 PM ET check. (a) About 25 days remain. (b) If nothing changes, the market resolves Yes. Even OpenAI's settled, non-preliminary rank-3 entry leads the best challenger, Grok canvas at 1336, by about 48 points, and sunburst leads it by about 89. (c) NO scenario: Google, SpaceXAI or Microsoft ships a new image model that jumps roughly 90+ Elo, as xAI did in one release cycle. Google could plausibly pair an image model with Gemini 4. Smaller paths are an AutoEval reclassification, a methodology change, or a permanent outage resolving to 'Other'. No such release is scheduled or leaked. (d) YES scenario: the status quo holds, as it has since April 2026, and OpenAI can refresh again if challenged; it may have an unreleased next-generation checkpoint. The market sits at 88.5% and the related November market at 90%. I see no unpriced information that strongly moves this, so I nudge slightly up to 0.90 given the large cushion and short window.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4037",
+   "has_trace": true
+  },
+  {
    "id": 3482,
    "scanned_at": "2026-09-27T04:53:03.956477",
    "date": "2026-09-27",
@@ -10170,6 +10226,20 @@
   }
  ],
  "Puffpaw FDV above $100M one day after launch?": [
+  {
+   "id": 4051,
+   "scanned_at": "2026-10-06T15:14:29.049602",
+   "date": "2026-10-06",
+   "agent": 22,
+   "market_price_t0": 24.5,
+   "edge": -0.024999999999999967,
+   "confidence": 0.564,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.21, 0.21, 0.24, 0.24, 0.19). (0) Not resolved. As of 2026-10-06, CoinMarketCap and other trackers show $VAPE at a $0 price with $0 volume, and no exchange listing or TGE date has been announced. A qualifying launch and a FDV above $100M at 4pm ET the next day both still have to happen. (a) There are about 12 weeks until the Dec 31, 2026 11:59 PM ET launch deadline. (b) If nothing changes, there is no launch and the market resolves No by default. That is the main driver: the sibling 'launch by Dec 31, 2026' market sits at ~29.5%, and the whitepaper still says final tokenomics are unreleased. (c) NO: the TGE slips into 2027, as earlier dates did (January 2026 slipped). Or it launches into a weak crypto market with a ~$6–10M raise and no Tier-1 listing, and FDV lands below $100M ($0.10/token on 1B supply). (d) YES: a December TGE with a CEX listing, a low ~14% float, and real hardware revenue ($12–17M) supports a price above $0.10/token on day 2. The deep FDV ladder ($50M at 31%, $100M at 24.5%) implies traders see a $100M+ FDV as likely if a launch happens. That conditional is plausible, but launch probability is the bottleneck. The thin launch market (29.5%) and the absence of any TGE signal this late lead me to shade slightly below the 24.5% anchor, consistent with the downward 7-day trend.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4051",
+   "has_trace": true
+  },
   {
    "id": 3190,
    "scanned_at": "2026-09-19T15:16:01.454329",
@@ -11872,6 +11942,20 @@
   }
  ],
  "Will Tesla sell a Cybercab for 30k or less in 2026?": [
+  {
+   "id": 4058,
+   "scanned_at": "2026-10-06T17:36:58.423937",
+   "date": "2026-10-06",
+   "agent": 22.2,
+   "market_price_t0": 26.5,
+   "edge": -0.04300000000000004,
+   "confidence": 0.5740000000000001,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.17, 0.17, 0.27, 0.27, 0.24). (0) Resolution check: no source shows a qualifying sale. Tesla's site lists no price or configurator. The Q3 delivery report (Oct 2) shows only Model 3/Y deliveries. Every Cybercab built so far, roughly 45 to 169 registered in Texas, sits in Tesla's own robotaxi fleet, which the rules explicitly exclude. (a) About 12 weeks remain until Dec 31, 2026. The Oct 21 earnings call is the main scheduled venue for a retail announcement. (b) Status quo is NO. There is no MSRP, no consumer order page, and the only purchase channel is a commercial/fleet interest form. Tesla walked back 2026 volume production in July. (c) NO scenario: the NHTSA Special Order on FMVSS compliance (no foot brake control) drags on with follow-up questions. Tesla keeps routing units to Austin and Houston fleets, and any retail launch slips into 2027, matching Tesla's history with the Model 3 at $35k and the Cybertruck's price and timing. (d) YES scenario: Musk and Moravy repeatedly promised a sub-$30k sale to a customer before 2027, and the MKBHD bet gives Musk a personal motive. Tesla prices a unit at $30k or less via the individual-purchase interest form and completes one symbolic December delivery to a member of the public. Whether such a sale counts under the 'general public, publicly available terms' test is also uncertain. The market sits at 26.5% after a +12.5% weekly jump, apparently driven by fleet scaling and showcase news rather than any retail-sale signal. Given the regulatory overhang, the absence of any pricing or order infrastructure, and Tesla's base rate on cheap-variant promises, I shade below the market. I keep meaningful weight on a stunt sale because only one transaction is needed.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4058",
+   "has_trace": true
+  },
   {
    "id": 1931,
    "scanned_at": "2026-08-25T13:32:20.877736",
@@ -15830,7 +15914,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-06T10:16:48.310Z",
+  "last_sync": "2026-10-06T20:19:42.186Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -16705,6 +16789,20 @@
  ],
  "2026 Balance of Power: R Senate, R House": [
   {
+   "id": 4042,
+   "scanned_at": "2026-10-06T12:53:37.247688",
+   "date": "2026-10-06",
+   "agent": 8.6,
+   "market_price_t0": 8.5,
+   "edge": 0.0010000000000000009,
+   "confidence": 0.6900000000000001,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.09, 0.09, 0.09, 0.09, 0.09). (0) Not resolved. The election is on November 3, 2026, and every source, including the resolution-source read, is pre-election forecasting rather than results. (a) The election is about four weeks away and trading closes November 4. Counting and any runoffs could push final attribution later. (b) Status quo: Republicans hold both chambers today, but the environment points strongly against keeping them. The generic ballot is D+8.9 (D+9.6 among likely voters), Trump's approval sits near record lows (AP-NORC 31%), and Cook shows 17 GOP-held toss-ups against 5 Democratic. (c) NO, the dominant path: Democrats pick up the handful of net seats they need for the House, which most models put at 90%+ (Silver 93%, FiftyPlusOne 99%, Kalshi about 92%). That alone makes YES impossible, whatever happens in the Senate. (d) YES: a 2022/2024-style polling miss of 4+ points toward the GOP, combined with the Texas and North Carolina redistricting floors, holds the House narrowly. The same error keeps Ohio, Iowa and Michigan red, so the Senate stays Republican; the two outcomes are highly correlated. The anchor is Polymarket at 8.5%, consistent with the related R-House market at 7.5% and R-Senate at 35.5%. DDHQ's 22% sweep figure is an outlier, against Silver and FiftyPlusOne, which imply roughly 1-7%. I see no unpriced information strong enough to move off the market, so I hold near 8.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4042",
+   "has_trace": true
+  },
+  {
    "id": 3173,
    "scanned_at": "2026-09-19T08:13:03.447345",
    "date": "2026-09-19",
@@ -16906,6 +17004,20 @@
   }
  ],
  "Will Erling Haaland be the #1 searched person on Google this year?": [
+  {
+   "id": 4053,
+   "scanned_at": "2026-10-06T16:00:56.746305",
+   "date": "2026-10-06",
+   "agent": 14.4,
+   "market_price_t0": 15.5,
+   "edge": -0.010999999999999982,
+   "confidence": 0.526,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.13, 0.14, 0.15, 0.15, 0.14). (0) Not met: the Google Year in Search hub still shows only the 2025 list (d4vd #1, Haaland absent); a 2026 Global People list must be published with Haaland at #1. (a) Release is expected in early-to-mid December 2026, about two months away, well before the March 31, 2027 'Other' deadline. (b) The market anchor is 15.5%, down 5.5 points over 30 days; Haaland is reportedly the favourite among named candidates but far from a lock. (c) NO: the category rewards year-over-year breakout, and every #1 since 2021 has been a sudden-news figure, never an already-famous athlete; Haaland's high baseline caps his relative spike, and Bad Bunny, Trump, a true-crime figure like Savannah Guthrie or a Q4 story could beat him. Dolly Parton's August death was a larger spike, but the 2025 list's omission of Charlie Kirk suggests deceased people may be routed to Passings, which weakens that point. (d) YES: his World Cup surge (900%+ global YoY, Google's own Viking Row Easter egg, his own 'search my name' push) holds as the largest sustained breakout, helped by the global breadth a World Cup star brings. Weighing the structural base rate and the downward price trend, I shade slightly below market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4053",
+   "has_trace": true
+  },
   {
    "id": 3164,
    "scanned_at": "2026-09-19T04:14:20.267603",
@@ -18275,6 +18387,20 @@
  ],
  "Will Anthropic have the best AI Agent at the end of October 2026?": [
   {
+   "id": 4055,
+   "scanned_at": "2026-10-06T16:48:30.491287",
+   "date": "2026-10-06",
+   "agent": 84.6,
+   "market_price_t0": 83.5,
+   "edge": 0.010999999999999899,
+   "confidence": 0.72,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.86, 0.85, 0.83, 0.83, 0.85). (0) Not yet resolved. The resolution source (arena.ai/leaderboard/agent, Oct 2 snapshot, reconfirmed Oct 6) shows Anthropic's Claude Fable 5.1 (Max) at #1, with Anthropic also at #2 and #3. The check is Oct 31 at 12:00 PM ET, so Anthropic only needs to keep the top spot until then. (a) About 25 days remain. (b) If nothing changes, the market resolves YES: Anthropic holds the top three ranks, about 2 points ahead of OpenAI's GPT 6 Astra (Max) at #4. Any challenger would have to pass all three Claude models, not just one. (c) NO path: OpenAI or Google ships a new flagship in mid-October that collects enough sessions to leave AutoEval and debut at #1. Alternatively, an Arena methodology reweighting reorders a close top group, since the confidence intervals of #1 and #4 overlap. (d) YES path: no new frontier release lands in time. OpenAI shelved GPT-6.1 Astra on safety grounds (CNBC, Sep 28). GPT-6.1 Sol sits at #5. Gemini 4 Argon debuted only at #10, and Grok 5 has no release date. Any very late release would likely still be marked AutoEval and so excluded. The market's 83.5% anchor seems slightly conservative given the three-deep redundancy and the absence of known challengers. Remaining risks are surprise releases, methodology tweaks, and the historically fast crown rotation on Arena boards, so I price YES slightly above market at 0.86.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4055",
+   "has_trace": true
+  },
+  {
    "id": 3486,
    "scanned_at": "2026-09-27T07:16:03.577216",
    "date": "2026-09-27",
@@ -19089,6 +19215,20 @@
  ],
  "Will the Republicans win the New Hampshire Senate race in 2026?": [
   {
+   "id": 4065,
+   "scanned_at": "2026-10-06T19:54:32.606838",
+   "date": "2026-10-06",
+   "agent": 12,
+   "market_price_t0": 10.5,
+   "edge": 0.015000000000000027,
+   "confidence": 0.678,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.13, 0.13, 0.10, 0.10, 0.13). See above.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4065",
+   "has_trace": true
+  },
+  {
    "id": 3388,
    "scanned_at": "2026-09-24T12:01:07.650060",
    "date": "2026-09-24",
@@ -19756,6 +19896,20 @@
   }
  ],
  "Will the Fed Hike–Hike–Hike in the next three decisions (Sep–Oct–Dec)?": [
+  {
+   "id": 4035,
+   "scanned_at": "2026-10-06T10:26:58.838516",
+   "date": "2026-10-06",
+   "agent": 11.8,
+   "market_price_t0": 12,
+   "edge": -0.0020000000000000018,
+   "confidence": 0.6599999999999999,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.12, 0.11, 0.12, 0.12, 0.12). (0) Resolution check: the condition is neither met nor ruled out. Leg one is confirmed: the Fed hiked 25bp to 3.75–4.00% on Sep 16 (Atlanta Fed and Fed press release; FRED DFEDTARU = 4.00). The October 27–28 and December 8–9 decisions are still pending. (a) About 3 weeks remain to the October decision and roughly 9 weeks to the December decision and market close. (b) Status quo: CME FedWatch, Kalshi and other trackers price an October hold at about 78–82%, with hike odds near 18–22%. Those odds collapsed from about 70% after September payrolls came in at +29k with unemployment rising to 4.2%, and a hold in October alone resolves No. (c) NO scenario: the Fed skips October, citing the soft labor data, a shutdown-related data gap and the patience urged by Jefferson and Williams, then perhaps hikes in December; that is a Hike–Hold–Hike path. (d) YES scenario: a hot September CPI print (Oct 14), together with oil above $100 and hawks like Logan ('50bp or more'), revives an October hike, and December follows. Roughly, P(Oct hike) ≈ 0.20 times P(Dec hike | Oct hike) ≈ 0.65–0.75 gives about 0.13–0.15. The Polymarket anchor of 12% (bid 11 / ask 13) is consistent with that, and I see no unpriced information worth deviating for. I hold close to the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4035",
+   "has_trace": true
+  },
   {
    "id": 3545,
    "scanned_at": "2026-09-29T00:08:20.477985",
@@ -20808,6 +20962,38 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.07, 0.08, 0.12, 0.12, 0.10). (0) Nothing shows the condition met. The resolution-source read (Wikipedia 2026 Yemen offensives page, Reuters/US News Sept 24) finds Aden under PLC control since January 2026 and no Houthi ground entry into any of the seven qualifying districts. The only Houthi 'contact' with Aden so far is drones and missiles, which the bombardment clause excludes. (a) About 25 days remain until October 31, plus a possible 3-day grace window for genuine ambiguity. (b) If nothing changes, the answer is No. The nearest confirmed Houthi gains (al-Safiya/al-Turbah on the Taiz–Aden road) are roughly 150km by road from Aden city. Lahij defenses are reported holding, with Houthi attacks at Al-Mudharabah repelled on Oct 5. The PLC and Saudi coalition have also launched a large counteroffensive (Operation Yemen Dawn) backed by about 100 Saudi aircraft. (c) No scenario: Saudi airpower and the layered Lahij defenses keep the front well north of Aden, and Taiz City holds. ISW/CTP say Taiz must fall before any Aden push, so no Aden operation can begin within the window. (d) Yes scenario: Taiz collapses quickly after the road cut and morale breaks among government units. A 2015-style rapid exploitation through Lahij and Al-Anad then puts Houthi units, or proxy cells acting on their behalf, inside Sheikh Othman or Dar Sad before Oct 31. That chain requires several unlikely steps in under four weeks. I anchor on the Polymarket price of 11.5% (down from a 44.5% peak, flat over 7 days) and shade below it. The newest reporting (Oct 2–5) shows stalled Houthi progress near Aden and government momentum, which the market may not fully reflect. I keep a tail for sudden collapse or proxy infiltration under the broad 'on its behalf' clause.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/4014",
+   "has_trace": true
+  }
+ ],
+ "Will OpenAI announce another Millennium Prize solution by December 31, 2026?": [
+  {
+   "id": 4060,
+   "scanned_at": "2026-10-06T18:23:07.081488",
+   "date": "2026-10-06",
+   "agent": 25.2,
+   "market_price_t0": 27,
+   "edge": -0.018000000000000016,
+   "confidence": 0.538,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.23, 0.25, 0.27, 0.27, 0.25). (0) Not met. OpenAI's only Millennium announcement so far is Navier-Stokes on Sept 8, which the rules explicitly exclude. A tracker updated Oct 4 and the Oct 3 reporting both show no OpenAI claim that Hodge, BSD, Riemann, Yang-Mills or P vs NP is solved. (a) About 12 weeks remain until Dec 31, 2026. (b) If nothing changes, the market resolves No. (c) No path: the rumored Hodge result stalls in verification, or OpenAI follows the AGMAI 'responsible release' norms (literature review, formalization, no marketing framing) and pushes any release into 2027. It might also be framed only as partial progress, which does not qualify. The hostile reception from mathematicians after the Navier-Stokes priority dispute makes delay more likely. (d) Yes path: OpenAI converts its on-record 'substantial progress on a second Millennium Problem' (told to the NYT) into a 'solved' announcement for Hodge. That is backed by The Information's Sept 17 report that employees expect a solution soon and by IEEE Spectrum on Oct 5. Its 88-hour Navier-Stokes sprint shows the capability and the willingness to announce, and competitive pressure from Anthropic could speed things up. I anchor on Polymarket's 26.5%. Nearly a month has passed since the 'soon' leak with nothing announced, and the new release protocol plus PR caution slow things. The Hodge lead rests on a single anonymous source. Against that, OpenAI's own progress statement is real, so I shade only slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4060",
+   "has_trace": true
+  }
+ ],
+ "Will OpenAI announce another Millennium Prize solution by December 31, 2027?": [
+  {
+   "id": 4044,
+   "scanned_at": "2026-10-06T13:40:09.730834",
+   "date": "2026-10-06",
+   "agent": 62.4,
+   "market_price_t0": 63.5,
+   "edge": -0.01100000000000001,
+   "confidence": 0.534,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.61, 0.62, 0.64, 0.64, 0.62). (0) Not resolved. OpenAI's only Millennium announcement so far, Navier-Stokes on Sept 8 2026, is explicitly excluded by the rules. The Clay page lists all five qualifying problems as unsolved. The Oct 4 fact-checks find no OpenAI statement naming Hodge, BSD, Riemann, P vs NP or Yang-Mills as solved. (a) About 15 months remain, to Dec 31 2027. (b) Status quo is No: OpenAI has only said on the record that it made \"substantial progress\" on an unnamed second problem, and Hodge rumors rest on a single anonymous source in The Information. (c) No scenario: the Hodge attempt stalls or turns out flawed, and OpenAI chooses not to announce. Post-backlash caution and the new IAS advisory group, which coordinates releases, slow or soften any claim into \"progress\" language. Rumor timelines have already slipped, from \"this week or next\" in mid-September to nothing three weeks later. (d) Yes scenario: the internal model, which OpenAI says resolved 100+ open problems in 24 days, completes a Hodge or BSD proof with Lean formalization. OpenAI, under competitive pressure from Anthropic, publishes a blog post and paper declaring it solved, as it did for Navier-Stokes. I anchor on the 63.5% Polymarket price. Related markets agree: \"no Millennium problem solved by AI by 2027\" trades at 35%, and the \"next solved\" buckets sum to roughly 60%. I shade slightly down for slipping rumor timelines, the added review layer, and the bar requiring a full \"solved\" claim rather than partial results. The 15-month window and OpenAI's demonstrated willingness to make maximalist announcements keep Yes favored.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4044",
    "has_trace": true
   }
  ]

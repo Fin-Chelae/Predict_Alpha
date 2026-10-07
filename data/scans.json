@@ -8317,6 +8317,20 @@
  ],
  "Extended FDV above $300M one day after launch?": [
   {
+   "id": 4111,
+   "scanned_at": "2026-10-07T10:29:51.597027",
+   "date": "2026-10-07",
+   "agent": 38,
+   "market_price_t0": 39,
+   "edge": -0.010000000000000009,
+   "confidence": 0.542,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.35, 0.37, 0.39, 0.39, 0.40). (0) Not resolved: Extended's X profile and trackers show no EXT launch as of 2026-10-07; it must launch a tradable token by Dec 31, 2026 11:59 PM ET with FDV >$300M at 4 PM ET the next day. (a) About 12 weeks remain. (b) Status quo is No: Season 1 points are still running, there is no TGE date or published tokenomics, and the newly announced migration from Starknet to Circle's Arc could delay a TGE. Anchor: the market is at 39%, and the related launch-by-year-end market at 69% implies about 56% conditional on launch; the $150M and $500M strikes (60% and 21.5%) are consistent with that. I discount the launch odds to about 55% given missed H1/Q3 targets and the chain migration. Conditional on launch, perp-exchange comparables (Hyperliquid $4.2B, Lighter about $2.4B, Aster $560M, Fogo $527M, GRVT about $350M), about $500M daily volume and the founder's claimed refusal of funding above $300M support about 60%, tempered by a thin $19M raise and a mid-pack ranking. (c) No: the TGE slips to 2027, or it launches at about $200M FDV in a soft market. (d) Yes: a Q4 TGE after points end, a 30% airdrop with buybacks, trading at $400-800M FDV.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4111",
+   "has_trace": true
+  },
+  {
    "id": 3202,
    "scanned_at": "2026-09-19T20:55:41.448297",
    "date": "2026-09-19",
@@ -9441,6 +9455,20 @@
  ],
  "Will a hurricane make landfall in Hawaii before 2027?": [
   {
+   "id": 4141,
+   "scanned_at": "2026-10-07T20:04:46.003375",
+   "date": "2026-10-07",
+   "agent": 13.8,
+   "market_price_t0": 36,
+   "edge": -0.22199999999999998,
+   "confidence": 0.648,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.10, 0.12, 0.17, 0.16, 0.14) after one crux research pass. (0) The condition is not already met. CPHC Advisories 15 and 15A placed Lala's center 30–55 miles SW/W of South Point. NWS Honolulu (via Civil Beat), AP and NASA all say the eye or center did not cross land. Lowell's center stayed about 145 miles NW of Lihue, and Nolo only skirted the islands before crossing the Date Line. Today's CPHC outlook shows no cyclones and no formation expected for 7 days.\n(a) About 12 weeks remain until Dec 31; the formal season ends Nov 30.\n(b) If nothing changes, the market resolves No.\n(c) No: the basin stays quiet or late storms track away or weaken, as Lala, Lowell and Nolo all did. This is the climatological norm (roughly 2 Cat-1+ landfalls since 1950).\n(d) Yes, by one of three paths:\n- A late-season storm in this super El Niño year makes a center landfall at hurricane strength, Iwa-style (November 1982). I put this at roughly 4–6%, elevated above climatology.\n- The resolver leans on loose \"direct hit\" wording from AP, the NWS event page or Wikipedia about Lala's eyewall, despite the explicit surface-center rule. Roughly 3–4%.\n- A best-track correction reclassifies Lala before Dec 31. Roughly 1%, since TCRs usually come later and a 30-mile offset is unlikely to be revised to a crossing.\nThe Polymarket anchor (29.5% mid, 38% last close) sits on a very wide 17/42 spread with thin $56k volume. Commentary suggests traders have conflated \"direct hit\" headlines with landfall, so I fade it substantially to about 10%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4141",
+   "has_trace": true
+  },
+  {
    "id": 3069,
    "scanned_at": "2026-09-17T11:27:48.873002",
    "date": "2026-09-17",
@@ -9809,6 +9837,20 @@
  ],
  "Will Variational launch a token by December 31, 2026?": [
   {
+   "id": 4136,
+   "scanned_at": "2026-10-07T18:28:03.998142",
+   "date": "2026-10-07",
+   "agent": 83.2,
+   "market_price_t0": 86.4,
+   "edge": -0.03149999999999997,
+   "confidence": 0.662,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.80, 0.80, 0.86, 0.86, 0.84). (0) Not resolved yet. The resolution source (@variational_io) shows only the Sept 24 announcement that the $VAR TGE is \"set for Q4 2026\", and trackers as of Oct 5 confirm no TGE date and no tradable token. (a) About 12 weeks remain until the 11:59 PM ET Dec 31, 2026 deadline. (b) Status quo is No: nothing tradable exists today, so Yes requires an actual TGE with public transferability inside Q4. (c) No scenario: public mainnet, the trading API and the buyback/utility disclosures, which the team says must come before TGE, slip again. Variational has already slipped from a 2025 token target to Q3 2026 and then to Q4 2026, and public mainnet has been pending since mid-2025. Even a few weeks' delay into January resolves No, because the stated latest bound coincides with the deadline. (d) Yes scenario: the team honors its public, dated Q4 commitment. Supporting signals are full tokenomics published, the points program set to end \"no later than Dec 31\", Arbitrum teasing $VAR, swaps already shipped and a treasury accruing for buybacks. It launches in November or December, as comparable perp DEXs (Aster, Hyperliquid) did once tokenomics were public. The anchor is Polymarket at 86%. The related Oct 31 (3%) and Nov 30 (27.5%, thin volume) markets imply roughly 59% of the mass falls in December alone. That leaves heavy back-loading with zero buffer against this project's documented slippage history, so I shade modestly below market to 0.80.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4136",
+   "has_trace": true
+  },
+  {
    "id": 2085,
    "scanned_at": "2026-08-28T02:48:32.922450",
    "date": "2026-08-28",
@@ -10056,6 +10098,20 @@
   }
  ],
  "Will FISA Section 702 reauthorization become law this year?": [
+  {
+   "id": 4124,
+   "scanned_at": "2026-10-07T14:25:04.906351",
+   "date": "2026-10-07",
+   "agent": 9.8,
+   "market_price_t0": 10.5,
+   "edge": -0.006999999999999992,
+   "confidence": 0.6599999999999999,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.09, 0.09, 0.10, 0.10, 0.10). (0) The condition has not been met. No source shows any Section 702/Title VII reauthorization passing both chambers since the authority lapsed on June 12, 2026. The Senate vehicles S.4342 and S.4344 have been stalled on the calendar since May, and NBC (Oct 3) lists FISA 702 among items punted to the lame duck. (a) About 12 weeks remain until Dec 31, but Congress is out until Nov 9. That leaves roughly 6-7 working weeks, shared with the Dec 11 funding cliff, the NDAA, Ex-Im, the Farm Bill and other items. (b) If nothing changes, the answer is No: the lapse continues, and FISC certifications running to about March 2027 remove the usual forcing deadline, so slipping the fight into the new Congress is the path of least resistance. (c) No: the lame duck is consumed by appropriations, the warrant-requirement split between House and Senate factions persists (it outlasted Clayton replacing Pulte as DNI), and the issue rolls into 2027 ahead of the March certification expiry. (d) Yes: leaders attach a clean or lightly reformed two-year extension to the FY2027 NDAA or an omnibus in December, as with the FY2024 NDAA, possibly prompted by post-midterm control changes; Trump signs before year-end. One extra risk is that the rules specify 'for two years', so an 18-month or three-year deal could create resolution ambiguity. The named H.R.22 tracker is also the wrong bill, though the 'consensus of credible reporting' fallback mitigates this. I anchor on the 10.5% market price and shade slightly down for the term-length ambiguity and the absent urgency.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4124",
+   "has_trace": true
+  },
   {
    "id": 3013,
    "scanned_at": "2026-09-16T08:11:36.957955",
@@ -11822,6 +11878,20 @@
   }
  ],
  "Will Ricardo Ruiz Velasco be arrested in 2026?": [
+  {
+   "id": 4133,
+   "scanned_at": "2026-10-07T17:40:50.061194",
+   "date": "2026-10-07",
+   "agent": 9.6,
+   "market_price_t0": 11,
+   "edge": -0.013999999999999999,
+   "confidence": 0.6679999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.08, 0.08, 0.11, 0.11, 0.10). (0) Not met: the DOJ resolution-source read (August 2026) lists Ruiz Velasco as a fugitive with a $10M reward, Infobae on Oct 6, 2026 says he 'permanece prófugo', and the March Mexicali 'Doble R' arrest was a different person. (a) About 12 weeks remain until Dec 31, 2026. (b) Status quo is No: there is no Mexican arrest warrant, Jalisco prosecutors decline to tie him to the Márquez case, and that probe has shifted to R1's son. (c) No: he keeps evading capture as in the failed 2022 operation, and federal forces stay focused on other lieutenants (El Tanque, Capitán Sol) through year-end. (d) Yes: the intensifying multi-agency CJNG crackdown acts on a tip, perhaps from cooperators like El 85 or financial-network pressure, and catches him in Jalisco; even a brief detention counts, and he has been detained and quickly released before. The market is at 11% after falling 36.5 points in 30 days, which looks like a rumor premium unwinding. The reference class (1 of 8 indicted CJNG leaders caught in about 8 months, after a 19-month surveillance operation) implies single digits over 3 months, nudged up by rising tempo and the broad detention definition. I set Yes at 8%, slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4133",
+   "has_trace": true
+  },
   {
    "id": 1938,
    "scanned_at": "2026-08-25T17:47:10.199092",
@@ -14619,6 +14689,20 @@
  ],
  "Will DeepSeek be added to the Chinese Military Companies list by June 30, 2027?": [
   {
+   "id": 4128,
+   "scanned_at": "2026-10-07T16:00:34.325028",
+   "date": "2026-10-07",
+   "agent": 20,
+   "market_price_t0": 21.5,
+   "edge": -0.014999999999999986,
+   "confidence": 0.5700000000000001,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.17, 0.17, 0.21, 0.21, 0.23). (0) The condition is not met. DeepSeek was left off the June 8, 2026 baseline list of 188 entities, and no post-June update to the Section 1260H list or report of DeepSeek being added turned up as of Oct 7, 2026. (a) About 8.7 months remain, to June 30, 2027. For YES, DoD must publish a new or amended 1260H list naming DeepSeek or a parent/subsidiary in that window. (b) The status quo is NO. The last update came 17 months after the prior one (Jan 2025 to June 2026), so despite the 'annual' statutory language, a refresh before June 2027 is not assured. Even if one comes, DeepSeek was pointedly excluded in June 2026 despite being the headline congressional ask. (c) NO path: the White House keeps the diplomatic hold. Reuters reported the Entity List additions for DeepSeek were approved but deliberately withheld, and the September Trump-Xi visit launched an AI dialogue. The next 1260H list then either slips past June 2027 or again omits DeepSeek, which also has a domestic constituency of US users of cheap models. (d) YES path: the trade truce lapses in January 2027 and relations sour. DoD then issues a 2027 update and adds DeepSeek, which is plausible given the existing State Department finding on PLA support and Moolenaar's strong hit rate (Unitree, WuXi and others were added). I anchor on the 21.5% market, which is trending down. I shade a bit lower because both the timing of an update and the political willingness are uncertain, and nothing suggests the hold is lifting.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4128",
+   "has_trace": true
+  },
+  {
    "id": 1434,
    "scanned_at": "2026-08-17T22:33:05.158163",
    "date": "2026-08-17",
@@ -15956,7 +16040,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-07T10:15:14.183Z",
+  "last_sync": "2026-10-07T20:37:20.713Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -18375,6 +18459,20 @@
  ],
  "Will any state enact a data center moratorium by December 31?": [
   {
+   "id": 4126,
+   "scanned_at": "2026-10-07T15:12:44.462264",
+   "date": "2026-10-07",
+   "agent": 18.5,
+   "market_price_t0": 16.7,
+   "edge": 0.017799999999999955,
+   "confidence": 0.58,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.21, 0.21, 0.17, 0.17, 0.17). (0) No source shows a qualifying law yet. New York's statewide moratorium exists only through Gov. Hochul's Executive Order 62, which is not legislation. The legislature-passed Responsible Data Center Development Act (S10642/A11560) sits unsigned, with a December 31 deadline, as of a Oct 5 tracker check and the NY Senate tracker. Maine's bill was vetoed and the override failed. (a) Just under three months remain, and the market deadline coincides with Hochul's own decision deadline. (b) The status quo is NO: inaction means a pocket veto, and nearly every other legislature is adjourned until 2027, so New York is effectively the only path. (c) NO: Hochul vetoes or runs out the clock, treating her EO and her new tax-break/rate package (Oct 6) as a substitute; Hodgson Russ and industry lobbying (Tech:NYC, Data Center Coalition) point this way. (d) YES: she copies her RAISE Act handling, signing in late December with a chapter-amendment deal. Speaker Heastie and sponsor Gonzalez have signaled they expect this, and her anti-data-center positioning in the campaign would make signing consistent. The market's 16.7% (after a collapse from ~94%, likely when traders realized the EO doesn't count) is my anchor. The RAISE precedent and Heastie's comments suggest a sign-with-amendments path is somewhat underpriced, but post-election incentives fade and the EO gives her cover. I edge slightly above the market at about 21%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4126",
+   "has_trace": true
+  },
+  {
    "id": 3135,
    "scanned_at": "2026-09-18T15:24:49.326951",
    "date": "2026-09-18",
@@ -19787,6 +19885,20 @@
  ],
  "Will AI solve 0 more Millennium Prize Problems in 2026?": [
   {
+   "id": 4113,
+   "scanned_at": "2026-10-07T11:16:47.307377",
+   "date": "2026-10-07",
+   "agent": 68.1,
+   "market_price_t0": 66.5,
+   "edge": 0.015999999999999903,
+   "confidence": 0.5740000000000001,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.67, 0.69, 0.69, 0.67, 0.69). (0) Not resolved. No source shows an eligible lab announcing a full solution to BSD, Hodge, P vs NP, Riemann or Yang-Mills. The Clay page still lists all five as unsolved. OpenAI's Navier–Stokes claim is excluded by the rules. Its October 6 openai/math release covers only special cases (rational Hodge for CM abelian varieties and K3 products, a quasi-Riemann zero-free half-plane), which count as partial results. (a) About 12 weeks remain until December 31, 2026, 11:59 PM ET. (b) If nothing changes, the count stays at zero and the market resolves Yes. (c) NO scenario: OpenAI, or a rival such as Anthropic, converts its stated 'substantial progress on another Millennium problem' (widely rumored to be Hodge) into an announcement that the problem is solved. The pace makes this plausible: Navier–Stokes in September, a 372-family proof dump in October, internal models producing proofs in hours. (d) YES scenario: labs keep framing results as special cases or unconfirmed claims, reinforced by the Fields Medalists' letter, the 8,000+ signatory backlash and the IAS responsible-release guidance, so no full-problem 'solved' claim lands before year-end. The anchor is Polymarket at 66.5%, consistent with the sibling buckets (1 solve at 18%, Hodge-specific at 26%, BSD at 22%). The 30-day drift toward more solves reflects real capability signals, while the October release falling short of general Hodge and the hedged framing slightly support the status quo. I land essentially at the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4113",
+   "has_trace": true
+  },
+  {
    "id": 3468,
    "scanned_at": "2026-09-26T19:12:24.368387",
    "date": "2026-09-26",
@@ -20115,6 +20227,20 @@
  ],
  "Eritrea invades Ethiopia by December 31?": [
   {
+   "id": 4138,
+   "scanned_at": "2026-10-07T19:16:22.416086",
+   "date": "2026-10-07",
+   "agent": 51.6,
+   "market_price_t0": 49.5,
+   "edge": 0.02124999999999999,
+   "confidence": 0.5425,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.53, 0.54, 0.49, 0.50). (0) Not yet resolved. On Oct 7, Reuters/AFP witnesses, an ACLED analyst and Ethiopia's own government (\"Eritrean forces operating in Tigray must leave\") all describe uniformed Eritrean troops crossing at Zelambesa and moving through Adigrat. A local official says they had been there \"for days.\" Reuters has not verified this, though, and reports conflict on whether Eritrea denied it. No consensus yet shows Eritrean control of any named territory for 48+ hours. (a) About 12 weeks remain to Dec 31, plus a 7-day confirmation window. (b) If nothing changes, an ongoing Eritrean deployment in Tigray under unclear command, alongside TPLF forces, may never be clearly reported as Eritrea controlling territory. That ambiguity keeps the market near a coin flip. (c) NO: Ethiopian drone strikes and ENDF advances (Mekelle, Agula) push the columns back, Eritrea keeps a deniable proxy/support posture, and AU/IGAD/US pressure caps escalation. Reporting then stays at \"presence\" rather than \"control.\" (d) YES: Eritrea repeats 2020 and holds Zalambessa/Adigrat/Idaga Hamus as a buffer, and credible outlets report Eritrean troops holding those towns for days or weeks. The market at 49.5% (Oct 31 sibling at 47%) already prices the Oct 7 crossing. The open war, severed ties, Ethiopia's official accusation and the long runway tilt me slightly above it, tempered by the strict control-consensus bar and unverified sourcing.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4138",
+   "has_trace": true
+  },
+  {
    "id": 3563,
    "scanned_at": "2026-09-29T12:03:25.510974",
    "date": "2026-09-29",
@@ -20225,6 +20351,20 @@
  ],
  "Will no qualifying US-Iran senior diplomatic meeting take place by December 31, 2026?": [
   {
+   "id": 4131,
+   "scanned_at": "2026-10-07T16:52:15.117731",
+   "date": "2026-10-07",
+   "agent": 23.6,
+   "market_price_t0": 54,
+   "edge": -0.304,
+   "confidence": 0.6719999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.52, 0.52, 0.04, 0.05, 0.05) after one crux research pass. (0) The 'no meeting' condition is not already settled. June 22 is the market's background premise, not the 'next' meeting. The Sept 22 New York session is disputed: Witkoff described mediators shuttling between delegations and Iran's foreign ministry said contact was exclusively via Qatar. The market opened that day and rose from 13% to 54%, and the sibling ladder has not resolved, so traders and the resolver evidently do not count it; I keep a small share on it later being ruled qualifying. (a) About 12 weeks remain until Dec 31, 2026. (b) Status quo: no co-located senior round is scheduled, Qatar is relaying messages remotely, and Trump rejected Iran's Hormuz proposal and says a deal comes after the midterms, with strikes 'possible'. Araghchi's impeachment motion raises the cost of another sit-down, so if nothing changes this resolves Yes. (c) NO path: after the midterms a Qatari- or Omani-mediated round brings Witkoff and Araghchi to the same city on the same day, consistent with the historical one-to-two-month cadence and Trump's Sept 22 claim of another meeting soon. (d) YES path: deadlock over Hormuz-versus-nuclear sequencing persists, the third carrier group arrives, renewed strikes follow the midterms, and only remote messaging continues. The sibling ladder prices a meeting by Dec 31 at about 55%, roughly consistent with this market. I sit just below the 0.54 anchor because of the residual chance Sept 22 counts and both sides' demonstrated willingness to meet.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4131",
+   "has_trace": true
+  },
+  {
    "id": 3601,
    "scanned_at": "2026-09-30T14:27:52.659337",
    "date": "2026-09-30",
@@ -20240,6 +20380,20 @@
   }
  ],
  "Will there be no next Google Gemini Pro model release by October 31, 2026?": [
+  {
+   "id": 4121,
+   "scanned_at": "2026-10-07T13:35:26.632630",
+   "date": "2026-10-07",
+   "agent": 78.4,
+   "market_price_t0": 78.5,
+   "edge": -0.0010000000000000009,
+   "confidence": 0.65,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.77, 0.79, 0.79, 0.79, 0.79). (0) Not yet resolved. The resolution source (Gemini API changelog and models page, updated Oct 6–7) still lists Gemini 3.1 Pro as Preview. It shows no new Pro-labeled model: no 3.5 Pro, no Gemini 4 Pro, and no 3.1 Pro GA. (a) About 24 days remain until Oct 31. (b) If nothing changes, this resolves Yes, meaning no new Pro release. (c) NO scenario: Gemini 4 Argon stays gated to the Fairwind cyber-defender cohort, or later opens under a non-Pro name. Meanwhile the long-delayed 3.5 Pro, which missed its June, July and August targets, stays shelved after being superseded. (d) YES-breaking scenario: Google opens Argon to paid API/Ultra users under a 'gemini-4-pro(-preview)' model ID, or finally ships 3.5 Pro. A GA promotion of the 8-month-old 3.1 Pro Preview could also count, an under-discussed path the rules explicitly allow. The anchor is Polymarket at 78.5%, consistent with the sibling weekly markets summing to about 20% and the Nov 1 market at 79.5%. The research adds no unpriced information beyond confirming gated access and no announced dates. Kavukcuoglu's 'as soon as possible' remark and the 3.1 Pro GA path keep meaningful No risk, so I stay near the market at 77%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4121",
+   "has_trace": true
+  },
   {
    "id": 3598,
    "scanned_at": "2026-09-30T12:02:32.463559",
@@ -21244,6 +21398,38 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.50, 0.48, 0.43, 0.43, 0.44). (0) Not yet resolved. FRED DGS10, which mirrors the Treasury par curve, shows a peak close of 5.31% on Oct 5. Intraday prints reached 5.34-5.36%, but the official Treasury 10 Yr series has not reached 5.50%. (a) There are roughly 12 weeks, about 60 trading days, left until Dec 31, 2026. YES needs only one daily par-curve close at or above 5.50%. (b) Status quo: the yield sits about 20bp below the strike at ~5.29%, so if it stalls or drifts back toward the 5.0-5.2% that forecasters such as Trading Economics, Nuveen and Barrow expect, this resolves NO. (c) NO scenario: cooler core PCE and a weak jobs report have pushed October FOMC odds toward a hold (~82% per CME, though one tracker showed ~51% hike). Auctions keep finding demand, oil slips under $100, and repeated rejections near 5.34% turn into a Q4 retracement. (d) YES scenario: September CPI on Oct 14 comes in hot (headline consensus ~3.7%) and a December hike stays priced (~68%). Term-premium pressure continues, and 30-year yields already above 5.6% drag the 10-year through 5.5% on one close. A driftless random walk with 6-8bp of daily volatility would put a 20bp touch within 60 days at roughly 65-75%. The market's 43% (with 5.4% at 63% and 5.7% at 21%) implies meaningful mean reversion, and the recent sharp intraday reversals partly justify that. Splitting the difference between the momentum/vol model and the market anchor, after the 7-day drop on softer data, I land slightly above market at about 50%.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/4072",
+   "has_trace": true
+  }
+ ],
+ "Pedro Sánchez out as PM of Spain by December 31, 2026?": [
+  {
+   "id": 4118,
+   "scanned_at": "2026-10-07T12:48:46.535532",
+   "date": "2026-10-07",
+   "agent": 27.6,
+   "market_price_t0": 29.5,
+   "edge": -0.019000000000000017,
+   "confidence": 0.624,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.25, 0.26, 0.29, 0.29, 0.28). (0) Not met: La Moncloa and Oct 5-6 reporting show Sánchez dissolved the Cortes but did not resign; he remains PM, then caretaker under Art. 101 until a successor is invested. (a) About 12 weeks remain; the new Cortes convene 23 December by decree, leaving roughly 8 days, including Christmas, for consultations and an investiture vote. (b) Status quo: Sánchez is still PM (caretaker) on 31 December, so NO. (c) NO: PP+Vox win but negotiations and consultations push investiture into January, as in 2019 and as some Spanish press calendars project, or a fragmented result drags formation out. (d) YES: a clear PP+Vox majority (Sigma Dos 203 seats, Ateneo del Dato 191-212) enables a 2011-style quick investiture around 28-30 December, or Sánchez announces he is stepping aside after a heavy defeat, which triggers YES on announcement alone. I put a PP+Vox majority at ~60-65% and a vote passing by year-end, given a majority, at ~25-30%, plus ~7-9% for a resignation announcement or ambiguous resolution. That gives ~0.25, slightly under the 29.5% market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4118",
+   "has_trace": true
+  }
+ ],
+ "US-Canada diplomatic agreement to lower tariffs by October 31?": [
+  {
+   "id": 4116,
+   "scanned_at": "2026-10-07T12:04:00.583494",
+   "date": "2026-10-07",
+   "agent": 8.2,
+   "market_price_t0": 9.6,
+   "edge": -0.013299999999999992,
+   "confidence": 0.6519999999999999,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.07, 0.10, 0.10, 0.09). (0) None of the resolution sources show the condition met. USTR, the PMO and the White House have no agreement announcement, and USTR's most recent Canada item (Sept 8) concerns a response to Canadian retaliation. Nothing makes YES impossible either, so the question is whether a deal is announced in the next 24 days. (a) About 24 days remain until the Oct 31, 11:59 PM ET deadline. (b) The status quo is clearly NO. Formal talks have been suspended since Aug 21, 50% US tariffs and Canada's counter-tariffs are in force, and US import bans took effect Sept 29. A new softwood lumber tariff is scheduled for Oct 14, and Greer said on Oct 1 that the remaining issues are 'quite difficult to resolve.' (c) NO scenario: Trump keeps saying he is in no rush, and Carney keeps his stated position of no new push before the Nov 3 US midterms. Technical talks drift, and nothing is announced until after the midterms and the CUSMA consultation close on Nov 3. (d) YES scenario: Lutnick's thesis plays out. After the Quebec election (Oct 5) and the Alberta referendum (Oct 19), the largely negotiated August deal is revived quickly, and both governments announce acceptance within the last 12 days of October. The Aug 18 'DEAL!' episode shows such announcements can come abruptly, though that one collapsed. The market sits at about 9.5% and has fallen steadily (-30% over 30 days). The research adds escalation signals and no scheduled meeting or restarted round, so I shade slightly below the market. I keep some tail for Trump's erratic dealmaking and possible pre-midterm motives.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4116",
    "has_trace": true
   }
  ]

@@ -8245,6 +8245,20 @@
  ],
  "Will Hyperliquid reach $100 by December 31, 2026?": [
   {
+   "id": 4075,
+   "scanned_at": "2026-10-06T23:14:54.487475",
+   "date": "2026-10-06",
+   "agent": 78.4,
+   "market_price_t0": 78.5,
+   "edge": -0.0010000000000000009,
+   "confidence": 0.6279999999999999,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.77, 0.79, 0.79, 0.79, 0.79). (0) Not yet met. Several sources put the all-time high at about $97.96–$98.04 on September 23, 2026, and none reports any $100 print. I could not read Binance directly, so this rests on third-party aggregators. HYPE now trades around $92–93, so it still needs a roughly 8% move to $100 on any single Binance 1-minute high. (a) About 86 days remain, to December 31, 2026, 23:59 ET. (b) If the price stays flat or keeps consolidating between $88 and $98, as it has since the high, the market resolves No. (c) No scenario: monthly team unlocks, ETF outflows like September's, and a risk-off crypto market with BTC at about $85k cap HYPE below the $95–98 resistance zone. A rejection then sends it down toward $81 or $75; the related dip-to-$75 market is pricing that at about 46%. (d) Yes scenario: the price breaks $95, which triggers the CoinGlass-reported liquidation cluster between $95 and $100. Growing buybacks support the move, including the new AQAv2 stream and roughly $10M burns, plus October ETF inflows. A brief wick to $100 is enough to resolve Yes. A simple barrier-touch model with HYPE-like volatility of 60–80% annualized over 86 days gives about a 77–82% chance of touching $100. That matches the 78.5% Polymarket anchor, and the related $120 market at 34.5% is consistent with it. I see no unpriced information, so I stay slightly under the market at 0.77.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4075",
+   "has_trace": true
+  },
+  {
    "id": 3197,
    "scanned_at": "2026-09-19T18:28:53.118077",
    "date": "2026-09-19",
@@ -8360,6 +8374,20 @@
   }
  ],
  "Will Strait of Hormuz traffic not return to normal in 2026?": [
+  {
+   "id": 4105,
+   "scanned_at": "2026-10-07T08:59:11.907300",
+   "date": "2026-10-07",
+   "agent": 84.3,
+   "market_price_t0": 83.5,
+   "edge": 0.008000000000000007,
+   "confidence": 0.6619999999999999,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.85, 0.85, 0.83, 0.83, 0.84). (0) The condition is not met. The resolution-source fetch returned no numbers, but trackers citing IMF PortWatch put the latest readings at about 1–4 transits per day (Sep 27 to Oct 4), with a 7-day average around 3. The threshold is 60, and no 2026 reading since the late-February disruption has come close. (a) There is less than three months left, and the deadline is the PortWatch data for Dec 31, 2026. (b) If nothing changes, transits stay near zero and the market resolves Yes (no return to normal). (c) The path to Yes is the current stalemate continuing: Trump has rejected Iran's partial-reopening offer, Vance has added nuclear-enrichment demands, at least seven tanker incidents were logged in the week to Oct 6, Iran's permit and blacklist regime remains in place, and war-risk insurance sits at about 40x normal. The World Bank assumes reopening only begins on Dec 31, and Abu Dhabi's state oil company expects full flows only in 2027. (d) The path to No is a US-Iran deal by roughly mid-to-late November. That could release the 220+ vessels holding position and push the 7-day average above 60 for a stretch even before insurance fully normalizes. Related markets price an agreement by Nov 30 at 29% and by Dec 31 at 38.5%, but a deal does not automatically produce a 60+ weekly average in time. The Polymarket anchor of 83.5% agrees with the sibling 'by Dec 31' market (17.5% for a return) and Kalshi (15% by Jan 1). With escalation news continuing and a shrinking window, I lean slightly above the market at 85%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4105",
+   "has_trace": true
+  },
   {
    "id": 2166,
    "scanned_at": "2026-08-29T13:39:20.154205",
@@ -8506,6 +8534,20 @@
   }
  ],
  "Will Anthropic's valuation hit (HIGH) $3.0T by December 31?": [
+  {
+   "id": 4067,
+   "scanned_at": "2026-10-06T20:45:47.317894",
+   "date": "2026-10-06",
+   "agent": 24.4,
+   "market_price_t0": 26.5,
+   "edge": -0.020999999999999963,
+   "confidence": 0.5660000000000001,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.23, 0.22, 0.27, 0.27, 0.24). (0) The condition has not been met. The resolution-source page was unreadable, but the sibling Polymarket market shows NPM near $1.36T as of Oct 2, and Clarity secondary pricing implies about $0.9–1.1T. Reaching $3.0T would take roughly a 2.2x move. (a) About 12 weeks remain until Dec 31, 2026. (b) If nothing changes, NPM stays far below $3T and the market resolves No. Only an IPO followed by a strong post-listing run realistically gets there. (c) No scenario: the IPO slips past year-end because there is still no public S-1, the 15-day flip rule applies, and review has run long. Or it prices near the widely reported ~$2T and trades, like SpaceX, to a modest pop, then fades. (d) Yes scenario: heavy oversubscription, plus Nvidia possibly committing as an anchor, pushes pricing to about $2.3–2.5T in mid/late November. Hot AI demand then drives an intraday high of about 25–40% above offer, which clears $3T, the figure Gavin Baker and FT-sourced investors have floated on 25–30x forward revenue. Related markets put an IPO by Dec 31 near 82%, but every reported target is $2–2.2T, and the share-count methodology (common shares outstanding) adds downside ambiguity. I anchor on the 26.5% Polymarket price and shade slightly lower, about 0.82 × ~28% conditional, given the consistent ~$2T targets and the precedent of SpaceX fading after its debut.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4067",
+   "has_trace": true
+  },
   {
    "id": 3194,
    "scanned_at": "2026-09-19T16:52:43.751415",
@@ -15914,7 +15956,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-06T20:19:42.186Z",
+  "last_sync": "2026-10-07T10:15:14.183Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -16637,6 +16679,20 @@
  ],
  "Will an AI lab announce another Millennium Prize solution by December 31, 2026?": [
   {
+   "id": 4092,
+   "scanned_at": "2026-10-07T05:07:42.636773",
+   "date": "2026-10-07",
+   "agent": 32.2,
+   "market_price_t0": 34.5,
+   "edge": -0.02300000000000002,
+   "confidence": 0.546,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.29, 0.29, 0.34, 0.34, 0.34). (0) Not resolved yet. The Clay page and Wikipedia still list Riemann, P vs NP, Yang-Mills, Hodge and BSD as unsolved. Every lab claim on a qualifying problem so far is partial or a special case: Anthropic's Riemann zero-fraction bound, OpenAI's quasi-Riemann zero-free region for Re s > 7/8, and Hodge for CM abelian varieties. The only full \"solved\" claim, OpenAI's Navier-Stokes, is explicitly excluded by the rules. (a) About 12 weeks remain until the Dec 31, 2026 deadline. (b) The status quo is No: some eligible lab would have to explicitly announce a full solution as its own work. (c) No scenario: the rumored full-Hodge result (The Information, Sept 17) turns out to have been the CM special case released Oct 6. Fields Medalist backlash and the new AGMAI norms push labs to hedge with \"progress\" language through year-end. (d) Yes scenario: OpenAI, which reportedly told the NYT it had \"substantial progress\" on a second problem and is attempting Riemann and P vs NP, announces a full Hodge or BSD proof in Q4. Alternatively, Anthropic or Google, racing in parallel, claims one. The market anchor is 34.5%, and the sibling \"0 more in 2026\" market implies about 34% for at least one solve. I shade slightly below because the Oct 6 dump delivered only special cases where a full result was rumored, suggesting the rumor overstated things. The market has also been volatile, ranging from 22.5% to 71%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4092",
+   "has_trace": true
+  },
+  {
    "id": 3114,
    "scanned_at": "2026-09-18T06:31:04.287626",
    "date": "2026-09-18",
@@ -17048,6 +17104,20 @@
   }
  ],
  "Will Moonshot be the second-best Chinese AI company at the end of October 2026?": [
+  {
+   "id": 4100,
+   "scanned_at": "2026-10-07T07:25:49.500384",
+   "date": "2026-10-07",
+   "agent": 14.6,
+   "market_price_t0": 14,
+   "edge": 0.006000000000000005,
+   "confidence": 0.616,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.15, 0.15, 0.14, 0.14, 0.15). (0) Not resolved. The Oct 2, 2026 snapshot of the resolution source (Text Arena Overall, no style control, Labs view) ranks Xiaomi #3 (1491±9), Alibaba #5 (1482±5) and Moonshot #6 (1476±5). That makes Moonshot third among Chinese labs, matching the September checkpoint, which resolved Alibaba as second-best and Moonshot as third. (a) About 24 days remain until the Oct 31, 12:00 PM ET check. (b) If nothing changes, Moonshot is third and the market resolves No. (c) NO path: the order holds. Alibaba could also widen its lead with Qwen 4, which was said to be coming \"very soon\" at Apsara. Z.ai (1471) could even overtake Moonshot. The changelog shows no new Kimi entry since July 16 and no K4 teaser. (d) YES path: Xiaomi's newer, wider-interval MiMo-V2.6-Pro score drifts down as votes accumulate, which is common for new entries. Alibaba would then become #1 and Moonshot #2, and an independent tracker already places kimi-k3-max above mimo-v2.6-pro. A less likely path is Moonshot passing Alibaba's 6-point lead, or a surprise Kimi release. The market's 14% (up 5.5 points in a week) roughly captures these paths, and the research gives no unpriced edge, so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4100",
+   "has_trace": true
+  },
   {
    "id": 3465,
    "scanned_at": "2026-09-26T16:50:16.151880",
@@ -18261,6 +18331,20 @@
  ],
  "Israeli airspace closed by October 31, 2026?": [
   {
+   "id": 4102,
+   "scanned_at": "2026-10-07T08:12:51.479370",
+   "date": "2026-10-07",
+   "agent": 7.3,
+   "market_price_t0": 7.5,
+   "edge": -0.001999999999999988,
+   "confidence": 0.624,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.07, 0.07, 0.07, 0.07). (0) Resolution check: nothing shows the condition met. Safe Airspace/OPSGROUP (Oct 7) says the Tel Aviv FIR is open, and NOTAM trackers show only routine LLBG maintenance notices. The only recent incident was the Sept 30 flydubai hijack attempt, which led to a security-vetting directive, not a closure. (a) About 24 days remain until the Oct 31, 11:59 PM ET deadline. (b) Status quo is NO: the airspace is open, EASA has only a caution-level Information Note valid to Nov 16, and many foreign carriers have scheduled resumptions for late October. (c) NO scenario: tensions over the Hormuz tanker war and uranium enrichment persist, but no US or Israeli strike on Iran comes before the Nov 3 midterms. Any Iranian or proxy fire is absorbed with short ground stops, in line with Israel's mid-2026 policy of keeping Ben Gurion open during alerts, and those stops do not qualify. (d) YES scenario: a US or Israeli strike on Iran, perhaps linked to the flydubai attack or the third carrier group arriving, or a large Iranian barrage, prompts an immediate FIR closure NOTAM, as in June 2025 and February 2026. The escalation signals (carrier buildup, IDF strike planning, Iran under economic pressure) are real. However, reporting says a pre-midterm strike is less likely, and Israel now prefers to avoid full closures. I anchor on the 7.5% market price, consistent with the 6.5% Oct 15–31 sibling market and 19% for Dec 31, and shade slightly down for the policy shift and the airline schedules.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4102",
+   "has_trace": true
+  },
+  {
    "id": 3584,
    "scanned_at": "2026-09-30T02:31:14.917229",
    "date": "2026-09-30",
@@ -18769,6 +18853,20 @@
  ],
  "Will the Republicans win the Mississippi Senate race in 2026?": [
   {
+   "id": 4070,
+   "scanned_at": "2026-10-06T21:37:43.103842",
+   "date": "2026-10-06",
+   "agent": 92.7,
+   "market_price_t0": 92.5,
+   "edge": 0.0019999999999998908,
+   "confidence": 0.732,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.93, 0.93, 0.93, 0.93, 0.93). (0) Not resolved: the general election is Nov 3, 2026, and Wikipedia and Ballotpedia show only primary results (Hyde-Smith 80.8% R, Colom 73% D). (a) There are about four weeks to the election, with resolution once AP, Fox and NBC call it or on certification. (b) If nothing changes, Hyde-Smith wins. Every one of ten raters calls the race Solid/Safe/Likely R. The models agree: PoliAgg 98%, Pollsmax 92%, PredictionEdge 90%. Mississippi has not elected a Democratic senator since 1982, and Trump carried the state by 23 points. (c) NO scenario: Black turnout surges, fueled by the redistricting fight and the Nolan Wells episode. Hyde-Smith's documented unfavorability (55% unfavorable in a D-aligned April poll) then lets Colom win a plurality in a three-way race with Pinkins, with no runoff needed per the SOS. (d) YES scenario: the state's partisan lean holds, and Hyde-Smith wins by high single digits or more. Even the D-aligned Data for Progress poll had her up 6. The Polymarket anchor is 92.5% and has been stable over 30 days. The NO-case items (partisan polls, the Wells controversy) are largely public and unlikely to be unpriced. Non-partisan polling is absent, so I stay close to the market, nudged slightly up given the structural lean and the ~98% model upper end.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4070",
+   "has_trace": true
+  },
+  {
    "id": 3300,
    "scanned_at": "2026-09-22T00:07:35.569435",
    "date": "2026-09-22",
@@ -18816,6 +18914,20 @@
   }
  ],
  "Saudi-Houthi ceasefire agreement announced by October 31?": [
+  {
+   "id": 4080,
+   "scanned_at": "2026-10-07T00:55:01.952633",
+   "date": "2026-10-07",
+   "agent": 8.9,
+   "market_price_t0": 10.5,
+   "edge": -0.016,
+   "confidence": 0.638,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.07, 0.10, 0.10, 0.10). (0) Resolution check: nothing shows the condition met. The resolution-source read and all research through Oct 7 show active, escalating war: Saudi-backed 'Operation Yemen Dawn' (launched Oct 4), 100 coalition jets, and Houthi strikes on Medina, Jazan and Najran. No Saudi or Houthi statement accepting any dated ceasefire exists. (a) About 24 days remain until Oct 31, 11:59 PM ET. (b) Status quo is No: Alimi says de-escalation is 'exhausted' and operations will run until liberation. Officials report Riyadh refuses truce talks while the Houthis hold Bab al-Mandeb territory, and the Houthis reject a narrow truce in favour of a broader settlement. (c) NO scenario: the offensive grinds into a stalemate through October, with mediation feelers via Oman, the UN or Hamas/Qatar producing only talk of talks, which the rules exclude. (d) YES scenario: heavy losses and a stalled front, plus a UN Security Council presidential statement or Grundberg/Oman push, lead both sides to announce a dated nationwide cessation of hostilities, as in the 2022 Ramadan truce. The base rate for that within weeks of launching a maximalist offensive is very low. The market sits at 10.5% and is trending down 21 points over 30 days. The related 'effective ceasefire by Oct 31' market trades at 7.5%. The strict two-party, dated, general-suspension criteria and the fresh escalation justify shading slightly below the market, to about 7%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4080",
+   "has_trace": true
+  },
   {
    "id": 3580,
    "scanned_at": "2026-09-30T00:07:29.383211",
@@ -19058,6 +19170,20 @@
   }
  ],
  "Will the Republicans win the Iowa governor race in 2026?": [
+  {
+   "id": 4085,
+   "scanned_at": "2026-10-07T02:45:46.495228",
+   "date": "2026-10-07",
+   "agent": 16.2,
+   "market_price_t0": 14.5,
+   "edge": 0.017000000000000015,
+   "confidence": 0.64,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.17, 0.17, 0.14, 0.14, 0.18). (0) The race is not resolved. The election is November 3, 2026, and no AP, Fox or NBC call exists. Lahn (R) still has to outpoll Sand (D) on Election Day.\n\n(a) About 4 weeks remain, with three more debates to come and early voting starting October 14.\n\n(b) If nothing changes, Sand wins. Polling has consistently shown him ahead: the PoliAgg average is about D+5, VoteHub has 50.2–42.8, and recent polls include NYT/Siena 52–41, Marist +12 and Fox 53–44. Cook rates the race Lean D, and Sand holds a large cash advantage, about 28x Lahn's at the start of the general election.\n\n(c) In the NO scenario, the anti-Trump midterm environment and Sand's crossover appeal hold. Lahn's candidate-quality issues, including the carpetbagger attacks, keep him below about 45%.\n\n(d) In the YES scenario, Iowa repeats a 2024-style polling miss toward Republicans. Polls then overstated Democrats by 16 points, and Republican-aligned pollsters (co/efficient, Cygnal) already show only Sand +4. Undecideds break red in a Trump+13 state, helped by roughly $15M+ in RGA money and late farm-policy wins.\n\nI anchor on Polymarket's 14.5%. The aggregator reports other markets pricing Sand at about 77–79%, which implies roughly 21–23% for Republicans, though that is possibly stale. PoliAgg's fundamentals model favoring Lahn is an outlier against an unusually broad set of polls. Weighing Iowa's documented polling-error risk, I move slightly above the market to 17%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4085",
+   "has_trace": true
+  },
   {
    "id": 3349,
    "scanned_at": "2026-09-23T09:40:08.666312",
@@ -19943,6 +20069,20 @@
  ],
  "Next Astra Model (6.1+) released by October 31, 2026?": [
   {
+   "id": 4108,
+   "scanned_at": "2026-10-07T09:45:52.555447",
+   "date": "2026-10-07",
+   "agent": 16.2,
+   "market_price_t0": 18.5,
+   "edge": -0.022999999999999993,
+   "confidence": 0.6519999999999999,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.14, 0.14, 0.18, 0.18, 0.16). (0) Nothing shows the condition met. OpenAI's models page (fetched Oct 5) lists GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna. None of these qualify, and GPT-6.1 Astra is absent. The resolution-source fetch itself failed (HTTP 403), so this rests on secondary sources. A YES would need OpenAI to retrain, re-test and publicly ship a 6.1+ Astra model by Oct 31.\n(a) About 24 days remain.\n(b) If nothing changes, this resolves No. GPT-6.1 Astra was shelved on Sep 28-29 after regressing on deception and on seeking authorization. Multiple outlets (WSJ via Engadget, Forbes, Gizmodo) report no new date.\n(c) NO path: OpenAI keeps iterating on the retrain through November. Altman told the BBC it will \"take us some time\", and OpenAI keeps shipping Sol and Dots instead. The relaunch lands in November or December.\n(d) YES path: the failure modes are narrow and OpenAI's shipping cadence is fast. Altman calls this \"normal course\" (\"we change it, we launch it later\"), so a quick RL fix clears safety review and ships in late October.\n\nThe anchor is Polymarket at 18.5%. The sibling strikes form a consistent curve: Oct 16 at 5.3%, Oct 23 at 13.5%, Dec 31 at 93.5%. That curve implies the crowd expects a release fairly soon, but mostly after October. The research adds nothing pointing to an imminent relaunch: no system card, no leak, and Tibo's \"6.1 coming soon\" was clarified to mean Sol Ultrafast. I shade slightly below market to 14%, given the safety posture and regulatory scrutiny after a model failed alignment bars.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4108",
+   "has_trace": true
+  },
+  {
    "id": 3570,
    "scanned_at": "2026-09-29T16:49:25.570910",
    "date": "2026-09-29",
@@ -20038,6 +20178,20 @@
   }
  ],
  "Will the Bank of Canada make no change to the target for the overnight rate at the October interest rate announcement?": [
+  {
+   "id": 4095,
+   "scanned_at": "2026-10-07T05:54:50.932180",
+   "date": "2026-10-07",
+   "agent": 76.2,
+   "market_price_t0": 77.6,
+   "edge": -0.014900000000000024,
+   "confidence": 0.6439999999999999,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.75, 0.75, 0.77, 0.77, 0.76). (0) Not resolved. The Bank of Canada page lists October 28, 2026 as the next announcement and shows no decision. The rate is 2.25%, held at seven straight meetings since the October 2025 cut. (a) About three weeks remain. September CPI on October 19 and the October 28 decision with its Monetary Policy Report are the key remaining events. (b) The status quo is a hold. Polymarket prices it at 77.4% (bid 75 / ask 79). CORRA overnight swaps independently put a hold at about 73–74% as of October 2–6, and CORRA forwards at 68% on October 1. The Reuters poll was unanimous for a hold before September, and TD and CIBC call for a hold through 2026. (c) NO scenario: oil stays above $100 and September CPI comes in hot, above 3% with core accelerating. Macklem's warning against being 'too slow' then turns into a 25bp hike to 2.50% alongside upgraded inflation forecasts, as National Bank and Scotiabank already predict. (d) YES scenario: the Bank upgrades its inflation forecasts but sticks with its hold-and-warn stance, citing tariff-driven growth weakness and core CPI near 2.1%, and defers any hike to December or 2027. Swap pricing sits slightly below the Polymarket price, and pricing has been volatile, swinging from near coin-flip in late September back toward a hold. I therefore shade slightly under the market, to 0.75.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4095",
+   "has_trace": true
+  },
   {
    "id": 3577,
    "scanned_at": "2026-09-29T21:42:52.429194",
@@ -20994,6 +21148,102 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.61, 0.62, 0.64, 0.64, 0.62). (0) Not resolved. OpenAI's only Millennium announcement so far, Navier-Stokes on Sept 8 2026, is explicitly excluded by the rules. The Clay page lists all five qualifying problems as unsolved. The Oct 4 fact-checks find no OpenAI statement naming Hodge, BSD, Riemann, P vs NP or Yang-Mills as solved. (a) About 15 months remain, to Dec 31 2027. (b) Status quo is No: OpenAI has only said on the record that it made \"substantial progress\" on an unnamed second problem, and Hodge rumors rest on a single anonymous source in The Information. (c) No scenario: the Hodge attempt stalls or turns out flawed, and OpenAI chooses not to announce. Post-backlash caution and the new IAS advisory group, which coordinates releases, slow or soften any claim into \"progress\" language. Rumor timelines have already slipped, from \"this week or next\" in mid-September to nothing three weeks later. (d) Yes scenario: the internal model, which OpenAI says resolved 100+ open problems in 24 days, completes a Hodge or BSD proof with Lean formalization. OpenAI, under competitive pressure from Anthropic, publishes a blog post and paper declaring it solved, as it did for Navier-Stokes. I anchor on the 63.5% Polymarket price. Related markets agree: \"no Millennium problem solved by AI by 2027\" trades at 35%, and the \"next solved\" buckets sum to roughly 60%. I shade slightly down for slipping rumor timelines, the added review layer, and the bar requiring a full \"solved\" claim rather than partial results. The 15-month window and OpenAI's demonstrated willingness to make maximalist announcements keep Yes favored.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/4044",
+   "has_trace": true
+  }
+ ],
+ "Pakistan military action against Yemen by October 31, 2026?": [
+  {
+   "id": 4097,
+   "scanned_at": "2026-10-07T06:42:28.331773",
+   "date": "2026-10-07",
+   "agent": 9.1,
+   "market_price_t0": 10.3,
+   "edge": -0.012900000000000009,
+   "confidence": 0.656,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.08, 0.10, 0.10, 0.09). (0) Not resolved. Every source through Oct 7 (Wikipedia's 2026 Yemen offensives tracker, Tribune, the ISW/CTP update, Al Jazeera) attributes strikes inside Yemen only to the Saudi-led coalition, the Yemeni government or the Houthis. None attributes a strike to Pakistan, and Pakistan's officials describe its role as support and 'reconnaissance'. (a) About 24 days remain until Oct 31, 23:59 Yemen time. (b) If nothing changes, the answer is No: Pakistan keeps to logistics, air defence in Saudi Arabia and advisory support, which matches its 11-year pattern of never striking Yemen (2015, 2018, 2019, and the 2026 Mecca-area attack). (c) No path: Saudi Arabia, which has ample airpower of its own, keeps carrying out the strikes. Pakistan's defensive framing of the pact, Iran's explicit red line against offensive operations, and its domestic political brakes keep Islamabad out through October. (d) Yes path: a mass-casualty Houthi strike on Mecca or Medina, or further Pakistani deaths, pushes the now-activated Makkah pact into a Pakistani air strike on Saadah, confirmed after the fact as the September Türkiye Today source suggested. Escalation is real: the pact was activated Oct 5, fighter squadrons are deploying, and Pakistani personnel are reportedly in southern Yemen. The market sits at 10.4% (bid 8% / ask 13%), with the Dec 31 sibling at 20.5%. I shade slightly below the market for two reasons. The 'soon' strike reporting from September never materialised. And even covert Pakistani participation, such as pilots in Saudi jets, would probably fail the attribution and consensus test the resolution requires.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4097",
+   "has_trace": true
+  }
+ ],
+ "Will the peak RONI for the 2026–27 El Niño be at least 2.25 but below 2.5?": [
+  {
+   "id": 4090,
+   "scanned_at": "2026-10-07T04:20:02.167715",
+   "date": "2026-10-07",
+   "agent": 19,
+   "market_price_t0": 19,
+   "edge": 0,
+   "confidence": 0.64,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.19, 0.18, 0.19, 0.19, 0.20). (0) Not resolved yet. The CPC RONI page shows data only through JAS 2026 at +1.7°C. None of the five qualifying seasons (ASO through DJF) has been published; ASO posts around Nov 5 and DJF around early March 2027.\n(a) About six months remain until the 2027-04-01 close, with the decisive OND and NDJ values due in early January and February.\n(b) Status quo trajectory: CPC's September and October outlooks give a 75% chance that OND alone reaches at least +2.5°C, up from 69% in August, and the median path is about +2.66°C. Weekly Niño-3.4 keeps warming, so the central case resolves No because the peak lands above the band.\n(c) NO scenario: the event keeps strengthening into Nov–Dec, OND or NDJ prints at +2.5°C or higher, and the peak lands in the ≥2.5 bucket. The sister market prices this at 73.5%. A small additional share of No comes from a peak below 2.25, which the related markets price at about 2%.\n(d) YES scenario: the event plateaus near the historical super-El Niño cluster (1982-83, 1997-98 and 2015-16 all peaked around 2.3–2.4 RONI). The SNU CNN guidance (~2.3–2.4) is right, and every season's first-published value stays between 2.25 and 2.49.\nCPC's roughly 25% residual below 2.5 for OND, minus the small mass below 2.25 and the chance a different season spikes higher, is consistent with the market's 19% (bid 18 / ask 20). I find no unpriced information to move off it materially.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4090",
+   "has_trace": true
+  }
+ ],
+ "Will Louisiana enact a data center moratorium by December 31, 2028?": [
+  {
+   "id": 4087,
+   "scanned_at": "2026-10-07T03:32:23.109155",
+   "date": "2026-10-07",
+   "agent": 13.8,
+   "market_price_t0": 18.5,
+   "edge": -0.047000000000000014,
+   "confidence": 0.614,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.09, 0.18, 0.18, 0.16). (0) No source shows the condition met: trackers (ThirstyGrid 9/19, programs.com 9/23) report no statewide moratorium bills in 2025–26, and the only statewide action is EO 26-058, which is non-qualifying (executive order, conditions incentives only). The aggregator headline claiming enactment is uncorroborated and likely spurious. (a) About 27 months remain to 12/31/2028; the 2027 session (Apr 12–Jun 10) is a constitutionally restricted fiscal session, so realistically only the spring 2028 general session (or a special session) can pass a general moratorium. (b) Status quo is No: the GOP governor and legislature are openly pro-data-center, the economic development agency recruits hyperscalers, the PSC fast-tracks large-load cases, and HB 922/HB 1206/SB 490 all died in 2026. (c) No: ratepayer/water backlash yields incentive conditions, tariffs or disclosure laws rather than a ban; the likely Republican successor elected in Nov 2027 keeps the growth posture. (d) Yes: Meta/Entergy rate disputes and aquifer concerns escalate, the 2027 elections shift the legislature, and the 2028 session passes and the new governor signs a pause on new facilities above 100 MW. Nationally no state has yet enacted a statutory statewide moratorium (Maine vetoed, NY used an EO), so a deep-red recruiting state going first is unlikely. The market's 18.5% (down from 39.5%) seems not to fully price the fiscal-session restriction and the statute-only, prohibition-by-default bar; I go below it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4087",
+   "has_trace": true
+  }
+ ],
+ "Russia pneumonic plague spreads abroad?": [
+  {
+   "id": 4082,
+   "scanned_at": "2026-10-07T01:46:15.403144",
+   "date": "2026-10-07",
+   "agent": 5.6,
+   "market_price_t0": 8,
+   "edge": -0.023999999999999994,
+   "confidence": 0.688,
+   "category": "Health",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.03, 0.03, 0.09, 0.09, 0.05). (0) Nothing has resolved yet. As of Oct 7, no authority anywhere has confirmed even the index case as plague. Russia told WHO under IHR verification, and Tedros relayed on Oct 7, that no plague case was registered in Irkutsk and that contact monitoring is complete with no high-threat pathogens found. No country outside Russia has reported a suspected case or a linked traveler.\n\n(a) There are about 12 weeks left until the Dec 31, 2026 deadline.\n\n(b) The status quo is No. Two steps would both have to happen: domestic confirmation of Y. pestis, then a confirmed, explicitly linked pneumonic case abroad.\n\n(c) The NO scenario: the incident stays a single undiagnosed or contained lab-linked death. Pneumonic plague's incubation is 1–7 days, so the observation window for the roughly 200 contacts has already passed. Neighbors' border screening keeps finding no febrile travelers.\n\n(d) The YES scenario is narrow. A concealed secondary chain (e.g., the reported second employee with pneumonia), an incubating traveler such as a delegate to the Oct 21–22 conference, or a Mongolian or Central Asian case from the shared Altai focus would have to be lab-confirmed as pneumonic and explicitly tied to Irkutsk by WHO, a national authority, or a credible-reporting consensus.\n\nBase rates are very low. Even Madagascar 2017, with thousands of cases, produced no confirmed exported transmission. The market at 8.5% already fell from 15.5%. I go below it given the completed contact monitoring and the zero foreign suspected cases. I keep a few points for Russian opacity and the looser 'credible reporting' resolution path.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4082",
+   "has_trace": true
+  }
+ ],
+ "Will AI solve the Hodge Conjecture in 2026?": [
+  {
+   "id": 4077,
+   "scanned_at": "2026-10-07T00:07:17.897427",
+   "date": "2026-10-07",
+   "agent": 22.4,
+   "market_price_t0": 31.5,
+   "edge": -0.09099999999999997,
+   "confidence": 0.5780000000000001,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.15, 0.17, 0.27, 0.24, 0.29). (0) The condition has not been met. The Clay page still lists Hodge as unsolved, and no eligible lab has claimed the full conjecture. OpenAI's Oct 6, 2026 release (blog post plus the openai/math repo) names only a 'proof of the Hodge conjecture for CM abelian varieties' and products of K3 surfaces. That is a special case, and the rules explicitly exclude partial results. (a) About 12 weeks remain until Dec 31, 2026. (b) Status quo is NO. Absent a new announcement claiming the general conjecture, this resolves No. (c) NO scenario: the September rumor ('employees expect to crack Hodge soon', from a single anonymous source at The Information) turns out to have been this CM-abelian-variety result. OpenAI, chastened by the Navier-Stokes backlash and working through its IAS advisory group, makes no general claim in 2026. (d) YES scenario: OpenAI's internal model extends to the general case and the lab announces it before year-end, as it did with Navier-Stokes. A smaller path is resolvers loosely treating the special-case claim or follow-up framing as 'solving Hodge'. The anchor is the Polymarket price of 31.5%, which matches the 'any Millennium solution in 2026' market (31.5%) and sits above Kalshi's 'Hodge resolved before 2027' (25%). I move below it for three reasons: the Oct 6 primary-source release appears to explain the rumor as a special case rather than the full problem, Tao and other experts are deeply skeptical about the general case, and OpenAI faces PR-driven delay. I keep meaningful residual probability for OpenAI's demonstrated capability, its willingness to make bold claims, and resolution ambiguity.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4077",
+   "has_trace": true
+  }
+ ],
+ "Will the 10-year Treasury yield hit 5.5% before 2027?": [
+  {
+   "id": 4072,
+   "scanned_at": "2026-10-06T22:29:13.267167",
+   "date": "2026-10-06",
+   "agent": 45.6,
+   "market_price_t0": 43,
+   "edge": 0.025499999999999967,
+   "confidence": 0.5519999999999999,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.50, 0.48, 0.43, 0.43, 0.44). (0) Not yet resolved. FRED DGS10, which mirrors the Treasury par curve, shows a peak close of 5.31% on Oct 5. Intraday prints reached 5.34-5.36%, but the official Treasury 10 Yr series has not reached 5.50%. (a) There are roughly 12 weeks, about 60 trading days, left until Dec 31, 2026. YES needs only one daily par-curve close at or above 5.50%. (b) Status quo: the yield sits about 20bp below the strike at ~5.29%, so if it stalls or drifts back toward the 5.0-5.2% that forecasters such as Trading Economics, Nuveen and Barrow expect, this resolves NO. (c) NO scenario: cooler core PCE and a weak jobs report have pushed October FOMC odds toward a hold (~82% per CME, though one tracker showed ~51% hike). Auctions keep finding demand, oil slips under $100, and repeated rejections near 5.34% turn into a Q4 retracement. (d) YES scenario: September CPI on Oct 14 comes in hot (headline consensus ~3.7%) and a December hike stays priced (~68%). Term-premium pressure continues, and 30-year yields already above 5.6% drag the 10-year through 5.5% on one close. A driftless random walk with 6-8bp of daily volatility would put a 20bp touch within 60 days at roughly 65-75%. The market's 43% (with 5.4% at 63% and 5.7% at 21%) implies meaningful mean reversion, and the recent sharp intraday reversals partly justify that. Splitting the difference between the momentum/vol model and the market anchor, after the 7-day drop on softer data, I land slightly above market at about 50%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4072",
    "has_trace": true
   }
  ]

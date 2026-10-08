@@ -1963,6 +1963,20 @@
  ],
  "Iran agrees to end enrichment of uranium by December 31?": [
   {
+   "id": 4153,
+   "scanned_at": "2026-10-08T00:10:27.635926",
+   "date": "2026-10-08",
+   "agent": 10.5,
+   "market_price_t0": 12,
+   "edge": -0.014999999999999986,
+   "confidence": 0.638,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.09, 0.09, 0.12, 0.12, 0.11). (0) Resolution check: no source shows Iran has publicly agreed to end all enrichment. The resolution-source read covers only May 2026 commentary and shows denials and mixed signals. Current-state reporting through Oct 7 confirms no such pledge exists. (a) About 12 weeks remain until the Dec 31, 2026 deadline, and formal nuclear talks have not even restarted. (b) Status quo is No. Talks are stuck on sequencing: Iran wants the ceasefire, blockade lifted and sanctions relief before any nuclear talks, and Trump rejected its late-September proposal. A senior Iranian official this week called enrichment rights a red line Iran 'will not show flexibility on in any way,' and the new Supreme Leader Mojtaba Khamenei has hardened related positions. (c) No scenario: the deadlock persists, or any deal uses the US's newly softened 'meaningful reduction' language. That framing would not qualify, since caps don't count. Renewed bombing after the midterms could also further harden Tehran. (d) Yes scenario: the Hormuz/ceasefire sequencing breaks quickly and a comprehensive MOU revives the May draft language. That draft had a halt of enrichment for at least 12 years, which would count. Iran's reported non-enrichment since the strikes makes a time-limited suspension pledge cheaper in practice, and the 'any amount of time' clause lowers the bar. Anchoring on the 12% market (bid 11 / ask 13), I shade slightly lower for three reasons: the US retreat from zero enrichment, explicit Iranian red-line statements this week, and the short runway. I keep some weight on a sudden deal and on loose 'consensus reporting' of a suspension.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4153",
+   "has_trace": true
+  },
+  {
    "id": 3205,
    "scanned_at": "2026-09-19T21:44:05.962458",
    "date": "2026-09-19",
@@ -3491,6 +3505,20 @@
  ],
  "Nigel Farage out as Reform UK leader by December 31, 2026?": [
   {
+   "id": 4156,
+   "scanned_at": "2026-10-08T00:57:19.707190",
+   "date": "2026-10-08",
+   "agent": 7.8,
+   "market_price_t0": 7.5,
+   "edge": 0.0030000000000000027,
+   "confidence": 0.678,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.08, 0.08, 0.07, 0.07, 0.08). (0) Resolution check: no source shows the condition met. Wikipedia's infobox (checked 2026-10-08) still lists Farage as incumbent Reform UK leader since June 2024. He was active as leader on 2026-10-07, and the July 2026 resignation was from his Clacton seat, not the leadership. The official resolution-source fetch failed (HTTP 403), but consensus reporting agrees he is still leader. (a) About 12 weeks remain until the December 31, 2026 deadline; an announcement alone would resolve Yes. (b) Status quo is No. Farage controls Reform through a company-style structure with Farage-appointed board seats and no formal removal mechanism. Reform is still polling about 23%, and no challenge, extraordinary general meeting or board motion has been reported. (c) NO: the standards probe (opened May 2026) and the Met Police electoral-funding investigation (opened Sept 10) grind on slowly without charges before year-end. Aides keep absorbing the fallout, as Orr and Jukes already did, and Farage leads into 2027. (d) YES: a charge, an interim finding or a fresh exposé makes his leadership untenable, and he makes a tactical leadership resignation like his July MP gambit or his UKIP-era resignations. This would resolve Yes immediately even if later reversed. The Polymarket anchor is 7.5% (7–8% spread) and has fallen from a 28% peak, down 13.5 points over 30 days. The September bookmaker figure of about 40% is stale and predates the cooling. The research surfaces no new adverse development the market hasn't priced. I add a small premium for the live criminal probe and Farage's resignation history, landing at about 8%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4156",
+   "has_trace": true
+  },
+  {
    "id": 2881,
    "scanned_at": "2026-09-13T12:14:03.219844",
    "date": "2026-09-13",
@@ -3637,6 +3665,20 @@
  ],
  "Will Ethereum dip to $1,500 by December 31, 2026?": [
   {
+   "id": 4174,
+   "scanned_at": "2026-10-08T06:32:22.354388",
+   "date": "2026-10-08",
+   "agent": 7.5,
+   "market_price_t0": 7.1,
+   "edge": 0.004400000000000001,
+   "confidence": 0.626,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.08, 0.08, 0.07, 0.07, 0.07). (0) Resolution check: the condition has not been met. The closest Binance ETH/USDT print was a $1,507.05 low on June 6, 2026, which is $7 above the strike. The live Polymarket price of 7.1%, rather than a resolved ~100%, confirms no breach has occurred. One source loosely says ETH 'touched $1,500', but the Binance-specific figures ($1,505–1,507) and the market's trading say otherwise. (a) About 12 weeks remain until the Dec 31, 2026 23:59 ET deadline. (b) Status quo: ETH is around $2,550–2,620 as of Oct 8, roughly 42% above the strike, so if nothing changes the market resolves No. (c) No path: ETH chops in the $2,300–2,800 range through Q4. Treasury buyers such as BitMine and SharpLink and Q4 seasonality support price, and the multiple support shelves ($2,440, $2,330, $2,200, ~$1,666) hold. (d) Yes path: a renewed macro shock, such as the Hormuz/oil spike or 10-year yields near 5.36%, combines with ETF outflows, BitMine ending its accumulation, and leveraged-long cascades. These could break $2,000 and waterfall to a sub-$1,500 wick, as happened in February and June. Pricing: a driftless touch model at 60–75% annualized vol gives about 6–14% over 84 days. Related Kalshi and aggregator prices fell from about 50% in August to 11–21% in late September, as price rallied further from the strike. I anchor on the 7.1% market and nudge slightly up for crypto's fat tails and this week's elevated liquidation stress, landing at about 8%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4174",
+   "has_trace": true
+  },
+  {
    "id": 3260,
    "scanned_at": "2026-09-20T21:45:33.373202",
    "date": "2026-09-20",
@@ -3752,6 +3794,20 @@
   }
  ],
  "Will the highest score achieved by a Meta model on Humanity’s Last Exam in 2026 be 55% or higher?": [
+  {
+   "id": 4143,
+   "scanned_at": "2026-10-07T20:52:24.247166",
+   "date": "2026-10-07",
+   "agent": 25.2,
+   "market_price_t0": 34.5,
+   "edge": -0.09299999999999997,
+   "confidence": 0.536,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.20, 0.20, 0.29, 0.28, 0.29). (0) Nothing shows YES already met. The resolution-source read of agi.safe.ai shows Gemini 3 Pro on top at 38.3% and lists no Meta model at all. On every official or official-adjacent surface Meta sits below 55%: Muse Spark 1.3 is at 48.7% on the legacy HLE (Wikipedia table), 44.3% on Scale's public HLE board, and 25.4% on the new official HLE-Diamond table. (a) About 12 weeks remain until the Dec 31, 2026 deadline. (b) If nothing changes, Meta's best official score stays below 55% and this resolves NO. (c) NO scenario: Meta either releases nothing new or ships a model that gains the usual 3-5 points per release (roughly 52% on the old HLE). Meanwhile the leaderboard shifts toward HLE-Diamond, where Meta is about 30 points short and even the #2 frontier lab only reaches 55.0%. (d) YES scenario: a larger Meta model lands before year-end and posts 55%+ on the legacy board (the Polymarket markets on Meta's 'Watermelon' model releasing Oct 7-8 hint one may be close). Alternatively, the resolver accepts Meta's self-reported tool-assisted figures (62.1% for Muse Spark 1.1, from Meta's own docs) as a 'clear equivalent'. The rules name the official leaderboard, though, which makes that reading a stretch. The market's 34.5% (bid 29 / ask 40) seems to price in resolver leniency and a new release. I shade below it because the named source currently shows no Meta entry and the Diamond transition pushes scores down, but I keep meaningful weight on a surprise flagship and on ambiguity in how the resolver reads 'HLE Accuracy'.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4143",
+   "has_trace": true
+  },
   {
    "id": 3107,
    "scanned_at": "2026-09-18T03:16:36.473365",
@@ -5096,6 +5152,20 @@
   }
  ],
  "Will a Chinese company have the best AI model by December 31?": [
+  {
+   "id": 4146,
+   "scanned_at": "2026-10-07T21:38:12.154821",
+   "date": "2026-10-07",
+   "agent": 6.8,
+   "market_price_t0": 7.5,
+   "edge": -0.006999999999999992,
+   "confidence": 0.694,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.05, 0.07, 0.07, 0.07, 0.07). (0) Not met: the Oct 2 resolution-source snapshot shows Google's gemini-4-argon-high #1 at 1533 and Anthropic's claude-opus-5.5-high #2 at 1512; the best Chinese model, Xiaomi mimo-v2.6-pro, is #10 at 1491, 42 points back, with other Chinese models lower. YES needs a new Chinese flagship to post a score above the then-leader before Dec 31. (a) About 12 weeks remain. (b) Status quo is NO; even if Argon's preliminary score slips, a Chinese model must clear about 1512+. (c) NO: Qwen 4 or DeepSeek/Kimi follow-ups land top-5/10 while US labs hold #1, as on this board throughout its history. (d) YES: Qwen 4 Max ('very soon') or a surprise DeepSeek V5/Kimi K4 jumps 40+ points, as Kimi K3 did on the Frontend Code sub-board; the 'at any point' check lets even a brief preliminary-score spike count. The market is at 7.5% (range 6.5-13%); a zero base rate and a large gap argue lower, while Bloomberg's narrowing-gap report and the imminent Qwen 4 keep it in low single digits, so I shade slightly under the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4146",
+   "has_trace": true
+  },
   {
    "id": 2430,
    "scanned_at": "2026-09-01T17:00:45.780638",
@@ -7797,6 +7867,20 @@
  ],
  "Will Anthropic have the best AI model at the end of October 2026?": [
   {
+   "id": 4176,
+   "scanned_at": "2026-10-08T07:17:10.849452",
+   "date": "2026-10-08",
+   "agent": 27.2,
+   "market_price_t0": 27.5,
+   "edge": -0.0030000000000000027,
+   "confidence": 0.6140000000000001,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.26, 0.27, 0.28, 0.28, 0.28). (0) Not resolved. The resolution source's Oct 2 snapshot shows Google's gemini-4-argon-high at rank 1 with 1533±9, tagged Preliminary on about 4,900 votes. Anthropic's claude-opus-5.5-high is #2 at 1512±9 and claude-fable-5.1-max is #3 at 1511. Only AutoEval entries are excluded, and Preliminary is a different tag, so Argon currently counts. (a) About 23 days remain until the Oct 31, 12:00 PM ET check. (b) If nothing changes, Google wins. A 21-point gap, more than twice the stated error bars, usually does not close through vote accrual alone, though preliminary scores sometimes drift down once broad public votes arrive. (c) NO: Argon's score settles near 1520 or higher, or Google ships the fuller Gemini 4 before month-end, while Anthropic releases nothing above Opus 5.5. (d) YES: Argon's preliminary score falls as fresh votes come in, or Anthropic ships a Fable/Mythos 5.5-class model that debuts above about 1530. Anthropic's cadence has been rapid (Opus 5.5 on Sep 22, Sonnet 5.5 on Sep 28, Haiku 5.5 on Oct 7), but no new flagship is confirmed. The Polymarket price of 27.5% (Google at 69%) already reflects this setup after a sharp 30-day drop. I see no unpriced information to justify a big move, so I shade slightly below the market given the size of the gap and the chance of a further Google release.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4176",
+   "has_trace": true
+  },
+  {
    "id": 3626,
    "scanned_at": "2026-10-01T07:12:28.246325",
    "date": "2026-10-01",
@@ -9614,6 +9698,20 @@
   }
  ],
  "Ink FDV above $500M one day after launch?": [
+  {
+   "id": 4158,
+   "scanned_at": "2026-10-08T01:43:29.742702",
+   "date": "2026-10-08",
+   "agent": 12.9,
+   "market_price_t0": 13.5,
+   "edge": -0.006000000000000005,
+   "confidence": 0.5980000000000001,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.12, 0.12, 0.14, 0.14, 0.14). (0) Not resolved. As of Oct 6–8, 2026, Ink's own docs FAQ still says there is no information to share on a token, and trackers confirm INK has not launched, with no TGE date, snapshot or listing venue announced. (a) About 12 weeks remain before the Dec 31, 2026 11:59 PM ET deadline. Two things must both happen in that window: a launch, then a day-after FDV above $500M (roughly $0.50 per token on a 1B supply). (b) If nothing changes, there is no launch and the market resolves No by rule. (c) No scenario: TGE slips into Q1 2027, as repeated slippage (Q2 → Jul–Sep → Q3–Q4) and one tracker's 'Q1 2027' advice suggest; or it launches but debuts at $200–400M FDV in a weak altcoin tape. (d) Yes scenario: Kraken announces a surprise November/December TGE with a CEX listing and low float, and Kraken branding pushes day-one FDV toward $1B, as Opinion did. Market anchor: this market trades at 13.5%, and the sibling 'launch by Dec 31' market at 31.5%, implying roughly 43% odds of clearing $500M conditional on launch. That is consistent with the strike ladder ($250M at 28.5%, $1B at 8.5%). I shade launch odds slightly lower (~25–28%) given zero official signal less than three months out, and put the conditional at ~45–50%, landing slightly below market at ~12%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4158",
+   "has_trace": true
+  },
   {
    "id": 3129,
    "scanned_at": "2026-09-18T12:59:44.770341",
@@ -12873,6 +12971,20 @@
  ],
  "Will Loopscale launch a token by December 31, 2026?": [
   {
+   "id": 4171,
+   "scanned_at": "2026-10-08T05:45:19.856196",
+   "date": "2026-10-08",
+   "agent": 8.4,
+   "market_price_t0": 10.5,
+   "edge": -0.02099999999999999,
+   "confidence": 0.722,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.05, 0.06, 0.10, 0.10, 0.10). (0) The condition is not met. Loopscale's X feed and its own FAQ still say no token or airdrop has been announced, and no tradable Loopscale token exists as of 2026-10-08. (a) About 12 weeks remain until the Dec 31, 2026 deadline. (b) If nothing changes, the market resolves No. Loopscale is merging with Orca into 'Formation', and the official PR Newswire and TokenPost releases say both protocols 'will remain the foundation of the ORCA and xORCA token network', which points to points converting into ORCA economics rather than a new Loopscale governance token. (c) NO scenario: the Orca vote passes or drags on, integration takes months, and any reward to Loopscale points holders comes as ORCA/xORCA or is deferred into 2027, so no distinct Loopscale token trades by year-end. (d) YES scenario: Formation quickly schedules a separate Loopscale- or Formation-branded token and it becomes tradable before Dec 31. The vague KuCoin line that 'new token listings are expected' is the only hint, and it more likely refers to assets listed on the platform; a Formation-branded token might also be disputed as not counting. The market sits at 10.5% and has been drifting down (30-day change -2.5 points). The merger news, which keeps ORCA as the surviving token, is specific structural information that justifies pricing a little below market. I keep a small tail for a surprise token or a generous resolution interpretation.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4171",
+   "has_trace": true
+  },
+  {
    "id": 1798,
    "scanned_at": "2026-08-24T02:53:52.504822",
    "date": "2026-08-24",
@@ -12888,6 +13000,20 @@
   }
  ],
  "Modi out by December 31, 2026?": [
+  {
+   "id": 4166,
+   "scanned_at": "2026-10-08T04:10:10.179765",
+   "date": "2026-10-08",
+   "agent": 5.6,
+   "market_price_t0": 7.9,
+   "edge": -0.022999999999999993,
+   "confidence": 0.758,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.03, 0.03, 0.08, 0.08, 0.06). (0) The condition has not been met. The resolution source (pmindia.gov.in, updated 7–8 Oct 2026) shows Modi actively serving as PM, marking 25 years as head of government. The only 'resignation' item this year was a fake letter that the PIB officially debunked in July 2026. (a) About 84 days remain until December 31, 2026. (b) If nothing changes, Modi stays PM and the market resolves No. He is committed to the G20 in Florida on Dec 14–15, Carney has confirmed a Canada visit, and Brussels and Russia trips are in the works. (c) No: the NDA keeps its comfortable majority of about 293+ seats and no ally defects. The opposition's anger over the electoral-roll revision (SIR) stays at the level of rhetoric and protest, and no confidence motion is even threatened. (d) Yes: a sudden health event or death leaves a 76-year-old leader permanently incapacitated, or an unforeseen crisis forces a resignation announcement. Actuarial risk over about 2.5 months is roughly 1%, and political removal is near-negligible given the coalition arithmetic. The Polymarket anchor is 5.5–8% (bid 6 / ask 10), up 3.65 points in the past week. I found no qualifying news behind that move, only SIR protests aimed at the election commissioner. Long-shot bias likely inflates this thin market, so I price below it at about 3%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4166",
+   "has_trace": true
+  },
   {
    "id": 1792,
    "scanned_at": "2026-08-24T02:03:50.413567",
@@ -16040,7 +16166,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-07T20:37:20.713Z",
+  "last_sync": "2026-10-08T10:34:11.298Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -17385,6 +17511,20 @@
  ],
  "Will OpenAI's valuation hit (HIGH) $2.0T by December 31?": [
   {
+   "id": 4161,
+   "scanned_at": "2026-10-08T02:32:55.010745",
+   "date": "2026-10-08",
+   "agent": 7.1,
+   "market_price_t0": 8,
+   "edge": -0.008499999999999994,
+   "confidence": 0.624,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.06, 0.06, 0.08, 0.08, 0.07). (0) Not met: the resolution-source page could not be read directly, but secondary trackers and Polymarket's sibling widget put the NPM-implied valuation at roughly $0.9–1.0T in early October, far below $2.0T, and nothing shows the condition already met or impossible. (a) About 12 weeks remain until the December 31, 2026 cutoff. (b) Status quo: NPM prints near $1T, so the market resolves No. (c) No scenario: the reported $30B bridge round closes at about $1.4T, or slips into 2027, and NPM settles somewhere around $1.1–1.5T. (d) Yes scenario: the round closes at $1.4–1.5T, and a hot Anthropic IPO near $2T plus secondary frenzy push a single NPM daily print about 40% above the round price before year-end. Note that NPM prints can be noisy and only one day has to cross. The IPO route is effectively closed for 2026 (Altman has pushed listing to 2027; about 1% odds of an IPO announcement). OpenAI has never doubled its valuation within a quarter, and no source mentions a $2T figure for OpenAI. The Polymarket anchor is about 8% (bid 7 / ask 9). Sibling contracts priced $1.6T by October 31 at about 5%, and the earlier $2.0T sibling at about 12%. I shade slightly below the market, mainly because the most aggressive figure OpenAI is reportedly holding out for is $1.5T.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4161",
+   "has_trace": true
+  },
+  {
    "id": 3254,
    "scanned_at": "2026-09-20T19:21:18.250909",
    "date": "2026-09-20",
@@ -17490,6 +17630,20 @@
   }
  ],
  "Will OpenAI release a social network in 2026?": [
+  {
+   "id": 4149,
+   "scanned_at": "2026-10-07T22:25:03.357420",
+   "date": "2026-10-07",
+   "agent": 9,
+   "market_price_t0": 11,
+   "edge": -0.020000000000000004,
+   "confidence": 0.662,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.07, 0.11, 0.11, 0.09). (0) Resolution check: no source shows a qualifying launch. OpenAI's only social-feed product, the Sora app, was shut down in April 2026 and its API in September. The 'humans-only' biometric network is still described as 'exploring options' as of September 2026. The OpenAI news page could not be read (HTTP 403), but release trackers and the developer forum through Oct 7 show nothing social-network related. (a) About 12 weeks remain until the Dec 31, 2026 11:59 PM ET deadline. (b) Status quo is No: no beta, waitlist or announcement exists. DevDay on Sept 29, the natural venue for a major consumer reveal, featured Dots, GPT-6.1 Sol, Marketplace and ChatGPT Space, not a social feed. (c) NO: OpenAI keeps its focus on agents, enterprise and IPO preparation. The new Creator Product division ships monetization and plugin tooling that is not presented as a social network, and the biometric project stays internal. (d) YES: the Patreon-led Creator Product team, or a revived Altman 'social app', launches a public creator/community feed with profiles in Q4 that OpenAI presents as a social platform. The Sora precedent shows OpenAI can ship such a product quickly, but even then a short timeline plus the strict 'presented as a social network' wording makes resolution hard. The market sits at 11% after a -5.5% week, apparently a fading post-DevDay speculative bump. I shade it down slightly because DevDay passed without a reveal and the window is short, while keeping some weight on OpenAI's history of surprise consumer launches.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4149",
+   "has_trace": true
+  },
   {
    "id": 2907,
    "scanned_at": "2026-09-14T08:28:45.381157",
@@ -18553,6 +18707,20 @@
  ],
  "Will Artificial Inu be the first to hit a $1B FDV?": [
   {
+   "id": 4163,
+   "scanned_at": "2026-10-08T03:19:02.635951",
+   "date": "2026-10-08",
+   "agent": 9,
+   "market_price_t0": 10.5,
+   "edge": -0.015000000000000027,
+   "confidence": 0.618,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.07, 0.10, 0.10, 0.10). (0) Resolution check: the condition is not met. CoinMarketCap, the named source, shows Artificial Inu's FDV at about $113M. Its all-time high on Sep 17 was about $385M, so it has never come within a third of $1B. Nothing is impossible yet either: AI would need roughly a 9x rally, and would need to beat CASHCAT (~$129–160M), ANSEM (~$145M) and NET (~$40–70M) to the threshold. (a) About 11 weeks remain until the Dec 25, 2026 deadline. (b) Status quo is No: all four coins are in a broad drawdown, with Robinhood Chain trading activity down 96% (Fortune, Oct 6). Even PONS, the chain leader, peaked at about $990M and then fell 58%. (c) No scenario: memecoin speculation keeps cooling and AI drifts between $50M and $200M. The 'None' market already trades at 86%. (d) Yes scenario: NVDA keeps setting highs, and AI's NVDA-pairing narrative plus 25x perpetual-contract listings trigger a reflexive rally that compounds its September pace (+100% and +30% single days) through $1B. That is plausible for a highly volatile meme token, but historically rare. The market anchor of 10.5% fits AI being the favorite among the four, since roughly 60–70% of any 'someone hits $1B' outcome goes to AI. However, the related 'None' price implies about a 14% total chance that any coin gets there, and longshot bias on meme-coin markets suggests even that is generous. I shade slightly below the market, to about 7%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4163",
+   "has_trace": true
+  },
+  {
    "id": 3224,
    "scanned_at": "2026-09-20T06:34:47.394662",
    "date": "2026-09-20",
@@ -18798,6 +18966,20 @@
   }
  ],
  "Will OpenAI be the second-best AI Agent Lab at the end of October 2026?": [
+  {
+   "id": 4179,
+   "scanned_at": "2026-10-08T08:04:18.207038",
+   "date": "2026-10-08",
+   "agent": 77.4,
+   "market_price_t0": 77.5,
+   "edge": -0.0010000000000000009,
+   "confidence": 0.63,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.78, 0.76, 0.78, 0.78, 0.78). (0) Not resolved yet. The arena.ai Agent Arena Labs view (snapshot Oct 2, rechecked Oct 8) shows Anthropic 1st (14.31% Net Improvement), OpenAI 2nd (12.27%) and Google 3rd (7.57%), so YES needs that order to hold at the Oct 31 noon ET check. (a) About 23 days remain on a leaderboard that updates continuously. (b) Status quo is YES: OpenAI's lead over Google is about 4.7 points with roughly ±2 confidence intervals, and it has a deeper bench in the Models view (ranks #4–6, against Google's best at #10). (c) NO has two paths. Gemini 4 Argon is still gated, already roughly ties OpenAI on Confirmed Success, and has a session count comparable to Astra's. A broad rollout, combined with Arena's time-decay weighting, could lift Google to #2. Alternatively, OpenAI could overtake Anthropic for #1; the gap is only about 2 points with overlapping intervals, and that would also resolve NO. The sibling 'Anthropic second-best' market at 16.5% largely prices this second scenario. Methodology changes or AutoEval transitions add a small tail risk. (d) YES: no new Gemini or Claude release moves the scores much, and the Anthropic–OpenAI–Google order persists through Oct 31, as it has in every snapshot available. I anchor on the 77.5% market price; the research turned up no unpriced information strong enough to move far from it, so I hold near 0.78.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4179",
+   "has_trace": true
+  },
   {
    "id": 3265,
    "scanned_at": "2026-09-21T00:13:20.843729",
@@ -20459,6 +20641,20 @@
  ],
  "Will Anthropic have the #1 AI model at the end of October 2026?": [
   {
+   "id": 4151,
+   "scanned_at": "2026-10-07T23:17:22.086706",
+   "date": "2026-10-07",
+   "agent": 29.1,
+   "market_price_t0": 30.3,
+   "edge": -0.012799999999999923,
+   "confidence": 0.616,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.27, 0.28, 0.30, 0.30, 0.30). (0) Not resolved: the arena.ai Text Overall Style Control board (Oct 2 snapshot, still showing Oct 7) has Google's gemini-4-argon-high at #1 (1525±9, Preliminary, ~4,900 votes); Anthropic's best is #2 at 1505. (a) About 24 days remain until the Oct 31 noon ET check. (b) Status quo means Google stays #1 and the market resolves No; the board has been unchanged since Oct 2. (c) No: Argon's 20-point lead, large relative to its ±9 interval, survives preliminary settling, and Anthropic, with only Haiku 5.5 shipped and no announced flagship before month-end, cannot close the gap. (d) Yes: Argon's narrow-sample preliminary score regresses below ~1505 as broader votes accrue, or Google pulls or retags it, and Anthropic's deep bench (six of the top seven) reclaims #1 by default; a surprise Anthropic flagship is a smaller extra path. Anchor: the market is ~30%, matching the higher-volume sister market (Anthropic 29%, Google 69%); the November contract at 61% implies an expected Anthropic move after October. I see no unpriced information beyond the known preliminary-volatility argument, so I stay near the market, shading slightly toward the status quo given the lead size.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4151",
+   "has_trace": true
+  },
+  {
    "id": 3612,
    "scanned_at": "2026-09-30T21:38:12.116047",
    "date": "2026-09-30",
@@ -21430,6 +21626,70 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.07, 0.07, 0.10, 0.10, 0.09). (0) None of the resolution sources show the condition met. USTR, the PMO and the White House have no agreement announcement, and USTR's most recent Canada item (Sept 8) concerns a response to Canadian retaliation. Nothing makes YES impossible either, so the question is whether a deal is announced in the next 24 days. (a) About 24 days remain until the Oct 31, 11:59 PM ET deadline. (b) The status quo is clearly NO. Formal talks have been suspended since Aug 21, 50% US tariffs and Canada's counter-tariffs are in force, and US import bans took effect Sept 29. A new softwood lumber tariff is scheduled for Oct 14, and Greer said on Oct 1 that the remaining issues are 'quite difficult to resolve.' (c) NO scenario: Trump keeps saying he is in no rush, and Carney keeps his stated position of no new push before the Nov 3 US midterms. Technical talks drift, and nothing is announced until after the midterms and the CUSMA consultation close on Nov 3. (d) YES scenario: Lutnick's thesis plays out. After the Quebec election (Oct 5) and the Alberta referendum (Oct 19), the largely negotiated August deal is revived quickly, and both governments announce acceptance within the last 12 days of October. The Aug 18 'DEAL!' episode shows such announcements can come abruptly, though that one collapsed. The market sits at about 9.5% and has fallen steadily (-30% over 30 days). The research adds escalation signals and no scheduled meeting or restarted round, so I shade slightly below the market. I keep some tail for Trump's erratic dealmaking and possible pre-midterm motives.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/4116",
+   "has_trace": true
+  }
+ ],
+ "Will there be no Meta Watermelon model release by October 31, 2026?": [
+  {
+   "id": 4186,
+   "scanned_at": "2026-10-08T10:25:55.381845",
+   "date": "2026-10-08",
+   "agent": 41,
+   "market_price_t0": 36.5,
+   "edge": 0.044999999999999984,
+   "confidence": 0.5,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.45, 0.46, 0.36, 0.36, 0.42). (0) Not resolved. As of Oct 8 no source shows Watermelon publicly accessible: there is no Meta blog post, model card, waitlist or API, and the Sept 2 resolution-source post only mentions 'bigger models.' A public launch, with Meta or consensus reporting identifying it as Watermelon, would still have to happen by Oct 31 ET. (a) About 23 days remain. (b) Status quo is no release, which resolves Yes. (c) Release slips (Yes): the July pre-training pause, reported via a secondary source citing CNBC, pushed the launch to 'no earlier than October.' Meta has a record this year of slipping: Avocado/Muse Spark ran past its March target, its API slipped repeatedly, and the Muse Spark 1.2 weights promised Aug 10 never shipped. Connect (Sept 23–24) also passed with no reveal. (d) Release happens (No): The Information's Aug 25 internal-documents report targets October, and Zuckerberg's own Sept 2 'Next up 🍉' tease plus Wang's 'on track' remark point to imminence. Meta could ship a surprise launch, possibly ahead of Q3 earnings in late October, and frontier labs often launch without a waitlist. The market anchor is 36% Yes (bid 32 / ask 40), and Yes has risen 13 points in a week as October passes quietly. The related daily markets imply roughly 3–4% per day of release odds. I lean somewhat further toward slippage than the market because of the concrete delay signals and Meta's track record. The emoji-tease and leaked-target evidence is still strong enough to keep release slightly favored.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4186",
+   "has_trace": true
+  }
+ ],
+ "Will Pump.fun reach $0.0090 by December 31, 2026?": [
+  {
+   "id": 4183,
+   "scanned_at": "2026-10-08T09:40:47.748874",
+   "date": "2026-10-08",
+   "agent": 40.4,
+   "market_price_t0": 42,
+   "edge": -0.01599999999999996,
+   "confidence": 0.528,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.39, 0.37, 0.42, 0.42, 0.42). (0) Not resolved yet. Binance's all-time high is about $0.00898 (Sep 14, 2025), and Coinbase still shows an unchanged ATH of $0.00893 as of Oct 7, 2026, so no 1-minute candle has reached $0.0090. The direct Binance read failed, which leaves a small chance an unseen wick has already happened. (a) About 12 weeks remain, to Dec 31, 2026 23:59 ET. (b) If nothing changes, PUMP stays near $0.006–0.0064, roughly 30% below the strike, and this resolves No. (c) No path: the rally stalls at the stacked resistance around $0.0065–0.0074 that analysts flag. Unlocks on Oct 12, Nov 14 and Dec 14 add supply, and a broader Solana meme-coin pullback caps PUMP below its prior ATH zone. (d) Yes path: steady buybacks of about $1–1.5M a day, locked in until April 2027, whale re-accumulation and very high open interest (about $670M against much smaller spot volume) feed a short squeeze. That could produce a brief wick through the old ATH, and a single 1-minute high is enough. A driftless barrier-touch estimate with roughly 100% annualized volatility puts the chance of a +43% touch in 12 weeks near 45–50%. Haircuts for ATH-level resistance, discrete-candle effects and the unlock overhang bring it to the high 30s. The Polymarket anchor of 42% (bid 40/ask 44, with strong recent momentum) is the consensus. Sibling strikes are internally inconsistent and thinly traded, so I give them little weight and shade only slightly below the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4183",
+   "has_trace": true
+  }
+ ],
+ "Will the US federal government take a stake in Anduril Industries, Inc.?": [
+  {
+   "id": 4181,
+   "scanned_at": "2026-10-08T08:53:59.343029",
+   "date": "2026-10-08",
+   "agent": 15.9,
+   "market_price_t0": 19.5,
+   "edge": -0.036000000000000004,
+   "confidence": 0.6559999999999999,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.14, 0.16, 0.20, 0.16, 0.14). (0) The condition is not met. On Oct 6, 2026 Trump announced a 40% taxpayer stake tied to the Arsenal-2 shipyard. Anduril, Defense One and Fox all report that the stake is in a new subsidiary that will run the yard, and that the government is not taking equity in Anduril Industries, Inc. The rules count only the listed company or a vehicle that primarily owns it, so a parent-owned subsidiary does not qualify. No binding terms or primary federal document have been published even for the subsidiary stake. (a) About 12 weeks remain until Dec 31, 2026. (b) Status quo is No: the only announced stake sits outside the resolution definition. (c) NO: the subsidiary deal is formalized, or stays vague, and no parent-level equity follows. That path is reinforced by the Pentagon's contested legal authority to take equity, the unenacted and narrowly scoped NDAA fix, and IG/conflict-of-interest scrutiny over 1789 Capital's stake in Anduril. (d) YES: final documentation restructures the stake into the parent, or a federal vehicle joins Anduril's reported ~$100B funding round under a binding agreement before year-end. There is also a residual chance that loose 'Anduril stake' headlines push a contested Polymarket resolution toward Yes. The market's 19.5%, up 7 points over 30 days, likely blends real optimism with that resolution ambiguity. Given Anduril's explicit denial and the short window, I shade modestly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4181",
+   "has_trace": true
+  }
+ ],
+ "Will a new pneumonic plague case be confirmed in Russia by October 31?": [
+  {
+   "id": 4168,
+   "scanned_at": "2026-10-08T05:00:32.688510",
+   "date": "2026-10-08",
+   "agent": 13.4,
+   "market_price_t0": 16.5,
+   "edge": -0.031,
+   "confidence": 0.602,
+   "category": "Health",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.11, 0.10, 0.17, 0.17, 0.13). (0) Nothing shows the condition met as of Oct 8. Rospotrebnadzor still calls even the excluded index death 'pneumonia of undetermined etiology'. On Oct 6 Russia told WHO there is no plague 'in her or in anyone else'. WHO's Van Kerkhove says the causative agent is unknown. (a) About 23 days remain until the Oct 31, 23:59 Moscow deadline. (b) Status quo is NO: continued Russian denial, nearly 5,000 negative lab tests, and observation ended for more than 90% of 197 contacts. The secondary-case window from the Oct 2 exposure closes around Oct 9. (c) NO scenario: Russia keeps its 'unknown etiology' line, the rumored second employee is never lab-confirmed as Y. pestis, and the episode fades as a biosafety scare. Without a named pathogen and pneumonic form, no qualifying source can confirm a case under the strict definition. (d) YES scenario: WHO pressure under the IHR plus US diplomatic escalation forces Russia to acknowledge that the reported 'second employee' had lab-confirmed pneumonic plague, or a credible consensus emerges from leaked lab data. A separate new occupational or zoonotic exposure could also produce a confirmed case. Anchoring on the 16.5% market, I shade down. The bar requires explicit confirmation of the pneumonic form, Russia's communication is built to avoid naming a pathogen, and CNN found no corroboration of the second case. Even if Russia reversed course, it would most likely reclassify the excluded index patient. I keep about 11% for the live WHO inquiry and the chance that Russian denials are false.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4168",
    "has_trace": true
   }
  ]

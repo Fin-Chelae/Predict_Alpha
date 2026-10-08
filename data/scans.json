@@ -845,6 +845,20 @@
  ],
  "Will Anthropic have the best Code Arena | WebDev AI at the end of October 2026?": [
   {
+   "id": 4214,
+   "scanned_at": "2026-10-08T19:11:26.301743",
+   "date": "2026-10-08",
+   "agent": 85.2,
+   "market_price_t0": 85,
+   "edge": 0.0020000000000000018,
+   "confidence": 0.712,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.85, 0.86, 0.85, 0.85, 0.85). (0) Not resolved yet. The resolution source, arena.ai Code Arena | WebDev Overall filtered for Models, read on Oct 8 shows Anthropic's claude-opus-5.5-max at rank 1 (1813), OpenAI's gpt-6-astra-max at #2 (1788) and Anthropic's claude-sonnet-5.5-xhigh at #3. But the binding check is Oct 31 at 12:00 PM ET. (a) About 23 days remain until that check. (b) Status quo is Yes: Opus 5.5 has held #1 since about Sep 22 with a roughly 25-point cushion. Anthropic also holds 4 of the top 7 slots, so even if Opus slipped, Sonnet 5.5 xHigh (~1773) could keep #1 for the company. (c) No scenario: OpenAI ships a stronger GPT-6.x Astra variant, or Google or xAI lands a surprise flagship, that tops ~1814 before Oct 31. The lead changed hands three times in September around releases, and Arena's own rank spreads for Opus and Astra overlapped. (d) Yes scenario: no rival frontier release lands in the window, or one lands below Anthropic. Vote accumulation keeps Opus 5.5 ahead, since its interval has tightened and its score has stayed stable at 1813–1818 across snapshots. The research found no confirmed rival flagship release scheduled for Oct 8–31, and OpenAI and Anthropic both just shipped models in late September, which lowers near-term flip odds somewhat. Against that, release cadence has been fast all year, and there is small residual risk from AutoEval or category changes. I see no unpriced information strong enough to move off the 85% market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4214",
+   "has_trace": true
+  },
+  {
    "id": 3629,
    "scanned_at": "2026-10-01T09:34:53.990821",
    "date": "2026-10-01",
@@ -2482,6 +2496,20 @@
   }
  ],
  "StandX FDV above $1B one day after launch?": [
+  {
+   "id": 4188,
+   "scanned_at": "2026-10-08T11:12:10.430004",
+   "date": "2026-10-08",
+   "agent": 9.9,
+   "market_price_t0": 11,
+   "edge": -0.011000000000000024,
+   "confidence": 0.618,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.09, 0.09, 0.11, 0.11, 0.10). (0) Not resolved. The StandX X feed (posts through Oct 7) and every tracker and review consulted (CoinCodeCap, Aug 27; perps.info, Sept) describe the project as still pre-TGE. The only tradable 'STAND' instrument is LBank's points pre-market, which LBank itself says is not the real token. (a) About 12 weeks remain until the Dec 31, 2026 11:59 PM ET backstop. (b) If nothing changes, there is no launch and the market resolves No. StandX has already let informal targets slip: Q1 2026, the January rumor, and the 'within the year' hint. As of Oct 8 there is no announced TGE date or tokenomics, and TGEs are usually announced weeks in advance. (c) NO scenario: StandX keeps farming points into 2027 and the backstop resolves No. Alternatively, it launches into a crowded Q4 field and prices in the low hundreds of millions, like Paradex (about $43M FDV) or most perp-DEX TGEs, given StandX's modest deposits of roughly $32M. (d) YES scenario: StandX announces a December TGE. Its zero-VC, 100%-community narrative and ex-Binance Futures team, plus spillover from Variational's hot Q4 TGE (Polymarket median about $1.5B), push day-one FDV past $1B on Binance-ecosystem liquidity. I put the chance of a 2026 launch at roughly 30-40% (the 53.5% sibling market is thin and looks stale), and the chance of FDV above $1B given a launch at roughly 25-30%. That gives about 9%, slightly below the 11% market anchor, which has drifted down 4.5 points over 30 days.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4188",
+   "has_trace": true
+  },
   {
    "id": 3219,
    "scanned_at": "2026-09-20T04:11:15.038297",
@@ -4195,6 +4223,20 @@
  ],
  "Opensea FDV above $500M one day after launch?": [
   {
+   "id": 4191,
+   "scanned_at": "2026-10-08T12:02:42.669898",
+   "date": "2026-10-08",
+   "agent": 11.2,
+   "market_price_t0": 13.8,
+   "edge": -0.025800000000000003,
+   "confidence": 0.622,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.10, 0.10, 0.14, 0.14, 0.09). (0) Not resolved. DropsTab (as of Oct 7–8, 2026) and the prediction-market trackers show no SEA contract, no TGE date and no trading venue. The resolution-source read found no launch or FDV data. (a) About 12 weeks remain before the Dec 31, 2026, 11:59 PM ET cutoff. In that time OpenSea would have to announce a TGE, deploy the token, and have it publicly tradable. (b) If nothing changes, the March 2026 indefinite postponement carries through and the market resolves No automatically. (c) NO: OpenSea keeps waiting for better market conditions, as Finzer signalled (\"$SEA only launches once\"), and no TGE happens in 2026. A rushed launch into a weak NFT market that prices below $500M FDV is a smaller path to No. (d) YES: the Foundation announces and runs a Q4 TGE with the community airdrop and revenue buybacks. Given OpenSea's ~$3B equity mark and Blur's ~$3.2B day-one FDV precedent, a day-one FDV above $500M is likely, perhaps around 85% conditional on launch. The anchor here is 13.8%, but the same-venue 'launch by Dec 31, 2026' market trades at about 9%. That market caps this one, since there is no Yes without a launch. Its price times roughly 0.85 conditional gives about 8%. I land slightly below this market's price, at about 10%, because of that cross-market inconsistency and the absence of any on-chain or announcement signal so late in the year.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4191",
+   "has_trace": true
+  },
+  {
    "id": 3191,
    "scanned_at": "2026-09-19T16:04:36.584708",
    "date": "2026-09-19",
@@ -5475,6 +5517,20 @@
  ],
  "Dutch House of Representatives dissolved in 2026?": [
   {
+   "id": 4217,
+   "scanned_at": "2026-10-08T19:59:15.013346",
+   "date": "2026-10-08",
+   "agent": 6.1,
+   "market_price_t0": 7,
+   "edge": -0.009000000000000008,
+   "confidence": 0.6799999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.04, 0.06, 0.07, 0.07, 0.06). (0) Not resolved. The Tweede Kamer website and October 2026 reporting show the House sitting normally, with defence and budget debates under way. No cabinet resignation, royal dissolution decree, or Kiesraad election date has been reported. (a) About 12 weeks remain until 31 Dec 2026. (b) If nothing changes, the House is not dissolved and the market resolves No. (c) NO scenario: the Jetten minority cabinet struggles through the Belastingplan votes (Tweede Kamer in November, Eerste Kamer in December) with ad hoc opposition deals. It has already survived a September no-confidence motion and a broader motion of disapproval, and Jetten himself frames 12 November as a negotiating checkpoint, not a collapse date. (d) YES scenario: the tax plan fails around 12 November, or BBB's indispensable 11 Senate seats block it in December. The cabinet falls, and the King signs a dissolution decree before year-end, which reporting treats as 'dissolved'. The key drag is the calendar. In past collapses (Rutte IV in July 2023, Schoof in June 2025), the dissolution decree came weeks to months after the fall, timed to candidate nomination about 44 days before the vote. Legally, dissolution only takes effect when the new Kamer convenes, so even a November collapse would most plausibly yield a decree in January 2027. The market at 7% (bid 5 / ask 9) already prices elevated collapse risk given the cabinet's 16% confidence rating and its minority arithmetic. Because of the collapse-to-decree lag and the legal-effect ambiguity, I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4217",
+   "has_trace": true
+  },
+  {
    "id": 2409,
    "scanned_at": "2026-09-01T11:23:02.147843",
    "date": "2026-09-01",
@@ -6666,6 +6722,20 @@
   }
  ],
  "Will Anthropic have the best AI model at the end of December 2026?": [
+  {
+   "id": 4202,
+   "scanned_at": "2026-10-08T15:18:38.104664",
+   "date": "2026-10-08",
+   "agent": 39.4,
+   "market_price_t0": 41,
+   "edge": -0.016000000000000014,
+   "confidence": 0.5559999999999999,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.38, 0.38, 0.41, 0.41, 0.39). (0) Not resolved. The Oct 2 snapshot of the resolution source (arena text leaderboard, style control off) shows Google's gemini-4-argon-high at #1 with 1525±9 on about 4.9k preliminary votes. Anthropic holds #2–#6 at 1501–1505. YES needs Anthropic to own #1 at the Dec 31 noon ET check.\n(a) About 12 weeks remain, which is room for several releases given 2026's crown changes roughly every two months.\n(b) Status quo is NO: Google leads by about 20 Elo and also tops most Arena sub-categories. The sibling Polymarket October-end market prices Anthropic at only 26.5%, and Manifold's Oct-31 market has Anthropic near 27%.\n(c) NO: Argon's score holds as votes accumulate, or rises with broader GA, while Anthropic has no announced Opus 6. Alternatively, OpenAI's GPT-6 or another lab jumps to #1.\n(d) YES: Argon's preliminary score regresses toward the pack, a common pattern for gated, early-enthusiast votes. Anthropic's very fast cadence (Fable 5.1, Opus 5.5, Sonnet 5.5, Haiku 5.5 within five weeks) could also produce another flagship by December that retakes #1, as Anthropic did repeatedly earlier in 2026.\nThe market anchor is 41% and trending down sharply. The longer horizon justifies a price above the October contract, but Google's current broad lead and the lack of an announced Claude flagship push me slightly below the market, to about 38%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4202",
+   "has_trace": true
+  },
   {
    "id": 3090,
    "scanned_at": "2026-09-17T20:07:26.706055",
@@ -10984,6 +11054,20 @@
   }
  ],
  "US Government removes public access to another major AI model in 2026?": [
+  {
+   "id": 4193,
+   "scanned_at": "2026-10-08T12:49:20.663487",
+   "date": "2026-10-08",
+   "agent": 13.6,
+   "market_price_t0": 14.5,
+   "edge": -0.00899999999999998,
+   "confidence": 0.632,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.12, 0.12, 0.14, 0.14, 0.15). (0) Resolution check: the resolving condition has not been met. The June 12–30 BIS directive that forced Anthropic to pull Fable 5 and Mythos 5 predates the market's July 3 creation, which is why the title asks about \"another\" removal. No source documents a new qualifying action between July 3 and October 8. The resolution-source tool's \"yes\" reading rests on that earlier episode, so I discount it.\n(a) About 12 weeks remain until the December 31, 2026 deadline.\n(b) Status quo: nothing changes and the market resolves No. Every other federal measure (NDAA §1532, intelligence-community DeepSeek removal, stalled \"No DeepSeek\" and No Adversarial AI bills) only restricts government or contractor use, not public access.\n(c) NO scenario: Bessent's distillation threats against Moonshot, DeepSeek and Alibaba stay rhetorical, as they have since July 21. Alternatively, any action is an Entity List listing, which restricts exports to Moonshot rather than US users' access to Kimi. Open-weight copies on US hosts would also likely keep a model publicly reachable. BIS may also be wary of repeating a legally contested, nonpublic directive.\n(d) YES scenario: Treasury imposes OFAC sanctions on Moonshot or another Chinese lab, prompting app stores and APIs to cut off US users. Or BIS issues another nationality-based directive against a new frontier release, and the company again shuts the model down for everyone, even briefly.\nThe market's 14.5% (up 6 points over 30 days) is a reasonable anchor. I shade slightly lower because the threats are nearly three months stale without follow-through, and because sanctions or Entity List actions don't straightforwardly remove all ordinary US channels for a model.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4193",
+   "has_trace": true
+  },
   {
    "id": 3032,
    "scanned_at": "2026-09-16T17:40:50.661486",
@@ -16166,7 +16250,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-08T10:34:11.298Z",
+  "last_sync": "2026-10-08T20:41:40.137Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -20687,6 +20771,20 @@
  ],
  "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?": [
   {
+   "id": 4209,
+   "scanned_at": "2026-10-08T17:37:40.047616",
+   "date": "2026-10-08",
+   "agent": 8,
+   "market_price_t0": 9,
+   "edge": -0.010000000000000009,
+   "confidence": 0.6940000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.07, 0.09, 0.09, 0.08). (0) No source shows a qualifying statement. As of Oct 7-8, Netanyahu says \"too early to say,\" Israeli officials lean toward a lone-wolf assessment, and only Trump, a non-qualifying US voice, has asserted an Iran link. (a) About 23 days remain until the Oct 31, 11:59 PM ET deadline. (b) Status quo is No: the UAE-led probe has no completion date, and the Israeli line is provisional but points away from Iran, toward Gaza-revenge motives and online radicalization (FT/CBS manosphere posts, Oct 8). (c) NO scenario: the investigation keeps describing a self-radicalized lone actor, Netanyahu frames it as jihadist terror without naming Iran, and the month ends without attribution. (d) YES scenario: the Israel Hayom-reported Syrian/Iran-built cell lead hardens, or Netanyahu, ahead of the Oct 27 election and under Trump's \"I personally do\" pressure, says Iran sent him, which would qualify via a PM statement. The market sits at 9% (bid 8/ask 10) after falling from 44%, and it already prices the lone-wolf drift. Converging Israeli reports through Oct 6-8 that rule out an Iran link, plus the strict explicit-direction bar, justify shading slightly below the market. I keep some tail for the electoral incentive and the explicitly open investigation.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4209",
+   "has_trace": true
+  },
+  {
    "id": 3640,
    "scanned_at": "2026-10-01T16:45:42.265122",
    "date": "2026-10-01",
@@ -20702,6 +20800,20 @@
   }
  ],
  "Will Trump speak to Ahmed al-Sharaa by October 31?": [
+  {
+   "id": 4198,
+   "scanned_at": "2026-10-08T14:26:10.369233",
+   "date": "2026-10-08",
+   "agent": 29.4,
+   "market_price_t0": 32,
+   "edge": -0.025999999999999968,
+   "confidence": 0.5700000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.27, 0.26, 0.32, 0.32, 0.30). (0) Nothing in the sources shows a qualifying Trump–al-Sharaa conversation since the market opened on October 1. The resolution-source read cites the November 2025 White House visit, which predates market creation and does not count. (a) About 23 days remain until the October 31, 11:59 PM ET deadline. A call would also need consensus reporting by November 3. (b) The status quo is No: no call, visit or shared summit is scheduled for October. Al-Sharaa's latest trip (Riyadh, October 6) had no US leg. (c) NO: US–Syria coordination on the Houthi/Saudi deployment and the Israel talks runs through Rubio and envoys, and the month passes with no leader-level call. (d) YES: a flare-up in the Syria–Israel security talks, the Saudi/Houthi file or Iran-related events prompts a Trump call. A Syrian presidency readout of that call would be picked up by credible media. The 2026 base rate is contact in about 4 of 9 months (January call, May call, July Ankara meeting, September UNGA multilateral session), roughly 40–45% per full month. Most of those were tied to summits, which October lacks, and the first week of the window has already passed without contact. Adjusted for the shorter window and the absence of a scheduled trigger, this suggests something in the high 20s, slightly below Polymarket's thinly traded 32% mid (10/54 spread).",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4198",
+   "has_trace": true
+  },
   {
    "id": 3636,
    "scanned_at": "2026-10-01T14:21:56.519238",
@@ -21690,6 +21802,70 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.11, 0.10, 0.17, 0.17, 0.13). (0) Nothing shows the condition met as of Oct 8. Rospotrebnadzor still calls even the excluded index death 'pneumonia of undetermined etiology'. On Oct 6 Russia told WHO there is no plague 'in her or in anyone else'. WHO's Van Kerkhove says the causative agent is unknown. (a) About 23 days remain until the Oct 31, 23:59 Moscow deadline. (b) Status quo is NO: continued Russian denial, nearly 5,000 negative lab tests, and observation ended for more than 90% of 197 contacts. The secondary-case window from the Oct 2 exposure closes around Oct 9. (c) NO scenario: Russia keeps its 'unknown etiology' line, the rumored second employee is never lab-confirmed as Y. pestis, and the episode fades as a biosafety scare. Without a named pathogen and pneumonic form, no qualifying source can confirm a case under the strict definition. (d) YES scenario: WHO pressure under the IHR plus US diplomatic escalation forces Russia to acknowledge that the reported 'second employee' had lab-confirmed pneumonic plague, or a credible consensus emerges from leaked lab data. A separate new occupational or zoonotic exposure could also produce a confirmed case. Anchoring on the 16.5% market, I shade down. The bar requires explicit confirmation of the pneumonic form, Russia's communication is built to avoid naming a pathogen, and CNN found no corroboration of the second case. Even if Russia reversed course, it would most likely reclassify the excluded index patient. I keep about 11% for the live WHO inquiry and the chance that Russian denials are false.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/4168",
+   "has_trace": true
+  }
+ ],
+ "Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by 4–8%?": [
+  {
+   "id": 4211,
+   "scanned_at": "2026-10-08T18:25:30.924605",
+   "date": "2026-10-08",
+   "agent": 40.4,
+   "market_price_t0": 41.5,
+   "edge": -0.010999999999999954,
+   "confidence": 0.5359999999999999,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.39, 0.40, 0.41, 0.41, 0.40). (0) Not resolved. The TSE pages show no runoff data, and the vote is October 25, so the official valid-vote margin still has to land between 4 and 8 points with Flávio winning. (a) About 17 days remain before the runoff; the TSE count would make it official shortly after. (b) Status quo: Flávio led the first round 47.0% to 45.2%. The roughly 7.8% that went to other candidates leaned right (Caiado, Zema, Renan Santos, Cury). A 70/30 split of those votes gives about a 5-point margin, 60/40 gives about 3.4, and 80/20 gives about 6.6. So 4–8 is near the centre of plausible outcomes, and the only post-first-round poll (PoderData/Aya, Oct 5–7) shows 53–47, a 6-point gap. (c) NO: the race compresses as it did in 2022, when polls showed about 4 points and Lula won by 1.8; the pre-first-round houses (Datafolha, AtlasIntel, Quaest) implied sub-2-point margins; debates or anti-both voters could tighten it; or Lula wins outright, which the winner market prices at about 14%. Alternatively, Bolsonaro-family underpolling, as in 2022, and centrão consolidation could push the margin above 8. (d) YES: the PoderData swing holds, the right-wing first-round vote transfers mostly to Flávio, and he wins by around 5–7. With a mean margin near +5 and a standard deviation around 4, a 4-point-wide bracket captures roughly 37–40%. That is slightly below the 41.5% market anchor, which may overweight the single 6-point poll before the Datafolha, AtlasIntel and Quaest releases arrive.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4211",
+   "has_trace": true
+  }
+ ],
+ "Will Bitcoin hit $100k by December 31, 2026?": [
+  {
+   "id": 4206,
+   "scanned_at": "2026-10-08T16:50:33.754132",
+   "date": "2026-10-08",
+   "agent": 26,
+   "market_price_t0": 27,
+   "edge": -0.010000000000000009,
+   "confidence": 0.592,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.25, 0.24, 0.27, 0.27, 0.27). (0) No source shows a Binance BTC/USDT 1-minute high at or above $100k since the market opened on 2026-08-20. The September peak was around $87k, and spot is now about $81-83k, so the condition is not met. The direct read of Binance failed, so this relies on aggregated price data. (a) About 84 days remain until 11:59 PM ET on Dec 31, 2026. (b) Status quo is No: BTC needs a roughly 22% rally to touch six figures. (c) NO scenario: ETF outflows continue (the $485M outflow on Oct 7 was the largest since June), 10-year yields at 5.36%, Fed hike risk and the oil shock keep BTC capped below the $87-90k resistance through year-end. (d) YES scenario: a squeeze through the $88-90k short-liquidation clusters combines with a renewed ETF bid, like the 24% move in August, and Q4 seasonality carries a wick to $100k. A barrier-touch model at 45-50% annualized volatility gives roughly 33-39%. The options-implied estimate (24.5% as of Sep 29), Polymarket's own $95k sibling at 34% and the 27% live price all sit lower, consistent with the negative macro drift. I shade slightly below the 27% anchor for the deteriorating macro and flow backdrop, since I found no unpriced catalyst that would justify moving further.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4206",
+   "has_trace": true
+  }
+ ],
+ "Will Brad Bradford win the 2026 Toronto mayoral election?": [
+  {
+   "id": 4204,
+   "scanned_at": "2026-10-08T16:04:10.450272",
+   "date": "2026-10-08",
+   "agent": 27.8,
+   "market_price_t0": 30,
+   "edge": -0.021999999999999964,
+   "confidence": 0.6900000000000001,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.25, 0.26, 0.30, 0.30, 0.28). (0) Nothing is resolved yet. The City of Toronto elections page shows only logistics, and election day is October 26, 2026. Bradford would have to outpoll Olivia Chow on that day.\n(a) That leaves about 18 days. Advance voting is already under way (Oct 6–11).\n(b) If nothing changes, Chow wins. Every public poll has her ahead: Nanos about 52–43, Liaison 48–40, Canada Pulse 51–34, Forum 46–42. Toronto has not defeated a sitting mayor seeking re-election since amalgamation.\n(c) NO scenario: Chow holds a 5–10 point lead, and Chris Alexander's roughly 4–9% splits or stays home, as Tumilty suggests. Chow's dominance in Toronto-East York and her lead in Scarborough carry her through.\n(d) YES scenario: the 12–22% undecided bloc breaks toward 'time for change.' Bradford's money and endorsements (Liberal MPs, Geddy Lee, Godfrey) pull ahead in turnout in Etobicoke and North York. A typical municipal polling miss, which City Hall Watcher says dominates its error budget, closes the 4–9 point gap.\nThe market sits at 30%, up 18.5 points in a week, which looks like it is pricing Alexander's exit and the tighter Forum poll. The City Hall Watcher model, built on 15 polls, gives Chow about 70%, with Bradford ahead by 2+ points in only 26% of simulations. Adding the incumbency base rate and the absence of any poll showing Bradford leading, I shade slightly below the market to about 25%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4204",
+   "has_trace": true
+  }
+ ],
+ "New pandemic before 2028?": [
+  {
+   "id": 4196,
+   "scanned_at": "2026-10-08T13:38:26.286009",
+   "date": "2026-10-08",
+   "agent": 13.2,
+   "market_price_t0": 15,
+   "edge": -0.017999999999999988,
+   "confidence": 0.638,
+   "category": "Health",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.11, 0.11, 0.15, 0.15, 0.14). (0) Not resolved. The WHO newsroom and outbreak-news pages, plus the research through 2026-10-08, show no pandemic declaration and no use of the new IHR \"pandemic emergency\" tier since the market opened on 2026-08-13. (a) About 15 months remain, to 2027-12-31 11:59 PM ET. (b) The status quo is No. WHO dropped its formal pandemic-phase process after 2009 and has never invoked the \"pandemic emergency\" tier, which came into force in September 2025. (c) No scenario: the DRC Bundibugyo Ebola epidemic stays a PHEIC. That would match the explicit \"not a pandemic emergency\" findings of the Emergency Committee and Director-General in May and again in August 2026, with global risk rated low. Mpox, H5N1 and plague stay at sporadic or low-risk levels, so nothing triggers a declaration. (d) Yes scenario: either Ebola keeps spreading internationally (Kenya affected, South Sudan at risk) until the DG finally invokes pandemic emergency, or a new pathogen emerges with sustained human-to-human spread, such as a reassortant H5 flu or a novel coronavirus, and WHO declares it. Ebola's transmission pattern makes the first path unlikely; a novel respiratory pandemic in any 15-month window historically runs only a few percent. There is also some ambiguity over whether a \"pandemic emergency\" designation counts as \"declaring a pandemic\", which slightly favours No. The Polymarket anchor is 15% and the same question on Kalshi trades at 13%; Metaculus put about 17% on a comparable before-2027 question. Given two explicit WHO refusals to escalate Ebola, I shade slightly below the market to 11%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4196",
    "has_trace": true
   }
  ]

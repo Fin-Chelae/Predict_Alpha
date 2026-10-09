@@ -233,6 +233,20 @@
  ],
  "Strait of Hormuz traffic returns to normal by December 31?": [
   {
+   "id": 4287,
+   "scanned_at": "2026-10-09T15:07:44.393271",
+   "date": "2026-10-09",
+   "agent": 16,
+   "market_price_t0": 18.5,
+   "edge": -0.024999999999999967,
+   "confidence": 0.6119999999999999,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.14, 0.12, 0.18, 0.18, 0.17). (0) Not met. The latest IMF PortWatch readings for Sep 28 to Oct 4 are 4, 1, 4, 0, 4, 2 and 4 calls, a 7-day average of about 2.7 against the required 60. Independent AIS trackers count more, around 10.7 a day, but still far short. For YES, a deal would have to be implemented and traffic restored almost to pre-war levels for a full week before Dec 31. (a) About 12 weeks remain, and PortWatch's weekly publication lag effectively trims the useful window further. (b) Status quo is a firm NO. Iran says the strait stays closed until its seven conditions are met, Trump rejected the seven-day plan, and IRGC strikes on tankers continued into early October. (c) NO: talks stall or a deal arrives in December. Even a deal could produce only a partial rebound, since the best crisis-era 7-day average was roughly 13–32 after the June MoU. Insurers and mine-clearance would hold traffic below 60. The World Bank's baseline assumes reopening only begins around Dec 31. (d) YES: within weeks the US accepts some version of Iran's plan, which reopens shipping by day 6. The tanker backlog then surges through, pushing daily calls back toward the 85–100 pre-war norm by late November or December. The anchor is Polymarket at 18.5%. The November sibling is at 9.5% and Noah's model at 14% (range 6–28%). Senior-meeting and deal markets imply only modest odds of a breakthrough, and even a breakthrough has never produced more than about half of normal traffic in this crisis. I shade slightly below the market to 14%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4287",
+   "has_trace": true
+  },
+  {
    "id": 3709,
    "scanned_at": "2026-10-02T04:36:28.453716",
    "date": "2026-10-02",
@@ -1730,6 +1744,20 @@
   }
  ],
  "Will Anthony Fauci be arrested before 2027?": [
+  {
+   "id": 4294,
+   "scanned_at": "2026-10-09T17:28:04.276932",
+   "date": "2026-10-09",
+   "agent": 7.2,
+   "market_price_t0": 7.8,
+   "edge": -0.006200000000000011,
+   "confidence": 0.63,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.07, 0.08, 0.08, 0.07). (0) Resolution check: the condition is not met. No source shows Fauci arrested, indicted or charged as of 2026-10-09. The resolution-source read and all four research dimensions agree that every track is still at the referral, subpoena or grand-jury stage. Only his former aide Morens has been arrested.\n(a) About 12 weeks remain until the December 31, 2026 deadline.\n(b) Status quo is No: nothing scheduled points to an arrest or surrender.\n(c) NO scenario: Pirro's special grand jury (built to investigate, can sit 18+ months) drifts, as in the Lerner precedent where a contempt referral took about a year and was declined. Meanwhile the Florida/Louisiana/West Virginia AG probes stay at the document stage, and the autopen pardon challenge never matures.\n(d) YES scenario: DOJ, which has shown willingness to pursue political targets and arrested Morens dramatically, indicts Fauci for July 2026 contempt of Congress. That conduct falls outside the pardon window, which ends Jan 19, 2025. He would then self-surrender at an arraignment, which qualifies, before year-end. A state indictment followed by surrender is a smaller second path.\nThe market anchor is 7.8%, and the related 'charged by Dec 31' market sits at 13.5%. That related price implies arrest at roughly 0.7-0.85× the charge probability, consistent with about 8-10%. Given the short window, contested procedure and expert consensus that the contempt case is weak, I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4294",
+   "has_trace": true
+  },
   {
    "id": 3761,
    "scanned_at": "2026-10-02T17:03:52.316518",
@@ -6997,6 +7025,20 @@
  ],
  "Will NVIDIA be the largest company in the world by market cap on December 31?": [
   {
+   "id": 4302,
+   "scanned_at": "2026-10-09T19:54:25.780092",
+   "date": "2026-10-09",
+   "agent": 82.2,
+   "market_price_t0": 83.5,
+   "edge": -0.0129999999999999,
+   "confidence": 0.6759999999999999,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.81, 0.80, 0.83, 0.83, 0.83). (0) Not yet resolved: as of Oct 9, 2026 NVIDIA is #1 at ~$5.54-5.58T vs Apple ~$4.92T and Alphabet ~$4.26T per companiesmarketcap/stockanalysis/Fool/InvestingCube; resolution depends on Dec 31 close. (a) ~2.75 months (~57 trading days) remain. (b) Status quo: NVIDIA's ~12-13% lead holds → YES. (c) NO: an AI-capex/bubble scare (OpenAI revenue worries already knocked NVDA from $243 to $230), a miss or weak guide at the mid/late-Nov earnings (VanEck power-constraint risk), or export-control/smuggling fallout, combined with Apple strength, closes the gap; Apple briefly retook #1 in July 2026, so flips do happen. (d) YES: NVIDIA delivers on ~$108B Q3 guidance, buybacks support the stock, and options imply ~67% odds of $6T by mid-December, widening the lead. A relative-volatility model (log gap ~0.12 vs ~0.15-0.19 relative sigma over the horizon) gives roughly 74-80%, slightly below the 83.5% Polymarket anchor; sibling markets (Apple 14%, Alphabet 1.6%) are consistent. I shade a bit below market toward ~81%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4302",
+   "has_trace": true
+  },
+  {
    "id": 3725,
    "scanned_at": "2026-10-02T08:09:04.488827",
    "date": "2026-10-02",
@@ -12161,6 +12203,20 @@
  ],
  "Will the U.S. invade Iran before 2027?": [
   {
+   "id": 4282,
+   "scanned_at": "2026-10-09T13:33:08.948126",
+   "date": "2026-10-09",
+   "agent": 13.8,
+   "market_price_t0": 15.5,
+   "edge": -0.017000000000000015,
+   "confidence": 0.648,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.12, 0.12, 0.15, 0.15, 0.14). (0) Resolution check: no source shows US ground forces seizing or holding any Iranian territory through Oct 8–9, 2026. GlobalSecurity's tracker and the current-state research report no ground operation in over seven months of war. The condition is not yet met. (a) About 12 weeks remain until Dec 31. Trump has publicly ruled out strikes before the Nov 3 midterms, so the realistic window is about 8 weeks. (b) Status quo is No: an air/naval war with periodic ceasefires, where every reported Kharg Island or island-seizure plan since March stayed a plan. (c) NO scenario: after the midterms Trump resumes 'massive bombing' of energy, infrastructure and nuclear targets, which is how Axios describes the CENTCOM preparation. He gets no ground offensive, or nothing at all if talks restart, with public opposition and War Powers friction still in play. (d) YES scenario: a third carrier and two amphibious groups arrive by late November, bombing resumes and fails to reopen Hormuz. Trump then orders Marines to seize Kharg Island or the Abu Musa/Tunbs in December. That would clearly count as an offensive to establish control over Iranian territory. The market's 15.5% (bid 15/ask 16) prices this tail. I shade slightly lower. All current reporting frames the next phase as air-only, seven months of 'ready-to-go' ground options never executed, and the window is compressed to about 8 weeks. Still, the amphibious buildup and stalled diplomacy keep a real tail open.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4282",
+   "has_trace": true
+  },
+  {
    "id": 3742,
    "scanned_at": "2026-10-02T12:21:07.263315",
    "date": "2026-10-02",
@@ -13422,6 +13478,20 @@
   }
  ],
  "Nothing Ever Happens: 2026": [
+  {
+   "id": 4297,
+   "scanned_at": "2026-10-09T18:19:48.976083",
+   "date": "2026-10-09",
+   "agent": 83.9,
+   "market_price_t0": 83.5,
+   "edge": 0.004000000000000115,
+   "confidence": 0.5980000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.85, 0.85, 0.83, 0.83, 0.82). (0) No source shows any of the 13 triggers met as of Oct 9, 2026. The Feb 28 US-Israeli strikes killed Khamenei, but US/Israeli intel says the regime has not fallen. That the market still trades at 83.5% suggests the Feb strikes were not counted as a US 'invasion' or regime fall. Bitcoin is near $82k, the Greenland deal kept Danish sovereignty, and there has been no Taiwan or NATO invasion and no 9.0 quake or VEI-6 eruption. (a) About 83 days remain until Dec 31, 2026. (b) If nothing changes, the market resolves Yes. The Senate supermajority trigger is structurally dead, since the new Congress is not seated until 2027. (c) NO paths: a US ground move into Iran amid the ongoing conflict, a sudden collapse of the IRGC-led regime, Trump's death or incapacity, Xi's ouster, or a Russian incursion on NATO soil. Smaller paths are a rare M9 quake (~1% over this window) or a large eruption. (d) YES path: the current trajectory continues on every front through year-end. Summing the sibling Polymarket longshot prices (Trump out 4.4%, Iran regime 4.5%, Xi 3%, Greenland 2.3%) plus Iran invasion, Russia-NATO and natural-disaster tails gives roughly 15-18%. But longshot contracts on Polymarket are typically inflated, and the risks overlap, so my true combined risk estimate is closer to 13-15%. I therefore lean slightly above the 83.5% anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4297",
+   "has_trace": true
+  },
   {
    "id": 3689,
    "scanned_at": "2026-10-01T23:55:00.991104",
@@ -16362,7 +16432,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-09T10:32:49.074Z",
+  "last_sync": "2026-10-09T20:06:33.641Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -20303,6 +20373,20 @@
  ],
  "Will Anthropic have the best Math AI model at the end of October 2026?": [
   {
+   "id": 4290,
+   "scanned_at": "2026-10-09T15:55:07.912381",
+   "date": "2026-10-09",
+   "agent": 47.6,
+   "market_price_t0": 48.5,
+   "edge": -0.009000000000000008,
+   "confidence": 0.568,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.48, 0.47, 0.48, 0.48, 0.46). (0) Not resolved. The Oct 8 read of the resolution source shows Google's gemini-4-argon-high at Rank #1 on the Math leaderboard (1536±35, marked Preliminary). Anthropic's claude-opus-5-high (1531±12) and opus-5-max (1530±16) sit just behind. No AutoEval flags appear among the top rows. (a) About 22 days remain until the Oct 31, 12:00 PM ET check, and the board updates almost daily. (b) Status quo is Google #1, so NO. The gap is only 5 points, and with intervals this wide the official rank is probably tied, so the order comes down to score. (c) NO: Argon keeps its lead as votes accumulate during its wider API/Ultra rollout, or a new Google or OpenAI (GPT-6) entrant takes #1. (d) YES: Argon's small-sample preliminary score regresses, as new entries often do. Anthropic's several clustered contenders, or Opus 5.5, which led Text Arena before Argon and leads HLE and ProofBench, could then take #1 in Math. Anthropic held the Math lead in every recent snapshot before Argon. The market anchor is 48.5% (sibling Google market at 51%), down 12 points this week as traders priced in Argon. I see no unpriced information strong enough to move far, so I stay near a coin flip and lean slightly toward the incumbent leader.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4290",
+   "has_trace": true
+  },
+  {
    "id": 3475,
    "scanned_at": "2026-09-27T00:07:11.681511",
    "date": "2026-09-27",
@@ -22122,6 +22206,102 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.30, 0.31, 0.32, 0.32, 0.31). (0) Not met: the TSE page shows no runoff results; the vote is on Oct 25, 2026. (a) About 17 days remain; trading closes Oct 26. (b) Status quo: Datafolha (52-48) and PoderData (53-47) imply a Flávio win of about 4-6 points; exactly 4.0 goes to the higher bracket, so this leans slightly NO. (c) NO: the right-wing wave continues and polls again underestimate the right, giving a 5-10 point win; or Lula upsets (about 14% per the winner market). (d) YES: Lula's negative campaign and late deciders compress the race toward the 1.87-point first-round gap, possibly confirmed by AtlasIntel/Quaest, and Flávio wins 51.5-48.5. A normal margin with mean +4.5 to +5 and SD about 4 gives 30-33% for the bracket, matching the 31.5% anchor; the base rate and poll bias tilt me slightly lower.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/4226",
+   "has_trace": true
+  }
+ ],
+ "Will the highest-magnitude earthquake in 2026 be 7.9 or below?": [
+  {
+   "id": 4299,
+   "scanned_at": "2026-10-09T19:06:54.055535",
+   "date": "2026-10-09",
+   "agent": 80.6,
+   "market_price_t0": 79.5,
+   "edge": 0.01100000000000001,
+   "confidence": 0.658,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.83, 0.81, 0.80, 0.80, 0.80). (0) The condition is not yet settled. The USGS-sourced Wikipedia tally and Al Jazeera put 2026's maximum at Mw 7.8 (Mindanao in June, Ende in August), with zero M8.0+ events. Today's Panama quake was first flagged at 8.0, but USGS review downgraded it to 7.6, with one product showing 7.7. Nothing has reached 8.0 so far, and YES fails only if an M8.0+ event occurs before Dec 31. (a) About 83 days remain in 2026, plus an extension into early January 2027 for magnitude finalization. (b) If nothing changes, the maximum stays at 7.8 and the market resolves YES. (c) NO path: an M8+ megathrust rupture in Q4, for example in Kamchatka (where a peer-reviewed study flagged a 2026–2031 M8.4–8.8 window), the Japan Trench or elsewhere. A smaller path is the Panama magnitude being revised up to 8.0, which I put at roughly 1%. (d) YES path: no great quake in the remaining window, consistent with about half of recent years having no M8+ event at all. Base rate: global M8+ events run about 0.9–1.1 per year, so a Poisson rate over 0.23 years gives about an 18–20% chance of at least one. The market sits at 79.5% (bid 78 / ask 81). The bracket markets imply about 72%, but they are thin and their sum is overpriced. My estimate is about 81%, essentially agreeing with the main market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4299",
+   "has_trace": true
+  }
+ ],
+ "Houthi x Saudi Arabia effective ceasefire by October 31?": [
+  {
+   "id": 4292,
+   "scanned_at": "2026-10-09T16:41:39.866027",
+   "date": "2026-10-09",
+   "agent": 9,
+   "market_price_t0": 10,
+   "edge": -0.010000000000000009,
+   "confidence": 0.612,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.09, 0.10, 0.10, 0.09). (0) Not met: CFR, Al Jazeera and Saudi Gazette report qualifying strikes both ways through Oct 8-9 (Houthi missile/drone hits on Riyadh and Abha airports killing 3; coalition strikes destroying launchers in Yemen), so any 14-day clock restarted on or after Oct 8-9. (a) About 22 days remain to Oct 31. The Oct 15 sibling market at 5% implies traders read the 14-day window as able to extend past the deadline if the last strike is on or before Oct 31; that reading is somewhat uncertain. (b) Status quo is NO: strikes are near-daily and escalating, with Operation Dawn of Yemen (about 100 Saudi aircraft) launched Oct 5. (c) NO: al-Houthi's 'long conflict' speech, threats against Saudi oil workers, coalition 'firm response' vows and Turkey/Pakistan mobilization keep strikes going through October. (d) YES: the Houthis accept Saudi Arabia's Oct 8 offer of a UN-supervised nationwide ceasefire or the Oman channel revives, or the Houthis make a sudden unilateral halt as in 2018 and 2019; strikes stop before late October and quiet holds for 14 days. The market anchor of 10%, matching the 10.5% agreement-announced market, is reasonable; with no new de-escalation signal and a sharp escalation trend, I shade slightly below it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4292",
+   "has_trace": true
+  }
+ ],
+ "US-Iran ceasefire continues through the midterms?": [
+  {
+   "id": 4285,
+   "scanned_at": "2026-10-09T14:21:25.517485",
+   "date": "2026-10-09",
+   "agent": 73.9,
+   "market_price_t0": 72.5,
+   "edge": 0.014000000000000123,
+   "confidence": 0.63,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.76, 0.76, 0.72, 0.72, 0.72). (0) Nothing shows the condition already met. The CFR tracker and Globalsecurity's daily oprep show no attributed US strike on Iranian land for 31+ consecutive periods as of Oct 8. The recent incidents are unattributed tanker strikes in Hormuz, which are maritime and do not qualify. (a) About 25 days remain until Nov 3, 11:59 PM ET. (b) The status quo is the current lull plus Trump's explicit Oct 8 Truth Social pledge not to attack Iran before the midterms, and that resolves Yes. The pledge is reinforced by deeply negative war polling (Pew 65% disapprove, AP-NORC 71%), sensitivity to oil prices and the cost of living, and Israel's Oct 27 election, which gives Israel a reason to discourage pre-midterm strikes. A live 'seven-day plan' diplomatic channel also remains open. (c) NO scenario: the Hormuz talks collapse again (Trump already rejected the plan once on Sept 26), an Iranian attack on US forces or shipping prompts 'retaliatory' strikes, or Trump reverses as he did in June 2025 and Feb 2026. CENTCOM has a readiness order covering a 3-4 week window and a third carrier group is arriving, and a White House official said they 'don't rule it out.' (d) YES scenario: Trump honors the date-specific pledge, keeps the blockade as his main pressure tool, and saves any strikes for after Nov 3, which WSJ and CNN reporting suggest he intends. On pricing, I anchor on this market's 72.5%. The sibling 'through Oct 31' market is at about 78%, and a Nov 3 deadline only adds three days, so I see modest underpricing. The war's record of broken pauses and the possibility of tit-for-tat exchanges keep meaningful risk on No. I land at about 76%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4285",
+   "has_trace": true
+  }
+ ],
+ "Will Su Chiao-hui win the next New Taipei Mayor election?": [
+  {
+   "id": 4280,
+   "scanned_at": "2026-10-09T12:46:22.911357",
+   "date": "2026-10-09",
+   "agent": 41.6,
+   "market_price_t0": 43.5,
+   "edge": -0.01899999999999996,
+   "confidence": 0.542,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.39, 0.40, 0.43, 0.43, 0.42). (0) Not resolved. The CEC resolution source was unreachable, but the vote is on November 28, 2026, and no source shows a result. Su must beat KMT-TPP joint candidate Lee Shu-chuan on election day.\n(a) About 7 weeks remain. Results are normally known election night, well before the close and the June 2027 fallback.\n(b) Status quo: today's polling points to a close race that Lee slightly leads. The anchor is Polymarket's 43.5% for Su (Lee 56.5%), up 23.5 points in 30 days on a run of favorable polls for Su.\nPolls diverge by sponsor:\n- Green-commissioned 山水 polls have Su ahead by 1.1 to 4.6 points.\n- The independent Credere tracker had Su +0.5 in early September.\n- The KMT-commissioned TVBS poll (N=1,210, Sept 29–Oct 3) has Lee +6.7, steady for four months. It also shows Lee widening his lead among centrists and holding 78% of TPP voters.\n(c) NO: the KMT-TPP coalition consolidates, and the structural pan-blue tilt shows through. That tilt is four straight KMT wins since 2010, including a 25-point win in 2022. A midterm-style backlash against the ruling DPP, as in 2018 and 2022 when KMT outperformed, delivers a Lee win by a few points.\n(d) YES: Su's stronger enthusiasm ('definitely vote' +9.4), campaigning skill, and Su-faction organization outperform Lee's low-charisma campaign. The turnout gap carries her to a narrow upset, which pundits like Kuo Cheng-liang now put within about 50k votes.\nPricing: I shade slightly below the market. The historical tendency of KMT to outperform in local elections under DPP national rule, plus the steady TVBS series, seems underweighted relative to the market's recent momentum chase on partisan-sponsored green polls. Overall the race is a genuine competitive race, so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4280",
+   "has_trace": true
+  }
+ ],
+ "Will the Danube River fail to return to normal levels by November 1, 2026?": [
+  {
+   "id": 4278,
+   "scanned_at": "2026-10-09T12:00:27.174636",
+   "date": "2026-10-09",
+   "agent": 67.2,
+   "market_price_t0": 60.6,
+   "edge": 0.0663999999999999,
+   "confidence": 0.5780000000000001,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.72, 0.72, 0.61, 0.61, 0.71). (0) The condition is not met. DanubeHIS and OVF/hydroinfo readings as of Oct 8-9 show the Budapest gauge at about -3 to 0 cm, roughly 93 cm short of the threshold. Nothing has resolved the market yet. (a) There are about 22 days until the Oct 31 23:59 UTC cutoff. (b) Status quo means YES: the river is at a roughly 200-year record low. The official OVF forecast shows only a brief rain bump to about 29-43 cm around Oct 11-12, followed by recession. INHGA projects Danube flows about 55% below average through October and November, and groundwater depletion blunts the river's response to rain. (c) NO scenario path: a strong Alpine/Bavarian storm system in the second half of October produces a flood pulse that adds about 90+ cm at Budapest. Only a single transient reading at or above 93 cm is needed. One tracker's latest 16-day pull shows above-normal headwater rain (+49%), though another pull showed -64%, so the signal is contradictory. Pulses so far this autumn have peaked at only 20-40 cm. (d) YES scenario path: continued dry weather, or only modest rain pulses that peak well below 93 cm, as happened in September and early October. Market anchor: this market's mid-price is 60.6% on a wide 44/77 spread, last close 66%. The logically equivalent Oct 1-31 'return' market sits at 23.5%, implying about 76% for this outcome. Given the size of the gap to close and the official low-flow outlooks, I land around 72%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4278",
+   "has_trace": true
+  }
+ ],
+ "Blue tsunami in 2026?": [
+  {
+   "id": 4274,
+   "scanned_at": "2026-10-09T11:13:44.674982",
+   "date": "2026-10-09",
+   "agent": 41.4,
+   "market_price_t0": 43,
+   "edge": -0.016000000000000014,
+   "confidence": 0.592,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.41, 0.40, 0.43, 0.43, 0.40). (0) Nothing has resolved yet. The election is November 3, 2026, and no results or certifications exist. YES needs Democrats to reach both 235+ House seats and 51+ Senate seats, with runoffs and independent caucus decisions possibly stretching resolution toward the January 2027 close.\n(a) About 3.5 weeks remain until election day, plus the certification and runoff window.\n(b) Status quo: current forecasts sit right around both thresholds.\n- Silver Bulletin's House numbers are inconsistent: one report gives a 238.7 average, another a 233 median. Its Senate average is 52.2 seats.\n- Poliwave's median is 228 House and 51 Senate. Its point estimate is 223 House, and 235+ falls in only the top third or so of its House runs.\n- The RCP regression on the generic ballot implies about 225 House seats.\n- Cook's ratings leave Democrats at about 230 House seats even if they sweep every toss-up.\n- So the House leg is roughly 35-50%. The Senate 51+ leg is about 60-75%, and the two are strongly correlated.\n(c) NO: the generic ballot settles around D+7. Democrats win the House with about 225-230 seats as Texas and other redistricting gains hold for the GOP. Or Republicans hold enough of the AK, KS, IA and TX toss-ups to keep Democrats at 49-50 senators.\n(d) YES: the late-September surge continues (D+9-10, Trump approval at 32%). Lean-R House seats fall as in 2018, and Democrats sweep most Senate toss-ups, matching Silver's 239/52 averages.\nThe market's 43% (down 10 points in a week) sits roughly between Poliwave and Silver. I see no clear unpriced information, so I shade slightly below it because the joint threshold requires a tail outcome on the House leg.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4274",
    "has_trace": true
   }
  ]

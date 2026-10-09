@@ -479,6 +479,20 @@
  ],
  "Strait of Hormuz traffic returns to normal by November 30?": [
   {
+   "id": 4262,
+   "scanned_at": "2026-10-09T07:17:19.620952",
+   "date": "2026-10-09",
+   "agent": 8,
+   "market_price_t0": 9.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.6679999999999999,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.07, 0.10, 0.10, 0.08). (0) Not resolved. Secondary trackers quoting IMF PortWatch show daily transits of about 1–4 vessels in late September and early October, roughly 5% of the pre-crisis ~85/day. The 7-day average is nowhere near 60, and the official chart could not be fetched directly. (a) About seven weeks remain until November 30. Because PortWatch publishes with a lag of roughly 5 days, the 7-day average would need to reach 60 by late November. (b) If nothing changes, the answer is No. Traffic has hit two-month lows, tanker attacks are surging, insurers' war-risk listings and P&I withdrawals remain in place, and container lines are still diverted. (c) No: the standoff continues through the midterms, or a post-election deal comes too late or ramps too slowly. Mine and insurance frictions keep traffic well below 60, as in June, when even the post-ceasefire rebound peaked near 30–40/day. (d) Yes: Trump has said the war ends 'immediately' after the November 3 vote, and Iran has offered to reopen the strait within 7 days if the blockade is lifted. A fast deal around November 5–10, plus the Oman corridor framework and US escorts, would need to push daily transits to 60+ for a week by late November. That ramp has never occurred since February. Every prior 'returns to normal' contract on this metric resolved No. Polymarket trades at 9.5%, and Kalshi's identical-metric contract for before December 1 is at 7%. I lean slightly under the Polymarket anchor, at about 6.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4262",
+   "has_trace": true
+  },
+  {
    "id": 3712,
    "scanned_at": "2026-10-02T05:11:28.995739",
    "date": "2026-10-02",
@@ -536,6 +550,20 @@
   }
  ],
  "Will Anthropic have the highest IPO Market Cap 2026?": [
+  {
+   "id": 4239,
+   "scanned_at": "2026-10-09T01:41:31.562728",
+   "date": "2026-10-09",
+   "agent": 51.5,
+   "market_price_t0": 56.5,
+   "edge": -0.04959999999999998,
+   "confidence": 0.556,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.47, 0.47, 0.56, 0.53, 0.54). (0) Not resolved: SpaceX set the bar with a ~$2.1T first-day close on June 12, 2026; Anthropic has no public S-1, ticker or pricing as of Oct 9. (a) About 12 weeks remain before Dec 31, and the 15-day public-S-1 rule before a roadshow tightens that window. (b) Status quo: SpaceX keeps the title, so No. (c) NO: further slippage into 2027 (timeline already moved from Labor Day to October to post-midterms, 126+ days in confidential review), or Anthropic lists but closes below ~$2.1T amid rising rates, competition and safety concerns. (d) YES: public S-1 in October, November pricing near the ~$2T investors are modeling, raise over $100B, and a first-day pop past $2.1T. Related Anthropic IPO-day cap buckets put about 57% above $2.1T, and Kalshi gives about 80% for an IPO announced before January, so a completed 2026 listing is roughly 70-80% and the product is about 0.42-0.47. The 0.5645 market looks to assume a near-certain 2026 IPO, so I shade modestly below it, allowing for uncertainty in how SpaceX's first-day cap is measured.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4239",
+   "has_trace": true
+  },
   {
    "id": 3674,
    "scanned_at": "2026-10-01T23:21:29.777413",
@@ -2258,6 +2286,20 @@
   }
  ],
  "Will Xi meet with Takaichi by December 31, 2026?": [
+  {
+   "id": 4244,
+   "scanned_at": "2026-10-09T02:34:17.699928",
+   "date": "2026-10-09",
+   "agent": 73.8,
+   "market_price_t0": 75.5,
+   "edge": -0.016999999999999904,
+   "confidence": 0.628,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.79, 0.79, 0.68, 0.68, 0.75). (0) Not yet met: the only documented Xi-Takaichi meeting was Oct 31, 2025 in Gyeongju, before the market window opened. (a) About 12 weeks remain until Dec 31; the decisive venue is APEC Shenzhen, Nov 18-19, since Takaichi's other stops (Antalya, EAS Manila, G20 Miami) do not include Xi. (b) Status quo: Beijing keeps refusing a formal bilateral. Xi rebuffed Trump's request and China offered Li Qiang instead, so a sit-down summit looks unlikely. However, the rules count any handshake or exchange of words, and as APEC host Xi customarily greets each arriving leader individually at the welcome ceremony and family photo. Takaichi is scheduled to attend Shenzhen, so a ceremonial handshake is the default, which explains the 75.5% Polymarket price (up 10 points in 30 days). (c) NO: Takaichi skips or downgrades attendance amid the crisis, China stage-manages the greeting to avoid direct contact, or reporting does not clearly document an interaction. (d) YES: Takaichi attends Shenzhen and Xi greets her with a widely photographed handshake at the arrival ceremony or gala, possibly plus a brief 2014-style ice-breaking pull-aside. I lean slightly above the market given host-protocol norms, keeping about 20% on attendance, snub and interpretation risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4244",
+   "has_trace": true
+  },
   {
    "id": 3682,
    "scanned_at": "2026-10-01T23:39:22.271117",
@@ -6288,6 +6330,20 @@
   }
  ],
  "Pete Hegseth out as Secretary of Defense by December 31?": [
+  {
+   "id": 4272,
+   "scanned_at": "2026-10-09T10:24:36.620659",
+   "date": "2026-10-09",
+   "agent": 17.6,
+   "market_price_t0": 19,
+   "edge": -0.014000000000000012,
+   "confidence": 0.634,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.17, 0.16, 0.19, 0.19, 0.17). (0) Resolution check: nothing shows the condition met. Hegseth was active as of Oct 8–9 (execution-livestream remarks, the Oct 1 Quantico 'State of the Force' address), and Wikipedia still lists him as incumbent. The war.gov resolution-source page was a 404 and gives no information. (a) About 12 weeks remain until Dec 31, and the Nov 3 midterms fall inside that window. (b) If nothing changes, he stays: Trump has repeatedly and publicly backed him (Aug 6, Sep 1), Speaker Johnson plans to table Massie's impeachment resolution when the House returns Nov 9, and Semafor (Oct 9) reports insiders are skeptical of any looming change. (c) NO scenario: the impeachment resolution is tabled, Trump keeps Hegseth through the holidays with no vetted successor, and Democrats push impeachment into 2027. (d) YES scenario: a bad midterm result prompts a post-election shake-up, as with Rumsfeld the day after the 2006 midterms. This administration has already forced out Noem, Bondi, Gabbard and Chavez-DeRemer, and GOP critics (Tillis, Bacon) plus a fresh scandal or House vote drama could push Trump to announce a departure. Only an announcement is needed, not an effective exit. The market anchor is 19%. The sibling ladder (Oct 31 at 1.5%, Nov 30 at 9.5%) is consistent with that and puts the risk mostly post-midterms. The base rate of Trump cabinet churn supports meaningful risk, but the specific signals (Trump's affinity, no successor, a compressed calendar) lean slightly below market, so I price 17%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4272",
+   "has_trace": true
+  },
   {
    "id": 3676,
    "scanned_at": "2026-10-01T23:24:28.206960",
@@ -11651,6 +11707,20 @@
  ],
  "Will Russia capture all of Kostyantynivka by December 31, 2026?": [
   {
+   "id": 4265,
+   "scanned_at": "2026-10-09T08:04:17.442640",
+   "date": "2026-10-09",
+   "agent": 15,
+   "market_price_t0": 16,
+   "edge": -0.009999999999999981,
+   "confidence": 0.604,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.14, 0.14, 0.16, 0.16, 0.15). (0) No source shows the condition met. ISW's September 1 tracker put Russian presence at 72.23% of Kostyantynivka, and that figure counts infiltrations, which do not qualify for this market. ISW logs for October 1, 6 and 7 say Russian forces \"did not advance\" inside or west of the city. The resolution-source fetch returned no map data, so I am relying on ISW's written assessments. (a) About 12 weeks remain until December 31, 2026, and any full shading would also have to persist through an ISW update cycle. (b) If nothing changes, the city stays contested and the market resolves No. Ukraine's Operation Vivaldi produced a net Russian loss of about 81 km² in September, and ISW reports Ukraine is widening counterattacks in the Kostyantynivka direction toward Rusyn Yar. (c) NO scenario: Russia keeps grinding without clearing the last 30%+ of qualifying terrain, Ukrainian counterattacks hold the northern and western districts, and Russian resources shift toward the winter strike campaign. The July 3 capture claim, which ISW never confirmed, shows how hard the persistence bar is. (d) YES scenario: the newly formed 84th Motorized Rifle Division, together with the heaviest concentration of Russian losses on this axis, forces a Ukrainian withdrawal from the remaining districts in November–December. ISW's October 8 note that Russian forces \"recently advanced in Kostyantynivka\" hints this is possible, and a negotiated settlement is a remote alternative route. The market anchor is 16%, and the related ladder of contracts (Oct 31 at 2.5%, Nov 30 at 8.5%, Mar 31 2027 at 42%) is consistent with roughly 15% for December. Given the stalled and partly reversing momentum and the large unconfirmed qualifying-layer gap, I shade slightly below the market at 14%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4265",
+   "has_trace": true
+  },
+  {
    "id": 3686,
    "scanned_at": "2026-10-01T23:51:05.560425",
    "date": "2026-10-01",
@@ -14039,6 +14109,20 @@
  ],
  "Will Solana hit $60 or $140 first?": [
   {
+   "id": 4219,
+   "scanned_at": "2026-10-08T20:49:15.866274",
+   "date": "2026-10-08",
+   "agent": 30.6,
+   "market_price_t0": 30.6,
+   "edge": -0.0005000000000000004,
+   "confidence": 0.516,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.31, 0.30, 0.30, 0.30, 0.31). Yes = $60 first, consistent with the market's price history. (0) Not resolved: the June low was $60.12–61 per sources, with no confirmed Binance print at $60 or $140. (a) About 84 days remain. (b) Status quo of SOL staying in the $105–125 range means neither strike is hit, a 50–50 resolution worth 0.5 to Yes. (c) No: a rally through $125–130 to $140, which a barrier model gives about a 45–53% chance. (d) Yes: a June-style liquidation cascade driven by ETF outflows, Fed-hike fears and leverage takes SOL down roughly 45% to $60 first, about 6–11% likely. Expected Yes value is about 0.06–0.09 + 0.5 × (0.43–0.48), or about 0.30, matching the 30.5% market anchor; current downside momentum nudges it slightly up.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4219",
+   "has_trace": true
+  },
+  {
    "id": 3188,
    "scanned_at": "2026-09-19T14:26:55.253108",
    "date": "2026-09-19",
@@ -14544,6 +14628,20 @@
   }
  ],
  "Felix Protocol FDV above $25M one day after launch?": [
+  {
+   "id": 4223,
+   "scanned_at": "2026-10-08T21:35:15.358759",
+   "date": "2026-10-08",
+   "agent": 11.6,
+   "market_price_t0": 12.5,
+   "edge": -0.00899999999999998,
+   "confidence": 0.632,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.10, 0.11, 0.12, 0.12, 0.12). (0) Resolution check: no source shows a Felix token launch as of Oct 8, 2026. The resolution-source read, airdrop trackers (drops.bot), the Sep 2026 ecosystem guide and Messari's Aug 2026 docs all describe Felix as pre-TGE, with no tokenomics or TGE date. YES therefore still needs a publicly tradable launch by Dec 31, 2026, plus FDV above $25M at 4 PM ET the next day.\n(a) About 12 weeks remain before the Dec 31, 2026 cutoff.\n(b) Status quo is no launch, which resolves NO automatically.\n(c) NO scenario: Felix keeps running its Season 2 points program into 2027. That fits its pattern of shipping products rather than a token, and its TVL is down 43% in 30 days with revenue falling for several quarters, which weakens the case for a rushed TGE.\n(d) YES scenario: Felix announces and runs a low-float TGE in Q4 off its long points program and the already-secured FELIX ticker. The Hyperliquid ecosystem is strong (HYPE up 57% in 60 days), so even reduced fundamentals would likely carry FDV well above $25M.\nAnchoring: this market sits at 12.5% and the sibling launch-by-2026 market at 17.6%, implying roughly 70% odds of clearing $25M if a launch happens. That conditional looks reasonable, perhaps slightly low. However, the absence of any TGE signal this late suggests launch odds closer to 12-14% than 18%. I shade slightly below the market, to about 10%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4223",
+   "has_trace": true
+  },
   {
    "id": 1483,
    "scanned_at": "2026-08-18T20:36:43.092346",
@@ -15573,6 +15671,20 @@
  ],
  "NATO x Russia military clash by December 31, 2026?": [
   {
+   "id": 4247,
+   "scanned_at": "2026-10-09T03:22:23.008066",
+   "date": "2026-10-09",
+   "agent": 19.4,
+   "market_price_t0": 21.5,
+   "edge": -0.02099999999999999,
+   "confidence": 0.588,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.17, 0.17, 0.21, 0.21, 0.20). (0) Resolution check: no source shows a qualifying encounter as of Oct 9, 2026. The NATO shoot-downs over Latvia, Romania and Lithuania involved Russian-linked one-way drones that were apparently aimed at Ukraine, which the rules carve out, and the market sitting at 21.5% rather than near 100% confirms none has been treated as qualifying. The Black Sea ship sinkings hit commercial vessels and still lack attribution to Russian forces. (a) About 83 days remain until Dec 31, 2026. (b) Status quo is No: two-plus years of near-misses (drone incursions, the Reaper collision, sabotage, airspace violations) have all fallen under the exclusions, and the Jan–June 2026 sibling resolved No. (c) No scenario: incursions continue at their current tempo, each downed object is a Shahed/Gerbera-type munition or goes unattributed, Black Sea attacks stay in EEZ or international waters against civilian ships, and both sides keep avoiding direct fire. (d) Yes scenario: NATO jets down a clearly Russian reconnaissance UAV such as an Orlan, which would explicitly qualify. Alternatively, a Russian strike hits a NATO naval asset in the Black Sea, or a 'limited test' of the kind Danish, UK and US intelligence warn about happens this autumn. Anchoring on the 21.5% market and the 9% October-31 sibling, I shade slightly lower. The rising incursion tempo is real, but the strict definition has repeatedly defeated Yes, and these long-shot geopolitical markets tend to carry a YES premium. Officials also report no force buildup opposite NATO's eastern flank.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4247",
+   "has_trace": true
+  },
+  {
    "id": 3684,
    "scanned_at": "2026-10-01T23:46:27.980790",
    "date": "2026-10-01",
@@ -16250,7 +16362,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-08T20:41:40.137Z",
+  "last_sync": "2026-10-09T10:32:49.074Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -18209,6 +18321,20 @@
  ],
  "Next Fable Model (5.2+) released by October 31, 2026?": [
   {
+   "id": 4230,
+   "scanned_at": "2026-10-08T23:14:18.754526",
+   "date": "2026-10-08",
+   "agent": 82.5,
+   "market_price_t0": 84.8,
+   "edge": -0.02279999999999993,
+   "confidence": 0.5640000000000001,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.79, 0.80, 0.85, 0.85, 0.84). (0) Not resolved. Anthropic's models overview page (Oct 8) lists only Fable 5.1, Opus 5.5, Sonnet 5.5 and Haiku 5.5. No Fable 5.2+ ID, model card or announcement exists, so a qualifying public release still has to happen. (a) About 23 days remain until the Oct 31 deadline. (b) Status quo is No: Fable 5.1 (released Sept 1) is still the newest Fable. (c) No scenario: Anthropic follows the 84-day Fable 5→5.1 cadence, which points to roughly late November. Fable was absent from the Opus 5.5 announcement that queued only Sonnet and Haiku, Amodei has pushed to slow releases, and the IPO slipping to mid-November means any showcase launch lands just after the deadline. (d) Yes scenario: the stealth testing reported since mid-September (TestingCatalog clips, repeated routing claims, partner-access 'imminent' chatter) turns into a public Fable 5.5 launch. That would round out the 5.5 family right after Haiku 5.5 shipped Oct 7. The anchor is strong and consistent across crowds: Polymarket 0.848, a coherent ladder (Oct 17 at 0.60, Oct 24 at 0.73, Dec 31 at 0.97), and an independent Manifold market at about 84-85% by Nov 1. The research turned up no specific information the market lacks. Given zero official artifacts, a rumor chain that has already renamed itself and missed one window, and a 7-day drop of about 8 points, I shade modestly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4230",
+   "has_trace": true
+  },
+  {
    "id": 3668,
    "scanned_at": "2026-10-01T23:08:24.020394",
    "date": "2026-10-01",
@@ -19021,6 +19147,20 @@
  ],
  "Will 1 Fed rate hike happen in 2026?": [
   {
+   "id": 4250,
+   "scanned_at": "2026-10-09T04:09:20.339713",
+   "date": "2026-10-09",
+   "agent": 21.4,
+   "market_price_t0": 22.5,
+   "edge": -0.010999999999999982,
+   "confidence": 0.736,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.21, 0.22, 0.21, 0.21, 0.21). (0) Resolution check: this is the exact-count bucket for one hike. The Fed's 9/16 press release and FRED (target upper bound 4.00%, effective rate 3.88%) confirm exactly one 25bp hike so far in 2026, the first since 2023. So YES is live but not locked in. It needs no further hike at the Oct 27–28 or Dec 8–9 meetings and no emergency move. Any additional hike resolves this NO immediately.\n(a) About 12 weeks remain, covering two scheduled FOMC meetings plus the window for an emergency action through Dec 31.\n(b) Status quo: if the Fed holds from today, the market resolves YES. However, the Fed's own September projections had 16 of 18 participants expecting at least one more hike, and the Oct 7 minutes said most officials see another hike as likely appropriate by year-end.\n(c) NO path: inflation stays hot (PCE ~3.8%, core ~3.4%), AI and energy demand persist, and the Fed hikes in December (Kalshi ~73–76%) or less likely in October (~16–18%).\n(d) YES path: data softens enough to justify a skip at both meetings. Unemployment ticked up to 4.2% in September, officials say they 'can wait', and an October move near the midterms looks unlikely.\nAnchors: this market trades at 21.5%. Its complement, 'Another Fed rate hike in 2026', sits at 79.5% on Polymarket and 80% on Kalshi, so the crowds agree. The research surfaces no unpriced information, so I stay at the market price.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4250",
+   "has_trace": true
+  },
+  {
    "id": 3707,
    "scanned_at": "2026-10-02T04:04:48.956452",
    "date": "2026-10-02",
@@ -19505,6 +19645,20 @@
  ],
  "Bank of England increases interest rates by 25 bps after November 2026 meeting?": [
   {
+   "id": 4269,
+   "scanned_at": "2026-10-09T09:38:06.191645",
+   "date": "2026-10-09",
+   "agent": 88.8,
+   "market_price_t0": 90.5,
+   "edge": -0.017000000000000015,
+   "confidence": 0.704,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.87, 0.87, 0.91, 0.91, 0.89). (0) Not resolved. The BoE's own pages show Bank Rate at 3.75% after a 6–3 hold on 16–17 September, and the November decision has not been published. For YES, at least two of the six holders must join Greene, Mann and Pill on 5 November.\n(a) The decision is about 27 days away. The September CPI print (21 Oct) and the Autumn Budget (28 Oct) land before it.\n(b) Status quo is a hold at 3.75%, a seventh straight hold, which resolves NO.\n(c) NO path: September CPI undershoots, wage and payroll data keep cooling, or the Budget triggers a gilt sell-off. Conditional holders (Ramsden, Breeden, Lombardelli, Taylor) then wait for confirmed second-round effects. That trigger was explicitly unmet as of September, and Dhingra stays dovish, so the vote ends 5–4 or 6–3 for a hold.\n(d) YES path: energy keeps pushing inflation toward 4%, and Ofgem's January cap is projected up 16%. Bailey has said holding will 'get harder' and that the Bank must act before energy pushes inflation up. Lombardelli calls a hike 'increasingly likely'. That flips two or more votes to a 25bp hike, as Rabobank, Capital Economics and Oxford Economics forecast.\nThe Polymarket anchor is 90.5% (bid 89 / ask 92). The sibling 'no change' market is at 10%, and OIS/SONIA pricing ranged from 83% (29 Sep) to about 95% (early Oct).\nI shade slightly below the market for three reasons. The vote requires real flips from a committee that has repeatedly diverged from consensus. The last Reuters poll (early September) had most economists expecting holds through year-end. And two major data and fiscal events still lie ahead.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4269",
+   "has_trace": true
+  },
+  {
    "id": 3656,
    "scanned_at": "2026-10-01T22:43:04.385173",
    "date": "2026-10-01",
@@ -19840,6 +19994,20 @@
   }
  ],
  "Will Trump meet with Kim Jong Un in 2026?": [
+  {
+   "id": 4236,
+   "scanned_at": "2026-10-09T00:53:07.815565",
+   "date": "2026-10-09",
+   "agent": 19.9,
+   "market_price_t0": 19.5,
+   "edge": 0.003999999999999976,
+   "confidence": 0.594,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.18, 0.18, 0.20, 0.24, 0.20). (0) Not resolved: no source reports a Trump–Kim in-person meeting in 2026, and as of the Oct 7 AEI/ISW tracker and Oct 2 WSJ reporting no meeting has been scheduled. (a) About 12 weeks remain until Dec 31. The main window is the Nov 18–19 APEC summit in Shenzhen, with a possible December follow-up such as the Pyongyang visit Biegun floated or the G20 in Florida. (b) If nothing changes, the answer is No: Pyongyang has publicly denied any contact, keeps nuclear-state recognition as its precondition, and continued missile tests on Sept 20 and Oct 3. The 2025 APEC attempt failed in the same way, with intent stated but no logistics in place. (c) NO: North Korea stays silent through APEC, Kim does not travel to Shenzhen, and year-end passes with only Trump's rhetoric. (d) YES: the NIS-observed uptick in North Korean US-affairs diplomacy, together with Trump dropping the word 'denuclearization', turns into an invitation. That could produce a sideline meeting in China, with Beijing as facilitator, or a DMZ or Pyongyang encounter later in the year. The NIS's ~50% estimate for talks around APEC is the strongest bullish signal, but it is a looser 'talks' framing, and it has not moved the market. The market sits at 19.5% and has fallen 9.5 points over 30 days. I anchor near it and shade slightly lower because there is still no reciprocal North Korean signal and last year's failure is a close precedent.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4236",
+   "has_trace": true
+  },
   {
    "id": 3693,
    "scanned_at": "2026-10-02T00:32:36.809682",
@@ -20847,6 +21015,20 @@
  ],
  "Will Bitcoin reach $87,500 in October?": [
   {
+   "id": 4267,
+   "scanned_at": "2026-10-09T08:50:55.468389",
+   "date": "2026-10-09",
+   "agent": 47.1,
+   "market_price_t0": 47.5,
+   "edge": -0.0040000000000000036,
+   "confidence": 0.5860000000000001,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.46, 0.47, 0.47, 0.47, 0.47). (0) Resolution check: the condition has not been met. October's highest print so far is about $87,129 on Oct 2 per Investing.com data (CoinGecko's 7-day high is $87,086). Both are below $87,500, the direct Binance read failed, and no source shows a 1-minute candle at or above the strike. (a) About 22 days remain until the Oct 31 23:59 ET deadline, and that window includes CPI on Oct 14 and the Oct 27-28 FOMC meeting. (b) Status quo: BTC is near $82,000-82,500 after the Oct 6-8 selloff tied to government-wallet transfers, so if nothing changes this resolves No. Reaching the strike needs a rally of about 6.5%, though only as a brief wick. (c) No path: hawkish Fed signals, 10-year yields near 5.36%, oil above $100, continued ETF outflows and fears of further government selling keep BTC capped in the $78-86k range, below the repeatedly rejected $87,000-87,400 zone. (d) Yes path: a soft CPI or a dovish hold at FOMC (hike odds have reportedly fallen), resumed ETF inflows and a short squeeze above $87,000 produce a wick through $87,500, which falls inside QCP's $80-90k quarterly range and October's seasonal tailwind. A simple touch-probability estimate using 37-47% annualized volatility gives roughly 50-59%, while recent bearish momentum, negative funding and repeated rejections argue somewhat lower. That lands close to the market's 47.5%, which is also consistent with the $90k market at 30.5%. I see no strong unpriced information and stay near the anchor, shading slightly lower.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4267",
+   "has_trace": true
+  },
+  {
    "id": 3727,
    "scanned_at": "2026-10-02T08:43:33.554012",
    "date": "2026-10-02",
@@ -20895,6 +21077,20 @@
  ],
  "Any of the Cornell 7 charged with a felony sex crime?": [
   {
+   "id": 4259,
+   "scanned_at": "2026-10-09T06:31:05.110900",
+   "date": "2026-10-09",
+   "agent": 27.4,
+   "market_price_t0": 28.5,
+   "edge": -0.01100000000000001,
+   "confidence": 0.572,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.25, 0.25, 0.28, 0.28, 0.30). (0) Not resolved. All sources dated up to Oct 8–9, 2026 (CBC, Fox, NBC, the cornell7 tracker, LA Mag) agree that none of the seven men has been charged. AG Letitia James, appointed special prosecutor on Oct 1, is running an \"active criminal investigation\" but has not convened a grand jury or set a date. (a) Roughly 16 weeks remain before the Jan 31, 2027 deadline. (b) If nothing changes, the market resolves No. (c) No path: James's investigation runs the \"months\" she has signaled, partly because the Lopes Article 78 petition and Miltenberg's recusal request slow it down. The 2024 sworn statement describing voluntary, consensual conduct also undercuts probable cause, so any grand jury presentation slips past January or ends without an indictment. (d) Yes path: Cornell's Title IX findings (Ingalls and Newell expelled for sexual assault, Lee and Lopes found to have engaged in non-consensual acts), the new Snapchat group-chat evidence, a tip about a cover-up meeting, and heavy political pressure from Hochul and James lead to a quick grand jury indictment of at least one defendant before the deadline. Anchor: Polymarket is at 28.5%, down from 71% and still falling, which reflects the move from the fast DA grand-jury plan to a slower AG process. I shade slightly below the market. James explicitly signaled a multi-month timeline, the appointment fight adds procedural drag, and the original statement is a real evidentiary weakness. Against that, political incentives and the institutional findings keep a meaningful Yes tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4259",
+   "has_trace": true
+  },
+  {
    "id": 3698,
    "scanned_at": "2026-10-02T01:41:59.101994",
    "date": "2026-10-02",
@@ -20910,6 +21106,20 @@
   }
  ],
  "US strike on Colombia by December 31?": [
+  {
+   "id": 4254,
+   "scanned_at": "2026-10-09T04:59:39.647586",
+   "date": "2026-10-09",
+   "agent": 23.4,
+   "market_price_t0": 23.5,
+   "edge": -0.0010000000000000009,
+   "confidence": 0.5700000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.25, 0.21, 0.23, 0.23, 0.24). (0) No source shows the condition met. The Latin Times (Oct 7) explicitly says no confirmed strikes by the deployed Reapers, and the Southern Spear tracker lists land strikes only in Venezuela and Ecuador, not Colombia. (a) About 83 days remain until Dec 31, 2026 ET, and the date must be confirmed by credible reporting within two days after that. (b) Status quo is No: US kinetic action stays maritime (e.g., the Oct 4 Caribbean boat strike), while Colombia runs its own airstrikes against the ELN. (c) No scenario: Colombian Senate approval under Article 173 and the anti-terror statute stay stalled, and court challenges and Rubio's legal caveats keep US involvement to intelligence and loaned drones flown by Colombians, so no US-launched munition lands in Colombia. (d) Yes scenario: newly arrived US MQ-9s or US aircraft hit an ELN or FARC-dissident target, likely near the Ecuador border, under the August joint-operations authorization. Hegseth's explicit 'Yes' on striking ELN/FARC and the Ecuador precedent (US-claimed joint strike 'at the request of' the host) show the mechanism exists. Prerequisites are now largely in place (host invitation, strike-capable drones, named targets), which explains the market's +10pt weekly jump on the NYT Reaper report. Still, two months have passed since authorization without a strike, and the US may prefer letting Colombia pull the trigger. I sit close to the 23.5% anchor, nudged slightly up for the fresh drone deployment and SOUTHCOM's land-strike rhetoric.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4254",
+   "has_trace": true
+  },
   {
    "id": 3691,
    "scanned_at": "2026-10-02T00:00:20.598765",
@@ -20990,6 +21200,20 @@
   }
  ],
  "Will Anthropic have the best AI model at the end of November 2026?": [
+  {
+   "id": 4234,
+   "scanned_at": "2026-10-09T00:06:13.558501",
+   "date": "2026-10-09",
+   "agent": 37.6,
+   "market_price_t0": 40.5,
+   "edge": -0.02899999999999997,
+   "confidence": 0.572,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.34, 0.33, 0.41, 0.41, 0.40). (0) Not met: the resolution source (arena.ai Text Overall, no style control) on Oct 8 shows Google's gemini-4-argon-high #1 at 1534±9, ahead of Anthropic's claude-opus-5.5-high at 1515. (a) About 7.5 weeks remain until the Nov 30 noon ET check. (b) Status quo is Google winning, so No. Argon's score rose from ~1525 to 1534 as votes accumulated, widening the gap to ~20 points and undercutting the 'preliminary lead will erode' thesis. A sibling Oct 31 Manifold market on the same board prices Anthropic at ~7%. (c) No: Argon holds ~1530+, Anthropic ships only Haiku 5.5, and post-recall safeguards slow any flagship; Google or another lab stays #1. (d) Yes: Anthropic's rapid 2026 release cadence (Opus 5.5 debuted #1) yields a new Opus or Fable variant in November that jumps 20+ points. Kalshi prices Opus 6 before Dec 1 at 17%, plus some chance of other variants or Argon drifting down. The market at 40.5% (December sibling 41.5%) seems slightly generous given the shorter window and the widening gap, so I shade modestly below it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4234",
+   "has_trace": true
+  },
   {
    "id": 3648,
    "scanned_at": "2026-10-01T21:41:37.590603",
@@ -21866,6 +22090,38 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.11, 0.11, 0.15, 0.15, 0.14). (0) Not resolved. The WHO newsroom and outbreak-news pages, plus the research through 2026-10-08, show no pandemic declaration and no use of the new IHR \"pandemic emergency\" tier since the market opened on 2026-08-13. (a) About 15 months remain, to 2027-12-31 11:59 PM ET. (b) The status quo is No. WHO dropped its formal pandemic-phase process after 2009 and has never invoked the \"pandemic emergency\" tier, which came into force in September 2025. (c) No scenario: the DRC Bundibugyo Ebola epidemic stays a PHEIC. That would match the explicit \"not a pandemic emergency\" findings of the Emergency Committee and Director-General in May and again in August 2026, with global risk rated low. Mpox, H5N1 and plague stay at sporadic or low-risk levels, so nothing triggers a declaration. (d) Yes scenario: either Ebola keeps spreading internationally (Kenya affected, South Sudan at risk) until the DG finally invokes pandemic emergency, or a new pathogen emerges with sustained human-to-human spread, such as a reassortant H5 flu or a novel coronavirus, and WHO declares it. Ebola's transmission pattern makes the first path unlikely; a novel respiratory pandemic in any 15-month window historically runs only a few percent. There is also some ambiguity over whether a \"pandemic emergency\" designation counts as \"declaring a pandemic\", which slightly favours No. The Polymarket anchor is 15% and the same question on Kalshi trades at 13%; Metaculus put about 17% on a comparable before-2027 question. Given two explicit WHO refusals to escalate Ebola, I shade slightly below the market to 11%.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/4196",
+   "has_trace": true
+  }
+ ],
+ "Will the next Muse model family be named Muse Fire?": [
+  {
+   "id": 4256,
+   "scanned_at": "2026-10-09T05:45:15.655539",
+   "date": "2026-10-09",
+   "agent": 8,
+   "market_price_t0": 9,
+   "edge": -0.010000000000000009,
+   "confidence": 0.584,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.08, 0.09, 0.09, 0.07). (0) Not resolved. The Meta AI blog and the research show only Muse Spark point releases (through 1.3) and sibling products (Image, Video, Code, Glimmer, Voice Transcribe, the Muse agent). No new family has launched, and no source links 'Fire' to any Meta model. (a) About 12 weeks remain until the Dec 31, 2026 deadline. (b) If nothing changes, no qualifying release occurs and the market resolves to Other, so No. (c) NO paths: Watermelon slips past December as its reported October target already looks shaky, with nothing shown at Connect and nothing shipped by Oct 9. Or it ships under a different word (Watermelon itself, Flame, Blaze, Flare, something unlisted) or outside the Muse brand entirely. Meta's codenames have never matched launch names (Avocado→Spark, Mango→Image). (d) YES path: Meta extends the fire-themed progression implied by 'Spark' and names the Watermelon frontier model 'Muse Fire' at a blog-post launch in Oct–Dec. The market's option set (Flame, Blaze, Flare, Fire) shows traders see that theme, and Fire is the most natural single word. I anchor on the 9% Polymarket price, which has drifted down from 25%. I trim slightly to 7%: the release itself is perhaps 50% likely by year-end, and Fire is only one of several plausible fire words plus unlisted names. There is still zero leak evidence.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4256",
+   "has_trace": true
+  }
+ ],
+ "Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by less than 4%?": [
+  {
+   "id": 4226,
+   "scanned_at": "2026-10-08T22:27:14.260314",
+   "date": "2026-10-08",
+   "agent": 31,
+   "market_price_t0": 33,
+   "edge": -0.020000000000000018,
+   "confidence": 0.578,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.30, 0.31, 0.32, 0.32, 0.31). (0) Not met: the TSE page shows no runoff results; the vote is on Oct 25, 2026. (a) About 17 days remain; trading closes Oct 26. (b) Status quo: Datafolha (52-48) and PoderData (53-47) imply a Flávio win of about 4-6 points; exactly 4.0 goes to the higher bracket, so this leans slightly NO. (c) NO: the right-wing wave continues and polls again underestimate the right, giving a 5-10 point win; or Lula upsets (about 14% per the winner market). (d) YES: Lula's negative campaign and late deciders compress the race toward the 1.87-point first-round gap, possibly confirmed by AtlasIntel/Quaest, and Flávio wins 51.5-48.5. A normal margin with mean +4.5 to +5 and SD about 4 gives 30-33% for the bracket, matching the 31.5% anchor; the base rate and poll bias tilt me slightly lower.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4226",
    "has_trace": true
   }
  ]

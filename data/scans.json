@@ -1279,6 +1279,20 @@
  ],
  "Will no listed leader be out before 2027?": [
   {
+   "id": 4306,
+   "scanned_at": "2026-10-09T21:37:51.235263",
+   "date": "2026-10-09",
+   "agent": 42.4,
+   "market_price_t0": 39.5,
+   "edge": 0.029000000000000026,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.46, 0.46, 0.40, 0.40, 0.41). (0) No listed leader has permanently left office as of Oct 9, 2026, so the market is unresolved. (a) About 12 weeks remain until the Dec 31, 2026 deadline. (b) Status quo resolves Yes, since election losses, announcements and caretaker status do not count. (c) No path: Israel's opposition wins Oct 27 and swears in a government by late December (2022 precedent: Nov 1 election, Dec 29 government), Lecornu falls around the Nov 17 budget and is quickly replaced, or Spain's Nov 29 vote yields a fast PP-Vox investiture (Rajoy 2011 took about 30 days). (d) Yes path: Israeli polls (opposition about 52 seats) suggest deadlock with Netanyahu as caretaker, Spain's Cortes only convene by about Dec 24 so investiture before Dec 31 is tight, and Lecornu survives again. I estimate Netanyahu about 15-20%, Sánchez 6-8% (below the market's 16.5%), Lecornu about 8% and other tails about 8%, implying 'None' around 55-60%. I temper toward the market anchor of 39.5% and its recent upward move, and given the series' history of frequent exits, settle near 0.46.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4306",
+   "has_trace": true
+  },
+  {
    "id": 3678,
    "scanned_at": "2026-10-01T23:31:12.404979",
    "date": "2026-10-01",
@@ -1410,6 +1424,20 @@
   }
  ],
  "Will Iran Reconstruction Funding be in a US-Iran deal in 2026?": [
+  {
+   "id": 4319,
+   "scanned_at": "2026-10-10T01:42:10.579977",
+   "date": "2026-10-10",
+   "agent": 7.3,
+   "market_price_t0": 8.5,
+   "edge": -0.011999999999999997,
+   "confidence": 0.648,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.06, 0.06, 0.09, 0.09, 0.08). (0) Not resolved: the only relevant signed text, the June 17 Islamabad MOU, committed the US only to 'develop a plan' for $300B, with the mechanism deferred to a future final deal. The rules explicitly exclude that kind of clause, and the MOU lapsed unimplemented on Aug 16. (a) About 12 weeks remain until Dec 31, 2026, and Trump has signaled no major action until after the November midterms. (b) Status quo is No: current talks (Araghchi's seven-day roadmap, Vance's and Rubio's Oct 7 demands) cover ceasefire, blockade, sanctions waivers and frozen-asset release, all excluded categories, with no reconstruction-fund clause in the live text. (c) NO: talks stay stalled, or a thin post-midterm ceasefire/Hormuz/sanctions deal is signed that defers everything substantive. Analysts call this deferral pattern the modal outcome. (d) YES: a post-midterm comprehensive deal revives the June MOU baseline, which Iran's proposal says it builds on, and includes a presently-binding annex for the Gulf/private-funded 'Reconstruction and Development Fund'. Even then, the fund's private, voluntary framing could fail the strict 'presently-agreed obligation' test. Related markets put a Hormuz agreement by Dec 31 at 35.5% and a final nuclear deal at 14.5%. A qualifying funding clause is a narrower subset of either. I shade slightly below the 8.5% market anchor because reconstruction funding is absent from current proposals.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4319",
+   "has_trace": true
+  },
   {
    "id": 3747,
    "scanned_at": "2026-10-02T13:31:11.208174",
@@ -1845,6 +1873,20 @@
  ],
  "US strike on Cuba by December 31?": [
   {
+   "id": 4338,
+   "scanned_at": "2026-10-10T06:23:55.989733",
+   "date": "2026-10-10",
+   "agent": 10.7,
+   "market_price_t0": 11.5,
+   "edge": -0.007999999999999993,
+   "confidence": 0.65,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.10, 0.10, 0.12, 0.12, 0.10). (0) No source shows a qualifying strike. The resolution-source read and the FDD brief (Oct 9) report no US drone, missile or air strike on Cuban soil, and the Oct 4 SOUTHCOM strike hit a vessel at sea, which the rules exclude. (a) About 82 days remain until Dec 31, 2026. (b) If nothing changes, the pressure stays non-kinetic: fuel blockade, sanctions, seizures of Cuba-bound fuel and stalled informal talks. That resolves No. (c) No scenario: talks stay deadlocked over the Díaz-Canel resignation demand, Rubio declares them a failure, and the US answers with more sanctions and interdictions. Meanwhile the Army Reserve's 90-120 day support assessment pushes readiness for any larger operation into 2027. (d) Yes scenario: talks collapse near the implicit year-end deadline, or a Cuban 'drone threat' incident near Guantánamo is used as a casus belli. A limited strike follows from Guantánamo-based drones or air assets, mirroring the sudden Venezuela escalation. The market sits at 11.5% and has drifted down 2 points over 30 days. Research adds mildly bearish facts the market may only partly price: the Nimitz has left the Caribbean for the Atlantic, the Lincoln just returned home, and Trump said on Sept 26 'I don't think we'll need the military.' These are offset by the ongoing planning and the Guantánamo drone deployment. I shade slightly below market, to about 10%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4338",
+   "has_trace": true
+  },
+  {
    "id": 3715,
    "scanned_at": "2026-10-02T05:47:28.321700",
    "date": "2026-10-02",
@@ -2240,6 +2282,20 @@
   }
  ],
  "Russia x Ukraine ceasefire agreement by December 31, 2026?": [
+  {
+   "id": 4316,
+   "scanned_at": "2026-10-10T00:53:58.051891",
+   "date": "2026-10-10",
+   "agent": 14.8,
+   "market_price_t0": 16,
+   "edge": -0.011999999999999983,
+   "confidence": 0.618,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.13, 0.14, 0.16, 0.16, 0.15). (0) Resolution check: no source shows a qualifying agreement. The resolution-source read shows no ceasefire. The only 2026 truces (Easter, April 11-12, and Victory Day, May 9-11) both predate this market's May 13 opening, and the September 'three-day no-shoot' was evidently not treated as qualifying. (a) About 12 weeks remain until the December 31, 2026 deadline. (b) Status quo is No: in the week to October 10, Putin called even an energy truce 'ridiculous' (Valdai, Oct 1), Ryabkov said there are no plans for talks (Oct 7), Peskov rejected sectoral pauses (Oct 8), and Rubio called the war a 'strategic stalemate' (Oct 8). Meanwhile strikes are escalating. (c) NO scenario: the Witkoff/Kushner Moscow trip yields at most a sector-limited energy/Black Sea deal, which the rules exclude. Or it yields nothing, the pre-midterm push fades, and the Donbas territorial impasse persists through year-end. (d) YES scenario: the Miami 'unified proposal' plus the US-Russia diesel/sanctions channel leads Putin to accept a dated general pause. That could be a short holiday or summit-linked truce, such as around the December G20 or New Year. The May precedent shows a brief, general, dated truce can satisfy this wording, so that is the main tail path. The market sits at 16% and has fallen 6.5 points in 30 days. Metaculus-derived estimates run 6-15%. The fresh, unanimous Russian rejections justify shading slightly below the market, while keeping room for the short-truce path.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4316",
+   "has_trace": true
+  },
   {
    "id": 3700,
    "scanned_at": "2026-10-02T02:18:07.079072",
@@ -6192,6 +6248,20 @@
   }
  ],
  "Skin cancer vaccine BLA submitted by June 30, 2027?": [
+  {
+   "id": 4311,
+   "scanned_at": "2026-10-09T23:15:02.128383",
+   "date": "2026-10-09",
+   "agent": 64.3,
+   "market_price_t0": 61.5,
+   "edge": 0.028000000000000025,
+   "confidence": 0.5599999999999999,
+   "category": "Health",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.64, 0.63, 0.61, 0.67, 0.66). (0) Not met: Merck's news page through Sept 30, 2026 shows no intismeran BLA submission or FDA acceptance, and Moderna's CDO described the BLA as a future plan on Sept 23. (a) About 8.7 months remain to June 30, 2027. (b) Status quo is No absent an announcement, but the default path after a positive Breakthrough-designated Phase 3 readout (Aug 19) is filing within 6-12 months; Moderna reportedly said it would file 'within months', guided to a launch as early as 2027, and Morningstar expects approval in H1 2027. The Polymarket anchor is 61.5%, down 21 points in 7 days from a high of 87.5%, which signals news the research did not surface (e.g., FDA wanting OS maturity, later filing guidance, or CMC concerns for an individualized product), so I stay close to the market. The March 31 market at 59.5% implies a binary 'file early vs. wait for more data' risk. (c) No: the FDA requests more mature OS/DMFS data or manufacturing modules lag, pushing filing into H2 2027. (d) Yes: a pre-BLA meeting after ESMO (Oct 24) leads to a rolling or complete BLA submission in Q4 2026-Q1 2027, announced by Merck or Moderna. Fundamentals alone would suggest about 80%, discounted for the unexplained recent repricing.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4311",
+   "has_trace": true
+  },
   {
    "id": 2364,
    "scanned_at": "2026-08-31T22:29:20.256052",
@@ -11421,6 +11491,20 @@
  ],
  "Russia x Ukraine ceasefire by December 31, 2026?": [
   {
+   "id": 4344,
+   "scanned_at": "2026-10-10T07:57:18.671121",
+   "date": "2026-10-10",
+   "agent": 7.3,
+   "market_price_t0": 8.5,
+   "edge": -0.011999999999999997,
+   "confidence": 0.72,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.06, 0.06, 0.09, 0.09, 0.07). (0) No source shows a qualifying ceasefire. The only 2026 truces, a 32-hour Easter pause and a three-day May truce, failed the 10-day bar, and fighting is intense as of Oct 7-10. (a) About 12 weeks remain. A ceasefire must start by 11:59 PM EET on Dec 31 and then hold 10 continuous days, though the market stays open past the close to count those days. (b) Status quo is No. Rubio said on Oct 8 that a settlement is 'unattainable'. Ryabkov said there are 'no plans' for trilateral talks, and Putin told Trump on Oct 10 that resuming talks soon is unlikely. At Valdai, Putin also ruled out even a long-range strike ceasefire. (c) No: the Donetsk impasse persists, the late-October trilateral slips again, and winter strikes on energy escalate. (d) Yes: the Witkoff-Kushner shuttle produces a unified proposal, Russia accepts a full truce for sanctions relief before winter or around the mid-December Miami G20, and it holds 10 days. The most active proposals (energy/grain/Black Sea) are category-limited and would not qualify under the rules anyway. I anchor on Polymarket's 8.5%, which is trending down, and Metaculus's 5% from 984 forecasters for a bilateral ceasefire before 2027. Given the explicit Russian rejections this week, I shade slightly below the market to 6%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4344",
+   "has_trace": true
+  },
+  {
    "id": 3790,
    "scanned_at": "2026-10-03T06:24:45.749852",
    "date": "2026-10-03",
@@ -11660,6 +11744,20 @@
   }
  ],
  "Will China invade Taiwan by June 30, 2027?": [
+  {
+   "id": 4309,
+   "scanned_at": "2026-10-09T22:27:38.127008",
+   "date": "2026-10-09",
+   "agent": 6.1,
+   "market_price_t0": 7.5,
+   "edge": -0.013999999999999985,
+   "confidence": 0.696,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.04, 0.04, 0.07, 0.07, 0.07). (0) Nothing in the research shows the condition already met or already impossible. The CFR tracker (updated Sept 29, 2026) and October reporting show only grey-zone activity: ADIZ and median-line incursions, a water-cannon incident near Pratas, and live-fire drills. There is no offensive to seize any inhabited ROC territory, and no mobilization beyond annual exercises. (a) About 8.7 months remain until the June 30, 2027 deadline. (b) Status quo is No: grey-zone coercion has persisted for years without becoming an invasion. (c) NO scenario: Beijing keeps up pressure through drills, possibly a punitive exercise after Lai's Double Ten speech and the Keen Sword/Resolute Dragon drills, while waiting for Taiwan's January 2028 election. US officials (Reuters, Oct 1, 2026) explicitly cite that election as a reason an invasion before 2028 is increasingly unlikely. The March 2026 US Annual Threat Assessment says China has no plan to invade in 2027. (d) YES scenario: a grey-zone incident escalates into a seizure of an inhabited outlying island such as Kinmen, Matsu or Pratas, which would count under the rules. A more remote path is that Beijing uses its new mobilization law and maturing barge and Type 076 capability for a surprise operation before the 2027 readiness benchmark. The market anchor is 7.5%, and the term structure of related Polymarket contracts (2.25% by end-2026, 10.5% by end-2027) interpolates to about 6% for mid-2027. Given that, the typical longshot premium in tail-risk markets, and unanimous expert and intelligence assessments of 'unlikely before 2028', I shade below the market to about 4%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4309",
+   "has_trace": true
+  },
   {
    "id": 3702,
    "scanned_at": "2026-10-02T02:53:58.142315",
@@ -11996,6 +12094,20 @@
   }
  ],
  "Will Mojtaba Khamenei be head of state in Iran end of 2026?": [
+  {
+   "id": 4323,
+   "scanned_at": "2026-10-10T02:29:15.669050",
+   "date": "2026-10-10",
+   "agent": 83.5,
+   "market_price_t0": 87.3,
+   "edge": -0.038000000000000034,
+   "confidence": 0.624,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.86, 0.85, 0.80, 0.82, 0.84). (0) Not resolved yet. Wikipedia and the October reporting show Mojtaba Khamenei as the sitting Supreme Leader since 8–9 March 2026, with no rival claimant and no Assembly of Experts move against him. Resolution depends on his status at noon ET on 31 December 2026. (a) That is about 11.5 weeks away. (b) If nothing changes, he keeps the title and keeps issuing binding decrees in his name: the August 10 military appointments and General Staff integration order, and the October 9 police-week directive. Polymarket resolvers would most likely treat him as the de facto head of state, since no other individual claims the role. (c) NO path: he is killed or dies of wounds, given that a second US-Israeli strike reportedly hit his hospital location on September 27. Alternatively, the Assembly or the IRGC quietly replaces him, or resolvers accept the 'phantom franchise' reporting (TIME, NOW Lebanon, Asharq Al-Awsat) and rule 'No Head of State' or name an IRGC figure. (d) YES path: the status quo holds, with his written decrees continuing, President Pezeshkian vouching for his health, and no change in succession. The anchor is the market at 87.3%. The related 'Iran leadership change by Dec 31' market at 11.5% is consistent with this, and the regime-fall market sits at 4.5%. I shade slightly below the anchor for two reasons: assassination risk while strikes are ongoing, and the small but real chance that resolvers apply the de facto standard against an unseen, possibly incapacitated figurehead.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4323",
+   "has_trace": true
+  },
   {
    "id": 3756,
    "scanned_at": "2026-10-02T15:51:42.940500",
@@ -13255,6 +13367,20 @@
  ],
  "Will there be at least 10000 measles cases in the U.S. in 2026?": [
   {
+   "id": 4313,
+   "scanned_at": "2026-10-10T00:07:17.943918",
+   "date": "2026-10-10",
+   "agent": 6.4,
+   "market_price_t0": 8.5,
+   "edge": -0.020699999999999996,
+   "confidence": 0.75,
+   "category": "Health",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.04, 0.04, 0.08, 0.08, 0.07). (0) Not resolved: CDC counter shows 4,080 confirmed cases as of Oct 8, 2026; reaching 10,000 needs ~5,920 more by Dec 31. (a) About 12 weeks remain, with weekly CDC updates and possible holiday lags. (b) Status quo: weekly additions of 193-228 and a decelerating percentage rate (6.2% to 5.0%) extrapolate to roughly 6,300-7,000 by year-end; Polymarket's Oct 31 ladder (4,800 at 22%, 4,900 at 5.5%) also implies ~200 cases/week. (c) NO: Pennsylvania plateaus, legacy hotspots stay quiet, and new fronts in NY, WI and IN add tens rather than hundreds weekly, ending near 6,500-7,500. (d) YES: weekly increments would have to jump immediately to ~500 and hold for 12 weeks, requiring multiple new Lancaster-scale outbreaks; the August one-week doubling (100 to 211) is far short of that. The market's 8.45%, up 1.7 points in 30 days, likely reflects NY's emergency declaration and new state fronts plus longshot bias. I shade below it given no post-elimination precedent and a steady ~190/week trajectory.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4313",
+   "has_trace": true
+  },
+  {
    "id": 3759,
    "scanned_at": "2026-10-02T16:27:51.903487",
    "date": "2026-10-02",
@@ -13612,6 +13738,20 @@
   }
  ],
  "Ukraine signs peace deal with Russia before 2027?": [
+  {
+   "id": 4342,
+   "scanned_at": "2026-10-10T07:10:01.306138",
+   "date": "2026-10-10",
+   "agent": 7.8,
+   "market_price_t0": 8.5,
+   "edge": -0.007000000000000006,
+   "confidence": 0.702,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.07, 0.07, 0.09, 0.09, 0.09). (0) Nothing qualifies yet. The only signed Ukraine–Russia text in 2026 is the May 9–11 Victory Day truce with a prisoner exchange. Wikipedia calls it a temporary humanitarian pause, and the rules explicitly exclude humanitarian pauses and prisoner-exchange arrangements. No signed ceasefire or peace-process document has been reported as of Oct 10, 2026. (a) About 82 days remain until the Dec 31, 2026 11:59 PM ET deadline. (b) If nothing changes, the market resolves No. The Oct 9–10 Miami round produced no concrete agreements, and on Oct 10 Putin told Trump that an immediate resumption of trilateral talks was unlikely. Rubio called the war a stalemate, Putin ruled out even a long-range-strike ceasefire at Valdai, and no UAE trilateral date or leaders' summit is scheduled. (c) NO path: talks keep slipping, as they did after the Dec 2025 '90% done' claims and the missed June 2026 target. Winter escalation and the US–Russia diesel side-deal strain alignment further, and Ukraine's Article 73 referendum barrier blocks any territorial signature. (d) YES path: Trump forces a pre- or post-midterm breakthrough and Witkoff/Kushner carry a unified proposal to Moscow later in October. Kyiv then signs a framework or 'roadmap' or a general ceasefire text with Russia as a party; the rules' low bar means only Ukraine needs to sign. The anchor is Polymarket at 8.5% (bid 8, ask 9), down 2 points over 30 days. The sibling broader ceasefire market for Dec 31 sits at 15.5%, and Metaculus has a bilateral ceasefire before 2027 at about 6%. Given the fresh Kremlin pullback on Oct 10, which may not be fully priced, I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4342",
+   "has_trace": true
+  },
   {
    "id": 3788,
    "scanned_at": "2026-10-03T05:38:15.043261",
@@ -14148,6 +14288,20 @@
   }
  ],
  "Zelenskyy out as Ukraine president by end of 2026?": [
+  {
+   "id": 4336,
+   "scanned_at": "2026-10-10T05:35:41.589107",
+   "date": "2026-10-10",
+   "agent": 6.3,
+   "market_price_t0": 7.5,
+   "edge": -0.011999999999999997,
+   "confidence": 0.726,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.05, 0.04, 0.07, 0.07, 0.07). (0) Nothing shows the condition met. As of Oct 8–10, 2026, Zelenskyy is fully active: hosting a US congressional delegation, sending negotiators to Washington and planning trilateral talks. The resolution-source fetch failed (HTTP 403), but credible reporting is consistent that he remains in office. (a) About 82 days remain until Dec 31, 2026 (ET). (b) Status quo is No. Martial law, which bars elections, runs to Oct 31 and has been renewed 20 straight times. Impeachment is described as \"politically impossible\" under current Rada arithmetic. Polls show him still leading the field (22.9% first round, Oct 3–5) with stable approval. (c) No: the routine martial-law extension passes in late October, talks drag on, and he remains president into 2027. Even a ceasefire, which the market prices at 15.5% by year-end, would not produce an election before January; Zelenskyy says elections need a truce lasting several months. Related markets put an election held by end-2026 at 2.5% and an election called at about 5%. (d) Yes: an assassination or incapacitation (active Russian plots exist), or a peace deal under which Zelenskyy announces resignation. A dramatic Mindich/\"Vova\" corruption escalation could also force him out, though analysts see no elite or public appetite for removal. The market sits at 7.5% (up 2.5 points over 7 days, with no catalyst found). That likely carries some long-shot premium given the short window and blocked mechanisms, so I shade it to about 5%, keeping room for death or incapacity and surprise-announcement tails.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4336",
+   "has_trace": true
+  },
   {
    "id": 1601,
    "scanned_at": "2026-08-21T22:30:24.822306",
@@ -16261,6 +16415,20 @@
  ],
  "Will any Category 4 hurricane make landfall in the US in before 2027?": [
   {
+   "id": 4332,
+   "scanned_at": "2026-10-10T04:46:48.374288",
+   "date": "2026-10-10",
+   "agent": 5.8,
+   "market_price_t0": 8,
+   "edge": -0.021999999999999992,
+   "confidence": 0.72,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.03, 0.04, 0.08, 0.08, 0.07). (0) No source shows the condition met. NHC pages and the season trackers show no Category 4 landfall in 2026. The only US hurricane landfall, Isaias near Destin on Oct 9, came ashore as a Category 2 after peaking around 105 kt offshore. (a) About 12 weeks remain to the Dec 31 deadline, but realistically only about 7 weeks of season are left before Nov 30. No Category 4 has ever formed in December. (b) If nothing changes, this resolves No: the NHC 7-day Atlantic outlook lists no disturbances, and Simon, the one storm forecast to reach Category 4, is an Eastern Pacific storm heading for Mexico. (c) No path: El Niño-driven shear keeps suppressing the late season, as it already has in this record-quiet year (latest first hurricane since 1905), and nothing reaches Category 4 near the US coast. (d) Yes path: a late-October or November disturbance moves into the record-warm Gulf, intensifies rapidly in the style of Michael 2018, and makes landfall at 130-156 mph. Historically, conterminous-US Category 4 landfalls after about Oct 10 are extremely rare (Hazel 1954 is the main example; Michael was Category 5), roughly 1% per year. This year that is reduced further by the strong El Niño and an empty 7-day outlook, and only partly offset by record Gulf sea-surface temperatures. The Polymarket anchor of 8% (bid 6%, ask 10%) looks inflated by longshot bias and the thin remaining time value. I price Yes at about 2.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4332",
+   "has_trace": true
+  },
+  {
    "id": 3510,
    "scanned_at": "2026-09-28T00:06:29.697272",
    "date": "2026-09-28",
@@ -16432,7 +16600,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-09T20:06:33.641Z",
+  "last_sync": "2026-10-10T09:50:00.565Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -18669,6 +18837,20 @@
  ],
  "Will there be no change in Fed interest rates after the October 2026 meeting?": [
   {
+   "id": 4326,
+   "scanned_at": "2026-10-10T03:15:37.058709",
+   "date": "2026-10-10",
+   "agent": 83,
+   "market_price_t0": 83.5,
+   "edge": -0.004999999999999893,
+   "confidence": 0.6980000000000001,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.83, 0.83, 0.83, 0.83, 0.82). (0) Not resolved: FRED DFEDTARU shows the upper bound at 4.00% through Oct 9, and the October 27–28 FOMC statement has not been issued. (a) About 18 days remain until the Oct 28 decision. The key remaining catalyst is the September CPI report on Oct 14, the last inflation print before the meeting. (b) Status quo is a hold: Williams and Hammack stress patience, and Waller says further hikes \"need not occur at consecutive meetings.\" The September minutes point to another hike \"by year-end\" without a timing commitment, and a weak payroll print (29k, unemployment at 4.2%) is the freshest labor data before the meeting. (c) NO: September core CPI comes in at 0.3% or higher on top of the energy-driven headline jump to about 3.6–3.7%. A hawkish committee that just hiked 12-0 then moves in October rather than December, consistent with the roughly 8.5% Hike–Hike–Hike path still priced on Polymarket. (d) YES: core CPI prints near the Cleveland Fed nowcast of 0.20% m/m, and the Fed waits for December, which the SEP and the 83% December hike pricing make the natural slot. The Polymarket anchor of 83.5% matches CME FedWatch (78–82%) and Kalshi (83.5%). I have no unpriced information to move off consensus, so I keep roughly 17% on a hot-CPI-driven hike or a tiny cut tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4326",
+   "has_trace": true
+  },
+  {
    "id": 3778,
    "scanned_at": "2026-10-03T02:32:15.917029",
    "date": "2026-10-03",
@@ -19804,6 +19986,20 @@
   }
  ],
  "Will the Rhine River return to normal levels between October 1 and October 31, 2026?": [
+  {
+   "id": 4346,
+   "scanned_at": "2026-10-10T08:43:25.476265",
+   "date": "2026-10-10",
+   "agent": 22.6,
+   "market_price_t0": 25,
+   "edge": -0.02400000000000002,
+   "confidence": 0.606,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.19, 0.20, 0.25, 0.25, 0.24). (0) Not resolved. PegelOnline shows Kaub at 7 cm on 10 Oct 2026, and no reading near 77 cm since the market opened. October 1 set an all-time low of -6 cm. (a) About 21 days remain until 31 Oct (Berlin time). Kaub needs a ~70 cm rise, though a single transient reading of 77 cm would be enough. (b) Status quo is No: the river is near record lows and the drought deficit is basin-wide (Worms, Oberwinter and Köln are also depressed). (c) NO scenario: the Oct 7 BfG 14-day forecast had medians of 13–16 cm for Oct 9–10, but actual readings are only 6–10 cm, so the river is running below the median path. Catchment rainfall feeds show nearly zero precipitation for Oct 12–21. Kaub then creeps up slowly, in line with the BfG 6-week medians (41 cm for Oct 19–25, 58 cm for Oct 26–Nov 1), and stays under 77 cm. (d) YES scenario: a strong late-October Atlantic rain system hits the upper and middle catchment. That would match BfG's upper tails (102 cm for Oct 19–25, 149 cm for Oct 26–Nov 1, at the 95th percentile), and the gauge showed in August that it can jump ~55–65 cm in a couple of weeks. A brief spike over 77 cm would then count. The market anchor is 25%, down sharply over the past week, and the sister 'fail to return' market sits at 73/27. I shade slightly below the anchor because observed levels are tracking under the BfG median and mid-month looks dry. Weekly-mean upper bands also understate single-reading spike chances somewhat, so I don't go lower than ~19%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4346",
+   "has_trace": true
+  },
   {
    "id": 3796,
    "scanned_at": "2026-10-03T07:57:37.536087",
@@ -21459,6 +21655,20 @@
  ],
  "Iran leadership change by December 31?": [
   {
+   "id": 4329,
+   "scanned_at": "2026-10-10T04:03:27.200244",
+   "date": "2026-10-10",
+   "agent": 10.6,
+   "market_price_t0": 11.5,
+   "edge": -0.008999999999999994,
+   "confidence": 0.614,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.10, 0.09, 0.12, 0.12, 0.12). (0) Resolution check: no source shows the condition met. Wikipedia and October 8–9 coverage (Foreign Policy, JPost) still describe Mojtaba Khamenei as the incumbent Supreme Leader. No death, resignation, detention or incapacity declaration has been reported. (a) About 82 days remain until the December 31 deadline. (b) Status quo is No: the regime's apparatus keeps issuing appointments and messages in his name, and the war tracker shows no coalition strikes for 31 consecutive periods, so decapitation risk is currently low. (c) No scenario: the ambiguity persists. He stays invisible, the IRGC keeps governing in his name, and reporting keeps saying 'whereabouts unclear' rather than asserting death or removal. (d) Yes scenario: the rumors cross into a credible-reporting consensus. Candidates are the Atlantic's insider claims he is dead or brain-dead, the Assembly of Experts member's 'pulled from the rubble' account, and US intelligence describing him as cut off. A death or incapacity announcement or a leaked confirmation would do it, as would a resumed war killing him or forcing a formal succession. The anchor is Polymarket's 11.5%, down 3 points over 30 days. The sibling markets (Oct 31 at 1.55%, Nov 30 at 5.5%, June 2027 at 22.5%) imply a roughly 2–4%/month hazard, which makes the December price look slightly rich relative to the November one. Seven months of concealment without confirmation also suggests the regime can sustain the status quo, and there is zero precedent for removing a living Supreme Leader. I shade slightly below market but keep meaningful weight on a health revelation or renewed conflict.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4329",
+   "has_trace": true
+  },
+  {
    "id": 3770,
    "scanned_at": "2026-10-03T00:12:10.620637",
    "date": "2026-10-03",
@@ -22302,6 +22512,38 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.41, 0.40, 0.43, 0.43, 0.40). (0) Nothing has resolved yet. The election is November 3, 2026, and no results or certifications exist. YES needs Democrats to reach both 235+ House seats and 51+ Senate seats, with runoffs and independent caucus decisions possibly stretching resolution toward the January 2027 close.\n(a) About 3.5 weeks remain until election day, plus the certification and runoff window.\n(b) Status quo: current forecasts sit right around both thresholds.\n- Silver Bulletin's House numbers are inconsistent: one report gives a 238.7 average, another a 233 median. Its Senate average is 52.2 seats.\n- Poliwave's median is 228 House and 51 Senate. Its point estimate is 223 House, and 235+ falls in only the top third or so of its House runs.\n- The RCP regression on the generic ballot implies about 225 House seats.\n- Cook's ratings leave Democrats at about 230 House seats even if they sweep every toss-up.\n- So the House leg is roughly 35-50%. The Senate 51+ leg is about 60-75%, and the two are strongly correlated.\n(c) NO: the generic ballot settles around D+7. Democrats win the House with about 225-230 seats as Texas and other redistricting gains hold for the GOP. Or Republicans hold enough of the AK, KS, IA and TX toss-ups to keep Democrats at 49-50 senators.\n(d) YES: the late-September surge continues (D+9-10, Trump approval at 32%). Lean-R House seats fall as in 2018, and Democrats sweep most Senate toss-ups, matching Silver's 239/52 averages.\nThe market's 43% (down 10 points in a week) sits roughly between Poliwave and Silver. I see no clear unpriced information, so I shade slightly below it because the joint threshold requires a tail outcome on the House leg.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/4274",
+   "has_trace": true
+  }
+ ],
+ "Will Hong Kong have between 70-120mm of precipitation in October?": [
+  {
+   "id": 4349,
+   "scanned_at": "2026-10-10T09:35:00.147304",
+   "date": "2026-10-10",
+   "agent": 77.8,
+   "market_price_t0": 77.5,
+   "edge": 0.0029999999999998916,
+   "confidence": 0.522,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.78, 0.78, 0.78, 0.78, 0.78). (0) Not resolved yet, but the sibling Polymarket buckets for <20, 20-40, 40-50 and 50-70mm all trade at about 0.05-0.5%. Traders who can see the HKO Daily Extract therefore appear confident that October-to-date rainfall at HKO HQ already exceeds 70mm. That fits the Oct 2-4 Yellow and Amber rainstorm sequence and the +39% seven-day jump in this contract. The question now is whether the total stays at or below 120.0mm. (a) About 21 days remain until Oct 31, with finalized data well before the Jan 2027 close. (b) Status quo: HKO's 9-day outlook is mainly fine and dry with low significant-rain probability through Oct 18. HKO also says direct typhoon hits are unlikely for the rest of October because of a persistent anticyclone aloft and cooler South China Sea temperatures. That favors the total staying in the band. (c) NO: the anticyclone weakens late in the month as HKO's monthly outlook allows, and a trough, northeast-monsoon surge or rare late cyclone dumps enough rain to push past 120mm. The market prices about 23% on 120mm or more, and this risk grows if the current total is already near 100mm. (d) YES: the dry pattern holds through mid-to-late October and any late showers stay light, leaving the total between 70 and 120mm. I stay close to the 77.5% anchor because the research did not confirm the exact running total, which is the key unknown. The dry forecasts slightly support YES, offset by historical late-October rain variability.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4349",
+   "has_trace": true
+  }
+ ],
+ "Will the Democratic Party win the SC-01 House seat?": [
+  {
+   "id": 4304,
+   "scanned_at": "2026-10-09T20:45:45.848090",
+   "date": "2026-10-09",
+   "agent": 29.2,
+   "market_price_t0": 29.5,
+   "edge": -0.0030000000000000027,
+   "confidence": 0.61,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.28, 0.30, 0.29, 0.29, 0.29). (0) Not resolved. The FEC page shows no SC-01 results, and the general election is November 3, 2026. Democrat Nancy Lacore would still need to beat Trump-endorsed Republican Jenny Honeycutt in this open seat. (a) About 25 days remain, and early voting runs October 19–31. (b) Status quo means a Republican hold: the district is R+6 to R+8, Mace won it with 58% in 2024, and Cook, Sabato and PollingSource rate it Likely or Lean R. (c) NO path: the newest public poll (co/efficient, October 1) has Honeycutt up 46-40; GOP outside spending leads roughly 5-to-1 so far; and the district's structural lean holds even in a Democratic-favorable year. (d) YES path: a national environment strong enough to give Democrats about 90% odds of House control, plus Lacore's large fundraising edge (about 4x Honeycutt's receipts through June). Add $2.1M in late House Majority PAC ads and her military biography, and that could produce a 2018-Cunningham-style upset, consistent with the earlier near-tied PPP and GQR polls. The Polymarket anchor is 29.5%, matched by a rival venue at 28-30%. The sources place the Republican's chances between 64% and 85%. I find no unpriced information, and the latest R+6 poll slightly offsets the Democratic money edge, so I stay just under the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4304",
    "has_trace": true
   }
  ]

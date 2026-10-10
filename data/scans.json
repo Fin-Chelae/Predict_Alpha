@@ -1161,6 +1161,20 @@
  ],
  "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?": [
   {
+   "id": 4356,
+   "scanned_at": "2026-10-10T12:30:48.395389",
+   "date": "2026-10-10",
+   "agent": 72.8,
+   "market_price_t0": 74.5,
+   "edge": -0.017000000000000015,
+   "confidence": 0.604,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.72, 0.70, 0.74, 0.74, 0.73). (0) Resolution check: nothing has resolved. FRED DFEDTARU shows the upper bound at 4.00% as of Oct 10, after the September 25 bp hike. The openmarket.htm 'December 13' entry is an older historical row, not the December 2026 outcome. (a) About two months remain until the Dec 8-9 FOMC statement, with the Oct 27-28 meeting, the Sept CPI (Oct 14), and further jobs and CPI reports in between. (b) Status quo is a hold in October and a 25 bp hike in December. The September dot plot's 4.1% median implies exactly one more hike, the minutes say 'most participants' see another increase by year end, Waller (Oct 8) pushed for further hikes, and Goldman and JPMorgan both expect December. Market anchor: Polymarket prices this at 74.5%, CME is roughly 70-85% (that figure includes 50 bp moves), and Polymarket's 'another hike in 2026' is 77.5%. (c) NO scenario: the weak September payrolls (+29k) and cooler core PCE extend into soft CPI and jobs prints and the Fed waits, as Vanguard argues and as Citi forecasts. Alternatively, a surprise October hike (about 17%) uses up the one-hike guidance and December holds. (d) YES scenario: inflation reaccelerates as the Cleveland Fed nowcast suggests and Michigan inflation expectations stay near 4.7%, so the Fed holds in October and hikes in December. Decomposing the related markets, 77.5% for any further hike minus roughly 9% for an October-only hike gives about 68-72% for a December move, with a small slice going to a 50 bp bracket. I shade slightly below the market to 0.72, given how sharply meeting odds have swung on single data releases this cycle.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4356",
+   "has_trace": true
+  },
+  {
    "id": 3730,
    "scanned_at": "2026-10-02T09:19:39.480416",
    "date": "2026-10-02",
@@ -1568,6 +1582,20 @@
   }
  ],
  "Will Venezuela recognize Israel by December 31?": [
+  {
+   "id": 4369,
+   "scanned_at": "2026-10-10T16:23:00.806570",
+   "date": "2026-10-10",
+   "agent": 12.8,
+   "market_price_t0": 14,
+   "edge": -0.01200000000000001,
+   "confidence": 0.614,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.11, 0.11, 0.14, 0.14, 0.14). (0) The condition has not been met. The August 11, 2026 agreement restored only consular relations, through a coordination mechanism. Al Jazeera, Ynet, Media Line, JPost and i24 all say explicitly that this falls short of full diplomatic relations or embassy reopening. No recognition act, ambassador exchange or embassy announcement has been reported through October 10. Wikipedia's loose \"resumed diplomatic relations\" line is headline inflation. The market did not resolve on it: it spiked to 59.5% and then fell back. (a) About 82 days remain until December 31, 2026. (b) Status quo is No: the relationship sits at the consular \"courtship\" stage. Rabbi Cohen explicitly reserves full ties for \"a later phase,\" and neither government has given a timetable. (c) NO: the thaw stalls at the consular level, as it has for Bolivia and other regional peers. Rodríguez's contested legitimacy and domestic Chavista sensitivities also push the embassy step into 2027 or beyond. (d) YES: momentum continues, with the Danon–Godoy UN meeting in September, energy talks and a regional normalization wave. Rodríguez could then move quickly, as she did with the US (agreement to embassy in under 4 weeks), announcing full relations or an ambassador exchange that credible reporting treats as formal recognition. I anchor on the 14% Polymarket price, which is consistent with the sibling multi-country market's ~15%. I shade slightly lower for three reasons: about 60 days of silence since the consular deal, the absence of any stated timeline, and some resolution ambiguity over whether restored relations would be judged a \"formal recognition.\"",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4369",
+   "has_trace": true
+  },
   {
    "id": 3813,
    "scanned_at": "2026-10-03T13:20:27.204123",
@@ -10959,6 +10987,20 @@
  ],
  "Will there be no next Google Gemini Pro model release by November 1, 2026?": [
   {
+   "id": 4367,
+   "scanned_at": "2026-10-10T15:36:05.544947",
+   "date": "2026-10-10",
+   "agent": 90.8,
+   "market_price_t0": 91.9,
+   "edge": -0.011399999999999966,
+   "confidence": 0.728,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.89, 0.89, 0.92, 0.92, 0.92). (0) Not resolved. On Oct 9 the official Gemini API models page and changelog showed Gemini 3.1 Pro (Preview) as the latest Pro model and no new Pro-labeled release. A NO outcome would need Google to make a model labeled \"Pro\" publicly accessible by Nov 1. That could be a Gemini 4 Pro variant, a revived 3.5 Pro, or a GA promotion of 3.1 Pro. (a) About three weeks remain until Nov 1, 2026. (b) Status quo is YES. Gemini 3.5 Pro was reportedly scrapped, and the new flagship, Gemini 4 Argon (Sept 30), is not labeled Pro. Argon is limited to the closed Fairwind program, with no API model ID and no dated public path. (c) NO scenario: Argon's broader rollout, rumored for as soon as next week, comes with a \"Gemini 4 Pro\" SKU. Alternatively, Google ships a GA promotion of 3.1 Pro to the API. (d) YES scenario: Argon widens under its own name, or stays restricted, and no Pro-labeled model ships before Nov 1. The market anchor is 91.9% YES. The weekly Pro-release bucket markets for Oct 12–Nov 1 sum to roughly 10%, which is consistent. The Gemini 4.0-by-Oct-31 market at 90% suggests a broad Gemini 4 launch is likely soon. That raises the risk of a Pro-tier variant or a naming or classification dispute, so I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4367",
+   "has_trace": true
+  },
+  {
    "id": 3818,
    "scanned_at": "2026-10-03T14:58:03.996443",
    "date": "2026-10-03",
@@ -16600,7 +16642,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-10T09:50:00.565Z",
+  "last_sync": "2026-10-10T19:16:36.527Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -19259,6 +19301,20 @@
  ],
  "Another Fed rate hike in 2026?": [
   {
+   "id": 4364,
+   "scanned_at": "2026-10-10T14:50:04.903636",
+   "date": "2026-10-10",
+   "agent": 77.3,
+   "market_price_t0": 77.5,
+   "edge": -0.002000000000000113,
+   "confidence": 0.666,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.78, 0.76, 0.78, 0.78, 0.78). (0) No qualifying hike has happened yet. FRED DFEDTARU shows the upper bound unchanged at 4.00% through 2026-10-10, and the September 16 hike to 3.75–4.00% is excluded by the rules. (a) Two months remain, with two scheduled decisions: October 28 and December 9, plus the remote chance of an intermeeting move. (b) If nothing changes, the Fed holds at 4.00% and the market resolves No, so Yes needs an active hike. (c) No path: the September CPI on October 14 comes in soft, payrolls keep weakening after September's 29k print and the rise to 4.2% unemployment, and Williams/Jefferson-style patience pushes the second hike into early 2027. Waller himself floated 'another early in 2027' and said hikes need not come at consecutive meetings. (d) Yes path: a hold in October (about 16–19% priced for a hike), then a 25bp hike on December 9. That path is backed by the September dot plot (16 of 18 projecting another 2026 hike), the October 7 minutes ('one more increase by year-end'), hawkish Waller and Musalem remarks on October 8, and JPM and MUFG forecasting a December hike. Anchors: Polymarket is at 77.5%, and Kalshi's near-identical 'hike before 2027' contract is at 81%. CME FedWatch puts December at roughly 70–84%, though one tracker is far lower, so I land close to the market at about 78%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4364",
+   "has_trace": true
+  },
+  {
    "id": 3705,
    "scanned_at": "2026-10-02T03:29:49.781475",
    "date": "2026-10-02",
@@ -20366,6 +20422,20 @@
   }
  ],
  "Will Jumper launch a token by December 31, 2026?": [
+  {
+   "id": 4354,
+   "scanned_at": "2026-10-10T11:35:34.547734",
+   "date": "2026-10-10",
+   "agent": 87.8,
+   "market_price_t0": 86.5,
+   "edge": 0.0129999999999999,
+   "confidence": 0.708,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.89, 0.89, 0.86, 0.86, 0.88). (0) Not yet resolved. The resolution source (@jumperapp) shows the JUMP sale on Legion, which ran Sep 29 to Oct 2, but no listing. Cryptorank shows $0.00 volume and CoinGecko lists JUMP as untradable. The Aspecta pre-market opening Oct 12 is a synthetic product and does not count. What still has to happen is a TGE plus public tradability by Dec 31, 2026. (a) About 82 days remain. (b) If nothing changes, there is no tradable token and the market resolves No. The momentum, though, is strongly toward a TGE. (c) NO scenario: Jumper delays the TGE into 2027, for example to wait for better market conditions, for exchange-listing negotiations, or for regulatory reasons. Legion's mechanics let the project withdraw the raised capital before delivering tokens, so nothing in the sale binds the timeline, and \"Q4\" targets do slip. (d) YES scenario: the TGE comes in October or November. Supporting signals: Jumper's official account posted \"see you at tge\" on Oct 6, the allocation plan was published Oct 7, and the vesting terms are 50% at TGE. JUMP is the project's sole value-accrual vehicle, with no equity, and the raise was oversubscribed roughly 24x. Projects that complete a Legion sale almost always TGE within weeks to a couple of months. I anchor on the market's 86.5% (bid 85 / ask 88) and nudge slightly up. The completed sale and the team's own first-person TGE signal make a launch within about 12 weeks quite likely. I keep about 11% for slippage and for ambiguity over what counts as \"official.\"",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4354",
+   "has_trace": true
+  },
   {
    "id": 3423,
    "scanned_at": "2026-09-25T11:59:22.243983",
@@ -21639,6 +21709,20 @@
  ],
  "Next Astra Model (6.1+) released by December 31, 2026?": [
   {
+   "id": 4376,
+   "scanned_at": "2026-10-10T18:41:05.150566",
+   "date": "2026-10-10",
+   "agent": 80.5,
+   "market_price_t0": 88.5,
+   "edge": -0.08000000000000007,
+   "confidence": 0.4875,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.80, 0.82, 0.80, 0.80). (0) Not resolved. GPT-6 Astra shipped on Sept 4, but that version does not qualify. On Sept 28–29 OpenAI confirmed it would not release GPT-6.1 Astra over scope-authorization and deception regressions, and no 6.1+ Astra model ID appears in OpenAI's model list or changelog as of Oct 10. For YES, OpenAI must still publicly ship an Astra-named 6.1+ model (6.1, 6.2, 7, etc.) by Dec 31.\n\n(a) About 12 weeks remain.\n\n(b) Status quo is NO: the model is shelved with no new date. Instead OpenAI has shipped substitutes under other names (6.1 Sol, Instant).\n\n(c) NO path: the root-cause fix and re-evaluation drag past year-end. Reported training pauses, AISI findings that even GPT-6 Astra misbehaved in simulations, and Florida legal pressure all slow things. OpenAI may also rebrand its next flagship, or keep giving 6.1-tier upgrades non-Astra names.\n\n(d) YES path: OpenAI's spokesperson said it will keep the same base model and apply targeted reinforcement-learning fixes, so the model is \"delayed rather than dead.\" OpenAI's release cadence in 2026 is very fast, so a retrained GPT-6.1 or 6.2 Astra could ship in Nov–Dec. Any Astra-branded 6.1+ model counts.\n\nThe anchor is Polymarket at 88.5%, and Manifold's 93% for the same window is an independent crowd agreeing. The term structure (Oct 16 at 5.6%, Oct 23 at 12.5%, Oct 31 at 21.5%) shows traders expect a late-year return. Still, a safety-driven cancellation with no stated date is a harder stop than the earlier two-week pauses. The 7-day drop of 6 points and Kalshi's Oct 5 reading of 20% before Nov 13 also suggest some fragility. I shade below the market to about 80%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4376",
+   "has_trace": true
+  },
+  {
    "id": 3773,
    "scanned_at": "2026-10-03T00:58:37.542332",
    "date": "2026-10-03",
@@ -21700,6 +21784,20 @@
   }
  ],
  "Will Ethereum dip to $2,100 in October?": [
+  {
+   "id": 4360,
+   "scanned_at": "2026-10-10T13:18:01.647783",
+   "date": "2026-10-10",
+   "agent": 17.8,
+   "market_price_t0": 16.5,
+   "edge": 0.013000000000000012,
+   "confidence": 0.5820000000000001,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.19, 0.19, 0.17, 0.17, 0.18). (0) Not met: lowest confirmed Binance print ~$2,416 (Oct 8); spot ~$2,490; direct Binance read failed. (a) ~21 days left (to Oct 31 23:59 ET). (b) Status quo of ETH holding $2,370-2,500 resolves No; a ~16% further drop and breaks of $2,400, $2,355-2,370 and $2,200 are needed. (c) No: low funding (leverage already flushed), defended $2,400 support and an uneventful Oct 14 CPI keep ETH in $2,350-2,700 through the Oct 27-28 FOMC. (d) Yes: hot CPI or hawkish FOMC extends selling (9 straight days of ETF outflows, ~$542M weekly; rising exchange balances; whale shorts), cascading through $2,360 toward the May low near $2,023, as February's ~$2,000 crash showed is possible. Anchor is Polymarket at 16.5%; a touch model at 55-65% vol gives ~20-27%; bearish momentum is offset by flushed leverage, so slightly above market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4360",
+   "has_trace": true
+  },
   {
    "id": 3809,
    "scanned_at": "2026-10-03T11:46:46.810892",
@@ -22544,6 +22642,70 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.28, 0.30, 0.29, 0.29, 0.29). (0) Not resolved. The FEC page shows no SC-01 results, and the general election is November 3, 2026. Democrat Nancy Lacore would still need to beat Trump-endorsed Republican Jenny Honeycutt in this open seat. (a) About 25 days remain, and early voting runs October 19–31. (b) Status quo means a Republican hold: the district is R+6 to R+8, Mace won it with 58% in 2024, and Cook, Sabato and PollingSource rate it Likely or Lean R. (c) NO path: the newest public poll (co/efficient, October 1) has Honeycutt up 46-40; GOP outside spending leads roughly 5-to-1 so far; and the district's structural lean holds even in a Democratic-favorable year. (d) YES path: a national environment strong enough to give Democrats about 90% odds of House control, plus Lacore's large fundraising edge (about 4x Honeycutt's receipts through June). Add $2.1M in late House Majority PAC ads and her military biography, and that could produce a 2018-Cunningham-style upset, consistent with the earlier near-tied PPP and GQR polls. The Polymarket anchor is 29.5%, matched by a rival venue at 28-30%. The sources place the Republican's chances between 64% and 85%. I find no unpriced information, and the latest R+6 poll slightly offsets the Democratic money edge, so I stay just under the market.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/4304",
+   "has_trace": true
+  }
+ ],
+ "Will OpenAI's IPO valuation be less than $1T?": [
+  {
+   "id": 4374,
+   "scanned_at": "2026-10-10T17:54:52.504848",
+   "date": "2026-10-10",
+   "agent": 33.3,
+   "market_price_t0": 17.5,
+   "edge": 0.15700000000000003,
+   "confidence": 0.48,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.33, 0.37, 0.31, 0.32) after one crux research pass. (0) Not resolved. EDGAR shows no public S-1, only the confidential draft filed in June 2026, and no price or share count exists. To resolve, OpenAI must file publicly, price and list by Dec 31, 2027, and the final prospectus valuation then decides the market. (a) About 14.5 months remain, and missing that deadline auto-resolves YES as the lowest bracket. (b) Status quo: OpenAI stays private, so the market resolves YES. Altman ruled out 2026, said in October he has \"no particular timeline\" and tied timing to safety cases, and the company is raising a roughly $30B bridge round at about $1.4T specifically to defer the IPO. (c) NO scenario: Anthropic lists successfully in late 2026, OpenAI follows in mid or late 2027 per CFO Friar's \"public company in 2027,\" and it prices at $1.2T or more, in line with the bridge-round marks. (d) YES scenario: safety-driven or market-driven delays push the listing into 2028. A smaller path is a weak IPO window or S-1 scrutiny of the $278B projected negative free cash flow forcing pricing below $1T. The Polymarket anchor of 17.5%, with the bracket ladder summing to about 97%, implies roughly an 80% chance of an IPO at or above $1T by end-2027. That looks too confident given the fresh slippage signals and a secondhand report of only about 50% odds of a listing before mid-2027. I put roughly a 65-70% chance on an IPO by deadline and about 8-10% on a sub-$1T price conditional on listing, which gives about 0.33. Thin volume of $71k also limits how much weight the anchor deserves.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4374",
+   "has_trace": true
+  }
+ ],
+ "Will NYC have less than 3 inches of precipitation in October?": [
+  {
+   "id": 4371,
+   "scanned_at": "2026-10-10T17:08:46.892350",
+   "date": "2026-10-10",
+   "agent": 47.5,
+   "market_price_t0": 48,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.43,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.49, 0.45, 0.49, 0.47). (0) Not resolved. The NWS CLI and CF6 products show Central Park month-to-date precipitation of only 0.15\" through Oct 9, against a normal of about 1.31\". The final total depends on rain from Oct 10–31, so nothing is settled. (a) About 21 days remain until Oct 31, and NOAA finalization follows within weeks. (b) If little rain falls from here, the month ends far below 3\" and resolves YES. The status quo is not static, though: NWS forecasts a multi-day rain event Oct 11–12, with roughly 0.75\"–1.25\" in point forecasts plus more rain Monday night, likely leaving about 1.0–2.0\" month-to-date by Oct 13. (c) NO path: the storm overperforms, say 2\"+ as a slow coastal system, and one more ordinary late-October front adds about 1\", clearing 3.00\". Normal rainfall for Oct 13–31 alone is about 2.7\". (d) YES path: the storm delivers about 1–1.3\". CPC's Oct 16–22 hazards outlook shows no Northeast heavy-rain risk, and the Week 3–4 outlook favors drier-than-normal conditions for Oct 24–Nov 6, so the month finishes around 2–2.8\". The base rate is mixed: about 46% of Octobers fell below 3\" over the full record, but only about 30% in the last 30 years. The Polymarket price of 48% already reflects the storm forecast after an 18.5% drop over 7 days. Weighing the dry tilt against the storm's upside uncertainty, I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4371",
+   "has_trace": true
+  }
+ ],
+ "Modi out by June 30, 2027?": [
+  {
+   "id": 4362,
+   "scanned_at": "2026-10-10T14:07:25.521563",
+   "date": "2026-10-10",
+   "agent": 13.2,
+   "market_price_t0": 18,
+   "edge": -0.04799999999999999,
+   "confidence": 0.64,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.10, 0.09, 0.18, 0.18, 0.11). (0) The PMO site and Oct 7–10, 2026 reporting show Modi actively serving as PM, so the question is unresolved. (a) About 8.7 months remain until June 30, 2027. (b) Status quo is No: no election before 2029, no pending no-confidence vote, and the NDA projected at about 326 seats. (c) No: protests stay aimed at the election commissioner, BJP/RSS keep succession a post-2029 question, and Modi keeps his diplomatic calendar. (d) Yes: an acute health event at 75, an RSS-brokered handover, or an ally defection triggered by the election-commission, economic and coalition stress. Actuarial plus political risk suggests roughly 5–9%. The 18% anchor comes from a one-day-old, $15k market (another report cites about 7%), so I shade down to about 10%, keeping some weight on the market possibly pricing elevated turmoil.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4362",
+   "has_trace": true
+  }
+ ],
+ "Will Discord not IPO by December 31, 2027?": [
+  {
+   "id": 4351,
+   "scanned_at": "2026-10-10T10:35:29.002969",
+   "date": "2026-10-10",
+   "agent": 58.4,
+   "market_price_t0": 60.4,
+   "edge": -0.019499999999999962,
+   "confidence": 0.524,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 5 draws (0.55, 0.57, 0.60, 0.60, 0.60). (0) Not resolved: SEC EDGAR and trackers through early Oct 2026 show only Discord's Jan 6, 2026 confidential filing, with no public S-1, ticker or date. (a) About 14.7 months remain to Dec 31, 2027, ample time for a public S-1 and pricing, which typically takes weeks to months. (b) Status quo is Yes (no IPO); March 2026 and H1 2026 targets have already slipped. (c) Yes path: positive cash flow and no urgency, a record of walking away from deals (2021 Microsoft offer), Bloomberg's 'could decide not to proceed,' shutdown/SEC-backlog risk around the Dec 11, 2026 cliff, or a soft consumer-tech tape push the listing past 2027. (d) No path: with Goldman/JPM hired, a filing in, an open 2026 IPO window (SpaceX, Anthropic, OpenAI) and secondary marks rebounding toward ~$15B, Discord files publicly in H1 2027 and prices mid-to-late 2027. Anchor: Polymarket prices Yes at 60%, and the bracket markets sum to ~45% for an IPO, which is consistent. I shade slightly toward an IPO because well-advised confidential filers in a hot window usually list within about two years, and the 30-day drop from ~75% to 60% points that way, though I lack specific news explaining it. Confidence is moderate given no recent company-specific signal.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4351",
    "has_trace": true
   }
  ]

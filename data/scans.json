@@ -2059,6 +2059,20 @@
  ],
  "Will the Republicans win the Ohio governor race in 2026?": [
   {
+   "id": 4423,
+   "scanned_at": "2026-10-11T07:55:49.167668",
+   "date": "2026-10-11",
+   "agent": 36.5,
+   "market_price_t0": 31.5,
+   "edge": 0.04999999999999999,
+   "confidence": 0.5125,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.37, 0.37, 0.34, 0.38). (0) The race is not resolved. The election is November 3, and no AP, Fox News or NBC call or certification exists, per the resolution-source read and Wikipedia. (a) About 23 days remain until election day, with calls likely the night of November 3 or shortly after. (b) If nothing changes, Acton leads the raw polling averages (RCP Acton +3.8, Pollsmax Acton +2.0). Recent high-quality nonpartisan polls (NYT/Siena +4, CNN/SSRS +8, Marist +6, Suffolk +9, BGSU +3) favor her. Trump's approval is weak, and Brown leads the correlated Senate race. That status quo favors No. (c) NO scenario: the poor national GOP environment and tariff and affordability backlash hold. Early-vote enthusiasm, such as Democrats out-voting Republicans on day one in Medina County, carries Acton to a narrow-to-mid single-digit win despite being outspent 3:1. (d) YES scenario: Ohio's recurring polling bias toward Democrats repeats. Polls underestimated Republicans by several points in 2020, in the 2024 Senate race, and in the 2024 presidential race. Ramaswamy's money advantage, the Trump and Vance rallies and partisan consolidation flip a 2-4 point deficit; the co/efficient R+2 poll and models like Pollsmax (52% R), VotePredictor (62%) and Call the Map (70%) point that way. The market anchor is 31.5% and has fallen sharply from about 60%. Given Ohio's documented history of polls underestimating Republicans and the averages showing only a modest Acton lead, I shade modestly above the market to 37%. I don't go further because the national environment looks genuinely bad for the GOP and the nonpartisan polls agree with each other.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4423",
+   "has_trace": true
+  },
+  {
    "id": 3858,
    "scanned_at": "2026-10-04T04:09:06.987189",
    "date": "2026-10-04",
@@ -3745,6 +3759,20 @@
  ],
  "Will Trump's approval rating hit 35% in 2026?": [
   {
+   "id": 4416,
+   "scanned_at": "2026-10-11T05:35:40.110261",
+   "date": "2026-10-11",
+   "agent": 26.8,
+   "market_price_t0": 29,
+   "edge": -0.022499999999999964,
+   "confidence": 0.55,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.26, 0.27, 0.27, 0.27). (0) Not yet resolved. Silver Bulletin's approval average was about 37.1–37.6% in late September and early October. Net approval set a record low of -23.9 on Oct 10, which implies roughly 36.5–37% approve. That is still about 2 points above 35, and the related 37% market resolving Yes is consistent with this. (a) About 11.5 weeks remain until Dec 31, 2026. (b) If nothing changes, the smoothed average drifts in the 36–37.5% range and the market resolves No. The decline averaged about 0.45 points a month this year (41% in January to 37% now), so the trend alone would add only about 1.2 points by year end. (c) No: TIPP and ActiVote readings point to a plateau. Silver's polynomial smoothing and house-effect adjustments damp outlier polls like Pew's 30% and Reuters/Ipsos's 32%. Trump's history also shows troughs reverting, with a typical swing band of about 2.3 points. Together these keep the line at 36% or above. (d) Yes: the decline accelerates around a bad midterm result on Nov 3 and a possible Dec 11 shutdown. Already-cold inputs (Economist/YouGov at 35, FiftyPlusOne at 34.7) then drag the line down to 35.0 on some finalized day. The market's 29% sits sensibly between the related 36% (73%) and 34% (10.5%) markets. The recent net lows argue slightly for Yes, but the required acceleration beyond trend argues against it, so I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4416",
+   "has_trace": true
+  },
+  {
    "id": 3680,
    "scanned_at": "2026-10-01T23:35:16.467746",
    "date": "2026-10-01",
@@ -4064,6 +4092,20 @@
   }
  ],
  "Will the Republicans win the Nebraska Senate race in 2026?": [
+  {
+   "id": 4381,
+   "scanned_at": "2026-10-10T20:11:46.279544",
+   "date": "2026-10-10",
+   "agent": 71.2,
+   "market_price_t0": 71.5,
+   "edge": -0.0025000000000000577,
+   "confidence": 0.5575,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.72, 0.72, 0.70, 0.71). (0) Nothing is resolved yet. The election is Nov 3, 2026, and AP, Fox and NBC have made no call, so the resolution source cannot show an outcome. Ricketts (R) still has to win the vote and be called or certified. (a) There are about 24 days until Election Day, and early voting has been underway since Oct 5. (b) If nothing changes, Ricketts is the modest favorite. Polling averages show him about 0.6 to 1 point ahead (46.4 to 45.8), Pollsmax gives him 76%, and most raters call the race Likely or Lean R. Nebraska is Trump +20, and Republicans have won every Senate race there since 2006. (c) NO: a Democratic-leaning midterm (Polymarket has Democrats about 62% to take the Senate) plus diesel-price and beef-tariff backlash in rural areas consolidate the anti-Ricketts vote. With no Democrat on the ballot this time, Osborn holds or extends the narrow leads shown by YouGov (+1) and SurveyUSA (+4) and edges out a win. (d) YES: as in 2024, when polls showed Osborn close but Fischer won by 6.7, polls overstate the independent and late partisans come home. Ricketts' ad-spending edge (about $15M booked versus about $5M on Osborn's side) and Trump's rally would help pull him over the line. I anchor on the Polymarket price of 71.5% and nudge it up only slightly. The 2024 polling miss in this same matchup is real evidence, but it is offset by the Democratic-leaning national environment and the absence of a Democratic spoiler this cycle.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4381",
+   "has_trace": true
+  },
   {
    "id": 3830,
    "scanned_at": "2026-10-03T19:02:20.535852",
@@ -8059,6 +8101,20 @@
  ],
  "Will the highest score achieved by an Anthropic Claude model on Humanity’s Last Exam in 2026 be 60% or higher?": [
   {
+   "id": 4393,
+   "scanned_at": "2026-10-11T00:08:22.601373",
+   "date": "2026-10-11",
+   "agent": 37,
+   "market_price_t0": 41,
+   "edge": -0.03999999999999998,
+   "confidence": 0.415,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.38, 0.36, 0.38, 0.36). (0) The condition is not documented as met on the named resolution source. The agi.safe.ai page still shows an old static table, with Claude 4.5 Sonnet at 13.7% and Gemini 3 Pro on top at 38.3%. The dashboard sits behind a Clerk login. The closest official CAIS/Scale figure, the HLE-Diamond no-tools main table on labs.scale.com, puts Claude Opus 5.5 at 55.0% and Fable 5.1 at 51.3%, both below 60%. Higher figures exist elsewhere: 73.9% with tools on the CAIS/Scale Diamond page, 67.7% in Anthropic's own harness, and 61.4% on Artificial Analysis. Whether any of these count as the 'HLE Accuracy' on the official leaderboard is the key interpretive risk. (a) About 81 days remain until Dec 31, 2026. (b) If nothing changes, the status quo is No: the readable official headline numbers for Claude sit at about 55%, and the resolution text defaults to No if no official source is available. (c) No: Anthropic ships no new frontier model before year-end, or ships one that scores under 60% no-tools, and resolvers use the headline no-tools table. (d) Yes: Anthropic releases a successor (Opus 6 or a Fable update) in Q4 that gains 5+ points, or the resolvers count the with-tools Diamond figures (73.9%) as the official leaderboard value. The market at 41% (bid 38 / ask 44), down 6.5 points over 7 days, and the sibling 55% market at about 80% suggest traders see the official number near 55% with some upside. I lean slightly below the market because the default/status-quo path and the source ambiguity both favor No.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4393",
+   "has_trace": true
+  },
+  {
    "id": 3268,
    "scanned_at": "2026-09-21T01:49:43.561518",
    "date": "2026-09-21",
@@ -9670,6 +9726,20 @@
   }
  ],
  "Will the highest score achieved by a SpaceXAI Grok model on Humanity’s Last Exam in 2026 be 45% or higher?": [
+  {
+   "id": 4379,
+   "scanned_at": "2026-10-10T19:27:06.790348",
+   "date": "2026-10-10",
+   "agent": 36.8,
+   "market_price_t0": 60.8,
+   "edge": -0.24000000000000005,
+   "confidence": 0.4275,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.37, 0.35, 0.42, 0.33) after one crux research pass. (0) Not resolved. The named source, agi.safe.ai, still shows only a single Grok entry, Grok 4 at 24.5% HLE Accuracy. No Grok model is officially listed at or above 45%. (a) About 11.5 weeks remain until the Dec 31, 2026 deadline. (b) If nothing changes, the market resolves No: the official table has not added a newer Grok row in over a year. xAI's self-reported 44.4%/50.7% Grok 4 Heavy numbers never made it onto the leaderboard, and a Manifold market on exactly that resolved No. (c) No scenario: Grok 5 slips into 2027, which the sibling market prices at about 53%. Grok 4.8 or 4.9 land near Grok 4.7's ~43% on third-party trackers. The site may also restructure around the new HLE-Diamond variant, where Grok 4.7 scores only about 23%, and that would count as a 'clear equivalent metric'. (d) Yes scenario: Grok 5 or a Heavy-style 4.x variant ships in Q4, scores in the high 40s or 50s like its rivals (GPT-6, Claude Opus 5.5), and CAIS posts it on agi.safe.ai. Alternatively, the resolver reads 'official HLE results' loosely. The market sits at 0.61 with a wide 54/67 spread, down about 30 points in 30 days, which fits the HLE-Diamond release and Grok 4.7's weak official-adjacent scores. The sibling 50%+ market at 0.525 suggests traders expect Yes, if it comes, to come from a big Grok 5 jump. I discount below the market because Yes needs a release, a ≥45% score, and an official posting all to happen. I keep meaningful weight on resolver leniency and a Grok 5 launch.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4379",
+   "has_trace": true
+  },
   {
    "id": 3099,
    "scanned_at": "2026-09-18T00:06:08.538125",
@@ -11475,6 +11545,20 @@
  ],
  "Cuban regime falls in 2026?": [
   {
+   "id": 4388,
+   "scanned_at": "2026-10-10T22:30:53.900537",
+   "date": "2026-10-10",
+   "agent": 6.6,
+   "market_price_t0": 10.5,
+   "edge": -0.03874999999999999,
+   "confidence": 0.6950000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.07, 0.07, 0.06, 0.07). (0) Resolution check: the condition is not met. Reporting through October 7–10, 2026 shows Díaz-Canel still President and PCC First Secretary, the PCC still the sole legal party, and the state touring defense councils and detaining lone protesters within minutes.\n\n(a) About 12 weeks remain until the December 31, 2026 deadline.\n\n(b) Status quo is No. The regime has weathered eight nationwide blackouts and record but fragmented, leaderless protests. It has done so through repression, PCC-led economic reforms and informal channels with Washington.\n\n(c) The NO path is simply continued stalemate. The Atlantic-reported \"El Cangrejo\" back-channel stalled because Havana refused to remove Díaz-Canel. Trump ruled out military action \"for now,\" US assets are tied up with Iran, and analysts push any kinetic option past the midterms. Even then, a Venezuela-style decapitation or a GAESA-backed technocratic reshuffle could leave the PCC/military apparatus in de facto control, which the rules exclude.\n\n(d) The YES path is a post-midterm US strike or forced, negotiated elite transition in November–December. It would need to coincide with an elite fracture, possibly triggered by the death of 95-year-old Raúl Castro, and produce a clearly non-PCC transitional authority within weeks.\n\nThe Polymarket anchor is 10.5%, with related contracts at 12% for a US strike and 4.5% for an invasion. Given the high bar (a leadership change is not enough), the short window and longshot bias in such markets, I shade slightly below the market to about 7%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4388",
+   "has_trace": true
+  },
+  {
    "id": 3780,
    "scanned_at": "2026-10-03T03:20:13.710108",
    "date": "2026-10-03",
@@ -12004,6 +12088,20 @@
   }
  ],
  "Billionaire one-time wealth tax passes in California election 2026?": [
+  {
+   "id": 4426,
+   "scanned_at": "2026-10-11T08:40:56.994805",
+   "date": "2026-10-11",
+   "agent": 24.5,
+   "market_price_t0": 27,
+   "edge": -0.025000000000000022,
+   "confidence": 0.5825,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.25, 0.25, 0.23, 0.25). Prop 40 is certified and on the ballot, but the vote is 23 days away and recent polls show it at 45% with support eroding. Opponents outspend backers about 5:1, Newsom has endorsed the nullifying Prop 42, and Props 41/42 poll higher than Prop 40. A No can come from outright defeat or from 41/42 outpolling it; a Yes needs union turnout and Yes-No-No messaging to lift Prop 40 above 50% and above both countermeasures. Some ambiguity over whether a nullified majority counts as 'passes' modestly favors Yes. The 27% market already prices this, so I shade only slightly below it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4426",
+   "has_trace": true
+  },
   {
    "id": 3866,
    "scanned_at": "2026-10-04T06:29:51.127160",
@@ -14004,6 +14102,20 @@
   }
  ],
  "Will Hamas agree to disarm by December 31?": [
+  {
+   "id": 4421,
+   "scanned_at": "2026-10-11T07:10:53.027383",
+   "date": "2026-10-11",
+   "agent": 7,
+   "market_price_t0": 9,
+   "edge": -0.01999999999999999,
+   "confidence": 0.685,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.07, 0.07, 0.07, 0.07). (0) The condition is not met. Hamas's July 30-31, 2026 roadmap agreement was explicitly contingent on Israeli withdrawal, with heavy weapons tied to Palestinian statehood. The rules exclude plans contingent on future conditions. The market evidently did not resolve on it: it spiked toward 83.5% and has since fallen to 9%. Since then, Osama Hamdan (September) and Mahmoud Mardawi (October 5-6) have publicly denied any agreement to hand over weapons. (a) About 81 days remain until December 31, 2026. (b) Status quo is No. The Next Century Foundation tracker calls the transition stalled as of October 10. Israel controls 63-70% of Gaza and continues strikes. Board of Peace High Representative Mladenov says the process is 'not bound by a calendar', so no deadline is forcing a fresh announcement. (c) NO scenario: the sequencing deadlock persists, with Hamas demanding withdrawal first and Israel demanding disarmament first. Hamas keeps blaming Israel while rebuilding, and year-end passes with only conditional language. (d) YES scenario: Israel makes a verifiable pullback or written guarantee, and Hamas then issues a formal, unconditional statement starting a staged heavy-weapons handover. A breakthrough deal could also produce wide credible reporting that a disarmament policy has been instituted. The anchor is 9% (bid 8 / ask 10), with a strong downward trend. A decade-long base rate of refusals and recent explicit denials argue for slightly below market. Some resolver-ambiguity risk around a renewed staged commitment keeps the forecast off the floor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4421",
+   "has_trace": true
+  },
   {
    "id": 3783,
    "scanned_at": "2026-10-03T04:07:14.698799",
@@ -16642,7 +16754,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-10T19:16:36.527Z",
+  "last_sync": "2026-10-11T09:59:49.782Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -18967,6 +19079,20 @@
  ],
  "Will Alibaba have the best Chinese AI model at the end of October 2026?": [
   {
+   "id": 4397,
+   "scanned_at": "2026-10-11T00:52:42.365118",
+   "date": "2026-10-11",
+   "agent": 30.8,
+   "market_price_t0": 32,
+   "edge": -0.012499999999999956,
+   "confidence": 0.495,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.30, 0.31, 0.29, 0.33). (0) The condition is not yet decided. The Oct 8 snapshot of the exact resolution page shows Xiaomi's mimo-v2.6-pro at #9 (1492) as the top Chinese model. Alibaba's best, qwen3.8-max, sits at #14 (1483), so the market would resolve to Xiaomi today. (a) About 20 days remain until the Oct 31 noon ET check. (b) Status quo is No: Alibaba trails by 9 Elo and five rank places. It has added no new Text Arena model since early September. (c) No scenario: Qwen 4 slips to November or later, as some leak trackers and Alibaba's five-month cadence suggest. Xiaomi or Moonshot then holds the top Chinese slot. Alternatively, a new Qwen ships late but appears only with an AutoEval or preliminary tag and is excluded. (d) Yes scenario: Alibaba ships a Qwen 4 Max or a Qwen3.9/Max snapshot in October; related prediction markets price this at roughly 65-80%. It gets a human-vote rank above mimo-v2.6-pro before the check. A second path is mimo-v2.6-pro's score sliding as live votes replace its early AutoEval-based placement. Those release odds are offset by the short window, the risk of AutoEval exclusion, and the chance a new Qwen still underperforms. I anchor near the 32% market price; sibling markets have Xiaomi at ~39% and Moonshot at ~11%. I shade slightly lower given the lack of any confirmed release date and the unverified Text Arena status of the incumbent.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4397",
+   "has_trace": true
+  },
+  {
    "id": 3840,
    "scanned_at": "2026-10-03T22:26:19.036657",
    "date": "2026-10-03",
@@ -19558,6 +19684,20 @@
   }
  ],
  "Will Puma Shen win the next Taipei Mayor election?": [
+  {
+   "id": 4407,
+   "scanned_at": "2026-10-11T03:12:28.802069",
+   "date": "2026-10-11",
+   "agent": 28.8,
+   "market_price_t0": 32.6,
+   "edge": -0.03799999999999998,
+   "confidence": 0.5425,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.29, 0.29, 0.28, 0.29). (0) Not resolved. The election is on Nov 28, 2026, and no CEC result exists; the resolution source shows only pre-election polling. (a) About seven weeks remain until election day, and the market closes Nov 29. (b) If nothing changes, Chiang Wan-an keeps a lead: TVBS (Oct 3–7) has him up 49–41, and the Taipei Trust in Democracy poll (Sept 22) has him up 41.7–40.5. He also has net-positive approval (52/42), and the combined KMT+TPP bloc out-identifies the DPP by about 11 points. Status quo is a Chiang win. (c) NO: the drug-policy attack line caps Shen's gains among centrists, pan-blue voters consolidate (TPP identifiers back Chiang 89–7), and Chiang wins roughly 55–45, as one analyst projects. That fits the history: Taipei incumbents have won re-election every time since 1994, and the DPP has won the city only once. (d) YES: Shen's swing continues. The TVBS gap went from 28 points to 8 in under five months, and he has a 100k+ rally, Tsai Ing-wen as campaign chair, a youth lead, and vindication in the surveillance case. Chiang's Facebook attack backfiring could help push Shen ahead, a Kaohsiung-2018-style upset. Polymarket sits at 32.6% after a steep 30-day climb, which captures the momentum. I shade it slightly lower given the structural bloc gap, an 8-point deficit in the most recent quality poll, and no scientific poll yet showing Shen ahead. Taiwan local-election polling error and late swings are large, so a roughly 30% chance remains reasonable.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4407",
+   "has_trace": true
+  },
   {
    "id": 3845,
    "scanned_at": "2026-10-04T00:08:11.589876",
@@ -20257,6 +20397,20 @@
  ],
  "Will the Republicans win the Kansas Senate race in 2026?": [
   {
+   "id": 4410,
+   "scanned_at": "2026-10-11T03:58:04.122825",
+   "date": "2026-10-11",
+   "agent": 65.3,
+   "market_price_t0": 62.5,
+   "edge": 0.02749999999999997,
+   "confidence": 0.53,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.65, 0.65, 0.66, 0.65). (0) Nothing has resolved yet. The general election is November 3, 2026, and AP, Fox and NBC have made no call. Marshall (R) and Hamilton (D) are the confirmed nominees. (a) The election is about 23 days away, and Kansas early voting runs from October 14 to November 2. (b) Status quo is a dead-heat race in a deep-red state. Polls are tied: the RCP average has Marshall up 0.2, NYT/Siena has it 45-45 and Emerson has Hamilton up 2. Cook moved the race to Toss Up on October 6. The Polymarket anchor is 62.5% Yes, down 18 points in 30 days. (c) NO scenario: the national environment is strongly anti-Republican, with Polymarket giving Democrats about 90% for the House and about 62% for the Senate. Trump is underwater in Kansas at 40/53, and agricultural-economy discontent persists. Hamilton keeps winning independents and peeling off the roughly 10-16% Republican crossover NYT/Siena found, and he ends the 94-year Democratic drought. (d) YES scenario: Kansas polls have understated Republican margins before. In 2014 Roberts trailed Orman in polls but won by 10, and in 2020 Marshall won by 11 after a 'close' race. Republicans hold a roughly 400k registration edge and about a 10x ad-reservation advantage including the $8.2M SLF buy. The Libertarian's 4-5% share likely fades toward Marshall, and partisanship reasserts itself. Fundamentals-weighted models agree: DDHQ gives Marshall 79%, Quiverquant 73% and PoliAgg 96%. I shade slightly above the market for the Kansas polling-error history, but the downward momentum and the hostile national environment keep me near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4410",
+   "has_trace": true
+  },
+  {
    "id": 3843,
    "scanned_at": "2026-10-03T23:16:24.252118",
    "date": "2026-10-03",
@@ -20592,6 +20746,20 @@
   }
  ],
  "Will Student List – Students Win win the most seats in the 2026 Serbian parliamentary election?": [
+  {
+   "id": 4428,
+   "scanned_at": "2026-10-11T09:26:38.596741",
+   "date": "2026-10-11",
+   "agent": 35.5,
+   "market_price_t0": 38.5,
+   "edge": -0.030000000000000027,
+   "confidence": 0.4625,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.35, 0.36, 0.35, 0.36). (0) Not resolved. RIK's site shows only pre-election sessions as of Oct 11 and no results; the vote is on Oct 25. What still has to happen is for the Student List to out-seat 'Aleksandar Vučić – United Serbia' in the RIK-certified count.\n(a) 14 days remain until the vote; certification follows, with a fallback deadline of March 31, 2027.\n(b) If nothing changes, the status quo favors United Serbia. The latest published polls (Faktor Plus Sept 16-20: 48.6 vs 37.1; Ipsos early October) show it leading. Meridianbet odds imply roughly 124.5 vs 105.5 seats, Kalshi's PM market prices Vučić at 65%, and SNS has won first place in every election since 2012, helped by large media, resource and clientelist advantages.\n(c) NO: SNS's machine holds its ~1.7M base, turnout rises only modestly, and minority and threshold dynamics preserve a seat plurality for United Serbia. Pro-government pollsters are vindicated, as in past cycles.\n(d) YES: turnout surges toward the 70%+ Vučić himself cited. Newly mobilized young voters and abstainers break overwhelmingly for the consolidated Student List (backed by SPO, DS, Dveri and others), matching the CRTA/BIRODI/NSPM pictures and Pavlović's 117-122 seat simulation.\nPolls diverge sharply by house effect, and no non-aligned poll from October exists. I anchor on the liquid market's 38.5% and shade slightly toward No, given the bookmaker gap, the incumbent's control of administration and counting, and the historical pattern.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4428",
+   "has_trace": true
+  },
   {
    "id": 3860,
    "scanned_at": "2026-10-04T04:55:07.262010",
@@ -21518,6 +21686,20 @@
   }
  ],
  "Will the Democratic Party win the VA-05 House seat?": [
+  {
+   "id": 4391,
+   "scanned_at": "2026-10-10T23:15:50.778795",
+   "date": "2026-10-10",
+   "agent": 25.8,
+   "market_price_t0": 25.5,
+   "edge": 0.0025000000000000022,
+   "confidence": 0.5425,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.26, 0.27, 0.25, 0.25). (0) Nothing has resolved. The FEC shows no 2026 results, and the general election is on Nov 3, 2026. (a) About 3.5 weeks remain. Early voting is already underway and runs through Oct 31. (b) Status quo favors the Republican incumbent, John McGuire. The latest nonpartisan poll (WaPo-Schar, Sept 23–28) has him up 51-45. The district is R+6; Trump carried it by 12 and McGuire won by 15 in 2024. Cook rates it Likely R, Inside Elections Likely R and Sabato Lean R. (c) NO: the structural lean holds, McGuire's roughly 6-point edge survives, and Perriello lands around 47-48%, as Kondik's base case suggests. (d) YES: a strong Democratic environment (the Kalshi market prices Jeffries as next Speaker at 85%), plus early-vote enthusiasm about 4 points more Democratic than 2025, a fundraising and outside-spending edge, and McGuire's insider-trading story, let a well-known former member close a gap within about 1.5x the poll's margin of error. A district poll miss of this size is common. The Polymarket anchor is 25.5% and trending up (+11 over 30 days), which already prices the rating shifts and the poll. I see no unpriced information strong enough to move materially, so I sit at the market with a slight nod to the momentum.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4391",
+   "has_trace": true
+  },
   {
    "id": 3652,
    "scanned_at": "2026-10-01T22:34:46.796363",
@@ -22706,6 +22888,102 @@
    "pipeline": 2,
    "rationale": "Mean of 5 draws (0.55, 0.57, 0.60, 0.60, 0.60). (0) Not resolved: SEC EDGAR and trackers through early Oct 2026 show only Discord's Jan 6, 2026 confidential filing, with no public S-1, ticker or date. (a) About 14.7 months remain to Dec 31, 2027, ample time for a public S-1 and pricing, which typically takes weeks to months. (b) Status quo is Yes (no IPO); March 2026 and H1 2026 targets have already slipped. (c) Yes path: positive cash flow and no urgency, a record of walking away from deals (2021 Microsoft offer), Bloomberg's 'could decide not to proceed,' shutdown/SEC-backlog risk around the Dec 11, 2026 cliff, or a soft consumer-tech tape push the listing past 2027. (d) No path: with Goldman/JPM hired, a filing in, an open 2026 IPO window (SpaceX, Anthropic, OpenAI) and secondary marks rebounding toward ~$15B, Discord files publicly in H1 2027 and prices mid-to-late 2027. Anchor: Polymarket prices Yes at 60%, and the bracket markets sum to ~45% for an IPO, which is consistent. I shade slightly toward an IPO because well-advised confidential filers in a hot window usually list within about two years, and the 30-day drop from ~75% to 60% points that way, though I lack specific news explaining it. Confidence is moderate given no recent company-specific signal.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/4351",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic's IPO valuation be between $1.75T and $2.00T?": [
+  {
+   "id": 4418,
+   "scanned_at": "2026-10-11T06:20:38.293989",
+   "date": "2026-10-11",
+   "agent": 36.8,
+   "market_price_t0": 39.5,
+   "edge": -0.02749999999999997,
+   "confidence": 0.435,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.37, 0.37, 0.36, 0.37). (0) Nothing has resolved. EDGAR shows no public S-1, only the confidential draft submitted June 1, 2026, so no final prospectus price exists yet. A public S-1, a roadshow (reportedly the week of Nov 9) and a final pricing landing at $1.75T–<$2.00T fully diluted must all still happen. (a) The rules' deadline is Dec 31, 2027, about 14.5 months away. Related Polymarket contracts price an IPO by end-2026 at ~75%, so the risk of no IPO by 2027 is perhaps 8-12%. (b) If nothing changes, the reported target is 'around $2 trillion' (WSJ). Bloomberg reports prospective investors at $1.8–2.0T, and FutureSearch's median first-day cap is $1.82T. That centres mass near the top edge of the band. (c) NO: books run hot and pricing is raised above $2T. Alternatively the price lands at a round $2.00T, which resolves to the higher bucket under the rules. The prospectus fully diluted count (all options and RSUs, no treasury method) can also inflate the figure above the headline 'market cap'. A further NO path is skeptic pressure (Palihapitiya ~$1T, New Constructs) and macro volatility forcing a haircut below $1.75T or another delay. (d) YES: underwriters price inside the investor-cited $1.8–2.0T range, like SpaceX's target-to-print match (one precedent only). Related IPO-day-close buckets put only ~13.5% on $1.75–2.0T at the close and most mass above $2T. That is consistent with an offer price slightly below the close, but it does hint at upward pressure. Weighing ~90% IPO odds against a conditional ~40% for this band, I land slightly below the 39.5% market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4418",
+   "has_trace": true
+  }
+ ],
+ "Will Helen Zille be the next mayor of Johannesburg?": [
+  {
+   "id": 4414,
+   "scanned_at": "2026-10-11T04:47:43.735784",
+   "date": "2026-10-11",
+   "agent": 54,
+   "market_price_t0": 62.5,
+   "edge": -0.08499999999999996,
+   "confidence": 0.4475,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.55, 0.52, 0.56, 0.53). (0) Not resolved: the 4 Nov 2026 election has not happened, Dada Morero (ANC) is incumbent and no council vote has occurred. (a) The council's mayoral vote likely falls around 22-25 Nov, after the 17 Nov trading close but well within the June 2027 cutoff. (b) Status quo: Zille leads (36% preference; DA 29% vs ANC 23% in News24/SABI), but no poll gives a majority and the DA ceiling is about 40%, so coalition or minority dynamics decide. (c) NO: Mashaba keeps his 'Zille is the red line' stance, Zille refuses an EFF-reliant coalition, and the ANC demands its own mayor or forms an ANC-ActionSA-MK-EFF bloc; the Ipsos poll showing the ANC ahead may also prove right, and talks could collapse as in 2021. (d) YES: the DA finishes clearly first and a weakened ANC, tied to the DA nationally, backs or abstains for a DA mayor, or sequential-elimination voting lets a plurality DA candidate win, as Phalatse did in 2021. The 62% market price looks somewhat rich given the partner red lines and Johannesburg's coalition chaos, though real paths remain.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4414",
+   "has_trace": true
+  }
+ ],
+ "Will OpenAI rename itself to OpenSI?": [
+  {
+   "id": 4404,
+   "scanned_at": "2026-10-11T02:24:09.860494",
+   "date": "2026-10-11",
+   "agent": 5,
+   "market_price_t0": 7.5,
+   "edge": -0.025499999999999995,
+   "confidence": 0.6799999999999999,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.05, 0.05, 0.05, 0.05). (0) Not met: Fast Company (Oct 10) and The Register (Oct 5) report no OpenAI rename, and Sam Altman told Politico's Decoded podcast the company has \"no plans\" for a name change. (a) About 81 days remain until Dec 31, 2026. (b) If nothing changes, OpenAI keeps its name and the market resolves No. (c) No scenario: Trump's SI order stays non-binding for private firms, OpenAI keeps using \"superintelligence\" in its messaging and maybe renames a product, but leaves the company name alone, which is where Altman's statement and OpenAI's usual multi-month legal timelines point. (d) Yes scenario: Trump escalates his \"enemy\" rhetoric and pressures OpenAI by name, and OpenAI, given its close ties (Brockman signed the Accord on Super Intelligence), makes a quick official announcement like Musk's one-line SpaceXSI commitment, which would count regardless of when it takes effect. The Polymarket anchor is 7.55% (bid 7 / ask 8), up after the Musk news on thin $15k volume. Independent Manifold markets sit at 6–8%. Altman's explicit on-record denial came after much of that run-up and argues for shading slightly below the market, though his \"no plans\" phrasing and the volatile political pressure keep a real tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4404",
+   "has_trace": true
+  }
+ ],
+ "Will prjx launch a token by December 31, 2026?": [
+  {
+   "id": 4400,
+   "scanned_at": "2026-10-11T01:39:10.102439",
+   "date": "2026-10-11",
+   "agent": 7,
+   "market_price_t0": 11,
+   "edge": -0.039999999999999994,
+   "confidence": 0.69,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.07, 0.07, 0.07, 0.07). (0) The condition is not met. prjx.com shows only Swap/Liquidity/Portfolio/Cashdrop, the HypurrCollective directory lists the token as \"Not Yet\", and cryptorank shows $0 for PRJX. The Solana 'PRJX' on Coinbase appears to be an unrelated copycat. (a) About 81 days remain until the Dec 31, 2026 11:59 PM ET deadline. (b) Status quo is No: the team retired points in favor of USDC cashdrops and said there are 'no immediate plans to launch a token' (airdrops.io, July 2026). No reversal has turned up in the last 60+ days, and recent official messaging is about cashdrops. (c) NO path: the team keeps running a profitable, no-token DEX ($42M cumulative fees) on USDC rewards, and any TGE slips into 2027 or never happens. (d) YES path: the team surprises with a snapshot and TGE in Q4 2026, using the floated 1B-supply/12%-airdrop design, perhaps in response to HyperEVM peers launching tokens. The only dated 2026 TGE claims come from inconsistent, unofficial Medium posts, and their Q3 2026 window has passed unhonored. The Polymarket anchor is 11% (bid 10/ask 12) and has drifted down. Given the explicit no-plans stance, the absence of any pre-TGE signals, and the short window, I shade slightly below market, keeping some weight for a surprise launch from a well-capitalized team.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4400",
+   "has_trace": true
+  }
+ ],
+ "US imports Russian diesel by October 31?": [
+  {
+   "id": 4386,
+   "scanned_at": "2026-10-10T21:45:43.566008",
+   "date": "2026-10-10",
+   "agent": 57.3,
+   "market_price_t0": 51.5,
+   "edge": 0.05833333333333335,
+   "confidence": 0.43999999999999995,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 3 draws (0.60, 0.57, 0.55). (0) Resolution check: the condition is not yet met. OFAC's site confirms GL 135 is live, but no AIS, CBP, EIA or wire-service source shows Russian diesel discharged at a US port. The MINERVA ZEN's Oct 11 Wilmington ETA comes from stale AIS data (last position about 11 days old), and some OSINT 'arrived' headlines are premature. (a) There are about 21 days left, until Oct 31 11:59 PM ET. (b) If nothing changes, the US keeps its four-year record of zero Russian oil imports and the market resolves No. Something has to physically land and be reported. (c) NO path: the MINERVA ZEN diverts or turns out not to be US-bound, or carries gasoil of disputed origin. CBP could also balk because the 2022 Ending Importation of Russian Oil Act and the Graham Act's tariff provisions sit outside GL 135. Senate Democratic pressure or compliance caution among buyers, insurers and banks could delay entry. Russia's producer export ban runs through Oct 31, which limits new cargoes in time. (d) YES path: the MINERVA ZEN, tracked by VesselFinder, TankerMap and Windward/Bockmann, docks at Wilmington or Lake Charles around Oct 11-13. Because the administration wants a visible win before the Nov 3 midterms, it has every reason to clear the cargo and publicize the arrival. Alternatively, a floating or trader-held cargo reaches the East Coast before month's end. Anchor and adjustment: the market sits at 50.5%. A named, IMO-identified tanker due within days, plus strong political incentive, argues for somewhat above the market. The unresolved statutory/customs question and the unverified tracking keep me well short of near-certainty.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4386",
+   "has_trace": true
+  }
+ ],
+ "Will Lake Powell's minimum elevation be at least 3,500 but below 3,510 ft?": [
+  {
+   "id": 4384,
+   "scanned_at": "2026-10-10T20:58:54.545057",
+   "date": "2026-10-10",
+   "agent": 39,
+   "market_price_t0": 44.5,
+   "edge": -0.05500000000000005,
+   "confidence": 0.4466666666666666,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 3 draws (0.38, 0.41, 0.38). (0) Not resolved: the window's lowest reading is 3,516.62 ft (Sept 15 record low) and the lake read 3,518.97 ft on Oct 9 per water-data.com, with the USBR feed live. Yes needs a daily low below 3,510 ft that never reaches 3,500 ft by Mar 31, 2027. (a) About 5.7 months remain, covering the winter drawdown into Feb/Mar. (b) Status quo: Reclamation's September Most Probable 24-Month Study (6 maf release) bottoms at 3,511.43 ft at end of February 2027. The lake is running about 4 ft above that path (study ~3,515 vs actual ~3,519), and Reclamation says it will adjust releases through April to try to hold 3,510 ft, so the status quo is just above 3,510 and resolves No. (c) No: reduced releases plus Flaming Gorge drought-response water keep the trough at 3,511-3,515 ft; falling below 3,500 is very unlikely (sibling markets ~1.4%). (d) Yes: drier winter base flows or a move toward 7 maf releases push the trough a few feet under the central path into 3,503-3,509 ft, needing only a ~2 ft miss on a forecast that has swung tens of feet this year. The market's sharp +27-point week may reflect unseen news such as a new study or release decision, which tempers my departure from 44.5%. But the central forecast, current outperformance and Reclamation's explicit 3,510 ft management target lean toward staying above, so I shade Yes to 0.38.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4384",
    "has_trace": true
   }
  ]

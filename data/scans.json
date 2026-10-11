@@ -1103,6 +1103,20 @@
  ],
  "Will Anthropic flip BTC by December 31?": [
   {
+   "id": 4433,
+   "scanned_at": "2026-10-11T10:59:01.810724",
+   "date": "2026-10-11",
+   "agent": 62.3,
+   "market_price_t0": 66,
+   "edge": -0.03749999999999998,
+   "confidence": 0.51,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.62, 0.63, 0.62, 0.62). (0) The condition is not yet met. CoinGecko shows BTC at about $1.67T, while Anthropic's only confirmed valuation is the $965B Series H from May 2026. YES needs a confirmed public or IPO valuation above BTC's cap. (a) About 11.5 weeks remain until the Dec 31, 2026 deadline. (b) If nothing changes, the answer is NO: the $965B mark is far below BTC's cap. (c) NO scenario: the public S-1 keeps slipping past late October, which is needed for the reported Nov 9 roadshow given the 15-day rule. Prospectus concerns (a $42B loss, $518B in commitments, rogue-AI risk disclosures) or market turmoil then push pricing into 2027. Alternatively, the IPO prices below BTC's cap, or BTC rallies toward the institutional $100K+ targets. (d) YES scenario: the S-1 goes public in late October, marketing starts the week of Nov 9, and pricing lands before Thanksgiving at the Bloomberg-reported $1.8–2T. Any first-day pop takes the market cap well above BTC's roughly $1.6–1.7T. A sibling prediction market reportedly prices a sub-$1.25T IPO-day cap at only about 3%, which supports a high valuation conditional on listing. My estimate is roughly a 70–75% chance of an IPO by year-end, times about 85% that it clears BTC, giving about 62%. That is slightly below the 66% Polymarket anchor, reflecting the serial timeline slippage and the still-missing public S-1, consistent with the market's 30-day decline.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4433",
+   "has_trace": true
+  },
+  {
    "id": 3166,
    "scanned_at": "2026-09-19T04:58:06.034197",
    "date": "2026-09-19",
@@ -2397,6 +2411,20 @@
  ],
  "Will Utah use a new congressional map for the 2026 United States midterm elections?": [
   {
+   "id": 4431,
+   "scanned_at": "2026-10-11T10:11:45.020777",
+   "date": "2026-10-11",
+   "agent": 95,
+   "market_price_t0": 91,
+   "edge": 0.039999999999999925,
+   "confidence": 0.84,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.95, 0.95, 0.95, 0.95). (0) In practice the condition is already met. Judge Gibson's court-ordered Map 1/1A (adopted Nov. 10, 2025) survived the Utah Supreme Court's jurisdictional dismissal on Feb. 20, 2026 and the federal three-judge panel's denial of an injunction on Feb. 23. Candidate filing (41 candidates) and the June 23 primary ran under the new districts. Utah's official GIS portal lists it as the 2026–2032 map, and vote.utah.gov shows general-election candidates under the new districts. All that remains is holding the Nov. 3 election under these lines.\n(a) Time left: about three weeks until the Nov. 3 election; the market closes Nov. 4.\n(b) Status quo: if nothing changes, the new map is used and the market resolves Yes.\n(c) NO paths: an improbable last-minute SCOTUS or state-court order displacing the map, which Purcell makes very unlikely after primaries are done. The pending HB392 three-judge-panel ruling is under advisement with the court in recess until November and does not target the map itself. The other risk is an interpretive dispute over whether a court-chosen map counts as 'formally adopted and enacted by the appropriate redistricting authority'.\n(d) YES path: the general election proceeds on the existing lines. The rules explicitly let a court-drawn map qualify if it is 'itself a new map used in the 2026 midterms', which this one is.\nThe market sits at 91%, likely discounting the interpretive ambiguity. Given the explicit court-map clause and no live threat to the map, I move modestly above it to about 95%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4431",
+   "has_trace": true
+  },
+  {
    "id": 1604,
    "url": "https://forecast.agenticlearning.ai/scans/v2/1604",
    "date": "2026-08-21",
@@ -2590,6 +2618,20 @@
   }
  ],
  "Will the highest score achieved by a Moonshot Kimi model on Humanity’s Last Exam in 2026 be 50% or higher?": [
+  {
+   "id": 4438,
+   "scanned_at": "2026-10-11T12:37:06.174560",
+   "date": "2026-10-11",
+   "agent": 28.3,
+   "market_price_t0": 38.5,
+   "edge": -0.10249999999999998,
+   "confidence": 0.4375,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.28, 0.32, 0.30, 0.23). (0) Not met: the resolution source agi.safe.ai lists no Kimi model in its static table; the linked Scale leaderboard shows Kimi K2.5 at 24.4%, and mirrors of the Sept 2026 HLE-Diamond refresh show Kimi K3 at 22.2%. Every officially tallied Kimi figure is 22-24%. (a) About 11.5 weeks remain until Dec 31, 2026. (b) Status quo resolves No. (c) No path: no Kimi K4 ships (Polymarket prices a year-end release at ~9.5%), the official board keeps scoring Kimi no-tools at ~22-24%, and vendor with-tools claims (K2.6 54.0, K3 56.0) never appear on agi.safe.ai; Moonshot's self-reported HLE numbers have been inflated before (K2 claimed ~50%, tested 29.4%). (d) Yes path: the resolver treats a tools-enabled or vendor score as a 'clear equivalent metric', or agi.safe.ai adds a with-tools Kimi K3 row (56% vendor, 46.9% Artificial Analysis). The market's 38.5% (up 13.5 points this week) and the 45% sibling at ~79% imply traders expect a lenient reading that counts with-tools or vendor numbers. That is real resolution risk, but the named source plainly supports No, so I shade below the market while keeping substantial weight on an ambiguous or lenient resolution.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4438",
+   "has_trace": true
+  },
   {
    "id": 3195,
    "scanned_at": "2026-09-19T17:41:09.171562",
@@ -10403,6 +10445,20 @@
  ],
  "China x Philippines military clash before 2027?": [
   {
+   "id": 4442,
+   "scanned_at": "2026-10-11T13:24:38.200956",
+   "date": "2026-10-11",
+   "agent": 21,
+   "market_price_t0": 25.5,
+   "edge": -0.04500000000000001,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.21, 0.22, 0.20, 0.21). (0) Not met: the July 20, 2026 Second Thomas Shoal melee predates the market's creation (opened July 24), consistent with the 25.5% price. No qualifying post-creation incident is reported: the Sept 18 ramming hit a civilian BFAR vessel without a hull breach, and the Oct 3 intercept and other October incidents involved no weapons. (a) About 11.5 weeks remain. (b) Status quo of gray-zone harassment resolves NO. (c) NO: both sides stay below the threshold amid Marcos's 'manage the problem' posture, year-end Code of Conduct talks and China's interest in not triggering the US treaty. (d) YES: a forced boarding with melee weapons against Philippine Navy personnel, or a hull-breaching CCG ramming of a navy ship, amid incidents spiking to 101 Chinese vessels in September. A rate of about 1–1.5 qualifying events per year implies roughly 20–28% over the window; I shade slightly under the 25.5% anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4442",
+   "has_trace": true
+  },
+  {
    "id": 3884,
    "scanned_at": "2026-10-04T11:57:07.143905",
    "date": "2026-10-04",
@@ -10666,6 +10722,20 @@
   }
  ],
  "Will another country leave OPEC in 2026?": [
+  {
+   "id": 4446,
+   "scanned_at": "2026-10-11T14:59:25.298880",
+   "date": "2026-10-11",
+   "agent": 8,
+   "market_price_t0": 9.5,
+   "edge": -0.015,
+   "confidence": 0.65,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.08, 0.08, 0.08, 0.08). (0) Nothing has resolved yet. The resolution-source read, Wikipedia and OPEC's Oct 4 JMMC communications all list 11 members, and no official second withdrawal announcement has been found. (a) Roughly 11.5 weeks remain until Dec 31, 2026 GST. (b) If nothing changes, the market resolves No. Venezuela's minister reaffirmed the Declaration of Cooperation on Oct 5, and Iraq channeled its grievance into a formal 6M bpd quota request on Sept 9 while dismissing exit rumors. (c) NO scenario: the delayed capacity review (mid-November) and the Nov 29 meeting give Iraq a partial baseline bump, and Venezuela, already quota-exempt with no barrels to free, keeps deliberating into 2027 as analysts suggest. (d) YES scenario: the capacity review disappoints Iraq and Baghdad formalizes its June threat. Alternatively, US-Venezuela oil-lease deals close and Washington pushes Caracas to announce an exit as a symbolic move. The market anchor is 9.5% and has fallen 27 points in 30 days as the August Venezuela leak went stale. The research adds mildly NO-leaning information (Venezuela's Oct 5 reaffirmation) but also a dated November trigger, so I shade slightly below the market to about 8%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4446",
+   "has_trace": true
+  },
   {
    "id": 3177,
    "scanned_at": "2026-09-19T09:45:19.524002",
@@ -16754,7 +16824,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-11T09:59:49.782Z",
+  "last_sync": "2026-10-11T19:33:25.823Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -17536,6 +17606,20 @@
   }
  ],
  "Alexandre de Moraes out as Brazil Supreme Court Justice?": [
+  {
+   "id": 4459,
+   "scanned_at": "2026-10-11T19:07:15.547607",
+   "date": "2026-10-11",
+   "agent": 11.5,
+   "market_price_t0": 15.5,
+   "edge": -0.04000000000000001,
+   "confidence": 0.6,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.11). (0) Resolution check: the condition has not been met. Reporting from Oct 4–10, 2026 shows Moraes still sitting and actively ruling; he ordered Eduardo Bolsonaro's arrest on Oct 7–9. There is no report of a resignation, removal or suspension. (a) About 81 days remain until Dec 31, 2026. (b) If nothing changes, the market resolves No. Alcolumbre has parked all 55+ impeachment requests and was dismissive of the Vorcaro messages. The opposition itself has stopped expecting anything from him and is targeting the Senate that takes office in February 2027. Moraes's allies report he has ruled out resigning. (c) No scenario: Moraes keeps fighting, the PGR and Fachin contain the Mendonça inquiry, and Alcolumbre holds firm through December. The impeachment threat moves to 2027, after the window closes. (d) Yes scenario: Flávio Bolsonaro wins the Oct 25 runoff and the Banco Master file escalates. That could come through a plenary inquiry before the roughly mid-December end of the deferral, or a PGR shift. The R$80–131m wife's-firm contracts would make a pre-emptive resignation announcement attractive before a hostile 2027 Senate. A less likely route is a precautionary suspension. The Polymarket price is 15.5% and has fallen 21.5 points in 30 days, consistent with the pressure easing. The research adds no new trigger the market has missed. Given the strong institutional base rate (no STF justice removed since 1988) and the blocked gatekeepers, I shade slightly below the market. I keep a meaningful tail for the runoff outcome and the scandal, which is serious and document-backed.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4459",
+   "has_trace": true
+  },
   {
    "id": 3903,
    "scanned_at": "2026-10-04T18:18:52.576519",
@@ -18636,6 +18720,20 @@
   }
  ],
  "Will the ECB announce no change at the October 2026 meeting?": [
+  {
+   "id": 4454,
+   "scanned_at": "2026-10-11T17:24:55.848034",
+   "date": "2026-10-11",
+   "agent": 91.8,
+   "market_price_t0": 93,
+   "edge": -0.012500000000000067,
+   "confidence": 0.7250000000000001,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.91, 0.92, 0.92, 0.92). (0) Not resolved: the ECB decision is due 29 Oct 2026. FRED and the ECB data page show the deposit rate at 2.50% through 9–10 Oct, so the change will be measured from 2.50%. (a) About 18 days remain until the 29 Oct announcement. Before then come the final September HICP on 16 Oct and some Lagarde remarks ahead of the blackout. (b) The status quo is a hold. The Reuters poll had 70 of 73 economists expecting 2.50% to stay, ECB Watch €STR pricing put a hold at 88% on 9 Oct, and Nagel and Zigman signalled a pause, with tightening deferred to the December projections meeting. (c) The NO path is mainly a 25bp hike. It would need renewed US–Iran combat, an oil spike, an upward revision to the 3.8% inflation flash, or hawkish pressure from Schnabel and Nagel to tip a Council that sees inflation risks to the upside and has already hiked twice in a row. A cut is effectively zero given French spread stress. (d) The YES path is that the Council sits out a non-projection meeting, citing tighter market rates and no wage pass-through, and waits for December. The Polymarket anchor is 93% (bid 92, ask 94), slightly above the 88% futures reading. I shade a little toward the futures and keep a small premium for geopolitical tail risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4454",
+   "has_trace": true
+  },
   {
    "id": 3898,
    "scanned_at": "2026-10-04T16:35:35.041323",
@@ -19774,6 +19872,20 @@
   }
  ],
  "Anthropic lab leak by June 30, 2027?": [
+  {
+   "id": 4451,
+   "scanned_at": "2026-10-11T16:34:24.396416",
+   "date": "2026-10-11",
+   "agent": 5,
+   "market_price_t0": 10,
+   "edge": -0.05,
+   "confidence": 0.62,
+   "category": "Health",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.04, 0.04, 0.06, 0.05). (0) The condition has not been met. No credible outlet has reported a confirmed pathogen escape from Anthropic's Bay Area wet lab. The only allegation is a single uncorroborated X post from September 20 about 'living organisms', which falls well short of the 'consensus of credible reporting' bar. The July and October 2026 'escapes' were digital AI sandbox breaches and do not qualify. (a) About 8.5 months remain until the June 30, 2027 deadline. (b) If nothing changes, the market resolves No. Anthropic says the lab runs only at BSL-1/BSL-2, handles no human-infectious pathogens, and has humans do all bench work. Historical confirmed escapes (16 worldwide in 2000–2021) come almost entirely from BSL-3/4 facilities working with dangerous agents. (c) No scenario: the lab keeps doing routine molecular biology, the September rumor stays unverified, and no regulator or press confirms any escape. (d) Yes scenario: a procedural lapse, possibly as AI or robotic automation expands, releases some BSL-2 organism that counts as a 'pathogen'. Anthropic self-discloses it, as it did with the cyber incidents, or a leak gets corroborated by Reuters or TechCrunch. The market sits at 10% and the sibling December 2026 market at about 2.5%. I think the 10% reflects longshot bias, the cost of capital to hold No, and rumor-driven speculation rather than real hazard. Given the low-tier scope and the very high confirmation bar, I shade down to about 4.5%, keeping some weight on the unresolved rumor and on loose interpretation of 'pathogen'.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4451",
+   "has_trace": true
+  },
   {
    "id": 3573,
    "scanned_at": "2026-09-29T19:15:59.529567",
@@ -22029,6 +22141,20 @@
  ],
  "Will Predict.fun launch a token by December 31, 2026?": [
   {
+   "id": 4436,
+   "scanned_at": "2026-10-11T11:46:47.877774",
+   "date": "2026-10-11",
+   "agent": 81.3,
+   "market_price_t0": 83.5,
+   "edge": -0.022499999999999964,
+   "confidence": 0.5700000000000001,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.82, 0.80, 0.82, 0.81). (0) The condition is not met yet. As of the Oct 11 fetch, predict.fun's homepage shows no live or tradable token, and its news feed has no token post. The Oct 6 \"Soon\" teaser is only an announcement, and Aspecta's Oct 9 pre-market trades a token that has not been issued, so neither qualifies. An official token that is publicly transferable and tradable still has to appear.\n(a) About 11.5 weeks remain until the Dec 31, 2026 11:59 PM ET deadline.\n(b) If nothing changes from today, this resolves No.\n(c) No scenario: the team lets the teaser sit while points farming continues, and the TGE slips into Q1 2027. The OpenSea token market collapsing from 97% to 11% on a token that never shipped shows this can happen.\n(d) Yes scenario: the teaser-to-pre-market sequence took only 3 days, which is the classic run-up to a TGE. Backing from YZi Labs and Binance Wallet distribution make a Binance Alpha listing or an on-chain pair plausible in November or December, and either would trigger Aspecta's TGE definition and the resolution criteria.\nI anchor on Polymarket's 83.5%, which is consistent with its own strike ladder: 12% by Oct 31, 67.5% by Nov 30, 88% by Mar 2027. A first-party token teaser, rather than a third-party rumor, typically leads to a launch within one to three months. I shade down slightly because no date, ticker or tokenomics is confirmed, the \"coming weeks\" founder quote is unverified, and it is not settled whether a non-governance-labeled token would count.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4436",
+   "has_trace": true
+  },
+  {
    "id": 3864,
    "scanned_at": "2026-10-04T05:44:02.519865",
    "date": "2026-10-04",
@@ -22984,6 +23110,54 @@
    "pipeline": 2,
    "rationale": "Mean of 3 draws (0.38, 0.41, 0.38). (0) Not resolved: the window's lowest reading is 3,516.62 ft (Sept 15 record low) and the lake read 3,518.97 ft on Oct 9 per water-data.com, with the USBR feed live. Yes needs a daily low below 3,510 ft that never reaches 3,500 ft by Mar 31, 2027. (a) About 5.7 months remain, covering the winter drawdown into Feb/Mar. (b) Status quo: Reclamation's September Most Probable 24-Month Study (6 maf release) bottoms at 3,511.43 ft at end of February 2027. The lake is running about 4 ft above that path (study ~3,515 vs actual ~3,519), and Reclamation says it will adjust releases through April to try to hold 3,510 ft, so the status quo is just above 3,510 and resolves No. (c) No: reduced releases plus Flaming Gorge drought-response water keep the trough at 3,511-3,515 ft; falling below 3,500 is very unlikely (sibling markets ~1.4%). (d) Yes: drier winter base flows or a move toward 7 maf releases push the trough a few feet under the central path into 3,503-3,509 ft, needing only a ~2 ft miss on a forecast that has swung tens of feet this year. The market's sharp +27-point week may reflect unseen news such as a new study or release decision, which tempers my departure from 44.5%. But the central forecast, current outperformance and Reclamation's explicit 3,510 ft management target lean toward staying above, so I shade Yes to 0.38.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/4384",
+   "has_trace": true
+  }
+ ],
+ "Claude 6 released by March 31, 2027?": [
+  {
+   "id": 4456,
+   "scanned_at": "2026-10-11T18:17:09.715000",
+   "date": "2026-10-11",
+   "agent": 34,
+   "market_price_t0": 37.5,
+   "edge": -0.03500000000000003,
+   "confidence": 0.49,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.33, 0.33, 0.33, 0.37). (0) The condition is not met. Anthropic's newsroom and models overview as of Oct 11, 2026 show the lineup at Fable 5.1, Opus 5.5, Sonnet 5.5 and Haiku 5.5, with nothing numbered 6. (a) About 5.7 months remain until the March 31, 2027 deadline. (b) Status quo is No: the 5.5 family finished rolling out only on Oct 7, and Anthropic's habit is several decimal bumps per generation (4.x reached 4.8), so the next release could well be 5.6 or 5.7. The base rate for major-version gaps is about 12–14 months; 4→5 took about 12.5 months, landing June 2026. That points to a Claude 6 around mid-2027, consistent with the sibling markets (72.5% by June 30, 92.5% by Dec 2027) and the Release Oracle median of mid-April 2027. (c) No scenario: Anthropic ships Opus/Fable 5.6 or 5.7 through Q1 2027, holding the integer per Amodei's 'Pace the Frontier' essay, while new TPU compute comes online only in 2027. A 6-class model might also launch gated, Mythos-style, which would not qualify. (d) Yes scenario: the unverified 'Claude Next' internal build, IPO incentives and OpenAI's GPT-6 branding push Anthropic to badge a Q1 2027 flagship as Claude Opus/Fable 6 with general availability. I anchor on Polymarket's 37.5%, which has been drifting down. The decimal-naming discipline, the pacing essay and the government-suspension precedent nudge me slightly lower. Manifold's 56% (play money, thin) and the 46% interpolated curve argue against going much lower.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4456",
+   "has_trace": true
+  }
+ ],
+ "Will Elon Musk post 1000+ tweets in October 2026?": [
+  {
+   "id": 4449,
+   "scanned_at": "2026-10-11T15:45:49.688558",
+   "date": "2026-10-11",
+   "agent": 83.8,
+   "market_price_t0": 86,
+   "edge": -0.022499999999999964,
+   "confidence": 0.685,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.84, 0.84, 0.84, 0.83). (0) Not yet resolved. The XTracker API, which is the named resolution source, showed 459 posts as of Oct 11 15:40 UTC with about 35% of the month elapsed, and its own projection is 1294. (a) About 20.5 days remain until Oct 31 (EST). Musk needs about 541 more posts, roughly 26-27 per day. (b) Status quo: August (880-919, about 29/day) and September (840-879, about 28/day) both ran at or slightly above the needed pace, and October so far is running about 43/day. The Oct 13-20 weekly market centers around 230 (about 33/day); hitting that would leave only about 22/day needed afterward. The Oct 21 Tesla earnings call and possible Starship flights (NET Oct 19 and Oct 30) are upside catalysts. (c) NO: a prolonged lull like the bursty 13-30/day stretches seen in Aug-Sep drags the remaining-month average below 26/day, leaving the total around 950-990. A tracker discrepancy near the line is a minor added risk. (d) YES: even a reversion to the recent ~28/day baseline yields about 1030+, and any news-driven spike pushes the total comfortably past 1000. The market at 86% (bid 85, ask 87) is consistent with my estimate of roughly 80-85%. I shade slightly below the market for burstiness risk, since only about 1-2/day of cushion separates the needed pace from the Aug-Sep baseline.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4449",
+   "has_trace": true
+  }
+ ],
+ "US x Yemen ceasefire continues through October 31?": [
+  {
+   "id": 4444,
+   "scanned_at": "2026-10-11T14:12:37.969132",
+   "date": "2026-10-11",
+   "agent": 78.8,
+   "market_price_t0": 77.5,
+   "edge": 0.012500000000000067,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 4 draws (0.79, 0.79, 0.78, 0.79). (0) No source shows the condition met: CENTCOM releases and credible reporting as of Oct 11 show no US air or missile strike on Yemeni territory, only maritime actions, which the rules exclude. (a) About 20 days remain until the Oct 31, 23:59 YST deadline. (b) Status quo is Yes: the May 2025 US-Houthi ceasefire has held for about 17 months, through Yemen's slide back into full-scale war and Houthi attacks on Saudi Arabia. (c) NO: after the Oct 10 Riyadh airport strike killed 12 including an American, Trump said 'We may... we move very quickly' and could authorize the CENTCOM strike package prepared in September to join Saudi strikes. (d) YES: Trump repeats his September restraint (declining MBS twice and a ready strike package), citing his pre-midterm no-new-strikes posture, an AP-NORC poll showing 69% say the Iran war wasn't worth it, Houthi back-channel assurances in Muscat, and Saudi forces handling retaliation themselves. Anchor is Polymarket Yes at 77.5%; the Oct 15 market at 91.5% puts most remaining risk later in the window. The research adds no unpriced decisive fact, so I stay near the anchor, nudged slightly up for the midterm restraint evidence.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4444",
    "has_trace": true
   }
  ]

@@ -5009,6 +5009,20 @@
  ],
  "Will Kuomintang (KMT) win the most head of local government elections in the 2026 Taiwan local elections?": [
   {
+   "id": 4577,
+   "scanned_at": "2026-10-13T04:37:48.789411",
+   "date": "2026-10-13",
+   "agent": 84,
+   "market_price_t0": 81.5,
+   "edge": 0.025000000000000022,
+   "confidence": 0.61,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.84, 0.84). (0) Not resolved: the vote is 2026-11-28 and the CEC has no results. (a) About six weeks remain, with certification by 12-04. (b) Status quo: the KMT holds 14-16 of 22 seats versus the DPP's 5. Every seat-count projection found (Templeman ~12-7, TPOC 14-7, a YouTuber 13-8) keeps the KMT ahead. (c) NO: the KMT has no official nominee in Hsinchu City, Chiayi County or Chiayi City (TPP registrant). The DPP would have to sweep its south plus Penghu, Yilan, Changhua and Chiayi City (8), win both New Taipei (Su leads some polls) and Taichung (narrowing per a DPP-friendly poll), and add one more upset (Keelung, Hsinchu County or Taipei) to reach a tie, which likely goes to the DPP alphabetically. That is a 2014-style wave no source forecasts, though precedent exists. (d) YES: the KMT holds Taipei, Taoyuan, Taichung and its rural and offshore leans, giving it 11+ seats while the DPP tops out around 8-9. The market is at 81.5% after a 9-point slide in 30 days, plausibly on Taipei and New Taipei tightening. The seat arithmetic still demands several correlated KMT losses, so I go slightly above the market, hedging for momentum and the tie-break.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4577",
+   "has_trace": true
+  },
+  {
    "id": 4011,
    "scanned_at": "2026-10-06T03:22:18.739239",
    "date": "2026-10-06",
@@ -5750,6 +5764,20 @@
   }
  ],
  "Will the upper bound of the target federal funds rate be ≥ 4.5% at the end of 2026?": [
+  {
+   "id": 4583,
+   "scanned_at": "2026-10-13T06:11:50.217548",
+   "date": "2026-10-13",
+   "agent": 13.5,
+   "market_price_t0": 15.5,
+   "edge": -0.01999999999999999,
+   "confidence": 0.61,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.14). (0) The question is not resolved. FRED DFEDTARU and the Fed's Sept 16 implementation note both show the upper bound at 4.00% (range 3.75–4.00%) after the September 25bp hike. Reaching ≥4.5% therefore needs 50bp more across the Oct 27–28 and Dec 8–9 meetings.\n(a) About 8 weeks remain. There are two FOMC decisions, and the market resolves on the range set after Dec 9.\n(b) If nothing changes, the bound stays at 4.00%, which resolves No. The modal expected path is a hold in October (about 78–84% in FedWatch and prediction markets) followed by a December hike (about 65–88%). That ends at 4.25%, which is also No. The September dot median (4.00–4.25%), the minutes ('another increase'), and futures (about 4.12–4.20% at year-end) all point to one hike.\n(c) NO path: Sept CPI comes in at consensus (core +0.2%), payrolls stay soft after the +29k September print, and the Fed holds in October. December then delivers one hike to 4.25%, or none.\n(d) YES path: the Oct 14 CPI runs hot (core ≥0.3%) and the hawks (Hammack, Logan, Kashkari) prevail with Warsh's acquiescence, giving an October hike. December then follows with oil above $100. The YES path is October hike odds of about 20%, times roughly 55–60% for a December follow-up, plus a small chance of a 50bp move in December. That comes to about 12–14%.\nWaller and Jefferson have explicitly downplayed consecutive hikes, and mainstream forecasters place the second hike in 1Q27. I therefore sit slightly below the 15.5% Polymarket mid, within its 13/18 spread. The imminent CPI print is the main swing factor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4583",
+   "has_trace": true
+  },
   {
    "id": 3848,
    "scanned_at": "2026-10-04T00:55:12.373666",
@@ -8645,6 +8673,20 @@
  ],
  "US recession by end of 2026?": [
   {
+   "id": 4565,
+   "scanned_at": "2026-10-13T02:19:36.483856",
+   "date": "2026-10-13",
+   "agent": 3.5,
+   "market_price_t0": 7.5,
+   "edge": -0.039999999999999994,
+   "confidence": 0.8,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.03). (0) The condition is not met yet. BEA and FRED show every quarter from Q2 2025 through Q2 2026 positive (+4.0, +3.9, +0.2, +2.5, +2.2), and NBER still lists February 2020 as its latest peak. Because Q2 2026 is positive, the GDP route now needs both Q3 and Q4 2026 to print negative. Revising Q4 2025 (+0.2) below zero would not help, since Q1 2026 at +2.5 breaks any pair.\n(a) About 3.5 months remain. The Q3 advance estimate comes Oct 29, 2026 and the Q4 advance estimate Jan 28, 2027, which is the resolution point.\n(b) If nothing changes, the market resolves No.\n(c) The likely No path: Q3 prints near the GDPNow nowcast of +3.6%, consistent with ISM manufacturing at 54.5 and services at 54.9 and jobless claims near 198k. Q4 stays positive and NBER makes no call.\n(d) The Yes path: a trade or inventory swing makes Q3 negative, against the Philly Fed SPF's 13% chance of a negative Q3 (an older reading taken before the nowcasts firmed up). Then an inventory reversal, an oil-volume shock or a shutdown distortion turns Q4 negative as well. A second route is a historically unprecedented early NBER call. Each step is a tail event, and together they are roughly 2–4%.\nThe Polymarket anchor is 7.5%, and Kalshi was reported near 3.5% for a GDP-only version. I shade below Polymarket because its price likely carries longshot bias given how little room remains for a Yes. I keep some weight for weak payrolls (+29k in September) and hot inflation.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4565",
+   "has_trace": true
+  },
+  {
    "id": 3826,
    "scanned_at": "2026-10-03T17:18:45.516246",
    "date": "2026-10-03",
@@ -8992,6 +9034,20 @@
   }
  ],
  "Will the Democrats win the Wisconsin governor race in 2026?": [
+  {
+   "id": 4569,
+   "scanned_at": "2026-10-13T03:04:44.184455",
+   "date": "2026-10-13",
+   "agent": 76.5,
+   "market_price_t0": 80.5,
+   "edge": -0.040000000000000036,
+   "confidence": 0.55,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.77, 0.76). (0) The race has not been decided. Election day is Nov 3, 2026. AP, Fox and NBC have made no call. Democrat Crowley and Republican Tiffany are the nominees.\n(a) Three weeks remain. The Oct 21 WISN debate is the last major scheduled event, and early in-person voting starts Oct 20. A late call would still resolve by certification, so the timing does not bias the outcome.\n(b) If nothing changes, Crowley wins. He leads about +3 in the FiftyPlusOne average and 49–46 among likely voters in Marquette's poll. Every public poll since March shows him ahead or tied, including a GOP-aligned Badger Battleground poll (+4). The midterm environment favors Democrats, with Trump approval in Wisconsin at 38/60.\n(c) NO: Tiffany's 2.5-to-1 spending edge keeps driving Crowley's net favorability down; it has already fallen from +4 to -13. The 38% of independents who are undecided break toward Tiffany, and weak Milwaukee and Madison absentee turnout (requests down 18–29%) plus a typical Wisconsin polling miss produce a 1-point Republican win.\n(d) YES: independents break against the Trump-aligned nominee, Democrats win on turnout as in April's Supreme Court race, and Crowley wins by 2–4 points.\nOn the anchor, Polymarket is at 80.5% and Kalshi at about 81%. The models are less bullish: Smarter.vote has 72%, Pollsmax 55%, and Cook and Inside Elections still rate it a Toss-up. Sabato, DDHQ and Silver have it Lean D. A 3-point lead with typical state polling error implies roughly 75–80% even with the favorable environment. I therefore shade slightly below the market, to 0.77.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4569",
+   "has_trace": true
+  },
   {
    "id": 4000,
    "scanned_at": "2026-10-06T00:10:33.255018",
@@ -11054,6 +11110,20 @@
   }
  ],
  "Will the Democrats win the South Carolina Senate race in 2026?": [
+  {
+   "id": 4593,
+   "scanned_at": "2026-10-13T09:20:19.434559",
+   "date": "2026-10-13",
+   "agent": 17.5,
+   "market_price_t0": 15.5,
+   "edge": 0.01999999999999999,
+   "confidence": 0.6,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.18, 0.17). (0) Nothing is resolved. The election is November 3, 2026, and AP, Fox and NBC have made no call; the resolution-source read confirms this. (a) About three weeks remain, with early voting running October 19–31. (b) The status quo favours Republican appointee Darline Graham. She has led or tied in every poll since late August: RCP has her up 2, Rasmussen up 4, InsiderAdvantage and Trafalgar up 1. Cook and Sabato both rate the race Likely R, Trump won the state by 18, and Democrats have not won a Senate race there since 1998. (c) NO scenario: undecided voters break Republican, SLF's $5M plus Trump and Thune visits consolidate the base, and the 2020 pattern repeats. That year Harrison polled close with record money and lost by 10. (d) YES scenario: a national blue wave (Polymarket gives Democrats 63.5% for Senate control and 90.5% for the House) plus a cash-poor Graham and Norman-aligned Republicans abstaining or writing him in. Andrews would also need to carry independents and moderates, as the Rasmussen crosstabs show she is doing. The polls showing Graham narrowly ahead all come from R-leaning firms, and the DDHQ model gives Andrews 26%, both of which argue slightly above market. Against that, the 2020 polling miss and the structural Republican edge justify the market's discount. I anchor on Polymarket's 15.5% and the matching Kalshi price of about 15%, and nudge up slightly for the wave environment and the R-leaning polling sources.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4593",
+   "has_trace": true
+  },
   {
    "id": 3985,
    "scanned_at": "2026-10-05T19:52:10.457717",
@@ -14253,6 +14323,20 @@
  ],
  "Will a new country join the Abraham Accords before 2027?": [
   {
+   "id": 4563,
+   "scanned_at": "2026-10-13T01:35:56.671139",
+   "date": "2026-10-13",
+   "agent": 12,
+   "market_price_t0": 12.7,
+   "edge": -0.006500000000000006,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.12). (0) Resolution check: no source shows a qualifying signing since June 26, 2025. Wikipedia, CBS and JPost all describe Kazakhstan's accession as announced or pending, with no ceremony held, and Somaliland has only pledged to join. The market opened Nov 5, 2025 and did not resolve on the Kazakhstan announcement the next day, which suggests an announcement alone does not count. (a) About 11 weeks remain, to Dec 31, 2026. (b) Status quo is No: nothing is scheduled. Trump's \"soon\" Kazakhstan ceremony has lapsed for 11 months, and Israel's Oct 27 election and coalition formation add friction. (c) No scenario: Kazakhstan's ceremony slips into 2027 or never happens. Kuwait's \"4-6 months\" (one hedged ambassador remark, unconfirmed by Kuwait) lands in 2027 or not at all. Syria and Lebanon stay on security or framework tracks not labelled Abraham Accords. (d) Yes scenario: Tokayev attends the Dec 14-15 G20 in Miami, Trump stages the promised Kazakhstan signing there or at the White House, and the resolver counts it as Kazakhstan has not been excluded. A surprise emir-driven Kuwait signing is a smaller tail. Even a Kazakhstan ceremony carries resolution risk, because Kazakhstan has had ties with Israel since 1992 and some sources already list it as a signatory. I anchor on the 12.65% market price and see no unpriced information strong enough to move it much, so 12%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4563",
+   "has_trace": true
+  },
+  {
    "id": 1661,
    "scanned_at": "2026-08-22T17:06:47.241141",
    "date": "2026-08-22",
@@ -17020,7 +17104,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-12T22:29:44.465Z",
+  "last_sync": "2026-10-13T10:34:53.815Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -18346,6 +18430,20 @@
   }
  ],
  "Will the Houthis enter Saudi Arabia by October 31?": [
+  {
+   "id": 4586,
+   "scanned_at": "2026-10-13T06:55:09.944998",
+   "date": "2026-10-13",
+   "agent": 10.5,
+   "market_price_t0": 12.5,
+   "edge": -0.01999999999999999,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.10). (0) The condition is not met. Al Jazeera, CNN, CFR and Wikipedia, read through Oct 12–13, describe only Houthi missile and drone strikes on Saudi airports and Aramco sites. The rules exclude bombardment, and no source reports Houthi ground forces on Saudi soil. (a) About 18 days remain until Oct 31, 11:59 PM ET, plus a possible 3-day ambiguity window. (b) If nothing changes, this resolves No: three months of renewed war since July have produced no confirmed crossing. (c) No path: the Houthis keep relying on missiles, drones and the Red Sea and western-coast fronts while coalition air strikes on Saada deter massing forces. Any border clash stays on the Yemeni side or is only a Houthi-media claim that credible outlets do not establish. (d) Yes path: the Saada build-up toward Kataf/Al-Buqaa and Alab, reported Oct 1 by a single Yemeni-government source, turns into a raid on a Najran or Jizan border post, as in 2015. Saudi or major outlets then confirm fighters crossed; under the 'even temporarily' wording even a repelled raid could count. The 2015–2018 base rate for raids during full Saudi–Houthi war is real, and the border may be thinly held, but the 2021–22 and 2026 phases have been air campaigns. The mobilisation evidence is unconfirmed. The market sits at 12.5%, flat over 7 days, and the end-2026 sibling at about 27% implies traders expect any entry later. With time running down and no new trigger, I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4586",
+   "has_trace": true
+  },
   {
    "id": 4019,
    "scanned_at": "2026-10-06T05:44:47.189931",
@@ -20861,6 +20959,20 @@
  ],
  "Will Russia capture all of Bilytske by December 31?": [
   {
+   "id": 4559,
+   "scanned_at": "2026-10-13T00:51:12.725755",
+   "date": "2026-10-13",
+   "agent": 57.5,
+   "market_price_t0": 62.5,
+   "edge": -0.050000000000000044,
+   "confidence": 0.42,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.58, 0.57). (0) Not met: the ISW map shading was unreadable, and Oct 7-13 reports (DeepState, Mashovets, Ukrainian General Staff) describe Bilytske as contested, with Ukraine holding 'a few positions'; Russia's July 23 'liberation' claim is unconfirmed by ISW or DeepState. (a) About 11 weeks remain until Dec 31, and the whole municipality must be under qualifying ISW shading that persists through the next update. (b) The status quo is No, but the trend favours Russia: DeepState advance marks every one to three weeks, flanking north and south, a residual Ukrainian pocket, and evidence that open maps lag reality (September gains revised from 66 to 154 km²). (c) NO: Ukraine holds remaining positions through winter, Russia diverts effort to enveloping Dobropillia or to the Lyman counteroffensive, leaf-fall hampers infiltration, and ISW keeps some blocks unshaded or infiltration-only. (d) YES: the flanked pocket is cleared or abandoned, geolocated footage appears, and ISW shades the whole town. The market sits at 62.5%, up 14.5 points in 30 days, and traders likely see the map directly; the looser sibling market at 79.5% is context only. I shade slightly below the market because of ISW conservatism, the all-or-nothing criterion, and months of near-capture without a fall.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4559",
+   "has_trace": true
+  },
+  {
    "id": 3995,
    "scanned_at": "2026-10-05T22:27:00.472712",
    "date": "2026-10-05",
@@ -21040,6 +21152,20 @@
   }
  ],
  "Will Likud win 30-34 seats in the 2026 Israeli legislative election?": [
+  {
+   "id": 4596,
+   "scanned_at": "2026-10-13T10:09:30.306919",
+   "date": "2026-10-13",
+   "agent": 9,
+   "market_price_t0": 10.5,
+   "edge": -0.015,
+   "confidence": 0.61,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.08). (0) The condition is not met yet. The election is on 27 Oct 2026, the Central Elections Committee has published no results, and Likud is running on its own list, so no joint-list seats will be added. (a) There are about 14 days until the vote, and the poll blackout starts 23 Oct, so little new data will come before results. (b) If the current picture holds, the answer is NO: mainstream polls (Channels 12 and 13, Kan, Maariv, Israel Hayom) put Likud at 20–21, the cross-outlet averages are about 21–23, and even the Likud-friendliest pollsters are below 30 (Channel 14 at 29 on 12 Oct, falling from 32; i24/Direct Polls at 26). (c) NO scenario: the mainstream pollsters are roughly right, Likud lands at 19–26, and the Winter party either takes Likud votes or wastes them just below the threshold. (d) YES scenario: the Channel 14/i24 family proves more accurate than the mainstream. Add strong stronghold turnout (Likud claims 2–3 seats), Winter's voters returning to Likud, and late consolidation among the 24% of coalition-side voters who are undecided, and Likud ends at 30–31. There is a real precedent the research missed: in 2015 the final polls had Likud at about 21–22 and it won 30. Likud has also tended to beat mainstream polls since. The market's 10.5% (bid 9%, ask 12%) fits a ladder where the 25–29 bracket is priced at 26.5% and 35+ at 2.4%. With the two pollster families about 8 seats apart and recent momentum downward, I see no strong reason to move off the anchor. I shade it slightly to 10%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4596",
+   "has_trace": true
+  },
   {
    "id": 3928,
    "scanned_at": "2026-10-05T02:30:15.015419",
@@ -22164,6 +22290,20 @@
   }
  ],
  "Will Anthropic have the best AI model on LiveBench (Mathematics) at the end of October 2026?": [
+  {
+   "id": 4556,
+   "scanned_at": "2026-10-13T00:05:35.389196",
+   "date": "2026-10-13",
+   "agent": 78.5,
+   "market_price_t0": 74.5,
+   "edge": 0.040000000000000036,
+   "confidence": 0.62,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.79, 0.78). (0) Not yet resolved, but the latest LiveBench release (2026-06-25), rendered 12 Oct, shows Claude 5.5 Opus Max first on Mathematics at 97.1 and Fable 5.1 second at 97.0, ahead of OpenAI's 96.8; three aggregators agree. (a) About 18 days remain to the 31 Oct noon ET check. (b) Status quo is YES, and with a six-month refresh cadence a full re-release before 31 Oct is unlikely. (c) NO needs a rival added above 97.1 (Gemini 4 Argon if its API opens, an unannounced OpenAI model, Muse Wonder Full) or an off-cycle re-score; the 0.3-point margin is small at ceiling, and an exact tie favours cheaper OpenAI models. (d) YES needs a quiet window or new entrants landing at or below 97.1; the main named catalysts are weak (GPT-6.1 Astra cancelled, Argon gated with no API, Wonder Full has no API). Anchoring on the 74.5% market, I nudge up slightly because the research confirms the main threats are blocked.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4556",
+   "has_trace": true
+  },
   {
    "id": 3650,
    "scanned_at": "2026-10-01T22:31:14.564949",
@@ -23646,6 +23786,86 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.90, 0.90). (0) Not yet resolved. CompaniesMarketCap on Oct 12 shows NVIDIA #1 at $5.469T against Apple at $4.954T, a lead of about 10%; other trackers agree. (a) About 14 trading days remain until the Oct 30 close, since Oct 31 is a Saturday. (b) Status quo is Yes. Apple reports Nov 2, after the deadline. Alphabet (reports Oct 28) and Microsoft trail by more than $1.2T. (c) NO needs NVDA to fall another 7-10% relative to Apple as the AI-financing and macro selloff deepens (yields 5.36%, oil above $106, OpenAI shortfall worries). NVDA is already about 6% off its Oct 6 record. (d) YES needs only that no 10% relative swing happens, which has not occurred on a closing basis since July, when the gap was about 3%. A relative-volatility estimate puts NO at roughly 9-14%. I shade slightly below the 92.5% market for fat tails, current momentum and resolution-wording ambiguity.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/4537",
+   "has_trace": true
+  }
+ ],
+ "Will oil be below $85 on November 2 and the Democrats win the Senate?": [
+  {
+   "id": 4591,
+   "scanned_at": "2026-10-13T08:30:26.314144",
+   "date": "2026-10-13",
+   "agent": 13.3,
+   "market_price_t0": 13.4,
+   "edge": -0.0010000000000000009,
+   "confidence": 0.575,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.14). (0) Neither leg has been decided. Pyth shows CLLZ6, the December contract that will be the Active Month on Nov 2, at about $91.53 on Oct 13, roughly $6.50 above the strike. The Senate election is Nov 3. (a) There are about 14 trading days until the Nov 2 close, and the election is one day later. (b) If nothing changes, oil stays at or above $85 and the market resolves NO whatever happens in the Senate. (c) NO: Hormuz tanker attacks continue, analysts stay bullish (BMI, Energy Aspects) and no Iran deal arrives, so December WTI stays in the high $80s to low $90s; or Republicans hold a 50–50 Senate through VP Vance. (d) YES: a US–Iran Hormuz deal or a credible de-escalation headline, plus the G7 stock release, pushes December WTI down about 7% to under $85, and Democrats still win the net +4 seats they need. Polymarket and Kalshi price that at about 62–64%, and the models range from 56% to 75%. In the high-volatility 2026 regime (monthly moves of 15–20%), a 7% drop in three weeks is roughly a 20–25% event. Multiplying by about 63% for a Democratic Senate gives about 14%. I shade that down slightly for the negative correlation: Democratic strength is tied to the war and high gas prices, so de-escalation could narrow their lead. The result is about 12.5%, essentially in line with the 13.35% market anchor and the sibling contracts (sub-$85 at about 21%, Democrats at about 65%).",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4591",
+   "has_trace": true
+  }
+ ],
+ "Will there be a Hormuz agreement and the Democrats win the Senate?": [
+  {
+   "id": 4589,
+   "scanned_at": "2026-10-13T07:45:55.029085",
+   "date": "2026-10-13",
+   "agent": 8,
+   "market_price_t0": 9.7,
+   "edge": -0.0165,
+   "confidence": 0.6,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.08). (0) Nothing has resolved. As of Oct 12–13 no US–Iran Hormuz agreement has been announced. The June 17 MOU predates this market, which opened Oct 11, and sibling Hormuz-deal markets still trade around 12–14%, so the MOU evidently does not count. The Senate leg cannot be decided until after Nov 3. (a) About 20 days remain for the Hormuz leg (deadline Nov 2, 11:59 PM ET), and the Senate result follows the Nov 3 election. (b) Status quo is NO: the strait is effectively closed, attacks on shipping are escalating, the US blockade continues, and Iran calls the US reply 'insufficient' and demands all seven conditions first. (c) NO scenario: stalemate persists because both sides believe waiting improves their terms. Trump signals a deal could come after the midterms, and any partial arrangement is framed as Iran–Oman or hedged, so it fails the acceptance test. (d) YES scenario: Iran's pending reply narrows the gap, and Qatar or Pakistan brokers a Hormuz-only blockade-for-reopening text that both sides announce before Nov 2. Trump wants it for oil prices and has pledged no strikes before Nov 3. Democrats then win the Senate, which markets price at about 63%. On the anchor, the Hormuz-by-Nov-2 markets sit at about 13–14%, and multiplying by 0.635 gives about 8.5%. A pre-election deal might slightly help Republicans, which adds a small negative correlation. The research also shows repeated failed 'imminent deal' episodes. I therefore shade slightly below the 9.65% market price, to about 8%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4589",
+   "has_trace": true
+  }
+ ],
+ "Will there be 20 to 34 West Nile neuroinvasive disease cases among NYC residents in 2026?": [
+  {
+   "id": 4580,
+   "scanned_at": "2026-10-13T05:24:10.270821",
+   "date": "2026-10-13",
+   "agent": 21.5,
+   "market_price_t0": 19.9,
+   "edge": 0.016499999999999987,
+   "confidence": 0.46499999999999997,
+   "category": "Health",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.21, 0.22). (0) The resolution page fetched Oct 13 shows 31 WNND cases among NYC residents for 2026, inside 20-34 but only 3 below the cap; not resolved, since the count remains live through Jan 1, 2027 and possible revisions to Mar 31, 2027. (a) About 2.5 months until the starting figure, plus up to 3 months of revisions. (b) Status quo: a freeze at 31-34 resolves Yes; falling below 20 is not realistic. (c) No: the count rose 18->24->31 since mid-September; reporting lag, a record mosquito year (1,772 pools) and catch-up reports add 4+ cases by January, as in 2021 and 2022 when late-season growth was large. (d) Yes: the September jump was a peak-season confirmation backlog, October onsets are rare, and the fever count stayed at 6, suggesting a finite reclassification pool that ends at 31-34. Market anchor is 14% (bid 9/ask 20), with siblings 35-49 at 55.5% and 50+ at 21%, implying traders expect substantial growth. The page has no as-of date, so 31 may be weeks old; my estimate of 3 or fewer net additions is ~25-30%, shaded toward the market because traders may be tracking more frequent updates.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4580",
+   "has_trace": true
+  }
+ ],
+ "Will oil be below $80 on November 2 and the Democrats win the Senate?": [
+  {
+   "id": 4572,
+   "scanned_at": "2026-10-13T03:53:35.047987",
+   "date": "2026-10-13",
+   "agent": 7.3,
+   "market_price_t0": 8.6,
+   "edge": -0.012499999999999997,
+   "confidence": 0.565,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Not resolved: Pyth CLL shows the Dec26 contract (Active Month on Nov 2) at ~$91.72 on Oct 13, and the Senate election is Nov 3 with Democrats ~62-64% in markets, 56-75% in models. (a) ~14 trading days to the Nov 2 oil close. (b) Status quo of oil ~$90+ resolves NO. (c) NO: tanker attacks continue, diplomacy reportedly frozen until after the midterms, EIA sees elevated 4Q prices, so WTI holds in the high $80s-$90s; or Democrats miss the net +4 seats. (d) YES: a US-Iran interim deal or Hormuz reopening triggers an April/June-style 13-16% collapse below $80, and Democrats sweep the OH/ME/TX/IA toss-ups. A volatility-based estimate with jump risk gives ~12-17% for oil below $80, shaded down for current escalation and the reported pause in talks. Multiplied by ~0.55-0.6 for a Democratic Senate given lower oil (mild negative correlation), that yields ~7-8%. This sits slightly below the 8.6% market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4572",
+   "has_trace": true
+  }
+ ],
+ "Will no one leave the Trump Cabinet before 2027?": [
+  {
+   "id": 4554,
+   "scanned_at": "2026-10-12T23:09:19.896171",
+   "date": "2026-10-12",
+   "agent": 50,
+   "market_price_t0": 56.7,
+   "edge": -0.06699999999999995,
+   "confidence": 0.475,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.50, 0.50). (0) No source shows a qualifying Cabinet departure announced after the 2026-05-22 market open (Gabbard was announced that day). Brookings (updated Sep 30) and the Wikipedia cabinet page list none since, and Leavitt and Patel are not listed posts. (a) About 11.5 weeks remain, including roughly 8 weeks after the Nov 3 midterms. (b) Status quo is 'None before 2027': 143 days with no exit, Trump publicly backing Hegseth and Lutnick, senators calling pre-election changes too disruptive, and zero turnover in all of 2025. (c) The 'someone leaves' path is a post-midterm shake-up after bad results, as in 2018 when Sessions, Zinke, Mattis and Kelly went within weeks. Hegseth alone is 18% to be out by Dec 31 on a high-volume Polymarket market, and about 25 covered posts allow health, scandal or other exits. (d) The 'no one leaves' path is Trump's reluctance to fire under pressure, the spring replacements already installed, and a quiet lame-duck period. Polymarket's anchor is 56.8%, while Kalshi's equivalent 'before Jan 2027' market implies only about 32-36% for no exit. Base rates plus the post-midterm risk window put me around 50%, slightly below Polymarket.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4554",
    "has_trace": true
   }
  ]

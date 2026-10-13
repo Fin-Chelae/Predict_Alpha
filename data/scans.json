@@ -17104,7 +17104,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-13T10:34:53.815Z",
+  "last_sync": "2026-10-13T20:40:42.305Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -19751,6 +19751,20 @@
  ],
  "US x Iran ceasefire continues through October 31?": [
   {
+   "id": 4614,
+   "scanned_at": "2026-10-13T15:54:35.232518",
+   "date": "2026-10-13",
+   "agent": 80.5,
+   "market_price_t0": 80.5,
+   "edge": 0,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.80, 0.81). (0) No source reports a qualifying US strike on Iranian land in October. CTP-ISW's Oct 12 update and GlobalSecurity's Oct 8–10 snippets both show none, and the Oct 12 US strike was on a ship at sea, which the rules exclude. So the market is unresolved and still live. (a) About 18 days remain, to 11:59 PM Iran time on Oct 31. (b) If nothing changes, this resolves Yes: Trump's Oct 8 Truth Social pledge not to attack Iran before the Nov 3 midterms covers the whole window, and the US has been applying pressure through the blockade and sanctions rather than land strikes. The last confirmed land strike was around Sept 1, roughly six weeks ago. (c) The No path runs through the Hormuz exchanges. A tanker or US-forces incident, or a Houthi attack that kills Americans, could prompt a 'self-defense' strike on a coastal radar or launch site. Alternatively, the pre-Nov 3 strike options reported by The Atlantic, Axios and the NYT could be used despite the pledge, and Trump has said he expects to win 'maybe before' the election. A single munition landing on Iranian soil is enough to resolve No. (d) The Yes path is that the pledge holds, Qatari-mediated messaging continues, US attention shifts to Yemen, and Iranian action stays aimed at merchant ships. The market sits at 80.5% and has risen 10 points in a week after the pledge. The sibling Israel–Iran contract for the same date is at 85.5%. The post-ceasefire base rate of US land strikes every few weeks argues for meaningful tail risk, but the explicit pledge offsets much of it, so I stay close to the market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4614",
+   "has_trace": true
+  },
+  {
    "id": 3147,
    "scanned_at": "2026-09-18T20:57:38.182851",
    "date": "2026-09-18",
@@ -19828,6 +19842,20 @@
   }
  ],
  "Will Anthropic have the best AI Agent at the end of October 2026?": [
+  {
+   "id": 4623,
+   "scanned_at": "2026-10-13T19:04:37.512227",
+   "date": "2026-10-13",
+   "agent": 85.5,
+   "market_price_t0": 91.5,
+   "edge": -0.06000000000000005,
+   "confidence": 0.61,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.86, 0.85). (0) Not resolved; the check is Oct 31, 2026 12:00 PM ET. The live Agent Arena Models table on Oct 13 shows Claude Opus 5.5 (Max) at #1 (16.77% ±3.70, 5,929 sessions), GPT 6.1 Sol (Max) at #2 (15.31% ±2.20), Claude Fable 5.1 (Max) at #3 and Gemini 4 Argon at #5, with no AutoEval tags visible on top rows. (a) About 18 days remain until a single snapshot. (b) Status quo is YES: Anthropic has held #1 on nearly every snapshot since about June 10, holds 7 of the top 13 slots as hedges, and Arena's Bash Reliability change gives Claude a structural edge (Sol scores ~2.6% on it). (c) NO: Opus 5.5's thin sample mean-reverts while Sol (double the sessions, cheaper) keeps rising; the gap reportedly narrowed from ~4.1 to ~1.5 points (possibly different views). Another methodology reweighting, a new OpenAI or Google release, or a stronger Gemini 4 rollout could also flip the point-estimate #1 at the check instant. (d) YES: the board stays roughly as is, no rival flagship is confirmed before Oct 31, and Opus 5.5 or Fable 5.1 stays on top. The market sits at 91.5% after an 8-point weekly rise; I shade down slightly to ~0.86 given the 1.5-point lead inside overlapping 1–6 rank ranges, recent movement favoring Sol, and week-to-week board volatility.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4623",
+   "has_trace": true
+  },
   {
    "id": 4055,
    "scanned_at": "2026-10-06T16:48:30.491287",
@@ -21567,6 +21595,20 @@
  ],
  "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?": [
   {
+   "id": 4603,
+   "scanned_at": "2026-10-13T12:36:23.784907",
+   "date": "2026-10-13",
+   "agent": 29.5,
+   "market_price_t0": 32.5,
+   "edge": -0.030000000000000027,
+   "confidence": 0.5,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.30, 0.29). (0) Nothing is resolved: the upper bound is 4.00% after the September 16, 2026 hike (FRED DFEDTARU, Fed open-market page), and the outcome turns on the January 26–27, 2027 statement. (a) About 3.5 months remain, with the October 28 and December 9 meetings first; they set January's starting level. The anchor is Polymarket at 32.5%, with Kalshi's same question at about 33% (stale snippet) and Robinhood at about 21%. (b) The status quo is no change in January, which is the plurality at 55–65% across venues. Combining the CME December distribution (16.5% no hike by then, 68% one hike, 15.5% two) with conditional January hike odds of about 55%, 25% and 20% gives roughly 29%, slightly below the market. That reflects Waller's 'need not come at consecutive meetings', Williams and Jefferson's 'no need for urgency', and a September dot median of 4.1% implying one more hike, likely in December. (c) NO path: hold in October, hike in December, then a January pause with March next, on soft payrolls and benign core CPI. (d) YES path: December is skipped for the midterms or soft data and January becomes the catch-up meeting, or hot core PCE (about 3%) and hawks like Warsh and Hammack produce back-to-back December and January hikes. September CPI on October 14 could swing this sharply.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4603",
+   "has_trace": true
+  },
+  {
    "id": 4024,
    "scanned_at": "2026-10-06T07:19:23.928651",
    "date": "2026-10-06",
@@ -21660,6 +21702,20 @@
   }
  ],
  "Will the Fed Hike–Hike–Hike in the next three decisions (Sep–Oct–Dec)?": [
+  {
+   "id": 4607,
+   "scanned_at": "2026-10-13T13:27:13.751416",
+   "date": "2026-10-13",
+   "agent": 9.5,
+   "market_price_t0": 12,
+   "edge": -0.024999999999999994,
+   "confidence": 0.6,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.10). (0) Not yet met: the Fed's Sept 16 statement and the FRED upper bound of 4.00% confirm leg 1 was a 25bp hike. Yes still needs hikes on both Oct 28 and Dec 9. (a) About two weeks remain to the October decision and eight weeks to Dec 9; Sept CPI on Oct 14 is the swing event. (b) Status quo is an October hold, which resolves No. CME FedWatch has a hold at about 78-84% and Polymarket's October market about 83.5%, and Williams, Jefferson and Waller all signalled no need for back-to-back hikes. Hammack, Kashkari and Logan declined to back October timing. (c) No: core CPI prints about 0.2% m/m, the Fed delivers a hawkish hold a week before the midterms and hikes in December, giving Hike-Pause-Hike and resolving No. (d) Yes: core CPI at 0.3% or higher revives October odds toward 50%, as after August's hot print; hawkish voters carry an October hike, helped by 10-year yields above 5.3% and Brent above $100, and December follows. Arithmetic: P(Oct hike) about 0.17 times P(Dec hike given an Oct hike) of about 0.55-0.70, since the median dot implies only one more 2026 hike and only 4 of 18 see two, gives about 9-12%. I lean slightly below the 12% market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4607",
+   "has_trace": true
+  },
   {
    "id": 4035,
    "scanned_at": "2026-10-06T10:26:58.838516",
@@ -23866,6 +23922,134 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.50, 0.50). (0) No source shows a qualifying Cabinet departure announced after the 2026-05-22 market open (Gabbard was announced that day). Brookings (updated Sep 30) and the Wikipedia cabinet page list none since, and Leavitt and Patel are not listed posts. (a) About 11.5 weeks remain, including roughly 8 weeks after the Nov 3 midterms. (b) Status quo is 'None before 2027': 143 days with no exit, Trump publicly backing Hegseth and Lutnick, senators calling pre-election changes too disruptive, and zero turnover in all of 2025. (c) The 'someone leaves' path is a post-midterm shake-up after bad results, as in 2018 when Sessions, Zinke, Mattis and Kelly went within weeks. Hegseth alone is 18% to be out by Dec 31 on a high-volume Polymarket market, and about 25 covered posts allow health, scandal or other exits. (d) The 'no one leaves' path is Trump's reluctance to fire under pressure, the spring replacements already installed, and a quiet lame-duck period. Polymarket's anchor is 56.8%, while Kalshi's equivalent 'before Jan 2027' market implies only about 32-36% for no exit. Base rates plus the post-midterm risk window put me around 50%, slightly below Polymarket.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/4554",
+   "has_trace": true
+  }
+ ],
+ "Will Google be the second-best AI lab at the end of October 2026?": [
+  {
+   "id": 4626,
+   "scanned_at": "2026-10-13T19:56:31.098925",
+   "date": "2026-10-13",
+   "agent": 20,
+   "market_price_t0": 18,
+   "edge": 0.020000000000000018,
+   "confidence": 0.5,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.20). (0) Not resolved. The exact resolution view (no-style-control, Labs filter) could not be read because arena.ai returned 403/Cloudflare. Secondary sources up to Oct 12 show the default board with Google's gemini-4-argon-high at #1 (1525 ±9, preliminary) and Anthropic's Opus 5.5 High at about 1507, so Google is lab #1 and Anthropic lab #2. Meta is third at about 1494–1498.\n\n(a) About 18 days remain until the Oct 31 noon ET check.\n\n(b) If nothing changes, Google stays #1 and Anthropic stays #2, so the answer is NO.\n\n(c) NO path: Argon's preliminary score holds within its ±9 band and no new release overtakes it. NO also results if Argon is delisted or AutoEval-flagged, which drops Google to its ~1494 fallback and below Meta.\n\n(d) YES path: Argon regresses as votes accumulate, or a new Claude model passes it. Google then sits second, still ahead of Meta.\n\nThe sibling best-model market prices Google keeping #1 at about 70%, with Anthropic at about 23–29%. Most Anthropic-#1 scenarios leave Google at #2, but some leave it third behind a rising Meta (Muse Wonder). That puts YES around 20%, consistent with this market's 18% mid and 23.5% last close.\n\nThe main unpriced risk is that the no-style-control board may already order labs differently from the style-controlled board the secondary sources describe. That risk cuts both ways, so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4626",
+   "has_trace": true
+  }
+ ],
+ "Will there be no next Meta Muse Spark model release by October 31, 2026?": [
+  {
+   "id": 4621,
+   "scanned_at": "2026-10-13T18:14:50.674026",
+   "date": "2026-10-13",
+   "agent": 89.5,
+   "market_price_t0": 90,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.71,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.89, 0.90). (0) Resolution check: as of Oct 13, Meta's Newsroom and research pages list no Muse Spark 1.4+. The newest model release is Muse Wonder/Wonder Full (Oct 12), which does not qualify because the name lacks 'Muse Spark'. Nothing has resolved yet. (a) There are 18 days left, to Oct 31. (b) Status quo: no qualifying release, so the market resolves Yes. (c) The NO-on-this-market path, which is the status quo: Meta spends the next weeks rolling Wonder out to Muse, publishing its safety report and shipping the excluded Spark open weights, with no Spark 1.4. Bloomberg and Axios confirm the teased '🍉/Watermelon' next model was Wonder, and Wang says the cheaper tier will be specialized Wonder derivatives, not Spark point releases. (d) The YES-on-release path: Meta keeps Spark as its cheap tier and drops a surprise Spark 1.4 on something like the old 4-week cadence, which is already overdue at 41 days. The only hint is the near-empty OpenCode 'muse-spark-1.4-contributor' ID (0 tokens, 2 sessions). Market anchor: the live price is 90% (bid 89/ask 91), up sharply after the Wonder launch. The thin daily-date markets sum to a somewhat higher release probability, but they are illiquid and probably stale. I land just under the anchor at 89% Yes, keeping some weight on a surprise point release.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4621",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic have the best AI model on LiveBench (Overall) at the end of October 2026?": [
+  {
+   "id": 4619,
+   "scanned_at": "2026-10-13T17:28:23.586467",
+   "date": "2026-10-13",
+   "agent": 87.5,
+   "market_price_t0": 79,
+   "edge": 0.08499999999999996,
+   "confidence": 0.71,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.88, 0.87) after one crux research pass. (0) The question is not resolved yet. The rendered livebench.ai leaderboard (latest release 2026-10-13) shows Anthropic's Claude Fable 5.1 first at 88.0, then Opus 5.5 at 86.5, with the best rival, OpenAI's GPT-6 Astra, at 86.1. The status quo is therefore YES, and it has to hold through the Oct 31 noon ET check.\n(a) About 18 days remain.\n(b) If nothing changes, Anthropic leads by 1.9 points over the best non-Anthropic model and holds the top two rows. A rival has to clear both Anthropic models to take first.\n(c) A NO path would need one of three things before Oct 31:\n- an unannounced OpenAI or Google flagship scored above 88.0;\n- a new LiveBench release or re-grade that lifts Gemini 4 Argon's weak Agentic score or a tuned GPT-6.1 Sol;\n- a methodology change that reshuffles the single-run suite scores.\n(d) The YES path is simply no change. Several outlets confirm OpenAI cancelled GPT-6.1 Astra and paused training of its most capable models. Google dropped Gemini 3.5 Pro and Argon already sits fifth. No rival flagship is announced. A new Anthropic release would only widen the lead.\nThe market sits at 86.5% after a +16.5-point week, which I read as traders absorbing the new 2.0 release. The research adds multi-source confirmation that OpenAI's pipeline is stalled, so I nudge slightly above the market. I keep about 12% for leaderboard volatility and the unconfirmed 'All' category view.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4619",
+   "has_trace": true
+  }
+ ],
+ "Will the AfD be part of a German state government in 2026?": [
+  {
+   "id": 4617,
+   "scanned_at": "2026-10-13T16:41:25.623319",
+   "date": "2026-10-13",
+   "agent": 40,
+   "market_price_t0": 56,
+   "edge": -0.16000000000000003,
+   "confidence": 0.485,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.39, 0.41) after one crux research pass. (0) Not met: the AfD is in no state government as of Oct 13. Mecklenburg-Vorpommern is heading to SPD–Left–Green and Berlin has no route, so Saxony-Anhalt (AfD 39/83 seats, caretaker Schulze cabinet in place) is the only path. (a) About 11 weeks remain; Siegmund signals a Minister-President vote shortly before Christmas, but no session date is fixed and no constitutional deadline applies. (b) Status quo is NO: with no vote held, the caretaker government continues. (c) NO: ballot 1 needs 42; BSW abstains and the CDU voted 14–0 to walk out, which removes cover for secret CDU defectors (the 4+ extra votes in the Oct 6 president vote). Siegmund says he runs only on ballot 1, and the 7-day and up-to-14-day steps before the plurality ballot may push it into January. (d) YES: federal AfD pressure brings Siegmund back for later ballots and the AfD-held presidency compresses the schedule into December. On the plurality third ballot, BSW abstains and AfD's 39 beat a depleted non-AfD bloc; or secret BSW/other defectors deliver 42 on ballot 1. Market at 56% after a sharp 7-day drop likely partly prices the walkout. I discount further for Siegmund's single-ballot stance and calendar risk, but keep meaningful weight on the hard-to-block plurality mechanism.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4617",
+   "has_trace": true
+  }
+ ],
+ "Will the next Claude Haiku model (4.6+) debut at a score of at least 1400 by June 30, 2027?": [
+  {
+   "id": 4612,
+   "scanned_at": "2026-10-13T15:08:37.543275",
+   "date": "2026-10-13",
+   "agent": 88.5,
+   "market_price_t0": 87.7,
+   "edge": 0.008000000000000007,
+   "confidence": 0.6499999999999999,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.88, 0.89). (0) Not resolved. The qualifying model, Claude Haiku 5.5, launched on Oct 7, 2026 and is in Arena voting. Per the changelog through Oct 12 and the rendered Oct 8 board, it has no Text Overall (no-style-control) score yet, so its first listing and the next-day noon ET score are still pending.\n\n(a) About 8.5 months remain until June 30, 2027, which is ample time for a listing.\n\n(b) If nothing changes, Arena lists Haiku 5.5 on Text within days to weeks. That is the precedent for Haiku 4.5 and for Sonnet and Opus 5.5, which took 3–4 days. Comparable cheap or flash models on this board score 1430–1500: glm-5.3-flash 1471, gemini-3-flash 1466, gemini-3.5-flash-lite 1435. Haiku 4.5 alone sits at 1396, so 1400 is a low bar for a much stronger successor.\n\n(c) NO scenario: Arena routes Haiku 5.5 only to WebDev and Agent boards, or it first appears under AutoEval. Alternatively, a medium-effort variant lands in the 1390s, like the same-price gpt-6-luna-max at 1391.\n\n(d) YES scenario: a high or max effort Haiku 5.5 is added cleanly in the coming weeks at roughly 1440–1470.\n\nThe market anchor is 87.9%. The ladder prices 1420 at 86% and 1440 at 84.5%, implying the crowd sees score risk below 1400 as small and listing or mechanics risk as the main residual. The research surfaced nothing unpriced beyond the mild delay versus Sonnet's pace, so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4612",
+   "has_trace": true
+  }
+ ],
+ "Will the Democrats win the Ohio governor race in 2026?": [
+  {
+   "id": 4610,
+   "scanned_at": "2026-10-13T14:22:40.592235",
+   "date": "2026-10-13",
+   "agent": 65,
+   "market_price_t0": 71.5,
+   "edge": -0.06499999999999995,
+   "confidence": 0.535,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.65, 0.65). (0) Nothing has resolved. The election is Nov 3, 2026, and AP, Fox and NBC have not called the race (resolution-source read, Oct 13). (a) About three weeks remain until Election Day, and the result is usually called on election night or soon after. (b) Status quo: Acton (D) leads the poll averages by about 2–5 points (RCP +3.8, DDHQ +4.2, FiftyPlusOne +4.1, Pollsmax +2.1). Cook, Sabato and Inside Elections all moved the race to Toss-up, and every rating shift has been toward Democrats. The Polymarket anchor is 71.5%, up 17 points in 30 days, and Kalshi sits around 69–71%. (c) NO: Ohio's polls repeat the 2016/2018/2020/2024 pattern of understating Republicans by 2–4 points. Ramaswamy's roughly 2:1 cash-on-hand edge buys a late ad blitz, and Trump and Vance consolidate GOP voters in a Trump +11 state. The latest co/efficient (R) poll, Ramaswamy +2, could signal that tightening, and he wins narrowly. (d) YES: low Trump approval in Ohio (36–42%), Acton's edge with independents and a Democratic enthusiasm gap hold up. Brown's parallel lead points to a broad Democratic environment, so Acton wins by a few points, as in a 2006-style wave. The market looks a little rich against a lead that sits within a typical Ohio polling miss, and Ohio has a structural Republican lean and a record of Republican-favoring misses. I shade modestly below the 71.5% anchor rather than fully trusting the price.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4610",
+   "has_trace": true
+  }
+ ],
+ "Will Gyanesh Kumar be out as Chief Election Commissioner of India by December 31?": [
+  {
+   "id": 4601,
+   "scanned_at": "2026-10-13T11:51:24.118289",
+   "date": "2026-10-13",
+   "agent": 24,
+   "market_price_t0": 31,
+   "edge": -0.07,
+   "confidence": 0.5,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.24, 0.24). (0) Nothing has resolved yet. As of 2026-10-13, Business Today, Wikipedia and the resolution-source read all show Gyanesh Kumar as sitting CEC, with no resignation or removal announced. (a) About 11 weeks remain until 2026-12-31. (b) If nothing changes, he stays in office: his term runs to January 2029. Parliament's presiding officers already blocked removal at the admission stage in April, and on 10-05 the Supreme Court refused to suspend him or restrain him from functioning. (c) NO path: the BJP keeps closing ranks, as a dozen BJP chief ministers and its spokespersons have, and keeps policing the protests rather than conceding. The 10-27 SC hearing produces only directions on collective decision-making, and any winter-session removal notice dies at admission or before a two-thirds vote. (d) YES path: a brokered resignation, perhaps 'for personal reasons'. Triggers could be an adverse SC finding that he took SIR decisions unilaterally, new Indian Express disclosures, or wavering NDA allies (Paswan, TDP), with the Cockroach Janta Party protests continuing. The movement already forced Education Minister Pradhan out in 2026, so the government has shown it can bend. The Polymarket anchor is 31%, on thin volume ($15.6k) and a wide 27/35 spread, and it has risen with the protest news. I shade below it because every YES route needs a government reversal, and I found no signal of one. CEC impeachment has a near-zero base rate, and the SC explicitly signalled reluctance to act ('Who will conduct the elections?').",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4601",
+   "has_trace": true
+  }
+ ],
+ "Will Mark Warner vote \"Yea\" on the Clarity Act?": [
+  {
+   "id": 4599,
+   "scanned_at": "2026-10-13T10:59:06.424941",
+   "date": "2026-10-13",
+   "agent": 6,
+   "market_price_t0": 7.8,
+   "edge": -0.0175,
+   "confidence": 0.72,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) Not resolved. Senate.gov roll calls through Sep 30 show no final-passage vote. The only floor action was the failed Sep 15 cloture vote on the motion to proceed (Roll Call 234, 49-50), where Warner voted Nay; that procedural vote does not count. As of Oct 12, Tillis's motion to reconsider is still pending and no cloture has been filed. (a) About 11 weeks remain until Dec 31, 2026. Most of that is campaign recess plus a lame-duck session of roughly 22 session days that also has to handle appropriations and nominations. (b) If nothing changes, no qualifying vote occurs and the market resolves No. (c) NO path: the ethics dispute stays unresolved, Democrats wait for the new Congress, and the CFTC and SEC rulemakings reduce the urgency. The bill dies with this Congress, which industry and law-firm observers already treat as the likely outcome. (d) YES path: a Trump-approved ethics compromise in November, reconsidered cloture reaching 60, a compressed floor process, and a final-passage vote in December. Warner, as a lead negotiator, would likely vote Yea on a deal he helped write, perhaps 80% conditional on the vote happening. The binding constraint is whether a vote happens at all. Sibling markets put the bill becoming law in 2026 at about 5-6%. A Senate passage vote alone is somewhat more likely than that, but multiplying by Warner's conditional Yea gives about 6%. That is slightly below the market's 7.75%; I shade down because the lame-duck talk (Hill, Kennedy, Alsobrooks) is aspiration, not a schedule.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4599",
    "has_trace": true
   }
  ]

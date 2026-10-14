@@ -5707,6 +5707,20 @@
  ],
  "Will Waymo operate in 12-15 cities on December 31 2026?": [
   {
+   "id": 4693,
+   "scanned_at": "2026-10-14T07:57:17.711035",
+   "date": "2026-10-14",
+   "agent": 72.5,
+   "market_price_t0": 68.5,
+   "edge": 0.039999999999999925,
+   "confidence": 0.6,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.74, 0.71). (0) Not resolved: Waymo's official rides/FAQ lists 15 regions serving riders (13 Waymo-app metros + Austin/Atlanta on Uber), at the top of the 12-15 band. (a) ~11 weeks remain to Dec 31, 2026. (b) Status quo of 15 resolves Yes. (c) No paths: a 16th public city (Detroit is the only credible candidate but is employee-only with 'no timeline'; DC legally blocked, London delayed, Seattle/Sacramento testing), ~8%; or a strict 'invite-only' reading excluding San Antonio, San Diego, Tampa and Las Vegas (11) with none fully opening by year-end, ~15-18%. Mitigants: Denver went open-to-all in ~6 weeks, San Antonio is slated for general availability by end of 2026, and Waymo frames these cities as public waitlist access. (d) Yes: no new public city and the resolver follows Waymo's own list. The market at 68.5% (with 'fewer than 12' at 24%) seems to overprice strict exclusion; I lean modestly above it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4693",
+   "has_trace": true
+  },
+  {
    "id": 3838,
    "scanned_at": "2026-10-03T21:35:11.240632",
    "date": "2026-10-03",
@@ -15837,6 +15851,20 @@
  ],
  "Edi Rama out as Albania PM in 2026?": [
   {
+   "id": 4630,
+   "scanned_at": "2026-10-13T21:35:28.379534",
+   "date": "2026-10-13",
+   "agent": 6,
+   "market_price_t0": 9.5,
+   "edge": -0.035,
+   "confidence": 0.71,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) The condition has not been met. Secondary sources (Wikipedia, AP, Euronews Albania, the 13 Oct Luxembourg EU conference coverage) show Rama still serving as PM, with no resignation announcement or removal. The official kryeministria.al page returned empty, so this rests on credible reporting rather than the named source. (a) About 79 days remain until 31 Dec 2026. (b) The status quo is No: Rama controls an 82/140 majority and has refused to resign at every point (\"contract until 2029\"). He has just closed another EU accession chapter, which gives him a strong reason to stay, and no election, confidence vote or charge against him personally is scheduled. (c) NO scenario: the Flamingo protests keep fading into low-intensity daily marches, he answers SPAK's Balluku and Hyseni cases with more reshuffles, and he governs through year-end, as he did through the 2017, 2019–21 and 2025–26 protest waves. (d) YES scenario: SPAK reaches Rama personally through the AKSHI or intelligence case, the Socialists split, or he makes a tactical resignation to trigger a 45-day election. Health is a further tail risk. None of these has any concrete precursor in the research. The market sits at 9.5%, but I shade below it to about 6%: the protests appear to be shrinking, his party discipline is intact, and longshot \"leader out\" contracts tend to be overpriced. I keep some weight on the SPAK escalation tail risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4630",
+   "has_trace": true
+  },
+  {
    "id": 3821,
    "scanned_at": "2026-10-03T15:44:53.756336",
    "date": "2026-10-03",
@@ -17104,7 +17132,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-13T20:40:42.305Z",
+  "last_sync": "2026-10-14T08:42:30.869Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -19391,6 +19419,20 @@
  ],
  "Will the Democrats win the Minnesota Senate race in 2026?": [
   {
+   "id": 4687,
+   "scanned_at": "2026-10-14T06:27:26.005207",
+   "date": "2026-10-14",
+   "agent": 85.5,
+   "market_price_t0": 87.5,
+   "edge": -0.020000000000000018,
+   "confidence": 0.62,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.85, 0.86). (0) The race has not been decided. The general election is Nov 3, 2026, and AP, Fox and NBC have made no calls. For YES, Flanagan (DFL) has to win on election day, and the three outlets or certification have to confirm it.\n(a) About three weeks remain. Early voting is already underway, and one MPR debate is set for Oct 16.\n(b) Status quo: Flanagan leads every recent public poll, mostly by 3–4 points (Mason-Dixon 47–43, Rasmussen 48–45). Averages range from RCP's +2.2 to Poliwave/FiftyPlusOne at about +4. Raters sit at Likely or Lean D, and no major rater has the race at toss-up. Trump's approval is about 38% in Minnesota and 36% nationally, which is a Democratic-leaning midterm environment. Republicans have not won a Minnesota Senate race since 2002, and the NRSC/SLF have largely kept their money out.\n(c) NO path: a 3–5 point polling miss toward the GOP, like the overstatements of Democrats in Minnesota polls in 2020 and 2024. Undecided independents, who lean Tafoya, break her way on the Walz-era fraud issue, and late Senate Leadership Fund money arrives.\n(d) YES path: the 3–4 point lead holds. Trump's Oct 12 endorsement weakens Tafoya's independent pitch, and turnout in Hennepin and Ramsey counties plus the enthusiasm gap carries Flanagan.\nThe market's 87.5% is slightly rich for a 3–4 point lead with Flanagan below 48% in most polls. The environment, the absence of GOP spending and the state's partisan lean justify a high probability, so I shade only slightly lower, to 85%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4687",
+   "has_trace": true
+  },
+  {
    "id": 4004,
    "scanned_at": "2026-10-06T01:03:58.447587",
    "date": "2026-10-06",
@@ -20595,6 +20637,20 @@
  ],
  "Will the Democrats win the Georgia governor race in 2026?": [
   {
+   "id": 4632,
+   "scanned_at": "2026-10-13T22:25:20.275259",
+   "date": "2026-10-13",
+   "agent": 47.5,
+   "market_price_t0": 47.5,
+   "edge": 0,
+   "confidence": 0.535,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.47, 0.48). (0) The race is not resolved. The election is Nov 3, 2026, and AP, Fox and NBC have not called it. Bottoms (D) and Jackson (R) are the confirmed nominees. (a) About three weeks remain. Early voting opened Oct 13 and runs to Oct 30, with Election Day on Nov 3. Georgia's 50% majority rule makes a Dec 1 runoff possible, but with no Libertarian on the ballot that risk is small. (b) If nothing changes, Jackson holds a narrow 1–2.5 point lead. FiftyPlusOne has 48.0–46.5, Parlay +2.4 and RCP +1.7, and he has led nearly every poll since September. He also has a roughly 7-to-1 ad spending edge, and Republicans have held this office for 24 years. That justifies a slight Republican lean, which matches Polymarket's 47.5% for Yes and Kalshi's about 45–46%. (c) NO: Jackson's money advantage and the Trump and Kemp rallies hold his 2-point edge. Georgia voters split their tickets for Ossoff in the Senate race but stay with the Republican for governor, as many Kemp–Warnock voters did in 2022. (d) YES: the Democratic-leaning midterm environment (weak Trump approval, Silver Bulletin Lean D, Sabato's shift to Toss-up) carries Bottoms. Ossoff leads by 8–11 points, and if the 6–9% undecided break toward the Democratic coalition, she overcomes a deficit measured mostly by Republican-leaning pollsters. Jackson skipping the debates feeds the Democrats' 'hiding behind his billions' attack. Neither side's points are strong enough to justify moving off the market, so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4632",
+   "has_trace": true
+  },
+  {
    "id": 3943,
    "scanned_at": "2026-10-05T07:06:21.315259",
    "date": "2026-10-05",
@@ -20866,6 +20922,20 @@
   }
  ],
  "Will the Republicans win the New Hampshire Senate race in 2026?": [
+  {
+   "id": 4685,
+   "scanned_at": "2026-10-14T05:38:06.897544",
+   "date": "2026-10-14",
+   "agent": 13.3,
+   "market_price_t0": 12.5,
+   "edge": 0.007500000000000007,
+   "confidence": 0.66,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.14). (0) Nothing has resolved. The general election is Nov 3, and AP, Fox and NBC cannot have called the race; the resolution-source read confirms only pre-election polling exists. (a) About three weeks remain until the election, and the market closes Nov 4. (b) Status quo is a Democratic hold. Pappas leads the RCP average by about 6 points (49.0–43.1) and has led every public poll since mid-September except one co/efficient tie. Cook moved the race back to Lean D on Oct 6, and the national environment favors Democrats: Trump is at 60% disapproval in NH and Democrats are about 90% to take the House on Polymarket. (c) NO: Pappas holds a 5–8 point lead through election day, and the race is called on election night. (d) YES: Sununu's personal brand drives heavy ticket-splitting alongside Ayotte's roughly 11-point governor lead. The NYT/Siena crossover (8% of voters who want a Democratic Senate backing Sununu) grows, and the GOP's roughly $31M outside-money edge closes the gap; Rasmussen's swing from +11 to +5 hints at movement. A 6-point lead three weeks out still leaves room for a typical Senate polling error plus late movement to flip the race. On a normal error distribution that gives about 10–15%, consistent with the 12.5% market price. The research found no post-Oct-6 polls or other unpriced information, so I stay close to the anchor at 13%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4685",
+   "has_trace": true
+  },
   {
    "id": 4065,
    "scanned_at": "2026-10-06T19:54:32.606838",
@@ -21870,6 +21940,20 @@
   }
  ],
  "Will the Democrats win the Vermont governor race in 2026?": [
+  {
+   "id": 4640,
+   "scanned_at": "2026-10-14T00:50:31.695064",
+   "date": "2026-10-14",
+   "agent": 23.5,
+   "market_price_t0": 24.7,
+   "edge": -0.01200000000000001,
+   "confidence": 0.55,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.23, 0.24). (0) Not resolved. The election is November 3, so AP, Fox and NBC have not called anything. Janoo, the Democratic nominee, would have to beat incumbent Republican Phil Scott. (a) About 20 days remain until election day, and the market closes November 4. Vermont counts quickly and mails ballots to all voters, so an election-night call is likely unless the result is very close. (b) Status quo: Scott leads two of the three post-primary polls. These are Vermont Public at 42–32 or 44–34, and State Navigate (Oct 2–4) at 46–43, the most recent. The forecast raters all have the race at Likely or Lean R, and no Vermont incumbent governor has lost since 1962. VTDigger also finds Scott has outrun his pre-election polls by about 14 points on average since 2016, though the size of that gap has varied a lot. (c) NO path: moderate undecideds, who lean toward Scott in State Navigate, break his way. His approval (57% in State Navigate) turns into votes, and the usual polling underestimate partly recurs, so he wins by mid-to-high single digits or more. (d) YES path: a midterm anti-Trump Democratic wave consolidates Democrats against Scott, as in the UNH poll showing Janoo +6. The Sanders endorsement and fundraising parity help Janoo, and the polling miss does not happen this time. A further edge case: if no one reaches 50%, the Democratic legislature chooses, which helps only if Janoo has a plurality. The market sits at 24.7%, close to my view. The late RGA spending and the closing State Navigate numbers support real risk to Scott, but his history of beating his polls and the absence of any tossup rating keep me slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4640",
+   "has_trace": true
+  },
   {
    "id": 3588,
    "scanned_at": "2026-09-30T04:54:07.386540",
@@ -23207,6 +23291,20 @@
  ],
  "Will the 10-year Treasury yield hit 5.5% before 2027?": [
   {
+   "id": 4691,
+   "scanned_at": "2026-10-14T07:12:47.967282",
+   "date": "2026-10-14",
+   "agent": 32.5,
+   "market_price_t0": 33.1,
+   "edge": -0.005500000000000005,
+   "confidence": 0.54,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.32, 0.33). (0) Not met: Treasury par CSV shows a 2026 closing high of 5.31% (10/05) and 5.21% on 10/13; the ~5.36% intraday high does not count. The Nov–Dec 2025 rows were not fetched but were likely near 4.1%. (a) About 11 weeks remain to 12/31/2026, and one par close at or above 5.50% resolves YES. (b) Status quo is No: closes have ranged 5.19–5.31% for three weeks, Trading Economics models 5.18% for end-Q4 and the Reuters median is 5.0%. (c) NO path: soft core CPI, a Fed hold on 10/28, strong auctions, buybacks and record asset-manager longs cap yields below 5.31%. (d) YES path: hot CPI plus an oil spike revives hike pricing (December already ~85%), a hawkish FOMC or larger Nov 4 refunding, and forced mortgage-hedge and hedge-fund selling push a close up 29bp, within recent realised monthly moves. A barrier-touch estimate with 80–100bp annualized vol gives ~43–53%, trimmed for daily-close discretization and below-spot drift to ~30–40%. That agrees with the market's 0.33 and the sibling strikes (5.4% at 0.605, 5.7% at 0.12), so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4691",
+   "has_trace": true
+  },
+  {
    "id": 4072,
    "scanned_at": "2026-10-06T22:29:13.267167",
    "date": "2026-10-06",
@@ -24050,6 +24148,134 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.06, 0.06). (0) Not resolved. Senate.gov roll calls through Sep 30 show no final-passage vote. The only floor action was the failed Sep 15 cloture vote on the motion to proceed (Roll Call 234, 49-50), where Warner voted Nay; that procedural vote does not count. As of Oct 12, Tillis's motion to reconsider is still pending and no cloture has been filed. (a) About 11 weeks remain until Dec 31, 2026. Most of that is campaign recess plus a lame-duck session of roughly 22 session days that also has to handle appropriations and nominations. (b) If nothing changes, no qualifying vote occurs and the market resolves No. (c) NO path: the ethics dispute stays unresolved, Democrats wait for the new Congress, and the CFTC and SEC rulemakings reduce the urgency. The bill dies with this Congress, which industry and law-firm observers already treat as the likely outcome. (d) YES path: a Trump-approved ethics compromise in November, reconsidered cloture reaching 60, a compressed floor process, and a final-passage vote in December. Warner, as a lead negotiator, would likely vote Yea on a deal he helped write, perhaps 80% conditional on the vote happening. The binding constraint is whether a vote happens at all. Sibling markets put the bill becoming law in 2026 at about 5-6%. A Senate passage vote alone is somewhat more likely than that, but multiplying by Warner's conditional Yea gives about 6%. That is slightly below the market's 7.75%; I shade down because the lame-duck talk (Hill, Kennedy, Alsobrooks) is aspiration, not a schedule.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/4599",
+   "has_trace": true
+  }
+ ],
+ "Will CoreWeave announce bankruptcy by December 31, 2029?": [
+  {
+   "id": 4682,
+   "scanned_at": "2026-10-14T04:52:14.390739",
+   "date": "2026-10-14",
+   "agent": 20.5,
+   "market_price_t0": 26.5,
+   "edge": -0.06,
+   "confidence": 0.45999999999999996,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.21, 0.20). (0) No bankruptcy announcement or filing exists as of 2026-10-14, and CoreWeave is still operating and raising capital (a $4.2B 2.875% convertible closed 2026-09-22). (a) About 3.2 years remain until the 2029-12-31 deadline. (b) Status quo is No, supported by about $5.5B cash, a roughly $104-129B backlog, Nvidia's take-or-pay backstop through 2032, and S&P's positive / Moody's stable outlooks. (c) NO path: demand holds, the 2027 maturity is refinanced, and any stress is handled by amendments, a rescue, a merger or a distressed exchange, none of which count. (d) YES path: an AI-demand or OpenAI funding shock closes debt markets at the 2027 maturity or 2029 roll-offs, covenant breaches cross-default, and CoreWeave files Chapter 11. The market prices YES at 26.5%; risk-neutral CDS near 811bp overstates real-world risk, a generic B+ credit would be about 5-15% over this window, and bankruptcy is narrower than default. I shade modestly below the market for the long-dated YES premium, upward agency outlooks and cheaper recent financing, while keeping elevated odds for CoreWeave's unusual leverage and negative cash flow.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4682",
+   "has_trace": true
+  }
+ ],
+ "Will USD-denominated stablecoin market share fall below 99% in 2026?": [
+  {
+   "id": 4653,
+   "scanned_at": "2026-10-14T03:49:42.971964",
+   "date": "2026-10-14",
+   "agent": 4.5,
+   "market_price_t0": 7,
+   "edge": -0.02500000000000001,
+   "confidence": 0.72,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.04). (0) No source shows the condition met. The latest Artemis-based monthly figure (April 2026, via CoinDesk and CoinTurk) is 99.76% USD with $771M non-USD. A per-token calculation from Artemis's own table as of Oct 14 gives about 99.7%, because gold tokens are labelled USD-pegged. The chart itself did not render, so its May–September hover values are unverified, but nothing suggests a sharp move. (a) About 2.5 months remain. Only the Oct, Nov and possibly Dec monthly points can still count, and the December point may not finalize before close. (b) Status quo is No: non-USD supply is about 0.25–0.3% on Artemis and grows by only hundredths of a point per quarter. Euro stablecoins went from about $727M to about $900M over June–September against a roughly $315B total. (c) No: the mix stays stable, euro coins keep growing slowly, and every point stays above 99.5%. (d) Yes: Artemis reclassifies gold tokens (about $5B, roughly 1.6% of supply) as non-USD, or adds a large non-USD issuer, or USD supply collapses. Any of these would put the share below 99% on a remaining point. The April figure's peg categories (EUR, CAD, JPY, SGD, other, with no gold) argue against the reclassification path. The market is at 7% (bid 5%, ask 9%), and I shade slightly below it because the organic path is essentially closed and only a methodology quirk remains.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4653",
+   "has_trace": true
+  }
+ ],
+ "Will the Democratic Party win the MT-01 House seat?": [
+  {
+   "id": 4649,
+   "scanned_at": "2026-10-14T03:04:03.711081",
+   "date": "2026-10-14",
+   "agent": 34,
+   "market_price_t0": 31.5,
+   "edge": 0.025000000000000022,
+   "confidence": 0.525,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.34, 0.34). (0) Nothing has resolved. The election is November 3, 2026, and fec.gov and the media have no results, so Democrat Sam Forstag must actually beat Republican Aaron Flint in the open seat Zinke is leaving. (a) About 20 days remain until Election Day, and absentee ballots are already out. (b) The status quo is a lean-Republican race. Cook, Sabato and Inside Elections all moved MT-01 from Likely R to Lean R in late September and early October, Trump carried the district by about 11 points, and Democrats have not won a Montana House seat in nearly three decades. (c) NO path: Trump's Kalispell rally and a roughly 5-to-1 outside-money edge for Flint push undecideds and older midterm voters toward him, and he wins by 2–5 points in an R+5 seat with little ticket-splitting. (d) YES path: Forstag keeps the Tester-2024 coalition in Missoula, Bozeman and Butte, and his favorability edge (41/19 vs Flint's 31/32) holds. A Democratic-leaning national environment then tips a race that every September poll shows within 1–2 points; Polymarket prices Democratic House control at about 90%. The anchor is Polymarket at 31.5%, drifting down 6 points over 30 days. Silver Bulletin's FLIPR has Forstag at 38.8% and smarter.vote at about 35%, and three polls show a dead heat, so I nudge slightly above the market. Heavier GOP outside money and no independent poll showing Forstag ahead keep me well below 40%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4649",
+   "has_trace": true
+  }
+ ],
+ "Katie Zacharia out as Press Secretary by October 31?": [
+  {
+   "id": 4646,
+   "scanned_at": "2026-10-14T02:19:14.700949",
+   "date": "2026-10-14",
+   "agent": 6.3,
+   "market_price_t0": 7.5,
+   "edge": -0.012499999999999997,
+   "confidence": 0.66,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.07). (0) Not resolved. The White House release, Wikipedia and broad reporting show Zacharia sworn in as the 37th Press Secretary on Oct 12, and no source reports a resignation, removal or announced exit as of Oct 14. (a) About 17 days remain until 11:59 PM ET on Oct 31; an announcement alone would resolve Yes. (b) Status quo is No: she keeps the title. Trump called her debut \"very good\"/\"excellent\" on the record, and Cheung and the official White House release praised her. (c) No: she gets coached, briefings improve or are reduced, and the White House avoids a staffing shake-up during the pre-midterm blitz ending Nov 3. Any change waits until after the election, which is consistent with Polymarket putting most of its Dec 31 probability (~31%) after October. (d) Yes: another viral briefing flop, or the bar-status credentials story growing, turns Trump against her, and a Truth Social post or leak announces a replacement before Oct 31. This echoes the anonymous \"break Scaramucci's record\" warnings. The anchor is Polymarket at 7.5% (bid 7, ask 8); Kalshi's \"before Oct 20\" contract sits near 3%. Historically, no press secretary has left within three weeks of starting except terHorst, and the doubts in the research are anonymous and future-oriented. I shade slightly below the market, to about 6%, mainly because of the midterm timing and Trump's public backing.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4646",
+   "has_trace": true
+  }
+ ],
+ "Will oil be below $85 on November 2 and the Republicans win the Senate?": [
+  {
+   "id": 4642,
+   "scanned_at": "2026-10-14T01:34:03.695989",
+   "date": "2026-10-14",
+   "agent": 7.3,
+   "market_price_t0": 8,
+   "edge": -0.006000000000000005,
+   "confidence": 0.62,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). No condition is met yet: Pyth shows the Dec26 contract (the Active Month on Nov 2) at about $94.21 on Oct 14, roughly $9 above the $85 strike, and the Senate vote is Nov 3. About 13 trading sessions remain for the oil leg. The status quo of oil at or above $85 with Democrats favoured for the Senate resolves NO. With about 46% implied vol, a fall below $85 is roughly 15–18% likely. Polymarket prices a Republican Senate at 36.5%, and most models put it at 27–44%. The legs are positively correlated for YES: a de-escalation that drops oil would also ease the fuel-price drag on the GOP, so I take Republican odds of about 42% given oil below $85. That yields roughly 7%, consistent with the market's 7.95%, so I stay near the anchor and shade slightly lower.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4642",
+   "has_trace": true
+  }
+ ],
+ "Will Gemini Argon debut with a Humanity's Last Exam score of 45% or higher?": [
+  {
+   "id": 4636,
+   "scanned_at": "2026-10-14T00:04:26.881909",
+   "date": "2026-10-14",
+   "agent": 90.5,
+   "market_price_t0": 92.5,
+   "edge": -0.020000000000000018,
+   "confidence": 0.61,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.91, 0.90). (0) Not yet met: the JavaScript-rendered agi.safe.ai chart could not be read, the visible static table is stale (Gemini 3 Pro 38.3) and the CAIS dashboard has no Argon. YES needs a qualifying Argon card added with displayed HLE Accuracy of 45% or more before 2027-06-30. (a) About 8.5 months remain. (b) Status quo is no listing, but Argon went public on the paid Gemini API on Oct 13 (Google developer post, Digital Trends), so Scale/CAIS can now evaluate it. On score, Artificial Analysis has Argon at 57%, and Scale's full-set board runs about 0-7 points below AA (Opus 5.5 at 55 vs 61.4). That implies roughly 50-56, well above 45. Related Opus markets (45%+ and 50%+ near 99%, 60%+ near 1%) suggest the chart has been updated with new frontier models, easing stale-chart concerns. (c) NO: CAIS never adds Argon to the main chart by mid-2027, puts it only on HLE-Diamond or SEAL, or a low-effort or different-judge run lands under 45. (d) YES: Argon is evaluated in the coming weeks or months and shows low-to-mid 50s. Anchoring on 92.5%, I shade slightly lower to about 0.91 for listing-lag and resolution-mechanics risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4636",
+   "has_trace": true
+  }
+ ],
+ "No change in Reserve Bank of Australia's interest rates at the November 2026 meeting?": [
+  {
+   "id": 4634,
+   "scanned_at": "2026-10-13T23:14:15.903633",
+   "date": "2026-10-13",
+   "agent": 74.5,
+   "market_price_t0": 80,
+   "edge": -0.05500000000000005,
+   "confidence": 0.525,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.75, 0.74). (0) Not resolved. The RBA's own site shows the cash rate at 4.60% after the 29 Sep hike, with the next decision due 2:30pm AEDT on 3 Nov; nothing has happened yet. (a) There are about three weeks left, and the main catalyst, Q3 CPI, lands on 28 Oct, six days before the decision. Hauser also speaks on 21 Oct. (b) If nothing changes the status quo is a hold. Polymarket prices that at 80%, while OIS and futures trackers (rbaratewatch, rateprobability, Reuters/Finimize) put a hike at roughly 28–30%, or about 70% hold. (c) NO path: Q3 trimmed mean comes in at around 1.0% q/q or above, as ANZ and CBA forecast. Combined with oil above $100 and the minutes' warning that \"waiting could be costly\", the Board would hike back-to-back to 4.85%, which ANZ and Westpac already forecast. (d) YES path: trimmed mean prints at or below the RBA's roughly 0.9% expectation. The Board then leans on Bullock's emphasis on policy lags, falling house prices and 4.6% unemployment, as it did in its June/August pause and the Nov 2025 hold after a hot print. The big four are split 2–2. Polymarket sits about 8–10 points more dovish than rates-market pricing, and the hawkish minutes favour shading toward the futures-implied figure. I therefore discount modestly from the 80% anchor to about 75%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4634",
+   "has_trace": true
+  }
+ ],
+ "Will Israel election happen as scheduled?": [
+  {
+   "id": 4628,
+   "scanned_at": "2026-10-13T20:43:41.291764",
+   "date": "2026-10-13",
+   "agent": 91.5,
+   "market_price_t0": 89.8,
+   "edge": 0.01750000000000007,
+   "confidence": 0.72,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.92, 0.92). (0) The condition is not yet met. Voting has not happened, but every credible source as of Oct 10–13 (Wikipedia, Library of Congress, Fox, Anadolu/MEMO, Ynet) treats Oct 27 as fixed. The Knesset dissolved unanimously on Jul 17, lists are closed, ballots are being printed, and IDF voting logistics and campaign broadcasts are under way. (a) Two weeks remain until Oct 27, so a snap election before then is effectively impossible. NO now requires a nationwide postponement. (b) If nothing changes, the status quo is YES: polls open nationwide on Oct 27. (c) The NO scenario: a US and/or Israeli strike on Iran in the next ~10 days draws massive missile fire on Israel. Channel 12 reported a decision expected around Oct 16–19, and Zamir warned this could delay the vote. The Knesset would then pass a 1973-style postponement law (80 MKs needed), or the CEC would move nationwide voting off Oct 27. (d) The YES scenario: Trump's pledge of no strike before Nov 3 holds, the Iran ceasefire persists, and any rocket or cyber incident is handled with local delays or extended hours, which still resolves YES. The related ceasefire-through-Oct-31 market at 84.5% implies roughly a 12–15% chance of renewed conflict in the window. Even then, postponement is far from automatic: the date held through a 7-month war earlier in 2026, and 80 MKs including the opposition are required. I put NO at about 7–9%, slightly more confident in YES than the 89.75% market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4628",
    "has_trace": true
   }
  ]

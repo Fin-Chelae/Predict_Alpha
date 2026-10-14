@@ -6311,6 +6311,20 @@
  ],
  "Will inflation reach more than 5% in 2026?": [
   {
+   "id": 4714,
+   "scanned_at": "2026-10-14T14:09:37.156196",
+   "date": "2026-10-14",
+   "agent": 6,
+   "market_price_t0": 8.5,
+   "edge": -0.02500000000000001,
+   "confidence": 0.72,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) Not resolved. BLS and FRED data show the 2026 12-month CPI readings for January through September peaking at 4.2% in May, with September at 3.7%. No month has exceeded 5.0%, and Yes requires a print of 5.1% or higher. (a) Only the October, November and December prints remain, released on Nov 10, Dec 10 and in January 2027. The October y/y figure may not be published at all, because the shutdown left no October 2025 index. (b) If nothing changes, the answer is No. The Cleveland Fed's October nowcast is about 3.6% (0.27% m/m), and Deutsche Bank and Kiplinger both see year-end inflation around 3.7–4.0%. (c) No scenario: Brent plateaus near $105, pump prices stay flat or ease as they are doing in October, and headline CPI ends the year around 3.6–4.0%. (d) Yes scenario: a renewed collapse of Hormuz flows (flows fell sharply around Oct 11) pushes Brent toward $130 and diesel spikes. Monthly CPI would then need to run about 0.6–0.75% seasonally adjusted in October and November. That is required because the NSA index normally sags seasonally in November and December, so reaching the needed NSA level of about 340.4–340.5 means seasonally adjusted gains of roughly 1.5–1.8% over September. That bar is steep: the March oil peak near $118 produced only 4.2%. The market sits at 8.5%. The seasonal-adjustment hurdle and the likely missing October y/y argue slightly lower, while the live Hormuz tail risk keeps the price from going much lower. I shade to about 6%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4714",
+   "has_trace": true
+  },
+  {
    "id": 3850,
    "scanned_at": "2026-10-04T01:41:51.960996",
    "date": "2026-10-04",
@@ -7446,6 +7460,20 @@
   }
  ],
  "Will the Republicans win the Montana Senate race in 2026?": [
+  {
+   "id": 4712,
+   "scanned_at": "2026-10-14T13:24:50.975972",
+   "date": "2026-10-14",
+   "agent": 91.5,
+   "market_price_t0": 92.5,
+   "edge": -0.010000000000000009,
+   "confidence": 0.72,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.91, 0.92). (0) The race is not resolved. The election is Nov 3, 2026, and no AP, Fox or NBC call exists. YES requires Republican Kurt Alme to win a plurality, with no runoff. (a) About 20 days remain before the election, and absentee ballots are already out. (b) Status quo favours YES. Every public poll has Alme ahead by 8–20 points in the four-way field: Rutgers-Eagleton/MTFP +8, Aspect +12, Quantus +20, American Pulse +19. The RCP average is +14 and FiftyPlusOne is +16. Cook rates it Solid R and Sabato reportedly moved it to Safe R on Oct 6. (c) NO: the Oct 12 resignation of the Democratic chair and her endorsement of Bodnar trigger a late Democratic collapse toward the independent. A bad national GOP environment (Polymarket has Democrats at 63.5% for Senate control) adds defections, and Bodnar's money edge (about $4M against Bankhead's roughly $180K) lets him overtake Alme's low-40s share. On paper, Aspect's numbers with Bankhead's vote moved over imply roughly a tie. (d) YES: Bankhead stays in and keeps drawing 12–19%, partly from votes already cast. Alme holds 42–46% in a state Trump won by about 20, and wins comfortably on a split opposition. The market sits at 92.5%, matching Kalshi's roughly 93¢. The only unpriced information is the Oct 12 chair defection, which has no post-event poll, so I shade slightly below market to 0.91.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4712",
+   "has_trace": true
+  },
   {
    "id": 4009,
    "scanned_at": "2026-10-06T02:36:54.528272",
@@ -17132,7 +17160,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-14T08:42:30.869Z",
+  "last_sync": "2026-10-14T19:23:05.974Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -19553,6 +19581,20 @@
  ],
  "Will Apple release a new product line before 2027?": [
   {
+   "id": 4710,
+   "scanned_at": "2026-10-14T12:38:50.617936",
+   "date": "2026-10-14",
+   "agent": 88,
+   "market_price_t0": 85,
+   "edge": 0.030000000000000027,
+   "confidence": 0.72,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.88, 0.88). (0) Not yet met, but close. Apple's Newsroom announced HomeView on 2026-10-13, a 7-inch smart-home display that is Apple's first smart display. Pre-orders are open and availability is set for Nov 13 in eight countries, so the 'launches' prong should be satisfied about seven weeks before the deadline. (a) There are about 11 weeks left until Dec 31, 2026. (b) Status quo: if HomeView ships Nov 13 as scheduled and the resolver accepts a smart display as a category Apple has not sold before, this resolves Yes. Forbes, TechRadar, Macworld and How To Geek all frame it that way. It also runs new 'HomeView' software that is neither iPadOS nor tvOS. The Home Collection cameras, thermostats and lock, arriving in December, are a weaker second path. (c) No scenario: a strict UMA resolver accepts the 'HomePod with a screen' framing (Pickr, TechCrunch) and notes Apple never says 'new category', or shipping slips past Dec 31. No delay has been reported, and the late-October Macs and iPads are only iterations, so nothing else can rescue Yes. (d) Yes scenario: HomeView ships Nov 13 and the resolver applies the plain test of a product category Apple has never sold, which a smart display meets. I anchor on the 85% market (bid 82 / ask 88) and nudge slightly up, because both open questions look weak and the shipping date is a public pre-order commitment. I keep about 12% for interpretive dispute risk on UMA, since Apple's own wording avoids 'new category'.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4710",
+   "has_trace": true
+  },
+  {
    "id": 3835,
    "scanned_at": "2026-10-03T20:48:37.165769",
    "date": "2026-10-03",
@@ -19702,6 +19744,20 @@
   }
  ],
  "Israeli airspace closed by October 31, 2026?": [
+  {
+   "id": 4695,
+   "scanned_at": "2026-10-14T08:43:57.614965",
+   "date": "2026-10-14",
+   "agent": 9,
+   "market_price_t0": 10,
+   "edge": -0.010000000000000009,
+   "confidence": 0.6,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) No qualifying closure since market creation (Sep 15): SafeAirspace/OPSGROUP lists LLLL open in Oct 2026, IAA shows normal operations, and current warnings are foreign advisories excluded under (ix); the Yom Kippur closure is excluded under (ii). (a) About 17 days remain, to Oct 31, 11:59 PM ET. (b) Status quo is No: since April Israel has deliberately kept the FIR open under Iranian missile fire using takeoff/landing pauses (ATM measures, excluded under viii), and major carriers return Oct 24-26. (c) No: the truce holds through the Oct 27 election; any proxy or Iranian fire brings only pauses. (d) Yes: a US/Israeli resumption of strikes on Iran (an unconfirmed Oct 9 report of US strike options, stalled Hormuz talks) prompts an immediate Transport Ministry closure, as on Feb 28. The market is 10.5%; the related ceasefire-through-Oct-31 market implies about a 14.5% breakdown chance, of which only a first-strike scenario reliably produces a general closure, so I land slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4695",
+   "has_trace": true
+  },
   {
    "id": 4102,
    "scanned_at": "2026-10-07T08:12:51.479370",
@@ -20002,6 +20058,20 @@
   }
  ],
  "Russia military action against an EU country by December 31, 2026?": [
+  {
+   "id": 4703,
+   "scanned_at": "2026-10-14T11:02:32.900935",
+   "date": "2026-10-14",
+   "agent": 7,
+   "market_price_t0": 8.5,
+   "edge": -0.015,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) No source shows the condition met. The resolution-source read finds no official or consensus report of a Russian strike aimed at EU land territory since the market opened on 2026-09-19. The October 5–13 drone strikes on ships off Romania and Bulgaria fall in exclusive economic zones, which the rules exclude, and neither government has attributed them to Russia. Every incident since September 19 was an interception, a crash or debris, which the rules also exclude. (a) About 11 weeks remain, to December 31, 2026. (b) If nothing changes, the market resolves No: in 4.5 years of war no impact has been judged deliberate, and even Galați in May 2026, the clearest impact, would likely fail the 'directed at an EU target' test because Romania said it could not conclude the drone was deliberately aimed. (c) NO: Russia keeps hitting the Danube ports and Ukrainian energy sites; strays are shot down under new shoot-down authority or crash without clear intent; the Kaliningrad threats stay rhetorical. (d) YES: Russia carries out the 'limited strike' on infrastructure supporting Ukraine that Danish intelligence warns of, or a drone or missile hits a Romanian or Polish town or border crossing in a way that hardens the consensus on intent. Spillover is rising sharply (54 Russian attacks near Romania's border by mid-August versus 28 in all of 2025), and US and Danish intelligence flag a growing risk this autumn. Anchoring on Polymarket's 8.5%, I shade slightly lower because the 'directed at' and consensus clauses make strays very hard to count. The rising spillover rate and the intelligence warnings keep a real tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4703",
+   "has_trace": true
+  },
   {
    "id": 3752,
    "scanned_at": "2026-10-02T14:40:26.280741",
@@ -20350,6 +20420,20 @@
   }
  ],
  "Will the Republicans win the Mississippi Senate race in 2026?": [
+  {
+   "id": 4719,
+   "scanned_at": "2026-10-14T15:48:49.220083",
+   "date": "2026-10-14",
+   "agent": 92,
+   "market_price_t0": 92.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.72,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.92, 0.92). (0) The condition is not met yet. The election is Nov 3, 2026, and AP, Fox and NBC have made no call. Hyde-Smith (R) faces Colom (D) and independent Ty Pinkins. (a) About three weeks remain until the election; the market resolves on the network calls or on certification. (b) Status quo strongly favors YES. Every major rater (Cook, Sabato, Inside Elections, Fox, RCP, Silver Bulletin, Split Ticket) rates the race Solid or Safe R, and DDHQ and The Economist rate it Likely R. Hyde-Smith has roughly a 3:1 cash edge, outspends Colom on ads, and has Trump's endorsement. Democrats have not won a Mississippi Senate race since 1982. (c) NO path: a strongly Democratic national environment (markets give Democrats about 63% for the Senate and 90% for the House), high Black turnout, and an unpopular incumbent hit by gaffes like the 'proteins' remark. Add a big surrogate push (Obama ads, Harris, Buttigieg, Warnock), and the R+3 to R+6 Democratic-sponsored polls prove accurate or understate Colom. (d) YES path: Mississippi's inelastic, racially polarized electorate holds, and Hyde-Smith wins by high single digits or more. Even the friendliest Democratic polls never show Colom ahead head-to-head. A runoff, if one occurred, is included in resolution and would likely favor her as it did in 2018. I anchor on the Polymarket price of 92.5%, which matches Kalshi at about 92%. I found no unpriced information to justify moving. The Democratic environment is real but already reflected in the market, and with no independent polling the uncertainty is symmetric.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4719",
+   "has_trace": true
+  },
   {
    "id": 4070,
    "scanned_at": "2026-10-06T21:37:43.103842",
@@ -20846,6 +20930,20 @@
   }
  ],
  "Will Benjamin Netanyahu be the next leader out before 2027?": [
+  {
+   "id": 4699,
+   "scanned_at": "2026-10-14T09:31:50.459573",
+   "date": "2026-10-14",
+   "agent": 24,
+   "market_price_t0": 27.5,
+   "edge": -0.03500000000000003,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.23, 0.25). (0) Not met: Oct 12–14 reporting shows Netanyahu still PM, now as caretaker, and caretaker status does not count under the rules. YES needs a successor sworn in, or his death or permanent removal, by 31 Dec. (a) About 78 days remain; the election is 27 Oct, results about 4 Nov, mandate assigned by about 11 Nov, and the first mandate plus extension ends about 23 Dec, so only a first-mandate success fits before year-end. (b) Status quo is Netanyahu as caretaker through 31 Dec, resolving NO. (c) NO: deadlocked polls with both blocs near 52–53 seats, an opposition split on Arab support and leadership, Liberman rejecting a minority government and Gantz open to Netanyahu, so formation slips past year-end, a fifth election is called, or Netanyahu forms his own government. (d) YES: small right-wing lists miss the threshold, the Eisenkot bloc nears 61, he gets the mandate and a government or minority arrangement is approved within about 42 days. The related next-PM market (Netanyahu about 30%) implies a likely eventual change, but historical formation times (58 days in 2022 with a clear majority, about 80 in 2021) make a sworn successor within about 65 days a minority outcome. My estimate is roughly 55% that the opposition forms a government at all times about 40% that it happens in time, plus small health/legal tails and a small risk another listed leader leaves first. I shade slightly below the 27.5% market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4699",
+   "has_trace": true
+  },
   {
    "id": 3367,
    "scanned_at": "2026-09-23T21:41:48.437517",
@@ -21757,6 +21855,20 @@
  ],
  "Will the Democrats win the Iowa governor race in 2026?": [
   {
+   "id": 4707,
+   "scanned_at": "2026-10-14T11:47:27.427652",
+   "date": "2026-10-14",
+   "agent": 87.5,
+   "market_price_t0": 90.5,
+   "edge": -0.030000000000000027,
+   "confidence": 0.66,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.87, 0.88). (0) Not resolved. The election is Nov 3, 2026, so AP, Fox and NBC have made no call. Resolution needs those three to agree on a winner, or failing that, official certification. (a) The vote is about 20 days away, with early voting opening Oct 14 and three debates left (Oct 14, 21, 27). (b) Status quo favors YES. Democrat Rob Sand leads every public poll found: RCP average +8.4, DDHQ +11.1, individual polls from +4 (Emerson, Oct 5–6) to +12 (Suffolk, NYT/Siena, Marist). Cook rates it Lean D, Sabato Lean D, Inside Elections Tilt D. Sand also has a large cash edge (about $18M vs about $1M in July), and the Republican nominee is a weak upset primary winner. (c) NO path: Iowa polls under-measure Republicans again, as they did by about 5–7 points in 2020 and 2024. The GOP registration edge (+184k active voters) and midterm turnout among older voters close the gap. Lahn consolidates the roughly 6% undecided, and a debate stumble or Republican early-vote banking tips a race the closest polls show within the margin of error. (d) YES path: Sand holds double-digit margins among independents and about 10% Trump crossover in a Dem-leaning midterm (Trump approval 41–42%), wins by 4–10, and all three outlets call it on election night. The Polymarket anchor is 90.5% and Kalshi was about 87–89%. I shade slightly below the market to price Iowa's documented history of polls missing toward Republicans and the structural registration gap, landing at about 87%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4707",
+   "has_trace": true
+  },
+  {
    "id": 3549,
    "scanned_at": "2026-09-29T02:30:40.869623",
    "date": "2026-09-29",
@@ -21832,6 +21944,20 @@
   }
  ],
  "Next Astra Model (6.1+) released by October 31, 2026?": [
+  {
+   "id": 4701,
+   "scanned_at": "2026-10-14T10:16:31.184877",
+   "date": "2026-10-14",
+   "agent": 23.5,
+   "market_price_t0": 29.5,
+   "edge": -0.06,
+   "confidence": 0.525,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.23, 0.24). (0) The condition is not met. OpenAI confirmed on Sept 28 (CNBC, CBC, Engadget, The Register) that it scrapped the planned October GPT-6.1 Astra release over alignment regressions. It shipped GPT-6.1 Sol at DevDay instead, and Sol does not qualify. As of Oct 13–14, Wikipedia, Releasebot and the API listings show no Astra 6.1+ model or ID. (a) About 17 days remain, to Oct 31 ET. (b) If nothing changes, the market resolves NO: the release was postponed indefinitely with no new date. The stated remedy is root-cause analysis plus new RL training and re-evaluation, and one source reports a training pause on frontier models. (c) NO scenario: retraining and re-testing run into November or December. That fits the related Dec 31 market at 92% and the Oct 23 market at 16.5%. (d) YES scenario: OpenAI quickly retrains the retained base model and ships a renamed 'GPT-6.2 Astra' or a 'Bell'-based Astra in late October, fully public rather than as a limited preview. Hints supporting this are Altman calling the model finished and held back, Sottiaux's 'next week' comment, and OpenAI saying 'more Astra models are coming'. All of these are secondhand. The market sits at 29% and rose about 9.5 points this week, which may reflect rumours I can't see. Without any concrete revival evidence, and given the need for a full public release in 17 days after a safety cancellation, I shade modestly below the market to about 23%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4701",
+   "has_trace": true
+  },
   {
    "id": 4108,
    "scanned_at": "2026-10-07T09:45:52.555447",
@@ -22046,6 +22172,20 @@
   }
  ],
  "Will there be no next Google Gemini Pro model release by October 31, 2026?": [
+  {
+   "id": 4716,
+   "scanned_at": "2026-10-14T14:58:21.896734",
+   "date": "2026-10-14",
+   "agent": 91.5,
+   "market_price_t0": 91.5,
+   "edge": 0,
+   "confidence": 0.72,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.91, 0.92). (0) Not resolved yet. Google's own models page and changelog (fetched Oct 13–14) list no new Pro-labelled Gemini model since the market opened Sept 22. The only frontier release is 'gemini-4-argon' (GA Oct 13), a codename with no Pro label. The word 'Pro' in its launch materials refers to the Google AI Pro subscription tier, not the model name. (a) 17 days remain, to Oct 31. (b) Status quo is Yes: Gemini 3.1 Pro (Feb 2026) remains the newest Pro-named model. Reuters (via Resultsense) and Engadget report that 3.5 Pro was dropped in favour of Argon. No Gemini 4 Pro model ID, preview, waitlist or event has been signalled. (c) No path: Google surprise-ships a Pro-labelled Gemini 4 sibling, revives 3.5 Pro, or promotes 3.1 Pro to GA before Oct 31. Alternatively, the resolver counts Argon as the 'next Pro' because of its flagship status. (d) Yes path: Google spends the next two weeks rolling out Argon to more users and surfaces, with only Flash or codename models alongside it. Google's 8-month gap without a Pro release supports this. The Polymarket anchor is 91.5% and held steady after Argon went GA, which suggests traders read the label literally. I see no unpriced information to move far from it, so I keep about 9% for a surprise release or resolution ambiguity.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4716",
+   "has_trace": true
+  },
   {
    "id": 4121,
    "scanned_at": "2026-10-07T13:35:26.632630",
@@ -22896,6 +23036,20 @@
   }
  ],
  "Will the Democrats win the Arizona governor race in 2026?": [
+  {
+   "id": 4723,
+   "scanned_at": "2026-10-14T17:27:04.954474",
+   "date": "2026-10-14",
+   "agent": 86,
+   "market_price_t0": 88.5,
+   "edge": -0.025000000000000022,
+   "confidence": 0.64,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.86, 0.86). (0) Resolution check: the race has not been decided. The election is November 3, 2026, and the resolution-source read confirms that AP, Fox and NBC have made no calls, so the outcome still depends on the vote and on those calls or certification. (a) About 20 days remain until election day; delayed calls would fall back to official certification of the winner, so delay mainly affects timing, not the outcome. (b) Status quo favors Yes. Incumbent Democrat Hobbs leads in every public poll since the primary, from D+6 (Equis, Cortes, and the GOP-aligned Grayhouse internal) to D+17 (HighGround), with poll averages around D+6 to D+8. All forecasters rate the race Lean, Tilt or Likely D, and it is a midterm under a Republican president. (c) No scenario: late Republican consolidation from roughly 71-75% loyalty toward the usual 90%, combined with the roughly 300,000-voter GOP registration edge and a polling miss toward Republicans, erases a mid-single-digit lead. Quant models such as PoliAgg (69%, median D+4.3) give this real weight. (d) Yes scenario: Hobbs keeps her 20-30 point lead among independents and continued GOP crossover helped by running mate Giles, wins by mid-to-high single digits, and is called within days. I anchor on Polymarket's 88.5%, which Kalshi at about 87% corroborates. I shade slightly down toward the more conservative models given thin liquidity and the narrower poll average, but the midterm environment and Biggs's worsening favorability keep me near the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4723",
+   "has_trace": true
+  },
   {
    "id": 3915,
    "scanned_at": "2026-10-04T22:24:58.834373",
@@ -24276,6 +24430,54 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.92, 0.92). (0) The condition is not yet met. Voting has not happened, but every credible source as of Oct 10–13 (Wikipedia, Library of Congress, Fox, Anadolu/MEMO, Ynet) treats Oct 27 as fixed. The Knesset dissolved unanimously on Jul 17, lists are closed, ballots are being printed, and IDF voting logistics and campaign broadcasts are under way. (a) Two weeks remain until Oct 27, so a snap election before then is effectively impossible. NO now requires a nationwide postponement. (b) If nothing changes, the status quo is YES: polls open nationwide on Oct 27. (c) The NO scenario: a US and/or Israeli strike on Iran in the next ~10 days draws massive missile fire on Israel. Channel 12 reported a decision expected around Oct 16–19, and Zamir warned this could delay the vote. The Knesset would then pass a 1973-style postponement law (80 MKs needed), or the CEC would move nationwide voting off Oct 27. (d) The YES scenario: Trump's pledge of no strike before Nov 3 holds, the Iran ceasefire persists, and any rocket or cyber incident is handled with local delays or extended hours, which still resolves YES. The related ceasefire-through-Oct-31 market at 84.5% implies roughly a 12–15% chance of renewed conflict in the window. Even then, postponement is far from automatic: the date held through a 7-month war earlier in 2026, and 80 MKs including the opposition are required. I put NO at about 7–9%, slightly more confident in YES than the 89.75% market anchor.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/4628",
+   "has_trace": true
+  }
+ ],
+ "Katie Zacharia out as Press Secretary by December 31?": [
+  {
+   "id": 4729,
+   "scanned_at": "2026-10-14T19:01:59.944614",
+   "date": "2026-10-14",
+   "agent": 21,
+   "market_price_t0": 24.5,
+   "edge": -0.035,
+   "confidence": 0.5,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.21, 0.21). (0) Not met: Wikipedia and a 13 Oct whitehouse.gov release show Zacharia as the sitting 37th Press Secretary. No resignation or removal has been announced, and the withdrawn-appointment clause no longer applies. (a) About 11 weeks remain, to 11:59 PM ET on 31 Dec 2026, a window that includes the 3 Nov midterms. (b) Status quo is No: Trump praised her on camera, Cheung backed her on the record, a firing would reopen a costly vacancy, and no press secretary has left within about 80 days outside special circumstances. (c) No: briefings improve or stay infrequent, the slow California Bar complaint fades, and she serves into 2027. (d) Yes: Trump sours after more bad outings or a growing story about the 'attorney' claim he repeated, as with the quick Guilfoyle removal, or a post-midterm shake-up; an announcement alone resolves Yes. I anchor on Polymarket's 24.5% (down 7 points since launch); the 6.5% Oct 31 and 3% Kalshi Oct 20 markets show most risk is priced later in the window. I shade slightly below the market because the base rate is very low and the 'Trump rages' and anonymous-doubts reports are unverified and contradict his on-record praise.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4729",
+   "has_trace": true
+  }
+ ],
+ "Military action against Saudi Oil Pipeline (East-West) by October 31?": [
+  {
+   "id": 4726,
+   "scanned_at": "2026-10-14T18:16:31.814282",
+   "date": "2026-10-14",
+   "agent": 39,
+   "market_price_t0": 43,
+   "edge": -0.03999999999999998,
+   "confidence": 0.49,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.38, 0.40). (0) The condition has not been met. The market opened Oct 7, so the contested Oct 4 Khurais report cannot count. No credible report of a pipeline or pumping-station impact appears between Oct 7 and Oct 14, and the sister Oct 15 market trading at 2% agrees. (a) About 17 days remain, to Oct 31 at 11:59 PM Riyadh time. (b) If nothing changes, the market resolves No. (c) No path: Houthi salvos keep targeting Riyadh, Dhahran, airports and Red Sea ports, and the strikes aimed at oil sites are intercepted. The Iraqi PM's Oct 14 pledge curbs the militia launch route. Oman, Russia and China mediation produces a lull, or any hit stays contested because Saudi Arabia does not confirm it, as happened with Khurais. (d) Yes path: the Houthis, who vowed on Oct 14 to keep striking oil facilities and who reached Aramco HQ in Dhahran, put a missile or drone salvo through to one of 11 lightly defended pumping stations. Alternatively, Iraqi militias repeat the Sept 10–11 strike, and Reuters/AFP sources or Saudi officials confirm the impact. A possible US entry into strikes on the Houthis would raise the odds of retaliation. Base rate: confirmed hits came in April and on Sept 10–11, plus the contested Oct 4 report. That is roughly one credible event a month during the current escalation, which implies about 35–45% for a 17-day window. The Polymarket anchor of 43% fits that, and so does the Nov 30 market at 57%. I shade slightly below the market for three reasons: the strict impact-and-consensus test, the patchy Saudi confirmation record, and Houthi targeting being concentrated on cities and Aramco hubs rather than the pipeline.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4726",
+   "has_trace": true
+  }
+ ],
+ "Will Iran sabotage undersea internet cables by October 31?": [
+  {
+   "id": 4721,
+   "scanned_at": "2026-10-14T16:40:33.333947",
+   "date": "2026-10-14",
+   "agent": 6.5,
+   "market_price_t0": 9.5,
+   "edge": -0.03,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Not resolved. Al Jazeera (13 Oct), Minute Mirror (14 Oct) and the Oct 14 live blogs report no cable damage attributed to Iran or a proxy. Iranian statements so far are threats only. (a) About 17 days remain until Oct 31, 11:59 PM ET, plus a possible 3-day window if attribution is disputed. (b) Status quo is No: no cut has been credibly attributed to Iran or a proxy in 7.5 months of war, including two months of intense Hormuz ship attacks since the MOU lapsed. (c) NO path: Rezaei's threat is explicitly conditional on war resuming, and Trump says he won't resume strikes before the Nov 3 midterms. Ship attacks then continue as surface strikes on tankers without hitting cables, and any fault that does occur is unattributed, like the Sept 2025 Jeddah cuts. (d) YES path: a ship hit by an IRGC or Houthi strike at an Omani or Red Sea anchorage drags its anchor or sinks onto a cable, Rubymar-style. Alternatively, Iran makes a deniable 'warning' cut on Falcon or GBI that credible reporting still pins on it. The record-high tempo of anchorage attacks, with 20 Hormuz incidents since Oct 1 and a ship reportedly sunk, keeps this tail real. The market sits at 9.5% (bid 8, ask 11), and a sibling snapshot was about 6% on Oct 13. Given the stated trigger falls outside the window and attribution is hard to establish, I shade slightly below the market to about 6.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4721",
    "has_trace": true
   }
  ]

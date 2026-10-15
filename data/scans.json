@@ -2159,6 +2159,20 @@
  ],
  "Iran agrees to end enrichment of uranium by December 31?": [
   {
+   "id": 4801,
+   "scanned_at": "2026-10-15T16:34:55.530303",
+   "date": "2026-10-15",
+   "agent": 7,
+   "market_price_t0": 9,
+   "edge": -0.01999999999999999,
+   "confidence": 0.65,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) No source shows the condition met. The resolution-source read (Oct 8–9) has AEOI chief Eslami saying Iran will abandon enrichment 'under no circumstances.' The Trump claim in April and the Al Hadath report in September were both denied by Tehran, so neither counts as an official Iranian pledge. (a) About 11 weeks remain until Dec 31, 2026. (b) Status quo is No: Iran's public line from the nuclear agency, parliament and the foreign ministry is that enrichment is non-negotiable. Talks are indirect via Qatar and described as stalled, and hostilities resumed in September. (c) No scenario: talks drift, or the US carries out the reported post-midterm bombing. Alternatively a deal centres on Vance's softer ask for a 'meaningful' cut in capacity, which would not qualify because caps and limits are excluded. (d) Yes scenario: mediation revives the Islamabad framework and produces a final deal or nuclear annex before year-end. That deal would include an officially confirmed multi-year moratorium; Axios reported Iran countering with roughly 5 years, and the US sought 12–15. Iran would publicly own it, which is easier because it is de facto not enriching after the strikes. Against the 9% market anchor, the US shift away from zero enrichment toward a capacity reduction is a specific negative that lowers the odds of a qualifying 'end all enrichment' formulation. Some upside remains from loose wording or a moratorium being reported as a halt under the 'consensus of credible reporting' rule. Net, I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4801",
+   "has_trace": true
+  },
+  {
    "id": 4153,
    "scanned_at": "2026-10-08T00:10:27.635926",
    "date": "2026-10-08",
@@ -10343,6 +10357,20 @@
  ],
  "Ink FDV above $500M one day after launch?": [
   {
+   "id": 4786,
+   "scanned_at": "2026-10-15T11:45:33.865161",
+   "date": "2026-10-15",
+   "agent": 13.3,
+   "market_price_t0": 17.5,
+   "edge": -0.04249999999999998,
+   "confidence": 0.575,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.14, 0.13). (0) Not resolved. As of 2026-10-15, Kraken's API returns 'Unknown asset' for INK and CoinGecko lists no Ink Foundation token. The Chainstack and Eco guides from about Oct 6 say INK is announced but not launched, with no published date. For YES, INK must become publicly tradable by Dec 31, 2026, and then trade above $0.50 (FDV over $500M on the fixed 1B supply) at 4 PM ET the next day.\n\n(a) About 11 weeks remain.\n\n(b) The status quo, no launch, resolves No.\n\n(c) NO scenario: Kraken keeps delaying, as it has for 16 months, and the token launches in 2027. Supporting this: the advisor-floated July–September window passed, Payward pushed its IPO to mid-2027 citing a weak market, and no snapshot or tokenomics has been announced. A rushed launch into a weak tape that prices below $0.50 also resolves No.\n\n(d) YES scenario: a surprise Q4 snapshot and Kraken Drops airdrop, followed by a low-float listing on Kraken and other venues. Kraken's distribution and Nado's fee base would then carry the price above $0.50.\n\nAnchors: this market trades at 17.5%, and the sibling 'launch by Dec 31, 2026' market is at 21.5%. I estimate launch odds slightly lower, around 17–19%, given zero pre-TGE signals this late. I put P(FDV > $500M | launch) at roughly 70–80%, given the weak market and $210M TVL. That gives about 13–14%, modestly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4786",
+   "has_trace": true
+  },
+  {
    "id": 4158,
    "scanned_at": "2026-10-08T01:43:29.742702",
    "date": "2026-10-08",
@@ -11108,6 +11136,20 @@
   }
  ],
  "Puffpaw FDV above $100M one day after launch?": [
+  {
+   "id": 4808,
+   "scanned_at": "2026-10-15T19:06:03.385029",
+   "date": "2026-10-15",
+   "agent": 18,
+   "market_price_t0": 22.5,
+   "edge": -0.04500000000000001,
+   "confidence": 0.5,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.18, 0.18). (0) Not resolved. The resolution-source read on 2026-10-15 shows no $VAPE launch: CoinMarketCap has only an untracked preview page with no price, and the Polymarket market is still open. (a) About 11 weeks remain until the 2026-12-31 11:59 PM ET launch deadline. (b) Status quo is No: if no token launches, the market resolves No. Puffpaw has slipped its TGE since February, when the supply-cut post treated TGE as imminent, and no TGE date, exchange listing or final tokenomics has been announced. (c) No path: the TGE slides into Q1 2027, which the sibling launch market prices higher than Dec 2026 (32.5% by Mar 31 vs 24.5% by Dec 31). Or it launches but airdrop selling of a usage-reward DePIN token holds the price below $0.10, since analysts' base case was $50–100M FDV. (d) Yes path: a November–December TGE with a BNB Chain or Binance-style listing and a low initial float. The CMC preview already shows a BNB contract and a 140M circulating supply. Strong revenue of about $17M then supports a day-one price above $0.10. The anchor is 22.5%, but the joint probability is capped by the launch leg. The sibling launch-by-Dec-31 market is about 24.5%, though thin. Even with a generous ~30% launch chance and ~55–60% conditional odds of FDV above $100M, the joint comes to roughly 16–18%. The FDV ladder also looks stale and incoherent, with the $50M strike at 23%, roughly equal to the $100M strike. I therefore shade below the anchor to 18%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4808",
+   "has_trace": true
+  },
   {
    "id": 4051,
    "scanned_at": "2026-10-06T15:14:29.049602",
@@ -14181,6 +14223,20 @@
  ],
  "Will the U.S. invade Cuba in 2026?": [
   {
+   "id": 4779,
+   "scanned_at": "2026-10-15T09:24:22.862545",
+   "date": "2026-10-15",
+   "agent": 5.3,
+   "market_price_t0": 7.5,
+   "edge": -0.022499999999999992,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.05). (0) Not yet met. As of mid-October 2026, no credible source reports a U.S. offensive to seize Cuban land. CBS shows no strike or landing and no deployment orders. For YES, a presidential decision, a visible force buildup and a landing or air assault aimed at holding territory would all have to happen by Dec 31. (a) About 11 weeks remain. (b) If nothing changes, this resolves NO: the U.S. is relying on the oil blockade, sanctions and planning leaks, and Trump said on Sept 26 that he does not expect to need the military. (c) NO path: pressure continues, talks drag on through communication channels, and Iran-war commitments keep assets tied down. The Army Reserve 90–120 day availability window, which starts around Dec 24, falls at or after the deadline. Any action that does come is more likely a Venezuela-style raid or a strike, which the Maduro precedent suggests would not count as an invasion. (d) YES path: a regime collapse, unrest or a migration surge, or Rubio declaring talks failed, prompts a fast 101st Airborne or Marine operation from Guantánamo to seize airfields or ports in December. CSIS notes a large operation would be visible weeks ahead, and no such buildup has been reported. The market anchor is 7.5%, and the related strike market sits at about 10.5%. The research found no new escalation behind the recent +3% move, and the strict territory-control wording plus the timing arithmetic argue slightly below market. I put YES at about 5.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4779",
+   "has_trace": true
+  },
+  {
    "id": 1731,
    "scanned_at": "2026-08-23T12:02:11.416641",
    "date": "2026-08-23",
@@ -14436,6 +14492,20 @@
   }
  ],
  "Will Iran withdraw from the NPT before 2027?": [
+  {
+   "id": 4806,
+   "scanned_at": "2026-10-15T18:11:26.289281",
+   "date": "2026-10-15",
+   "agent": 9,
+   "market_price_t0": 11.9,
+   "edge": -0.028999999999999998,
+   "confidence": 0.6,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) No source shows an Article X notice. Resolution-source reads and news through Oct 12 (RealClearDefense Oct 9, Inkstick Oct 12) treat Iran as still an NPT party. The withdrawal bill has not reached the floor, and a lawmaker quoted senior officials saying 'for now, we are not leaving the NPT.' (a) About 11 weeks remain until Dec 31, 2026. The notice alone resolves YES, and the 3-month waiting period does not matter. (b) If nothing changes, the answer is NO. A Majlis vote, a 'suspension', or rhetoric would not count. Only an official written notice to the UN would. (c) NO scenario: Ghalibaf, who is also the chief negotiator with the US, keeps the bill bottled up. Talks through the Omani channel resume after the US midterms. The SNSC prefers the 'grey zone' of no inspections while keeping treaty cover and Russian and Chinese support. This repeats the 2006, 2019–20 and 2025 pattern of threats that were never carried out. (d) YES scenario: Trump's pledge of no strikes before Nov 3 lapses, the US or Israel strikes again, and SNSC secretary Rezaei acts on his line that exit 'depends on Washington's behavior'. The leadership then decides quickly, and the Foreign Ministry sends the letter. The market price of 12.1% (bid 11, ask 14) already reflects the elevated rhetoric: a bill backed by 130 MPs, the IAEA referral, and a stalled war. The base rate is one Article X notice in 55 years. The approval chain is long and its gatekeepers resist, and the cited sources show no leadership endorsement. I therefore shade slightly below the market, to about 9%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4806",
+   "has_trace": true
+  },
   {
    "id": 3806,
    "scanned_at": "2026-10-03T11:00:21.773879",
@@ -15134,6 +15204,20 @@
   }
  ],
  "Lee Jae-myung out as president of South Korea in 2026?": [
+  {
+   "id": 4788,
+   "scanned_at": "2026-10-15T12:32:42.215571",
+   "date": "2026-10-15",
+   "agent": 3,
+   "market_price_t0": 7.4,
+   "edge": -0.044,
+   "confidence": 0.72,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.03, 0.03). (0) The condition has not been met. Korea Times/Yonhap, SBS and Seoul Economic Daily reports from Oct 15, 2026 show Lee chairing senior-aide meetings and approving appointments ahead of his 500th day in office. No source reports a resignation, impeachment motion, detention or health problem. (a) About 11 weeks remain, to Dec 31, 2026. (b) If nothing changes, he stays in office and the market resolves No. (c) The main No path is the status quo. The Democratic Party (DP) holds 161 seats, with an allied bloc near 179. Impeachment needs 200 votes, so roughly 40 DP defections would be needed from a party now chaired by Lee's ally. His criminal trials are suspended under Article 84, and no detention route exists. (d) A Yes would need a sudden shock: death or incapacity (he was stabbed in 2024), an unforeseen scandal that triggers a mass DP revolt and an impeachment vote suspending his powers before year-end, or a resignation announcement. None of these has any visible precursor. Approval at 35–44% and conservative protests are real, but in Korean precedent removal has required an acute triggering act such as martial law or a major corruption scandal. The Polymarket anchor is 7.4%, with a 6/9 spread and a last close of 5.65%. That likely reflects longshot bias and capital tied up until the end of the year rather than a true ~7% hazard. The actuarial plus political tail risk over 2.5 months looks closer to 1–3%, so I shade below the market to 3%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4788",
+   "has_trace": true
+  },
   {
    "id": 3054,
    "scanned_at": "2026-09-17T04:24:02.148019",
@@ -17216,7 +17300,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-15T08:17:27.789Z",
+  "last_sync": "2026-10-15T19:06:55.715Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -17980,6 +18064,20 @@
   }
  ],
  "Will an AI lab announce another Millennium Prize solution by December 31, 2026?": [
+  {
+   "id": 4781,
+   "scanned_at": "2026-10-15T10:10:44.024330",
+   "date": "2026-10-15",
+   "agent": 18.5,
+   "market_price_t0": 22.5,
+   "edge": -0.04000000000000001,
+   "confidence": 0.55,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.18, 0.19). (0) The condition is not met. No eligible lab has announced a full solution to Riemann, P vs NP, Yang-Mills, Hodge or BSD. OpenAI's Sept 8 claim is about Navier-Stokes, which is excluded. Its Oct 6 release of 722 manuscripts (a zero-free region for Re>7/8; Hodge for CM abelian varieties) was explicitly framed as partial, and Clay still lists all five qualifying problems as unsolved. (a) About 77 days remain until Dec 31, 2026, 11:59 PM ET. (b) If nothing changes, labs keep publishing partial results and the market resolves NO. (c) NO scenario: OpenAI's next drops look like the October one, framed as progress, while Fields-Medalist backlash and IAS-vetted release practice keep it cautious. Anthropic and Google produce only bound improvements. (d) YES scenario: OpenAI's very fast internal model completes the rumoured full Hodge (or BSD) proof and posts it with 'resolves' wording, as it did for Navier-Stokes. The rules need only the announcement, not verification, and the Navier-Stokes work went from start to announcement in about a week. I anchor on the Polymarket price of 22.5%, which agrees with the sibling '0 more' market at 78%. The price has fallen steadily, down 9 points in a week and 35 in a month, with no qualifying news. The research adds that the only specific lead (Hodge) has already been published as a narrow partial result, and that the 'close to Hodge' rumour rests on one anonymous source. If the roughly 70-75% end-2027 estimates are spread evenly over 15 months, the implied chance for this 2.5-month window is about 18-20%. I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4781",
+   "has_trace": true
+  },
   {
    "id": 4092,
    "scanned_at": "2026-10-07T05:07:42.636773",
@@ -20983,6 +21081,20 @@
  ],
  "Will Hezbollah disarm by December 31?": [
   {
+   "id": 4784,
+   "scanned_at": "2026-10-15T11:01:09.658841",
+   "date": "2026-10-15",
+   "agent": 4,
+   "market_price_t0": 7,
+   "edge": -0.030000000000000006,
+   "confidence": 0.76,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.04). (0) No source shows the condition met. The resolution-source read and every research dimension find no formal Hezbollah disarmament announcement as of Oct 12–15, 2026. Qassem's Oct 6 offer to 'cooperate' on restricting weapons 'within constitutional frameworks' still depends on Israeli withdrawal, and the rules exclude conditional statements.\n(a) About 11 weeks remain until Dec 31, 2026, 11:59 PM ET.\n(b) The status quo is No. The June 2026 framework is frozen and talks are deadlocked over sequencing: Israel wants disarmament first, Hezbollah wants withdrawal first. Hezbollah is reportedly rearming and reinforcing on both sides of the Litani.\n(c) NO scenario: the military-level Oct 20–22 Tampa round brings at most a modest pilot-zone expansion, and Hezbollah keeps its 'no concessions' line. Israeli elections on Oct 27 delay any package. Hezbollah has made no formal disarmament announcement in about 37 years.\n(d) YES scenario: a US-brokered package passed through Berri links Israeli withdrawal to staged, region-by-region handovers north of the Litani under UN verification. Qassem then formally endorses a phased process, and a lenient resolver counts it. Polymarket's related market prices Israeli withdrawal by year-end at about 4%, which caps this path.\nThe market sits at 7% and has drifted down. The resolution criteria are strict but leave some room for a 'partial' or 'certain region' reading. I shade slightly below the market to about 4%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4784",
+   "has_trace": true
+  },
+  {
    "id": 3374,
    "scanned_at": "2026-09-24T02:30:40.992099",
    "date": "2026-09-24",
@@ -22117,6 +22229,20 @@
  ],
  "Eritrea invades Ethiopia by December 31?": [
   {
+   "id": 4793,
+   "scanned_at": "2026-10-15T14:05:37.844147",
+   "date": "2026-10-15",
+   "agent": 17.5,
+   "market_price_t0": 18.5,
+   "edge": -0.010000000000000009,
+   "confidence": 0.5,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.17, 0.18). (0) The condition is not met. Eritrean troops entered Tigray around 3–7 Oct, but ACLED logs their withdrawal through Zalambessa on 12 Oct. Ethiopian forces have since retaken Fatsi, Zalambessa and Rama, and no credible outlet describes Eritrea controlling a named Ethiopian locality. The October sibling market at 9.5% also suggests traders do not expect that episode to count retroactively. (a) About 11 weeks remain until 31 Dec, plus a 7-day confirmation window if entry happens near the deadline. (b) If nothing changes, Eritrea stays behind the border in a defensive posture, calling citizens to defend Assab and filing UN Chapter VII requests, and the market resolves No. (c) NO: international pressure from Rubio, the UK, the AU and the UN Security Council keeps this a standoff. Alternatively, escalation comes as an Ethiopian push toward Assab, and the fighting happens on Eritrean soil, which does not count. (d) YES: Ethiopia attacks across the border, or Eritrea moves to shield the retreating TPLF near Sheraro and Irob. Eritrea counterattacks and holds ground such as Zalambessa, Rama or the Afar front for more than 48 hours, and Reuters, AFP and ACLED describe it as control. Diplomatic ties are severed, the armies are in direct contact and Crisis Group warns of all-out war, so this is plausible, but it needs both a war and a sustained, confirmed Eritrean occupation. I put roughly 35% on open interstate war and roughly 40% on Eritrea holding Ethiopian ground given war, plus a small chance the October episode is judged to qualify. That lands slightly below the 18.5% market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4793",
+   "has_trace": true
+  },
+  {
    "id": 4138,
    "scanned_at": "2026-10-07T19:16:22.416086",
    "date": "2026-10-07",
@@ -22466,6 +22592,20 @@
   }
  ],
  "Will Trump speak to Ahmed al-Sharaa by October 31?": [
+  {
+   "id": 4796,
+   "scanned_at": "2026-10-15T14:57:19.270381",
+   "date": "2026-10-15",
+   "agent": 30,
+   "market_price_t0": 52,
+   "edge": -0.22000000000000003,
+   "confidence": 0.49,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.30, 0.30) after one crux research pass. (0) No source shows a qualifying Trump–al-Sharaa verbal contact since the market opened on Oct 1. The latest contacts found are a July 8 bilateral, an apparent group handshake at UNGA on Sept 22 (unconfirmed, and before the window anyway), and calls on Jan 19/27 and May 31. (a) About 16 days remain until Oct 31 11:59 PM ET, plus a 3-day confirmation window. (b) If nothing changes, the market resolves No. No visit, summit or scheduled call involving both leaders exists before Oct 31. Trump is on a midterm rally schedule, and his next foreign summit is ASEAN in mid-November. (c) NO: the US–Syria relationship stays at envoy level (Barrack–Shaibani), the Syria–Israel track stays stalled, and the Saudi–Houthi crisis is handled with the Gulf leaders. (d) YES: an unscheduled call prompted by the Houthi/Saudi escalation, Israeli strikes on Syria, a terror-list or sanctions milestone, or a Syria–Israel breakthrough, announced the same day by the Syrian presidency, which past practice suggests would suffice. The base rate of about 7 contacts in 17 months implies roughly 15–25% for this window. The Polymarket mid of 51% sits on a very wide 32/70 spread with thin volume, so it is a weak anchor. Its +19% move this week is the main reason I don't go lower, since it may reflect a rumor or regional development I can't see. I land at about 30%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4796",
+   "has_trace": true
+  },
   {
    "id": 4198,
    "scanned_at": "2026-10-08T14:26:10.369233",
@@ -23727,6 +23867,20 @@
  ],
  "Will Bitcoin hit $100k by December 31, 2026?": [
   {
+   "id": 4803,
+   "scanned_at": "2026-10-15T17:20:56.896950",
+   "date": "2026-10-15",
+   "agent": 20,
+   "market_price_t0": 24,
+   "edge": -0.03999999999999998,
+   "confidence": 0.6,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.20). (0) The condition has not been met. Binance monthly klines from the data-api.binance.vision mirror show no BTC/USDT high at or above $100k since the market opened on 2026-08-20. The 2026 peak is $97,924 in January, and the October high so far is $87,220. (a) About 11 weeks remain, to 23:59 ET on Dec 31, 2026. (b) If nothing changes, the outcome is No: BTC is around $80.5–82.5k after the hot September CPI, so it needs a gain of roughly 21–24%. (c) No scenario: the Fed hikes or stays hawkish at the Oct 27–28 or December meeting, yields stay above 5%, ETF outflows continue (over $1B in October), and Mt. Gox supply arrives. BTC then stays capped in the $80–90k range, as it did after the late-September failure near $90k. (d) Yes scenario: a pause at the FOMC, expanded Treasury buybacks, or another short squeeze like August's (over 20% in three days with low leverage) carries BTC through $90k and $95k to a 1-minute wick at $100k. Heavy call open interest at $95–100k could amplify that move through dealer hedging. The market anchor is 24% (bid 23%, ask 25%). A driftless barrier calculation at roughly 37% implied vol gives about 20–22%. Today's slide toward $80k, the risk-off tape across assets, and repeatedly failed rallies lean slightly below the anchor, so I shade it to about 20%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4803",
+   "has_trace": true
+  },
+  {
    "id": 4206,
    "scanned_at": "2026-10-08T16:50:33.754132",
    "date": "2026-10-08",
@@ -24714,6 +24868,54 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.68, 0.68). (0) The resolving no-style-control table was blocked by Cloudflare, so the outcome is not settled. Multiple secondary sources (Manifold Oct 2, the Arena weekly report for Oct 5–11, llmrun.dev, The Sweat Oct 8) agree that Google's gemini-4-argon-high is #1 at about 1525 ±9, ahead of Meta's Muse Wonder (about 1513) and Claude Opus 5.5 High (about 1507). (a) About 17 days remain until the Oct 31 noon ET check. (b) If nothing changes, Google wins: the lead has been stable for two weeks and is broad across categories. (c) NO comes from Argon's preliminary, early-access-based score of about 4.9k votes drifting down after the Oct 13 general rollout, Muse Wonder closing a 12-point gap, or a new Anthropic Text entry (Fable 5.1 or Mythos-class) debuting above it. There is also an unverified risk that the style-control-off view ranks differently from the default view most reports cite. (d) YES comes from Argon holding around 1515–1525 with no new entry beating it; OpenAI's GPT-6 entries sit around 1483 and are not a threat, and near-ties favor Google through the score and alphabetical tiebreaks. The market anchor of 67.8% (Anthropic at 31.5%) already appears to price these risks, and I find no specific unpriced information, so I stay close to it.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/4736",
+   "has_trace": true
+  }
+ ],
+ "Will the OpenAI spy be accused of working for Russia by December 31?": [
+  {
+   "id": 4799,
+   "scanned_at": "2026-10-15T15:47:11.056759",
+   "date": "2026-10-15",
+   "agent": 5,
+   "market_price_t0": 14.5,
+   "edge": -0.09499999999999999,
+   "confidence": 0.69,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.05) after one crux research pass. (0) The condition has not been met. The DOJ release of Oct 13 and all coverage through Oct 15 name no foreign government, sponsor or recipient, and nothing mentions Russia. The single charge is a Wiretap Act count. (a) About 2.5 months remain until Dec 31, 2026. The checkpoints are the Oct 19 detention hearing and an indictment due around Nov 8, unless that deadline is waived. (b) If nothing changes, the market resolves No. Neither the government nor OpenAI has attributed the act to any state, let alone Russia. (c) The likely No path is an indictment that tracks the single wiretap count, or a state-nexus theory that points to Saudi Arabia, given his Raed Ventures role and the one-way flight to Riyadh. Either way, no definitive Russia allegation appears by year end. (d) A Yes would need the FBI to find a Russian handler or payment and DOJ to say so publicly, through a §951 or §1831 superseding charge or a court filing that definitively states Russian direction, all before Dec 31. The market sits at 14.5%, which looks rich to me. Even the chance of any state attribution by Dec 31 seems around 15-20%. Russia should get only a small share of that, since every lead points to Saudi Arabia and the 2019 Twitter case named its sponsor at the complaint stage, which DOJ did not do here. The move from 8.5% to 14.5% on thin volume ($16k) with no news behind it looks like noise rather than informed trading. I keep a small allowance for sealed evidence and price Yes near 5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4799",
+   "has_trace": true
+  }
+ ],
+ "Will the Republican Party win the NY-21 House seat?": [
+  {
+   "id": 4791,
+   "scanned_at": "2026-10-15T13:20:41.649114",
+   "date": "2026-10-15",
+   "agent": 69.5,
+   "market_price_t0": 73.5,
+   "edge": -0.040000000000000036,
+   "confidence": 0.55,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.69, 0.70). (0) Nothing is resolved yet: the election is on Nov 3, 2026, and the FEC and secondary sources show no result. Constantino (R) faces Gendebien (D) for Stefanik's open seat. (a) About 19 days remain, and early voting starts around Oct 24. (b) The status quo favors Republicans. The district is R+10, Trump won it by about 21 points, Republicans hold a registration edge of roughly 80K, and both Cook and Sabato rate it Likely R. The Polymarket anchor is 73.5%. (c) NO path: Siena (Gendebien 46-42) and SurveyUSA (Gendebien 43-39) are right. Constantino's 39-52 favorability and the 21% of Republicans defecting in Siena hold through election day. A cycle-high D+9 generic ballot lifts the less-known Democrat, and Republicans split their tickets for Blakeman. (d) YES path: undecided Republicans come home in a sample that is 49% Republican. Schmidt's roughly 5% fades because he is a write-in or minor candidate. Blakeman's 15-point lead in the district and the Trump rally boost turnout, and Constantino's $4M-to-$500K cash advantage dominates the airwaves. Even the Democratic-sponsored internals (Constantino 47-44, 48-45) and Constantino's own internal (47-42) have the Republican ahead. The two independent media polls both showing the Democrat up 4 are real evidence that a Likely R rating and the price may understate the risk. The partisan polls and the district's fundamentals keep Republicans favored, so I shade slightly below the market to 0.69.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4791",
+   "has_trace": true
+  }
+ ],
+ "Israel military action against Syria by October 31, 2026?": [
+  {
+   "id": 4777,
+   "scanned_at": "2026-10-15T08:35:19.099449",
+   "date": "2026-10-15",
+   "agent": 24,
+   "market_price_t0": 22,
+   "edge": 0.01999999999999999,
+   "confidence": 0.525,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.25, 0.23). (0) Nothing shows the condition already met. SANA's Oct 6–14 log lists only artillery, ground incursions and detentions, all excluded by the rules. The Oct 9 IDF drone strike on a Syrian operative hit Hermel on the Lebanese side of the border (JPost/Alma, Lebanese Health Ministry), so it likely does not count. (a) About 16 days remain until 11:59 PM Syria time on Oct 31. (b) If nothing changes, the market resolves No. No confirmed in-Syria air or drone strike appears in the ~23 days since the market opened. The last clearly confirmed one was the Aug 22 Beit Jinn drone strike, and the Daily Sabah monthly review shows September as all ground and artillery activity. (c) No: Israel keeps handling southern Syria through ground raids and artillery, while US/Arab pressure, the Mossad–Shaibani de-escalation channel and pre-election caution hold off air action through month-end. (d) Yes: the IDF uses a drone on an 'infiltrator' or plotter in Quneitra, Daraa or Rif Dimashq, as on Aug 22, or a Druze, Turkish-deployment or Iran-war trigger prompts a larger raid. The record-high ground tempo (~280 incidents in September) creates friction that could produce such a strike. The rate of roughly one qualifying in-Syria event per 4–8 weeks implies about 25–40% over 16 days. That is tempered by the clustering of strikes in August and the recent lull, which the market's slide from 33.5% to 22% reflects. An unclear Sept 20 'strike on Hermon sites' headline and the unattributed Oct 2 Idlib explosions hint the true rate may be slightly higher than the reviewed logs show. I land slightly above the 22% anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4777",
    "has_trace": true
   }
  ]

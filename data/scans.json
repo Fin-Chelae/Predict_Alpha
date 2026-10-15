@@ -4661,6 +4661,20 @@
  ],
  "Will the Democratic Party control the House after the 2026 Midterm elections?": [
   {
+   "id": 4731,
+   "scanned_at": "2026-10-14T19:51:36.826688",
+   "date": "2026-10-14",
+   "agent": 89,
+   "market_price_t0": 90.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.71,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.89, 0.89). (0) Not resolved. Election Day is Nov 3, 2026, and no results exist yet; the resolution-source read confirms only forecasts are available. (a) About 20 days remain until the election, and the market closes Nov 4, though it could stay open if a near-tie depends on runoffs or independents. (b) The status quo is a strong Democratic lead: the generic ballot is D+8 to D+9 near its cycle high, Trump's approval is in the mid-30s, and the median projections from DDHQ, Poliwave, Silver, Cook, Inside Elections and Fox range from 224 to 239 Democratic seats against 218 needed. (c) NO path: a 3-4 point polling miss toward the GOP, combined with the redistricting tilt (median seat about R+3, Virginia's map blocked, net GOP gain of about 4 seats from redraws), pushes the effective margin near the claimed D+5 break-even, and Republicans sweep most Toss-ups. A late October surprise, such as a reversal in gas prices or Iran, would add to this. (d) YES path: Democrats hold their Lean-D-or-better seats (about 214-220 depending on the rater) and win a modest share of the 15-21 Toss-ups, consistent with the base rate of 37 of 41 midterms going against the president's party and with special-election overperformance of about D+10 to D+12. The market anchor is 90.5%, and the models span 77% (DDHQ) to 93% (Silver), with the related Kalshi market at about 90%. With no new information the market lacks, I stay close to the anchor and shade slightly toward the more cautious model consensus.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4731",
+   "has_trace": true
+  },
+  {
    "id": 4039,
    "scanned_at": "2026-10-06T12:04:15.268480",
    "date": "2026-10-06",
@@ -10915,6 +10929,20 @@
  ],
  "Will Tom Holland be the #1 searched actor on Google this year?": [
   {
+   "id": 4765,
+   "scanned_at": "2026-10-15T05:29:36.286839",
+   "date": "2026-10-15",
+   "agent": 7.5,
+   "market_price_t0": 7.5,
+   "edge": -0.0004999999999999866,
+   "confidence": 0.61,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.08). (0) Not met: the 2026 Year in Search page returns 404, and the 2025 Global Actors #1 was Mikey Madison with Holland outside the top 10. (a) Google released in early December in recent years, so resolution is about seven weeks away and well inside the March 31, 2027 deadline. (b) Status quo: Polymarket prices Holland at 7.55% and Kalshi at about 8%, with Navarrette at about 54% on Kalshi. (c) No: Google ranks year-over-year spikes, which favour breakouts like Navarrette and Jaafar Jackson or news-driven names; even Holland's 2021 No Way Home year produced no top-10 Actors placing. (d) Yes: two blockbusters (Brand New Day at about $2.5B, The Odyssey at about $1.78B), a record trailer and opening, a marriage to Zendaya, and a 6th-place raw-volume rank could produce the largest absolute spike if Google's computation rewards that. With no unpriced information and both venues agreeing, I stay near the market at 7%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4765",
+   "has_trace": true
+  },
+  {
    "id": 2072,
    "scanned_at": "2026-08-27T22:49:14.967097",
    "date": "2026-08-27",
@@ -13931,6 +13959,20 @@
  ],
  "Will Russia capture Vodianske by December 31?": [
   {
+   "id": 4759,
+   "scanned_at": "2026-10-15T03:59:01.305583",
+   "date": "2026-10-15",
+   "agent": 22,
+   "market_price_t0": 26.5,
+   "edge": -0.04500000000000001,
+   "confidence": 0.44999999999999996,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.22, 0.22). (0) Nothing shows the condition met. The resolution-source query of ISW layer 49 did not complete. The market is still trading at 26.5% after peaking at 59.5%, which implies the intersection has not been shaded in a qualifying layer. ISW's Oct 7, 12 and 13 assessments describe only infiltration south of Dobropillia (Matyasheve, Svitle), and infiltration does not count. (a) About 11 weeks remain until Dec 31, 11:59 PM ET. (b) If nothing changes, the market resolves No. The Aug 19 Russian MoD claim of Vodianske has gone unconfirmed by ISW for two months. ISW also reported a Ukrainian advance in NW Vodianske on Aug 20 and calls Russia's 2026 campaign defeated, with net gains of about 100 km². (c) NO scenario: Ukraine's drone kill-zone around Dobropillia holds through the leafless period. Russian gains stay as grey-zone or infiltration, logged village by village (Novooleksandrivka, Matyasheve), and ISW never upgrades Vodianske to advance or control shading. (d) YES scenario: the reinforced 51st Army, joined by the 41st Army and 90th Tank Division, pushes from the Svitle/Matyasheve area. Geolocated footage then emerges from inside Vodianske, and ISW draws an 'Assessed Russian Advances' polygon over the junction that survives one update. The permissive 'any part' rule and the Aug 2025 precedent of a fast breakthrough on this axis keep this live. Vodianske also appears to sit close to the contact line, given that fighting in its NW was reported in August. I anchor on the 26.5% market price and shade slightly lower. The most recent ISW texts show no confirmed advances on the axis, and ISW frames the offensive as failing; this is partly offset by the heavy reinforcements reported on Oct 15.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4759",
+   "has_trace": true
+  },
+  {
    "id": 3989,
    "scanned_at": "2026-10-05T20:41:01.357631",
    "date": "2026-10-05",
@@ -14670,6 +14712,20 @@
   }
  ],
  "Will the Republicans win the Florida Senate race in 2026?": [
+  {
+   "id": 4743,
+   "scanned_at": "2026-10-15T00:03:39.483196",
+   "date": "2026-10-15",
+   "agent": 91.5,
+   "market_price_t0": 90.5,
+   "edge": 0.010000000000000009,
+   "confidence": 0.72,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.91, 0.92). (0) Not resolved. The election is November 3, 2026, and AP, Fox and NBC have nothing to call yet. Moody (R) and Nixon (D) are the confirmed nominees. (a) About 19 days remain until election day, and in-person early voting starts by October 24. (b) If nothing changes, Moody wins. The polling averages have her ahead by about 6–7 points (RCP +7.0, FiftyPlusOne +7, Poliwave forecast R+8.3). She leads every nonpartisan poll. Cook and Sabato rate the seat Solid or Safe R. Republicans hold a registration edge of more than 1.5M, and she outraises Nixon roughly 10-to-1. (c) The path to NO is a Democratic wave nationally: Polymarket prices Democratic Senate control at about 63%. That would need a polling miss with Hispanic voters (St. Pete Polls has the race at only +2 for Moody and shows Nixon leading Hispanics) plus an independent swing large enough to overcome the money and registration gaps. It also runs against Florida's recent history of polls underestimating Republicans. (d) The path to YES is the ordinary one: Moody holds her base, Republicans make up the Democratic mail-ballot lead in early in-person voting, and the expunged Hope Florida report takes away her main liability. I anchor on Polymarket's 90.5% and Kalshi's roughly 91% on the same question. I nudge slightly toward YES because of the trend toward Moody, the expungement, and the historical Republican overperformance in Florida polling. That is offset by a national environment that clearly favors Democrats.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4743",
+   "has_trace": true
+  },
   {
    "id": 4006,
    "scanned_at": "2026-10-06T01:50:53.489416",
@@ -17160,7 +17216,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-14T19:23:05.974Z",
+  "last_sync": "2026-10-15T08:17:27.789Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -17849,6 +17905,20 @@
  ],
  "US Government removes public access to a major Chinese AI model in 2026?": [
   {
+   "id": 4750,
+   "scanned_at": "2026-10-15T01:38:19.050171",
+   "date": "2026-10-15",
+   "agent": 8.5,
+   "market_price_t0": 16.5,
+   "edge": -0.08000000000000002,
+   "confidence": 0.64,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.08) after one crux research pass. (0) Resolution check: the condition is not met. The resolution-source read (Federal Register, BIS) and October 2026 secondary reporting show no formal US action removing general public access to any major Chinese model. DeepSeek, Qwen, Kimi, GLM and MiniMax are reported still available on Bedrock and OpenRouter, and open weights are freely downloadable. Federal steps so far are only government-device bans, the NDAA Sec. 1532 limit on Pentagon contractors, and the September 8 CISA advisory.\n\n(a) About 11 weeks remain until December 31, 2026.\n\n(b) If nothing changes, this resolves No. July's 'de facto ban' and sanctions talk after Kimi K3 has produced no Entity List, ICTS, SDN or executive-order action in three months.\n\n(c) NO scenario: the November US–China 'Super Intelligence' dialogue proceeds and the one-year blacklist truce holds. Any action stays at procurement limits or advisories, which do not meet the 'ordinary public channels' test.\n\n(d) YES scenario: talks sour and Commerce issues an ICTS order or Treasury sanctions Moonshot over distillation. Moonshot's app and API, plus Bedrock, OpenRouter and Hugging Face hosting, are then pulled from the US before year-end. Even then the rules are strict: the removal must be general and actually in effect by the deadline. An Entity List listing alone, like Zhipu's in 2025, did not remove GLM.\n\nI anchor on the 16.5% market price, which has been drifting down (-5 points over 30 days). I shade below it because of the soft diplomatic restraint, the internal administration split, the short window, and the high bar of requiring actual general removal. Some tail risk remains from the stated intent signals from Bessent and Kratsios and the ongoing Commerce probe.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4750",
+   "has_trace": true
+  },
+  {
    "id": 3020,
    "scanned_at": "2026-09-16T12:13:42.997285",
    "date": "2026-09-16",
@@ -18090,6 +18160,20 @@
   }
  ],
  "2026 Balance of Power: R Senate, R House": [
+  {
+   "id": 4756,
+   "scanned_at": "2026-10-15T03:08:01.408258",
+   "date": "2026-10-15",
+   "agent": 9.5,
+   "market_price_t0": 8.5,
+   "edge": 0.009999999999999995,
+   "confidence": 0.69,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.09). (0) Nothing has resolved. Election Day is Nov 3, 2026, and every source shows forecasts only, no results. (a) About 19 days remain until the election, with trading closing Nov 4; runoffs or independents' caucus decisions could delay resolution to Jan 4, 2027. (b) Republicans hold both chambers today (Senate 53-47, House about 218-214), so if nothing changed this would be YES. But the midterm penalty is strong: the generic ballot is D+7 to D+9 and Trump's approval is in the 30s. Rating trends have moved one way toward Democrats, with Cook shifting 18 House races on Oct 9 and putting Democrats at 224-234 seats. (c) NO path: Democrats net the 3+ House seats they need, as Cook, Sabato and Fox all project, whatever happens in the Senate. (d) YES path: a correlated polling miss of roughly 4-5 points toward Republicans. That would let them win about 17 of 21 House toss-ups on the new redistricted maps while holding KS, IA and one or two of AK, OH, TX, ME and MI in the Senate. Given an R House, the Senate hold is highly likely, so the joint probability is roughly the probability of an R House. The anchors are Polymarket at 8.5% and Kalshi at about 11% for the sweep. Models run higher: DDHQ about 21% and Poliwave about 14%, the latter self-described as uncalibrated. I shade slightly above the Polymarket price to about 10% to reflect the model spread and the fat tails of polling misses.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4756",
+   "has_trace": true
+  },
   {
    "id": 4042,
    "scanned_at": "2026-10-06T12:53:37.247688",
@@ -21425,6 +21509,20 @@
  ],
  "Iran blockade lifted before Iran-Oman Hormuz agreement?": [
   {
+   "id": 4767,
+   "scanned_at": "2026-10-15T06:15:30.246044",
+   "date": "2026-10-15",
+   "agent": 27,
+   "market_price_t0": 28,
+   "edge": -0.010000000000000009,
+   "confidence": 0.5,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.27, 0.27). (0) Neither condition is met yet. There is no US lifting announcement: Trump said on Oct 8 the blockade \"will remain in full force and effect\", and CENTCOM is escalating enforcement. No formal Oman-side acceptance of an agreement exists either. Oman's Oct 14 statement says the talks have \"concluded\" but that implementation depends on Tehran-Washington talks. The related \"Iran-Oman agreement by Oct 31\" market at 11% suggests the crowd does not read that statement as qualifying.\n\n(a) About 11 weeks remain until Dec 31.\n\n(b) Status quo: the blockade stays and no formal joint Iran-Oman announcement comes, so the market resolves No.\n\n(c) No paths: Trump's own timeline puts any deal after the Nov 3 midterms, leaving too little time for a June-style deal plus lifting. Alternatively, Iran and Oman formalize their long-\"concluded\" corridor deal first, possibly as a component of a broader settlement announced alongside or before the US move.\n\n(d) Yes path: a Qatar- or Pakistan-mediated US-Iran text is signed after the midterms. Trump or CENTCOM then declares the blockade lifted, as on June 14-18, while the Oman understanding is still formally unannounced. Iran has tied the Oman deal to US lifting, which favors this sequence if a deal happens at all.\n\nThe anchor is the market's 28%. The related \"US announces end by Dec 31\" market is at 37%, and some of that mass would come after or alongside an Oman announcement, which is consistent with high-20s. I find no unpriced information to move off it materially.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4767",
+   "has_trace": true
+  },
+  {
    "id": 3816,
    "scanned_at": "2026-10-03T14:08:16.784165",
    "date": "2026-10-03",
@@ -21654,6 +21752,20 @@
   }
  ],
  "Will Baidu be removed from Chinese Military Companies list by June 30, 2027?": [
+  {
+   "id": 4734,
+   "scanned_at": "2026-10-14T20:40:34.279658",
+   "date": "2026-10-14",
+   "agent": 12,
+   "market_price_t0": 16,
+   "edge": -0.04000000000000001,
+   "confidence": 0.6,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 1 draws (0.12). (0) Resolution check: no source shows Baidu delisted after the June 8, 2026 baseline. Global Voices (Oct 8, 2026) still describes Baidu as listed, and no Federal Register delisting notice was found, so the question is not resolved. (a) About 8.5 months remain until June 30, 2027. In that time DoD would have to publish a revised 1260H list or a delisting notice without Baidu. The statute requires updates only annually, and the last gap was about 17 months. (b) Status quo is No. Baidu has filed no lawsuit or visible reconsideration petition, and two summits (May in Beijing, September in Washington) left the list unchanged. Courts in the Hesai, DJI, WuXi and Alibaba cases have granted remands or suspensions, and neither counts as removal here. (c) NO scenario: DoD publishes no new list before the deadline, or publishes one that keeps Baidu. The indirect procurement ban starting June 30, 2027 gives DoD and Congress reason to keep the list stable. (d) YES scenario: a US-China deal around the January 10, 2027 truce expiry or a later round leads the White House to have Baidu dropped in a 2027 update. The White House has already overridden DoD on the February list. A second route is a Baidu suit or petition that exposes a weak SASAC/MIIT rationale, leading to a Hesai-style delisting, which counts even if Baidu is relisted the same day. The market sits at 16% and has trended down, and related markets for Alibaba and Tencent are near 13.5%. I lean slightly below the market because Baidu has taken no legal action and no update is scheduled.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4734",
+   "has_trace": true
+  },
   {
    "id": 3524,
    "scanned_at": "2026-09-28T09:41:45.303762",
@@ -22143,6 +22255,20 @@
  ],
  "Will no qualifying US-Iran senior diplomatic meeting take place by December 31, 2026?": [
   {
+   "id": 4774,
+   "scanned_at": "2026-10-15T07:48:45.806233",
+   "date": "2026-10-15",
+   "agent": 59.5,
+   "market_price_t0": 61,
+   "edge": -0.015000000000000013,
+   "confidence": 0.5,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.59, 0.60). (0) Resolution check: the resolution-source read flags the 22 September Witkoff/Kushner–Araghchi indirect round in New York as qualifying. But this market opened on 22 September, and the 'No Meeting' price climbed from 13% to 61% afterwards. Traders are therefore treating that round as the earlier market's resolution, not this one's. The live question is whether a new qualifying senior round begins between now and 31 December; I keep some weight on the chance the resolver counts September 22 differently. (a) About 2.5 months remain until 31 December 2026, 11:59 PM ET. (b) Status quo is YES: as of 12–14 October, contact is limited to written messages via Qatar and Pakistan. Trump has said no talks are ongoing or scheduled, and Iran's SNSC secretary Rezaei says Iran is 'no longer responding' until its seven conditions are met. (c) NO-meeting path: the blockade continues and Trump resumes bombing after the 3 November midterms, as the WSJ reports he expects to, with a third carrier group arriving by November. The Houthi–Saudi front escalates, and Tehran's backlash against Araghchi's September contact blocks any repeat. (d) Meeting path: after the midterms, Pakistan, Qatar or Oman improvise an indirect round with Witkoff/Kushner and Araghchi in one city, as happened at a day's notice on 22 September. The 2026 base rate is a senior round every 1–3 months, which keeps this live. Balancing that base rate against the current hardening, I stay close to the 61% market anchor with a slight shade toward a meeting because rounds have arrived abruptly before.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4774",
+   "has_trace": true
+  },
+  {
    "id": 4131,
    "scanned_at": "2026-10-07T16:52:15.117731",
    "date": "2026-10-07",
@@ -22432,6 +22558,20 @@
   }
  ],
  "Will the Democratic Party win the OH-07 House seat?": [
+  {
+   "id": 4752,
+   "scanned_at": "2026-10-15T02:23:09.566430",
+   "date": "2026-10-15",
+   "agent": 77,
+   "market_price_t0": 80.5,
+   "edge": -0.03500000000000003,
+   "confidence": 0.525,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.77, 0.77). (0) Not resolved. The election is Nov 3, the FEC shows no results, and Poindexter (D) still has to beat incumbent Miller (R) at the ballot box. (a) About 19 days remain until the election, and calls may take longer. (b) Status quo: Polymarket prices Democrats at 80.5% and Kalshi independently at about 80%. Cook, Inside Elections and Sabato all rate the race Toss-up after the Aug 10 domestic-abuse allegations. Every August poll showed Poindexter ahead, including D+14 from an R-firm, but all were sponsored and none is newer than Aug 10. (c) NO: partisan gravity in a Trump +11 / R+5–10 seat brings Republicans back as the scandal fades. NRCC money and Trump's acknowledgment help consolidate them, and Miller's ad attacks on Poindexter's 1998 arrest and 'socialist' label land. (d) YES: a Democratic-leaning cycle carries the seat. That cycle shows in Brown at 60% and Acton at 69% statewide, a Marist Ohio generic ballot of D+3, and an 82% market chance that Jeffries becomes Speaker. Poindexter would also need Miller's GOP support to stay depressed, helped by the Oct 9 indictment of his girlfriend and the photo lawsuit, plus roughly $7M in HMP reservations. The market sits well above the raters' Toss-up, and I do not see clear information it has missed. I shade slightly below 80% for the stale, partisan polling and the strong baseline, while giving weight to the wave environment and Miller's unusually deep damage.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4752",
+   "has_trace": true
+  },
   {
    "id": 3718,
    "scanned_at": "2026-10-02T06:22:35.307697",
@@ -24478,6 +24618,102 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.07, 0.07). (0) Not resolved. Al Jazeera (13 Oct), Minute Mirror (14 Oct) and the Oct 14 live blogs report no cable damage attributed to Iran or a proxy. Iranian statements so far are threats only. (a) About 17 days remain until Oct 31, 11:59 PM ET, plus a possible 3-day window if attribution is disputed. (b) Status quo is No: no cut has been credibly attributed to Iran or a proxy in 7.5 months of war, including two months of intense Hormuz ship attacks since the MOU lapsed. (c) NO path: Rezaei's threat is explicitly conditional on war resuming, and Trump says he won't resume strikes before the Nov 3 midterms. Ship attacks then continue as surface strikes on tankers without hitting cables, and any fault that does occur is unattributed, like the Sept 2025 Jeddah cuts. (d) YES path: a ship hit by an IRGC or Houthi strike at an Omani or Red Sea anchorage drags its anchor or sinks onto a cable, Rubymar-style. Alternatively, Iran makes a deniable 'warning' cut on Falcon or GBI that credible reporting still pins on it. The record-high tempo of anchorage attacks, with 20 Hormuz incidents since Oct 1 and a ship reportedly sunk, keeps this tail real. The market sits at 9.5% (bid 8, ask 11), and a sibling snapshot was about 6% on Oct 13. Given the stated trigger falls outside the window and attribution is hard to establish, I shade slightly below the market to about 6.5%.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/4721",
+   "has_trace": true
+  }
+ ],
+ "Will there be no Hormuz agreement?": [
+  {
+   "id": 4771,
+   "scanned_at": "2026-10-15T07:02:19.464938",
+   "date": "2026-10-15",
+   "agent": 89.3,
+   "market_price_t0": 87.2,
+   "edge": 0.02100000000000002,
+   "confidence": 0.69,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.90, 0.89). (0) No source shows the condition already met or already impossible. Al Jazeera (Oct 14), CNN (Oct 15) and Reuters-sourced reporting (Oct 12) all confirm there is no US–Iran Hormuz agreement, and no official acceptance statement exists. (a) The deadline is Nov 2, 11:59 PM ET, about 18 days away. (b) If nothing changes, this resolves Yes ('No Hormuz Agreement'): it needs only inaction, and no negotiating round or deadline is scheduled before Nov 2. (c) The NO-agreement path, which is the base case, looks like this: Iran keeps escalating attacks on shipping (15+ attacks Oct 6–14, ships sunk Oct 13) partly to pressure the US before the midterms. Iran calls the US reply 'insufficient', the sides stay deadlocked on sequencing (nuclear-first versus Hormuz-first), and Trump waits out the election under the blockade, with reports that he expects strikes to resume afterward. (d) The path to an agreement, which would resolve this market No: Trump pushes for a pre-midterm win and accepts an enhanced version of the June MOU through Qatar. Both sides then announce acceptance quickly, as with the June 17 MOU, which came together fast. The anchor is this market at 87.15%, and the sibling 'Hormuz Agreement by Nov 2' market at 11.2% Yes implies about 88.8% No. The base rate is one durable-ish qualifying deal in about 8 months, plus an August 'imminent' deal that never materialised. The strict requirement that both the US and Iran declare acceptance of the same agreement adds a further hurdle. I lean slightly above the market, to about 89.5%, given the escalation evidence dated Oct 14–15.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4771",
+   "has_trace": true
+  }
+ ],
+ "Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026?": [
+  {
+   "id": 4762,
+   "scanned_at": "2026-10-15T04:43:53.530160",
+   "date": "2026-10-15",
+   "agent": 96,
+   "market_price_t0": 91.1,
+   "edge": 0.04849999999999999,
+   "confidence": 0.855,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.96, 0.96). (0) Resolution check: the condition is arguably already met. Reuters/CNN, Al Jazeera, France 24 and Morocco World News all report that King Mohammed VI appointed Fatima Ezzahra El Mansouri as Head of Government on 29 September 2026, succeeding Akhannouch. That plausibly counts as an announced removal under the rules. On a strict reading, Akhannouch is still caretaker under Art. 47 until the new cabinet is appointed, so the formal exit is still pending. (a) About 11 weeks remain until 31 December 2026. (b) Status quo: on 12 October the four-party coalition (PAM, Istiqlal, USFP, PPS; 207 of 395 seats) was agreed. On 14 October the King received El Mansouri, and Médias24 reports the portfolio split is finalised pending royal approval, with the handover the same day or the next. The 2027 finance-bill deadline adds pressure. If nothing unusual happens, the cabinet is named within days or weeks and Akhannouch formally leaves. (c) NO scenario: the coalition collapses and formation stalls past 31 December, and the resolver also refuses to count the 29 September designation. Akhannouch is not an MP, no longer leads RNI, and RNI is excluded from the new majority, so this is very unlikely. (d) YES scenario: the King appoints El Mansouri's ministers in late October and the handover occurs, or the resolver accepts the 29 September appointment as the announcement. The market sits at 91% with a wide 84/98 spread on thin liquidity. I move above it because both resolution paths point to Yes and the remaining No path needs a stall nothing in the research suggests.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4762",
+   "has_trace": true
+  }
+ ],
+ "Will the 5-year Treasury yield hit 5.10% before 2027?": [
+  {
+   "id": 4746,
+   "scanned_at": "2026-10-15T00:49:34.002274",
+   "date": "2026-10-15",
+   "agent": 75.5,
+   "market_price_t0": 76.1,
+   "edge": -0.00649999999999995,
+   "confidence": 0.61,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.76, 0.75). (0) Not yet met: Treasury's par-curve CSV shows a window high of 5.09% (Sep 30) and 5.00% on Oct 13-14; intraday spikes above 5.10% don't count. (a) About 54 trading days remain to Dec 31. (b) Status quo at 5.00% is No, but the strike is only 10bp away. (c) No: the CPI shock fades, Fed speakers cap the hike path, and risk-off from chip/AI credit stress pulls yields down, leaving repeated failures at 5.06-5.09%. (d) Yes: hot PPI or jobs data, a weak Oct 27 5-year auction, or a hawkish Oct 28 or Dec 9 FOMC pushes one close to 5.10%+. With realized vol near 5-7bp a day, a zero-drift first-passage estimate for a 10bp barrier is about 80%, trimmed slightly for discrete closes. That is consistent with the Polymarket anchor of 76%, so I stay near the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4746",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic launch a Muse-like personal agent before 2027?": [
+  {
+   "id": 4740,
+   "scanned_at": "2026-10-14T23:14:42.702869",
+   "date": "2026-10-14",
+   "agent": 23,
+   "market_price_t0": 27.5,
+   "edge": -0.04500000000000004,
+   "confidence": 0.535,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.22, 0.24). (0) The condition is not met yet. Anthropic's newsroom and help-center release notes as of Oct 14 show no Muse-like launch. Anthropic's own Cowork architecture page describes per-session sandboxes that are created at session start and destroyed at the end, and the criteria explicitly exclude that. The unified-Claude Enterprise page describes per-conversation VMs with a 30-day expiry, which is also not a standing per-user computer. (a) About 78 days remain until Dec 31, 2026, including the holiday slowdown. (b) If nothing changes, the answer is No: cloud Cowork is the closest product but fails the dedicated, persistent-computer test. The market was also written after Cowork's cloud mode existed, which suggests its author does not count Cowork. (c) No: Anthropic keeps shipping models (the 5.5 family), finishes the unified-Claude rollout and stays local-first and per-session, with no new always-on product by year-end. (d) Yes: competitive pressure pushes Anthropic to launch a consumer always-on agent with a persistent per-user cloud machine before year-end. Meta's Muse launched Sep 8, OpenAI's dots Sep 29 and xAI's Grok Bot in the same window. Anthropic already has the infrastructure in Claude Tag and Managed Agents, so the launch could come as an extension of those. A Cowork update adding a persistent per-user workspace would also work, as would a lenient resolver counting the account-bound, scheduled cloud Cowork. I found no leak, waitlist or teaser of such a product, and the market has fallen from 39.5% to 27.5%. I shade slightly below the anchor because Anthropic's official text explicitly describes an excluded architecture, while keeping meaningful weight on Anthropic's fast shipping cadence and the risk of a lenient interpretation.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4740",
+   "has_trace": true
+  }
+ ],
+ "Will the Republican Party win the TX-23 House seat?": [
+  {
+   "id": 4738,
+   "scanned_at": "2026-10-14T22:23:32.784256",
+   "date": "2026-10-14",
+   "agent": 71,
+   "market_price_t0": 68.5,
+   "edge": 0.02499999999999991,
+   "confidence": 0.525,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.70, 0.72). (0) The race is not resolved. The FEC shows no results, and the Nov 3 general between Republican Brandon Herrera and Democrat Katy Padilla Stout, plus minor independents, still has to happen and be called. (a) The election is about 20 days away; early voting runs Oct 19–30. (b) Status quo: the R+7 seat that Trump won by about 15 points stays Republican. Cook and Inside Elections rate it Likely R, Sabato moved it from Safe R to Likely R, and Herrera outraised Stout roughly 4:1 and has super PAC backing. (c) NO: the strongly Democratic national environment holds (Polymarket gives Democrats about 90% for the House, and Sabato's best guess is about 230 D seats). Hispanic voters keep moving away from Trump. Herrera's online-conduct baggage and the Uvalde gun issue, aired in the contentious Oct 13 debate, push the poorly known Stout over in a race that polled R+2 (PPP for House Majority PAC) and R+6 (Remington, R-aligned). (d) YES: the district's partisan lean and the money gap carry Herrera, and undecideds break back toward Republicans as they have in every statewide race here since 2016. Smarter.vote's model has him at 79%. The anchor is the Polymarket price of 68.5%, matched by Kalshi at about 68–69%, an independent crowd on the same question. Rater consensus and the money edge argue slightly higher. Thin, partisan polling with leads well below the district's lean, plus the wave environment, argue against moving much, so I settle just above the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4738",
+   "has_trace": true
+  }
+ ],
+ "Will Google have the best AI model at the end of October 2026?": [
+  {
+   "id": 4736,
+   "scanned_at": "2026-10-14T21:31:35.317011",
+   "date": "2026-10-14",
+   "agent": 68,
+   "market_price_t0": 67.8,
+   "edge": 0.0020000000000000018,
+   "confidence": 0.51,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.68, 0.68). (0) The resolving no-style-control table was blocked by Cloudflare, so the outcome is not settled. Multiple secondary sources (Manifold Oct 2, the Arena weekly report for Oct 5–11, llmrun.dev, The Sweat Oct 8) agree that Google's gemini-4-argon-high is #1 at about 1525 ±9, ahead of Meta's Muse Wonder (about 1513) and Claude Opus 5.5 High (about 1507). (a) About 17 days remain until the Oct 31 noon ET check. (b) If nothing changes, Google wins: the lead has been stable for two weeks and is broad across categories. (c) NO comes from Argon's preliminary, early-access-based score of about 4.9k votes drifting down after the Oct 13 general rollout, Muse Wonder closing a 12-point gap, or a new Anthropic Text entry (Fable 5.1 or Mythos-class) debuting above it. There is also an unverified risk that the style-control-off view ranks differently from the default view most reports cite. (d) YES comes from Argon holding around 1515–1525 with no new entry beating it; OpenAI's GPT-6 entries sit around 1483 and are not a threat, and near-ties favor Google through the score and alphabetical tiebreaks. The market anchor of 67.8% (Anthropic at 31.5%) already appears to price these risks, and I find no specific unpriced information, so I stay close to it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4736",
    "has_trace": true
   }
  ]

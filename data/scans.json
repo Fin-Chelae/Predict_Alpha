@@ -565,6 +565,20 @@
  ],
  "Will Anthropic have the highest IPO Market Cap 2026?": [
   {
+   "id": 4850,
+   "scanned_at": "2026-10-16T06:17:49.879903",
+   "date": "2026-10-16",
+   "agent": 36,
+   "market_price_t0": 39.1,
+   "edge": -0.031000000000000028,
+   "confidence": 0.5,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 1 draws (0.36). (0) Not resolved: Anthropic has only a confidential draft S-1 (June 1) and no public S-1 as of mid-October. SpaceX's ~$2.1T first-day close (June 12, ~$161) is the standing leader. (a) About 2.5 months remain to the Dec 31, 2026 IPO deadline; reports point to a public S-1 around Oct 26, a roadshow the week of Nov 9 and trading before Thanksgiving, leaving ~5 weeks of slack. (b) If nothing changes, SpaceX keeps the top spot and this resolves No. (c) No: the timeline, which has slipped three times, slips past year-end (related Polymarket contracts price a 2026 IPO at ~74.5%), or Anthropic lists but closes below ~$2.1T. The newest report (Reuters via KuCoin, Oct 16) has investor-day talk falling to ~$1.5T, which would need a ~40% pop in an AI tape that lost $1T+ in a week. (d) Yes: the S-1 lands late October, Anthropic prices at $1.8–2T on $16.8B Q3 revenue and adjusted profitability, then pops 5–30% on scarcity demand, as one investor expects ($2.3–2.4T); a literal outstanding-share count including converted financing could also inflate the cap. Roughly 0.75 for a 2026 listing times ~0.48 for beating $2.1T gives ~0.36. The market's 39.1% has already dropped 16 points on the $1.5T news and is consistent with SpaceX at 0.59; I shade slightly lower because the weak tape and larger float work against a big pop. Share-count ambiguity for both companies adds noise in either direction.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4850",
+   "has_trace": true
+  },
+  {
    "id": 4239,
    "scanned_at": "2026-10-09T01:41:31.562728",
    "date": "2026-10-09",
@@ -886,6 +900,20 @@
   }
  ],
  "Will Anthropic have the best Code Arena | WebDev AI at the end of October 2026?": [
+  {
+   "id": 4837,
+   "scanned_at": "2026-10-16T03:14:43.072231",
+   "date": "2026-10-16",
+   "agent": 86,
+   "market_price_t0": 84.5,
+   "edge": 0.015000000000000013,
+   "confidence": 0.71,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.86, 0.86). (0) Not resolved yet. The live arena.ai WebDev render on Oct 16 shows the #1 row alone at rank 1: 1811 ±15, $4/$20 pricing. Price and score match Claude Opus 5.5 Max, which Arena's Sep 24 post and Arena's Oct 12 weekly summary both name as #1. Rank 2 sits about 31 points back at 1780. (a) About 15 days remain until the Oct 31, 12:00 PM ET check. (b) If nothing changes, Anthropic resolves YES; it also won the end-of-September sibling market. (c) NO path: OpenAI ships a GPT-6.2 or Astra refresh, or Google ships the internal Gemini 4 'Carbon' build, in late October. Arena would have to add it within 1–3 days without an AutoEval tag, and it would have to clear Opus 5.5 by enough to rank above it. OpenAI has shown it can gain about 70 WebDev points in a week. (d) YES path: rivals stay quiet, which is plausible. OpenAI's Astra refresh was reportedly cancelled, and Gemini 4 Argon scores only about 1679 on WebDev. Any Anthropic Fable 5.5 launch would only add Anthropic upside. I anchor on the 84.5% market price and nudge up slightly for the documented blockage of both main rivals. I keep about 14% on a surprise launch and on the residual risk that the unnamed live #1 row is misidentified; the recent 7-day dip may reflect Carbon chatter.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4837",
+   "has_trace": true
+  },
   {
    "id": 4214,
    "scanned_at": "2026-10-08T19:11:26.301743",
@@ -2482,6 +2510,20 @@
   }
  ],
  "Will Xi meet with Takaichi by December 31, 2026?": [
+  {
+   "id": 4852,
+   "scanned_at": "2026-10-16T07:04:48.794236",
+   "date": "2026-10-16",
+   "agent": 77.5,
+   "market_price_t0": 75.5,
+   "edge": 0.020000000000000018,
+   "confidence": 0.565,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.76, 0.79). (0) Not yet resolved. The only confirmed Xi–Takaichi meeting was in Gyeongju on Oct 31, 2025, before this market opened, and no qualifying contact has been reported since Apr 23, 2026. (a) About 2.5 months remain. The realistic windows are the APEC leaders' meeting in Shenzhen on Nov 18–19, which Xi hosts and Takaichi is listed to attend, and a weaker backup at the Miami G20 on Dec 14–15, where Xi's attendance is only stated intent. (b) The status quo is a stalemate on a formal bilateral. Per SCMP on Oct 8, Beijing offered Li Qiang instead of Xi and Tokyo signalled it would not accept; China still demands a retraction of the Taiwan remarks and has dropped Takaichi's title. However, the resolution wording counts a handshake or exchange of words. As APEC host, Xi customarily greets every arriving leader with a handshake and photo, the 'handshake OK, meeting no' scenario that a Beijing expert and The Diplomat both describe. Japanese media would report such a greeting widely. (c) NO path: Takaichi skips Shenzhen or sends a substitute rather than risk a snub, or Beijing scripts the welcome to avoid direct interaction. Resolvers could also treat a line-up greeting as mere proximity, and the Miami G20 could produce no contact as well. (d) YES path: Takaichi attends, Xi shakes her hand at the welcome or family photo, possibly with a brief last-minute 'meeting' on the 2014 Abe pattern. Anchoring on the 75.5% market, I hold roughly there: a host handshake is likely if she attends, offset by attendance risk and ambiguity over what resolvers will count.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4852",
+   "has_trace": true
+  },
   {
    "id": 4244,
    "scanned_at": "2026-10-09T02:34:17.699928",
@@ -8903,6 +8945,20 @@
  ],
  "Will Hyperliquid reach $100 by December 31, 2026?": [
   {
+   "id": 4813,
+   "scanned_at": "2026-10-15T20:42:25.058264",
+   "date": "2026-10-15",
+   "agent": 45,
+   "market_price_t0": 47.5,
+   "edge": -0.024999999999999967,
+   "confidence": 0.56,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.46, 0.44). (0) Not resolved: Binance futures klines show a max High of 98.057 (Sep 2026), October high 95.267, last price ~82.26, so no $100 print yet. (a) About 11 weeks remain to Dec 31, 2026 23:59 ET. (b) Status quo is No; HYPE needs a ~+22% touch and a new all-time high. (c) NO: a persistent risk-off tape (BTC ~32% off its high, ETF outflows) plus Nov 6, Nov 29 and Dec 29 unlocks keep HYPE making lower highs below the twice-failed $95–98 zone. (d) YES: HYPE holds the high-$70s, a crypto/macro bounce returns it to $90–95, and heavy open interest and large shorts drive a squeeze, with one Binance 1-minute wick to $100 sufficient. My rough touch math at 60–90% annualised vol gives ~47–60%, and the related dip markets imply similarly high vol consistent with ~45–50%. I anchor on the 47.5% market and shade slightly lower for the downtrend and unlock supply, absent any unpriced catalyst.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4813",
+   "has_trace": true
+  },
+  {
    "id": 4075,
    "scanned_at": "2026-10-06T23:14:54.487475",
    "date": "2026-10-06",
@@ -8974,6 +9030,20 @@
   }
  ],
  "Extended FDV above $300M one day after launch?": [
+  {
+   "id": 4830,
+   "scanned_at": "2026-10-16T01:41:38.774650",
+   "date": "2026-10-16",
+   "agent": 34.5,
+   "market_price_t0": 39.5,
+   "edge": -0.050000000000000044,
+   "confidence": 0.46499999999999997,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.34, 0.35). (0) Not resolved. The resolution-source read of Extended's X feed through Oct 15, 2026 shows no live token, and no TGE date, total supply or tokenomics has been published. (a) About 2.5 months remain until the Dec 31, 2026 11:59 PM ET launch deadline. (b) The status quo is no launch, which resolves No. The team has missed its H1, Q2 and Q3 targets, and the points program is still running with no end date. Q4 is partly taken up by the Circle Arc settlement migration in the week of Oct 19. (c) NO scenario: the migration and points wind-down push the TGE into 2027, or EXT launches in December but opens below $300M. A weak opening is plausible for an airdrop-heavy mid-tier perp DEX; StandX's shutdown shows weak post-airdrop economics, and five of seven recent perp-DEX tokens fell 32–55%. (d) YES scenario: the migration completes cleanly and the TGE is announced for Nov–Dec. EXT then lists on major venues with a low float and prices around or above the reported $300M+ private-round anchor, which fundamentals such as profitability, ~$0.5B daily volume and $172M OI make credible. The anchor is the market at 39%, against 77% on the sibling launch-by-Dec-31 market, which implies about 50% for >$300M conditional on launch. I think 77% for the launch is generous given that nothing is announced, tokenomics have not been published 2.5 months out, and the migration is under way. Using roughly 62–68% for launch times about 50% conditional gives about 0.34, slightly below market and consistent with its recent 7-day decline.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4830",
+   "has_trace": true
+  },
   {
    "id": 4111,
    "scanned_at": "2026-10-07T10:29:51.597027",
@@ -9234,6 +9304,20 @@
   }
  ],
  "Will Anthropic's valuation hit (HIGH) $3.0T by December 31?": [
+  {
+   "id": 4810,
+   "scanned_at": "2026-10-15T19:52:22.496913",
+   "date": "2026-10-15",
+   "agent": 15,
+   "market_price_t0": 24,
+   "edge": -0.09,
+   "confidence": 0.55,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.15, 0.15) after one crux research pass. (0) Not met. The latest NPM-derived mark is about $1.35–1.40T (Yahoo/StockTwits citing NPM on Oct 14; Moonberg at $1.40T), less than half of $3.0T. Anthropic has not IPO'd, so nothing on the resolution source qualifies yet. (a) About 11 weeks remain to Dec 31. If the IPO lists before Thanksgiving as reported, that leaves roughly 5 weeks of public trading. (b) Status quo is No: the NPM mark would need a ~2.1x jump, and private and secondary marks (Clarity, Notice at $1.47T, OpenVC) are nowhere near that. (c) No: the IPO prices around the reported $1.8–2.0T target and trades up SpaceX-style (+19% close, +31% intraday peak), giving about $2.4–2.6T at most. Or the IPO slips into 2027, leaving only the NPM path. (d) Yes: strong Q3 results ($16.8B revenue, adjusted profit) and a run-rate near $100B+ push pricing above $2.2T. A heavily oversubscribed, small-float book then gaps the intraday high about 40–50% higher at some point before Dec 31, measured on a broad share count. On the evidence, a sibling market reportedly prices a first-day close of ≥$3T at about 4% (unverified). FutureSearch's p90 sits at $2.77–3.1T, and no named source endorses a $3T target. The 'any intraday high over ~5 weeks' path adds tail mass beyond the first-day figure, and IPO odds by year-end are about 75–83%. I estimate roughly 12–16%, below the market's 24%. I don't fully dismiss the market, given its volume and the possibility that it reflects post-IPO momentum or share-basis ambiguity.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4810",
+   "has_trace": true
+  },
   {
    "id": 4067,
    "scanned_at": "2026-10-06T20:45:47.317894",
@@ -12611,6 +12695,20 @@
  ],
  "Natural Disaster in 2026?": [
   {
+   "id": 4856,
+   "scanned_at": "2026-10-16T07:49:43.684111",
+   "date": "2026-10-16",
+   "agent": 8,
+   "market_price_t0": 8.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.72,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.08). (0) No trigger has been met as of Oct 16, 2026. USGS lists no M8.0+ quake this year; the largest are M7.8 in Mindanao and Flores, and Panama's early M8.0 was revised to 7.7. The largest CNEOS 2026 fireball is 1.1 kt impact energy, with data through Oct 4. Isaias made landfall in Florida as a Cat 3, Lowell did not make landfall in Hawaii, and no VEI 6 eruption has been reported. (a) About 76 days remain until Dec 31, 2026 ET. The extension to Feb 28, 2027 covers delayed data only, not later events. (b) If nothing changes, the market resolves No. (c) NO scenario: the Atlantic stays dormant under the strong El Niño, no M8.5+ megathrust occurs, and CNEOS shows no fireball of 10 kt or more by impact energy. (d) YES scenario: a random M8.5+ quake (about 0.25/yr, so about 5% over this window) or a 10 kt+ impact-energy fireball (about 0.2/yr, so about 4%, including any unreported early-October event). A late-season US Cat 5 landfall or a VEI 6 eruption each adds well under 1%. The combined rate is about 8–9%, matching the market's 8.5% (bid 7 / ask 10). I see no unpriced information, so I stay near the anchor. The main tail risk is ambiguity in the meteor energy metric; the sibling market resolves on impact energy.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4856",
+   "has_trace": true
+  },
+  {
    "id": 1950,
    "scanned_at": "2026-08-25T22:22:15.694008",
    "date": "2026-08-25",
@@ -15525,6 +15623,20 @@
  ],
  "Felix Protocol FDV above $25M one day after launch?": [
   {
+   "id": 4818,
+   "scanned_at": "2026-10-15T22:26:07.035428",
+   "date": "2026-10-15",
+   "agent": 22,
+   "market_price_t0": 48,
+   "edge": -0.26,
+   "confidence": 0.525,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.24) after one crux research pass. (0) Not met: no Felix token is trading (CoinGecko shows only feUSD and an unrelated Base FELIX; no Hyperliquid FELIX spot pair) and no TGE announcement, supply or tokenomics exists. YES needs a public, tradable launch and FDV above $25M at 4 PM ET the next day. (a) About 11 weeks remain until the Dec 31, 2026 deadline. (b) Status quo is NO. The 0.48 anchor sits on a very wide 25/71 spread after an unexplained +33pt week, and it conflicts with the same venue's launch-by-2026 market at ~0.29 (this strike must be at or below the launch probability) and with the $50M strike at 0.06. I estimate launch probability at ~0.25 and P(FDV above $25M | launch) at ~0.75-0.8, given past $1B TVL and the Kinetiq FDV/TVL comparable, discounted for possibly lower current TVL and low-float dumps. That gives ~0.20. (c) NO: Felix keeps farming points and building products with no TGE in 2026, or launches untradable or too late. (d) YES: a Q4 TGE with an airdrop on Hyperliquid spot, priced so total supply × price exceeds $25M.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4818",
+   "has_trace": true
+  },
+  {
    "id": 4223,
    "scanned_at": "2026-10-08T21:35:15.358759",
    "date": "2026-10-08",
@@ -17300,7 +17412,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-15T19:06:55.715Z",
+  "last_sync": "2026-10-16T08:10:26.493Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -19399,6 +19511,20 @@
  ],
  "Next Fable Model (5.2+) released by October 31, 2026?": [
   {
+   "id": 4820,
+   "scanned_at": "2026-10-15T23:15:53.267047",
+   "date": "2026-10-15",
+   "agent": 81.5,
+   "market_price_t0": 86.7,
+   "edge": -0.0515000000000001,
+   "confidence": 0.55,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.81, 0.82). (0) Not resolved. As of Oct 15, Anthropic's newsroom and models overview list Fable 5.1 (claude-fable-5-1, released Sep 1) as the newest Fable, with no 5.2+ model or API ID. (a) The deadline is Oct 31, 16 days away. (b) If nothing changes, Fable 5.1 stays the latest and the market resolves No. (c) No path: the routed checkpoint seen Oct 11–12 turns out to be Opus 5.6. Or Anthropic holds the Fable launch to coincide with IPO marketing, which Bloomberg reports starts around the week of Nov 9 (BridgeMind also rumoured 'November, around the IPO'). Or a government pre-release review, or a staged or non-public rollout, pushes it past Oct 31. (d) Yes path: the new checkpoint is Fable 5.5. It ships GA in late October, following the 1–9 day test-to-ship lag seen across the 5.5 family. Supporting signals are the Azure claude-fable-5-5 placeholder, an Anthropic employee's 'best is yet to come' tease, the 'Leo' tip (he preceded the Fable 5.1 launch), and Fable being the only tier still behind at 5.1. The Polymarket anchor is 86.65%. The date ladder (Oct 17 at 4%, Oct 21 at 54%, Oct 24 at 77%, Dec 31 at 98.7%) shows traders expecting a launch around Oct 20–24, which may reflect information the research did not surface. I shade slightly below the market for three reasons: this leak chain has already slipped several windows, no official signal exists, and the model identity is ambiguous between Fable and Opus.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4820",
+   "has_trace": true
+  },
+  {
    "id": 4230,
    "scanned_at": "2026-10-08T23:14:18.754526",
    "date": "2026-10-08",
@@ -20409,6 +20535,20 @@
  ],
  "Will OpenAI be the second-best AI Agent Lab at the end of October 2026?": [
   {
+   "id": 4845,
+   "scanned_at": "2026-10-16T04:49:02.695211",
+   "date": "2026-10-16",
+   "agent": 61.5,
+   "market_price_t0": 58.5,
+   "edge": 0.030000000000000027,
+   "confidence": 0.435,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.63, 0.60). (0) Not resolved. The rendered Agent Arena Models view (updated Oct 14–16) puts Anthropic's Claude Opus 5.5 at #1 (17.18%) and OpenAI's GPT 6.1 Sol at #2 (14.78%). Google's best model, Gemini 4 Argon, is #4 at 13.73%. That implies OpenAI is second among labs, but the Labs-filtered table was never seen directly. (a) About 15 days remain until the Oct 31 noon ET check. (b) If nothing changes, OpenAI is second. The fallback and tiebreak rules also favour OpenAI, since its best model is listed above Argon. (c) NO scenario: Argon's score drifts past GPT 6.1 Sol, which is plausible because the 1.05-point gap is inside both intervals and Argon just went GA on Oct 13 with more sessions coming. A new Google or other-lab release, or GPT 6.1 Sol overtaking Opus 5.5 so Anthropic becomes second, would also produce NO. (d) YES scenario: the scores hold, since Argon already has the most sessions and is weak in Code and Work, and no new frontier release lands before Oct 31. The market anchor is 58.5% after a sharp 16.5-point drop this week. That drop suggests traders see real flip risk, possibly Argon trending up, though I found no specific evidence of a change. Given the status-quo advantage, OpenAI's depth with three top-7 models, and favourable tiebreaks, I lean modestly above the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4845",
+   "has_trace": true
+  },
+  {
    "id": 4179,
    "scanned_at": "2026-10-08T08:04:18.207038",
    "date": "2026-10-08",
@@ -21394,6 +21534,20 @@
   }
  ],
  "Will Trump meet with Kim Jong Un in 2026?": [
+  {
+   "id": 4848,
+   "scanned_at": "2026-10-16T05:33:58.668810",
+   "date": "2026-10-16",
+   "agent": 20,
+   "market_price_t0": 26.5,
+   "edge": -0.065,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.20). (0) Not resolved. Credible reporting as of Oct 13–16, 2026 says Trump and Kim have not met in 2026; their last meeting was June 2019, and no meeting is announced. (a) About 2.5 months remain before Dec 31, 2026. The only identified window is Trump's Asia trip: ASEAN in Manila on Nov 16, then APEC in Shenzhen on Nov 17–19. The December G20 is in the US and offers no realistic second window. (b) If nothing changes, the market resolves No. Pyongyang is ignoring US overtures, Kim Yo Jong denied Trump's August claim of contact, and Kim's price of nuclear-state recognition is unmet. (c) NO: Kim repeats the October 2025 pattern of missile launches and silence while Trump focuses on Xi and possibly Putin in Shenzhen, and no DMZ stop is added. (d) YES: China facilitates a narrow, communication-only sideline meeting in Shenzhen with denuclearisation shelved, or Trump improvises a 2019-style DMZ meeting. Support for this comes from the NIS saying a summit is 'possible at any time', Trump's evident motive, and an unconfirmed SCMP report of a US envoy preparatory visit. The market sits at 26.5% after a +7 point jump on Trump's non-committal 'I may'. I shade below it because the only signals come from Trump, North Korea's actions point the other way, and the direct precedent from October 2025 ended with no meeting.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4848",
+   "has_trace": true
+  },
   {
    "id": 4236,
    "scanned_at": "2026-10-09T00:53:07.815565",
@@ -22880,6 +23034,20 @@
   }
  ],
  "Will Anthropic have the best AI model at the end of November 2026?": [
+  {
+   "id": 4827,
+   "scanned_at": "2026-10-16T00:54:23.452090",
+   "date": "2026-10-16",
+   "agent": 43,
+   "market_price_t0": 47,
+   "edge": -0.03999999999999998,
+   "confidence": 0.45,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.43, 0.43). (0) Not resolved: the Oct 15 board has Google's Argon at rank 1 (1532 ±9, rank spread 1–1, 'Preliminary' still counts) and Anthropic at #2–#6, with Opus 5.5 at 1516. (a) About 45 days remain until the Nov 30 noon ET check. (b) Status quo is No: Argon's score rose from 1525 to 1532 since Oct 2 rather than decaying, and general availability since Oct 13 may stabilize it. (c) No: Argon holds above 1520, and Anthropic either ships nothing before the check or ships a model that lands short of the 16-point gap, since its recent steps were about 4–13 points. (d) Yes: Anthropic ships Fable 5.5 or Opus 5.6/6 (Azure identifier and routing rumors, fast release cadence, a Nov 24 2025 launch precedent) and it reaches #1 quickly, or Argon's thin preliminary score falls back toward 1515. Anchoring on the 47% market and the ~30% October sibling (which has less time), I shade slightly below the market because the release evidence is rumor-level and Kalshi puts Opus 6 before Dec 1 at only about 17%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4827",
+   "has_trace": true
+  },
   {
    "id": 4234,
    "scanned_at": "2026-10-09T00:06:13.558501",
@@ -24916,6 +25084,70 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.25, 0.23). (0) Nothing shows the condition already met. SANA's Oct 6–14 log lists only artillery, ground incursions and detentions, all excluded by the rules. The Oct 9 IDF drone strike on a Syrian operative hit Hermel on the Lebanese side of the border (JPost/Alma, Lebanese Health Ministry), so it likely does not count. (a) About 16 days remain until 11:59 PM Syria time on Oct 31. (b) If nothing changes, the market resolves No. No confirmed in-Syria air or drone strike appears in the ~23 days since the market opened. The last clearly confirmed one was the Aug 22 Beit Jinn drone strike, and the Daily Sabah monthly review shows September as all ground and artillery activity. (c) No: Israel keeps handling southern Syria through ground raids and artillery, while US/Arab pressure, the Mossad–Shaibani de-escalation channel and pre-election caution hold off air action through month-end. (d) Yes: the IDF uses a drone on an 'infiltrator' or plotter in Quneitra, Daraa or Rif Dimashq, as on Aug 22, or a Druze, Turkish-deployment or Iran-war trigger prompts a larger raid. The record-high ground tempo (~280 incidents in September) creates friction that could produce such a strike. The rate of roughly one qualifying in-Syria event per 4–8 weeks implies about 25–40% over 16 days. That is tempered by the clustering of strikes in August and the recent lull, which the market's slide from 33.5% to 22% reflects. An unclear Sept 20 'strike on Hermon sites' headline and the unattributed Oct 2 Idlib explosions hint the true rate may be slightly higher than the reviewed logs show. I land slightly above the 22% anchor.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/4777",
+   "has_trace": true
+  }
+ ],
+ "Will the next Claude Haiku model (4.6+) debut at a score of at least 1420 by June 30, 2027?": [
+  {
+   "id": 4840,
+   "scanned_at": "2026-10-16T04:02:11.169350",
+   "date": "2026-10-16",
+   "agent": 80.5,
+   "market_price_t0": 83.5,
+   "edge": -0.029999999999999916,
+   "confidence": 0.55,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.81, 0.80). (0) Not yet met: Haiku 5.5 (released Oct 7, 2026) is the qualifying '4.6+' Haiku but per the Arena changelog and an Oct 15 render it has no Text overall (style-control-off) row yet; it is in the Text voting pool with scores 'coming soon.' (a) ~8.5 months remain to June 30, 2027, ample for a listing given Arena's typical days-to-weeks lag. (b) Status quo: it gets listed soon and the outcome hinges on its debut score versus 1420, which is 23 above Haiku 4.5 (1397) and ~50 below Sonnet 5.5 (1470); small/fast peers include gemini-3.5-flash-lite 1435 and glm-5.3-flash 1471. Its AA Intelligence Index of 43 beats GLM-5.3 Flash. Sibling strikes (1400 at 93.5%, 1440 at 75.5%, 1460 at 20%) imply the crowd expects ~1440–1460. (c) NO: over-refusal and verbosity hurt chat votes and it debuts at 1405–1419 like gpt-6-luna-max/gpt-5.4-mini, or it never gets a non-AutoEval Text listing. (d) YES: listed in coming weeks at roughly 1435–1460, consistent with family gaps and peers. I anchor on the 83.5% price and shade slightly lower for listing-timing and score-variance risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4840",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic be the second-best AI lab at the end of October 2026?": [
+  {
+   "id": 4832,
+   "scanned_at": "2026-10-16T02:29:37.636540",
+   "date": "2026-10-16",
+   "agent": 72,
+   "market_price_t0": 69,
+   "edge": 0.030000000000000027,
+   "confidence": 0.62,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.73, 0.71). (0) The question is not resolved. On the live resolution table rendered Oct 16, the Labs view shows Google #1 at 1532±9, Anthropic #2 at 1516±7, and Meta #3 at 1501±11, so Anthropic currently meets the YES condition. (a) There are 15 days left until the Oct 31 noon ET check. (b) If nothing changes, the result is YES. Meta's Muse Wonder Max has slid from its 1513 debut to 1501 as votes came in. Xiaomi, Alibaba and OpenAI are 25 to 45 points behind. (c) NO could happen two ways. Anthropic could pass Google for #1, for example through a new Opus or max variant or Gemini drift; the liquid sibling market prices this at about 29.5%, though the gap has widened to 16 points. Or a new Meta model such as Muse Wonder Full, or a surprise OpenAI or xAI release, could debut above 1516. (d) YES happens if the board holds roughly steady: Google stays ahead, Meta keeps settling below Anthropic, and Anthropic's several near-tied models keep it clear of #3. The market anchor is 69%, and the sibling markets are internally consistent (Google-second 22.5%, Meta 3%). I lean slightly above the anchor because Google's lead over Anthropic has grown recently and no Text Arena release from any lab is scheduled. I stay close to the anchor because the much larger #1 market still gives Anthropic a real chance at first place.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4832",
+   "has_trace": true
+  }
+ ],
+ "Will the Iranian regime fall before 2028?": [
+  {
+   "id": 4823,
+   "scanned_at": "2026-10-16T00:06:07.237938",
+   "date": "2026-10-16",
+   "agent": 16.5,
+   "market_price_t0": 23,
+   "edge": -0.065,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.17, 0.16). (0) Resolution check: the condition is not met. Reporting from 13–16 Oct 2026 (Al Jazeera, Reuters, CFR, Iran International) shows the Islamic Republic governing under Mojtaba Khamenei. The IRGC, Supreme Court and Supreme National Security Council are all functioning, and the crackdown is ongoing.\n(a) About 14.5 months remain until 31 Dec 2027.\n(b) Status quo is No. The regime has already absorbed Ali Khamenei's assassination, a US-Israeli war, a naval blockade and the January mass uprising, with no independently reported security-force defections. Under the rules, an IRGC-dominated hollowing-out or another succession does not count.\n(c) No scenario: the regime 'North Koreanizes'. It stays poorer and more repressive, with the IRGC running things behind an invisible Supreme Leader, and post-midterm US strikes degrade it without producing an internal break.\n(d) Yes scenario: 90% inflation and a rial near 2.7m per dollar trigger a renewed nationwide uprising after the midterms. IRGC or Basij units refuse to fire or split, possibly after a second decapitation strike, and a provisional authority displaces the clerical structures.\nAnchor and adjustment: this market sits at 23% on only about $19.6k of volume. The deep sibling 'fall before 2027' market ($27M) is at 5.5%, which implies the market puts roughly 18% on collapse during calendar 2027 alone. That is high next to low historical hazard rates for revolutionary autocracies and the repeated pattern of crisis-driven overpricing on this question ladder. The broader 'leadership change by June 30, 2027' market sits at only 23.5%, and that market counts mere succession events. Long-dated thin markets also carry a Yes premium from capital lockup.\nI shade below the market to about 17%, keeping a substantial tail for war escalation and economic collapse.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4823",
+   "has_trace": true
+  }
+ ],
+ "Will the 30-year Treasury yield hit 6.00% before 2027?": [
+  {
+   "id": 4815,
+   "scanned_at": "2026-10-15T21:34:09.373891",
+   "date": "2026-10-15",
+   "agent": 15,
+   "market_price_t0": 14,
+   "edge": 0.009999999999999981,
+   "confidence": 0.61,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.15, 0.15). (0) The condition has not been met. The Treasury par curve CSV, which is the resolution source, shows a window high of 5.67% on 10/07 and 5.43% on 10/15, so nothing at or above 6.00% yet. (a) About 11 weeks (~53 trading days) remain until the 12/31 data. A daily par close must print ≥6.00%; intraday spikes such as the 5.72% Bloomberg quote do not count. (b) If nothing changes, the yield sits ~57bp below the strike and the market resolves No. (c) No path: the AI-credit and tech flight-to-quality rally persists, Warsh softens, and the Treasury expands buybacks if long yields spike. The 5.67% peak then holds and the yield drifts in the 5.2–5.6% range that trend models project (forecasts.org, REX, Trading Economics ~5.5%). (d) Yes path: a hawkish December hike repricing combines with oil above $100 and hot CPI/PPI. Add a supply or term-premium disappointment at the Nov 4 refunding, when buyback support lapses, and CTD-switch futures flows amplify the last 30bp. That pushes the par close to 6% in Nov or Dec. Barrier math with roughly 6–8bp daily vol gives about 15–30% for a touch, but daily closes and mean reversion off a rejected peak shade it down. Related Polymarket markets are consistent with ~14%: 10Y 5.7% at 12.8% needs a similar ~60bp move. I see no unpriced information strong enough to move far from the 14% anchor, so I nudge only slightly to 15% for fat-tail regime risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4815",
    "has_trace": true
   }
  ]

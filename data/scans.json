@@ -1885,6 +1885,20 @@
  ],
  "Will Anthony Fauci be arrested before 2027?": [
   {
+   "id": 4899,
+   "scanned_at": "2026-10-16T21:28:58.956681",
+   "date": "2026-10-16",
+   "agent": 5,
+   "market_price_t0": 7.2,
+   "edge": -0.022499999999999992,
+   "confidence": 0.69,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.05). (0) No source shows Fauci arrested, charged or indicted as of Oct 16, 2026. The resolution-source read finds only a 'stalled' DOJ probe (Fox, Oct 4) and advocacy pieces (Navarro, Oct 14), so the condition is not met. (a) About 11 weeks remain until Dec 31, 2026, 11:59 PM ET. In that time a charge would have to be filed and then executed through custody, surrender or booking; an indictment alone does not count. (b) If nothing changes, the market resolves No. The contempt referral has had no public action since August, and DOJ reportedly said a decision 'won't be anytime soon.' The Florida, Louisiana and West Virginia probes are civil and document-based, with jurisdiction and limitations hurdles. Biden's pardon blocks federal charges for conduct before 2025. (c) No: DOJ keeps the referral in review past the Nov 3 midterms, Morens is sentenced Nov 12 with no new charges, and the states produce only subpoena fights or civil suits. (d) Yes: Pirro brings the misdemeanor contempt case or a post-2025 obstruction theory to a DC grand jury, possibly helped by Morens cooperating, and Fauci surrenders and is booked in December. Alternatively, a state files a novel criminal charge and he surrenders with counsel. Six years of calls for his arrest have produced nothing, and the sibling 'charged' market sits at 12.5% while arrest requires the further custody step. I shade slightly below the 7.25% anchor, to 5%, because the research shows no movement since August and the time window is short.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4899",
+   "has_trace": true
+  },
+  {
    "id": 4294,
    "scanned_at": "2026-10-09T17:28:04.276932",
    "date": "2026-10-09",
@@ -1984,6 +1998,20 @@
   }
  ],
  "US strike on Cuba by December 31?": [
+  {
+   "id": 4933,
+   "scanned_at": "2026-10-17T07:09:00.239529",
+   "date": "2026-10-17",
+   "agent": 10,
+   "market_price_t0": 11.5,
+   "edge": -0.015,
+   "confidence": 0.615,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.10). (0) The condition has not been met. Wikipedia's '2026 Cuban crisis' article and news searches through October 16 show no US drone, missile or air strike on Cuban soil, only a blockade, sanctions and contingency planning. (a) About 75 days remain until December 31, 2026 ET. (b) If nothing changes, this resolves No. The US is using fuel interdictions, the October 15 bank sanctions designation and maximalist diplomatic demands, and Trump said on September 26 that \"I don't think we'll need the military.\" (c) No path: the Iran war keeps carriers, Marines and aircraft committed through November and beyond, talks stay stalled, and economic strangulation continues without kinetic action. Even a ground or naval escalation would not qualify. (d) Yes path: after the November 3 midterms, with the regime still standing and the Díaz-Canel demand refused, Trump orders a limited drone or air strike, perhaps from Guantánamo's new autonomous-warfare site, or the opening strikes of a larger operation timed to the reported 90-120 day Army Reserve readiness window. A pretext such as Cuban drone acquisitions could also trigger it. I anchor on Polymarket's 11.5%, which has been drifting down from a 49% peak in May. Ten months of unfulfilled threats and the Iran capacity constraint argue slightly below the market, while the post-election tail and the low-footprint strike option keep it near 10%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4933",
+   "has_trace": true
+  },
   {
    "id": 4338,
    "scanned_at": "2026-10-10T06:23:55.989733",
@@ -2436,6 +2464,20 @@
   }
  ],
  "Russia x Ukraine ceasefire agreement by December 31, 2026?": [
+  {
+   "id": 4909,
+   "scanned_at": "2026-10-17T00:55:49.087683",
+   "date": "2026-10-17",
+   "agent": 11,
+   "market_price_t0": 13.5,
+   "edge": -0.02500000000000001,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.11). (0) Resolution check: the condition is not met. As of Oct 15–17 no general ceasefire exists. Trump's Oct 11 \"energy ceasefire\" is category-limited, which the rules exclude, and the Kremlin denies agreeing to it; Lavrov said on Oct 15 that \"there will be no ceasefire.\" (a) About 10.5 weeks remain until Dec 31, 2026 at 11:59 PM ET. (b) The status quo is No. Peskov rejected Zelensky's 60-day election truce, saying \"we do not want a ceasefire.\" Putin called his 660 km security zone non-negotiable and still claims the rest of Donetsk. Trump says a ceasefire is likely only after Zelensky leaves office. The Witkoff/Kushner Moscow trip is on hold, and the trilateral meeting has no date. (c) NO scenario: talks stall over Donbas and the security zone, Russia keeps hitting the grid as winter leverage, and at most a disputed energy-only or unilateral holiday pause occurs, none of which qualifies. (d) YES scenario: a November trilateral or Moscow visit produces a US–Europe package with a freeze along the line of control and sanctions relief, which Putin accepts under economic strain before winter. A second path is a mutually announced, dated general holiday truce (New Year or Orthodox Christmas, agreed before Dec 31), like the US-brokered May truce, which the wording could count. I anchor on Polymarket's 13.5% and shade slightly lower. The trend is downward (-9 points over 30 days), Russian rhetoric hardened in mid-October, and the Oct 31 contract trades at 2.65%. I keep about 11% for the holiday-truce path and a possible surprise Trump-brokered deal.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4909",
+   "has_trace": true
+  },
   {
    "id": 4316,
    "scanned_at": "2026-10-10T00:53:58.051891",
@@ -6749,6 +6791,20 @@
  ],
  "Will Oliver Tree be the #1 searched passing on Google in the US this year?": [
   {
+   "id": 4891,
+   "scanned_at": "2026-10-16T19:01:45.617091",
+   "date": "2026-10-16",
+   "agent": 8,
+   "market_price_t0": 10.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.55,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.08). (0) The condition has not been met yet. Google's 2026 Year in Search page returns a 404 and no Passings list exists, so YES still needs Google to publish a US Passings list, likely in early-to-mid December 2026, with Oliver Tree at #1. (a) About 2 months remain until the expected release, and the hard deadline is 2027-03-31. (b) Status quo: Tree's June 14 helicopter-crash death makes him eligible and a plausible high spike, but the year now includes much bigger US search events, so the default outcome is NO. (c) NO scenario: Dolly Parton (died Aug 25) or Hayden Panettiere (36, found dead Aug 16, with a continuing drug-investigation story) posts a larger trending spike. Glimpse's September global volume table puts Parton about 30x above Tree, and further late-year deaths such as RJ Mitte add more competitors. (d) YES scenario: Google's trend-versus-prior-year metric heavily rewards a young, sudden, video-driven death from a low baseline. Tree's continued interest, including #6 on Google's Frightgeist costume list, would have to outscore Parton's spike against her already high baseline, and also Panettiere's. The Frightgeist signal is weak evidence, because Tree's look was a costume staple before he died. The market sits at 10.5%, down from a 46.5% peak once the Parton and Panettiere deaths came in. The research adds no Trends data that overturns this, and the volume evidence leans against Tree, so I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4891",
+   "has_trace": true
+  },
+  {
    "id": 3221,
    "scanned_at": "2026-09-20T05:00:48.404499",
    "date": "2026-09-20",
@@ -7472,6 +7528,20 @@
   }
  ],
  "Will NVIDIA be the largest company in the world by market cap on December 31?": [
+  {
+   "id": 4922,
+   "scanned_at": "2026-10-17T04:04:53.053309",
+   "date": "2026-10-17",
+   "agent": 63.5,
+   "market_price_t0": 70,
+   "edge": -0.06499999999999995,
+   "confidence": 0.5,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.63, 0.64). (0) The condition is not met yet. Resolution is the Dec 31, 2026 close. CompaniesMarketCap and WealthRank (Oct 16) show NVIDIA #1 at about $5.17T against Apple at $5.01T, a lead of only about 3%. Alphabet is at about $4.1T and Microsoft at about $3.9T. (a) About 10.5 weeks remain, with Apple earnings on Nov 2, Nvidia earnings around Nov 17–25, Apple product launches, and macro and rate risk in between. (b) If nothing changes, NVIDIA wins. But the lead shrank from about $900B on Oct 6 to $158B on Oct 16, and Nvidia's beta of about 2.2 makes a 3% cushion fragile. (c) NO: the rates and AI-financing risk-off continues after hot CPI and Oracle/CoreWeave stress. Apple trades as a safe haven, delivers a solid Nov 2 print, and passes NVIDIA. Alphabet also keeps a small tail of rallying past both. (d) YES: the credit scare fades and Nvidia beats and raises in November on the Rubin ramp. Its earnings of roughly twice Apple's at a lower forward multiple re-rate the stock, as after Apple's brief July lead, which reverted within weeks. A simple relative-volatility model (3% lead, roughly 35–45% annualized relative vol over 0.2 years) gives only about 55–58% for NVIDIA over Apple, before Alphabet's tail. The Polymarket anchor of 70% implies positive drift expectations for Nvidia, which analyst targets and mean reversion partly justify. I shade below the market to about 63%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4922",
+   "has_trace": true
+  },
   {
    "id": 4302,
    "scanned_at": "2026-10-09T19:54:25.780092",
@@ -12795,6 +12865,20 @@
  ],
  "Will Mojtaba Khamenei be head of state in Iran end of 2026?": [
   {
+   "id": 4924,
+   "scanned_at": "2026-10-17T04:50:39.195889",
+   "date": "2026-10-17",
+   "agent": 86,
+   "market_price_t0": 86.8,
+   "edge": -0.008000000000000007,
+   "confidence": 0.6799999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.86, 0.86). (0) Not resolved. As of 2026-10-16/17, credible reporting (Wikipedia, Britannica, GlobalSecurity's Day 231 update, even the hostile NCRI) names Mojtaba Khamenei as Supreme Leader with final authority. For YES he must still hold that standing at noon ET on Dec 31. (a) About 75 days remain. (b) If nothing changes, he resolves YES. Decrees in his name have appointed top military commanders (August) and the SNSC secretary, officials route US talks through him, and no rival claimant or Assembly of Experts action has been reported. (c) NO would come from a few routes: a US/Israeli decapitation strike during the ongoing intermittent war, death or an announced incapacity from his reported severe February injuries, or credible reporting shifting to call Vahidi or the IRGC/SNSC the de facto power. The resolver could then pick another person or 'No Head of State' under the 'symbolic status' clause. (d) YES follows from institutional inertia. The IRGC that installed him needs his legitimacy, so it keeps him as the formal apex, and media keep writing 'Supreme Leader Mojtaba Khamenei' through year-end. The Polymarket anchor of 86.8% is consistent with the sibling 'leadership change by Dec 31' market at 11.5%. The small extra discount covers the de facto-wording risk and his still-unverified health after seven-plus months without a verified public appearance. I found nothing unpriced that would justify moving more than marginally, so I sit at about 86%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4924",
+   "has_trace": true
+  },
+  {
    "id": 4323,
    "scanned_at": "2026-10-10T02:29:15.669050",
    "date": "2026-10-10",
@@ -12880,6 +12964,20 @@
   }
  ],
  "Israel x Turkey military clash before 2027?": [
+  {
+   "id": 4906,
+   "scanned_at": "2026-10-17T00:09:41.782796",
+   "date": "2026-10-17",
+   "agent": 5.5,
+   "market_price_t0": 7.5,
+   "edge": -0.019999999999999997,
+   "confidence": 0.69,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.05). (0) Nothing shows the condition met. Reporting through Oct 14–15, 2026 (Arab Center DC, The Hill, Forbes) finds no direct exchange of force between Israeli and Turkish militaries. The closest call, Israel's Aug 18 strike on Abu al-Duhur, hit no Turkish forces and drew no Turkish fire. (a) About 2.5 months remain, until Dec 31, 2026. (b) Status quo is No: three years of tension, 2025 Israeli strikes near Turkish assets, the Aug 2026 strike and naval shadowing have all stayed below the threshold. Ankara's pattern is condemnation without force. (c) No scenario: the Israeli election on Oct 27 ends campaign incentives and attention turns to coalition talks. Turkey keeps responding diplomatically, US pressure and informal channels keep Israeli strikes away from Turkish personnel, and naval encounters stay at shadowing. (d) Yes scenario: Israel acts on intelligence of a Turkish radar or air-defence deployment at T4 or another Syrian base and strikes it while Turkish personnel are present. A missile strike hitting Turkish forces would arguably count even without retaliation. Alternatively, a naval collision causes hull damage. No working deconfliction mechanism exists, so this risk is real but needs a specific chain of events. I anchor on the Polymarket price of 7.5%, which has fallen steadily (down 5.5 points in 30 days), and shade slightly lower for the short window and the end of the election period.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4906",
+   "has_trace": true
+  },
   {
    "id": 3734,
    "scanned_at": "2026-10-02T10:30:54.471573",
@@ -14081,6 +14179,20 @@
  ],
  "Will there be at least 10000 measles cases in the U.S. in 2026?": [
   {
+   "id": 4911,
+   "scanned_at": "2026-10-17T01:44:45.309291",
+   "date": "2026-10-17",
+   "agent": 4.5,
+   "market_price_t0": 7.4,
+   "edge": -0.028999999999999998,
+   "confidence": 0.71,
+   "category": "Health",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.04). (0) Not resolved. The CDC counter, which is the resolution source, read 4,410 confirmed 2026 cases as of Oct 15. That is under half of 10,000, so the threshold is neither met nor mathematically impossible. (a) About 2.5 months remain, roughly 11 weekly CDC updates before Dec 31. Reaching the threshold needs about 5,590 more cases, an average of about 510 per week. (b) Status quo: weekly gains have run 171, 228, 193 and 330. Continuing at 200–350 a week gives a year-end total of about 6,600–8,300, well short. Sibling markets agree: 7,000 trades at 31.5% and 7,500 at 21%, which implies a median below 7,000. (c) NO: Pennsylvania, the main driver, is already decelerating on its own count (weekly adds fell from 157 to 86), and part of the +330 week was backlog. Reporting lag, the rash-onset year rule and holiday delays also trim late-year cases, so the total ends around 7,000–8,000. (d) YES: Pennsylvania re-accelerates, rural New York and the Midwest take off, and a large probable-case backlog clears, together sustaining 500+ cases a week through December. Trend models have repeatedly underestimated this surge, which keeps some tail. The market sits at 7.4%. Given the deceleration evidence and the near-tripling of the record weekly pace required, I shade slightly below it to about 4.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4911",
+   "has_trace": true
+  },
+  {
    "id": 4313,
    "scanned_at": "2026-10-10T00:07:17.943918",
    "date": "2026-10-10",
@@ -14332,6 +14444,20 @@
   }
  ],
  "Nothing Ever Happens: 2026": [
+  {
+   "id": 4897,
+   "scanned_at": "2026-10-16T20:39:26.515829",
+   "date": "2026-10-16",
+   "agent": 84.5,
+   "market_price_t0": 83,
+   "edge": 0.015000000000000013,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.85, 0.84). (0) No trigger has been met as of 2026-10-16. The USGS query shows no M8.5+ quake in 2026. The largest JPL fireball this year was 1.1 kt. Bitcoin is about $82K. Trump is still President. The Islamic Republic survived Khamenei's death, and a succession that keeps its core structures does not count under the rules. Greenland was settled on Sept 22 with Danish sovereignty intact. The Senate stands at 53R and forecasts point well below 60 seats.\n(a) About 11 weeks remain until Dec 31 11:59 ET. Because the natural-hazard datasets can be updated until Feb 2027, a late-December event would still count.\n(b) If nothing changes, the market resolves Yes.\n(c) The most plausible No path is a US move after the midterms to seize an Iranian island such as Kharg. It was planned in March, and the low-threshold wording ('offensive intended to establish control over any portion') would be met. Other No paths are a Russian 'limited attack' on a Baltic state, a leadership exit for Trump or Xi, or an M9 quake.\n(d) The Yes path is that Iran stays an air-and-blockade campaign, Trump keeps his pause through Nov 3 and any later strikes stay airborne, and the other tails stay quiet.\nThe market prices Yes at 83%. Related Polymarket longshots (Trump out 4%, Xi 2.9%, Iran regime 5.5%, Russia–NATO 5.5%, Taiwan 2%) sum naively to over 20% including an Iran invasion. Those prices carry longshot bias and cover overlapping risks, though.\nMy own estimates for the remaining 11 weeks:\n- US invades Iran: ~4%\n- Iran regime falls: ~2%\n- Russia invades a NATO country: ~2%\n- Trump out: ~1.5%\n- Xi out: ~1%\n- Natural hazards combined: ~2%\n- Other triggers: ~1%\nThat totals roughly 13–15% for No, so I put Yes slightly above the market at 0.85.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4897",
+   "has_trace": true
+  },
   {
    "id": 4297,
    "scanned_at": "2026-10-09T18:19:48.976083",
@@ -15906,6 +16032,20 @@
   }
  ],
  "Theo FDV above $100M one day after launch?": [
+  {
+   "id": 4931,
+   "scanned_at": "2026-10-17T06:22:11.564751",
+   "date": "2026-10-17",
+   "agent": 22.5,
+   "market_price_t0": 34.5,
+   "edge": -0.11999999999999997,
+   "confidence": 0.55,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.23, 0.22) after one crux research pass. (0) Not resolved. No source shows a Theo Network (theo.xyz, now @theo_xyz) token launch, TGE date or tokenomics. Autheo's THEO is a different project, and after its crash it would be about $44M FDV anyway. (a) About 75 days remain until Dec 31, 2026, 11:59 PM ET. A launch must occur by about Dec 30 so the next-day 4 PM ET check falls inside the window. (b) If nothing changes, there is no token and the market resolves No. The recent feed (thSLVR launch, hiring, a CoinDesk interview, a routine handle change) shows product work, not a TGE, and points programs are still running with no snapshot date. (c) NO: Theo keeps building its institutional RWA products, Season 2 and thUSD points roll into 2027, and the deadline passes. (d) YES: Theo announces a TGE in November or December, consistent with the speculative 'December 2026' newsletter timing tied to the 6-month thUSD lock. It lists with a 1B supply at $0.10 or more on Hyperliquid or a CEX, giving an FDV above $100M. Given the roughly $130M of TVL, $20M raised and 115K followers, the FDV would likely clear $100M (about 70-80%) if a launch happens. Anchor: this market trades at 34.5%, but the sibling 'Will Theo launch a token by Dec 31 2026?' market sits at 31.75%. Since P(FDV>$100M) cannot exceed P(launch), this contract looks overpriced. My estimate is roughly a 28-30% launch chance times about 78%, so I shade below both markets, consistent with the -12% weekly drift.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4931",
+   "has_trace": true
+  },
   {
    "id": 1455,
    "scanned_at": "2026-08-18T06:41:34.812194",
@@ -17496,7 +17636,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-16T18:48:34.811Z",
+  "last_sync": "2026-10-17T07:47:25.043Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -23023,6 +23163,20 @@
  ],
  "Any of the Cornell 7 charged with a felony sex crime?": [
   {
+   "id": 4915,
+   "scanned_at": "2026-10-17T02:27:03.168914",
+   "date": "2026-10-17",
+   "agent": 24.5,
+   "market_price_t0": 27.5,
+   "edge": -0.030000000000000027,
+   "confidence": 0.5,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.24, 0.25). (0) The condition has not been met. The resolution-source read, LA Mag and Fingerlakes1 (through Oct 15–17) all report no charge or indictment against any of the seven. AG Letitia James, named special prosecutor on Oct 1, describes an active investigation and says prosecutions will follow only \"if warranted.\" (a) About 3.5 months remain until the Jan 31, 2027 deadline. (b) If nothing changes, the investigation is still running at the deadline and the market resolves No. (c) No path: the Oct 29 hearing on removing James and Lee's motion on grand-jury taint delay presentment. The AG's office lacks sex-crime experience and has to rebuild a two-year-old, mixed record (the 2024 sworn statement, the \"not illegal\" text, Title IX not-responsible findings, a hair test with no ketamine). New York's voluntary-intoxication gap also makes a felony incapacitation theory hard to prove. (d) Yes path: James keeps the case, inherits the DA's planned 45-day grand jury preparation plus extensive Title IX and campus-police records, and presents evidence on a physically-helpless or forcible-compulsion theory. The grand jury standard is low, so indicting at least one man in Nov–Jan is plausible, and both Hochul and James face heavy political pressure to act. The Polymarket anchor is 27.5% after falling from 71%, which suggests the crowd has already priced the delays and legal hurdles. I shade slightly below it because no grand jury date has been announced, disqualification litigation is pending, and both the statutory and evidentiary problems are real. A sealed indictment would also not count until it is announced.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4915",
+   "has_trace": true
+  },
+  {
    "id": 4259,
    "scanned_at": "2026-10-09T06:31:05.110900",
    "date": "2026-10-09",
@@ -23052,6 +23206,20 @@
   }
  ],
  "US strike on Colombia by December 31?": [
+  {
+   "id": 4894,
+   "scanned_at": "2026-10-16T19:53:43.134565",
+   "date": "2026-10-16",
+   "agent": 20.5,
+   "market_price_t0": 22.5,
+   "edge": -0.01999999999999999,
+   "confidence": 0.525,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.21, 0.20). (0) No source shows a qualifying strike yet. The resolution-source read, the Wikipedia Southern Spear strike tally to Oct 4 and all four research dimensions found no US air, drone or missile strike on Colombian land; the many boat strikes off La Guajira are maritime and do not count. (a) About 76 days remain until Dec 31, 2026 ET, and a strike must be credibly reported within two days of close. (b) If nothing changes, the market resolves No. The trend since the Aug 12 consent deal is that Colombia carries out its own bombings (Guaviare, Catatumbo/Frente 33) while the US provides surveillance, intelligence and training. (c) NO path: the Reapers stay in a surveillance role or are handed to Colombian operators, so joint operations remain Colombian-flown with US intelligence. Senate and tutela friction and rising protests also make De la Espriella cautious about visible US kinetic action, and the year ends without a strike. (d) YES path: the Ecuador template repeats. A US MQ-9 or US aircraft hits an ELN, Frente 33 or Clan del Golfo camp in a joint operation, announced by SOUTHCOM or Hegseth. The ingredients are in place: host consent, Hegseth's \"legitimate targets\" statement, Reapers reported operating, and pressure on Shield of the Americas partners to allow direct land strikes. Even so, two months have passed since consent with no US strike, slower than the roughly one-month gap in Ecuador. I anchor on the market's 22.5% and shade slightly lower, because the evidence leans toward a Colombia-strikes, US-supports model that would resolve No.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4894",
+   "has_trace": true
+  },
   {
    "id": 4254,
    "scanned_at": "2026-10-09T04:59:39.647586",
@@ -23376,6 +23544,20 @@
   }
  ],
  "Iran leadership change by December 31?": [
+  {
+   "id": 4928,
+   "scanned_at": "2026-10-17T05:35:28.209407",
+   "date": "2026-10-17",
+   "agent": 10,
+   "market_price_t0": 11.5,
+   "edge": -0.015,
+   "confidence": 0.6,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.10). (0) Resolution check: the condition is not met. As of 16–17 October, Mehr is still publishing statements in Mojtaba Khamenei's name, Iran's vice president says talks with the US need his approval, and Wikipedia and Britannica list him as incumbent. No credible outlet reports his removal, detention, resignation or death. (a) The deadline is 31 December, about 76 days away. Trump has pledged no US strikes before the 3 November midterms, which leaves roughly 8 weeks of elevated exposure afterwards. (b) If nothing changes, the answer is No: seven months of total invisibility have not produced a credible consensus that he is 'prevented from acting', and even hostile sources such as NCRI concede he retains final authority. (c) No scenario: the IRGC keeps a compliant, unseen figurehead in place, the war stays mostly economic through the blockade, and post-midterm strikes either don't come or miss him. (d) Yes scenario: renewed US or Israeli strikes after 3 November kill him (Israel's threat to target him stands), or an incapacity or death is revealed and the Assembly of Experts or an interim council formally replaces him. A visible IRGC sidelining or unrest driven by the economic collapse are weaker paths. The Polymarket anchor of 11.5% sits coherently on the term structure (2.7% for October, 6.5% for November, 24.5% for June 2027), and the related regime-fall market is at 5.5%. The research surfaces no new trigger the market hasn't priced, so I shade only slightly below the anchor: the base rate favours continuity, and death rumours have repeatedly failed to come true.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4928",
+   "has_trace": true
+  },
   {
    "id": 4329,
    "scanned_at": "2026-10-10T04:03:27.200244",
@@ -24268,6 +24450,20 @@
   }
  ],
  "Will the highest-magnitude earthquake in 2026 be 7.9 or below?": [
+  {
+   "id": 4901,
+   "scanned_at": "2026-10-16T22:20:35.053297",
+   "date": "2026-10-16",
+   "agent": 78.5,
+   "market_price_t0": 61,
+   "edge": 0.17500000000000004,
+   "confidence": 0.72,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.78, 0.79) after one crux research pass. (0) Not yet resolved. A USGS ComCat query on 2026-10-16 shows the 2026 maximum is M7.8 (Mindanao, June 7, and Flores, Aug 14; both reviewed, mww). No 2026 event is M8.0+. The Panama quake is final at M7.7 after an initial 8.0 estimate was revised down. Yes therefore holds unless a new M≥8.0 occurs. (a) About 76 days remain to Dec 31 ET, roughly 0.21 of a year. (b) Status quo is Yes. (c) NO needs a new great earthquake, such as a subduction megathrust somewhere in the Pacific Rim, with a USGS preferred magnitude of 8.0+ before year-end. (d) YES needs only that no such event occurs. That is the default outcome, since no M7+ event has occurred since Oct 9. On rates: the 1999–2025 record averages about 1.15 M8+ per year, and recent years run lower (about 0.6–0.84 per year). A Poisson model over 0.21 years gives roughly 15–22% for at least one M8+. The Panama aftershock forecast adds about 1%. The Polymarket anchor of 61% sits on a very wide 46/76 spread with thin volume. Its 18-point drop this week most likely reflects the transient Panama 8.0 headline, which USGS has since revised to 7.7, so I move above the market toward the base rate. The sibling bracket markets are similarly illiquid. The related 8.0+-by-Oct-31 market at 6.3% for about 15 days is consistent with a rate near 1–1.5 per year.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4901",
+   "has_trace": true
+  },
   {
    "id": 4299,
    "scanned_at": "2026-10-09T19:06:54.055535",
@@ -25330,6 +25526,38 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.15, 0.15). (0) The condition has not been met. The Treasury par curve CSV, which is the resolution source, shows a window high of 5.67% on 10/07 and 5.43% on 10/15, so nothing at or above 6.00% yet. (a) About 11 weeks (~53 trading days) remain until the 12/31 data. A daily par close must print ≥6.00%; intraday spikes such as the 5.72% Bloomberg quote do not count. (b) If nothing changes, the yield sits ~57bp below the strike and the market resolves No. (c) No path: the AI-credit and tech flight-to-quality rally persists, Warsh softens, and the Treasury expands buybacks if long yields spike. The 5.67% peak then holds and the yield drifts in the 5.2–5.6% range that trend models project (forecasts.org, REX, Trading Economics ~5.5%). (d) Yes path: a hawkish December hike repricing combines with oil above $100 and hot CPI/PPI. Add a supply or term-premium disappointment at the Nov 4 refunding, when buyback support lapses, and CTD-switch futures flows amplify the last 30bp. That pushes the par close to 6% in Nov or Dec. Barrier math with roughly 6–8bp daily vol gives about 15–30% for a touch, but daily closes and mean reversion off a rejected peak shade it down. Related Polymarket markets are consistent with ~14%: 10Y 5.7% at 12.8% needs a similar ~60bp move. I see no unpriced information strong enough to move far from the 14% anchor, so I nudge only slightly to 15% for fat-tail regime risk.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/4815",
+   "has_trace": true
+  }
+ ],
+ "Will the Democratic Party win the WA-05 House seat?": [
+  {
+   "id": 4918,
+   "scanned_at": "2026-10-17T03:16:34.869275",
+   "date": "2026-10-17",
+   "agent": 9.8,
+   "market_price_t0": 11.7,
+   "edge": -0.019000000000000003,
+   "confidence": 0.62,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.10). (0) Not resolved. The general election is November 3, 2026, and the FEC and press show no result; WA-05 is a 2024 rematch between incumbent Baumgartner (R) and Conroy (D). (a) There are about 17 days to election day, plus several days of mail-ballot counting. (b) Status quo is a Republican hold, which resolves NO. Cook, Inside Elections and Sabato all rate the seat Solid or Safe R. The Solid Purple model gives Democrats about 2% (median R+16.9). Baumgartner won by 21 points in 2024 and leads Conroy roughly 4:1 in money. (c) NO scenario: Baumgartner's 47.4% primary share grows in November, as McMorris Rodgers' 49.3% in the 2018 primary became a roughly 10-point win in a wave year. Some Powell voters stay home or back the incumbent rather than a more progressive Conroy. (d) YES scenario: a D+10 national wave, driven by Trump at net -22 and an unpopular Iran war, plus DCCC money after the October 2 'in play' designation. Powell's endorsed voters would also need to consolidate behind Conroy and Spokane turnout surge, holding Baumgartner below 50%. The weak primary showing is real, but the Washington top-two primary electorate tends to understate the Republican general share. The anchor is the Polymarket price of 11.65%, which is falling (-6.5 points over 7 days). I shade slightly below it toward the modeled and expert consensus, without going as low as Solid Purple's 2%, given the wave environment and the sub-50% primary.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4918",
+   "has_trace": true
+  }
+ ],
+ "Will the Democratic Party win the AL-02 House seat?": [
+  {
+   "id": 4903,
+   "scanned_at": "2026-10-16T23:11:28.081943",
+   "date": "2026-10-16",
+   "agent": 31,
+   "market_price_t0": 30.5,
+   "edge": 0.0050000000000000044,
+   "confidence": 0.55,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.31, 0.31). (0) Not resolved: the FEC has no result, the election is Nov 3, and the race is Figures (D) vs Marques (R) on the 2023 legislature map, settled by the Supreme Court's June 2 stay. (a) About 18 days remain. (b) The status quo favours Republicans: the seat is Trump +14-15 and R+7, and raters are mostly Likely/Lean R, with only Split Ticket at Tossup. (c) NO: inelastic Alabama voting, weaker midterm Black turnout, Republican outside money catching up (the Trump PAC is past $2M) and a weak Jones ticket (down 13 statewide) produce a mid-single-digit Marques win. (d) YES: the D+7-8 generic ballot, high Montgomery turnout, incumbency and Figures's 3:1 cash edge carry him narrowly, consistent with three Democratic-sponsored polls showing a tie. The tied polls are partisan with no independent confirmation since August, but the national environment has improved since then, so I stay close to the 30.5% market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4903",
    "has_trace": true
   }
  ]

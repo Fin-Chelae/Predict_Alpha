@@ -1245,6 +1245,20 @@
  ],
  "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?": [
   {
+   "id": 4950,
+   "scanned_at": "2026-10-17T12:34:20.940067",
+   "date": "2026-10-17",
+   "agent": 74.5,
+   "market_price_t0": 76.5,
+   "edge": -0.020000000000000018,
+   "confidence": 0.61,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.75, 0.74). (0) The condition has not been met. FRED DFEDTARU shows the upper bound at 4.00% after the September 17 hike, and the Dec 8–9 meeting has not happened, so YES still needs exactly a 25 bp increase relative to the pre-meeting level.\n(a) There are about 7.5 weeks until the Dec 9 statement. The Oct 27–28 FOMC meeting, October and November payrolls and CPI, and oil prices all come before it.\n(b) If nothing changes, the expected path is a hold in October (priced at about 85%) and a December hike. The September dots support this: median year-end rate of 4.00–4.25%, with 16 of 18 participants projecting another hike. Goldman, JPM, Citi, Nomura and UBS all forecast a December 25 bp move, and Williams, Collins, Waller and Barr have all leaned toward one more hike.\n(c) NO could happen several ways. A ceasefire or a fall in oil could let the Fed treat the energy-led inflation (core CPI is only 2.6%) as transitory. Another weak payrolls print after September's +29k could push the Fed to pause. An October hike (about 14%) would satisfy the 'one more hike' framing and leave December on hold. A 50 bp move would also fail this exact-25 bp bracket.\n(d) YES happens if the Fed holds on Oct 28, inflation stays hot, and the labour market holds up, after which the Fed hikes to 4.00–4.25% on Dec 9.\nThe Polymarket price of 76.5% is consistent with the DeFi Rate cross-venue figure of 76% for December alone. The higher FedWatch figure of about 89% likely bundles in the October and 50 bp probabilities. I see no unpriced information to move me materially, so I sit just below the market given the October-hike and 50 bp tails.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4950",
+   "has_trace": true
+  },
+  {
    "id": 4356,
    "scanned_at": "2026-10-10T12:30:48.395389",
    "date": "2026-10-10",
@@ -1666,6 +1680,20 @@
   }
  ],
  "Will Venezuela recognize Israel by December 31?": [
+  {
+   "id": 4963,
+   "scanned_at": "2026-10-17T16:30:57.230163",
+   "date": "2026-10-17",
+   "agent": 6.8,
+   "market_price_t0": 8.5,
+   "edge": -0.0175,
+   "confidence": 0.6,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) No source shows the condition met. The August 11, 2026 joint statement set up only a consular coordination mechanism. Reuters, Al Jazeera, Media Line and El País say there are no embassies and no full diplomatic relations. The market stayed open afterward and priced Venezuela at 9-15%, which implies the August deal did not count. (a) About 10.5 weeks remain until December 31, 2026, and that window includes the Israeli election in about two weeks and the year-end holidays. (b) Status quo: the relationship stays consular-only, which resolves No; I found no official statement on embassies or ambassadors since mid-August. (c) No: the Rodríguez government keeps the 'courtship period' framing that Rabbi Cohen described, and full ties or embassies come in 2027 or later. Chavista sensitivities and the remaining Iran ties slow any upgrade. (d) Yes: US pressure, which earlier produced the Iran ambassador summons and the restored US ties, drives a fast announcement of full diplomatic relations or an ambassador exchange before year-end. The resolver would also have to accept that as 'formal recognition', which is itself uncertain because Venezuela arguably never withdrew recognition. The market sits at 8.5% and has been drifting down with no new catalyst, so I shade slightly below it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4963",
+   "has_trace": true
+  },
   {
    "id": 4369,
    "scanned_at": "2026-10-10T16:23:00.806570",
@@ -4098,6 +4126,20 @@
   }
  ],
  "Will Ethereum dip to $1,500 by December 31, 2026?": [
+  {
+   "id": 4945,
+   "scanned_at": "2026-10-17T10:54:25.154557",
+   "date": "2026-10-17",
+   "agent": 6.8,
+   "market_price_t0": 8.5,
+   "edge": -0.017,
+   "confidence": 0.7,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Resolution check: the condition has not been met. Binance's own data mirror (data-api.binance.vision) shows the lowest ETH/USDT monthly low since December 2025 was $1,505.68 in June 2026. Secondary sources put the June 6 Binance wick at about $1,505–1,507, still above the strike. Nov 24–30, 2025 was not checked, but ETH traded around $2,700–3,000 then, so a dip that week is implausible. (a) About 75 days remain until 23:59 ET on Dec 31, 2026. (b) Status quo is No: ETH is about $2,430, roughly 38% above $1,500, and the nearest supports ($2,300, $2,200, $2,141) are far above the strike. (c) No scenario: ETH chops in $2,100–2,800 through year-end on FOMC noise, ETF outflows and the Glamsterdam timing, and never revisits its June low. (d) Yes scenario: a hawkish Fed repricing (December hike, 10-year yield above 5.2%, oil shock) plus continued ETF outflows breaks $2,141. BTC then falls back to the low $60Ks and a June-style long-liquidation cascade through the DeFi shelves at $1,565, $1,555 and $1,426 wicks ETH below $1,500 on Binance. Barrier arithmetic at DVOL around 51% puts the strike about 2.1 sigma below spot, roughly a 4% touch probability under lognormal assumptions. Fat tails, thin spot books and the wick-sensitive 1-minute trigger raise that to perhaps 5–8%. The market at 8.45% (bid 8 / ask 9) sits at the top of that range, and Polymarket long shots tend to be slightly overpriced, so I shade a little below the market to about 6.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4945",
+   "has_trace": true
+  },
   {
    "id": 4174,
    "scanned_at": "2026-10-08T06:32:22.354388",
@@ -12233,6 +12275,20 @@
  ],
  "Russia x Ukraine ceasefire by December 31, 2026?": [
   {
+   "id": 4938,
+   "scanned_at": "2026-10-17T08:38:54.291353",
+   "date": "2026-10-17",
+   "agent": 6.3,
+   "market_price_t0": 9.5,
+   "edge": -0.0325,
+   "confidence": 0.71,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.07). (0) The condition has not been met. ISW's Oct 16 assessment and Ukrainian General Staff data (238 clashes on Oct 16) show full-intensity combat. Trump's Oct 11 'energy ceasefire' was never confirmed by either side, has collapsed in practice, and would not qualify anyway because it covers only one target category. (a) About 10.5 weeks remain, and because the ceasefire must hold 10 days, a general one effectively has to start by about Dec 22. (b) If nothing changes, the war continues and the market resolves No. (c) No scenario: Moscow keeps its explicit refusals (Peskov on Oct 12, 'we do not want a ceasefire'; Lavrov on Oct 15, no truce for elections). Putin also reportedly expects to take all of Donetsk by February 2027, so any Witkoff/Kushner visit yields at most partial energy or grain deals. (d) Yes scenario: a pre-winter US push combines a Moscow envoy visit with sanctions relief and a territorial formula, and Putin accepts a general freeze in early December that holds 10+ days; a long holiday truce would be a lesser variant. History cuts against both: across almost five years of war, no general mutual truce has lasted more than about 3 days. The market anchor is 9.5%, and the looser 'agreement' sibling sits at 13.5%. I shade below the anchor for longshot bias, Russia's escalating posture, and the tight effective deadline.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4938",
+   "has_trace": true
+  },
+  {
    "id": 4344,
    "scanned_at": "2026-10-10T07:57:18.671121",
    "date": "2026-10-10",
@@ -12588,6 +12644,20 @@
   }
  ],
  "Will Russia capture all of Kostyantynivka by December 31, 2026?": [
+  {
+   "id": 4943,
+   "scanned_at": "2026-10-17T10:08:59.910881",
+   "date": "2026-10-17",
+   "agent": 7,
+   "market_price_t0": 12.5,
+   "edge": -0.05499999999999999,
+   "confidence": 0.68,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Resolution check: the condition is not met. ISW's October 9 assessment says Russian forces have not seized Kostyantynivka, puts Russian advances at under 40% of the city, and calls the Russian MoD's July capture claim false. Assessments from October 12 to 16 record no Russian advances there and some Ukrainian gains in the Kostyantynivka–Druzhkivka area.\n(a) About 75 days remain until 11:59 PM ET on December 31, 2026. Any full-city shading must also persist through one more ISW update cycle.\n(b) Status quo: ISW's measure has been roughly flat since mid-July (about 37% then, under 40% now). Large areas are only infiltration, which does not qualify. If nothing changes, this resolves No.\n(c) NO scenario: Operation Vivaldi has already disrupted Russia's plan to encircle the Fortress Belt. Ukraine keeps reinforcing the city, including Azov-led groupings, and keeps counterattacking near Dovha Balka and Rusyn Yar. Any Ukrainian-held pocket in the northwest grey zone then blocks full shading through December.\n(d) YES scenario: a Pokrovsk-style collapse. Russia cuts the northern exit via Illinivka–Novodmytrivka, the garrison withdraws, and ISW shades the whole municipality within weeks. A negotiated handover is effectively off the table: Lavrov says there will be no ceasefire.\n\nThe Polymarket anchor is 12.5% and has fallen 16 points in 30 days on exactly this news. The momentum reversal, the stalled ISW percentage, and Pokrovsk/Myrnohrad needing roughly a month after reaching ~50% all argue for pricing somewhat below the market. I put Yes at 7%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4943",
+   "has_trace": true
+  },
   {
    "id": 4265,
    "scanned_at": "2026-10-09T08:04:17.442640",
@@ -17636,7 +17706,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-17T07:47:25.043Z",
+  "last_sync": "2026-10-17T17:51:24.732Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -20561,6 +20631,20 @@
  ],
  "Another Fed rate hike in 2026?": [
   {
+   "id": 4958,
+   "scanned_at": "2026-10-17T14:57:24.921908",
+   "date": "2026-10-17",
+   "agent": 80.5,
+   "market_price_t0": 77.5,
+   "edge": 0.030000000000000027,
+   "confidence": 0.62,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.81, 0.80). (0) The resolving condition has not been met. FRED DFEDTARU shows the upper bound at 4.00% since Sep 17, and that move was the excluded Sep 16 hike. The Fed's page has not been updated since Sep 16. A Yes needs a hike at the Oct 28 or Dec 9 FOMC meeting, or an emergency move.\n\n(a) There are about 7.5 weeks and two meetings left. Dec 9 is the last chance; a slip to January resolves No.\n\n(b) If nothing changes, the rate holds at 4.00% and this resolves No. The baseline path is still a hike: the September SEP median of 4.125% implies one more move, 16 of 18 participants projected at least one, and the minutes say most saw another hike as likely by year end. Even Williams, the leading dove, backs one more hike in 2026.\n\n(c) No scenario: oil falls on an Iran/Hormuz deal and the October and November payroll reports stay near zero or turn negative. Warsh's no-guidance, data-dependent stance then lets the committee push the hike to January, which Natixis flags as plausible.\n\n(d) Yes scenario: the Fed holds on Oct 28, given election timing (CME implies about 15% for an October hike), then hikes 25bp on Dec 9. September CPI, PPI, import prices and Michigan inflation expectations all surprised upward, which supports that path.\n\nOn pricing, I anchor on Polymarket at 77.5%; Kalshi's near-identical market is at 79%. Secondary reports of CME FedWatch put a December hike near 89%, so I lean slightly above the venue price. That edge is modest, because the FedWatch figures are unverified snippets and pricing has swung a lot with each data release.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4958",
+   "has_trace": true
+  },
+  {
    "id": 4364,
    "scanned_at": "2026-10-10T14:50:04.903636",
    "date": "2026-10-10",
@@ -21429,6 +21513,20 @@
  ],
  "Will the Rhine River return to normal levels between October 1 and October 31, 2026?": [
   {
+   "id": 4940,
+   "scanned_at": "2026-10-17T09:23:10.820107",
+   "date": "2026-10-17",
+   "agent": 28,
+   "market_price_t0": 35.5,
+   "edge": -0.07499999999999996,
+   "confidence": 0.55,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.29, 0.27). (0) Not met: PegelOnline shows Kaub at 11 cm on 17 Oct, with readings of 0–16 cm over 15 days and nothing near 77 cm for about a month. (a) About 14 days remain to 31 Oct. (b) The status quo is No: the gauge is 66 cm short after record lows, and dry soils damp the runoff response to rain. (c) No path: the 17–21 Oct rain lands at or below forecast. Today's deterministic ELWIS forecast has only about 25 cm on 21 Oct, and the BfG median peak is about 45 cm. The dry spell from 22–29 Oct then lets levels recede, as the July and August bumps did. (d) Yes path: the 16 Oct BfG ensemble gives up to a 27% chance of a daily mean above 77 cm (peaking 23 Oct, about 14–24% on 21–24 Oct). A single 15-minute reading counts, and the August 5→75 cm rebound shows a fast rise is possible. The market anchor is 35.5%, and the sister 'fail' market implies about 37.5% Yes. I shade slightly lower because the latest deterministic run is at the low end of the ensemble and earlier forecast bumps in this drought underdelivered. Cumulative ensemble exceedance is probably around 30%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4940",
+   "has_trace": true
+  },
+  {
    "id": 4346,
    "scanned_at": "2026-10-10T08:43:25.476265",
    "date": "2026-10-10",
@@ -22222,6 +22320,20 @@
   }
  ],
  "Will AI solve 0 more Millennium Prize Problems in 2026?": [
+  {
+   "id": 4948,
+   "scanned_at": "2026-10-17T11:44:34.009694",
+   "date": "2026-10-17",
+   "agent": 78.5,
+   "market_price_t0": 76.5,
+   "edge": 0.020000000000000018,
+   "confidence": 0.61,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.78, 0.79). (0) No source shows the condition met or impossible: the resolution-source read (Oct 13) finds no eligible lab announcing a full solution to BSD, Hodge, P vs NP, Riemann or Yang-Mills, so the count is 0. OpenAI's Navier-Stokes claim is excluded, and its Oct 6 release of about 719 manuscripts holds only special cases (Riemann zero-free region, Hodge for CM abelian varieties, a low-corank BSD formula); three Hodge papers were withdrawn a day later over a sign error. (a) About 10.5 weeks remain until Dec 31, 2026. (b) If nothing changes, this resolves Yes. (c) No path: OpenAI's unnamed 'substantial progress on another Millennium problem' becomes a full Hodge or BSD claim, or Anthropic or Google makes one in a race. A counterexample-style disproof, the kind of explicit construction these models produced on Navier-Stokes, could also qualify. (d) Yes path: labs keep publishing partial results; scrutiny of the contested Navier-Stokes claim, the Fields Medalists' letter and the retractions deter overclaiming, and the holidays pass quietly. The market anchor is 76.5%, matched by the sibling 'another solution by Dec 31' market at 25.5%. I nudge slightly up because the biggest release, the plausible vehicle for the second-problem progress, did not frame anything as a full solution, while keeping a meaningful tail for the extraordinary pace of AI math output.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4948",
+   "has_trace": true
+  },
   {
    "id": 4113,
    "scanned_at": "2026-10-07T11:16:47.307377",
@@ -23605,6 +23717,20 @@
  ],
  "Will Ethereum dip to $2,100 in October?": [
   {
+   "id": 4955,
+   "scanned_at": "2026-10-17T14:07:50.132822",
+   "date": "2026-10-17",
+   "agent": 16.5,
+   "market_price_t0": 18.5,
+   "edge": -0.01999999999999999,
+   "confidence": 0.61,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.16, 0.17). (0) The condition has not been met. Binance's own data mirror shows an October month-to-date low of 2318.00 (Oct 13–15 flush), and spot is about $2,422, so ETH still needs a further ~13% wick down to $2,100. (a) About 14.5 days remain, until Oct 31 11:59 PM ET. (b) If nothing changes, the market resolves No: the CPI/PPI/oil-driven selloff ran out near $2,318–2,325 and has bounced since. (c) No path: the Fed holds on Oct 28 (about 87% priced), the 100/200-day EMAs near $2,310–2,350 hold, and ETH ranges between $2,300 and $2,600 into month-end. (d) Yes path: another hot data print, an oil spike or a hawkish FOMC surprise breaks $2,300 and triggers cascading long liquidations through $2,200 toward $2,141 and $2,100. Only one 1-minute wick is needed. A driftless barrier calculation at implied vol of 45–55% gives roughly 10–19% touch probability, and fat tails plus the macro backdrop push toward the upper end. The Polymarket anchor is 18.5% (bid 18 / ask 19). CryptoQuant data shows downside leverage already partly flushed and thin long clusters below spot, while realized vol is about 44%. That shades me slightly below the market, to about 16%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4955",
+   "has_trace": true
+  },
+  {
    "id": 4360,
    "scanned_at": "2026-10-10T13:18:01.647783",
    "date": "2026-10-10",
@@ -24667,6 +24793,20 @@
  ],
  "Modi out by June 30, 2027?": [
   {
+   "id": 4960,
+   "scanned_at": "2026-10-17T15:43:55.936903",
+   "date": "2026-10-17",
+   "agent": 7.8,
+   "market_price_t0": 10.5,
+   "edge": -0.027499999999999997,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.08). (0) The condition has not been met. pmindia.gov.in, updated 17 Oct 2026, lists Modi as PM and shows routine same-day activity. No source reports a resignation, removal or incapacity. (a) About 8.5 months remain until 30 June 2027. (b) Status quo is No: the NDA keeps a working majority (21+ seat cushion, possibly more), no ally has threatened to leave, no no-confidence motion exists, and the next Lok Sabha election is due in 2029. (c) No scenario: the 'cockroach' and voter-roll protests stay focused on the CEC and fade or get deflected by sacrificing subordinates, as with the education minister. The TDP and JD(U) stay put despite pressure, and Modi keeps his scheduled December Canada trip and carries on. (d) Yes scenario: protests persist into 2027 and the BJP does badly in the Feb–Mar 2027 UP/Punjab elections. The TDP and JD(U), about 28 MPs, then exit or force a leadership swap, or Modi, aged 76, suffers a health event or makes a surprise RSS-brokered handover. The market anchor is 10.5%, matched by Kalshi's 10% on a wide spread, while the Dec 2026 sibling trades at 3.1%. The actuarial and health tail alone is roughly 2-3%, and the political tail is elevated but shows only pressure on allies, not defections. Indian PMs have historically almost never left mid-term without an election loss or coalition collapse. I shade modestly below the thin, recently volatile market to about 7.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4960",
+   "has_trace": true
+  },
+  {
    "id": 4362,
    "scanned_at": "2026-10-10T14:07:25.521563",
    "date": "2026-10-10",
@@ -25558,6 +25698,54 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.31, 0.31). (0) Not resolved: the FEC has no result, the election is Nov 3, and the race is Figures (D) vs Marques (R) on the 2023 legislature map, settled by the Supreme Court's June 2 stay. (a) About 18 days remain. (b) The status quo favours Republicans: the seat is Trump +14-15 and R+7, and raters are mostly Likely/Lean R, with only Split Ticket at Tossup. (c) NO: inelastic Alabama voting, weaker midterm Black turnout, Republican outside money catching up (the Trump PAC is past $2M) and a weak Jones ticket (down 13 statewide) produce a mid-single-digit Marques win. (d) YES: the D+7-8 generic ballot, high Montgomery turnout, incumbency and Figures's 3:1 cash edge carry him narrowly, consistent with three Democratic-sponsored polls showing a tie. The tied polls are partisan with no independent confirmation since August, but the national environment has improved since then, so I stay close to the 30.5% market anchor.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/4903",
+   "has_trace": true
+  }
+ ],
+ "Will the OpenAI spy be accused of working for Saudi Arabia by December 31?": [
+  {
+   "id": 4965,
+   "scanned_at": "2026-10-17T17:17:05.843267",
+   "date": "2026-10-17",
+   "agent": 11.5,
+   "market_price_t0": 14.5,
+   "edge": -0.03,
+   "confidence": 0.55,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.12). (0) The condition is not met yet. The Oct 13 DOJ release and complaint charge only interception of oral communications under 18 USC 2511. Fortune, the Washington Post, Newsweek and The Hacker News (around Oct 16) all report that the government has named no recipient, motive or foreign principal. OpenAI's statement also attributes nothing to any state. (a) About 10.5 weeks remain until Dec 31. The key events are the Oct 19 detention hearing and an indictment due around Nov 8 under the Speedy Trial Act, which could slip if both sides agree to extend. (b) If nothing changes, this resolves No: officials keep using 'Saudi national' and 'foreign threats' language, which the rules exclude. (c) No scenario: the grand jury indicts only on the 2511 count, or the deadline is extended for plea talks. Any later 951 or conspiracy count would come in a superseding indictment in 2027, after the deadline. Restraint is also likely given US-Saudi chip and investment ties. (d) Yes scenario: forensic work on the devices or his communications shows direction by Saudi officials or a state-affiliated entity such as Raed Ventures, which received a state-fund investment. DOJ's National Security Division counterintelligence section then adds a 951 agent count to a November or December indictment, following the in-district Abouammo/Twitter precedent. One difference cuts against Yes: that 2019 complaint named Saudi Arabia from the start, and this one does not, which is informative. I anchor on the 14.5% market and shade down slightly, because the bar requires a definitive allegation and the window is short. The counterintelligence involvement and the one-way flight keep this from going lower.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4965",
+   "has_trace": true
+  }
+ ],
+ "Next White House Press Secretary announced by October 31, 2026?": [
+  {
+   "id": 4953,
+   "scanned_at": "2026-10-17T13:18:38.715252",
+   "date": "2026-10-17",
+   "agent": 17,
+   "market_price_t0": 19.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.575,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.17, 0.17). (0) Resolution check: the condition has not been met. Zacharia's exit on Oct 16 is confirmed by CNBC, CBS, CBC and Fox, plus her own farewell post, but no successor has been named on whitehouse.gov or in credible reporting. (a) About 14 days remain, to 11:59 PM ET on Oct 31, 2026. (b) If nothing changes, the post stays vacant with Trump and senior officials briefing reporters, which resolves No. This is what happened from Aug 27 to Oct 9, and Fox reports staff think that arrangement went \"OK.\" (c) No: Trump keeps to the \"no rush\" stance he gave Doocy (carried by Axios and The Hill). He focuses on the Nov 3 midterms, uses rotating briefers or an acting deputy (which would not count), and names someone in November or later. (d) Yes: Trump is irritated by weak messaging before the midterms and makes another snap one-man pick, as he did with Zacharia the day after one meeting. He promotes Anna Kelly or Steven Cheung, or names a TV defender such as Jennings, on Truth Social before Oct 31. First-term precedent supports fast picks: Grisham was named about 5 days after Sanders announced her exit, and McEnany the day after Grisham stepped down. Polymarket's 19.5% fits this mix, and the sibling contracts (66% by Nov 30, 82% by Dec 31) imply the market expects an announcement after the midterms. The \"no rush\" quote and the 58-day precedent from this term push me slightly below the market, to 17%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4953",
+   "has_trace": true
+  }
+ ],
+ "Will the next Claude Haiku model (4.6+) debut at a score of at least 1440 by June 30, 2027?": [
+  {
+   "id": 4935,
+   "scanned_at": "2026-10-17T07:53:23.596937",
+   "date": "2026-10-17",
+   "agent": 55.5,
+   "market_price_t0": 62,
+   "edge": -0.06499999999999995,
+   "confidence": 0.435,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.55, 0.56). (0) Not resolved: Haiku 5.5 (released Oct 7) appears only on Arena's Agent leaderboard per the changelog through Oct 16, and is absent from the Oct 15 Text board top 57 (down to 1448). An Oct 9 article confirms it had no earlier Text listing, so its first Text appearance is still ahead. (a) About 8.5 months remain, but the decisive event is likely Haiku 5.5's Text debut within days or weeks. (b) Status quo of no Text listing means No, but Arena lists nearly every Anthropic model on Text, so this is roughly a 5-8% tail. (c) No: it debuts at High or medium effort around 1425-1438, consistent with the 43-point Haiku-Sonnet gap at 4.5 applied to Sonnet 5.5's provisional 1470, and with Haiku tying GPT-6 Luna on WebDev while Luna sits near 1391 on Text. (d) Yes: a Max or xHigh variant with noisy early votes and Sonnet-5.5-class training lands at 1445+, closer to GLM-5.3-Flash (1471), which it beats on the Artificial Analysis index. The market's 62% (siblings 82% at 1420, 13.5% at 1460) implies a median near 1445. My central estimate is slightly lower, so I shade modestly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4935",
    "has_trace": true
   }
  ]

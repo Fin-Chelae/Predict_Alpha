@@ -1537,6 +1537,20 @@
  ],
  "Will Iran Reconstruction Funding be in a US-Iran deal in 2026?": [
   {
+   "id": 4983,
+   "scanned_at": "2026-10-17T23:11:24.185846",
+   "date": "2026-10-17",
+   "agent": 6.3,
+   "market_price_t0": 9,
+   "edge": -0.027499999999999997,
+   "confidence": 0.64,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.06). (0) The condition has not been met. The only signed US-Iran instrument, the June 17 Islamabad MOU, committed the US only to \"develop/create a plan\" for a $300B fund, with the mechanism deferred to a final deal. The rules exclude that kind of plan commitment, and the market did not resolve on it. Trump then declared the MOU over. (a) About 10.5 weeks remain until the December 31, 2026 deadline. (b) Status quo is No: talks via Qatar and Pakistan are indirect and stalled (\"somewhere between dead and alive\"), the blockade is back, Trump has said he no longer wants a deal, and post-midterm strikes are being discussed. No October reporting puts a reconstruction fund on the table; the live agenda is the blockade, sanctions, frozen assets and nuclear issues, and the rules exclude the last few of those as funding. (c) NO scenario: protraction or escalation after November 3 leaves no signed deal. Alternatively, an interim ceasefire or Hormuz text is signed that again defers the fund, or makes it conditional on nuclear steps or a later agreement. (d) YES scenario: after the midterms a revived MOU-based final deal is signed. It converts Article 6 into a present obligation to establish the private, Qatar- and Gulf-backed Reconstruction and Development Fund. Iran wants that clause as a substitute for compensation, and the US can accept it because it costs taxpayers nothing. On pricing, the sibling Polymarket market has a final deal by December 31 at about 12.5%. Given a deal, the chance its text has a qualifying binding non-Iranian fund is perhaps 40-55%, since the June template failed the test and nuclear preconditions are likely. That implies about 5-7%, slightly below the 9% market anchor, so I shade down modestly.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4983",
+   "has_trace": true
+  },
+  {
    "id": 4319,
    "scanned_at": "2026-10-10T01:42:10.579977",
    "date": "2026-10-10",
@@ -4358,6 +4372,20 @@
   }
  ],
  "Will the Republicans win the Nebraska Senate race in 2026?": [
+  {
+   "id": 4975,
+   "scanned_at": "2026-10-17T20:34:01.463972",
+   "date": "2026-10-17",
+   "agent": 74,
+   "market_price_t0": 72.5,
+   "edge": 0.015000000000000013,
+   "confidence": 0.6,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.74, 0.74). (0) Nothing has resolved. The election is November 3, and AP, Fox and NBC have not called the race (resolution-source read, Oct 16).\n(a) About 17 days remain to election day. If the calls don't line up, resolution falls to certification, which in 2024 came in early December.\n(b) Status quo favors the Republican. Ricketts is the nominee and leads the polling averages by about 1–2 points (DDHQ 47-45, FiftyPlusOne/MS NOW +1.1, Pollsmax +1.7). DDHQ gives him about 80%, Kalshi has him at 75%, and Polymarket is at 72.5%. Ratings are Lean or Likely R.\n(c) NO path: Osborn, the independent, wins outright. No Democrat is on the ballot, the national environment is D+8, Trump approval is near 39%, and Osborn leads on cash ($2.2M vs $1.1M). He led the SurveyUSA and YouGov polls. A modest polling miss in his favor or a late break among unaffiliated voters would flip the race, and an Osborn win resolves No.\n(d) YES path: Republicans consolidate their roughly 2:1 registration edge. The 'Democrat Dan' frame and three leaked Osborn recordings, the latest the Fischer insult on Oct 16, help keep crossover in single digits. Undecideds break toward the party line, as in 2024, when favorable polls overstated Osborn and he lost by 6.6.\nThe 2024 polling overstatement pattern and the GOP-friendly structure slightly offset the D+8 environment. I land close to the market, a touch above it in line with DDHQ and Kalshi.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4975",
+   "has_trace": true
+  },
   {
    "id": 4381,
    "scanned_at": "2026-10-10T20:11:46.279544",
@@ -7353,6 +7381,20 @@
  ],
  "Will Anthropic have the best AI model at the end of December 2026?": [
   {
+   "id": 4971,
+   "scanned_at": "2026-10-17T18:55:19.801807",
+   "date": "2026-10-17",
+   "agent": 44,
+   "market_price_t0": 47.5,
+   "edge": -0.034999999999999976,
+   "confidence": 0.42,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.44, 0.44). (0) Not resolved. Third-party mirrors of Arena's dataset (essentras, BenchLM, Manifold; the live lmarena page is Cloudflare-gated) show Google's Gemini 4 Argon at #1 since Sept 30, about 16 points ahead of Claude Opus 5.5. None of these mirrors confirms the style-control-off view the rules require. (a) About 10.5 weeks remain until the 12:00 PM ET check on Dec 31, 2026. (b) If nothing changes, Google keeps #1 and the market resolves NO. Argon's lead has held at roughly 16–20 points from Oct 2 to Oct 16 despite its 'preliminary' tag, and a tie at rank 1 is broken by raw score, which also favours Argon. (c) NO: Argon's score holds as votes accumulate, or Google ships an update. Anthropic's next model either slips into 2027 or lands below Argon, as Opus 5.5 did at about 1509. (d) YES: Anthropic ships a Fable 5.5 or 'Claude Next' flagship before mid-December and gathers enough votes to top Argon. The supporting signs are the Azure/LiteLLM identifier, a November IPO incentive and a fast 2026 release cadence. Alternatively, Argon's thin vote base (~4.9k) regresses toward Anthropic's deep bench. I anchor on Polymarket's 47.5% and shade slightly toward the status quo. No Anthropic release is confirmed, and Arena gains for new generations have been modest relative to the 16-point gap. The October sibling market prices Anthropic at only 21.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4971",
+   "has_trace": true
+  },
+  {
    "id": 4202,
    "scanned_at": "2026-10-08T15:18:38.104664",
    "date": "2026-10-08",
@@ -8358,6 +8400,20 @@
   }
  ],
  "AI bubble burst in 2026?": [
+  {
+   "id": 4973,
+   "scanned_at": "2026-10-17T19:44:45.839616",
+   "date": "2026-10-17",
+   "agent": 4.8,
+   "market_price_t0": 7,
+   "edge": -0.0225,
+   "confidence": 0.71,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.04). (0) Resolution check: the condition is not met. SMCI is about 73% below its 2024 all-time high, so on a literal reading the supplier trigger already counts, but it can only count once. None of the other five triggers is close: NVDA is about 10–12% off its Oct 6 record, SOXX about 25% off its high against the 40% needed, and the H100 index is at $2.82 and rising. No source reports an OpenAI or Anthropic bankruptcy or an OpenAI acquisition; Anthropic is filing for an IPO instead.\n(a) About 10–11 weeks of trading remain until Dec 31.\n(b) If nothing changes, the market resolves No.\n(c) No scenario: the rates and credit-driven selloff stalls or reverses, much as the 2026 drawdowns in March and July did. Nvidia's mid/late-November earnings (revenue +106% YoY last print, 17x forward earnings) support the price, and none of NVDA, SOXX or the H100 index reaches its threshold.\n(d) Yes scenario: a Fed hike, neocloud credit failures (CoreWeave CDS above 1,000bp, AI debt issuance collapsing) and a failed OpenAI financing take SOXX to about $393 and NVDA to about $120 before year-end. Together with SMCI that makes three triggers.\nWeighing it: YES effectively needs both NVDA −50% and SOXX −40% within 10 weeks of an early-October peak, a speed with no precedent even in 2000–02. The market's 7% (bid 6, ask 8) reflects a real, ongoing crash risk, but I shade slightly below it given how hard the NVDA trigger is.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4973",
+   "has_trace": true
+  },
   {
    "id": 3263,
    "scanned_at": "2026-09-20T23:17:23.685077",
@@ -10301,6 +10357,20 @@
  ],
  "Will the highest score achieved by a SpaceXAI Grok model on Humanity’s Last Exam in 2026 be 45% or higher?": [
   {
+   "id": 4989,
+   "scanned_at": "2026-10-18T00:58:00.983762",
+   "date": "2026-10-18",
+   "agent": 38.5,
+   "market_price_t0": 43.6,
+   "edge": -0.05099999999999999,
+   "confidence": 0.4,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.39, 0.38). (0) Nothing shows the condition met. The readable static table on agi.safe.ai has only Grok 4 at 24.5%, and the dynamic leaderboard widget did not render, so its current Grok entry is unknown. The best Grok figure on secondary boards is Grok 4.6 at 42.9%; Wikipedia cites this to Artificial Analysis, which is not the named source. (a) About 10.5 weeks remain until Dec 31, 2026. (b) Status quo is No: the newest model, Grok 4.7, has no published HLE figure and scores about 23% on the CAIS/Scale Diamond and Scale boards. (c) No path: Grok 4.8 slips past year-end, or ships and stays under 45% on the official judge, which has historically sat far below xAI's self-reports (44.4% claimed vs 24.5% shown for Grok 4). The board may also not list a new model in time. (d) Yes path: Grok 4.8 ships in November, which the related market prices at about 66% by Nov 30. Grok 4.8 is a 2.5T model Musk calls a 'noticeable improvement', and CAIS adds it quickly with a score of 45% or more; the gap from 42.9% is only about 2 points. The Polymarket anchor is 43.6% and has fallen sharply over 30 days, likely reflecting Grok 4.7's absent or weak HLE showing. I shade slightly below the market because of resolution-source strictness and xAI's habit of release slippage. I do not move far, because traders may be reading the dynamic board I could not see.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4989",
+   "has_trace": true
+  },
+  {
    "id": 4379,
    "scanned_at": "2026-10-10T19:27:06.790348",
    "date": "2026-10-10",
@@ -11135,6 +11205,20 @@
  ],
  "Will FISA Section 702 reauthorization become law this year?": [
   {
+   "id": 5002,
+   "scanned_at": "2026-10-18T04:05:21.907654",
+   "date": "2026-10-18",
+   "agent": 18,
+   "market_price_t0": 19.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.5,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.18, 0.18). (0) Resolution check: no source shows a qualifying law. Section 702 has been lapsed since June 12, 2026. The only 2026 enactments were 10-day and 45-day patches. The House-passed 3-year S.1318 died in the Senate, and Cotton's 3-year bill failed cloture 47-52. The H.R.22 page the rules name is actually the SAVE Act, so it cannot settle the question.\n(a) About 10.5 weeks remain. Congress is out until Nov 9 and the lame duck runs to roughly Christmas, so there are only a few legislative weeks.\n(b) If nothing changes, the answer is No. Collection continues under FISC certifications until about March 2027, which lets leaders punt to the new Congress. The Senate did nothing even after Clayton's confirmation removed the Pulte objection.\n(c) NO scenario: the NDAA stays stalled or passes without a 702 title, and reform blocs in both parties block a clean rider. Or a law passes with a 3-year or 18-month term that the resolver does not count. Or signing slips into January.\n(d) YES scenario: there are lame-duck reports of a 702 rider on the NDAA or the December funding bill, plus ODNI's Thanksgiving deadline. A post-Pulte deal with Democrats on modest reforms then gets a reauthorization signed before Dec 31, with a two-year term or a lenient reading of the term.\nThe market's 20% (up 8.5 points this week, possibly on lame-duck rider chatter) looks roughly right. I shade slightly lower for the term-length ambiguity and the Senate's 60-vote problem.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5002",
+   "has_trace": true
+  },
+  {
    "id": 4124,
    "scanned_at": "2026-10-07T14:25:04.906351",
    "date": "2026-10-07",
@@ -11874,6 +11958,20 @@
   }
  ],
  "OpenAI announces it has achieved AGI before 2027?": [
+  {
+   "id": 4992,
+   "scanned_at": "2026-10-18T01:47:06.437183",
+   "date": "2026-10-18",
+   "agent": 7.5,
+   "market_price_t0": 8.5,
+   "edge": -0.010000000000000009,
+   "confidence": 0.67,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) No source shows the resolving condition met. Brockman's Sept 3 \"Welcome to the AGI era\" / \"I personally think we're there\" was hedged and explicitly personal, and the market kept trading at about 19% for weeks afterward, so it has not been treated as resolution. No formal OpenAI declaration appears on its news or release pages through mid-October. (a) About 74 days remain until Dec 31, 2026 ET. (b) The status quo of hedged executive rhetoric with no formal corporate announcement resolves No. (c) No path: OpenAI keeps pacing releases around safety after the paused training run and shelved Astra upgrade, stays careful with an S-1 on file, and Altman keeps calling AGI a poorly defined term, so year-end passes without a declaration. (d) Yes path: in Nov–Dec OpenAI unveils an internal system matching Altman's TIME-stated goal of \"an internal system he would call AGI by end of year,\" and Altman or Brockman says unhedged \"we have built AGI\"; or a resolver counts a repeated strong Brockman statement. The removal of the Microsoft AGI clause makes such a statement pure branding with no contractual barrier. The market sits at 8.5% and is falling (-7 in 7d, -11 in 30d), consistent with the most natural moment having passed. I see no unpriced information pushing either way, so I stay near the anchor and shade slightly lower for decay.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4992",
+   "has_trace": true
+  },
   {
    "id": 3871,
    "scanned_at": "2026-10-04T08:04:42.806848",
@@ -17706,7 +17804,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-17T17:51:24.732Z",
+  "last_sync": "2026-10-18T08:01:08.065Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -20945,6 +21043,20 @@
  ],
  "Will Puma Shen win the next Taipei Mayor election?": [
   {
+   "id": 5005,
+   "scanned_at": "2026-10-18T04:52:21.807160",
+   "date": "2026-10-18",
+   "agent": 34,
+   "market_price_t0": 37.9,
+   "edge": -0.03899999999999998,
+   "confidence": 0.5,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.34, 0.34). (0) Not resolved. The election is on Nov 28, 2026, and the CEC has no results. Every source treats it as a live two-way race between incumbent Chiang Wan-an (KMT) and Puma Shen (DPP).\n(a) There are about 41 days left. Still ahead are the Oct 31 TVBS/SET debate, the Nov 13–27 official campaign and a poll blackout of roughly 10 days before the vote.\n(b) If nothing changes, Chiang wins.\n- He leads every vote-intention poll found: TVBS (Oct 5–7) 49–41 and the Tai Li-an/Trust in Democracy poll (Sept) 41.7–40.5.\n- Internal polls from both camps reportedly show a gap of about 10 points.\n- He has approval above 50%, incumbency, and a city where the DPP has won only in 1994.\n- The last KMT incumbents seeking re-election in Taipei won 56–64%.\n(c) NO scenario: Chiang consolidates KMT and TPP identifiers. Shen's \"Ocean current\" peaks and fades, as in the 1998 Chen–Ma and Han 2018/2020 precedents. KMT attacks on Shen's drug op-ed and his father's China business stick, and Chiang wins by 5–10 points.\n(d) YES scenario: Templeman's estimated ~10-point pan-blue lean in TVBS means the race is actually near a tie. Huang Shan-shan's 2022 swing voters break for Shen (TVBS cross-tab: 53–39). Youth and recall-movement turnout rises, Shen wins the debate (he leads 41–30 on debate expectations), and he edges out a narrow win.\nThe market anchor is 37.9%, up 26 points in 30 days. I shade slightly below it because no scientific poll shows Shen ahead, and momentum-driven price runs often overshoot. Still, the narrowing across several pollsters and Templeman's shift to \"leans KMT\" make this a genuine contest.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5005",
+   "has_trace": true
+  },
+  {
    "id": 4407,
    "scanned_at": "2026-10-11T03:12:28.802069",
    "date": "2026-10-11",
@@ -21796,6 +21908,20 @@
   }
  ],
  "Will the Republicans win the Kansas Senate race in 2026?": [
+  {
+   "id": 5008,
+   "scanned_at": "2026-10-18T05:36:51.895372",
+   "date": "2026-10-18",
+   "agent": 61.5,
+   "market_price_t0": 63.5,
+   "edge": -0.020000000000000018,
+   "confidence": 0.5,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.61, 0.62). (0) Not resolved. The election is November 3, 2026, and AP, Fox and NBC cannot have called it. Resolution needs those calls, or official certification if they disagree. (a) About 16 days remain until election day, with calls likely shortly after unless the margin is very tight. (b) Status quo is a statistical tie: RCP has Marshall +0.3, while Poliwave and PollingSource have Hamilton +1.6 to +3. Cook and Sabato both rate it a Toss-Up. The structural prior strongly favors Republicans, with Trump +16 in 2024, about a 45/25 registration edge, and no Democratic Senate win since 1932. (c) NO: the Democratic national wave holds (markets give Democrats 90% for the House and 64.5% for the Senate). Hamilton's 11-to-1 hard-money edge and his unfamiliarity among voters let him close the sale with independents, and he wins narrowly. (d) YES: the 2014 and 2020 pattern repeats, with Kansas polls overstating the Democrat and lean-Republican undecideds and Libertarian voters coming home. The $10–14M from the Senate Leadership Fund and the Trump rally would help that consolidation, and Marshall wins by a few points. The Polymarket anchor at 63.5% sits between the tied polls and a fundamentals-heavy prior, and it agrees with Kalshi (62–63%) and PredictIt (60%). Rating momentum, the Democratic-leaning polls left out of the RCP average, and the hostile national climate justify shading slightly below the market, but not by much given Kansas's documented late Republican consolidation.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5008",
+   "has_trace": true
+  },
   {
    "id": 4410,
    "scanned_at": "2026-10-11T03:58:04.122825",
@@ -23395,6 +23521,20 @@
  ],
  "Will the Democratic Party win the VA-05 House seat?": [
   {
+   "id": 5013,
+   "scanned_at": "2026-10-18T07:07:48.638195",
+   "date": "2026-10-18",
+   "agent": 28.5,
+   "market_price_t0": 29.5,
+   "edge": -0.009999999999999953,
+   "confidence": 0.55,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.29, 0.28). (0) Not resolved. The election is November 3, 2026, and the FEC and credible reporting show no result. YES requires Perriello to beat McGuire on the old map. (a) About 16 days remain until Election Day, with early voting running through October 31. (b) Status quo is NO: McGuire is the incumbent in a Trump+12, R+6 seat, and every poll has him ahead. The neutral WaPo-Schar poll has him up 51-45, the Democratic internal 46-45, and the VoteSee average is about +3.5. Spanberger still lost the district by about 7 points in 2025. (c) NO path: Republican partisanship holds, independent Harvey's share fades evenly, and McGuire wins by 3-8 points even as Democrats flip VA-01 and VA-02. (d) YES path: a 2006-style wave plus sagging Republican turnout. Early votes show a 4.7-point Democratic shift. Perriello's 2-to-1 cash edge ($1.03M vs $479K on hand), Republican crossover endorsements such as Riggleman, and possible late super PAC money could close a polling gap of 1-6 points. Ratings have moved toward Democrats but still favor the Republican (Cook Likely R, Sabato Lean R). The Polymarket anchor is 29.5% and rising. Related Virginia seat-count markets imply roughly 21% for Democrats winning 9+ seats, which almost requires a VA-05 flip, and that is broadly consistent with the anchor. I see no unpriced information strong enough to move off it materially.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5013",
+   "has_trace": true
+  },
+  {
    "id": 4391,
    "scanned_at": "2026-10-10T23:15:50.778795",
    "date": "2026-10-10",
@@ -24277,6 +24417,20 @@
  ],
  "Will the peak RONI for the 2026–27 El Niño be at least 2.25 but below 2.5?": [
   {
+   "id": 4999,
+   "scanned_at": "2026-10-18T03:20:42.290080",
+   "date": "2026-10-18",
+   "agent": 21.5,
+   "market_price_t0": 29,
+   "edge": -0.07499999999999996,
+   "confidence": 0.525,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.23, 0.20). (0) Not resolved: the CPC RONI table runs only through JAS 2026 (+1.7), and no ASO–DJF resolving value is published. (a) ASO is due ~5 Nov 2026 and DJF in early March 2027; the market closes 1 Apr 2027. (b) The status quo is a strengthening event (weekly relative Niño-3.4 ~+2.4). CPC's 8 Oct discussion gives 83% for OND ≥2.5 and 70% for NDJ ≥2.5, median OND ~+2.74, which favours No via the ≥2.5 bucket. (c) No: the westerly wind burst and Kelvin waves push OND to ≥2.6. (d) Yes: relative Niño-3.4 saturates as in 1982-83 (2.4) and 2015-16 (2.3), with plateaued subsurface heat and a cool Niño-4, so OND and NDJ print at 2.3–2.4. CPC numbers imply ~15–20% for a peak below 2.5, and sub-2.25 is near zero. One-decimal rounding narrows the band to printed 2.3/2.4. The market anchor is 29%, up 14.5% in a week, possibly on plateau signals I can't verify, and CPC may be overconfident on an unprecedented 2.5. I shade below the market toward CPC.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4999",
+   "has_trace": true
+  },
+  {
    "id": 4090,
    "scanned_at": "2026-10-07T04:20:02.167715",
    "date": "2026-10-07",
@@ -24729,6 +24883,20 @@
  ],
  "Will Hong Kong have between 70-120mm of precipitation in October?": [
   {
+   "id": 5010,
+   "scanned_at": "2026-10-18T06:23:14.346331",
+   "date": "2026-10-18",
+   "agent": 87.5,
+   "market_price_t0": 84,
+   "edge": 0.03500000000000003,
+   "confidence": 0.72,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.88, 0.87). (0) Not yet resolved, but the 70 mm floor is cleared: the HKO Daily Extract XML shows 77.4 mm through 15 Oct, and the yesterday's-weather bulletin (YTD unchanged at 2529.3 mm, 17 Oct 'Trace') shows nothing was added on 16-17 Oct. The open question is whether at least 42.6 mm falls 18-31 Oct, which would reach 120.0 mm and the higher bracket. (a) About 13 days of October remain, then finalisation. (b) Status quo is a YES near 77-90 mm: HKO's 18 Oct 9-day forecast is fine with Low significant-rain probability for 19-24 Oct, Medium Low for 25 Oct, and only one or two showers on 26-27 Oct. HKO's monthly outlook was normal to below-normal under a suppressing anticyclone, and HKO said tropical cyclones are unlikely to affect HK for the rest of October. (c) NO: Super Typhoon Champi tracks west toward the SE China coast (European and US models) instead of recurving, and with the monsoon brings 40+ mm around 25-31 Oct; or a heavy-rain trough hits on 28-31 Oct beyond the forecast window. (d) YES: Champi recurves and the month ends with scattered light showers adding 0-20 mm. I anchor on the market's 83.5% and move slightly up because the dry 16-17 Oct traces and dry forecast are confirmed and 43 mm in about six uncertain days is rare outside a cyclone. I keep about 12% on No for Champi track uncertainty, late-month variance, and data or finalisation risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5010",
+   "has_trace": true
+  },
+  {
    "id": 4349,
    "scanned_at": "2026-10-10T09:35:00.147304",
    "date": "2026-10-10",
@@ -24776,6 +24944,20 @@
   }
  ],
  "Will NYC have less than 3 inches of precipitation in October?": [
+  {
+   "id": 4980,
+   "scanned_at": "2026-10-17T22:17:19.023174",
+   "date": "2026-10-17",
+   "agent": 60.5,
+   "market_price_t0": 59,
+   "edge": 0.015000000000000013,
+   "confidence": 0.5,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.60, 0.61). (0) Not resolved: the NWS CLI shows 2.22 in month-to-date through Oct 17, so 0.78 in more over Oct 18–31 would push the total to 3.00 or above, and exactly 3.00 resolves No. (a) About 14 days of accumulation remain. (b) Status quo: NWS Upton expects the offshore low to bring little if any rain (VFR Sun–Thu), and CPC favors below-normal precipitation for Oct 21–25; the effective risk window is about Oct 23–31, where normal rain is ~1.2 in and, given right skew, staying under 0.78 in is roughly a coin flip leaning Yes. (c) No: the cut-off low tracks closer, as the European model hinted, or a late-month front or coastal storm adds 0.8 in or more, as on Oct 11 (1.84 in) or in the late-October 2017 nor'easter. (d) Yes: the low misses, the ridge holds through ~Oct 25, and the late month brings only one light-to-moderate event. The market anchor is 59%; the research supports roughly that level without a clear edge, so I land at 0.60.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4980",
+   "has_trace": true
+  },
   {
    "id": 4371,
    "scanned_at": "2026-10-10T17:08:46.892350",
@@ -24871,6 +25053,20 @@
  ],
  "Will OpenAI rename itself to OpenSI?": [
   {
+   "id": 4996,
+   "scanned_at": "2026-10-18T02:33:42.100336",
+   "date": "2026-10-18",
+   "agent": 5,
+   "market_price_t0": 7.8,
+   "edge": -0.027999999999999997,
+   "confidence": 0.69,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.05). (0) Not resolved. No source shows an official OpenAI announcement of 'OpenSI'. The company's structure page still lists OpenAI Foundation and OpenAI Group PBC as of 2026-10-18, and Altman told Politico on 2026-10-05 that there are 'no plans' to rename. (a) About 10.5 weeks remain until the 2026-12-31 deadline. (b) Status quo is No: absent an active reversal, the name stays OpenAI. (c) NO scenario: OpenAI keeps using 'superintelligence' in its messaging but keeps its brand. Pressure fades after the November midterms, and the late-November federal SI-definition deadline produces only draft language. (d) YES scenario: Trump escalates his 'enemy' framing and targets OpenAI by name. Brockman's alignment with the administration then pushes Altman to reverse and announce an 'OpenSI' rename for the Foundation or PBC, even with a later effective date, which the rules accept. The market anchor is 7.8% (bid 7, ask 9), and Manifold sits at 6-7%. Political tail risk is real (Musk's SpaceXSI, Salesforce's SIForce, the Truth Social escalation), but established flagship brands almost never rename, especially right after a CEO denial and with no leak or filing. I shade slightly below market, to about 5%, because long-shot markets like this tend to carry YES premium.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4996",
+   "has_trace": true
+  },
+  {
    "id": 4404,
    "scanned_at": "2026-10-11T02:24:09.860494",
    "date": "2026-10-11",
@@ -24918,6 +25114,20 @@
   }
  ],
  "Will Lake Powell's minimum elevation be at least 3,500 but below 3,510 ft?": [
+  {
+   "id": 5015,
+   "scanned_at": "2026-10-18T07:52:48.832053",
+   "date": "2026-10-18",
+   "agent": 9.5,
+   "market_price_t0": 10.5,
+   "edge": -0.009999999999999995,
+   "confidence": 0.6,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.10). (0) Resolution check: the condition has not been met. USBR RISE item 508 shows 3,520.02 ft on Oct 16, 2026, and the window minimum so far is about 3,516.6 ft (Sep 15), above 3,510. (a) The window runs about 5.5 months, to Mar 31, 2027, which covers the usual late-February to March seasonal trough. (b) Status quo: the lake is rising slowly. Reclamation's October Most Probable 24-Month Study bottoms at 3,516.28 ft in Feb 2027, about 6 ft above the line and 5 ft better than September's run. That path resolves No. (c) NO scenario: a median or wetter winter, Flaming Gorge support continuing through April, and Reclamation adjusting releases to hold 3,510 keep Powell in the 3,513–3,518 range through March. (d) YES scenario: a winter near or worse than the 90%-exceedance dry case (October Probable Minimum, which a researcher's arithmetic puts near 3,508–3,512 ft at end-March) pushes the daily level just under 3,510 before Mar 31. The run-of-river trigger and 3,500 emergency tools would then stop it above 3,500. The record-strength El Niño adds some uncertainty in both directions for Upper Basin snow. Recent studies have erred on the optimistic side relative to projections, and Reclamation actively manages to the 3,510 line, so YES needs roughly a 10th-percentile outcome. I stay close to the 10.5% market anchor, shaded slightly lower.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5015",
+   "has_trace": true
+  },
   {
    "id": 4384,
    "scanned_at": "2026-10-10T20:58:54.545057",
@@ -25746,6 +25956,54 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.55, 0.56). (0) Not resolved: Haiku 5.5 (released Oct 7) appears only on Arena's Agent leaderboard per the changelog through Oct 16, and is absent from the Oct 15 Text board top 57 (down to 1448). An Oct 9 article confirms it had no earlier Text listing, so its first Text appearance is still ahead. (a) About 8.5 months remain, but the decisive event is likely Haiku 5.5's Text debut within days or weeks. (b) Status quo of no Text listing means No, but Arena lists nearly every Anthropic model on Text, so this is roughly a 5-8% tail. (c) No: it debuts at High or medium effort around 1425-1438, consistent with the 43-point Haiku-Sonnet gap at 4.5 applied to Sonnet 5.5's provisional 1470, and with Haiku tying GPT-6 Luna on WebDev while Luna sits near 1391 on Text. (d) Yes: a Max or xHigh variant with noisy early votes and Sonnet-5.5-class training lands at 1445+, closer to GLM-5.3-Flash (1471), which it beats on the Artificial Analysis index. The market's 62% (siblings 82% at 1420, 13.5% at 1460) implies a median near 1445. My central estimate is slightly lower, so I shade modestly below the market.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/4935",
+   "has_trace": true
+  }
+ ],
+ "Will the Democrats win the 2028 US Presidential Election?": [
+  {
+   "id": 4986,
+   "scanned_at": "2026-10-18T00:13:06.327396",
+   "date": "2026-10-18",
+   "agent": 61,
+   "market_price_t0": 63.5,
+   "edge": -0.025000000000000022,
+   "confidence": 0.43,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.61, 0.61). (0) Resolution check: the condition is not met. The election is November 7, 2028, and AP, Fox and NBC have called nothing, so this is purely a forward-looking forecast.\n(a) About 25 months remain. Both nominations are open, the midterms (Nov 3, 2026) are still to come, and the economy and the Iran war can change a lot before then.\n(b) Status quo: if today's environment held, Democrats would be favored. Trump's approval is about 34–41% (net −14 to −28), the generic ballot averages D+7 to D+9, inflation is around 3.7%, and the war is unpopular. Parties seeking a third straight term have won about 1 in 7 times since 1950.\n(c) NO path: the anti-Trump mood fades once he is off the ballot. A Democratic brand that is still net-unfavorable, a messy Democratic primary producing a weak or too-far-left nominee, and the GOP's Electoral College edge let Vance or Rubio win. The tied named-candidate polls support this (Emerson: Vance 46, Newsom 45). There is also a tail risk of a contested or norm-breaking scenario that favors the incumbent party.\n(d) YES path: Democrats win the midterms decisively and economic discontent persists. A Trump-tied GOP nominee then loses to a mainstream Democrat who already narrowly leads Vance in averages (Buttigieg, Harris, Ossoff).\nAnchor: Polymarket is at 63.5%, while Kalshi's same question trades about 59–60% D (R 40–41%), for a cross-venue average near 61%. I find nothing the market hasn't priced, so I shade slightly toward that average. The long horizon and the tied named-candidate polls keep me from going higher.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4986",
+   "has_trace": true
+  }
+ ],
+ "Will the highest score achieved by a Moonshot Kimi model on Humanity’s Last Exam in 2026 be 45% or higher?": [
+  {
+   "id": 4978,
+   "scanned_at": "2026-10-17T21:23:11.097712",
+   "date": "2026-10-17",
+   "agent": 74.5,
+   "market_price_t0": 79.7,
+   "edge": -0.052000000000000046,
+   "confidence": 0.475,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.75, 0.74). (0) The condition is not documented as met on the named source. The readable agi.safe.ai table is stale (Gemini 3 Pro at 38.3%, no Kimi), and the live JavaScript section could not be read. Kimi K3 shows 56 (self-reported, with tools) on the CAIS-hosted Hugging Face 'Official Benchmark' board and 46.9 independently via Artificial Analysis. The only CAIS/Scale-run number is 22.2 on HLE-Diamond. (a) About 2.5 months remain until 2026-12-31. (b) Status quo: no new Kimi model is likely (K4-by-Dec at 7.5%), so resolution depends on how the resolver interprets existing K3 figures. (c) NO: a literal reading of agi.safe.ai finds no Kimi row, or a Diamond-based official view shows about 22%, and non-official figures are rejected. (d) YES: the live agi.safe.ai results, likely pulling from the cais/hle Hugging Face leaderboard, show K3 at 56 or K2.6 at 54, and the resolver accepts it, as past HLE markets did with vendor-reported leaderboard numbers. I anchor on the 79.7% market, which likely reflects traders who can see the live board. I shade slightly down because the sibling strikes (50% at 55.5%, 55% at 15.5%) imply interpretation uncertainty rather than a clear displayed 56, and the Diamond migration adds downside.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4978",
+   "has_trace": true
+  }
+ ],
+ "Will Russia enter Oleksiievo-Druzhkivka by October 31?": [
+  {
+   "id": 4968,
+   "scanned_at": "2026-10-17T18:09:02.785178",
+   "date": "2026-10-17",
+   "agent": 13,
+   "market_price_t0": 25,
+   "edge": -0.12,
+   "confidence": 0.65,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.13) after one crux research pass. (0) The condition is not met. ISW's October 16 assessment says it has 'not observed any evidence of Russian forces infiltrating into Oleksiievo-Druzhkivka' and no Russian presence near Kindrativka or in northern Kostyantynivka. Ukraine's General Staff and DeepState (via NV, October 17) both show the town under Ukrainian control. Gerasimov's capture claim only counts as 'Claimed Russian Territory', which does not qualify.\n(a) About 14 days remain until October 31, 11:59 PM ET. Shading must also persist through the next update, which effectively removes the last day.\n(b) If nothing changes, the market resolves No. Russia has had net territorial losses since September 1, about 7 km² a day in October, and ISW repeatedly reports no Russian advances in the Kostyantynivka direction.\n(c) No scenario: Ukrainian forces keep repelling small infiltration groups, as they have since August–September, and Russian claims never turn into geolocated footage. ISW adds no shading before the deadline.\n(d) Yes scenario: fog and rain help a small group slip in, and a flag-raising video timed to back Gerasimov's claim gets geolocated. ISW then shades a small infiltration area at the southern edge, and it persists one cycle. ISW's infiltration bar is low, which keeps this path alive. A negotiated handover is effectively off the table by October 31.\nThe market sits at 25% and falling (down 12 points in 7 days). I lean below it because ISW's explicit denial is fresh, the sector has slowed, and the window is short. I keep some weight on the low-bar infiltration layer and on not having read the map directly.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/4968",
    "has_trace": true
   }
  ]

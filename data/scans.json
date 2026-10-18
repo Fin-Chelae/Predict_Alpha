@@ -2373,6 +2373,20 @@
  ],
  "Will the next Google Gemini Pro model debut with a Humanity’s Last Exam score of 50% or higher?": [
   {
+   "id": 5033,
+   "scanned_at": "2026-10-18T13:17:13.315005",
+   "date": "2026-10-18",
+   "agent": 13.5,
+   "market_price_t0": 15,
+   "edge": -0.014999999999999986,
+   "confidence": 0.525,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.14). (0) No source shows a new Gemini Pro card on agi.safe.ai; the chart could not be read and the visible static table tops out at Gemini 3 Pro 38.3%, so this is not resolved. (a) About 10.5 weeks remain until 2026-12-31 for a Pro-labeled Gemini to be released and added to the chart. (b) Status quo is NO: 3.5 Pro was reportedly dropped, and Argon (about 57% HLE) is tierless and reportedly described as above the Pro models. The market's fall from 91% to 15% after Argon's launch suggests traders read the rules as excluding Argon. (c) NO: no Gemini 4 Pro by year-end, or CAIS lags in adding it, or the only qualifier is a 3.1 Pro GA at about 44-46%. Sibling markets at 40%/45% (about 27-29%) versus 50%/55% (about 14-15%) imply roughly 12-14 points on a sub-50 qualifier. (d) YES: Google ships a literal Gemini 4 Pro in Nov/Dec and CAIS adds it promptly; given peers at 55-61%, it would almost surely show 50% or more. A resolver counting Argon as Pro-tier is a less likely YES path. I trim slightly below the market anchor because no Pro model is announced and the site lags.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5033",
+   "has_trace": true
+  },
+  {
    "id": 3092,
    "scanned_at": "2026-09-17T20:55:54.056232",
    "date": "2026-09-17",
@@ -6755,6 +6769,20 @@
  ],
  "NYSE marketwide circuit breaker before 2027?": [
   {
+   "id": 5018,
+   "scanned_at": "2026-10-18T08:37:15.145740",
+   "date": "2026-10-18",
+   "agent": 5.5,
+   "market_price_t0": 10.5,
+   "edge": -0.049999999999999996,
+   "confidence": 0.6699999999999999,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.06). (0) The condition has not been met. News coverage through October 16–17, 2026 shows no Level 1, 2 or 3 halt since November 7, 2025, and the worst S&P day in the window was −2.64% on June 5, 2026. Resolution would need an intraday cash-index drop of at least 7% from the prior close before 3:25pm ET. From the October 16 close of 7,659 that means a print below about 7,123. (a) About 2.5 months, roughly 51 trading days, remain until December 31, 2026. (b) If nothing changes, the answer is No. Daily moves are around 1%, the VIX is near 20, and options price a daily one-sigma move of about 0.55–1.0% through the midterms. (c) No: the AI/chip selloff stays narrow and Nasdaq-led, the midterms, FOMC and earnings pass with 1–3% swings, and the S&P never has a 7% session. (d) Yes: a CoreWeave-style credit default or private-AI financing shock coincides with a rate-hike or oil spike. Record margin debt then forces liquidation, and the cash S&P gaps down at least 7% in a March 2020-style session. The base rate under the percentage regime is one episode in about 13.5 years, roughly 1.5% for a 2.5-month window. The April 2025 drawdown (about −6% in a day, −19% overall) and the March 2026 VIX peak of 31 both passed without a halt. Current stress signals (a 41% KOSPI crash, hedge fund losses, a 5%+ 10-year yield) justify raising that to roughly 4–6%. The market's 10.5% looks inflated by longshot bias on a low-volume tail contract. I shade below it but not all the way to the base rate.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5018",
+   "has_trace": true
+  },
+  {
    "id": 2362,
    "scanned_at": "2026-08-31T21:37:32.006832",
    "date": "2026-08-31",
@@ -7888,6 +7916,20 @@
   }
  ],
  "Will Gavin Newsom announce a Presidential run before 2027?": [
+  {
+   "id": 5044,
+   "scanned_at": "2026-10-18T16:30:48.278555",
+   "date": "2026-10-18",
+   "agent": 8.5,
+   "market_price_t0": 13.5,
+   "edge": -0.05000000000000002,
+   "confidence": 0.62,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.08). (0) No source shows an announcement. 2028tracker (Oct 7) lists no declaration or FEC filing, and Al Jazeera (Oct 17) still describes Newsom as only \"eyeing\" a run. Nothing is resolved. (a) About 10.5 weeks remain until Dec 31, 2026, and the realistic window is the roughly 8 weeks after the Nov 3 midterms. (b) If nothing changes, this resolves NO. Newsom has tied his decision to after the midterms and to finishing his term as governor, which ends in early January 2027. His newest dated statement (WMUR, Oct 17) is that he will decide \"probably around the beginning of the new year,\" and he expects most candidates to announce in Q1 2027. (c) NO scenario: he governs through December, waits for Harris to decide (he has pledged not to run if she does), and works through the family veto and the DOJ probe. Even if he decides in late December, the launch comes in January or later after he leaves office, consistent with the historical median entry of 4–5 months after the midterms. (d) YES scenario: Democrats take the House, Harris signals she will not run, his family signs off, and an early rival entry or donor pressure pushes him to announce by video in the last weeks of December. That would be his reading of \"around the new year.\" The market sits at 13.5%. I shade it down to about 9% because his own Oct 17 timing and the \"finish my job\" framing put the probability mass in Q1 2027. The Harris contingency and \"decide\" not meaning \"announce\" add further drag. I keep some tail weight because \"beginning of the new year\" is ambiguous and a launch timed to his final days in office is plausible.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5044",
+   "has_trace": true
+  },
   {
    "id": 2286,
    "scanned_at": "2026-08-30T23:16:35.985676",
@@ -11061,6 +11103,20 @@
  ],
  "China x Philippines military clash before 2027?": [
   {
+   "id": 5038,
+   "scanned_at": "2026-10-18T14:57:06.518315",
+   "date": "2026-10-18",
+   "agent": 20,
+   "market_price_t0": 24.5,
+   "edge": -0.044999999999999984,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.20). (0) The condition has not been met. The resolution-source read shows the predecessor market, which ran Nov 2025 to Dec 2026, settled YES on the July 20, 2026 baton melee at Second Thomas Shoal. This market opened July 24, so that event falls outside its window. Research found no qualifying use-of-force event between July 24 and Oct 18; recent incidents were water cannon, blocking, unsafe intercepts and a ramming of a civilian BFAR ship, all excluded by the rules. (a) About 74 days remain until Dec 31, 2026. (b) If nothing changes, the market resolves NO. Gray-zone harassment is frequent, but events that clear the bar are rare: about one melee per year (June 2024, July 2026), and ACLED says all sides have 'largely refrained from the actual use of force.' (c) NO path: Manila keeps suspending resupply runs when PLAN and CCG ships block, as on Sept 25. Coast guard channels, both sides' 'we don't want war' messaging and the ASEAN summit dampen things, and contact stays PCG/BFAR-versus-CCG, which does not count. (d) YES path: a resupply or medevac to the Sierra Madre puts Navy RHIBs next to CCG boats again and blows are exchanged, as on July 20. Alternatively, a CCG or PLAN ship holes a Philippine Navy vessel. Both are more plausible now that the provisional understanding has broken down, PLAN ships are on scene, Chinese presence has doubled and there is no military hotline. The market sits at 24.5%, drifting down. A Poisson rate of roughly 1–1.5 qualifying events per year over 74 days, scaled up for elevated tension, gives about 18–23%. Resolver ambiguity and dispute risk around a borderline melee pull that down slightly, so I shade a little under the market at 20%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5038",
+   "has_trace": true
+  },
+  {
    "id": 4442,
    "scanned_at": "2026-10-11T13:24:38.200956",
    "date": "2026-10-11",
@@ -12873,6 +12929,20 @@
  ],
  "Billionaire one-time wealth tax passes in California election 2026?": [
   {
+   "id": 5021,
+   "scanned_at": "2026-10-18T09:21:17.070140",
+   "date": "2026-10-18",
+   "agent": 23,
+   "market_price_t0": 24.5,
+   "edge": -0.014999999999999986,
+   "confidence": 0.6,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.23, 0.23). (0) Not resolved. The California SOS qualified-measures page lists Prop 40, the one-time 5% tax on net worth over about $1B, for the Nov 3 ballot, so the certification path to No is closed. What remains is the vote, and possibly how Polymarket treats a Prop 40 that wins a majority but is outpolled by Props 41 or 42.\n(a) The election is about 16 days away (Nov 3). Counting and certification will run past the Nov 4 close.\n(b) Status quo: the measure polls a plurality but not a majority (IGS 45–42, Politico/Citrin 45–43, NBC 48–38). Newer polls lean No: Manhattan Institute has No ahead by 15 and IVP by 4. Opponents are spending more than $1M a day, outspending supporters 4–8 to 1, and Newsom and both gubernatorial finalists oppose it. Tax measures pass only about one-third of the time, and undecided voters tend to break No late. Inertia points to No.\n(c) NO: yes support keeps eroding under the ad spending and Prop 40 finishes around 45–48% yes. Alternatively it gets a bare majority, Prop 42 gets more votes, and the measure is nullified or the market resolves ambiguously.\n(d) YES: a Democratic-heavy midterm electorate plus undecided Democratic and Hispanic voters push Prop 40 over 50% (PPIC had it at 52–46), and the measure is counted as having 'passed'.\nThe Polymarket anchor is 24.5% and flat over the week. The related 'defeats opposing propositions' market at 13.5% suggests this market mostly prices a simple majority yes. The research shows the newest polls trending toward No, so I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5021",
+   "has_trace": true
+  },
+  {
    "id": 4426,
    "scanned_at": "2026-10-11T08:40:56.994805",
    "date": "2026-10-11",
@@ -13454,6 +13524,20 @@
   }
  ],
  "Will Tesla sell a Cybercab for 30k or less in 2026?": [
+  {
+   "id": 5023,
+   "scanned_at": "2026-10-18T10:10:11.083564",
+   "date": "2026-10-18",
+   "agent": 6,
+   "market_price_t0": 10,
+   "edge": -0.04000000000000001,
+   "confidence": 0.72,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) The condition is not met. Late-September and mid-October reports (Newsweek, tslna, Autonomix, Benzinga) agree that Tesla has no Cybercab MSRP, no order page and no retail delivery. Every unit goes to Tesla's own Austin and Dallas fleet, and the only sales channel is a fleet or commercial interest form. (a) About 10.5 weeks remain until Dec 31, 2026. The Oct 21 Q3 call and the Oct 30 NHTSA sworn-response deadline are the main catalysts. (b) If nothing changes, the market resolves NO. (c) NO scenario: Tesla keeps all output in its fleet while volume ramps and the NHTSA Special Order on FMVSS self-certification stays open. Any sales go to fleet operators, which do not count, and retail slips into 2027, consistent with the Q2 letter dropping 2026 volume production and Musk saying material Cybercab revenue comes in 2027. (d) YES scenario: Musk, motivated by his Feb 2026 'Yes' and the MKBHD bet, announces a sub-$30k retail order page on the Oct 21 call. Tesla then completes a token December delivery to a member of the public under public terms. The market sits at 10%, down 7 points in a week. I shade slightly below it because of the strict 'bona fide retail customer under publicly available terms' wording, the open NHTSA audit, and Tesla's long record of slipped timelines. I keep a non-trivial tail for a Musk-driven headline sale.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5023",
+   "has_trace": true
+  },
   {
    "id": 4058,
    "scanned_at": "2026-10-06T17:36:58.423937",
@@ -17804,7 +17888,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-18T08:01:08.065Z",
+  "last_sync": "2026-10-18T18:05:09.772Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -22629,6 +22713,20 @@
  ],
  "Will David Lisnard advance to the second round of the next French presidential election?": [
   {
+   "id": 5028,
+   "scanned_at": "2026-10-18T11:44:10.578876",
+   "date": "2026-10-18",
+   "agent": 6.5,
+   "market_price_t0": 14.6,
+   "edge": -0.08099999999999999,
+   "confidence": 0.62,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.06) after one crux research pass. (0) Not resolved: the first round is on 18 April 2027 and no results exist. (a) About 6 months remain. (b) Status quo is No: Lisnard polls 3–6% (average ~3.5%, peak 6% in Ifop 12–14 Oct) against a second-place threshold of ~15–20%; pollsters often omit him, no primary is agreed, Philippe refuses one and Retailleau holds the LR nomination. (c) No: the right stays split and late useful-vote switching squeezes him to single digits, like Pécresse in 2022. (d) Yes: a Dec–Jan primary or a Retailleau deal makes him the sole right candidate, a Fillon-style surge lifts him to ~17%, and the centre and left fragment. The market's 14.6% looks inflated by thin, whale-driven trading, and it sits incoherently close to his ~11.7% outright-win price, so I fade it while keeping a tail for his momentum and the open primary question.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5028",
+   "has_trace": true
+  },
+  {
    "id": 3503,
    "scanned_at": "2026-09-27T19:12:07.517441",
    "date": "2026-09-27",
@@ -23933,6 +24031,20 @@
  ],
  "Will Predict.fun launch a token by December 31, 2026?": [
   {
+   "id": 5030,
+   "scanned_at": "2026-10-18T12:31:25.205746",
+   "date": "2026-10-18",
+   "agent": 86.5,
+   "market_price_t0": 89.5,
+   "edge": -0.030000000000000027,
+   "confidence": 0.62,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.86, 0.87). (0) Not yet resolved. Predict.fun's homepage and news page show no token, TGE or airdrop announcement as of about Oct 18, 2026. Aspecta pre-market trading does not count, because the rules require a token that is actively and publicly transferable and tradable. (a) About 10.5 weeks remain until 11:59 PM ET on Dec 31, 2026. (b) If nothing changes, this resolves No, but the status quo is moving. Predict.fun's official X account posted a 'Soon' teaser with a 'P' token image on Oct 6, an Aspecta pre-market opened Oct 9 at about $800M FDV, and Polymarket's post-launch FDV markets have drawn heavy volume. The team is backed by YZi Labs, is integrated with Binance Wallet, and has run points farming for 10 months, so a Binance Alpha or on-chain listing route is short. (c) No path: 'Soon' slips into Q1 2027, as Polymarket's own teased POLY token slipped. Tokenomics, snapshot and claim rules still have to be published, and no official date exists. A legal or market-condition delay would also push the launch into 2027. (d) Yes path: a TGE announcement in late October or November, followed by a same-day Binance Alpha listing or a BNB Chain DEX pair, well before Dec 31. The market anchor is 89.5%, and the sibling strikes sit at 80% for Nov 30 and 93% for Mar 31, 2027, which is a coherent curve. I shade slightly below the market because there is no official date and the only first-party signal is a one-word teaser. Thin liquidity on this strike also allows overreaction.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5030",
+   "has_trace": true
+  },
+  {
    "id": 4436,
    "scanned_at": "2026-10-11T11:46:47.877774",
    "date": "2026-10-11",
@@ -24524,6 +24636,20 @@
   }
  ],
  "Pedro Sánchez out as PM of Spain by December 31, 2026?": [
+  {
+   "id": 5025,
+   "scanned_at": "2026-10-18T10:59:27.157506",
+   "date": "2026-10-18",
+   "agent": 17,
+   "market_price_t0": 20.5,
+   "edge": -0.035,
+   "confidence": 0.585,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.16, 0.18). (0) Not resolved: La Moncloa still lists Sánchez as PM; he dissolved the Cortes on 5 Oct and was named PSOE candidate on 17 Oct, with no resignation. (a) About 10 weeks remain, with the election on 29 Nov leaving roughly 32 days after the vote. (b) Status quo is No: the decree constitutes the new Cortes on 23 Dec, Telecinco/EFE and Politicaelectoral report the investiture 'not before January', and Sánchez stays PM en funciones until then; the Jan 15 (40.5%) and Jan 31 (66.5%) markets also price the handover in January. (c) No: PP+Vox win about 200 seats as 40dB, GAD3 and the Votómetro project, and Sánchez remains caretaker until Feijóo is invested in January. (d) Yes: after a heavy defeat he announces between 30 Nov and 31 Dec that he is resigning or will not continue as PM, triggering the announcement clause, or the resolver leniently counts a defeat, a party-leadership resignation, or Article 101's 'cesa' wording. Defeat is about 85% likely, but losing Spanish PMs rarely resign the premiership and no source shows Sánchez planning to; his history of abrupt announcements and the wording ambiguity keep a real tail. I shade slightly below the 20.5% market anchor because the calendar is now documented.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5025",
+   "has_trace": true
+  },
   {
    "id": 4118,
    "scanned_at": "2026-10-07T12:48:46.535532",
@@ -26004,6 +26130,38 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.13, 0.13) after one crux research pass. (0) The condition is not met. ISW's October 16 assessment says it has 'not observed any evidence of Russian forces infiltrating into Oleksiievo-Druzhkivka' and no Russian presence near Kindrativka or in northern Kostyantynivka. Ukraine's General Staff and DeepState (via NV, October 17) both show the town under Ukrainian control. Gerasimov's capture claim only counts as 'Claimed Russian Territory', which does not qualify.\n(a) About 14 days remain until October 31, 11:59 PM ET. Shading must also persist through the next update, which effectively removes the last day.\n(b) If nothing changes, the market resolves No. Russia has had net territorial losses since September 1, about 7 km² a day in October, and ISW repeatedly reports no Russian advances in the Kostyantynivka direction.\n(c) No scenario: Ukrainian forces keep repelling small infiltration groups, as they have since August–September, and Russian claims never turn into geolocated footage. ISW adds no shading before the deadline.\n(d) Yes scenario: fog and rain help a small group slip in, and a flag-raising video timed to back Gerasimov's claim gets geolocated. ISW then shades a small infiltration area at the southern edge, and it persists one cycle. ISW's infiltration bar is low, which keeps this path alive. A negotiated handover is effectively off the table by October 31.\nThe market sits at 25% and falling (down 12 points in 7 days). I lean below it because ISW's explicit denial is fresh, the sector has slowed, and the window is short. I keep some weight on the low-bar infiltration layer and on not having read the map directly.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/4968",
+   "has_trace": true
+  }
+ ],
+ "Papertrade FDV above $100M one day after launch?": [
+  {
+   "id": 5040,
+   "scanned_at": "2026-10-18T15:46:43.914896",
+   "date": "2026-10-18",
+   "agent": 78,
+   "market_price_t0": 85.5,
+   "edge": -0.07499999999999996,
+   "confidence": 0.485,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.77, 0.79). (0) Not resolved: PAPER (minted since 2026-10-10, after this market opened 2026-09-07) is non-transferable and stake-only; the only market is a third-party Paragon 'Pre-Launch' perp on Hyperliquid HIP-3 listed 2026-10-18, which Polymarket's FDV series likely won't treat as an official, publicly tradable launch. (a) About 14.5 months remain until 2027-12-31. (b) Status quo: if transfers never unlock, there is no launch and the market resolves NO; Papertrade's phase plan ends with unlocking transfers but gives no date (the related launch-by-end-2027 market sits at 88.5% with zero volume). (c) NO: transfers stay locked through 2027, or hype and loss flow fade and the exploit risk lingers; or an unlock meets heavy selling from the ~99% staked early holders while supply keeps growing, pushing day-one FDV below $100M (price under about $0.0117). (d) YES: transfers unlock and PAPER lists in 2027 with a strong revenue story (~$56M in 30-day fees, half paid to stakers), structural buyers (PULP redeemable for PAPER, PSTR accumulating it) and a perp already implying ~$239M FDV, about 2.4x the strike; a smaller path is the resolver accepting the perp as the launch. Combining ~80-85% for a qualifying launch with ~85-90% for clearing $100M gives about 0.72, plus a small perp-counts tail, so 0.77 versus the 85.5% market, which I think over-reads the perp spike after a +43-point week.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5040",
+   "has_trace": true
+  }
+ ],
+ "Will Lake Powell's minimum elevation stay above 3,510 ft?": [
+  {
+   "id": 5036,
+   "scanned_at": "2026-10-18T14:06:34.539827",
+   "date": "2026-10-18",
+   "agent": 85,
+   "market_price_t0": 86.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.575,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.83, 0.87). (0) Not resolved: the USBR RISE series shows 3,520.31 ft on Oct 17 and a window low of 3,516.62 ft (Sep 15). NO needs one daily reading below 3,510.00 before Mar 31, 2027. (a) About 5.5 months of winter drawdown remain. (b) Status quo favors YES: the lake is rising, and the September Most Probable run's lowest month-end is 3,511.43 ft (Feb 2027). Winter inflow is mostly base flow, so the path is driven by Reclamation scheduling, which has been used to protect elevations and has run more pessimistic than reality all year. (c) NO: heavier winter releases, the low end of Flaming Gorge support, or weak base flow push a Feb–Mar daily low 1–3 ft under the month-end path. Reclamation's stated floor is 3,500 ft, its page still projects a sub-3,510 decline in WY2027, and the September dry run hit about 3,503 ft by April. (d) YES: the October gains and controlled 6 maf releases keep the low near 3,512–3,515. The market jumped to 86.5% after the Oct 15 study, likely reflecting an improved Most Probable path that I could not verify. I shade slightly below the market for that reason.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5036",
    "has_trace": true
   }
  ]

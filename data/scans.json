@@ -707,6 +707,20 @@
  ],
  "Zhang Youxia sentenced to prison before 2027?": [
   {
+   "id": 5048,
+   "scanned_at": "2026-10-18T18:11:23.015921",
+   "date": "2026-10-18",
+   "agent": 7,
+   "market_price_t0": 11.5,
+   "edge": -0.045,
+   "confidence": 0.675,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Resolution check: no source shows a sentence, indictment or trial date as of Oct 16–18, 2026. Zhang was expelled from the Party and military on Sept 21, 2026 (Xinhua/MOD, fetched), and his case was transferred to military prosecutors for review and prosecution; nothing since then is official. (a) About 10.5 weeks remain until Dec 31, 2026, which would mean only about 14 weeks from handover to prosecutors to verdict. (b) The status quo is No: the case sits at the prosecution stage, and Chinese military verdicts are announced only after closed trials. (c) No scenario: the Fifth Plenum (Oct 26–29) ratifies the expulsion and prosecutors spend months building the case. That follows Guo Boxiong (about 12 months from handover to verdict, with indictment about 9 months in), Wei Fenghe and Li Shangfu (about 23 months), and He Weidong and Miao Hua (12+ months with no verdict yet). On that path the verdict lands in 2027. (d) Yes scenario: Xi wants quick closure, a closed military court tries Zhang in Nov–Dec, and Xinhua announces a life term without warning before year-end. Since he is 75+, any sentence would be prison. The market sits at 11.5%, flat for 30 days. Every peer case points to a lag well beyond the deadline, and the only evidence for acceleration is anonymous Falun Gong-affiliated reporting. I therefore shade the market down to about 7% while keeping a tail for a politically driven fast verdict announced with no notice.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5048",
+   "has_trace": true
+  },
+  {
    "id": 2233,
    "url": "https://forecast.agenticlearning.ai/scans/v2/2233",
    "date": "2026-08-30",
@@ -4971,6 +4985,20 @@
  ],
  "Will Bitcoin have the best performance in 2026?": [
   {
+   "id": 5062,
+   "scanned_at": "2026-10-18T22:32:45.619037",
+   "date": "2026-10-18",
+   "agent": 16,
+   "market_price_t0": 17.5,
+   "edge": -0.014999999999999986,
+   "confidence": 0.645,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.16, 0.16). (0) Not resolved. On the resolution-source read, the Binance BTC/USDT 1 Jan 00:00 ET close was 87,611 and BTC is now about 81.5k, so it is about -7% for the year. Yahoo ^SPX shows the S&P up 11.9% (6,845.5 to 7,659.4), and gold is down about 4%. Bitcoin is currently last.\n(a) About 10.5 weeks remain until the 31 Dec closes.\n(b) If nothing changes, the S&P 500 wins and this resolves No.\n(c) No: BTC stays range-bound in the $80–95k area that QCP, Citi and LO:TECH treat as base cases. October ETF flows are already a net -$617M, and Fed hikes in October or December cap any rally, while the S&P holds roughly +10% or more.\n(d) Yes: BTC rallies about 20% or more to around $98–100k+. That would need a Q4 seasonal squeeze, renewed ETF inflows or a dovish Fed surprise, possibly helped by an S&P drawdown that lowers the bar; gold at -4% is barely a constraint.\nA simple volatility model (BTC realized vol about 45%, S&P about 16%, correlation about 0.4) puts the required ~18% log outperformance at roughly a 1-sigma move, about 15–17%. That is consistent with the Polymarket anchor of 17.5% (bid 15 / ask 20). The bearish details (October outflows, BTC drifting lower, hiking Fed) are already largely visible to the market, so I shade only slightly below the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5062",
+   "has_trace": true
+  },
+  {
    "id": 2476,
    "scanned_at": "2026-09-02T07:17:07.569938",
    "date": "2026-09-02",
@@ -7090,6 +7118,20 @@
   }
  ],
  "Will Mary Peltola win the Alaska Senate race in 2026?": [
+  {
+   "id": 5092,
+   "scanned_at": "2026-10-19T06:10:52.624874",
+   "date": "2026-10-19",
+   "agent": 69,
+   "market_price_t0": 73.5,
+   "edge": -0.04500000000000004,
+   "confidence": 0.55,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.69, 0.69). (0) Not resolved. The election is Nov 3, 2026. No AP, Fox or NBC call exists, and Alaska's slow mail count and ranked-choice tabulation could push a call to mid-to-late November. (a) Fifteen days remain to Election Day, plus counting time. (b) If nothing changes, Peltola goes in with a narrow lead. Poll averages have her ahead by about 1.4 (RCP) to 3 (FiftyPlusOne/DDHQ) points. She won the August primary 49.5–41.4, Sabato rates the race Lean D, and Cook and NBC call it a toss-up. (c) NO: Alaska's usual pro-Republican polling error recurs (Sullivan beat his polls by several points in 2020). Late Trump and Vance rallies and the staff-mistreatment story firm up Republican-leaning voters. Minor-Republican second choices break toward Sullivan, and he wins the final round by 1–3 points. (d) YES: the national Democratic environment holds (Polymarket has Democrats at about 90% for the House and 65% for the Senate). Independents break strongly for Peltola as in the AARP and DFP polls, and minor-candidate ballots mostly exhaust, as in her 2022 ranked-choice win. The market anchor is 73.5%, matching Kalshi at about 75%. Poll-based models (about 60–65%) and a Trump +13 state baseline with a 2–3 point lead inside typical Senate polling error argue for shading slightly below the market. I settle at 0.69.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5092",
+   "has_trace": true
+  },
   {
    "id": 4494,
    "scanned_at": "2026-10-12T04:38:27.954096",
@@ -9715,6 +9757,20 @@
  ],
  "Will the Democrats win the Michigan Senate race in 2026?": [
   {
+   "id": 5080,
+   "scanned_at": "2026-10-19T03:09:40.026930",
+   "date": "2026-10-19",
+   "agent": 68.5,
+   "market_price_t0": 69.5,
+   "edge": -0.009999999999999898,
+   "confidence": 0.61,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.68, 0.69). (0) The race is not resolved. The election is Nov 3, 2026, and AP, Fox and NBC have made no calls, so YES still needs El-Sayed to win the vote and be called or certified. (a) About 15 days remain until Election Day, with the Oct 21 Detroit debate and early voting still ahead. (b) If nothing changes, El-Sayed keeps a consistent D+2.6 to +3.6 lead in the RCP and DDHQ averages. He leads nearly every independent poll, and the only Rogers lead comes from a GOP-sponsored poll. The national environment also favors Democrats: Trump's approval is around 40% in Michigan, the generic ballot is about D+6, and Benson leads the governor race. That status quo is consistent with roughly 65-70% for YES. Models agree: Pollsmax has 65%, Poliwave about 70%, and Kalshi 69%, which is an independent crowd on the same question. Polymarket sits at 69.5%. (c) For NO, Michigan polls underestimate Republicans again, as they did by about 4 points in 2020 and in 2024, and also missed the 2026 primary. Add Rogers' cash-on-hand and outside-money edge, plus late 'radical' attacks on El-Sayed landing with independents, and Rogers wins narrowly. (d) For YES, the Democratic wave environment, El-Sayed's large fundraising edge, strong absentee returns and his lead among independents carry him to a 2-4 point win, extending the party's Michigan Senate streak since 1994. The research surfaces nothing the market has clearly mispriced. Given the documented Michigan polling error, I stay at about the market price, slightly below it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5080",
+   "has_trace": true
+  },
+  {
    "id": 4480,
    "scanned_at": "2026-10-12T01:36:45.145743",
    "date": "2026-10-12",
@@ -11854,6 +11910,20 @@
   }
  ],
  "Will there be no next Google Gemini Pro model release by November 1, 2026?": [
+  {
+   "id": 5065,
+   "scanned_at": "2026-10-18T23:18:42.577824",
+   "date": "2026-10-18",
+   "agent": 91,
+   "market_price_t0": 90.5,
+   "edge": 0.00550000000000006,
+   "confidence": 0.72,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.91, 0.91). (0) Nothing has resolved. Google's models page and changelog (updated Oct 13–14) show no Pro-labeled Gemini model since market creation. The flagship shipped on Oct 13 as \"gemini-4-argon\" with no Pro label, and the app picker still lists 3.1 Pro as a separate item. 3.5 Pro was dropped, per Reuters coverage of a Google statement.\n(a) There are about 14 days left, to Nov 1.\n(b) If nothing changes, the status quo is Yes: no qualifying Pro release.\n(c) The path to No is Google shipping a \"Gemini 4 Pro\" or similar Pro-labeled model publicly before Nov 1. Alternatively, the resolver could treat Argon as the Pro successor. The market has so far not done that, and sibling markets price Oct 19–25 at ~4%.\n(d) The path to Yes is Google continuing to roll out Argon and Flash models, with no Pro SKU before November.\nThe Polymarket anchor is 90.5%. The sibling weekly strikes (~4% for Oct 19–25, plus some for Oct 26–Nov 1) roughly agree. An unsourced NPowerUser rumor of Gemini 4 Pro \"next week\" is the main tail risk, and rumored Pro dates have repeatedly failed this cycle. I hold close to the market at ~91%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5065",
+   "has_trace": true
+  },
   {
    "id": 4367,
    "scanned_at": "2026-10-10T15:36:05.544947",
@@ -15373,6 +15443,20 @@
  ],
  "Will India strike Pakistan by December 31, 2026?": [
   {
+   "id": 5100,
+   "scanned_at": "2026-10-19T08:37:40.094640",
+   "date": "2026-10-19",
+   "agent": 6.3,
+   "market_price_t0": 9,
+   "edge": -0.027499999999999997,
+   "confidence": 0.65,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.07). (0) The condition is not met: CFR's tracker (updated 2026-10-15) shows the May 2025 ceasefire holding and no Indian air, drone or missile strike since Operation Sindoor. The 2026 incidents (Sep 15 naval collision, Oct 2 BSF small-arms killings) do not qualify. (a) About 73 days remain, but given the 12-15 day trigger-to-strike lag seen in 2019 and 2025, a trigger would need to occur by roughly mid-December. (b) The status quo is NO: a frozen ceasefire with hawkish rhetoric, and India held back even after the Nov 2025 Delhi blast. (c) NO: tensions stay at border shootings, diplomatic protests and water disputes, with no Pulwama- or Pahalgam-scale attack. (d) YES: an LeT or JeM mass-casualty attack by early December (the Poonch infiltration pipeline is active), followed by missile or loitering-munition strikes under India's declared 'even stronger response' doctrine. Qualifying strikes occurred twice in about a decade, both after mass-casualty attacks. I put the trigger at roughly 5-7% in the window and the conditional strike at about 75-80%, for 5-7% overall. That is slightly below the 9% market (bid 8 / ask 10), which likely carries a long-shot premium; the research found no new trigger or mobilisation.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5100",
+   "has_trace": true
+  },
+  {
    "id": 1616,
    "scanned_at": "2026-08-22T06:43:33.614273",
    "date": "2026-08-22",
@@ -16747,6 +16831,20 @@
  ],
  "Will the Democrats win the Iowa Senate race in 2026?": [
   {
+   "id": 5094,
+   "scanned_at": "2026-10-19T06:59:16.220678",
+   "date": "2026-10-19",
+   "agent": 43,
+   "market_price_t0": 42.5,
+   "edge": 0.0050000000000000044,
+   "confidence": 0.55,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.42, 0.44). (0) The race is not resolved. The election is Nov 3, 2026, and no AP, Fox or NBC call exists. Resolution needs all three to call it for the same candidate, or else official certification.\n(a) About 15 days remain until Election Day, and trading closes Nov 4. Early voting began Oct 14.\n(b) Status quo: polls are essentially tied. RCP has Turek +0.9, and Poliwave averages Turek +1.1 but forecasts Hinson +0.9. Iowa's structural Republican lean breaks ties: Trump won by 13 in 2024, Democrats have not won a Senate race since 2008, and polls missed toward Democrats in 2014, 2020 and 2024. That makes Hinson the narrow favorite, which is how Polymarket (42.5% Yes) and Kalshi (~57% Hinson) price it.\n(c) NO: Trump's Oct 22 and Nov 1 visits consolidate the GOP base. Republican unity rises from 87% toward the low 90s, independents tighten, and a typical Iowa polling miss gives Hinson a 2–5 point win. Marist's Turek lead already narrowed from +8 among registered voters to +3 among likely voters.\nThe 59% of voters who expect Hinson to win also hints at a shy Republican vote.\n(d) YES: high gas prices, Iran-war anger and 57% Trump disapproval hold. Turek keeps his ~20-point edge with independents and his 10%+ Republican crossover, Sand's coattails help, and Democratic spending parity holds. Senate Majority PAC moving money into Iowa signals a live race.\nI see nothing the market has missed: polls lean slightly toward Turek, and the market discounts them roughly in line with history. I stay at the anchor, around 42%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5094",
+   "has_trace": true
+  },
+  {
    "id": 4499,
    "scanned_at": "2026-10-12T06:09:25.828143",
    "date": "2026-10-12",
@@ -17888,7 +17986,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-18T18:05:09.772Z",
+  "last_sync": "2026-10-19T08:51:58.725Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -18252,6 +18350,20 @@
   }
  ],
  "Will Clavicular wear a Yarmulke in 2026?": [
+  {
+   "id": 5098,
+   "scanned_at": "2026-10-19T07:48:18.694809",
+   "date": "2026-10-19",
+   "agent": 27.5,
+   "market_price_t0": 43.5,
+   "edge": -0.15999999999999998,
+   "confidence": 0.435,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.28, 0.27). (0) Not resolved. No source shows credible photo or video of Peters himself wearing a kippah since the July 10 window opened. Polymarket's own text, updated through mid-October, says there are no verified reports, and the research found none. (a) About 73 days remain, to Dec 31, 2026. (b) Status quo is No: the July Israel trip, the best opportunity, passed without a reported kippah in JPost, Ynet, JTA, Forward or MEE coverage. His news cycle is now the Massachusetts rape case, with arraignment around Oct 22, plus a US college tour. (c) NO: he stays busy with legal proceedings and campus streams, takes no Jewish or Israel trip, and the only kippahs on camera belong to companions like 'Nate'. (d) YES: a Farro/Chabad content stunt, such as a Hanukkah event in December, tefillin or a Shabbat meal, a return to Israel, or a troll bit puts a kippah on him on stream and Jewish or tabloid media clip it. His controversy-seeking style, kippah-wearing associates and ongoing Chabad outreach make that plausible. The market sits at 43.5% and rose 18 points in 30 days, a move the research cannot explain. That makes me hesitant to fade it fully, since there may be rumors or clips I cannot see. Without any documented catalyst I still price below market, at about 28%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5098",
+   "has_trace": true
+  },
   {
    "id": 4501,
    "scanned_at": "2026-10-12T06:59:07.560185",
@@ -18727,6 +18839,20 @@
  ],
  "Alexandre de Moraes out as Brazil Supreme Court Justice?": [
   {
+   "id": 5055,
+   "scanned_at": "2026-10-18T20:20:42.981922",
+   "date": "2026-10-18",
+   "agent": 19,
+   "market_price_t0": 23.5,
+   "edge": -0.044999999999999984,
+   "confidence": 0.51,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.18). (0) Not resolved. As of Oct 17–18, 2026, credible reporting (Brasil 247, Gazeta do Povo, Reuters) still shows Moraes as a sitting STF justice. No resignation, retirement or removal has been announced, and no source shows the condition met. (a) About 2.5 months remain, to Dec 31, 2026. (b) Status quo is No. His mandatory retirement is in 2043, and Alcolumbre, who is close to Moraes and opposes impeaching him, controls the Senate until Feb 2027. The new right-leaning Senate, which is still short of 54 votes, cannot act inside this window. The sibling impeachment market sits at 1.5%. (c) No scenario: Moraes keeps denying wrongdoing and treats resignation as an admission of guilt. Dino's review of the probe runs into mid-December, and any internal inquiry sidelines him only from specific cases, which does not end his tenure. He waits for the Feb 2027 Senate fight. (d) Yes scenario: Flávio Bolsonaro wins the Oct 25 runoff, and a hostile Senate and Senate presidency look likely for 2027. Facing that, plus the Banco Master/Vorcaro messages and unprecedented resignation calls from Folha, Estadão and O Globo, Moraes negotiates an early-retirement exit in Nov–Dec on the Barroso model. Reports that STF interlocutors are linking any Moraes exit to Nunes Marques leaving show such talks exist. An announcement alone resolves Yes. The market at 23.5% (flat for 7 days, +7.5 over 30) prices this pressure. I shade it slightly lower because he has a strong record of resisting pressure and the only real path is voluntary.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5055",
+   "has_trace": true
+  },
+  {
    "id": 4459,
    "scanned_at": "2026-10-11T19:07:15.547607",
    "date": "2026-10-11",
@@ -19090,6 +19216,20 @@
   }
  ],
  "Will Erling Haaland be the #1 searched person on Google this year?": [
+  {
+   "id": 5089,
+   "scanned_at": "2026-10-19T05:27:23.110854",
+   "date": "2026-10-19",
+   "agent": 15.5,
+   "market_price_t0": 17.5,
+   "edge": -0.01999999999999999,
+   "confidence": 0.45999999999999996,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.15, 0.16). (0) Not resolved: the 2026 Year in Search page returns 404, and only the 2025 list exists (d4vd #1). YES requires Google's 2026 Global People list, expected early December, to rank Haaland #1. (a) The search window likely closes around late November, so about 5-6 weeks remain; the release deadline is March 31, 2027. (b) Status quo: Haaland is the market favourite at 17.5% on Polymarket, with Kalshi independently at about 18-19% and Bad Bunny about 14% there. Google ranks by year-on-year spike, and his ~900% World Cup jump plus record-breaking autumn form keep him well placed. (c) NO: past global #1s (d4vd, Hamlin, Depp) were breakout or scandal-driven names whose jumps from low bases dwarf a 900% rise for an already-famous striker. His global figure is below Google's 5,000% breakout threshold, and a late-year viral story or rival could top him in a wide field. (d) YES: no living person matches his sustained global spike, Dolly Parton is excluded via the Passings list, and the Easter egg and continued records keep searches elevated. I shade slightly below the market because of the breakout-favouring base rate.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5089",
+   "has_trace": true
+  },
   {
    "id": 4053,
    "scanned_at": "2026-10-06T16:00:56.746305",
@@ -21501,6 +21641,20 @@
  ],
  "Will the Democrats win the Florida governor race in 2026?": [
   {
+   "id": 5070,
+   "scanned_at": "2026-10-19T00:53:32.212586",
+   "date": "2026-10-19",
+   "agent": 18,
+   "market_price_t0": 20.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.625,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.18, 0.18). (0) The race is not resolved. The election is Nov 3, 2026, and AP, Fox and NBC have made no calls, so resolution depends on the vote and the subsequent calls or certification. (a) About 15 days remain until election day, and early voting is already under way. (b) Status quo: Donalds (R) leads the polling averages by about 5 points (DDHQ +5.4, RCP +5.0, Pollsmax +4.7). He also has a roughly 7:1 money edge and a 1.55M registration advantage, and Cook, Sabato, Inside Elections, DDHQ and NBC all rate the race Lean R. If nothing changes, Donalds wins. (c) NO scenario: Republican in-person early and election-day turnout erases the Democratic mail-ballot lead, and Florida's habit of underestimating Republicans in polls (2018, 2020, 2022) repeats. Donalds would then win by 5 to 10 points. (d) YES scenario: the Democratic-leaning national environment holds, with special elections showing Democrats beating 2024 margins by about 10 points and Democratic flips in Florida specials. Independents break heavily to Jolly, as in Mason-Dixon (47–28 with 24% undecided), and the tied polls (St. Pete, Change, YouGov at R+2) prove closer to the result than Stetson or JMI. That would produce a narrow upset. The Polymarket anchor of 20.5% matches Kalshi's roughly 20%, which is an independent crowd. I shade slightly below it because of Florida's consistent pro-Democratic polling error and Jolly's tiny outside spending. A 5-point lead two weeks out is still not decisive in a wave-leaning midterm.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5070",
+   "has_trace": true
+  },
+  {
    "id": 4477,
    "scanned_at": "2026-10-12T00:50:34.734521",
    "date": "2026-10-12",
@@ -22668,6 +22822,20 @@
   }
  ],
  "Will the Republicans win the Texas governor race in 2026?": [
+  {
+   "id": 5087,
+   "scanned_at": "2026-10-19T04:42:11.583712",
+   "date": "2026-10-19",
+   "agent": 75.5,
+   "market_price_t0": 74.3,
+   "edge": 0.012499999999999956,
+   "confidence": 0.59,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.76, 0.75). (0) Not resolved. The election is Nov 3, 2026. Early voting opened Oct 19, and AP, Fox and NBC have made no calls. (a) About 15 days remain until Election Day, and race calls could follow quickly if the margin is several points. (b) Status quo: Abbott leads every polling average, by +2.0 at RCP and +3.3 at Pollsmax. The latest high-quality polls (CBS/YouGov +4, Marist +4 among likely voters) lean his way, and Cook and Sabato rate the race Lean R. If nothing changes, he is a modest favorite. (c) NO: Democrats' enthusiasm edge (72% of Democrats enthusiastic, 10 points above Republicans in UT/TxPP) and Hinojosa's large lead among independents produce an electorate more Democratic than the likely-voter screens assume. UT/TxPP, which has an accurate track record, has Hinojosa +1, and a polling miss of about 2 points flips the race. (d) YES: Republican turnout rebounds in the final weeks. Texas polls have understated Republicans by roughly 2–6 points in 2020, 2022 and 2024. Abbott's 20-to-1 cash advantage and the 30-year Republican statewide streak carry him to a win of about 4–7 points. The Polymarket anchor is 74.25%, down from about 80% a week ago, and Kalshi sits at about 77% per Defirate. A 2–3 point lead plus a historical tilt toward Republicans in Texas polling supports something slightly above the market, but the Democratic enthusiasm signal and a first-ever run of polls showing Abbott trailing keep me close to it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5087",
+   "has_trace": true
+  },
   {
    "id": 4490,
    "scanned_at": "2026-10-12T03:53:50.533056",
@@ -24247,6 +24415,20 @@
  ],
  "Will Russia capture the Royal Café Alex in Kostyantynivka by December 31, 2026?": [
   {
+   "id": 5083,
+   "scanned_at": "2026-10-19T03:55:13.414765",
+   "date": "2026-10-19",
+   "agent": 20.5,
+   "market_price_t0": 22.5,
+   "edge": -0.01999999999999999,
+   "confidence": 0.41000000000000003,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.21). (0) Resolution check: nothing shows the condition met. The ISW storymap and DeepStateMap fetches returned no map content, so the building's shading status cannot be confirmed either way. Nothing suggests it is already shaded. (a) About 10 weeks remain until the December 31, 2026 deadline. (b) Status quo: the building stays unshaded under the qualifying layers and the market resolves No. (c) NO scenario: Ukrainian counterattacks continue to stall Russian advances in the Kostiantynivka direction. GDELT headlines from late September to October 2026 report Ukraine regaining ground and defeating a Russian pincer. The building's grid squares are never assessed as Russian-advanced before year-end. (d) YES scenario: sustained Russian pressure brings ISW to shade the café's area as an advance, and the shading persists through one update cycle. The 18–23 daily clashes reported in this direction show the fighting is still intense. The market anchor is 22.5% (bid 21 / ask 24), down from 86% over 30 days, which signals the front moved against Russia here. The related term structure is internally consistent: 14% for the same building by Nov 30, 60.5% by Mar 31, 2027, and 11% for all of Kostyantynivka by Dec 31. With no research reports surfacing unpriced information, I stay close to the anchor and shade slightly toward No given the falling trend.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5083",
+   "has_trace": true
+  },
+  {
    "id": 3982,
    "scanned_at": "2026-10-05T19:05:04.358228",
    "date": "2026-10-05",
@@ -25319,6 +25501,20 @@
  ],
  "Will PSOE win the most seats in the 2026 Spanish general election?": [
   {
+   "id": 5074,
+   "scanned_at": "2026-10-19T01:38:55.383505",
+   "date": "2026-10-19",
+   "agent": 10.5,
+   "market_price_t0": 14.5,
+   "edge": -0.03999999999999998,
+   "confidence": 0.61,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.11). (0) Nothing is resolved yet. The vote is on 29 Nov 2026 and the Interior Ministry will report results that night, so whether PSOE finishes first depends entirely on the campaign and the vote.\n(a) There are about 41 days to the vote, and the formal campaign runs 13–27 Nov.\n(b) If nothing changes, PP wins the most seats. Every private post-call poll has PP ahead by about 2.6–7 points and 9–40 seats: 40dB 132–112, GAD3 133–107, Sigma Dos 135–103, GESOP 121–125 vs 108–112, Electomanía 134–111. Averages put PP about 4–5 points ahead. Seat models price PSOE at about 2% (Poliwave and PolitPro).\n(c) NO path: PP holds its roughly 5-point lead, and the PP loyalty leak flows to Vox rather than PSOE. PP wins the large regions (Andalucía, Madrid, Valencia, Castilla y León), and PP finishes 20–30 seats ahead.\n(d) YES path: a 2023-style late left mobilisation, driven by housing, fear of a PP–Vox government, and tactical consolidation from the divided Sumar/Podemos vote. PSOE outperforms polls by more than the roughly 4-point 2023 miss and wins seat parity in mid-sized provinces. The CIS (PSOE +11.8) hints at this, but it is a known pro-PSOE outlier.\nThe market anchor of 14.5% sits well above the quantitative models at about 2%. Spanish polls have historically underestimated PSOE, and six weeks of campaign leave room for movement, so the models are probably too confident. Still, the needed error is larger than in 2023, and no private poll shows a post-call PSOE bounce. I shade modestly below the market, to about 10%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5074",
+   "has_trace": true
+  },
+  {
    "id": 4471,
    "scanned_at": "2026-10-11T23:16:25.642515",
    "date": "2026-10-11",
@@ -25334,6 +25530,20 @@
   }
  ],
  "Will Flávio Bolsonaro win Brazil, Gadi Eizenkot become Israeli PM, and Democrats win the US Senate?": [
+  {
+   "id": 5060,
+   "scanned_at": "2026-10-18T21:47:07.711632",
+   "date": "2026-10-18",
+   "agent": 25.5,
+   "market_price_t0": 35.5,
+   "edge": -0.09999999999999998,
+   "confidence": 0.55,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.25, 0.26) after one crux research pass. (0) Not resolved: all three elections (Brazil Oct 25, Israel Oct 27, US Nov 3) are pending, and the Israeli swearing-in cannot happen before the Nov 5 close. Anchor: this thin ($183k) combo trades at 35.5%, but the much deeper constituent markets (Flávio ~77-79%, Eizenkot ~45-47.5%, Democrats ~63-65%) multiply to about 0.23, and the legs look largely independent, so I discount the combo toward the product. (a) About 2.5 weeks to the elections; the Israeli leg likely resolves via a mid-to-late December swearing-in after 28-42 days of coalition talks. (b) Status quo is NO: Lula is president, Netanyahu stays caretaker (a caretaker does not count, and no swearing-in means 'Other', which is NO here), and Republicans hold the Senate 53-47. (c) NO: any one leg fails — Lula wins a runoff polled as a technical tie, Israeli blocs stay short of 61 and Netanyahu stays or someone else is sworn in, or Democrats miss the net +4 seats. (d) YES: Flávio holds his 47% plus right-wing transfers, Eizenkot forms a minority or Zionist-majority government sworn in around December, and Democrats ride a D+5-11 generic ballot to 51 seats. Allowing slight weight for the market's view, I land at about 0.25.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5060",
+   "has_trace": true
+  },
   {
    "id": 4461,
    "scanned_at": "2026-10-11T19:58:09.809046",
@@ -26162,6 +26372,86 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.83, 0.87). (0) Not resolved: the USBR RISE series shows 3,520.31 ft on Oct 17 and a window low of 3,516.62 ft (Sep 15). NO needs one daily reading below 3,510.00 before Mar 31, 2027. (a) About 5.5 months of winter drawdown remain. (b) Status quo favors YES: the lake is rising, and the September Most Probable run's lowest month-end is 3,511.43 ft (Feb 2027). Winter inflow is mostly base flow, so the path is driven by Reclamation scheduling, which has been used to protect elevations and has run more pessimistic than reality all year. (c) NO: heavier winter releases, the low end of Flaming Gorge support, or weak base flow push a Feb–Mar daily low 1–3 ft under the month-end path. Reclamation's stated floor is 3,500 ft, its page still projects a sub-3,510 decline in WY2027, and the September dry run hit about 3,503 ft by April. (d) YES: the October gains and controlled 6 maf releases keep the low near 3,512–3,515. The market jumped to 86.5% after the Oct 15 study, likely reflecting an improved Most Probable path that I could not verify. I shade slightly below the market for that reason.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/5036",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic's initial public offering occur in November 2026 (ET)?": [
+  {
+   "id": 5078,
+   "scanned_at": "2026-10-19T02:22:49.557016",
+   "date": "2026-10-19",
+   "agent": 60,
+   "market_price_t0": 65,
+   "edge": -0.050000000000000044,
+   "confidence": 0.525,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.60, 0.60). (0) Not resolved. As of Oct 19 there is no public S-1 on EDGAR, no price range and no first trade. Only Anthropic's June 1 confidential-draft notice is official. (a) About 6 weeks remain. Because Thanksgiving week stalls deals, the workable window for a first trade is roughly Nov 9–25, plus a few days around Nov 30. (b) Status quo is the reported schedule. IFR (Oct 15) has a public filing Oct 26, roadshow Nov 9 and pricing the following week, which implies first trade around Nov 17–20. Bloomberg and Reuters also point to before Thanksgiving, and the pre-launch steps are done: analyst briefing, investor day, Nasdaq chosen, banks named. (c) NO path: the public S-1 slips past about Oct 26, or a rate- or tech-selloff, valuation dispute ($1.5T vs $2T talk) or AI-IPO weakness pushes things back. Firmus withdrew, AirTrunk delayed, and JPMorgan ECM flagged issuers moving to 2027. Even a one-week slip lands the debut on Dec 1 or later. The timeline has already slipped several times since September. (d) YES path: the S-1 goes public around Oct 23–26, the roadshow starts Nov 9, pricing comes the week of Nov 16 and Nasdaq trading begins about Nov 18. Strong Q3 revenue ($16.8B) and anchor interest such as Nvidia carry the deal even at a reset valuation. The market sits at 65%, consistent with the sibling 'by Nov 30' at 67% and 'by Nov 15' at about 6%. I shade slightly lower because the repeated slips, the zero-slack window and the deteriorating IPO tape are real, though the specific IFR calendar keeps YES the favorite.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5078",
+   "has_trace": true
+  }
+ ],
+ "Will the Republicans win the Oregon governor race in 2026?": [
+  {
+   "id": 5067,
+   "scanned_at": "2026-10-19T00:09:42.372174",
+   "date": "2026-10-19",
+   "agent": 20,
+   "market_price_t0": 22.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.59,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.20). (0) Nothing has resolved yet. The election is Nov 3, AP, Fox and NBC have made no calls, and Drazan has to actually win the vote and get it called or certified. (a) The election is about 15 days away; ballots went out Oct 14 and are already being returned. (b) Status quo is a Democratic hold. Kotek leads the latest polls by 2–4 points (DHM/Oregonian 46–44; her internal GBAO poll 46–42). All four rating shops, including Fox, have the race at Lean D. Oregon has elected Democratic governors 11 straight times since 1982. (c) NO path: Democrats who dislike Kotek consolidate behind her, as DHM's pollster describes, and the D-leaning midterm under a Trump presidency (his Oregon favorability is 29–37%) offsets her 38/60 image. Drazan fades late as she did in 2022, when October poll leads became a 3.5-point loss. (d) YES path: Kotek's unpopularity, the wrong-track mood and Drazan's edge on economic issues drive Republican and low-propensity turnout. Pacific Green nominee Smith pulls 4–6% from the left, and the late $1M RGA money funds a closing cost-of-living message, producing an upset inside the polling error. I anchor on Polymarket's 22.5% and shade slightly lower. The newest independent polling, the late shift of undecideds, Kotek's 2.4:1 cash advantage, the absence of 2022's large RGA and Knight money, and the national Democratic environment all tilt toward Kotek. Still, a near-tied race keeps meaningful upset risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5067",
+   "has_trace": true
+  }
+ ],
+ "Will October be Melbourne's wettest month of 2026?": [
+  {
+   "id": 5057,
+   "scanned_at": "2026-10-18T21:04:51.026000",
+   "date": "2026-10-18",
+   "agent": 80,
+   "market_price_t0": 83,
+   "edge": -0.029999999999999916,
+   "confidence": 0.64,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.79, 0.81). (0) Not resolved: the BoM Daily Weather Observations page for 086338 shows 66.2 mm for 1–18 Oct, 0.2 mm above August's 66.0 mm, but the Monthly table has no October entry and November/December are still to come. (a) About 2.5 months remain: 13 days of October, then November and December, with December's figure due by about 8 Jan 2027. (b) Status quo is that October leads, and the BoM forecast of 1–20 mm on 24 Oct and 2–25 mm on 25 Oct points to a final total of about 70–90 mm. (c) NO: one big cold-front event in November or December beats October, as in Nov 2025 (127.8 mm), Nov 2018 (97.8 mm), Dec 2018 (104.8 mm) and Nov 2021 (96.6 mm), or the late-October showers fizzle and October stays near 66–68 mm. (d) YES: the 24–25 Oct front adds 10+ mm and, under the BoM's 60–80% below-average Nov–Jan outlook with El Niño peaking, both later months stay below October. The market anchor is 83.5%, with sibling markets at 13% for November and 5% for December. Historical tails suggest roughly 15–20% for November and 8–12% for December despite the dry outlook, and warm south-east sea temperatures plus a near-neutral Victorian outlook temper the dry signal, so I sit slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5057",
+   "has_trace": true
+  }
+ ],
+ "France declares state of siege (martial law) by December 31, 2026?": [
+  {
+   "id": 5051,
+   "scanned_at": "2026-10-18T19:35:37.524033",
+   "date": "2026-10-18",
+   "agent": 3,
+   "market_price_t0": 7.4,
+   "edge": -0.044,
+   "confidence": 0.72,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.03, 0.03). (0) No source shows a state-of-siege decree. Légifrance could not be loaded, but law-firm commentary and wire reports from 18 Oct show that not even the lesser état d'urgence has been declared. Macron's address that evening stopped short of emergency measures or a curfew and relied on prefectoral bans on gatherings. (a) About 74 days remain until 31 Dec 2026. (b) If nothing changes, the outcome is NO. The état de siège has never been used under the Fifth Republic, last applied in 1939–45, and every domestic crisis since 1955, including the 2005 riots and New Caledonia in 2024, was handled with the état d'urgence instead. (c) NO scenario: the unrest fades or is handled with administrative measures, at most an état d'urgence, which does not count. The second night was already smaller, and mainstream hardliners are asking only for an état d'urgence or Article 16. (d) YES scenario: rioting turns into armed insurrection, for example firearms used against police stations or officers killed. The government then judges civil powers inadequate and hands policing to the army by decree for named départements, a step no actor is currently proposing. Another path is a foreign-war trigger, which nothing in the research suggests. The market sits at 7.35%, but its own term structure (0.9% by Oct 31, 2% by Nov 15) and the 18.5% price for the much lower état d'urgence bar suggest 7% includes long-shot premium. Given the narrow legal test (foreign war or armed insurrection), the political toxicity of military policing before the April 2027 election, and a hostile Assembly controlling any extension past 12 days, I price YES at about 3%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5051",
+   "has_trace": true
+  }
+ ],
+ "Viktor Orbán arrested by December 31?": [
+  {
+   "id": 5049,
+   "scanned_at": "2026-10-18T18:54:26.106143",
+   "date": "2026-10-18",
+   "agent": 8.5,
+   "market_price_t0": 12.6,
+   "edge": -0.04100000000000001,
+   "confidence": 0.575,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.08). (0) Resolution check: no official statement or credible report shows Orbán arrested or detained as of Oct 16–18, 2026. He is giving TV interviews and speaking at Fidesz events, so YES is neither met nor ruled out. (a) About 10.5 weeks remain until Dec 31, 2026, 11:59 PM ET. (b) Status quo is NO. Orbán has not been named a suspect, summoned or questioned. A motion to question him in the gold-convoy case is pending with no response. Prosecutors have not sought custody even for the five existing suspects, including ex-TEK chief Hajdu, who remains free. (c) NO path: the prosecution stays under acting Polt-era head Lajtár, who just suspended Fürcht, the one prosecutor who tied Orbán to the order. The prosecutor-general deadlock lasts through year-end. Any step against Orbán is a voluntary suspect interview or an indictment without custody, and neither counts. A court would also see little flight risk in a man living openly. (d) YES path: under heavy public pressure from Magyar's government, KNYF names Orbán a suspect in the gold-convoy case, or NVVH does so in a corruption case. He is then summoned and held for up to 72 hours, or placed under house arrest, as happened the same day with Hankó and Seszták after their immunity was lifted. He appears to hold no MP immunity, which removes that hurdle. Orbán himself says the ministers were detained \"so they can take me in.\" The Polymarket anchor is 12.6% (bid 10/ask 15) with a mild upward trend. Given how many steps are missing and the signs that the prosecution hierarchy is resisting, I shade slightly below it to about 9%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5049",
    "has_trace": true
   }
  ]

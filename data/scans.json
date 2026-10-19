@@ -507,6 +507,20 @@
  ],
  "Strait of Hormuz traffic returns to normal by November 30?": [
   {
+   "id": 5133,
+   "scanned_at": "2026-10-19T19:02:13.980599",
+   "date": "2026-10-19",
+   "agent": 3.8,
+   "market_price_t0": 7,
+   "edge": -0.032499999999999994,
+   "confidence": 0.8,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.04). (0) Not met. The PortWatch chokepoints API shows data through Oct 11, with daily counts of 2–8 and a 7-day average of about 4.1, far below 60. Daily counts have stayed in single digits since at least Sep 1, so the threshold is not already crossed. (a) About six weeks remain until Nov 30. Data published within 14 days after that still counts, but PortWatch updates weekly with a lag of several days. (b) If nothing changes, the average stays around 2–8 and the market resolves No. (c) NO path: escalation continues, with record attacks, a sinking and IRGC mine claims in mid-October. Talks stay deadlocked on sequencing, since Iran wants the blockade and sanctions lifted first and the US wants nuclear concessions first. Even if a deal came in mid-November, mine-clearing and insurance lags of 40–50 days would keep counts far below 60. (d) YES path: soon after the Nov 3 midterms, the US accepts a version of Iran's seven-day plan. The strait reopens within about six days, ships turn AIS back on, and the backlog of 480+ waiting vessels surges through at 60+ a day for a full week before Nov 30. History argues hard against this. The best episode of the war, after the June MoU, peaked at a 7-day average of about 32, and no single day has reached 60 since February. Even peacetime months sometimes averaged below 60. The Polymarket anchor is 7%, and the Dec 31 sibling is at 14.5%. I shade below 7% because the market likely carries longshot premium, and every earlier monthly version drifted to near zero and resolved No. The AIS-switch-on effect and the backlog are the only upside mechanisms.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5133",
+   "has_trace": true
+  },
+  {
    "id": 4262,
    "scanned_at": "2026-10-09T07:17:19.620952",
    "date": "2026-10-09",
@@ -1042,6 +1056,20 @@
   }
  ],
  "Will the Republicans win the Texas Senate race in 2026?": [
+  {
+   "id": 5106,
+   "scanned_at": "2026-10-19T10:09:33.772422",
+   "date": "2026-10-19",
+   "agent": 40,
+   "market_price_t0": 37.5,
+   "edge": 0.025000000000000022,
+   "confidence": 0.55,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.40, 0.40). (0) The race is not resolved. The election is Nov 3, 2026, early voting opened today, and AP, Fox and NBC have made no call. (a) About 15 days remain until Election Day, with calls likely shortly after. (b) If the status quo holds, Talarico (D) wins: polling averages show him up about 2–3 points (RCP D+2.2, Pollsmax and FiftyPlusOne D+2.8, 270toWin D+3.6), and he has led nearly every poll since July. (c) NO: Democratic enthusiasm (87% vs 76% 'definitely vote' in CBS) holds, about 6% of Trump voters cross over, and the national environment that has Polymarket pricing a Democratic House at 90% carries Talarico to a 2–3 point win. (d) YES: a normal-sized poll miss against Democrats (AAPOR found 2.7–4.6 points in 2016–2024, and Texas underpolled Cruz in 2024) gets help from Republicans coming home and the late ~$200M Musk/SLF ad push, giving Paxton a narrow win. Independent signals are consistent with the anchor: Polymarket's own price is 37.5% and Kalshi's Paxton price on the same question is about 38–39%. Models split, with DDHQ at 56% for Talarico, Poliwave at about 60% D, and Pollsmax at 54.8% for Paxton. I nudge slightly above market, to 40%, for Texas's persistent Republican polling over-performance and the late outside spending gap, but the evidence does not justify a larger deviation.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5106",
+   "has_trace": true
+  },
   {
    "id": 4511,
    "scanned_at": "2026-10-12T10:05:36.205467",
@@ -2621,6 +2649,20 @@
  ],
  "Will Utah use a new congressional map for the 2026 United States midterm elections?": [
   {
+   "id": 5135,
+   "scanned_at": "2026-10-19T19:51:46.267385",
+   "date": "2026-10-19",
+   "agent": 94.8,
+   "market_price_t0": 93,
+   "edge": 0.01749999999999996,
+   "confidence": 0.83,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.94, 0.95). (0) The condition is not formally met yet, because the Nov 3, 2026 general election has not happened. Factually, though, it is nearly locked in. Map 1 survived the Utah Supreme Court (Feb 20) and a federal three-judge panel (Feb 23). The March filing period and the June 23 primaries ran on it. Ballots were mailed Oct 13, and early voting starts Oct 20. The state's own candidate page lists McAdams and Owen in the new District 1. (a) About 15 days remain until the election. (b) Status quo is Yes: if nothing changes, the court-adopted Map 1 is the map used. (c) No could happen two ways. One is a near-impossible last-minute court order, which Purcell, mailed ballots and the Legislature's own concession that it is aiming at 2028 all weigh against. The other, more plausibly, is the resolver reading 'formally adopted and enacted into law by the appropriate legislative or redistricting authority' as excluding a court-imposed map. (d) Yes happens if Map 1 is used on Nov 3 and the resolver applies the clause saying court-redrawn maps count if used in 2026, matching the consensus of NCSL, Ballotpedia and Cook. The market sits at 93%, while comparable state markets (TX, CA, NC, OH) trade around 97%. That gap reflects the wording risk. I see that risk as modest because the court-redraw clause and 'consensus of credible reporting' both favor Yes, so I go slightly above the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5135",
+   "has_trace": true
+  },
+  {
    "id": 4431,
    "scanned_at": "2026-10-11T10:11:45.020777",
    "date": "2026-10-11",
@@ -3458,6 +3500,20 @@
   }
  ],
  "Will the Democrats win the Ohio Senate race in 2026?": [
+  {
+   "id": 5125,
+   "scanned_at": "2026-10-19T16:39:43.287292",
+   "date": "2026-10-19",
+   "agent": 63,
+   "market_price_t0": 65.5,
+   "edge": -0.025000000000000022,
+   "confidence": 0.55,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.63, 0.63). (0) The race has not been decided. The election is Nov 3, 2026, and neither AP, Fox nor NBC can call it before then, so it is not already resolved. (a) About 15 days remain until Election Day, and the market resolves on all three outlets calling the race or, failing that, on certification. (b) Status quo: Brown leads the polling averages by about 3 to 4.6 points (RCP +3.3, Enten aggregate +4, Kalshi page +4.6). He has a large fundraising edge and an early-vote advantage of 41% D vs 28% R. If nothing changes, he is a modest favorite. (c) NO path: a typical Republican polling miss of 3–4 points, which happened in Ohio in 2024 when Brown led in October and lost by 3.5, plus late GOP consolidation of undecided and third-party voters. This is backed by the $105M Republican outside-spending edge and recent polls showing Husted narrowly ahead (co/efficient +1, ActiVote +0.4). (d) YES path: an anti-incumbent-party midterm with Trump at 36% approval in Ohio (CNN), Husted's weak favorability (44/50), and Brown winning independents and some Republicans by crossover, for a mid-single-digit win. The anchor is Polymarket at 65.5%, matching Kalshi at about 66%. Models are split: Silver at about 70–74% and Split Ticket at 66% versus DDHQ at 53% and PoliAgg at 22% Brown, while expert ratings remain Toss-up. Given Ohio's documented history of polls overstating Democrats, I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5125",
+   "has_trace": true
+  },
   {
    "id": 4532,
    "scanned_at": "2026-10-12T16:30:33.026540",
@@ -5548,6 +5604,20 @@
   }
  ],
  "Will the Democratic Party control the Senate after the 2026 Midterm elections?": [
+  {
+   "id": 5102,
+   "scanned_at": "2026-10-19T09:24:32.734489",
+   "date": "2026-10-19",
+   "agent": 62,
+   "market_price_t0": 64.5,
+   "edge": -0.025000000000000022,
+   "confidence": 0.56,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.62, 0.62). (0) Nothing has resolved: the election is Nov 3 and Republicans hold the Senate 53-47, so Democrats need a net gain of four seats because a 50-50 split goes to Vance. (a) About two weeks remain, with possible delay from runoffs or an independent's caucus question, which the rules allow to run to Jan 4. (b) The status quo is Republican control, but forecasts favor a Democratic gain: DDHQ and The Hill 56%, Poliwave 60%, Fredcornell 61%, Vote-Scope and the academic model 66%, Silver Bulletin about 75%, with Pollsmax a 35% outlier. Kalshi, an independent crowd, sits near 63%, while this market is at 64.5%, slightly above the model median of about 60%. (c) NO: a correlated 3-4 point Republican polling miss, Collins outperforming her polls again, and Democrats stalling at 49-50 seats. An Osborn win without a Democratic caucus commitment could also leave Democrats short of a majority. (d) YES: Democrats flip North Carolina plus three of Alaska, Ohio, Maine, Texas, Iowa and Kansas while holding Michigan, helped by a 5-11 point generic-ballot lead, Trump's net approval near -22 to -27, and large fundraising edges. I shade slightly below the market toward the model consensus.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5102",
+   "has_trace": true
+  },
   {
    "id": 4508,
    "scanned_at": "2026-10-12T09:15:06.869949",
@@ -7929,6 +7999,20 @@
  ],
  "Will the U.S. invade a Latin American country in 2026?": [
   {
+   "id": 5108,
+   "scanned_at": "2026-10-19T10:57:04.798160",
+   "date": "2026-10-19",
+   "agent": 7,
+   "market_price_t0": 8.5,
+   "edge": -0.015,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) No source shows the condition met. The 3 Jan Maduro raid came before the market opened, and Polymarket ruled it a snatch-and-extract that did not count. Everything since (79+ boat strikes, partner raids in Ecuador, a narrow land strike in Venezuela, training deployments, the Cuba blockade) falls short of an offensive to establish control of land. (a) About 73 days remain until 31 Dec 2026. (b) If nothing changes this resolves No: Venezuela is normalizing (embassy Marines reactivated), Mexico is cooperating, the border troops are on the U.S. side, and the Cuba strategy is a blockade plus negotiation. (c) NO: Cuba pressure stays coercive, with fuel seizures and talks; Trump keeps saying force isn't needed and the midterms pass. Any Mexico action stays as strikes or partner raids, which the strict 'control' reading excludes. (d) YES: Cuba talks collapse and Trump orders an air assault or 'takeover' on short notice, as he did with Venezuela. Alternatively, a border incident triggers a unilateral U.S. seizure of ground in Mexico. However, the Army Reserve's 90–120 day readiness window points to late December at the earliest, and no deployment orders exist. The anchor is 8.5% (bid 7 / ask 10). The sibling Cuba invasion market is at about 7%, Venezuela at 3.6%, and Mexico and Colombia are small; since these overlap, the umbrella price should sit only slightly above Cuba's. Given Trump's recent de-escalatory comments, the strict resolution precedent and the short runway, I shade slightly below the market to 7%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5108",
+   "has_trace": true
+  },
+  {
    "id": 3923,
    "scanned_at": "2026-10-05T00:56:36.779802",
    "date": "2026-10-05",
@@ -9425,6 +9509,20 @@
  ],
  "Will Strait of Hormuz traffic not return to normal in 2026?": [
   {
+   "id": 5123,
+   "scanned_at": "2026-10-19T15:48:05.021174",
+   "date": "2026-10-19",
+   "agent": 90.5,
+   "market_price_t0": 86.5,
+   "edge": 0.040000000000000036,
+   "confidence": 0.76,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.91, 0.90). (0) The resolving condition has not been met. The PortWatch API read shows the latest data point is Oct 11. The 7-day average ending that day is about 4.1, against a threshold of 60, and no single day since Mar 15 has reached 60 (the peak was 51 on Jun 24). The best 7-day window since the war began, during the June MoU, averaged only about 30. (a) There are about 10 weeks left until the Dec 31, 2026 data point. Data published up to Jan 31, 2027 counts, which covers PortWatch's lag of about 8 days. (b) If nothing changes, traffic stays at 2–8 AIS-visible transits a day amid record attacks and mine strikes, and the market resolves Yes (no return to normal). (c) No scenario: talks stay stalled after Trump's Sept 26 rejection of Iran's seven conditions. Mines, insurer caution and AIS-dark sailing keep PortWatch counts far below 60 through December. Even a late deal would need months of incident-free conditions before insurers and carriers return. (d) Yes-to-normal scenario: a sudden US–Iran deal in October or November, along the lines of Araghchi's offer to reopen within about six days. A backlog surge of the roughly 114–217 waiting vessels could switch AIS back on and briefly push the 7-day average to 60 or more. The June MoU shows such surges peak far below 60, but a larger backlog could do more. I anchor on Polymarket's 86.5%, and the same-question sibling at 13.5% for 'by Dec 31' agrees with it. Kalshi's near-identical contract at about 6–7% and the escalating October data, including traffic falling further and the shuttle system breaking down, justify shading slightly toward Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5123",
+   "has_trace": true
+  },
+  {
    "id": 4105,
    "scanned_at": "2026-10-07T08:59:11.907300",
    "date": "2026-10-07",
@@ -9944,6 +10042,20 @@
   }
  ],
  "Will the Democrats win the Maine Senate race in 2026?": [
+  {
+   "id": 5130,
+   "scanned_at": "2026-10-19T18:15:08.443817",
+   "date": "2026-10-19",
+   "agent": 59.5,
+   "market_price_t0": 62,
+   "edge": -0.025000000000000022,
+   "confidence": 0.565,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.59, 0.60). (0) Resolution check: the race is not resolved. The election is Nov 3, 2026, and AP, Fox and NBC cannot call it before then. If neither candidate clears 50% in round one, Maine's ranked-choice tabulation could push resolution to certification. (a) Fifteen days remain until Election Day, and trading closes Nov 4, possibly before a call. (b) Status quo is a statistical tie with Jackson slightly ahead. The poll average is about D+1.5 (RCP 48.8–47.2; Suffolk, InsiderAdvantage and Rasmussen each +2; WaPo +4). Cook, Sabato and Inside Elections all rate it Toss-up. Models are split: Decision Desk HQ has Jackson at 54%, Silver had about 70% earlier, and Pollsmax favors Collins at 55%. (c) NO: Collins beats her polls again, as in 2020, when she trailed by about 4 and won by 8.6. Older voters, her 58/42 ad-spending edge and late undecideds break to the incumbent, producing a 3-point polling miss, which Silver says flips the race. (d) YES: the D+9 generic ballot, Trump disapproval near 60%, Pingree's double-digit coattails, an early vote reported as 54% Democratic, and Collins's Democratic crossover shrinking to about 5% carry Jackson to a 2–4 point win. I anchor on Polymarket at 62% and the independent Kalshi crowd at 57%. I shade slightly below Polymarket because Collins has a documented record of outrunning her polls and Jackson's lead sits below 50% in most surveys.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5130",
+   "has_trace": true
+  },
   {
    "id": 4523,
    "scanned_at": "2026-10-12T14:03:31.129075",
@@ -11026,6 +11138,20 @@
   }
  ],
  "Will Variational launch a token by December 31, 2026?": [
+  {
+   "id": 5118,
+   "scanned_at": "2026-10-19T14:11:53.452999",
+   "date": "2026-10-19",
+   "agent": 76,
+   "market_price_t0": 81,
+   "edge": -0.05049999999999999,
+   "confidence": 0.55,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.76, 0.76). (0) The condition is not met. Variational's X profile, the named resolution source, shows a pinned Sep 24 post setting the $VAR TGE for Q4 2026, and no post since mentions a claim, listing or trading as of Oct 19. Aggregators also confirm the token has not launched. (a) About 73 days remain until 11:59 PM ET on Dec 31, 2026, and the stated Q4 window ends exactly on the deadline. (b) Status quo is NO: a launch still needs public mainnet, the trading API, buyback details and the team/investor split, then a dated TGE with live trading. (c) NO scenario: Omni public mainnet slips again, as it has since a 2024 promise of Q1 2025 and the missed Q3 2026 points end. The team then announces a January TGE, or announces in late December with trading starting in 2027. Market conditions around a 32% fully unlocked airdrop could also prompt a delay. (d) YES scenario: public mainnet opens around the Oct 23 maintenance or in November, a date follows, and the TGE lands in December (Lighter-style Dec 30 timing would still count). Volume is at records, top-tier VCs back the project, and tokenomics and claim terms are already published. Anchoring on Polymarket's 81%, I shade slightly lower for three reasons: the team's repeated infra slips, the CEO declining to name a month, and the sibling Nov 30 market at about 21%, which puts most of the mass in a single December month with little buffer.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5118",
+   "has_trace": true
+  },
   {
    "id": 4136,
    "scanned_at": "2026-10-07T18:28:03.998142",
@@ -17986,7 +18112,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-19T08:51:58.725Z",
+  "last_sync": "2026-10-19T20:34:54.152Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -22013,6 +22139,20 @@
  ],
  "Will the next Google Gemini Pro model added to the Arena Leaderboard debut at a score of at least 1490?": [
   {
+   "id": 5115,
+   "scanned_at": "2026-10-19T13:20:56.290772",
+   "date": "2026-10-19",
+   "agent": 20,
+   "market_price_t0": 23.4,
+   "edge": -0.034,
+   "confidence": 0.55,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.20). (0) Not met: Gemini 4 Argon debuted on Arena at ~1525 but is not labeled 'Pro' and is already on the board; Google's Cloud taxonomy files it under 'Argon', not 'Pro'. Gemini 3.5 Pro is reportedly cancelled (unconfirmed by Google). The live leaderboard was blocked, so Arena figures come from mirrors. Yes needs a Pro-labeled Gemini added by Dec 31 and scoring >=1490 at noon ET the next day. (a) About 10 weeks remain. (b) Status quo is No: no Pro-labeled model is announced, and the sibling market prices 'no Pro release by Nov 1' at 94.5%. (c) No: Google keeps codename branding for Gemini 4 tiers and ships Flash/non-Pro models only, or a cheaper Pro debuts below 1490 like 3.1 Pro (~1480-1487). (d) Yes: a 'Gemini 4 Pro' ships Nov-Dec, matching Google's late-year launch history, and debuts in the 1500s near Argon. The flat threshold ladder (1480: 23%, 1490: 23%, 1500: 21%, 1510: 19.5%) implies the market sees ~25% odds of any Pro release with the score nearly assured. I estimate ~22% for a Pro-labeled release given the rebranding and failed Pro leaks, times ~88% conditional on clearing 1490, for about 0.20.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5115",
+   "has_trace": true
+  },
+  {
    "id": 4518,
    "scanned_at": "2026-10-12T12:24:15.846097",
    "date": "2026-10-12",
@@ -24569,6 +24709,20 @@
  ],
  "Will the Democrats win the Nevada governor race in 2026?": [
   {
+   "id": 5128,
+   "scanned_at": "2026-10-19T17:25:44.172393",
+   "date": "2026-10-19",
+   "agent": 55,
+   "market_price_t0": 58.5,
+   "edge": -0.03499999999999992,
+   "confidence": 0.435,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.55, 0.55). (0) Resolution check: the race has not resolved. The election is November 3, and no AP, Fox or NBC call or certification exists; the nominees are Ford (D) and incumbent Lombardo (R). (a) There are about 15 days to Election Day, and Nevada's slow mail count could push the calls several days later (the 2022 race was called three days after). (b) If nothing changes, the polls are a coin flip: RCP has it tied 42-42, FiftyPlusOne has Lombardo +1 as of Oct 18, and Kalshi's average has Lombardo +1.7. Against that, a deeply unpopular Republican president (37-38% approval in Nevada) is a midterm drag on Lombardo, and Democrats lead every down-ballot race. (c) NO scenario: Lombardo's personal popularity (49/39 favorability), his large money edge and his crime advantage carry independents. Republican Election Day voters erase the early Democratic ballot lead, as happened in 2022, and the independent Danielle Ford takes votes from Aaron Ford. (d) YES scenario: the national environment and a Democratic registration rebound (Democrats now lead by about 4,400) consolidate the 9% undecided toward Ford. The early-vote lead in Clark and Washoe holds, and Ford wins by about 1-2 points, close to what the partisan-leaning early-vote model projects. Market anchor: Polymarket is at 58.5% and the independent Kalshi crowd is at 55%. Polymarket's 30-day run-up looks partly like momentum, given that polls slightly favor the incumbent and Inside Elections rates the race Tilt R. I therefore shade slightly below Polymarket, toward Kalshi, at 55%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5128",
+   "has_trace": true
+  },
+  {
    "id": 4516,
    "scanned_at": "2026-10-12T11:38:45.138527",
    "date": "2026-10-12",
@@ -26009,6 +26163,20 @@
  ],
  "Will there be no Hormuz agreement?": [
   {
+   "id": 5111,
+   "scanned_at": "2026-10-19T11:42:20.354493",
+   "date": "2026-10-19",
+   "agent": 93,
+   "market_price_t0": 88.8,
+   "edge": 0.04250000000000009,
+   "confidence": 0.72,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.93, 0.93). (0) Resolution check: no source shows a qualifying US–Iran Hormuz agreement as of Oct 18–19. CBS, Reuters, Gulf News and Al Jazeera all report no confirmed agreement. Iran says it is still reviewing US \"comments\" on its 7-day plan, which Trump rejected on Sept 26. (a) About 4–5 days remain until the Oct 23, 11:59 PM ET deadline. (b) The status quo resolves Yes (\"No Hormuz Agreement\"). No negotiation round or deadline is scheduled, the US blockade is in force, and Trump said on Oct 8 he no longer wants a deal and would wait until after the Nov 3 midterms. Ship attacks are at a war high, and both sides are positioning for escalation after the election. The criteria also need declarative acceptance by both governments of the same text with Iranian Hormuz commitments, which is hard to produce through indirect Qatari relays in four days. (c) NO scenario (no agreement, so this market resolves Yes): Iran keeps \"reviewing,\" the US sits tight until Nov 3, and the deadline passes, which is by far the most likely path. (d) YES scenario (an agreement, so this market resolves No): Trump, facing Brent near $110 before the midterms, abruptly announces a Qatar-brokered deal and Iran confirms it, as happened suddenly on Apr 7 and Jun 17. The market prices Yes at 88.75%. The related \"agreement by Oct 31\" market at about 9% implies a lower chance for the shorter window to Oct 23. With no scheduled talks and explicit US signals of waiting, I shade above the market to about 93%, keeping some weight on a pre-election surprise driven by oil prices.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5111",
+   "has_trace": true
+  },
+  {
    "id": 4771,
    "scanned_at": "2026-10-15T07:02:19.464938",
    "date": "2026-10-15",
@@ -26452,6 +26620,38 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.09, 0.08). (0) Resolution check: no official statement or credible report shows Orbán arrested or detained as of Oct 16–18, 2026. He is giving TV interviews and speaking at Fidesz events, so YES is neither met nor ruled out. (a) About 10.5 weeks remain until Dec 31, 2026, 11:59 PM ET. (b) Status quo is NO. Orbán has not been named a suspect, summoned or questioned. A motion to question him in the gold-convoy case is pending with no response. Prosecutors have not sought custody even for the five existing suspects, including ex-TEK chief Hajdu, who remains free. (c) NO path: the prosecution stays under acting Polt-era head Lajtár, who just suspended Fürcht, the one prosecutor who tied Orbán to the order. The prosecutor-general deadlock lasts through year-end. Any step against Orbán is a voluntary suspect interview or an indictment without custody, and neither counts. A court would also see little flight risk in a man living openly. (d) YES path: under heavy public pressure from Magyar's government, KNYF names Orbán a suspect in the gold-convoy case, or NVVH does so in a corruption case. He is then summoned and held for up to 72 hours, or placed under house arrest, as happened the same day with Hankó and Seszták after their immunity was lifted. He appears to hold no MP immunity, which removes that hurdle. Orbán himself says the ministers were detained \"so they can take me in.\" The Polymarket anchor is 12.6% (bid 10/ask 15) with a mild upward trend. Given how many steps are missing and the signs that the prosecution hierarchy is resisting, I shade slightly below it to about 9%.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/5049",
+   "has_trace": true
+  }
+ ],
+ "Will there be no change in Fed interest rates after the December 2026 meeting?": [
+  {
+   "id": 5120,
+   "scanned_at": "2026-10-19T14:56:02.793312",
+   "date": "2026-10-19",
+   "agent": 21,
+   "market_price_t0": 21.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.62,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.21, 0.21). (0) Not resolved yet. The upper bound is 4.00% after the September 16 hike (FRED DFEDTARU through Oct 19), and the December 8–9 statement does not exist yet. (a) About seven weeks remain, with the Oct 27–28 FOMC meeting plus the October jobs and CPI releases coming first. (b) Status quo: the September dot plot median (16 of 18 dots), the minutes (\"most\" see another hike by year end), sell-side calls (Goldman, JPM, UBS) and futures all point to the next hike landing in December, so 'No' is the default. (c) NO: the Fed holds on Oct 28, CPI stays near 3.7% with oil shocks, and it hikes 25bp on December 9, which FedWatch prices at roughly 75–90%. (d) YES has two paths. One is a hold at both meetings, driven by weak payrolls (three-month average 51k), falling real wages, or AI and credit stress; FedWatch puts this near 11%. The other is a hike in October, which the median dot would treat as the year's 'one more', followed by a December hold; that is roughly 15% × 0.6 ≈ 9%. Together these give about 20%, consistent with the Polymarket anchor of 21.5%, which has been flat for a week. I found no unpriced information, so I stay near the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5120",
+   "has_trace": true
+  }
+ ],
+ "Kim Jong Un out as Supreme Leader of North Korea by December 31, 2026?": [
+  {
+   "id": 5113,
+   "scanned_at": "2026-10-19T12:31:56.976218",
+   "date": "2026-10-19",
+   "agent": 4,
+   "market_price_t0": 8.1,
+   "edge": -0.041,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.04). (0) Nothing shows the condition met. KCNA documented Kim at the Oct 10–11 anniversary events and the Oct 11 museum opening. No official source or credible consensus reports death, incapacity or removal. (a) About 73 days remain, until Dec 31, 2026 ET. (b) If nothing changes, Kim stays in office and the market resolves No. (c) NO: the Oct 18–19 cerebral-haemorrhage and death rumour fades like the 2020 episode. It rests on a fake Trump screenshot, a recycled Ji Seong-ho quote and an exile source. Fact-checks call it false, and reports say South Korean officials did too. Kim then reappears in KCNA coverage or at a Trump/APEC-linked event. (d) YES: the rumour proves true, or Kim (over 140 kg, hypertension, a family history of fatal heart disease) has a cardiac or stroke event. That would be followed by an extended KCNA absence, NIS confirmation and an announced Kim Yo Jong or Ju Ae interim arrangement. The market sits at 7.65% (bid 6%, ask 10%), up about 5 points in a week purely on the rumour. The outside-view hazard for this window is about 0.5%, plus a small allowance for coup or incapacity. Past Kim death rumours (2012, 2014, 2020) have all been false, and the absence so far is only about 8 days, well within his normal gaps. The Kim Yo Jong statement and the specific hospital detail add a little weight, so I land well above base rate but below the rumour-inflated market, at about 4%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5113",
    "has_trace": true
   }
  ]

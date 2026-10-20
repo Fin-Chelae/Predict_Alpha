@@ -4137,6 +4137,20 @@
  ],
  "Will Trump's approval rating hit 35% in 2026?": [
   {
+   "id": 5194,
+   "scanned_at": "2026-10-20T12:24:55.375323",
+   "date": "2026-10-20",
+   "agent": 20.5,
+   "market_price_t0": 25,
+   "edge": -0.044999999999999984,
+   "confidence": 0.55,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.21). (0) Resolution check: the condition has not been met. Silver Bulletin's own page shows net -22.3 on Oct 19, with an all-time net low of -23.9. The Wikipedia, Conversation and Newsweek figures put the green-line approve value at about 37.5–37.6%, and no source shows any 2026 date at or below 35.0.\n(a) About 10 weeks remain, through Dec 31. The Nov 3 midterm falls inside the window.\n(b) Status quo is NO. The average has drifted about 4 points over seven months (41.5 in March to ~37.5 now), with rebounds along the way. Each new 'record low' has been marginal, about 0.5–1 net point. The short-dated Polymarket brackets for Oct 23 price ≥38.0 at 92% and <37.5 at only ~3%, which suggests the average may have bounced toward ~38. If so, the needed drop is closer to 3+ points.\n(c) NO scenario: Silver's house-effect adjustment and quality weighting discount the 31–34% outliers (Reuters/Ipsos 31, WaPo/ABC 33). Gas prices or Iran-war news ease, and after the election poll volume thins and the average sits at 37–38.\n(d) YES scenario: oil near $110 and 3.7% CPI push pump prices up into November. The Oct 18–19 batch of record-low polls gets absorbed, and a post-midterm GOP rout and erosion among Republicans drag Silver toward FiftyPlusOne (34.9) and the Economist (34.0). That would mean roughly a 2.5–3.5 point slide, about double the recent pace.\nThe market anchor is 25% (bid 23 / ask 27), and the 34% and 36% siblings are thin. I shade slightly below the anchor because the strike has been repeatedly over-priced this year (36–42% at times that never resolved) and because of the near-term bracket pricing.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5194",
+   "has_trace": true
+  },
+  {
    "id": 4416,
    "scanned_at": "2026-10-11T05:35:40.110261",
    "date": "2026-10-11",
@@ -11853,6 +11867,20 @@
  ],
  "Will the Democrats win the South Carolina Senate race in 2026?": [
   {
+   "id": 5186,
+   "scanned_at": "2026-10-20T10:02:19.377974",
+   "date": "2026-10-20",
+   "agent": 17,
+   "market_price_t0": 17.5,
+   "edge": -0.004999999999999977,
+   "confidence": 0.61,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.17, 0.17). (0) Resolution check: the election is Nov 3, 2026. No AP, Fox or NBC call exists, and the resolution-source read confirms the race is unresolved. (a) Fourteen days remain until election day; early voting runs through Oct 31 and resolution follows the calls or certification. (b) Status quo is a Republican hold. Darline Graham leads every public poll and average by about 1–4 points (Trafalgar Oct 19 R+3, Rasmussen R+4, FiftyPlusOne R+1), raters sit at Lean R to Likely R, and Democrats haven't won a Senate race in SC since 1998. (c) NO scenario: undecideds and the state's R+18 baseline break to Graham, late GOP outside money lands, and the result looks like 2020, when a tied-looking race ended R+10. (d) YES scenario: a strong Democratic national environment combines with GOP fracture. That fracture comes from the Norman write-in, about 5% for third parties, and roughly 10% Republican defection. Add Andrews' large ad advantage, and she wins a plurality around 46–47%; the polls being mostly R-aligned pollsters leaves room for a miss in her favour. Anchors: Polymarket 17.5%, Kalshi 18% and PredictIt 20% agree. DDHQ's ~30% and PoliAgg's 4% bracket them, and the favourable national mood (Polymarket Dem Senate control 64.5%) is already priced in. I see no specific unpriced information, so I stay near the market at 17%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5186",
+   "has_trace": true
+  },
+  {
    "id": 4593,
    "scanned_at": "2026-10-13T09:20:19.434559",
    "date": "2026-10-13",
@@ -12383,6 +12411,20 @@
  ],
  "U.S. agrees to give Ukraine security guarantee by December 31?": [
   {
+   "id": 5214,
+   "scanned_at": "2026-10-20T18:59:30.878934",
+   "date": "2026-10-20",
+   "agent": 5.8,
+   "market_price_t0": 9.1,
+   "edge": -0.033499999999999995,
+   "confidence": 0.67,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) No source shows the condition met. Credible reporting through Oct 20, 2026 shows no signed or jointly finalized binding US–Ukraine guarantee. Miami talks collapsed around Oct 9–11 after Trump's diesel deal with Putin, and the Oslo talks on Oct 20 only 'discussed' guarantees 'based on the principle of' Article 5, with the response mechanism still unsettled. (a) About 72 days remain until the Dec 31, 2026 deadline. (b) The status quo is No: a text described as '100% ready' since January is still unsigned, the US wants it signed as part of an overall package, and Zelensky said it would apply only after the war stops. (c) NO scenario: Witkoff's Putin meeting yields nothing, Lavrov's 'no ceasefire' holds, and US–Kyiv friction persists over the diesel deal, Starshield and Patriot delays. Nothing is signed, or only a nonbinding 'assurances' text that fails the Article 5 test. (d) YES scenario: Putin accepts a framework in November, a ceasefire follows, and Trump and Zelensky jointly sign the existing text with explicit binding Article 5-style language before year-end. The market anchor is 9.1%, up 4.75 points in a week on the Oslo headlines. The ceasefire-by-Dec-31 market is about 17.5%, and a qualifying binding guarantee is a strict subset that also needs Article 5-equivalent language, which reports suggest the current text may lack (ZN.ua called it not legally binding). Two sibling markets (2025 and June 30) resolved No on the same pattern, so I shade below the market to about 5.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5214",
+   "has_trace": true
+  },
+  {
    "id": 1996,
    "scanned_at": "2026-08-26T13:23:11.037011",
    "date": "2026-08-26",
@@ -12840,6 +12882,20 @@
   }
  ],
  "Will Russia capture all of Lyman by December 31, 2026?": [
+  {
+   "id": 5196,
+   "scanned_at": "2026-10-20T13:16:30.758205",
+   "date": "2026-10-20",
+   "agent": 5.5,
+   "market_price_t0": 10.4,
+   "edge": -0.049499999999999995,
+   "confidence": 0.69,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) Nothing shows the condition met. ISW's October 8, 14 and 19 assessments still list 'Seize Lyman' as an unmet Russian objective and report Ukrainian advances in the Lyman tactical area. DeepState also shows Lyman Ukrainian-held. I could not view the ISW map itself. (a) About 10 weeks remain until 11:59 PM ET on December 31, 2026. (b) If nothing changes, Lyman stays Ukrainian, with at most Russian infiltration, which does not qualify, so the market resolves No. (c) No scenario: Operation Vivaldi's gains of 277 km² and 16 settlements hold, Ukraine's 3rd Corps shifts to a stable defence, Russia keeps pushing toward Sloviansk and Mykolaivka, and ISW keeps rejecting Russian 'mop-up' claims as it has for about 10 months. (d) Yes scenario: the redeployed 1st Guards Tank Army and the 25th Army exploit a Ukrainian manpower shortage and degraded Starshield connectivity. They retake the Zherebets approaches and overrun the town and outlying municipality quickly enough for ISW to shade it all, persisting through an update cycle. Alternatively, a Donbas-withdrawal deal would deliver Lyman, but Kyiv and polls reject that and the US-Europe plan freezes the current line. The market sits at 10.45% after a +6% weekly jump, perhaps on the tank-army redeployment news. The sister market 'capture Lyman' is at 6.5%. The research shows Russia on the defensive here, so I shade below the market, while keeping some tail for a Russian winter push or for information the market has priced that I could not see.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5196",
+   "has_trace": true
+  },
   {
    "id": 1969,
    "scanned_at": "2026-08-26T05:01:11.947488",
@@ -15873,6 +15929,20 @@
  ],
  "Will Solana hit $60 or $140 first?": [
   {
+   "id": 5209,
+   "scanned_at": "2026-10-20T17:22:53.557968",
+   "date": "2026-10-20",
+   "agent": 35,
+   "market_price_t0": 33,
+   "edge": 0.020499999999999963,
+   "confidence": 0.55,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.35, 0.35). Yes is most likely the $60-first side: the rules resolve to 'the lower price' first, early history (SOL ~$90 with $60 at 67–76%) supports this, and the 0.328 price fits. (0) Binance klines show the 2026 low since the March open was 60.13 and the high 124.95, so nothing has resolved; spot is about $106.5. Resolution needs a ~43% drop to $60 or a ~31% rally to $140 on Binance 1m candles. (a) About 10.5 weeks remain, to Dec 31, 2026. (b) Status quo is that neither level is hit and the market settles 50–50, so Yes pays 0.5. At 55–64% annualised vol (one sigma ~0.27), touching $140 is about 30% likely and touching $60 about 3–5% with fat tails; no touch is ~65%. Yes's expected value is therefore about 0.04 + 0.5*0.65 ≈ 0.36–0.37. (c) Other side wins if Alpenglow plus returning ETF inflows produce a squeeze through $125 to $140, paying the $140 side in full. (d) Yes wins if a macro crash takes BTC below $70K and SOL below the June low to $60; otherwise Yes collects 0.5 from no touch. Bearish context (ETF outflows, BTC weakness) and upside tail from Alpenglow are roughly balanced. The market's 0.328 sits in a wide 27/38 spread near my fair value, so I lean slightly above it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5209",
+   "has_trace": true
+  },
+  {
    "id": 4219,
    "scanned_at": "2026-10-08T20:49:15.866274",
    "date": "2026-10-08",
@@ -18238,7 +18308,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-20T08:31:59.137Z",
+  "last_sync": "2026-10-20T19:16:27.677Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -18766,6 +18836,20 @@
   }
  ],
  "Nguesso out as President of the Republic of the Congo by December 31, 2026?": [
+  {
+   "id": 5207,
+   "scanned_at": "2026-10-20T16:34:18.556716",
+   "date": "2026-10-20",
+   "agent": 4,
+   "market_price_t0": 8,
+   "edge": -0.04,
+   "confidence": 0.72,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.04). (0) The condition has not been met. Wikipedia and consensus reporting show Sassou Nguesso as the sitting president. He was sworn in for a new term on 16 April 2026, chaired the Council of Ministers on 14 October 2026, and inaugurated a school on 9 October. Nothing found reports a resignation, detention, coup or incapacity. (a) About 10 weeks remain until the 31 December 2026 deadline. (b) If nothing changes, the answer is No: the mandate runs to 2031 and no election or transition is scheduled. The ruling PCT also failed to settle its own leadership at its December 2025 congress, which argues against an orderly handover. (c) No: he keeps governing through year-end, as routine items such as the budget session and an opposition dialogue suggest. (d) Yes: he dies suddenly or is incapacitated at 82, or the inner circle stages a palace coup amid a succession rivalry between Denis-Christel, Okemba and Bouya. Actuarial mortality of about 5-7% a year works out to roughly 1-1.5% over 10 weeks. I add a small coup or resignation tail, and some allowance for undisclosed health problems, since African leaders rarely reveal them. The Polymarket anchor of 8% (bid 7%) rests on thin volume of about $21k. It looks inflated by longshot bias, and the downward trend of -2.5% over 30 days points the same way. I price below the market at about 4%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5207",
+   "has_trace": true
+  },
   {
    "id": 2720,
    "scanned_at": "2026-09-07T16:58:16.403003",
@@ -22751,6 +22835,20 @@
  ],
  "Will the UK’s 2026 inflation be between 3.5% and 3.9%?": [
   {
+   "id": 5190,
+   "scanned_at": "2026-10-20T11:37:10.681587",
+   "date": "2026-10-20",
+   "agent": 46.5,
+   "market_price_t0": 46.4,
+   "edge": 0.0014999999999999458,
+   "confidence": 0.45,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.46, 0.47). (0) Not resolved: the latest ONS print is August 2026 at 3.1%; September prints 21 Oct and December (deciding) about 20 Jan 2027. (a) About three months remain, with October, November and December prints plus the Budget and Ofgem news in between. (b) If last year's September–December monthly moves (0.0, +0.4, −0.2, +0.4) repeated, December would stay near 3.1% (NO). YES needs a cumulative rise of about 1.0–1.4% from August, and higher fuel (petrol ~175p vs 161p August average), September consensus of +0.3% m/m, and the BoE's Q4 path of ~3.7–3.75% make about 1.2% (→3.7%) plausible. (c) NO: oil eases, the electricity VAT cut and weak pass-through leave December at 3.3–3.4% (Treasury panel 3.4%, poundf 3.43%), or fuel and food overshoot to 4.0%+ (NIESR 4.4%, Deutsche ~4%). (d) YES: September ~3.4–3.5%, fuel stays high, food rises and December prints 3.6–3.8%. The research centre favours the band, but the market fell 12 points in a week and siblings put 31.5% on 3.0–3.4% vs ~6% on 4.0%+, suggesting downside news the research may have missed; I stay near the 46% anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5190",
+   "has_trace": true
+  },
+  {
    "id": 3451,
    "scanned_at": "2026-09-26T07:18:50.610568",
    "date": "2026-09-26",
@@ -26121,6 +26219,20 @@
  ],
  "Will the Democrats win the Ohio governor race in 2026?": [
   {
+   "id": 5202,
+   "scanned_at": "2026-10-20T14:56:15.231493",
+   "date": "2026-10-20",
+   "agent": 70.5,
+   "market_price_t0": 72.5,
+   "edge": -0.020000000000000018,
+   "confidence": 0.565,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.71, 0.70). (0) Not resolved. The election is Nov 3, so AP, Fox and NBC have not called anything; the resolution-source read shows only polls and market odds. (a) About 14 days remain until Election Day, and the result could take days or weeks if certification is needed in a close race. (b) The status quo is Acton leading by about 3.5–5 points: RCP has +3.5, DDHQ about +4, the NYT average about +5. Recent high-quality polls agree: Marist +7 among likely voters (Oct 15–18), BGSU/YouGov +6, CNN +8, Siena +4. Every major handicapper now rates the race a Toss-up, and the trend has moved toward Democrats all year. (c) NO path: Ohio polls repeat their pro-Democratic misses (Brown–Moreno 2024 was off by about 2 points). Republicans dominate Election Day voting, and Ramaswamy's roughly 3-to-1 ad advantage moves late independents, together erasing a lead that sits inside the margin of error. (d) YES path: a 2006-style midterm wave, with a D+7 generic ballot, Trump at 43/55 in Ohio, and Democratic early-vote enthusiasm. Acton's crossover appeal with independents and some Republicans carries her to a 2–5 point win. The Polymarket anchor of 72.5% (Kalshi about 68–69%) fits a 4-point lead discounted for Ohio's history of polling error. I see no unpriced information strong enough to move far off it, so I shade slightly lower for the Republican-error risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5202",
+   "has_trace": true
+  },
+  {
    "id": 4610,
    "scanned_at": "2026-10-13T14:22:40.592235",
    "date": "2026-10-13",
@@ -26882,6 +26994,86 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.20, 0.18). (0) The condition is not met yet. PAPER has existed since the Oct 10 launch but can only be staked or unstaked and cannot be transferred. The resolution read of @papertrade_xyz shows a recent post, 'A note on transferability', and Crypto Briefing reported on Oct 19 that PAPER will not support off-contract transfers and that there is no timeline. The Defiant's headline goes further and says the team has 'no current plans' to enable them. The only priced market is Paragon's third-party HIP-3 'pre-launch' perp, which is synthetic, and the rules exclude synthetics.\n\n(a) About 10 weeks remain until 11:59 PM ET on Dec 31, 2026.\n\n(b) If nothing changes, PAPER stays non-transferable and is not 'actively and publicly tradable', so the market resolves No.\n\n(c) NO scenario: the team keeps its solvency and anti-manipulation stance, reinforced by the $1.28M oracle exploit on Oct 10. Transfers stay behind phase four, which itself waits on undated phases two and three. Stakers keep earning USDC with no pressure to list, and the year ends without spot trading.\n\n(d) YES scenario: pressure from mint-rate decay, hedged farmers and PULP/PSTR holders pushes the team to ship transfers or an official wrapped PAPER before year end, and a HyperCore or HyperEVM spot venue lists it. A second route is a lenient resolver counting the perp together with the 'live since Oct 10' framing.\n\nThe market anchor is 26.5%, down from about 91% within 30 days, so traders have already priced the strict reading. I shade slightly below it because the stance was restated only on Oct 19 and nothing in the research points to a reversal. I keep some probability for resolver ambiguity and a fast policy change.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/5147",
+   "has_trace": true
+  }
+ ],
+ "Will the Doge-1 Lunar Mission launch by December 31, 2026?": [
+  {
+   "id": 5211,
+   "scanned_at": "2026-10-20T18:13:26.711185",
+   "date": "2026-10-20",
+   "agent": 5,
+   "market_price_t0": 16.9,
+   "edge": -0.11850000000000001,
+   "confidence": 0.76,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.05) after one crux research pass. (0) Nothing shows the condition already met. The official doge1lunar.com page shows \"NET 2026\" with no countdown and an inactive livestream, and no launch record exists. The 14 Sep 2026 promotional date passed without liftoff. (a) About 72 days remain until 31 Dec 2026, 11:59 PM ET. (b) Status quo is No. Doge-1's only identified ride is the IM-3 Falcon 9, which Next Spaceflight and Wikipedia list as NET Q1 2027. An Intuitive Machines Q2 call transcript independently supports Jan–Mar 2027, and NASA's September statement that it expects only one lunar launch in 2026 fits the slip. (c) NO scenario: IM-3 stays in Q1 2027 or slips further, as it has repeatedly since 2022, and Doge-1 adds a seventh missed target since 2021. (d) YES scenario: IM-3 is pulled forward into December, which is very unusual for lunar landers. Alternatively, Doge-1 is quietly re-manifested onto another lunar-bound Falcon 9 within weeks, but no evidence of either exists and the Bandwagon and Transporter rideshares cannot reach the Moon. The market's 16.85% is a thin-book print: bid 4%, ask 30%, and a +13.5% weekly jump that no news explains. I therefore discount it toward the bid. I keep about 5% for an undisclosed re-manifest or an unreported pull-in, either of which could surface at the Intuitive Machines Q3 call on 3 Nov.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5211",
+   "has_trace": true
+  }
+ ],
+ "Will there be no Hormuz agreement or oil at least $80, and the Democrats win the Senate?": [
+  {
+   "id": 5204,
+   "scanned_at": "2026-10-20T15:41:51.420177",
+   "date": "2026-10-20",
+   "agent": 63,
+   "market_price_t0": 62.1,
+   "edge": 0.009499999999999953,
+   "confidence": 0.62,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.63, 0.63). (0) Resolution check: the condition is not met yet. The Hormuz/oil leg is effectively satisfied now: no qualifying deal has been confirmed, and WTI is about $95–105, well above $80. The Senate leg depends on the Nov 3 election. (a) About 13 days remain. Oil and the Hormuz deal are tested at the Nov 2 close, and the Senate result comes Nov 3 and after. (b) If nothing changes, the first leg stays met. The contract then tracks Democratic Senate control, which Polymarket's own Senate market prices at 64.5%, Kalshi at about 63–64%, and models at 56% (DDHQ) to 75% (Silver). (c) NO scenario: polls understate Republicans again, as in Ohio, Iowa and Texas in 2024. Democrats then fall short of the four net pickups they need, or lose Michigan, or an independent such as Osborn wins without caucusing with them. A much less likely route is a confirmed US–Iran deal plus WTI crashing more than 20% below $80 by Nov 2. Iran reportedly plans to drag talks past the vote, and the record of failed past deals makes this very unlikely, perhaps 1–2%. (d) YES scenario: the status quo on oil holds, and Democrats flip North Carolina plus three of Alaska, Ohio, Maine, Texas, Iowa or Kansas. A D+7 to D+12 generic ballot and Trump approval in the low 30s support this. The fair value is roughly 0.645 × 0.985 ≈ 0.635. The market at 62% sits just below that, so I price about 0.63.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5204",
+   "has_trace": true
+  }
+ ],
+ "Papertrade FDV above $50M one day after launch?": [
+  {
+   "id": 5200,
+   "scanned_at": "2026-10-20T14:07:12.064115",
+   "date": "2026-10-20",
+   "agent": 36.5,
+   "market_price_t0": 47,
+   "edge": -0.10499999999999998,
+   "confidence": 0.475,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.38, 0.35) after one crux research pass. (0) Not met: as of Oct 19-20, 2026, PAPER is non-transferable and staking-only with no spot market (CryptoBriefing, KuCoin/Odaily, airdrops.io). The only prices came from synthetic pre-launch perps, which the rules exclude; Paragon settled at $0.026296 and Aster is delisting. (a) About 14 months remain to the Dec 31, 2027 deadline. (b) Status quo is No: on Oct 19 the team said it has no plans 'at this juncture' for transferability, for structural reasons (external perps let attackers short bankroll solvency). (c) No: the block persists as attack risk scales or the protocol shrinks (BTC OI -41%, TVL down from ~$100M to $58M), and no qualifying launch occurs by the deadline. (d) Yes: upgrades harden the bankroll, phase-four transfers open in 2027, and spot trades near the ~$210-240M pre-halt implied FDV with tiny float; $50M needs only ~$0.0055/token. I estimate ~40% for a launch by end-2027 and ~85-90% for FDV >$50M given a launch, so ~35-38% Yes. Polymarket is at 47%, down 23.5 points this week; its $25M strike at 55.5% implies ~60% launch odds. Related launch-date markets are thin and inconsistent (15.5% by end-2026, 26% by June 2027). I shade below the market because the Oct 19 'no plans' shift and the delisting of all proxies are very recent.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5200",
+   "has_trace": true
+  }
+ ],
+ "Zelenskyy out as Ukraine president by June 30, 2027?": [
+  {
+   "id": 5188,
+   "scanned_at": "2026-10-20T10:51:52.046166",
+   "date": "2026-10-20",
+   "agent": 13,
+   "market_price_t0": 20.5,
+   "edge": -0.07499999999999998,
+   "confidence": 0.56,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.13). (0) Not resolved. The resolution-source check (president.gov.ua snippet for 14–18 Oct, and a 20 Oct Norwegian government release) shows Zelenskyy still serving as president, with no resignation or removal announced. (a) About 8.3 months remain until 30 June 2027. (b) If nothing changes, the answer is No. Article 108 keeps him in office until a successor is sworn in. The Rada renews martial law by wide margins (313 votes), and elections are barred while it lasts. (c) No scenario: Russia keeps rejecting the 60-day ceasefire, martial law is renewed in 90-day blocks, and Zelenskyy keeps saying he won't resign (Piers Morgan, 14 Oct) and would run again. Even with a ceasefire in early 2027, the CEC's six-month preparation period plus a 90-day campaign pushes any successor's swearing-in past June 2027. (d) Yes scenario: a US-brokered peace framework this winter, under heavy Trump pressure for a 'new president', in which Zelenskyy formally announces his resignation. Smaller routes are death or incapacity (about 1–2%) or loose resolution on a consensus of reporting. The market's 20.5% comes from a thin $16k book. The liquid sibling market for end-2026 sits near 6%, and every earlier Zelenskyy-exit market resolved No. The ceasefire markets (about 30% by March 2027, 49.5% by June) set an upper bound, but a ceasefire alone does not mean he resigns: his stated plan is to stay and run. I therefore shade below the market to about 13%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5188",
+   "has_trace": true
+  }
+ ],
+ "Papertrade FDV above $25M one day after launch?": [
+  {
+   "id": 5183,
+   "scanned_at": "2026-10-20T09:16:49.808297",
+   "date": "2026-10-20",
+   "agent": 43,
+   "market_price_t0": 52,
+   "edge": -0.09000000000000002,
+   "confidence": 0.42,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.45, 0.41) after one crux research pass. (0) Not resolved. PAPER exists but is non-transferable with no spot market, and the team said on Oct 19 it has no current plans for transfers. The third-party synthetic perps were halted and settled at $0.026296. Under 'actively and publicly tradable', with synthetic tokens excluded, no launch has occurred, and the 'launch by Dec 31, 2026' sibling at 6% with volume suggests the crowd agrees the Oct 10 mint doesn't count. (a) About 14 months remain, to Dec 31, 2027. (b) The status quo of staking-only PAPER resolves No. (c) No: the structural attack risk stays unsolved, transfers stay frozen or the protocol declines, and no tradable official token appears by end-2027. (d) Yes: fee and mint-curve fixes plus a larger pool let the team reverse its 'at this juncture' stance or issue a tradable wrapper in 2027. With about 8.5B+ supply, FDV only needs a price above about $0.003, versus the $0.012–0.035 perp range, so Yes is roughly 85–90% conditional on a launch. The market anchor is 52%. The launch-by siblings (June 2027 at about 26%, Sept 2027 at about 34%) imply roughly a 40–50% launch probability, plus a small resolution-ambiguity tail, so I shade slightly below the market to 0.45.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5183",
    "has_trace": true
   }
  ]

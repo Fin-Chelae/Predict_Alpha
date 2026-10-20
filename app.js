@@ -351,6 +351,7 @@ function mount() {
           <div class="cats" id="sortBar">${[['pnl', 'P&amp;L'], ['newest', 'Newest'], ['oldest', 'Oldest']]
             .map(([k, t]) => `<button class="cat-btn ${sortMode === k ? 'on' : ''}" data-sort="${k}">${t}</button>`).join('')}</div>
         </div>
+        <div id="boardNote"></div>
         <div class="rows" id="board"></div>
       </div>
       <div class="rail">
@@ -424,19 +425,32 @@ function renderCatBar() {
   $('#catBar').innerHTML = btn(null, 'All', POS.length, CLOSED ? CLOSED.rows.length : 0) +
     cats.map(c => btn(c, c, n[c][0], n[c][1])).join('');
 }
+// Filtered totals look like whole-account totals unless we say otherwise.
+let boardNote = '';
+const filterNote = (shown, total, noun) => catFilter ? `<div class="filter-note">Filtered to
+    <b>${esc(catFilter)}</b> · showing ${shown} of ${total} ${noun}
+    <button data-clear-cat>Show all ✕</button></div>` : '';
+function setCat(c) {
+  catFilter = c;
+  const u = new URL(location.href);
+  catFilter ? u.searchParams.set('cat', catFilter) : u.searchParams.delete('cat');
+  try { history.replaceState(null, '', u); } catch {}
+  renderCatBar();
+  renderBoard(liveState(), true);
+  renderClosed();
+}
 function initCatBar() {
   $('#catBar').addEventListener('click', ev => {
     const b = ev.target.closest('[data-cat]');
     if (!b) return;
     const c = b.dataset.cat || null;
-    catFilter = c === catFilter ? null : c;
-    const u = new URL(location.href);
-    catFilter ? u.searchParams.set('cat', catFilter) : u.searchParams.delete('cat');
-    try { history.replaceState(null, '', u); } catch {}
-    renderCatBar();
-    renderBoard(liveState(), true);
-    renderClosed();
+    setCat(c === catFilter ? null : c);
   });
+  // Closed Positions sits far below the chips; let it clear the filter itself.
+  for (const sel of ['#boardNote', '#closedSec'])
+    $(sel).addEventListener('click', ev => {
+      if (ev.target.closest('[data-clear-cat]')) setCat(null);
+    });
 }
 /* Arena order. Rank and medals always follow live P&L, whatever the order. */
 const SORTS = {
@@ -464,6 +478,8 @@ function renderBoard(S, first) {
   sorted.forEach((r, i) => { r.rank = i; });
   if (SORTS[sortMode]) sorted.sort(SORTS[sortMode]);
   const maxAbs = Math.max(.0001, ...sorted.map(r => Math.abs(r.roiNow)));
+  const note = filterNote(sorted.length, S.rows.length, 'open positions');
+  if (note !== boardNote) $('#boardNote').innerHTML = boardNote = note;   // skip on price ticks
   const old = {};
   if (!first) for (const el of board.children) old[el.dataset.k] = el.getBoundingClientRect().top;
 
@@ -585,7 +601,8 @@ function renderClosed() {
     </div>${isOpen ? scanDetail(key, scans) : ''}`;
   }).join('');
 
-  sec.innerHTML = `<h2>Closed Positions <span>${catFilter ? esc(catFilter) + ' · ' : ''}${bits.join(' · ')}</span></h2>
+  const note = filterNote(c.rows.length, CLOSED.rows.length, 'closed trades');
+  sec.innerHTML = `<h2>Closed Positions <span>${bits.join(' · ')}</span></h2>${note}
     <div class="rows">${rows || `<div class="closed-note">No closed positions in ${esc(catFilter)}.</div>`}</div>`;
 }
 

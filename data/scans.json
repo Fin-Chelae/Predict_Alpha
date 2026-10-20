@@ -3105,6 +3105,20 @@
  ],
  "Will GameStop acquire eBay?": [
   {
+   "id": 5177,
+   "scanned_at": "2026-10-20T07:45:09.382732",
+   "date": "2026-10-20",
+   "agent": 5.3,
+   "market_price_t0": 7.5,
+   "edge": -0.022499999999999992,
+   "confidence": 0.63,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.06). (0) Not resolved: only a rejected May 3 non-binding proposal exists, plus a ~9.8% eBay stake with no controlling interest. (a) About 10 weeks remain until Dec 31, 2026. (b) Status quo is No: the bid is dormant, warrants expire Oct 30, GameStop cash is $4.85B against a ~$28B cash need, and Bloomberg reported a possible pivot to a partnership. (c) No: eBay keeps refusing, Cohen holds the long-dated stake or pivots to a joint venture, and no tender offer or S-4 is filed. (d) Yes: a raised bid or hostile exchange offer is launched or accepted; even a hostile tender offer only arguably counts. Oct 15 rumours and Cohen's rhetoric keep a small tail, so I shade the market's 7.5% modestly down to 5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5177",
+   "has_trace": true
+  },
+  {
    "id": 2578,
    "scanned_at": "2026-09-03T15:18:26.970651",
    "date": "2026-09-03",
@@ -4051,6 +4065,20 @@
  ],
  "Nigel Farage out as Reform UK leader by December 31, 2026?": [
   {
+   "id": 5143,
+   "scanned_at": "2026-10-19T22:27:55.808154",
+   "date": "2026-10-19",
+   "agent": 8.8,
+   "market_price_t0": 11,
+   "edge": -0.022500000000000006,
+   "confidence": 0.61,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) Not resolved. Wikipedia, Reform's own pages as described in the research, and October news coverage all show Farage as incumbent leader. The 7 July resignation was from his Clacton seat, not the leadership, and he won the by-election on 13 August. (a) About 10.5 weeks remain until 31 Dec 2026, 11:59 PM ET. (b) If nothing changes, he stays leader and the market resolves No. UnHerd and the constitution reviews describe forced removal as practically impossible, and no insider has publicly called for him to go. (c) No scenario: he deflects the ITV and Verbatim exposés onto staff and councillors, as he has done before. The standards ruling and police probes slip past December or produce penalties that do not touch the leadership. He keeps saying he is \"going nowhere\". (d) Yes scenario: an adverse standards ruling or a Met development, combined with Reform polling stuck at 21–23% and family pressure, pushes him to announce a handover to Yusuf or Tice. An announcement alone resolves Yes. His history of voluntary exits (2009, 2016, 2021) makes this plausible. The market sits at 11% after a +4.5-point weekly jump on the exposés. The sibling market for March 2027 is at 16.5%, which is a consistent term structure. I shade slightly below 11% because no concrete forcing event is scheduled before December, he holds a fresh mandate, and no named figure is pushing him out. The hazard is still clearly elevated above baseline, so I do not go lower.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5143",
+   "has_trace": true
+  },
+  {
    "id": 4156,
    "scanned_at": "2026-10-08T00:57:19.707190",
    "date": "2026-10-08",
@@ -4796,6 +4824,20 @@
   }
  ],
  "Opensea FDV above $500M one day after launch?": [
+  {
+   "id": 5180,
+   "scanned_at": "2026-10-20T08:30:11.783610",
+   "date": "2026-10-20",
+   "agent": 6.3,
+   "market_price_t0": 8.6,
+   "edge": -0.023000000000000007,
+   "confidence": 0.69,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.07). (0) The condition is not met. DropsTab, the CoinGecko placeholder and Polymarket all show no SEA contract, no trading and no TGE date; the latest dated confirmation of no launch is from mid-to-late October 2026. (a) About 10 weeks remain until the Dec 31, 2026 11:59 PM ET cutoff, and the FDV check comes at 4 PM ET on the day after launch. (b) If nothing changes, there is no launch and the market resolves No. That has been the status quo for 7 months since Finzer's March postponement, which had no replacement date and promised a 'deliberate and specific' timeline that has not appeared. (c) NO scenario: the Foundation keeps waiting out weak conditions (BTC around $81K, ETH around $2.4K, below where they were when the launch was first set), so the token slips into 2027. A second route to NO is a launch whose day-1 FDV comes in under $500M, which fits airdrop sell-pressure base rates and NFT-sector weakness (Blur at about $28M market cap). (d) YES scenario: a surprise announcement in November, followed by a fast TGE. The launch was operationally ready in March. With a large first claim and the buyback narrative, day-1 FDV would likely clear $500M; the pre-delay market and the VALIX model both put it around $0.8B–1.4B. The Polymarket anchor is 8.55%, against a sibling 'launch by 2026' market at about 9.5%. Multiplying that by a roughly 70–80% chance of clearing $500M given a launch gives about 7%. I shade slightly lower because no pre-announcement exists, the time left is shrinking, and the Octagon model sits at about 3%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5180",
+   "has_trace": true
+  },
   {
    "id": 4191,
    "scanned_at": "2026-10-08T12:02:42.669898",
@@ -9580,6 +9622,20 @@
   }
  ],
  "Will the Democrats win the Wisconsin governor race in 2026?": [
+  {
+   "id": 5160,
+   "scanned_at": "2026-10-20T03:08:51.888657",
+   "date": "2026-10-20",
+   "agent": 77.5,
+   "market_price_t0": 80.5,
+   "edge": -0.030000000000000027,
+   "confidence": 0.575,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.77, 0.78). (0) The race is not resolved. AP, Fox and NBC cannot call it before the November 3 election, and the resolution-source check confirms no call exists. Crowley (D) still has to win the vote, with calls or certification afterward. (a) Fourteen days remain to Election Day, and resolution could come later if the race is close enough for a recount. (b) Status quo: Crowley has led every public poll. Marquette's likely-voter poll has him up 49–46, YouGov (fielded through Oct 9) 46–42, and the averages sit around +3.5 to +4. The environment is poor for Republicans, with Trump approval at 38% in Wisconsin and the president's party historically losing Wisconsin midterm governor races. If nothing changes, Crowley wins narrowly. (c) NO: Wisconsin's familiar polling miss toward Democrats recurs, as in 2016, 2020 and 2022, when Evers outran some polls but Senate polls were off. Low Milwaukee and Dane turnout, seen in lagging absentee returns, combines with Crowley's slide to −13 net favorability and Tiffany's roughly $18M spending edge to flip a 3-point lead. (d) YES: independents keep breaking heavily for Crowley (+26 in Marquette), midterm anti-Trump sentiment holds, and he wins by 2–4 points, consistent with every poll. Cook rates the race a Toss Up while Sabato rates it Lean D. Given typical polling error of about 4–5 points on a ~3.5-point lead, the polls imply roughly 72–80%. I anchor on Polymarket's 80.5%, matched by Kalshi's 80%, and shade slightly lower. The reasons are Wisconsin's history of overstating Democrats in polls, the tightening Marquette trend, and the absence of independent polling after September.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5160",
+   "has_trace": true
+  },
   {
    "id": 4569,
    "scanned_at": "2026-10-13T03:04:44.184455",
@@ -14863,6 +14919,20 @@
  ],
  "Will the Republicans win the Michigan governor race in 2026?": [
   {
+   "id": 5145,
+   "scanned_at": "2026-10-19T23:17:39.792006",
+   "date": "2026-10-19",
+   "agent": 7,
+   "market_price_t0": 7.3,
+   "edge": -0.002999999999999989,
+   "confidence": 0.72,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) The race is not resolved. Election Day is Nov 3, 2026, and AP, Fox and NBC have not called it, so for Yes Republican John James would have to beat Democrat Jocelyn Benson. (a) About 15 days remain until the election, and the market closes Nov 4. (b) If nothing changes, Benson wins. She leads by about 7–8 points in every average: FiftyPlusOne +8, RCP +6.8, PollingSource +6.7, Kalshi's average +7.9. No poll since the primary has shown James ahead, and every major rater has the race at Tilt, Lean or Likely D. (c) No path: Benson holds her lead on a roughly 19:1 TV reservation edge. Trump's 42/56 approval among Michigan likely voters drags on James. Banked early votes reportedly lean heavily to Benson, and the race is called on election night. (d) Yes path: a 7-point polling miss toward James. That would mean undecideds breaking Republican, weaker Detroit-area and youth turnout, and James repeating his 2020 overperformance of his polls, with gas-price anger falling on the incumbent party. The only data hinting at this are weak, such as a model-coded early-vote tally showing a near-even split. The Polymarket anchor of 7.3% (bid 7 / ask 8) matches Kalshi at about 7–8%, an independent crowd. A historical gubernatorial polling-error spread of about 5 points against a 7.5-point lead implies roughly 6–8%. The heavy money gap and the midterm environment argue slightly below the market, so I price Yes at 6.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5145",
+   "has_trace": true
+  },
+  {
    "id": 1734,
    "scanned_at": "2026-08-23T12:49:01.037460",
    "date": "2026-08-23",
@@ -15205,6 +15275,20 @@
  ],
  "Will a new country join the Abraham Accords before 2027?": [
   {
+   "id": 5173,
+   "scanned_at": "2026-10-20T06:15:43.741358",
+   "date": "2026-10-20",
+   "agent": 12,
+   "market_price_t0": 13.5,
+   "edge": -0.014500000000000013,
+   "confidence": 0.6,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.12). (0) Not met. The Wikipedia/resolution-source read and Times of Central Asia (28 Sep 2026) show no formal signing by any new country. Kazakhstan's promised ceremony is still pending with no date, and Somaliland has only pledged to accede. (a) About 10 weeks remain, to 31 Dec 2026 11:59 PM ET. (b) If nothing changes, the market resolves No. (c) No scenario: Israel's 27 Oct election leaves a caretaker or coalition-building government through Nov–Dec. Saudi Arabia keeps resisting, with Israeli officials on 18 Oct saying there is 'no evidence' of a breakthrough. Kuwait's '4–6 months' timeline runs past the deadline, and the Kazakhstan ceremony keeps slipping or is judged not a 'normalization agreement'. (d) Yes scenario: Trump stages a symbolic Kazakhstan signing around the 14–15 Dec Miami G20, which Tokayev will attend, and the resolver counts it. A less likely route is a surprise Somaliland accession, or a bundled Gulf signing tied to an Iran or Houthi deal. The market sits at 13.65%, up about 5 points in 30 days. I shade it slightly down for two reasons: the Kazakhstan path has slipped for 11.5 months with no venue agreed (Astana vs. Washington vs. Miami), and even if it happens there is real resolution risk, because Kazakhstan has had ties since 1992 and some sources already treat it as a member.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5173",
+   "has_trace": true
+  },
+  {
    "id": 4563,
    "scanned_at": "2026-10-13T01:35:56.671139",
    "date": "2026-10-13",
@@ -15307,6 +15391,20 @@
  ],
  "Will Hamas agree to disarm by December 31?": [
   {
+   "id": 5175,
+   "scanned_at": "2026-10-20T07:01:06.819145",
+   "date": "2026-10-20",
+   "agent": 10.5,
+   "market_price_t0": 12,
+   "edge": -0.014999999999999986,
+   "confidence": 0.6,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.10). (0) Resolution check: Hamas accepted a staged weapons-handover roadmap on 30–31 July 2026 and reaffirmed it around 16–17 August. Both fall inside the market window, but each came with explicit conditions: no step until Israel withdraws or formally accepts the roadmap, and heavy weapons framed as 'storage'. The rules exclude 'plans contingent on future conditions'. The market spiked to 83.5% and has since fallen to about 12% while still open, which strongly suggests traders, and probably a proposal or dispute process, decided the July statement does not qualify. So the condition is not met per the resolution source as the market reads it. (a) About 10 weeks remain until 31 December 2026. (b) Status quo is No: Israel rejected the roadmap again around 19 October, decommissioning 'has not started' (Mladenov, September), the NCAG and ISF are not deployed, and Hamas keeps its implementation conditional. (c) NO scenario: Israeli coalition-building after the 27 October election drags on, no handover begins, and Hamas keeps repeating conditional commitments through year-end. (d) YES scenario: a new Israeli government quickly accepts the roadmap, handover sites (already being surveyed by a US firm) open, and Hamas formally announces the start of police or heavy-weapons handover before 31 December. A late resolver re-reading of the July acceptance is a smaller second path. I anchor on the 12% market and shade slightly down, given the short window and no sign of Israeli acceptance.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5175",
+   "has_trace": true
+  },
+  {
    "id": 4421,
    "scanned_at": "2026-10-11T07:10:53.027383",
    "date": "2026-10-11",
@@ -15394,6 +15492,20 @@
   }
  ],
  "Will Trump and Putin not meet?": [
+  {
+   "id": 5170,
+   "scanned_at": "2026-10-20T05:30:27.801219",
+   "date": "2026-10-20",
+   "agent": 19,
+   "market_price_t0": 15,
+   "edge": 0.04000000000000001,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.19, 0.19). (0) Not resolved: Oct 18–20, 2026 reporting shows no Trump–Putin in-person meeting since Anchorage on Aug 15, 2025, and none is scheduled. (a) About 10 weeks remain to Dec 31, with two venues: APEC Shenzhen on Nov 18–19 (Putin reportedly attending, Trump 'would do it') and the Miami G20 on Dec 14–15 (Putin invited but unlikely per Bloomberg). (b) Status quo is no meeting, but APEC co-attendance makes a meeting the likely path. (c) NO path: both attend APEC and shake hands or talk on the sidelines; the rules count handshakes and direct conversation, and Trump and Putin did exactly that informally at Danang APEC 2017 even without a formal meeting. (d) YES path: Trump's APEC attendance is never confirmed or he skips it, China declines to host a trilateral, Putin rethinks Shenzhen, the Budapest-style collapse repeats, and Putin skips Doral. The market anchor is 15% and fell from about 27% over the past month as the APEC proposal surfaced. Unconfirmed White House attendance, Chinese silence and the Kremlin's 'hypothetical' hedging justify a slight premium over the market, not a large deviation.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5170",
+   "has_trace": true
+  },
   {
    "id": 4466,
    "scanned_at": "2026-10-11T21:35:35.820335",
@@ -15614,6 +15726,20 @@
   }
  ],
  "Trump meets with Putin by December 31?": [
+  {
+   "id": 5157,
+   "scanned_at": "2026-10-20T02:24:33.528767",
+   "date": "2026-10-20",
+   "agent": 81.5,
+   "market_price_t0": 85.5,
+   "edge": -0.040000000000000036,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.82, 0.81). (0) Not yet met. Credible reporting as of Oct 19–20 shows no in-person Trump–Putin meeting since Anchorage in August 2025. Under consideration is an APEC Shenzhen encounter (Nov 18–19), which the Kremlin calls 'hypothetical' and Beijing says it has 'no information' about. (a) About 72 days remain until Dec 31, with two dated windows: APEC Shenzhen on Nov 18–19 and the Miami G20 on Dec 14–15. (b) If nothing changes, both leaders are still slated for the same summit. Lavrov said Putin will fly to Shenzhen, and Trump posted Sept 24 that he plans to attend, with Reuters saying he has agreed. The status-quo path therefore leans YES, because the criteria count even a handshake and an exchange of words; the 2017 Danang precedent saw a formal bilateral cancelled but a gala handshake and chat still happened. (c) NO: Trump drops the China trip (domestic crisis, midterm politics, congressional backlash over the diesel deal) or Putin skips. Alternatively both attend but are kept apart in a Budapest-style collapse, and Putin then declines the Miami G20. (d) YES: both arrive in Shenzhen and Xi hosts a trilateral, bilateral, or simple pull-aside or handshake at the leaders' events, with Trump saying 'I would do it.' The Miami G20 invitation is a backup. I estimate joint attendance at roughly 80–85%, with interaction very likely if both are present, plus some G20 or other upside. That gives about 80–84%, slightly below the 85.5% market. The related 'Trump, Putin, Xi seen together' market at 86.5% is consistent with this.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5157",
+   "has_trace": true
+  },
   {
    "id": 4468,
    "scanned_at": "2026-10-11T22:25:43.329555",
@@ -18112,7 +18238,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-19T20:34:54.152Z",
+  "last_sync": "2026-10-20T08:31:59.137Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -19221,6 +19347,20 @@
  ],
  "Will the peak RONI for the 2026–27 El Niño be 2.5 or above?": [
   {
+   "id": 5137,
+   "scanned_at": "2026-10-19T20:43:17.779551",
+   "date": "2026-10-19",
+   "agent": 75,
+   "market_price_t0": 72.5,
+   "edge": 0.025000000000000022,
+   "confidence": 0.56,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.76, 0.74). (0) Not yet resolved. The CPC RONI table runs only through JAS 2026 at +1.7, and no qualifying season (ASO through DJF) has been published. (a) About 5.5 months remain. The qualifying seasons should post roughly monthly: ASO around Nov 5, SON in early December, OND in early January, NDJ in early February and DJF in early March, all before the April 1 close. (b) Status quo: nothing has printed at or above 2.5, so the market stays NO unless OND or NDJ (most likely) or DJF averages at least about 2.45, which rounds to 2.5. (c) NO scenario: models keep over-forecasting by about 0.3°C, as they did in August and September. RONI's subtraction of the tropics-wide mean also caps this east-based event, so October–December averages about 2.3–2.4. With an early peak, every season tops out at 2.3–2.4, near the 1982-83 record of 2.4. (d) YES scenario: the late-October westerly wind burst and Kelvin waves push the monthly relative index above 2.5 in November and December. Weekly RONI was already about 2.4 in mid-October and BoM's relative index was about 2.8, so OND prints around 2.6–2.7, in line with the reported CPC median of 2.74. CPC's own 8 October figure is 83% for OND at 2.5 or above, and the any-season rule should lift that slightly. The market at 72.5%, down 5 points in a week, discounts this, reasonably given that CPC's tail probability is untested and the reported 70% range for OND reaches down to 2.43. I land modestly above the market, at about 0.76.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5137",
+   "has_trace": true
+  },
+  {
    "id": 4485,
    "scanned_at": "2026-10-12T02:22:57.351296",
    "date": "2026-10-12",
@@ -19928,6 +20068,20 @@
   }
  ],
  "Will more than 8 tropical cyclones make landfall in China during 2026?": [
+  {
+   "id": 5141,
+   "scanned_at": "2026-10-19T21:35:00.802077",
+   "date": "2026-10-19",
+   "agent": 55,
+   "market_price_t0": 62,
+   "edge": -0.06999999999999995,
+   "confidence": 0.41000000000000003,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.55, 0.55). (0) Not resolved; the CMA Landfalling TCs page was unreadable and the 2026 Best Track update usually comes out the following year. (a) Trading runs to July 2027, but the outcome depends on landfalls before 31 Dec 2026, about 10 weeks away. (b) The NMC named-storm count has been 7 since 1 Sep, so on that basis two more landfalls are needed. The all-intensity CMA list may already be at 8: sister markets price 'exactly 7' at 2%, 'exactly 8' at 34.5% and 'more than 8' at 62%, implying traders know of an extra depression or weak-system landfall. (c) NO: a stronger 21-22 Oct cold surge recurves Super Typhoon Champi toward Japan, or the CMA list holds only 7, so a Champi landfall reaches just 8; the CMA expects only one more formation and El Nino suppresses late landfalls. (d) YES: the CMA list already holds 8 and Champi lands on Taiwan (~24 Oct) or Fujian/Zhejiang (~25 Oct), which the CMA dataset likely counts; most US and European ensemble members favoured a China landfall and Vietnam's forecast centre gave 80-90% for affecting Taiwan or the China coast. I estimate a 55-65% chance of a counted Champi landfall times roughly 75-85% that the list already holds 8, plus a small Nov-Dec allowance, which puts me slightly below the 62% market anchor given the unverified definitional gap.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5141",
+   "has_trace": true
+  },
   {
    "id": 4548,
    "scanned_at": "2026-10-12T21:31:08.748011",
@@ -24383,6 +24537,20 @@
  ],
  "Trump, Putin, and Xi seen together before 2027?": [
   {
+   "id": 5167,
+   "scanned_at": "2026-10-20T04:44:11.511321",
+   "date": "2026-10-20",
+   "agent": 77.5,
+   "market_price_t0": 86.5,
+   "edge": -0.08999999999999997,
+   "confidence": 0.575,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.76, 0.79) after one crux research pass. (0) No source shows an authentic same-frame image of the three as of Oct 20, so the event has not resolved. (a) About 10 weeks remain, but in practice almost everything hinges on APEC Shenzhen on Nov 18-19. The Miami G20 on Dec 14-15 is a weak fallback, since Bloomberg reports Putin is 'extremely' unlikely to attend. (b) Status quo: if nothing happens, the market resolves No. Yes requires all three to physically share a frame. (c) No scenario: Trump repeats Gyeongju 2025, flying in for a Xi bilateral and leaving before the leaders' session, or Putin's hedged 'might potentially attend' turns into a no-show. Beijing, already lukewarm and worried about overshadowing its showcase, then declines a trilateral. (d) Yes scenario: Trump, whose attendance is confirmed by his own post, a joint readout and Reuters, and Putin, whose attendance Lavrov announced and Bloomberg reported, both appear at the APEC family photo or the plenary table. This repeats the 2017 Danang photo, and a trilateral the White House has reportedly discussed for weeks would be an extra route. Chaining the probabilities: Trump attends (~0.9) × stays for the leaders' events (~0.85; The Diplomat describes a Nov 16-19 trip) × Putin attends (~0.88) × a shared frame given all three are present (~0.95). That gives roughly 0.65-0.7, plus a few points for the trilateral and G20 routes. The market's 86.5% looks somewhat rich on thin volume ($30k), so I shade below it, to about 0.76.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5167",
+   "has_trace": true
+  },
+  {
    "id": 3855,
    "scanned_at": "2026-10-04T03:21:37.480433",
    "date": "2026-10-04",
@@ -25374,6 +25542,20 @@
   }
  ],
  "Will the Democratic Party win the SC-01 House seat?": [
+  {
+   "id": 5151,
+   "scanned_at": "2026-10-20T00:52:19.831016",
+   "date": "2026-10-20",
+   "agent": 34,
+   "market_price_t0": 32.5,
+   "edge": 0.014999999999999958,
+   "confidence": 0.535,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.33, 0.35). (0) The race is not resolved. The election is November 3, and the FEC has no results. Early voting started October 19. (a) That leaves about two weeks to Election Day; the call could come later if the race is close. (b) The status quo is a Republican hold. This is an open R+6 seat that Trump won by about 13 points, and Mace won it with 58% in 2024. Honeycutt leads the public polling average by roughly 2–3 points, though all of those polls are partisan. Pollsmax gives her about 66%. (c) NO: GOP outside money from CLF and NRCC plus the seat's partisan lean hold. Honeycutt wins by 3–5 points despite the wave, as the R+3 polls and model projection suggest. (d) YES: the generic ballot settles at D+8–9. Lacore's 3-to-1 Q3 fundraising edge, her Navy profile in a military-heavy district, House Majority PAC's $2.1M pledge, and attacks over data centers and developers close the gap. That would repeat Cunningham's 2018 flip. Cook and Inside Elections both moved the race to Lean R last week, and the GOP's late spending signals a close race. Simple math backs this up: a D+9 national environment against an R+6 PVI implies roughly R+3, which matches the polls, and a 3-point deficit in a thinly polled race is about a one-in-three proposition. I stay close to the Polymarket anchor of 32.5%; Kalshi is slightly lower at about 28%. I find no unpriced information that justifies moving away from it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5151",
+   "has_trace": true
+  },
   {
    "id": 4304,
    "scanned_at": "2026-10-09T20:45:45.848090",
@@ -26652,6 +26834,54 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.04, 0.04). (0) Nothing shows the condition met. KCNA documented Kim at the Oct 10–11 anniversary events and the Oct 11 museum opening. No official source or credible consensus reports death, incapacity or removal. (a) About 73 days remain, until Dec 31, 2026 ET. (b) If nothing changes, Kim stays in office and the market resolves No. (c) NO: the Oct 18–19 cerebral-haemorrhage and death rumour fades like the 2020 episode. It rests on a fake Trump screenshot, a recycled Ji Seong-ho quote and an exile source. Fact-checks call it false, and reports say South Korean officials did too. Kim then reappears in KCNA coverage or at a Trump/APEC-linked event. (d) YES: the rumour proves true, or Kim (over 140 kg, hypertension, a family history of fatal heart disease) has a cardiac or stroke event. That would be followed by an extended KCNA absence, NIS confirmation and an announced Kim Yo Jong or Ju Ae interim arrangement. The market sits at 7.65% (bid 6%, ask 10%), up about 5 points in a week purely on the rumour. The outside-view hazard for this window is about 0.5%, plus a small allowance for coup or incapacity. Past Kim death rumours (2012, 2014, 2020) have all been false, and the absence so far is only about 8 days, well within his normal gaps. The Kim Yo Jong statement and the specific hospital detail add a little weight, so I land well above base rate but below the rumour-inflated market, at about 4%.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/5113",
+   "has_trace": true
+  }
+ ],
+ "Will the next Russia x Ukraine peace talks take place in the UAE by December 31, 2027?": [
+  {
+   "id": 5164,
+   "scanned_at": "2026-10-20T03:58:05.117911",
+   "date": "2026-10-20",
+   "agent": 41,
+   "market_price_t0": 44.5,
+   "edge": -0.03500000000000003,
+   "confidence": 0.46499999999999997,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.41, 0.41). (0) Not resolved: no source shows a qualifying in-person Russia–Ukraine session since Geneva on Feb 17–18, 2026; no date or venue is confirmed. (a) About 14 months remain until Dec 31, 2027. (b) Status quo is no talks: Peskov said on Oct 14 that Moscow 'does not expect' trilateral talks for now, and Putin told Trump on Oct 9 an immediate resumption was unlikely; but the long window makes some meeting likely (the no-talks market is about 17%). (c) NO: Oslo and a Witkoff Moscow trip lead to a first session in Istanbul, Geneva, Riyadh, a US G20 side-meeting or a China leaders' format, or escalation freezes talks through 2027. (d) YES: a repeat of January, with a Witkoff–Putin shuttle followed by a US-convened energy-ceasefire trilateral in Abu Dhabi, a venue Moscow, Washington and Kyiv have each named since September, backed by the UAE's live prisoner-exchange channel. I anchor on 44% but shade down: sibling venue markets already sum to about 100% before Saudi Arabia and other Europe, Saudi Arabia and European options are now floated alongside the UAE, and Russia currently refuses to resume. Estimate: P(talks) about 0.82 times P(UAE | talks) about 0.50, giving roughly 0.41.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5164",
+   "has_trace": true
+  }
+ ],
+ "Will the next Fable model (5.2+) debut at a score of at least 1510 by June 30, 2027?": [
+  {
+   "id": 5155,
+   "scanned_at": "2026-10-20T01:36:34.121176",
+   "date": "2026-10-20",
+   "agent": 64.5,
+   "market_price_t0": 72.5,
+   "edge": -0.07999999999999996,
+   "confidence": 0.41000000000000003,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.66, 0.63). (0) Not yet met. No source shows a Fable 5.2+ on the Arena text board. The latest secondary snapshot (Oct 12) lists only Fable 5 at 1506 and Fable 5.1 at 1501, and the resolution page itself was blocked. (a) About 8 months remain until June 30, 2027. Release is near-certain: the related Polymarket market prices release by Dec 31 at 98%, and leaks point to a 'Fable 5.5' launch in late October or November. So the question turns almost entirely on the debut score of the first qualifying Fable. (b) Status quo: if no 5.2+ Fable is listed by the deadline, the market resolves No, but that is unlikely. (c) NO scenario: the next Fable is a modest point release, or text-board gains compress as they have recently. Fable 5 debuted around 1505-1508, Fable 5.1 at 1504 and Opus 5.5 at 1509, all just under 1510. The no-style-control view may also run lower for Claude models, and thin day-one voting could land it at 1500-1509. A naming change, an AutoEval-only listing or a suspension would also resolve No. (d) YES scenario: Fable 5.5 ships as the top tier of the 5.5 wave and is listed within days, as Sonnet 5.5 was. A generational step like Opus 5.5's +18 over Opus 5 would put it at roughly 1515-1525 against a board led by Gemini 4 Argon at about 1525-1532. The market anchor is 72.5% (bid 69 / ask 76), and a sibling snapshot had this strike at 84%. Because the recent Anthropic debut cluster sits right at the threshold and the resolution view is uncertain, I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5155",
+   "has_trace": true
+  }
+ ],
+ "Will Papertrade launch a token by December 31, 2026?": [
+  {
+   "id": 5147,
+   "scanned_at": "2026-10-20T00:07:21.298937",
+   "date": "2026-10-20",
+   "agent": 19,
+   "market_price_t0": 26.5,
+   "edge": -0.07500000000000001,
+   "confidence": 0.61,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.18). (0) The condition is not met yet. PAPER has existed since the Oct 10 launch but can only be staked or unstaked and cannot be transferred. The resolution read of @papertrade_xyz shows a recent post, 'A note on transferability', and Crypto Briefing reported on Oct 19 that PAPER will not support off-contract transfers and that there is no timeline. The Defiant's headline goes further and says the team has 'no current plans' to enable them. The only priced market is Paragon's third-party HIP-3 'pre-launch' perp, which is synthetic, and the rules exclude synthetics.\n\n(a) About 10 weeks remain until 11:59 PM ET on Dec 31, 2026.\n\n(b) If nothing changes, PAPER stays non-transferable and is not 'actively and publicly tradable', so the market resolves No.\n\n(c) NO scenario: the team keeps its solvency and anti-manipulation stance, reinforced by the $1.28M oracle exploit on Oct 10. Transfers stay behind phase four, which itself waits on undated phases two and three. Stakers keep earning USDC with no pressure to list, and the year ends without spot trading.\n\n(d) YES scenario: pressure from mint-rate decay, hedged farmers and PULP/PSTR holders pushes the team to ship transfers or an official wrapped PAPER before year end, and a HyperCore or HyperEVM spot venue lists it. A second route is a lenient resolver counting the perp together with the 'live since Oct 10' framing.\n\nThe market anchor is 26.5%, down from about 91% within 30 days, so traders have already priced the strict reading. I shade slightly below it because the stance was restated only on Oct 19 and nothing in the research points to a reversal. I keep some probability for resolver ambiguity and a fast policy change.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5147",
    "has_trace": true
   }
  ]

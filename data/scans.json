@@ -6171,6 +6171,20 @@
  ],
  "Will the upper bound of the target federal funds rate be ≥ 4.5% at the end of 2026?": [
   {
+   "id": 5269,
+   "scanned_at": "2026-10-21T09:28:33.402201",
+   "date": "2026-10-21",
+   "agent": 12.3,
+   "market_price_t0": 12.3,
+   "edge": -0.0010000000000000009,
+   "confidence": 0.7,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.12). (0) The condition is not met: FRED DFEDTARU and the Fed's Sept 16 note show a 4.00% upper bound as of Oct 20, so YES needs hikes on both Oct 28 and Dec 9, or a rare 50bp December move. (a) About seven weeks and two FOMC meetings remain. (b) Status quo is NO: a hold, or the single December hike expected by the median dot, the Reuters poll and 9 of 10 dealers, leaves the upper bound at 4.00–4.25%. (c) NO path: an October hold, priced at about 83–87%, with midterms on Nov 3 and Waller saying hikes need not be consecutive, then one 25bp December hike; falling oil and weak housing support this. (d) YES path: a Warsh surprise October hike (about 15–20%) after hot CPI and PPI, then a December hike that is very likely conditional on October; a 50bp December move adds a little. Futures-implied odds are about 0.16 × 0.9 + 0.02 ≈ 14–16%, and a secondary CME quote gives 15.2% for +50bp. Against the 12.35% Polymarket anchor, which is falling on de-escalation news, I land at about 12.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5269",
+   "has_trace": true
+  },
+  {
    "id": 4583,
    "scanned_at": "2026-10-13T06:11:50.217548",
    "date": "2026-10-13",
@@ -6892,6 +6906,20 @@
   }
  ],
  "Skin cancer vaccine BLA submitted by June 30, 2027?": [
+  {
+   "id": 5281,
+   "scanned_at": "2026-10-21T13:15:51.402796",
+   "date": "2026-10-21",
+   "agent": 80,
+   "market_price_t0": 84.5,
+   "edge": -0.04499999999999993,
+   "confidence": 0.6,
+   "category": "Health",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.80, 0.80). (0) The condition is not yet met. Merck's newsroom, current to Oct 21, 2026, shows no BLA submission or FDA acceptance for intismeran. The only official language is intent: 'will engage with regulators on filing submissions' (Aug 19) and 'preparing to file' (STAT Summit, Oct 15), and neither counts. (a) About 8.3 months remain until June 30, 2027, roughly 10 months after the Aug 19 positive interim Phase 3 readout. (b) If nothing changes, the market resolves No. Resolving Yes needs an actual submission plus a company or FDA announcement dated by the deadline. (c) No scenario: the ESMO hazard ratios on Oct 24 come in weaker than hoped (near 0.72), or a CBER pre-BLA meeting asks for more mature OS or extra CMC and potency work on the individualized product. The filing then slips into H2 2027, or a late-June submission is disclosed only afterward. (d) Yes scenario: solid ESMO data lead to a pre-BLA meeting in Q4 2026. A rolling or full BLA, which Breakthrough designation allows, follows in Q4 2026–Q1 2027 and is disclosed at Q4 earnings (about Feb 2027) or by FDA acceptance with a PDUFA date. Supporting this path are commercial-scale Marlborough manufacturing, Moderna's habit of announcing each regulatory step, and a long-standing 2027 approval plan. The base rate for large-pharma oncology filings within about 10 months of a positive pivotal readout with Breakthrough designation is high. That is offset by FDA hostility toward mRNA products, interim-only data, CBER lead times, and disclosure-timing risk. The related approval market (52.5% by end-2027) is consistent with a high filing probability. I see no specific unpriced information, so I stay close to the market's 79%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5281",
+   "has_trace": true
+  },
   {
    "id": 4311,
    "scanned_at": "2026-10-09T23:15:02.128383",
@@ -9049,6 +9077,20 @@
  ],
  "Will Putin meet with Zelenskyy by December 31, 2026?": [
   {
+   "id": 5291,
+   "scanned_at": "2026-10-21T16:33:49.310105",
+   "date": "2026-10-21",
+   "agent": 6.8,
+   "market_price_t0": 10,
+   "edge": -0.0325,
+   "confidence": 0.675,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Credible reporting through Oct 21 (Euronews, Axios, CNN, Reuters) shows no Putin–Zelenskyy meeting and none scheduled, so the event is not resolved. They have met only once, in Paris in December 2019. (a) About 10 weeks remain until Dec 31, 2026, 11:59 PM ET. (b) The status quo is No. Putin holds to Moscow-only or 'formalize finished agreements', Ushakov dismissed the new Kyiv and European positions as holding little of value, and Bloomberg's Kremlin sources say Putin will likely skip the Dec 14–15 Miami G20, the only scheduled event where both could be present. (c) No: the delegation-level trilateral talks after Nov 10 stall on Donetsk, a possible Putin–Trump–Xi meeting in Shenzhen excludes Ukraine, Putin skips Miami, and the year ends with no leaders' meeting, matching 4.5 years of precedent. (d) Yes: the Nov 10+ talks plus Trump pressure on Kyiv produce a text quickly, and Putin accepts a G20 or Gulf signing-style trilateral in December where he shakes hands with Zelenskyy. That requires several improbable reversals in weeks. Polymarket sits at 10% after a +5pt jump driven by the Witkoff headlines, and Kalshi's identical market trades around 6–8% bid/ask. Given unchanged Kremlin conditions and the short window, I shade slightly below the Polymarket price to about 6.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5291",
+   "has_trace": true
+  },
+  {
    "id": 2221,
    "scanned_at": "2026-08-30T03:59:48.846076",
    "date": "2026-08-30",
@@ -9246,6 +9288,20 @@
   }
  ],
  "US recession by end of 2026?": [
+  {
+   "id": 5274,
+   "scanned_at": "2026-10-21T10:57:51.803276",
+   "date": "2026-10-21",
+   "agent": 3,
+   "market_price_t0": 7.5,
+   "edge": -0.045,
+   "confidence": 0.8,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.03, 0.03). (0) The condition has not been met and is not yet impossible. FRED's copy of the BEA series shows no negative quarter in the window: Q2 2025 +4.0, Q3 2025 +3.9, Q4 2025 +0.2, Q1 2026 +2.5, Q2 2026 +2.2. NBER's dating page still lists the February/April 2020 dates. Yes therefore needs both the Q3 2026 advance estimate (Oct 29) and the Q4 2026 advance estimate (scheduled Jan 28, 2027) to print below zero, or an NBER announcement before Jan 28. (a) About 3 months remain, with only two GDP prints left that count. (b) If nothing changes, the market resolves No. (c) No path: Q3 prints near the GDPNow estimate of about +3.5%, which closes the double-negative route for practical purposes. NBER's minimum historical announcement lag of 4 months rules out route 2 in time. (d) Yes path: inventories (+1.9pp in the nowcast) and net exports swing hard enough to pull Q3 below zero, roughly a 3.5-point nowcast miss, which would be about a 2–3 sigma error a week before release. Q4 would then also have to contract, driven by falling real wages, Fed hikes, Brent near $110 and an AI-capex pullback. The conditional chance of that second step might be 30–40%. Multiplying these gives roughly 1–2%. The market's 7.5% looks inflated by long-shot bias and a thin tail; Kalshi's comparable 2026 contract traded at 4–5¢ back in August, when Q2 stood at only +1.5%. I shade below the anchor to about 3%, keeping some weight on tail shocks and data surprises.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5274",
+   "has_trace": true
+  },
   {
    "id": 4565,
    "scanned_at": "2026-10-13T02:19:36.483856",
@@ -11980,6 +12036,20 @@
   }
  ],
  "Trump, Putin, and Zelensky seen together before 2027?": [
+  {
+   "id": 5283,
+   "scanned_at": "2026-10-21T14:05:17.422177",
+   "date": "2026-10-21",
+   "agent": 7,
+   "market_price_t0": 9.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) No source shows an authentic same-frame image of Trump, Putin and Zelensky since the market opened. The resolution-source check (Oct 20) and every news report describe only bilateral or envoy-level contacts, so the condition is not met and not yet impossible. (a) About 10 weeks remain, to Dec 31, 2026. (b) If nothing changes, the answer is No: no leaders' trilateral is scheduled, and Russia has so far rejected that format. The leader-level summit now being floated, Trump–Putin–Xi at APEC Shenzhen on Nov 18–19, excludes Zelensky. (c) NO scenario: Putin's Oct 21 'in principle' agreement covers only technical-level talks after Nov 10. Putin skips the Miami G20, as Bloomberg reports he likely will and as Lavrov leading the delegation suggests. The Kremlin keeps its rule of 'Moscow only, after expert work', and Trump–Zelensky friction persists. (d) YES scenario: Putin reverses course and attends the Dec 14–15 Miami G20 that Trump hosts, Zelensky is invited, and a family photo or a Trump-brokered handshake puts all three in one frame. Alternatively, a sudden deal produces a signing summit. The Polymarket anchor is 9.5%, mid of a wide 6/13 spread, after a +5.5pt weekly bump on the Witkoff shuttle news. The Kalshi in-person sibling sits around 11–18% but is thin and noisy. Given 22 months of failed trilateral attempts and every concrete Kremlin signal pointing away from a three-way frame, I shade slightly below the market to about 7%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5283",
+   "has_trace": true
+  },
   {
    "id": 3740,
    "scanned_at": "2026-10-02T11:43:37.367731",
@@ -15237,6 +15307,20 @@
  ],
  "Ukraine signs peace deal with Russia before 2027?": [
   {
+   "id": 5296,
+   "scanned_at": "2026-10-21T18:13:29.672457",
+   "date": "2026-10-21",
+   "agent": 6.8,
+   "market_price_t0": 8.5,
+   "edge": -0.0175,
+   "confidence": 0.7,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) The condition has not been met. Every source dated Oct 4–21, 2026 (Axios, Kyiv Post, CNN, Al Jazeera) confirms that Ukraine and Russia have signed no instrument together. Trump's Oct 11 'energy ceasefire' is issue-specific, appears to be unsigned, and has already broken down, so it would not qualify anyway.\n(a) About 10 weeks remain before the Dec 31, 2026 11:59 PM ET deadline.\n(b) The status quo is NO. Putin has only agreed 'in principle' to resume trilateral technical talks around Nov 10, possibly in Abu Dhabi. Peskov says Russia wants 'peace, not a ceasefire', still demands Donetsk, and questions whether anyone in Kyiv has the legitimacy to sign.\n(c) NO path: the November technical talks drag on over the security framework and territory. The Shenzhen summit either does not happen or excludes Kyiv. The year ends with drafts but no two-party signature, as happened when the June 2026 target and the December 2025 'final stages' claims passed.\n(d) YES path: Witkoff's claimed 'basis' for a ceasefire turns into a US-drafted framework or roadmap after a Trump–Putin meeting on Nov 18–19. Trump then pressures Kyiv to sign quickly, and Zelensky signs before Rada approval. Under the broad 'roadmap' wording, a principles document with Russia as a party would count.\nThe market anchor is 8.5% (bid 8, ask 9). The related 'ceasefire agreement by Dec 31' market at 21.5% has a different resolution standard, so I treat it as context only. Seventeen months of mediation without a signed text, plus Moscow's refusal of interim documents, lead me to shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5296",
+   "has_trace": true
+  },
+  {
    "id": 4342,
    "scanned_at": "2026-10-10T07:10:01.306138",
    "date": "2026-10-10",
@@ -16270,6 +16354,20 @@
   }
  ],
  "Russia-Ukraine peace talks by December 31, 2026?": [
+  {
+   "id": 5288,
+   "scanned_at": "2026-10-21T15:42:08.522308",
+   "date": "2026-10-21",
+   "agent": 72.5,
+   "market_price_t0": 73.5,
+   "edge": -0.010000000000000009,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.72, 0.73). (0) Resolution check: nothing qualifying has happened yet. The last in-person Russia–Ukraine round was Geneva on Feb 17–18, 2026, before this market opened in June. The Kremlin page and Reuters both confirm no meeting since then, so a new round still has to be held. (a) There are about 10 weeks left, until 11:59 PM ET on Dec 31, 2026. (b) If nothing changes, the answer is No. However, on Oct 21 Ushakov said Russia agreed 'in principle' to an expert-level trilateral round in Abu Dhabi in mid-November, after the 10th, with Putin choosing participants. That venue-and-window commitment is more concrete than the earlier September and October 'in principle' statements. (c) NO scenario: Ukrainian refinery strikes and Russian retaliation, which Ushakov has already cited as the reason talks were 'interrupted', or a breakdown over Witkoff's documents and Russia's Donetsk demand cause the November round to slip again. A second slip runs into the holidays, and the status quo holds, as it did after the March and end-of-October targets slipped. (d) YES scenario: Putin approves a GRU-led technical delegation and Kyiv sends Umerov and Budanov, since Ukraine has repeatedly said it is ready and is under heavy US pressure. A US-mediated round happens in Abu Dhabi in mid-to-late November or December. The January precedent shows a round can follow a Putin–Witkoff meeting within days. The market anchor is 74% after a +31.5-point weekly jump. The Nov 30 market is at 66.5% and the broader 'any diplomatic meeting' market at 86%, which is consistent. Given that Kyiv has not confirmed the date and 2026 has a record of rounds slipping, I stay slightly below the market at 72%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5288",
+   "has_trace": true
+  },
   {
    "id": 1545,
    "scanned_at": "2026-08-20T09:25:11.517251",
@@ -18378,7 +18476,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-21T08:33:47.391Z",
+  "last_sync": "2026-10-21T19:17:47.097Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -21459,6 +21557,20 @@
  ],
  "Russia military action against an EU country by December 31, 2026?": [
   {
+   "id": 5278,
+   "scanned_at": "2026-10-21T12:28:45.380429",
+   "date": "2026-10-21",
+   "agent": 8,
+   "market_price_t0": 9.5,
+   "edge": -0.015,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.08). (0) No source shows a qualifying event since the market opened on 2026-09-19. Here is why each incident in the window fails the rules:\n- The Romanian F-16 shoot-downs on Oct 17–18 were intercepted.\n- The ship strikes off Romania and Bulgaria were in excluded maritime waters and are not attributed by NATO or the governments.\n- The Oct 18 Lithuanian drone was Ukrainian.\n- The Gropeni and Plauru finds were unattributed debris from attacks aimed at Ukraine.\n\n(a) About 71 days remain until Dec 31, 2026.\n\n(b) If nothing changes, the market resolves No. Spillover is frequent but structurally fails the rules: interceptions, debris and maritime waters are excluded, and Ukraine-bound munitions count only if a consensus says they were directed at an EU target. Even the May 29 Galați hit was officially framed by Romania as not an attack on Romania.\n\n(c) No scenario: Russian raids on the Danube ports and the Black Sea continue. Drones keep crashing in empty Tulcea fields or get shot down, and Moscow denies intent. NATO responds with surveillance rather than attribution.\n\n(d) Yes scenarios:\n- Black Sea escalation produces a drone strike on a vessel or facility in Romanian internal waters, such as the Sulina channel or the Danube, and Russia claims it as a hit on an Odesa-bound ship. A Russian claim counts under the rules.\n- A Galați-type impact is judged deliberate.\n- A limited deliberate strike on Ukraine-support infrastructure, as Danish intelligence warned of, takes place.\n\nThe market's 9.5% looks roughly fair. I shade slightly lower because there has been no qualifying precedent since 2022, the exclusions are strict, and there is no sign of preparation. I keep material tail risk for the Black Sea escalation, the record incursion tempo and the US intelligence warnings of an autumn limited attack.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5278",
+   "has_trace": true
+  },
+  {
    "id": 4703,
    "scanned_at": "2026-10-14T11:02:32.900935",
    "date": "2026-10-14",
@@ -22457,6 +22569,20 @@
  ],
  "Will Benjamin Netanyahu be the next leader out before 2027?": [
   {
+   "id": 5276,
+   "scanned_at": "2026-10-21T11:42:34.989171",
+   "date": "2026-10-21",
+   "agent": 24.5,
+   "market_price_t0": 30,
+   "edge": -0.05499999999999999,
+   "confidence": 0.5,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.23, 0.26). (0) Not resolved: Netanyahu is sitting PM per Oct 18-20 reporting. Yes requires a successor government sworn in before Dec 31, 11:59 PM ET, with no other listed leader leaving first. (a) About 71 days remain; the election is Oct 27, certification about Nov 4, then up to 7 days to assign the mandate and a 28+14 day formation window. (b) Status quo is No, because a loss leaves him as caretaker, which does not count. (c) No: polls show neither bloc at 61, and the opposition needs Arab support or abstentions it resists. Talks could drag past the first nominee, or a Herzog unity push or deadlock could follow; even the 2022 58-day pace lands around Dec 24. (d) Yes: Eisenkot wins clearly and forms quickly via a Haredi crossover, Netanyahu stepping aside, or Ra'am abstention, with a mid-December swearing-in. The sibling next-PM market puts someone other than Netanyahu at about 72%, but I estimate only about 30-35% for formation before Dec 31. Allowing small odds that another listed leader exits first, I land somewhat below the 30% market, near the rg.org analyst's ~25%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5276",
+   "has_trace": true
+  },
+  {
    "id": 4699,
    "scanned_at": "2026-10-14T09:31:50.459573",
    "date": "2026-10-14",
@@ -22708,6 +22834,20 @@
   }
  ],
  "Will Russia capture all of Bilytske by December 31?": [
+  {
+   "id": 5293,
+   "scanned_at": "2026-10-21T17:22:33.232685",
+   "date": "2026-10-21",
+   "agent": 62.5,
+   "market_price_t0": 72.5,
+   "edge": -0.09999999999999998,
+   "confidence": 0.42,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.62, 0.63) after one crux research pass. (0) No source shows Bilytske fully shaded as Russian-controlled or assessed advance. ISW (Oct 8) calls the Russian presence in SW Bilytske infiltration. Mashovets (~Oct 11) says Ukraine still holds several positions, and the General Staff (Oct 20-21) still lists Bilytske as an attack direction. The live ISW map could not be read. (a) About 10 weeks remain until Dec 31, and shading must persist through the next ISW update. (b) Status quo, a contested and partly infiltrated town, resolves No. The anchor is Polymarket at 72.5%, up 13 points in a week; the Oct 31 version is at 43%. That implies traders watching the map see substantial assessed-advance shading already in this ~2 km² town, and DeepState moved from 'near' to 'in' Bilytske around Oct 12-13. I shade below the market because ISW text emphasizes infiltration, net Russian territorial losses since Sept 1 and Operation Vivaldi, and the strict whole-polygon requirement. (c) NO: Ukrainian drones and counterattacks keep the remaining positions, and ISW keeps parts of the town under infiltration or uncontrolled shading through December while Russia bypasses it. (d) YES: Russia's buildup toward Dobropillia clears the last Ukrainian positions and ISW extends assessed-advance shading over the full town by Nov-Dec.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5293",
+   "has_trace": true
+  },
   {
    "id": 4559,
    "scanned_at": "2026-10-13T00:51:12.725755",
@@ -25441,6 +25581,20 @@
  ],
  "Will Pump.fun reach $0.0090 by December 31, 2026?": [
   {
+   "id": 5286,
+   "scanned_at": "2026-10-21T14:51:12.537010",
+   "date": "2026-10-21",
+   "agent": 11.5,
+   "market_price_t0": 13,
+   "edge": -0.015000000000000013,
+   "confidence": 0.61,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.12). (0) The condition is not met: Binance's own PUMPUSDT klines (data-api mirror) show an in-window high of 0.006806 against a 0.0090 strike, with spot about 0.00485, so roughly +86% is needed, plus a break above Binance's pre-window all-time high of 0.00898. (a) About 71 days remain until Dec 31, 2026, 23:59 ET. (b) Status quo is No: momentum has faded since the Oct 5 high (about 0.0065-0.0068 down to about 0.0045), analyst resistance sits at $0.0055-0.0066, and most outside forecasts are below $0.009. (c) No: the Nov 12 and Dec 12 unlocks repeat the post-unlock drawdowns (Oct 12 was followed by -31% within 7 days), Bonk.fun competition and a weak memecoin sector cap fees, and PUMP chops between $0.004 and $0.0065. (d) Yes: the perps, PreStocks and Kimchi catalysts plus a broad altcoin rally set off a perp-led short squeeze, repeating Sep-Oct's roughly 80%-in-3-weeks move, and one 1-minute wick touches 0.0090. A barrier-touch model at about 110% annualized volatility gives about 20%, cut to about 10-13% for the downtrend, unlock overhang and all-time-high resistance. The sibling strikes ($0.0080 at 17%, $0.0100 at 10%) are consistent, and the market at 13% is close. I shade slightly lower given the unlock schedule and no dated catalyst inside the window.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5286",
+   "has_trace": true
+  },
+  {
    "id": 4183,
    "scanned_at": "2026-10-08T09:40:47.748874",
    "date": "2026-10-08",
@@ -25918,6 +26072,20 @@
   }
  ],
  "Will Helen Zille be the next mayor of Johannesburg?": [
+  {
+   "id": 5272,
+   "scanned_at": "2026-10-21T10:13:21.449514",
+   "date": "2026-10-21",
+   "agent": 45,
+   "market_price_t0": 48.5,
+   "edge": -0.034999999999999976,
+   "confidence": 0.42,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.45, 0.45). (0) Nothing has resolved: the vote is 4 Nov 2026 and the new council must then elect a mayor with 136 of 270 votes, likely after the 17 Nov trading close (2021 precedent: 21 days after the poll), with 'Other' only if unresolved by 30 Jun 2027. (a) The vote is 14 days away and the council vote probably follows within 3-4 weeks. (b) Status quo: no party is near a majority (DA polls 29-42%; one Ipsos poll had the ANC ahead 31-28), and the incumbent ANC-led bloc stays unless Zille assembles 136 votes. (c) NO: the DA finishes first at ~35% but cannot reach 136 with ActionSA (Mashaba hostile and running himself), FF+ and small parties, while the organised ANC/EFF/MK/PA bloc (~49% combined) elects an ANC mayor; Zille's pledge to choose opposition over a large coalition reinforces this, and litigation or deadlock could push resolution to 'Other'. (d) YES: the DA reaches the high 30s to mid 40s on low turnout and gets to 136 with ActionSA, PA defectors, FF+ and small parties on a secret ballot, or national ANC leaders trade Johannesburg in a GNU-style ANC-DA deal (one analyst says ~60%, unconfirmed). The market is at 48.5%, down 16.5 points over 30 days, and sibling candidate markets sum coherently to ~90%; the narrow partner pool, anti-DA bloc and Zille's red lines, against the 13-point MarkData lead, an unnamed ANC candidate and the 2021 precedent, justify shading slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5272",
+   "has_trace": true
+  },
   {
    "id": 4414,
    "scanned_at": "2026-10-11T04:47:43.735784",
@@ -27304,6 +27472,38 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.11, 0.11). (0) Not met: mid-October 2026 reporting shows the Islamic Republic still governing, with Mojtaba Khamenei installed via constitutional succession (excluded by the rules), the chain of command intact, and parliament confirming replacement ministers. (a) About 8.3 months remain to June 30, 2027. (b) Status quo is No: the regime absorbed the January 2026 uprising, the decapitation of Ali Khamenei and eight months of war, and every prior Polymarket deadline contract resolved No, including one at 54% in March. (c) No: limited post-midterm US strikes, worsening economics under the blockade, and IRGC consolidation rather than fracture with a divided opposition; even an IRGC takeover or Mojtaba's death would not count. (d) Yes: renewed post-midterm strikes plus fiscal collapse leave the IRGC unable to pay troops (a US claim only), sparking mass uprising, security-force defections and a provisional government replacing clerical structures. The anchor is 14.5% on $21k volume; the liquid 'before 2027' market at 4.5% implies about 1.9%/month, or roughly 15% over the window. Given the high consensus bar, long-dated Yes bias in thin markets and no visible elite defection, I shade slightly below market.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/5220",
+   "has_trace": true
+  }
+ ],
+ "Will Polymarket mindshare hit 75% by December 31?": [
+  {
+   "id": 5298,
+   "scanned_at": "2026-10-21T18:59:34.192199",
+   "date": "2026-10-21",
+   "agent": 43,
+   "market_price_t0": 44.4,
+   "edge": -0.014000000000000012,
+   "confidence": 0.38,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.43, 0.43). (0) No source shows the condition met. The Kaito page was blocked by Cloudflare. The 75% strike is still trading at about 44¢ and the event is open, so no finalized daily print of 75.00% or higher appears to have occurred since 2026-06-30. Aggregators suggest the original 70% strike settled Yes, though a duplicate thin 70% row muddies this. (a) About 10 weeks remain, to Dec 31, 2026 ET. (b) If nothing changes, this resolves No: the typical level in past readings sits around 47–62%, and 75% needs a spike. (c) No path: post-midterm attention flows to Kalshi, which dominates volume share, the post-Yaps Kaito methodology mutes spikes, and no POLY token or IPO news lands before year-end. (d) Yes path: Nov 3 midterm coverage, or a token/IPO teaser after Coplan's TOKEN2049 hint, produces one day at 75% or higher. Such spikes happened on about 20 days in 2025 and in both prior windows of this market type. The anchor is the market at 44.4%, with a wide 40/49 spread, thin volume and a strong 30-day uptrend. The ladder at 80% (33¢) and 85% (9¢) is consistent with spike-type behaviour. The research turned up no unpriced information strong enough to move far from the market, so I shade slightly below it given status-quo inertia and Kalshi's rising share.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5298",
+   "has_trace": true
+  }
+ ],
+ "Will Russia enter Khatnie by December 31, 2026?": [
+  {
+   "id": 5266,
+   "scanned_at": "2026-10-21T08:45:09.322633",
+   "date": "2026-10-21",
+   "agent": 19.5,
+   "market_price_t0": 26.5,
+   "edge": -0.07,
+   "confidence": 0.5,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.19, 0.20). (0) Resolution check: no source shows ISW shading inside Khatnie. Every ISW text mention of the village, from Dec 2025 through Mar 2026, is 'attacked toward/near Khatnie, did not advance'. No October 2026 ISW report names it. The live map could not be rendered, so current shading is not directly confirmed. (a) About 71 days remain until Dec 31, 2026, and any qualifying shading must also persist through the next ISW update. (b) Status quo favours No. Russia has attacked toward Khatnie for about 12-15 months without ISW recording a gain. ISW reports a front-wide Russian net loss of about 122 km² since Sept 1, no confirmed advances in the Velykyi Burluk direction on Oct 14-20, and Ukrainian counterattacks in the sector. ISW calls Kharkiv a supporting effort, and leaf fall works against infiltration. (c) No path: Russian claims around Nesterne, Rublene and Kolodyazne stay unconfirmed or in the excluded 'claimed' layer, and Ukraine holds the Zarubynka-Khatnie line through year-end. (d) Yes path: Russian forces in the sector build on the ISW-recognised infiltrations at Vilkhuvatka (Oct 2) and Komisarove (Oct 10), a few km away. A geolocated flag-raising or infiltration group at Khatnie's edge then gets shaded as an infiltration area. That is a low bar, which is the main reason Yes keeps real probability. The market sits at 26.5% after a -9 point week, and recent evidence points to a stalled or reversing Russian effort in this sector, so I shade modestly below the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5266",
    "has_trace": true
   }
  ]

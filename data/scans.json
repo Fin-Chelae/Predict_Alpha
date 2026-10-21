@@ -3965,6 +3965,20 @@
  ],
  "Mitch McConnell steps down from Senate before his term ends?": [
   {
+   "id": 5228,
+   "scanned_at": "2026-10-21T00:12:30.439134",
+   "date": "2026-10-21",
+   "agent": 6,
+   "market_price_t0": 7.5,
+   "edge": -0.015,
+   "confidence": 0.71,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) Resolution check: nothing shows the condition met. McConnell's press-release page (latest 10/13/26) and the senate.gov roster still list him as a sitting senator, Ballotpedia's early-departure tracker (Oct 2) does not include him, and his Sept 14 update announced a return, not a resignation. (a) His term ends Jan 3, 2027, about 74 days away. The Senate is in recess until Nov 9, then sits a lame duck of at most five legislative weeks. (b) Status quo is No: he has pledged repeatedly since 2023 to finish his term, including through the June–Sept 2026 92-day absence, and he is back voting. (c) No scenario: he serves out the lame duck, possibly missing votes, and his term simply expires. The GOP has a 53–47 majority and a heavy agenda (NDAA, omnibus, farm bill) and wants his vote. Kentucky's 2024 law bars an appointed replacement, so resigning would only leave the seat empty and gain nothing. (d) Yes scenario: the 84-year-old, who has had recurrent post-polio falls and lost consciousness in June, suffers a fatal or incapacitating event that leads to death or a resignation letter. A smaller path is a voluntary post-election 'handoff' after Barr wins. Death risk over about 2.5 months for a frail 84-year-old is perhaps 2–4%. Voluntary or health-forced resignation adds a couple of points, though his June–Sept precedent shows he stays in office while absent rather than resigning. The market sits at 7.5%. I shade slightly lower because nothing new has surfaced and time is decaying, but I stay near the anchor given his real health fragility.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5228",
+   "has_trace": true
+  },
+  {
    "id": 3918,
    "scanned_at": "2026-10-04T23:17:32.770694",
    "date": "2026-10-04",
@@ -11675,6 +11689,20 @@
  ],
  "Will another country leave OPEC in 2026?": [
   {
+   "id": 5258,
+   "scanned_at": "2026-10-21T06:25:32.413338",
+   "date": "2026-10-21",
+   "agent": 7,
+   "market_price_t0": 7,
+   "edge": 0,
+   "confidence": 0.62,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Not resolved: Wikipedia, OPEC press pages and October 2026 coverage show no member besides the UAE officially announcing withdrawal. A YES would need an official government announcement by 31 Dec 2026, 23:59 GST. (a) About 10 weeks remain, with catalysts at the early-November OPEC+ meeting, the mid-November capacity review delivering 2027 baselines, and the late-November ministerial/JMMC. (b) If nothing changes, the market resolves NO. (c) NO: Venezuela, which is quota-exempt and pays nothing to stay, defers any symbolic exit to 2027 amid chavista resistance, as Kpler ('structurally likely but not now') and the AGBI piece suggest. Meanwhile Iraq uses its threat as leverage and gets an acceptable 2027 baseline or a further delay. (d) YES: Venezuela announces an exit alongside a US oil-stake or lease deal, or Iraq, whose exports are back near 3.4m bpd so the quota now binds, walks out after an unfavourable November baseline in the manner of Angola's 2023 exit. The market sits at 7% (bid 6, ask 8), down from 39.5%, reflecting decay since the August Bloomberg leak with no official follow-up. The research surfaces nothing the market hasn't priced. The base rate of roughly one exit per 3 years implies about 6% for a 10-week window, slightly raised by two live candidates and the baseline fight, so I stay at the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5258",
+   "has_trace": true
+  },
+  {
    "id": 4446,
    "scanned_at": "2026-10-11T14:59:25.298880",
    "date": "2026-10-11",
@@ -12530,6 +12558,20 @@
   }
  ],
  "UNSC Resolution Endorsing Final U.S.-Iran Deal by December 31?": [
+  {
+   "id": 5261,
+   "scanned_at": "2026-10-21T07:11:35.540405",
+   "date": "2026-10-21",
+   "agent": 7,
+   "market_price_t0": 10,
+   "edge": -0.03,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Nothing in the research shows the condition met. No final U.S.-Iran deal exists, no UNSC draft has been circulated, and the June MoU's 60-day window lapsed on Aug 17 with no extension. (a) About 10 weeks remain until the Dec 31, 2026 deadline. In that time a comprehensive final deal would have to be negotiated and signed, and then a Council text drafted and adopted. (b) If nothing changes, the answer is No: talks are stalled, the U.S. blockade and Hormuz closure continue, and Iran has added preconditions and hardened on enrichment and the stockpile. (c) The likeliest No path is that Iran waits out the Nov 3 midterms and renewed US-Israeli strikes follow, or that the reported Qatar-Pakistan package turns out to be a narrow interim step and final-deal talks never seriously start before year-end. (d) The Yes path is that the Qatar-Pakistan package is confirmed, the strait reopens and the blockade lifts, and a thin final deal is signed in Nov-Dec. Russia and China have already signalled a constructive stance, and in 2015 Resolution 2231 followed the deal within six days, so adoption could then come within days. I anchor on the market's 10%. The related market for a final deal by Dec 31 trades at 14.5%, and multiplying it by a roughly 60-70% chance the Council acts in time gives about 9-10%. The research shows a deal-first sequence that has not even reached the final-deal stage, and Iran has denied the breakthrough reports, so I shade slightly below the market to 7%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5261",
+   "has_trace": true
+  },
   {
    "id": 1988,
    "scanned_at": "2026-08-26T11:01:32.229379",
@@ -14160,6 +14202,20 @@
   }
  ],
  "Will Ukraine agree to cede territory to Russia before 2027?": [
+  {
+   "id": 5217,
+   "scanned_at": "2026-10-20T19:48:38.332729",
+   "date": "2026-10-20",
+   "agent": 6,
+   "market_price_t0": 7.5,
+   "edge": -0.015,
+   "confidence": 0.71,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) No source shows the condition met. As of 20 Oct 2026, CNN, the NYT via RBC-Ukraine and other outlets all report an impasse and no agreement. Kyiv publicly refuses to withdraw from Donbas, and Russia demands all of it. (a) About 10 weeks remain, until 31 Dec 2026. (b) Status quo is No. The only plan actively moving, a US–Europe freeze along the current line of contact, would cede nothing Ukraine holds. Russia rejects that freeze, Lavrov says Moscow will make no concessions, and Rubio said on 8 Oct there are \"no prospects\" for a negotiated settlement. (c) NO path: Witkoff's Moscow and St. Petersburg trip yields nothing new. Putin keeps fighting for the remaining 11% of Donetsk, Zelensky holds his red line (61% of Ukrainians oppose a Donbas withdrawal in the KIIS poll), and the year ends with no signed deal, as every earlier deadline has. (d) YES path: US pressure (aid throttling, the midterms, economic incentives) and eroding Ukrainian supplies push Zelensky into a leaders' deal in Nov–Dec. It would bundle a ceasefire with a demilitarised or Russian-controlled zone in Donetsk and a referendum clause, which counts under the de facto control clause even if implementation comes later. The market sits at 7.5% and is up 2 points over the week on Oslo momentum. The sibling ceasefire-by-Dec-31 market is 17.5%, but most ceasefire paths would be freezes that do not count here. I shade slightly below the market because Russia's demand for full withdrawal first and Ukraine's referendum and martial-law constraints make a signed concession within 10 weeks very unlikely.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5217",
+   "has_trace": true
+  },
   {
    "id": 3794,
    "scanned_at": "2026-10-03T07:11:41.609223",
@@ -16999,6 +17055,20 @@
  ],
  "Edi Rama out as Albania PM in 2026?": [
   {
+   "id": 5248,
+   "scanned_at": "2026-10-21T04:10:21.478703",
+   "date": "2026-10-21",
+   "agent": 13,
+   "market_price_t0": 16,
+   "edge": -0.03,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.13). (0) The condition is not met. Wikipedia and credible reporting from 18–20 Oct 2026 (Reuters, Al Jazeera, BIRN) show Rama still PM, with no resignation or removal announced. (a) About 10 weeks remain, to 31 Dec 2026. (b) If nothing changes, Rama stays in office: he holds 82 of 140 seats, has refused to resign on 15, 18 and 20 Oct, and is escalating rather than conceding. He survived larger Flamingo crowds in June–July 2026, the DP campaign of 2025–26, and the 2017 and 2018–19 episodes by sacrificing ministers rather than himself. (c) NO path: the student movement, which is leaderless and refuses to work with the DP, fades through fatigue and policing. The Socialists stay united, with only one MP (Koçeku) having defected, and Rama rides it out as before. (d) YES path: a shock such as a protester death or a proven Socialist Party link to the HQ violence pushes the Socialist leadership or EU/US actors to treat Rama as the obstacle. He then announces his resignation or a handover to another Socialist, which is constitutionally easy under Art. 96 and resolves YES immediately. This wave is the most violent so far, with the Supreme Court building burned, around 300 injured and protests spreading to other cities. Academics are now joining, so the tail risk is real. The market sits at 16% (bid 15 / ask 17). I shade slightly below it because the status quo and Rama's track record point strongly to survival, and no elite or parliamentary break has been reported.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5248",
+   "has_trace": true
+  },
+  {
    "id": 4630,
    "scanned_at": "2026-10-13T21:35:28.379534",
    "date": "2026-10-13",
@@ -18308,7 +18378,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-20T19:16:27.677Z",
+  "last_sync": "2026-10-21T08:33:47.391Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -18640,6 +18710,20 @@
   }
  ],
  "Will BULK launch a token by December 31, 2026?": [
+  {
+   "id": 5255,
+   "scanned_at": "2026-10-21T05:40:52.700614",
+   "date": "2026-10-21",
+   "agent": 10,
+   "market_price_t0": 15.5,
+   "edge": -0.05499999999999999,
+   "confidence": 0.6,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.10). (0) The condition is not met. BULK's X feed (@bulktrade), read on about Oct 20–21, shows no TGE, ticker or token contract. Its latest posts cover AURA referrals, Challenger Series rewards and perp listings, and secondary guides say the TGE date and conversion rate are unpublished. (a) About 10 weeks remain until 11:59 PM ET on Dec 31, 2026, and the token must be actively and publicly tradable, not just announced. (b) Status quo is NO: mainnet is only about 7 weeks old and still invite-only. AURA is being issued as an open-ended points currency, and the Challenger Series regular season runs to Dec 5 with playoffs after that. The co-founder's June remark that TGE is 'at least two quarters of traction away' points to around Q1 2027. (c) NO: the team finishes the season and playoffs, announces snapshot and tokenomics in early 2027, and TGE slips into H1 2027, as is common for comparable perp DEXs. (d) YES: right after Dec 5 the team announces a snapshot and conversion rate and launches the token with a DEX pool or CEX listing in mid-to-late December, consistent with its short-notice shipping style. The market sits at 15.5% after a +10pt move in 7 days that no research source explains, and that may reflect thin-market noise or unseen chatter. Given the absence of any prerequisites (tokenomics page, conversion formula, open access) and the season schedule, I shade below the market to about 10%, keeping some weight on the unexplained recent price move.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5255",
+   "has_trace": true
+  },
   {
    "id": 2663,
    "scanned_at": "2026-09-06T02:35:49.969102",
@@ -21961,6 +22045,20 @@
  ],
  "Will Russia capture Dobropillia by December 31, 2026?": [
   {
+   "id": 5252,
+   "scanned_at": "2026-10-21T04:56:36.513704",
+   "date": "2026-10-21",
+   "agent": 13,
+   "market_price_t0": 20,
+   "edge": -0.07,
+   "confidence": 0.56,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.13). (0) Not met. ISW's Oct 17–18 assessments, mirrored on criticalthreats.org, credit only a Russian infiltration and flag-raising in southeastern Dobropillia, which is a non-qualifying layer, and say ISW has seen no evidence of consolidation. DeepState and Ukrainian officials (Budanov on Oct 20) say the city is Ukrainian-held. I could not read the live ArcGIS map directly. (a) About 10 weeks remain until Dec 31, 2026. (b) Status quo is No: ISW's nearest assessed Russian-controlled terrain was about 10.2 km from the southeastern outskirts on Sept 24, and recent reports show net Ukrainian gains in the sector, including Operation Vivaldi breaking the northern pincer. (c) No scenario: drone kill zones and the New Donbas Line hold. Russia gains a few km south and southwest but stays at roughly the 2026 rate of 50–90 m/day. ISW keeps in-city activity in the infiltration layer, and leaf fall in December further favours the defenders. (d) Yes scenario: the reinforcements (41st CAA, 90th Tank Division) cut the Bilozerske supply route by drone, Pokrovsk-style. ISW then accepts geolocated consolidation and shades Assessed Advances across the central intersection, and the shading survives one update cycle. A settlement handing over actual control is possible but unlikely in this window. The market sits at 20%. Given the 10 km gap, the slow-pace analogues (Kostiantynivka took 8+ months from first infiltration and is still not assessed taken), ISW's conservatism and recent Ukrainian gains, I shade below it to about 13%. I keep meaningful tail risk because infiltrators are already inside the city and the Russian forces are fresh.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5252",
+   "has_trace": true
+  },
+  {
    "id": 4526,
    "scanned_at": "2026-10-12T14:51:11.058124",
    "date": "2026-10-12",
@@ -22093,6 +22191,20 @@
  ],
  "Will the Democrats win the Georgia governor race in 2026?": [
   {
+   "id": 5241,
+   "scanned_at": "2026-10-21T02:34:27.429691",
+   "date": "2026-10-21",
+   "agent": 50.5,
+   "market_price_t0": 52,
+   "edge": -0.015000000000000013,
+   "confidence": 0.55,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.50, 0.51). (0) Nothing is resolved. The election is Nov 3, and AP, Fox and NBC cannot call it before then. If neither nominee reaches 50% with Libertarian Oliver on the ballot, a Dec 1 runoff would push resolution to the runoff call or certification. (a) Election Day is about 13 days away; early voting runs through Oct 30. (b) Status quo is a statistical tie with Jackson slightly ahead: AJC/UGA has 46-45, the 270toWin average 48.2-46.6, FiftyPlusOne Jackson +1.4, and Pollsmax Jackson +0.2. Every poll in the latest window shows Jackson narrowly ahead, so an unchanged race leans NO. (c) NO: Jackson's stable small lead holds. His spending edge, Kemp's backing and senior turnout keep enough Kemp/Ossoff split-ticket voters, and Bottoms runs about 8 points behind Ossoff, as in Quantus. (d) YES: the Democratic-leaning midterm environment carries her. Evidence includes Trump at 41% approval in Georgia, Ossoff up about 7, Polymarket pricing Democratic Senate control at 64.5%, a 68-48 enthusiasm gap and a strong Black early-vote share. With that, Bottoms consolidates Black voters, wins undecided independents, or wins a runoff. The Polymarket anchor is 52%, Kalshi is about 50/50, the DDHQ forecast reportedly gives Bottoms 57%, and Silver rates it Lean D, while the polls lean Jackson. These roughly offset, so I shade slightly below the market to 50%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5241",
+   "has_trace": true
+  },
+  {
    "id": 4632,
    "scanned_at": "2026-10-13T22:25:20.275259",
    "date": "2026-10-13",
@@ -22136,6 +22248,20 @@
   }
  ],
  "Bank of England increases interest rates by 25 bps after November 2026 meeting?": [
+  {
+   "id": 5237,
+   "scanned_at": "2026-10-21T01:48:14.611770",
+   "date": "2026-10-21",
+   "agent": 91,
+   "market_price_t0": 93,
+   "edge": -0.020000000000000018,
+   "confidence": 0.61,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.91, 0.91). (0) Not yet resolved. The BoE Bank Rate page (updated 12 Oct) shows 3.75% with the next decision due 5 Nov 2026, so the MPC still has to vote for a hike to 4.00% at that meeting. (a) About 15 days remain. Before the decision come the September CPI print (21 Oct, result not found), retail sales (23 Oct), the Budget (28 Oct) and the Decision Maker Panel survey (30 Oct). (b) The status quo is a hold, but the trajectory points to a hike. Greene, Mann and Pill already voted 25bp in July and September, and Bailey, Breeden, Lombardelli and Ramsden set out conditions for tightening. Only two of those four need to switch to make a 5–4 majority. (c) NO path: a soft CPI print, a US–Iran de-escalation that drops Brent, or a Budget-driven gilt scare. Any of these could let the conditional hawks wait, especially after Bailey's 16 Oct remark that second-round effects are 'quite subdued'. (d) YES path: CPI near the 3.4% consensus combined with the hawkish 20 Oct labour data (unemployment 4.7% against a 5.0% BoE projection) carries two or more swing voters over. That matches the Reuters poll (54 of 63 economists), swaps pricing of about 90–95%, and the Polymarket anchor of 93%. Sibling markets put 'no change' at about 6.7% and other buckets near zero, which is consistent. I shade slightly below the anchor because the CPI result is unknown, two event risks remain, and this pricing swung from about 65–75% only a month ago.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5237",
+   "has_trace": true
+  },
   {
    "id": 4269,
    "scanned_at": "2026-10-09T09:38:06.191645",
@@ -23302,6 +23428,20 @@
   }
  ],
  "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?": [
+  {
+   "id": 5263,
+   "scanned_at": "2026-10-21T07:58:31.193937",
+   "date": "2026-10-21",
+   "agent": 38.5,
+   "market_price_t0": 36.5,
+   "edge": 0.020000000000000018,
+   "confidence": 0.51,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.39, 0.38). (0) The condition is not met and cannot be yet. FRED DFEDTARU and openmarket.htm show the upper bound at 4.00% since the September 16 hike. The January 26–27, 2027 decision is about 3 months away, and the October 28 and December 9 meetings come first. (a) About 98 days remain until the January 27 statement. (b) Status quo is a January hold. The modal consensus path is an October hold, a December hike that 100 of 100 Reuters economists expect, then a pause, matching the dot-plot median (4.1% end-2026 and end-2027), Williams' 'no 2027 hike' view, and the ~60% of economists seeing a 4.00–4.25 peak. (c) NO: the Fed hikes in December, then energy-driven headline inflation fades (core CPI 2.6% y/y, underlying trend ~2.3%) and oil eases if the Iran conflict calms. The Fed waits for data with no SEP at January and holds. A 50 bp move would also resolve NO, though that path is tiny. (d) YES: oil stays near $100, core keeps beating consensus, and Warsh plus the hawks (Hammack, Logan, Kashkari) treat December as a step and hike again in January. A second route is December slipping, for example after weak payrolls, so the 'one more hike' lands in January instead. The anchor is Polymarket at 36.5%, with Kalshi at ~39–40% on the same event and futures-implied at ~44.6%. Recent drift has been upward (+5 points over 30 days), and the hawkish tail in the Reuters poll is growing. Weighing these independent crowds, I shade slightly above Polymarket to ~39%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5263",
+   "has_trace": true
+  },
   {
    "id": 4603,
    "scanned_at": "2026-10-13T12:36:23.784907",
@@ -26091,6 +26231,20 @@
  ],
  "Will there be 20 to 34 West Nile neuroinvasive disease cases among NYC residents in 2026?": [
   {
+   "id": 5224,
+   "scanned_at": "2026-10-20T22:48:07.334823",
+   "date": "2026-10-20",
+   "agent": 79.5,
+   "market_price_t0": 84,
+   "edge": -0.045499999999999985,
+   "confidence": 0.6,
+   "category": "Health",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.79, 0.80). (0) The resolution-source page (NYC DOHMH, fetched Oct 20) shows 31 West Nile neuroinvasive cases for 2026, inside 20-34 but not final; Yes requires the count to stay at or below 34 through the Jan 1, 2027 snapshot and any revision window. (a) About 10 weeks remain until the Jan 1 starting figure, with revisions possible into mid-January or until Mar 31, 2027 at the latest. (b) Status quo: the page stays at 31 and Yes wins; the market prices this at 84.1%, with the 35-49 bucket at 12.5%. (c) No: lagged lab confirmations of late-Sept/Oct onsets plus reclassifications add 4+ cases. The count rose about 7 from mid-September to now (roughly 1.5-2 per week), and 2022, the closest heavy-mosquito analogue, finished at 36. (d) Yes: mosquito pool positivity has flattened (+37 in a month), so transmission is over and the pace of new cases is decelerating. The 2025 final matched its in-season figure, so 0-3 late additions leave the count at 31-34. Key uncertainty is that the page carries no update date, so a backlog could be pending; there is also a small risk the resolver uses the total-cases figure (37). I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5224",
+   "has_trace": true
+  },
+  {
    "id": 4580,
    "scanned_at": "2026-10-13T05:24:10.270821",
    "date": "2026-10-13",
@@ -26313,6 +26467,20 @@
  ],
  "Will the Democratic Party win the MT-01 House seat?": [
   {
+   "id": 5245,
+   "scanned_at": "2026-10-21T03:20:54.115938",
+   "date": "2026-10-21",
+   "agent": 41,
+   "market_price_t0": 38.5,
+   "edge": 0.024999999999999967,
+   "confidence": 0.5,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.41, 0.41). (0) The race is not resolved. The election is Nov 3, and neither the FEC nor any media call shows a result, so Forstag still has to win a plurality on election day. (a) There are about 13 days until the election, and the call could come on election night or within days. (b) The status quo is the structural Republican lean: R+5 PVI, Trump +12 in 2024, Zinke +7.7, and no Montana Democrat elected to the House since the 1990s. The model consensus still favors Flint, with DDHQ at 68% and PoliAgg at 74%. (c) NO: GOP outside spending and the 'socialist/lobbyist' attacks define Forstag, older midterm voters turn out, and undecideds and Libertarian leaners come home to Flint. He wins by 3-5 points, in line with the DDHQ R+4 projection. (d) YES: the D+8 generic-ballot environment drives about a 10-point swing from 2024, and Forstag's personal overperformance (about 9 points over a generic Democrat) holds. Flint's weak favorability (31/32) and the Libertarian's 4-5% draw let Forstag win a plurality, consistent with Silver Bulletin and Poliwave calling it a coin flip. I anchor on Polymarket at 37.5%, which has risen 6 points in a week. I nudge slightly upward because the October rating shifts are recent (Cook and Fox to Toss-up, Inside Elections to Tilt R citing private surveys showing Forstag ahead), and a uniform national swing on a 91.5% Democratic House environment makes the seat genuinely competitive. I stay below 50% because every public poll is from September, most are Democratic-sponsored, and the two nonpartisan polls have Flint narrowly ahead.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5245",
+   "has_trace": true
+  },
+  {
    "id": 4649,
    "scanned_at": "2026-10-14T03:04:03.711081",
    "date": "2026-10-14",
@@ -26376,6 +26544,20 @@
   }
  ],
  "No change in Reserve Bank of Australia's interest rates at the November 2026 meeting?": [
+  {
+   "id": 5233,
+   "scanned_at": "2026-10-21T00:59:31.267871",
+   "date": "2026-10-21",
+   "agent": 65,
+   "market_price_t0": 72.5,
+   "edge": -0.07499999999999996,
+   "confidence": 0.5,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.64, 0.66). (0) Not resolved. The RBA's latest decision is the 29 Sep hike to 4.60%, and the November decision is due at 2:30pm AEDT on 3 Nov. The resolution source shows no November statement yet. (a) That is about 13 days away, with the Q3 CPI on 28 Oct as the decisive data point before the meeting. (b) The status quo is a hold at 4.60%. Hold is the modal outcome in futures, in the CBA/NAB/Goldman/BofA forecasts, and in Polymarket's 72.5% anchor. (c) NO path: the Q3 trimmed mean prints at 0.95–1.0% q/q or higher, as Hauser hinted when he said it would run above the RBA forecast. With inflation expectations at 5.3% and Brent near $108, the Board then hikes 25bp to 4.85%, as ANZ and Westpac forecast. (d) YES path: the trimmed mean comes in near 0.8–0.9%, matching the soft August monthly reading. Weak September jobs (-39k, 4.7% unemployment) and Kent's 'somewhat restrictive' view would then let the Board wait for four hikes to transmit. I anchor on 72.5% but shade down. The most recent dated pricing (Reuters, 21 Oct) puts hike odds at about 40%, a 60% hold. Hauser's unusual pre-signal of an upside trimmed-mean miss came after much of the hold-leaning pricing the Polymarket price may reflect. The binary CPI outcome keeps uncertainty high.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5233",
+   "has_trace": true
+  },
   {
    "id": 4634,
    "scanned_at": "2026-10-13T23:14:15.903633",
@@ -27074,6 +27256,54 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.45, 0.41) after one crux research pass. (0) Not resolved. PAPER exists but is non-transferable with no spot market, and the team said on Oct 19 it has no current plans for transfers. The third-party synthetic perps were halted and settled at $0.026296. Under 'actively and publicly tradable', with synthetic tokens excluded, no launch has occurred, and the 'launch by Dec 31, 2026' sibling at 6% with volume suggests the crowd agrees the Oct 10 mint doesn't count. (a) About 14 months remain, to Dec 31, 2027. (b) The status quo of staking-only PAPER resolves No. (c) No: the structural attack risk stays unsolved, transfers stay frozen or the protocol declines, and no tradable official token appears by end-2027. (d) Yes: fee and mint-curve fixes plus a larger pool let the team reverse its 'at this juncture' stance or issue a tradable wrapper in 2027. With about 8.5B+ supply, FDV only needs a price above about $0.003, versus the $0.012–0.035 perp range, so Yes is roughly 85–90% conditional on a launch. The market anchor is 52%. The launch-by siblings (June 2027 at about 26%, Sept 2027 at about 34%) imply roughly a 40–50% launch probability, plus a small resolution-ambiguity tail, so I shade slightly below the market to 0.45.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/5183",
+   "has_trace": true
+  }
+ ],
+ "Will the US economy be in a soft landing at the end of 2026?": [
+  {
+   "id": 5226,
+   "scanned_at": "2026-10-20T23:29:48.415669",
+   "date": "2026-10-20",
+   "agent": 19,
+   "market_price_t0": 23.5,
+   "edge": -0.044999999999999984,
+   "confidence": 0.6,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.18, 0.20). (0) Not met: BLS shows unemployment at 4.2% (Sep) and CPI-U at 3.7% y/y unadjusted (Sep), which is the Overheating bucket. The jobs leg is near-certain to hold, so Yes needs December CPI y/y to round to 3.4% or lower, an index of about 335.2 or below versus 336.94 in September, a fall of roughly 0.5%. (a) About ten weeks of price data remain; December CPI is due around Jan 13, 2027, before the Jan 31 cutoff. (b) Status quo is No: core runs at about a 3.7% annualized pace, Q4 seasonality is only flat to -0.3%, oil is near $109 and gasoline about $4.28, so December likely prints 3.6-3.9%. Kalshi centred December near 3.6% even before the September print, and the Fed is hiking. (c) No: Hormuz disruption persists, gasoline stays above $4, diesel pass-through continues; a shutdown delay would also favour No via the earlier-month fallback. (d) Yes: a Hormuz deal soon crashes Brent toward $70, as in June when y/y fell 0.7 points in a month, and gasoline falls toward $3.50-3.80 by December. With deal talk live but denied as of Oct 20, I shade slightly below the 23.5% market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5226",
+   "has_trace": true
+  }
+ ],
+ "Will the Fed Hike–Pause–Pause in the next three decisions (Sep–Oct–Dec)?": [
+  {
+   "id": 5222,
+   "scanned_at": "2026-10-20T21:51:14.056243",
+   "date": "2026-10-20",
+   "agent": 12.5,
+   "market_price_t0": 19,
+   "edge": -0.065,
+   "confidence": 0.61,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.12). (0) The first leg is confirmed: the Fed's Sept 16 statement and FRED DFEDTARU show a 25bp hike to an upper bound of 4.00%. The October and December decisions are still pending, so nothing is resolved yet. (a) There are about seven weeks left. The Oct 27–28 decision comes in eight days and the Dec 8–9 decision in about seven weeks. (b) With no change in today's trajectory, the consensus path is an October hold followed by a December hike, which resolves 'Other'/No. CME FedWatch is quoted at roughly 89–94% for a hike by Dec 9. Central Bank Watch shows about 10% unchanged by Dec 9. In a Reuters poll, 100 of 100 economists expect a December hike, and Goldman, JPMorgan, Citi and Nomura all call for it. (c) NO: the Fed holds in October, then October CPI stays hot and Brent stays near $110, and the Fed hikes on Dec 9. Alternatively, a surprise October hike (~15%) or a cut after a labour collapse also kills Yes. (d) YES: the Fed holds in October as expected, then a durable US-Iran deal sinks oil and November's CPI and jobs reports come in soft enough for a Warsh-led committee to wait without cutting. The Polymarket anchor is 19%, and prediction venues price a December hold at about 18–22%. Futures-implied 'unchanged by Dec 9', which is exactly Pause-Pause, sits at only 6–12%. Futures and the unanimous economist view point lower than the Polymarket price, so I shade below the market to about 13%, while still allowing for the volatile repricing seen in recent weeks.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5222",
+   "has_trace": true
+  }
+ ],
+ "Will the Iranian regime fall by June 30, 2027?": [
+  {
+   "id": 5220,
+   "scanned_at": "2026-10-20T20:47:14.057603",
+   "date": "2026-10-20",
+   "agent": 11,
+   "market_price_t0": 14.5,
+   "edge": -0.03499999999999999,
+   "confidence": 0.575,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.11). (0) Not met: mid-October 2026 reporting shows the Islamic Republic still governing, with Mojtaba Khamenei installed via constitutional succession (excluded by the rules), the chain of command intact, and parliament confirming replacement ministers. (a) About 8.3 months remain to June 30, 2027. (b) Status quo is No: the regime absorbed the January 2026 uprising, the decapitation of Ali Khamenei and eight months of war, and every prior Polymarket deadline contract resolved No, including one at 54% in March. (c) No: limited post-midterm US strikes, worsening economics under the blockade, and IRGC consolidation rather than fracture with a divided opposition; even an IRGC takeover or Mojtaba's death would not count. (d) Yes: renewed post-midterm strikes plus fiscal collapse leave the IRGC unable to pay troops (a US claim only), sparking mass uprising, security-force defections and a provisional government replacing clerical structures. The anchor is 14.5% on $21k volume; the liquid 'before 2027' market at 4.5% implies about 1.9%/month, or roughly 15% over the window. Given the high consensus bar, long-dated Yes bias in thin markets and no visible elite defection, I shade slightly below market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5220",
    "has_trace": true
   }
  ]

@@ -10677,6 +10677,20 @@
  ],
  "Will the National Regeneration Movement (Morena) win the most seats in the 2027 Mexico legislative election?": [
   {
+   "id": 5305,
+   "scanned_at": "2026-10-21T21:32:44.763962",
+   "date": "2026-10-21",
+   "agent": 92.5,
+   "market_price_t0": 86.7,
+   "edge": 0.058499999999999996,
+   "confidence": 0.72,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.93, 0.92). (0) Not resolved: INE.mx shows only a countdown to the 6 June 2027 vote; seat assignment is scheduled for 1–23 Aug 2027, well before the 31 Mar 2028 'Other' cutoff. (a) About 7.5 months to election day. (b) Status quo: Morena leads every 2026 poll by 18+ points (El Financiero 46 vs PAN 8; Buendía & Márquez 48% of decided voters; Mitofsky 33.4 vs 14.8, the narrowest), and it was the largest party in 2018, 2021 and 2024, including 2021 against a united opposition. (c) NO needs a 15+ point Morena collapse plus opposition consolidation behind one party, or massive district concessions to PVEM/PT; the latter is implausible given 2024's 236 vs 77, and a litigation-driven 'Other' is a tiny tail. (d) YES is the base case: the opposition stays fragmented, the Morena–PVEM–PT coalition is registered, and Morena wins 200+ seats alone. The market anchor of 86.65% appears to embed capital lock-up and long-horizon discount; the evidence supports modestly higher, with about 7% left for unknown shocks.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5305",
+   "has_trace": true
+  },
+  {
    "id": 2122,
    "scanned_at": "2026-08-28T22:34:22.255249",
    "date": "2026-08-28",
@@ -12762,6 +12776,20 @@
   }
  ],
  "Cuban regime falls in 2026?": [
+  {
+   "id": 5316,
+   "scanned_at": "2026-10-22T00:10:51.372786",
+   "date": "2026-10-22",
+   "agent": 5.8,
+   "market_price_t0": 11,
+   "edge": -0.0525,
+   "confidence": 0.72,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.07). (0) The resolving condition is not met. Credible reporting dated Oct 21, 2026 (Granma, Rio Times, Al Jazeera) shows Díaz-Canel still acting as PCC First Secretary and President. The Party, FAR and Interior ministry appeared together publicly on Oct 17, and no defections or transition deal have been reported.\n(a) About 10 weeks remain, until Dec 31, 2026.\n(b) The status quo is continued PCC rule under severe economic strain, which resolves No. Cubalex counts show street protests fell 63% in September, which suggests repression is holding.\n(c) No: the US keeps squeezing with the oil blockade, sanctions and the Castro indictments, and the talks stay stalled. The reported 90–120 day Army readiness window points to late December through January. Even a strike or a Venezuela-style leadership swap would leave the PCC administering the island, and the rules explicitly count that as No.\n(d) Yes: a US military campaign or coercive ultimatum in November–December fractures FAR/GAESA cohesion. A non-PCC transitional authority would then have to take over most of the population before year-end. CSIS judges this unlikely because the Party is highly institutionalized and would likely respond with a hardline rally.\nThe market anchor is 10.5% (bid 9%, ask 12%). Sibling markets matter here: Díaz-Canel out by Dec 31 is at 7%, US strike at 8.5% and invasion at 5%. Regime fall would almost certainly also remove Díaz-Canel, so it should price at or below 7%. That implies the 10.5% includes longshot premium, so I shade to about 5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5316",
+   "has_trace": true
+  },
   {
    "id": 4388,
    "scanned_at": "2026-10-10T22:30:53.900537",
@@ -16025,6 +16053,20 @@
  ],
  "Zelenskyy out as Ukraine president by end of 2026?": [
   {
+   "id": 5339,
+   "scanned_at": "2026-10-22T06:12:36.765820",
+   "date": "2026-10-22",
+   "agent": 6,
+   "market_price_t0": 7.5,
+   "edge": -0.015,
+   "confidence": 0.7,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) The condition has not been met and is not yet impossible. NBC and ABC on Oct 20–21 still call him President, he is meeting US envoys in Oslo, and no resignation or removal has been announced. (a) About 10 weeks remain until the Dec 31, 2026 ET deadline. (b) The status quo is NO. Martial law keeps him in office until a successor is sworn in, extensions have passed by 313+ votes, and even if martial law ended now an election would fall in 2027 under the 90-day rule. (c) NO scenario: the Rada renews martial law before Oct 31, the trilateral talks after Nov 10 stall as past rounds did, and Zelensky stays defiant through year-end. This is the most likely path. (d) YES scenario: a US-forced framework in November or December includes a resignation, or Zelensky announces he is stepping aside. Other routes are a sudden domestic crisis if the KIIS rally effect fades (trust was 43% before the rally), or death or incapacity from a Russian plot. Trump's 'time for a new president' remark and the US leverage over intelligence and Patriots make the tail somewhat fatter than usual. Note that an election being called would not by itself resolve YES; only a resignation or removal announcement does. The market sits at 7.5% and related markets put a Ukraine election being called at about 9%. Since he has publicly refused to resign and Russia rejected the ceasefire-for-elections offer, I shade slightly below the market to 6%, allowing for the usual long-shot premium.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5339",
+   "has_trace": true
+  },
+  {
    "id": 4336,
    "scanned_at": "2026-10-10T05:35:41.589107",
    "date": "2026-10-10",
@@ -18476,7 +18518,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-21T19:17:47.097Z",
+  "last_sync": "2026-10-22T08:36:00.432Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -18638,6 +18680,20 @@
   }
  ],
  "Andrew Tate released from custody by December 31, 2026?": [
+  {
+   "id": 5334,
+   "scanned_at": "2026-10-22T04:46:01.001315",
+   "date": "2026-10-22",
+   "agent": 10,
+   "market_price_t0": 12,
+   "edge": -0.01999999999999999,
+   "confidence": 0.61,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.10). (0) Not resolved. Consistent reporting through Oct 20–21, 2026 has Tate still held at FDC Miami after Magistrate Judge Louis denied bail on Sept 9, finding the brothers \"quintessential flight risks.\" No release has been reported. (a) About 10 weeks remain until Dec 31, 2026. (b) If nothing changes, he stays detained and the market resolves No. Surrender to the UK would also count as No, and post-certification steps (habeas, Secretary of State decision) normally run for months. (c) No scenario: Judge Damian denies the Oct 7 habeas bond petition under binding Eleventh Circuit \"special circumstances\" precedent. The Nov 19 hearing then ends in certification, or slips, and he is still in custody on Dec 31. (d) Yes scenario: Damian, who has already ordered the government to show cause, grants release on GPS or house-arrest conditions in November. Alternatively, the magistrate refuses to certify after the Nov 19–20 hearings, or a political or diplomatic change leads to the case being dropped. Bail pending extradition is described as extremely rare, show-cause orders are routine, and refusing to certify every count on a probable-cause standard would be unusual. Adding up the paths (habeas about 5%, non-certification by year-end about 3%, other about 2%) gives roughly 10%. That is slightly below the 12% market price; I don't treat the recent +4% move as informative without a known cause.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5334",
+   "has_trace": true
+  },
   {
    "id": 4496,
    "scanned_at": "2026-10-12T05:25:06.007104",
@@ -19206,6 +19262,20 @@
   }
  ],
  "US Government removes public access to a major Chinese AI model in 2026?": [
+  {
+   "id": 5323,
+   "scanned_at": "2026-10-22T01:58:03.398009",
+   "date": "2026-10-22",
+   "agent": 7.5,
+   "market_price_t0": 19,
+   "edge": -0.11499999999999999,
+   "confidence": 0.665,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.07) after one crux research pass. (0) No source shows the condition met: the Oct 19-20 DHS FASCSA order covers only federal civilian agency systems and procurement, and Hacker News, Yahoo and Tom's Guide confirm it does not restrict consumers; DeepSeek, Qwen, Kimi and GLM remain publicly available in the US. (a) About 10 weeks remain, and any action must actually take effect by Dec 31. (b) Status quo is No: every US action over 21 months (DISA, Commerce and Navy bans, the intelligence-community restriction and FY2026 NDAA, now DHS) is government-use only, and Zhipu's Entity List listing since Jan 2025 did not remove GLM from US channels. (c) NO: the administration keeps détente ahead of the November APEC meeting and the Jan 10 truce deadline, further curbs stay government-only, and open weights stay mirrored on US clouds and Hugging Face. (d) YES: a summit breakdown or the distillation dispute triggers a Treasury sanctions designation or a Commerce ICTS order against Moonshot or DeepSeek, and US hosts, clouds and app stores pull the model before year-end; Bessent threatened this in July, but nothing has followed in three months. The market's 19% price jumped 9 points on the non-qualifying DHS headline, so I price below it while keeping a tail for a sudden sanctions or ICTS move that the research cannot rule out.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5323",
+   "has_trace": true
+  },
   {
    "id": 4750,
    "scanned_at": "2026-10-15T01:38:19.050171",
@@ -21182,6 +21252,20 @@
   }
  ],
  "Friedrich Merz out as Chancellor of Germany before December 31, 2026?": [
+  {
+   "id": 5312,
+   "scanned_at": "2026-10-21T22:34:37.061682",
+   "date": "2026-10-21",
+   "agent": 7,
+   "market_price_t0": 7.5,
+   "edge": -0.0049999999999999906,
+   "confidence": 0.66,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Resolution check: the condition is not met. Multiple reports from 21 Oct 2026 (dts, dpa-AFX) show Merz acting as Chancellor, and no resignation, removal or announced departure has been reported. (a) About 10 weeks remain until 31 Dec 2026. (b) If nothing changes, Merz stays in office and the market resolves No. CDU minister-presidents, Söder and Wüst have publicly closed the personnel debate, and Reuters reported on 18 Oct that neither Söder nor Wüst wants a swap. (c) NO scenario: the 27 Nov budget vote passes on coalition votes, the pension bill (now slipped to Q1 2027) never comes before the Bundestag, and the SPD keeps its leadership fight internal until its January congress. Even a failed confidence vote or a dissolution would leave Merz in office as acting chancellor past year-end. (d) YES scenario: a budget defeat or a CDU–AfD firewall breach in Saxony-Anhalt sets off a crisis, and Merz announces he will step aside so the coalition can agree on a successor. The rules count an announcement alone as YES, which makes this path a little easier. Anchor: Polymarket prices this at 7.5%. The sibling markets are broadly consistent: 0.8% by 31 Oct, 3.2% by 30 Nov, 8% by 31 Mar 2027, and 12.5% for the coalition breaking before 2027. Record-low approval (10–18%) and the thin 12-seat majority keep real tail risk, but the research shows no gatekeeper moving, so I stay close to the market, slightly below it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5312",
+   "has_trace": true
+  },
   {
    "id": 3802,
    "scanned_at": "2026-10-03T09:28:55.983478",
@@ -26133,6 +26217,20 @@
  ],
  "Will prjx launch a token by December 31, 2026?": [
   {
+   "id": 5336,
+   "scanned_at": "2026-10-22T05:29:08.304731",
+   "date": "2026-10-22",
+   "agent": 4.8,
+   "market_price_t0": 7.5,
+   "edge": -0.02749999999999999,
+   "confidence": 0.725,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.04). (0) No source shows the condition met. prjx.com today shows only Swap/Liquidity/Portfolio/Cashdrop with no token, and Messari, hl.eco and the Hyperliquid directory list Project X as 'No Token' or 'Pre-token'. Nothing is already resolved. (a) About 10 weeks remain until Dec 31, 2026 11:59 PM ET. (b) Status quo is No: the team retired points around May 2026, paid a $1M USDC Cashdrop, committed $500K in USDC rewards through roughly May 2027, and said there are 'no immediate plans' for a token. No snapshot, tokenomics, claim page or TGE date exists. (c) NO scenario: the team keeps paying USDC rewards while TVL keeps sliding ($34.5M, down 17% in 30 days), and no token appears before year-end. (d) YES scenario: the team reverses abruptly, announces a TGE in November, and the token is live and tradable on HyperEVM by late December, perhaps reusing the old 12% airdrop allocation. Projects can move from announcement to TGE within weeks, but nothing points to this. The market anchor is 7.5% (bid 6 / ask 9) and trending down. The research adds no new bullish information and confirms the absence of any precursor event, so I shade slightly below the anchor to about 5%, keeping a small tail for a surprise launch or a mistaken resolution from lookalike-token noise.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5336",
+   "has_trace": true
+  },
+  {
    "id": 4400,
    "scanned_at": "2026-10-11T01:39:10.102439",
    "date": "2026-10-11",
@@ -26853,6 +26951,20 @@
  ],
  "Will the 5-year Treasury yield hit 5.10% before 2027?": [
   {
+   "id": 5320,
+   "scanned_at": "2026-10-22T00:55:14.308587",
+   "date": "2026-10-22",
+   "agent": 64,
+   "market_price_t0": 68.3,
+   "edge": -0.04349999999999998,
+   "confidence": 0.56,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.64, 0.64). (0) Not met: Treasury's par-curve CSV shows a 5Y peak of 5.09% on Sep 30 and 4.95% on Oct 21, so a daily par close at or above 5.10% is still needed by Dec 31. Intraday quotes like Yahoo's 5.15 high do not count. (a) About 48 trading days remain. (b) Status quo is No if yields hold in the recent 4.89–5.06% range, but this is a touch market with high volatility: the 5Y rose 57 bp in September and moves 5–10 bp a day. A barrier model gives about 65–75% before a discrete-close haircut. The 5.25% sibling at 27.5% implies lower volatility and about 59% here. (c) No: Iran de-escalation drops oil, the Fed holds Oct 28 with the December hike already priced, and housing weakness caps the 5Y near 5.0%. (d) Yes: Brent near $110, a hot October CPI or a hawkish Dec 9 dot plot, plus term-premium pressure around the Nov 4 refunding lift the 5Y 15 bp. No new unpriced information, so I shade slightly below the 68% anchor given the failed test at 5.09%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5320",
+   "has_trace": true
+  },
+  {
    "id": 4746,
    "scanned_at": "2026-10-15T00:49:34.002274",
    "date": "2026-10-15",
@@ -26868,6 +26980,20 @@
   }
  ],
  "Will Anthropic launch a Muse-like personal agent before 2027?": [
+  {
+   "id": 5314,
+   "scanned_at": "2026-10-21T23:18:59.995279",
+   "date": "2026-10-21",
+   "agent": 93,
+   "market_price_t0": 92.5,
+   "edge": 0.00550000000000006,
+   "confidence": 0.81,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.93, 0.93). (0) Resolution check: the condition appears already met. Anthropic's official claude.com post, dated 2026-10-21, opened a research preview of Claude Duet, a standalone proactive-agent app. It runs on a VM with its own browser (\"your own cloud computer\"), sends a morning brief, polls connected accounts every few hours, and acts across 6,000+ connectors, including sending, paying and signing after approval. Access is through a self-serve waitlist for US Pro/Max subscribers. Reuters, MacRumors, 9to5Mac, VentureBeat, CNBC and Engadget all frame it as Anthropic's answer to Muse, which satisfies the rules' call for consensus from credible reporting. (a) About 10 weeks remain until the 2026-12-31 deadline, so invitation waves have time to widen and remove the remaining doubt. (b) Status quo is YES, because the rules explicitly count an \"open rolling waitlist\" and accept paid-plan and country limits. (c) NO scenario: a strict resolver treats waves of invitations in a \"research preview\" as private access. Alternatively, the resolver could call Duet a work-only tool or find no confirmed persistent per-user VM, Anthropic's text never says outright that the VM persists between tasks, and Anthropic fails to broaden access before year-end. (d) YES scenario: the resolver accepts the Oct 21 launch as an open waitlist, or invitations broaden or an open beta follows before Dec 31. I anchor on the market's 92.4% (bid 86 / ask 99) and stay roughly there, holding about 7% for resolver-interpretation risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5314",
+   "has_trace": true
+  },
   {
    "id": 4740,
    "scanned_at": "2026-10-14T23:14:42.702869",
@@ -27504,6 +27630,54 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.19, 0.20). (0) Resolution check: no source shows ISW shading inside Khatnie. Every ISW text mention of the village, from Dec 2025 through Mar 2026, is 'attacked toward/near Khatnie, did not advance'. No October 2026 ISW report names it. The live map could not be rendered, so current shading is not directly confirmed. (a) About 71 days remain until Dec 31, 2026, and any qualifying shading must also persist through the next ISW update. (b) Status quo favours No. Russia has attacked toward Khatnie for about 12-15 months without ISW recording a gain. ISW reports a front-wide Russian net loss of about 122 km² since Sept 1, no confirmed advances in the Velykyi Burluk direction on Oct 14-20, and Ukrainian counterattacks in the sector. ISW calls Kharkiv a supporting effort, and leaf fall works against infiltration. (c) No path: Russian claims around Nesterne, Rublene and Kolodyazne stay unconfirmed or in the excluded 'claimed' layer, and Ukraine holds the Zarubynka-Khatnie line through year-end. (d) Yes path: Russian forces in the sector build on the ISW-recognised infiltrations at Vilkhuvatka (Oct 2) and Komisarove (Oct 10), a few km away. A geolocated flag-raising or infiltration group at Khatnie's edge then gets shaded as an infiltration area. That is a low bar, which is the main reason Yes keeps real probability. The market sits at 26.5% after a -9 point week, and recent evidence points to a stalled or reversing Russian effort in this sector, so I shade modestly below the anchor.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/5266",
+   "has_trace": true
+  }
+ ],
+ "France accuses foreign country of provoking unrest by November 30?": [
+  {
+   "id": 5342,
+   "scanned_at": "2026-10-22T07:55:37.724296",
+   "date": "2026-10-22",
+   "agent": 8,
+   "market_price_t0": 10,
+   "edge": -0.020000000000000004,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.08). (0) The condition is not met. On 21 Oct in Doha, Macron said on the record there was \"no visible foreign interference\" in the events. He alleged only foreign \"manipulation of information\" afterwards and \"stupid\" comments by unnamed foreign leaders, which the criteria explicitly exclude. Barrot's earlier remark that hostile Russian, Chinese, Iranian and MAGA narratives \"exploited\" the protests is also exploitation language and falls short. (a) About 5.5 weeks remain, to 30 Nov 2026. (b) Status quo is No. The official narrative is domestic: Lecornu blames LFI and the ultra-left, and the protests are rooted in cost-of-living and school grievances. The EU Commission says it has no evidence of foreign-driven riots, and Viginum reportedly found minimal foreign influence before 17 Oct. (c) No: intelligence reviews conclude only that Russia and Iran amplified the unrest, and the government keeps blaming the far left heading into 2027. (d) Yes: the 22 Oct Élysée intelligence meeting or the reported probe into whether Russian agents \"played a role in encouraging\" the unrest produces a finding. Macron, Barrot or Nuñez then adopts it as deliberate Russian or Algerian facilitation, perhaps to explain the intelligence failure or to support the foreign-interference bill, much as Darmanin did over Azerbaijan in New Caledonia in 2024. That route is real but requires reversing a head-of-state denial and clearing a strict wording bar. I shade slightly below the market's 10% (bid 9 / ask 11) given the explicit denial and the exclusion of amplification claims.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5342",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic IPO by December 31, 2026?": [
+  {
+   "id": 5302,
+   "scanned_at": "2026-10-21T20:40:30.726546",
+   "date": "2026-10-21",
+   "agent": 79.5,
+   "market_price_t0": 84.5,
+   "edge": -0.04999999999999993,
+   "confidence": 0.61,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.80, 0.79). (0) The condition is not met yet. EDGAR shows no public S-1, no 8-A and no listing for Anthropic. Still to happen: a public S-1, at least 15 days before the roadshow, then a roadshow, pricing and first trade on Nasdaq by Dec 31. (a) About 10 weeks remain, but the practical window closes around Dec 23 because of the holiday calendar. That means a public S-1 by roughly Nov 20 is the latest realistic filing date. (b) If nothing changes, the status quo is No: the company is still private and has confirmed no date. However, the process is far along. The confidential S-1 was filed June 1, banks are named, an investor day was held Oct 14 with Q3 results, and Bloomberg reported 'year-end at the latest' as the stated outer bound. (c) NO scenario: the Oct 23 public filing slips again, as Labor Day, late-September and October targets did. SEC review then drags on revenue accounting, the Pentagon designation or AI-risk disclosures. Alternatively, a weak book at around $1.5T, tighter AI credit (Firmus pulled, Elice -32%) and SpaceX lockup supply push banks to defer to Q1 2027. (d) YES scenario: the S-1 goes public around Oct 23 per Yahoo's three sources, the roadshow starts the week of Nov 9, and the stock debuts before Thanksgiving, with roughly five weeks of slack for slips. The Polymarket anchor is 84.5%, up 13 points in a week, apparently pricing the imminent-S-1 report. Outside views (FutureSearch about 62% on Oct 16, Polymarket about 70% mid-October) were lower before that news. Given the repeated unconfirmed dates, I shade slightly below the market to 0.80, pending an actual EDGAR filing.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5302",
+   "has_trace": true
+  }
+ ],
+ "Will Google have the best AI model at the end of November 2026?": [
+  {
+   "id": 5300,
+   "scanned_at": "2026-10-21T19:50:12.008650",
+   "date": "2026-10-21",
+   "agent": 52.5,
+   "market_price_t0": 53,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.45999999999999996,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.55, 0.50). (0) Not resolved; the resolution page is blocked by a bot check. Mirrors of the default style-controlled board (Oct 15–19) show Google's Gemini 4 Argon #1 at 1524–1532 on preliminary votes, about 15 points ahead of Meta's Muse Wonder (1509) and Anthropic's Opus 5.5 (1508). (a) About 40 days remain until the single check on Nov 30 at 12:00 PM ET. (b) Status quo: if nothing ships, Argon very likely stays #1, given broad category wins and a stable or rising score. (c) NO: Anthropic releases Fable 5.5 or another model (The Information reported an October launch; an Azure listing leaked) and it settles above about 1525, or a monthly Meta Muse release passes Argon, or Argon's preliminary score drifts down; the single-moment check and score tiebreak add variance. (d) YES: Argon holds, or Google adds Gemini 4 Carbon; recent Anthropic generations moved Arena scores only a few points (Opus 4.6 about 1505 to Opus 5.5 about 1508), so a 15–20 point jump is not trivial. The no-style-control view has historically favoured Gemini over Claude. Anchored on the 53% market and nudged slightly up; the December sibling (Google 41.5%) reflects an extra month of release risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5300",
    "has_trace": true
   }
  ]

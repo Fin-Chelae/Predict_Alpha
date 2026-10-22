@@ -2473,6 +2473,20 @@
  ],
  "Trump declares election interference national emergency by December 31?": [
   {
+   "id": 5359,
+   "scanned_at": "2026-10-22T12:54:33.258748",
+   "date": "2026-10-22",
+   "agent": 23,
+   "market_price_t0": 30.5,
+   "edge": -0.07500000000000001,
+   "confidence": 0.49,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.24, 0.22). (0) Not resolved. As of Oct 19–22, neither the White House Presidential Actions page nor the Federal Register EO list (through EO 14437) shows a qualifying declaration. The only election-related NEA action is the plain Aug 31 continuation of EO 13848, which does not count under the rules.\n(a) About 10 weeks remain until Dec 31, 2026. The window includes Election Day (Nov 3) and the post-election certification period.\n(b) Status quo is No. Eight months of activist drafts, lobbying by Peters, Byrne and Ticktin, and repeated non-denials from Trump (\"stranger things have happened\", \"I don't rule anything out\") have produced no declaration.\n(c) NO scenario: the midterms pass and the White House sticks to conventional tools. Those include DOJ monitors, DHS plans, Commerce ICTS action on machine parts, and actions under the existing EO 13848. Any post-election dispute is fought through litigation or rhetoric rather than a new NEA declaration. Lawyers note it would unlock no election powers.\n(d) YES scenario: Republicans lose the House badly. Trump then adopts the activists' China-interference draft and issues a new or materially modified IEEPA/NEA emergency citing compromised voting machines or mail ballots. A purely symbolic declaration would still satisfy this contract.\nThe market anchor is 30.5% and trending up, and Kalshi's ~29% (wording unclear) roughly corroborates it. I shade below the market for three reasons: there has never been a precedent beyond 2018, the activists themselves are pessimistic about pre-election timing, substitutes are available, and there are no reports of an imminent draft under interagency review. Trump's unpredictability and a likely bad midterm keep a meaningful tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5359",
+   "has_trace": true
+  },
+  {
    "id": 3998,
    "scanned_at": "2026-10-05T23:13:49.269406",
    "date": "2026-10-05",
@@ -2532,6 +2546,20 @@
   }
  ],
  "Will China invade Taiwan by December 31, 2027?": [
+  {
+   "id": 5365,
+   "scanned_at": "2026-10-22T14:38:49.014281",
+   "date": "2026-10-22",
+   "agent": 6.8,
+   "market_price_t0": 9.5,
+   "edge": -0.027499999999999997,
+   "confidence": 0.56,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Nothing has resolved. As of mid to late October 2026, Focus Taiwan, Taipei Times, Reuters and Taiwan's defence ministry tallies show only gray-zone pressure and coastal live-fire drills about 278 km from Taiwan. No source reports an offensive, and there have been no full war games since December 2025. (a) About 14 months remain until 31 December 2027, 11:59 PM ET. (b) The status quo is continued coercion without an offensive, which resolves No. (c) No scenario: PLA command stays hollowed out after the purge, which left only two active CMC members. Xi keeps the summit track with Trump going through APEC and the G20. Beijing waits for Taiwan's January 2028 election, which falls after this deadline. Any escalation stays at quarantine or drills, which likely don't meet 'offensive intended to establish control'. (d) Yes scenario: a China Coast Guard interdiction near Pratas or Kinmen, or a trigger such as a US arms package, escalates into an island seizure or a strike campaign in late 2027. That would exploit depleted US munitions after the Iran war and follow the PLA's August 2027 centenary. I anchor on Polymarket's 9.5%. Several things support shading below it: the March 2026 US intelligence assessment that Beijing has no 2027 invasion plan; Reuters' October 1 sources calling a pre-2028 invasion 'increasingly unlikely'; Taiwan's defence ministry judging landing capability inadequate; a near-zero historical base rate; and the long-dated tail and capital-lockup premium typical of such markets. The sibling contracts (2% for end-2026, 6.5% for June 2027) imply a hazard rate consistent with roughly 7–9%. I keep some weight on the ambiguous case where a limited island grab or blockade-plus-strikes counts under 'consensus of credible reporting'.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5365",
+   "has_trace": true
+  },
   {
    "id": 1736,
    "url": "https://forecast.agenticlearning.ai/scans/v2/1736",
@@ -16517,6 +16545,20 @@
  ],
  "Unit FDV above $200M one day after launch?": [
   {
+   "id": 5351,
+   "scanned_at": "2026-10-22T10:26:20.789543",
+   "date": "2026-10-22",
+   "agent": 36.5,
+   "market_price_t0": 44.5,
+   "edge": -0.08000000000000002,
+   "confidence": 0.435,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.37, 0.36) after one crux research pass. (0) Not resolved. The hyperunit.xyz homepage fetched 2026-10-22 shows no token. Datawallet (2026-08-30), Messari and a 2026-09-28 Hyperliquid guide all say no token or plan has been confirmed. For YES, a UNIT governance token must become publicly tradable by 2027-12-31 and its FDV must exceed $200M at 4 PM ET the next day.\n\n(a) About 14 months remain.\n\n(b) If nothing changes, the market resolves No. There is no points programme, snapshot or TGE teaser 21 months after the reported ticker purchase. The team is self-funded and recycles revenue into HYPE, so nothing forces a token.\n\n(c) NO: Unit Labs keeps monetising through Unit and trade.xyz as an operating company, and no token launches before 2028.\n\n(d) YES: a HYPE-style airdrop launches in 2027 and is listed on Hyperliquid spot. A $200M FDV is only about 0.2x the roughly $1B TVL, so clearing it is likely, perhaps 85-90% conditional on launch.\n\nThe anchor is this market at 44.5%. However, the sibling 'Unit launch a token by Dec 31, 2027' market reads 43% in the API data, and the 2026 strike is about 3%. The FDV>$200M market cannot logically exceed P(launch), so 44.5% looks internally inconsistent and slightly rich. Both markets are thin. I estimate P(launch) at about 40% and P(>$200M | launch) at about 0.9, which gives roughly 0.36-0.38.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5351",
+   "has_trace": true
+  },
+  {
    "id": 1525,
    "scanned_at": "2026-08-19T20:57:15.835029",
    "date": "2026-08-19",
@@ -18518,7 +18560,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-22T08:36:00.432Z",
+  "last_sync": "2026-10-22T19:13:09.963Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -20388,6 +20430,20 @@
   }
  ],
  "U.S. enacts AI safety bill before 2027?": [
+  {
+   "id": 5352,
+   "scanned_at": "2026-10-22T11:03:26.304687",
+   "date": "2026-10-22",
+   "agent": 12,
+   "market_price_t0": 9.5,
+   "edge": 0.024999999999999994,
+   "confidence": 0.51,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.12). (0) Resolution check: the condition is not met. Secondary sources from Sept to mid-Oct 2026 (CDT, Privacy World, and trackers) confirm no qualifying federal AI law has been enacted. The only AI-era statute, the TAKE IT DOWN Act, targets deepfake content, not AI systems. Congress is in recess until Nov. 9.\n(a) About 70 days remain until Dec. 31, 2026. That includes only about 22 Senate session days, and the Senate is out Dec. 21-31.\n(b) Status quo: nothing qualifying has passed either chamber, so the default is NO. Standalone bills (GUARD, Hawley's pre-release review bill, Warner/Schatz, the Peters-Lankford human-review bill) cannot clear both chambers and get Trump's signature in this window, and the White House opposes mandatory regulation.\n(c) NO scenario: the FY27 NDAA slips into January, which happened in FY2021, or gets tangled with the Dec. 11 funding fight. Alternatively, conference dilutes the Senate's human-oversight and nuclear-launch AI language into directive-update or report language. Or the resolver simply declines to treat a defense authorization act as an 'AI safety bill'.\n(d) YES scenario: a four-leader NDAA deal in early-to-mid December keeps Senate Sec. 1647/1653 (human judgment, human oversight of force, bans on AI for nuclear launch and domestic surveillance) or the House's AI-company usage prohibition. It is signed before Dec. 31, and the resolver applies the literal usage-restriction or human-in-the-loop criteria.\nMy rough chain is about 70% for NDAA enactment by deadline, about 60-65% for qualifying text surviving, and about 30% for the resolver counting it. That gives roughly 12-13%, plus a sliver for kids-chatbot riders.\nOne point argues against crediting the NDAA path. The FY26 NDAA was signed Dec. 2025 while this market was open, and the market apparently did not resolve YES. That suggests resolvers or traders discount NDAA-type provisions, consistent with the 10% price. I stay close to the market anchor at 12%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5352",
+   "has_trace": true
+  },
   {
    "id": 2927,
    "scanned_at": "2026-09-14T17:25:49.737342",
@@ -25573,6 +25629,20 @@
  ],
  "Will the 10-year Treasury yield hit 5.5% before 2027?": [
   {
+   "id": 5349,
+   "scanned_at": "2026-10-22T09:50:23.595110",
+   "date": "2026-10-22",
+   "agent": 24,
+   "market_price_t0": 25.1,
+   "edge": -0.01050000000000001,
+   "confidence": 0.565,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.24, 0.24). (0) Not resolved: the Treasury par 10 Yr was 5.13% on 10/21/2026, and the highest close in the window is 5.31% on 10/05. Intraday highs near 5.35% don't count. (a) About 48 trading days remain until 12/31/2026, and the yield needs roughly +37-41bp, about 19bp above the cycle peak. (b) Status quo: the yield has ranged 5.09-5.31% since Oct 1 and consensus year-end forecasts sit at 5.0-5.2%, so No. (c) No: the Fed holds Oct 28, the largely priced December hike adds little, buybacks and haven flows cap the long end, and yields drift around 5.0-5.2%. (d) Yes: an oil/Hormuz escalation, a weak Nov 4 refunding, hot November CPI or hawkish Fed guidance rebuilds the term premium and pushes a par close to 5.5%+. A barrier model on realized vol of about 5-6bp/day gives roughly 25-33% for a continuous touch, and discrete closes plus downward-drifting forecasts trim that. This is consistent with the market's 25% and the strike ladder (5.4% at 36%, 5.7% at 14%), so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5349",
+   "has_trace": true
+  },
+  {
    "id": 4691,
    "scanned_at": "2026-10-14T07:12:47.967282",
    "date": "2026-10-14",
@@ -25972,6 +26042,20 @@
   }
  ],
  "Blue tsunami in 2026?": [
+  {
+   "id": 5360,
+   "scanned_at": "2026-10-22T13:27:15.278999",
+   "date": "2026-10-22",
+   "agent": 50,
+   "market_price_t0": 62,
+   "edge": -0.12,
+   "confidence": 0.5,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.50, 0.50) after one crux research pass. (0) Nothing is resolved. The election is Nov 3, 2026. No source shows either threshold met or ruled out. The Senate count could stay open past election day through a Georgia runoff (Dec 1) or the caucus clause for independents (Jan 4).\n(a) That leaves about 12 days to the election and up to about 2.5 months to final resolution.\n(b) Status quo: current forecasts sit right at both thresholds.\n- House medians: DDHQ 236, Polymarket-implied 234, Poliwave 231, Silver 238.7 (Oct 8), ElectIt 239. Cook's range tops out around 234–235, and Sabato says Democrats fall slightly short of 235.\n- Senate control: about 55–75% across sources (markets about 67%, DDHQ 56%, Poliwave 55%, Silver 75%).\n(c) NO: a modest polling error toward Republicans puts the House at about 229 (ElectIt's normal-error case). Or Democrats miss one of OH, ME, AK, TX or IA and stall at 50 Senate seats. Either one alone resolves No.\n(d) YES: a uniform D+9 environment, consistent with the generic-ballot averages, carries the correlated toss-ups together. That gives about 237–241 House seats and 51–52 Senate seats.\nThe anchor is this market's 63%, but it trades thinly ($61k total volume). It also equals Polymarket's own 'Democrats Sweep' price (about 63%), which is a strictly easier condition because it does not require 235 or more House seats. So this contract should price below the sweep. Taking Senate control at about 0.67 and House at 235 or more conditional on a Democratic Senate at about 0.65–0.75, the joint comes to about 0.45–0.50. DDHQ's 54% chance of winning both chambers implies something lower. Silver's 74.5% joint figure with a 238.7 House mean implies something higher. I set 0.50, discounting the market for its thin volume and the sweep inconsistency.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5360",
+   "has_trace": true
+  },
   {
    "id": 4274,
    "scanned_at": "2026-10-09T11:13:44.674982",
@@ -27678,6 +27762,54 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.55, 0.50). (0) Not resolved; the resolution page is blocked by a bot check. Mirrors of the default style-controlled board (Oct 15–19) show Google's Gemini 4 Argon #1 at 1524–1532 on preliminary votes, about 15 points ahead of Meta's Muse Wonder (1509) and Anthropic's Opus 5.5 (1508). (a) About 40 days remain until the single check on Nov 30 at 12:00 PM ET. (b) Status quo: if nothing ships, Argon very likely stays #1, given broad category wins and a stable or rising score. (c) NO: Anthropic releases Fable 5.5 or another model (The Information reported an October launch; an Azure listing leaked) and it settles above about 1525, or a monthly Meta Muse release passes Argon, or Argon's preliminary score drifts down; the single-moment check and score tiebreak add variance. (d) YES: Argon holds, or Google adds Gemini 4 Carbon; recent Anthropic generations moved Arena scores only a few points (Opus 4.6 about 1505 to Opus 5.5 about 1508), so a 15–20 point jump is not trivial. The no-style-control view has historically favoured Gemini over Claude. Anchored on the 53% market and nudged slightly up; the December sibling (Google 41.5%) reflects an extra month of release risk.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/5300",
+   "has_trace": true
+  }
+ ],
+ "Will no next Israeli Minister of Defense be appointed by February 28, 2027?": [
+  {
+   "id": 5362,
+   "scanned_at": "2026-10-22T14:02:29.069727",
+   "date": "2026-10-22",
+   "agent": 38,
+   "market_price_t0": 35.6,
+   "edge": 0.02400000000000002,
+   "confidence": 0.42,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.38, 0.38). (0) Nothing is resolved yet. The election is on Oct 27, 2026, and no post-election government or Knesset-approved Defense Minister exists. Israel Katz is serving only as caretaker and does not count.\n\n(a) About 129 days remain until the Feb 28, 2027 deadline, or about 124 days after election day. Official results are due by Nov 4. After that, the statutory mandate sequence (28+14 days, then 28, then 21+14) runs out around early February.\n\n(b) The status quo, with no government formed, resolves Yes. But the historical base case is a government in 50–100 days (58 days in 2022, about 82 days in 2021). That would land well before the deadline.\n\n(c) No scenario (a minister is appointed): one of these routes produces a confidence vote by January or February.\n- Eisenkot's bloc (polled at 52–55) assembles 61, or forms a minority government with Ra'am or Joint List backing, as Bennett did in 2021.\n- Netanyahu's bloc outperforms the polls.\n- Herzog-brokered unity pressure prevails.\n\n(d) Yes scenario (no minister): neither bloc reaches 61. Explicit vetoes block every route:\n- Eisenkot refuses to serve under Netanyahu even in a rotation.\n- Liberman refuses Arab-backed and Haredi partners.\n- The Haredi draft dispute and fights over the Defense portfolio split the right.\nThe mandates then fail or the Knesset dissolves, as in 2019, and Katz remains caretaker.\n\nThe Polymarket anchor is 35.6%, with the last close at 38.9%. The research largely confirms the deadlock risk the market already prices: no pollster shows any bloc at 61, and 3 of the 5 elections in 2019–21 failed. I add a small premium for the separate risk that a government forms with the Defense post delayed, which puts me at about 38%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5362",
+   "has_trace": true
+  }
+ ],
+ "Will Anna Kelly be the next White House Press Secretary?": [
+  {
+   "id": 5355,
+   "scanned_at": "2026-10-22T11:44:42.306783",
+   "date": "2026-10-22",
+   "agent": 16,
+   "market_price_t0": 17.5,
+   "edge": -0.014999999999999986,
+   "confidence": 0.51,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.16, 0.16). (0) Not resolved. The White House briefings page and the October 21–22 reporting (USA Today/Yahoo, Wikipedia) show the post vacant since Zacharia left on October 16, with no successor named and no report of Kelly being interviewed or shortlisted. (a) There are about 14 months left, to December 31, 2027. Officials signal no decision before the November 3 midterms, and NBC sources call a quick pick 'highly unlikely.' (b) If nothing changes, the post stays vacant and the market resolves 'Other,' which is NO for Kelly. Polymarket's timing markets put an announcement by December 31, 2026 at only 58%, though over the full window a pick looks likely, perhaps 85–90%. (c) NO: Trump repeats his pattern of choosing outsiders. Bartiromo was offered the job first and Zacharia came from outside the leading names. He could also pick Jennings or Pipko, or leave the job empty while he briefs the press himself. (d) YES: after the midterms, Trump avoids another unvetted outsider given the Zacharia embarrassment and promotes Kelly, the principal deputy who already appears on Fox. The anchor is Polymarket at 17.5%, with Kalshi's independent same-question price near 15%. Conditional on a pick, Kelly's share of the fragmented field is about 18–20%. I shade slightly below market because she has already been passed over, Trump's choices are impulsive, and the 'Other' path is live.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5355",
+   "has_trace": true
+  }
+ ],
+ "Will Volodymyr Zelenskyy win the Nobel Peace Prize in 2027?": [
+  {
+   "id": 5346,
+   "scanned_at": "2026-10-22T09:16:18.996559",
+   "date": "2026-10-22",
+   "agent": 4.8,
+   "market_price_t0": 7,
+   "edge": -0.0225,
+   "confidence": 0.6,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.04). (0) The condition has not been met. NobelPrize.org lists the 2026 prize to Navi Pillay as the latest award, and nothing exists for 2027. Resolution depends on a single announcement, expected in early October 2027. (a) That is about 11.5 months away; the committee decides between mid-August and late September 2027, and the formal cutoff is 31 March 2028. (b) If nothing changes, the war continues, US–Ukraine ties stay strained, and the committee keeps favouring legal-order and human-rights laureates (Mohammadi, Hidankyo, Machado, Pillay). Zelenskyy then does not win, as in each year from 2022 to 2026, when he was often the bookmaker favourite. (c) NO: trilateral talks in November stall over Donetsk and NATO, fighting carries on through 2027, and the prize goes to another humanitarian or legal figure. PRIO's Urdal called a mid-war award to a head of state close to 'impossible.' (d) YES: a freeze or settlement is signed by about mid-2027 and holds, and the committee credits Zelenskyy, perhaps jointly as in the Begin/Sadat model. Related markets put a ceasefire by March 2027 at about 25%. Even then, a US-brokered deal involving territorial concessions might not earn Zelenskyy a personal award, so I put the conditional chance at roughly 12–15%. That gives about 3.5–4% through the deal path, plus a little for other paths. The Polymarket anchor of 7% (bid 6, ask 8) comes from a thin $20K market that has risen without news, and his name recognition has historically inflated his price. I therefore shade slightly below the market, to 5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5346",
    "has_trace": true
   }
  ]

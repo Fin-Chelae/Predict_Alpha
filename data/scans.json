@@ -593,6 +593,20 @@
  ],
  "Will Anthropic have the highest IPO Market Cap 2026?": [
   {
+   "id": 5414,
+   "scanned_at": "2026-10-23T06:45:02.870422",
+   "date": "2026-10-23",
+   "agent": 21,
+   "market_price_t0": 23.4,
+   "edge": -0.024499999999999994,
+   "confidence": 0.55,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.21, 0.21). (0) The question is not resolved. SpaceX's June 12 debut (SPCX, closed at $160.95, about $2.1T) is the standing record. Anthropic is still private, and no public S-1, price range, share count or ticker has been confirmed as of Oct 23.\n\n(a) About 10 weeks remain until Dec 31. Because a public S-1 must be on file 15 days before the roadshow, it needs to land around Oct 23–25 for the targeted mid-November listing.\n\n(b) If nothing changes, SpaceX remains the answer and this resolves No.\n\n(c) No happens if any one of these occurs:\n- The listing slips into 2027. Timing has already slipped twice, and the IPO window is wobbling (Kepuni withdrew, Oura pulled its deal).\n- Anthropic prices near the $1.5–1.8T now being discussed and gets only a SpaceX-like pop of about 19%, closing below $2.1T. FutureSearch's median first-day close is $1.80T.\n\n(d) Yes needs a public S-1 this week, a roadshow around Nov 9, pricing near $1.8–2.0T, and a day-one close at least 5–20% above the offer. The single interested investor's $2.3–2.4T call and the ~$1.96T OTC reference support this path.\n\nI anchor on the market price of 23.45%, with bid/ask at 20/27. Cross-checking against Polymarket's Anthropic IPO-day market-cap buckets puts the chance of a close above about $2.1T, conditional on an IPO, at roughly 30%. Multiplying by roughly 70–75% odds of a 2026 IPO gives about 21–23%. The downward trend, falling valuation talk and slipping timing argue against leaning upward, so I sit slightly below the market. The share-count ambiguity in SpaceX's first-day cap could lower the bar modestly.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5414",
+   "has_trace": true
+  },
+  {
    "id": 4850,
    "scanned_at": "2026-10-16T06:17:49.879903",
    "date": "2026-10-16",
@@ -8517,6 +8531,20 @@
  ],
  "Will ByteDance be added to the Chinese Military Companies list by June 30, 2027?": [
   {
+   "id": 5389,
+   "scanned_at": "2026-10-23T00:00:27.046536",
+   "date": "2026-10-23",
+   "agent": 6.3,
+   "market_price_t0": 8.5,
+   "edge": -0.022500000000000006,
+   "confidence": 0.61,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.07). (0) Not resolved. The June 8, 2026 baseline list of 188 entities does not name ByteDance, according to multiple law-firm summaries (WilmerHale, Holland & Knight, DLA Piper). No newer 1260H list or Federal Register notice appeared through October 22, 2026. YES requires a new official list naming ByteDance, a parent, or a subsidiary by June 30, 2027.\n(a) About 8 months remain.\n(b) Status quo is NO: the list is unchanged and no update date has been announced.\n(c) NO path: the Trump–Xi détente keeps new China designations largely frozen. CSIS and RFE/RL report that Entity List additions were shelved for fear of retaliation. Courts have faulted thin designation records, as in the WuXi preliminary injunction. Any next update either slips past June 2027, as the 17-month gap before June 2026 did, or leaves out ByteDance. ByteDance has never appeared in a Feinberg letter or a lawmaker tranche letter.\n(d) YES path: a statutorily due annual update lands in early to mid 2027, perhaps the 'December 2026 list' GT Law hinted at. It extends the consumer-AI expansion that added Alibaba and Baidu to ByteDance or a Chinese affiliate such as Volcano Engine. Possible triggers are a breakdown of the truce or friction over TikTok USDS's continued reliance on ByteDance tools. A listing that is later withdrawn would still count.\nPast candidates have been signalled about 8 months ahead, and no ByteDance signal exists. So I put the chance of an update inside the window at roughly 50%, and ByteDance's inclusion given an update at roughly 10%. That puts me slightly below the market's 8.5%, which has itself been falling.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5389",
+   "has_trace": true
+  },
+  {
    "id": 4063,
    "scanned_at": "2026-10-06T19:09:03.689160",
    "date": "2026-10-06",
@@ -9491,6 +9519,20 @@
  ],
  "Will Hyperliquid reach $100 by December 31, 2026?": [
   {
+   "id": 5379,
+   "scanned_at": "2026-10-22T20:43:41.521986",
+   "date": "2026-10-22",
+   "agent": 34.5,
+   "market_price_t0": 38,
+   "edge": -0.03500000000000003,
+   "confidence": 0.55,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.34, 0.35). (0) The condition is not met. Binance's own futures klines put the highest HYPEUSDT High in the window at 98.057, in the week of Sep 21, 2026. Spot is about $77 today, so a 1-minute wick to $100 still has to happen. (a) About 10 weeks remain, until Dec 31, 2026 23:59 ET. (b) If nothing changes, HYPE stays roughly 23–30% below $100 and the market resolves No. (c) No scenario: the Oct 29, Nov 29 and Dec 29 unlocks add supply. Past unlocks were followed by declines averaging about 8%, ETF flows stay flat and BTC weakness continues. HYPE then drifts between $65 and $90 and never retests the $98 high. (d) Yes scenario: a crowded short book (reports put top traders 87% short) gets squeezed alongside a broad crypto rebound or a catalyst such as Kraken HIP-3 perps. Price reclaims $88–92 and one wick clears $100. A barrier-touch model with zero drift and 60–80% annualized volatility gives roughly a 32–43% chance of touching $100. The market's 37.5% sits inside that range, and the related dip markets imply similarly high volatility. I shade slightly below the market for the negative momentum, the unlock overhang and the September failure just under $98.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5379",
+   "has_trace": true
+  },
+  {
    "id": 4813,
    "scanned_at": "2026-10-15T20:42:25.058264",
    "date": "2026-10-15",
@@ -9576,6 +9618,20 @@
   }
  ],
  "Extended FDV above $300M one day after launch?": [
+  {
+   "id": 5396,
+   "scanned_at": "2026-10-23T01:45:11.904673",
+   "date": "2026-10-23",
+   "agent": 35,
+   "market_price_t0": 39,
+   "edge": -0.040000000000000036,
+   "confidence": 0.435,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.35, 0.35). (0) Not met: Extended's X feed and docs as of Oct 23, 2026 show no token, TGE date or supply; a launch plus a >$300M FDV at 4 PM ET the next day must still happen by Dec 31, 2026. (a) About 10 weeks remain, but the points program's final distribution only follows the competition ending Nov 3, leaving about 8 holiday-heavy weeks for tokenomics, listings and a TGE. (b) Status quo is no launch, which resolves No. (c) No: guidance keeps slipping (H1 to Q3 to undated) and Arc/Circle work takes priority, so the TGE moves to 2027; or the token launches and the 30% airdrop dumps it below $300M FDV by day two. (d) Yes: after the Nov 3 competition and final points, Extended announces tokenomics and lists in December, and peer valuations (edgeX ~$700M, Aster ~$0.8B+, Paradex estimates of $400-500M) plus profitability and a small raise carry FDV above $300M. The market anchor is 39%; the sibling launch-by-Dec-31 market (82.5%) implies about 47% conditional on launch, consistent with the 150M/500M strikes. I view 82.5% for launch as optimistic given the compressed timeline and repeated slips, so I shade slightly to about 0.35.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5396",
+   "has_trace": true
+  },
   {
    "id": 4830,
    "scanned_at": "2026-10-16T01:41:38.774650",
@@ -9878,6 +9934,20 @@
   }
  ],
  "Will Anthropic's valuation hit (HIGH) $3.0T by December 31?": [
+  {
+   "id": 5378,
+   "scanned_at": "2026-10-22T20:01:36.425489",
+   "date": "2026-10-22",
+   "agent": 12.5,
+   "market_price_t0": 18,
+   "edge": -0.05499999999999999,
+   "confidence": 0.6,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.13). (0) Not met: NPM marks imply about $1.36–1.43T, and Polymarket's sibling ladder shows about $1.4T, so $3.0T needs roughly 2.1x. (a) About 10 weeks remain to Dec 31; the reported IPO timeline is S-1 around Oct 22–26, roadshow Nov 9, pricing mid-to-late November, leaving about 5 weeks of countable public trading. (b) Status quo: NPM drifts near $1.4T and resolves No. (c) No: the IPO prices at $1.5–2T (investor talk cooled to about $1.5T after Oct 14) and pops 20–40% like SpaceX ($1.77T to about $2.5T intraday), peaking around $2.0–2.8T; or the listing slips to 2027, leaving only the slow NPM route. Measuring by outstanding common shares rather than fully diluted shares may also shrink the computed cap. (d) Yes: the IPO prices at about $2T or higher on a ~$110B run-rate and 30x+ multiple, and a scarce float plus retail frenzy pushes the intraday high above $3T before year-end; the highest-regular-hours-price rule helps. Polymarket's first-day-close brackets leave only about 5% at or above $3T, FutureSearch's p90 first-day cap is $2.35T, and the most bullish named backer expects $2.3–2.4T. The 18% price, trending down, looks somewhat rich; I shade to about 12%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5378",
+   "has_trace": true
+  },
   {
    "id": 4810,
    "scanned_at": "2026-10-15T19:52:22.496913",
@@ -11906,6 +11976,20 @@
   }
  ],
  "Puffpaw FDV above $100M one day after launch?": [
+  {
+   "id": 5376,
+   "scanned_at": "2026-10-22T19:45:27.820776",
+   "date": "2026-10-22",
+   "agent": 18,
+   "market_price_t0": 23,
+   "edge": -0.05000000000000002,
+   "confidence": 0.525,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.18, 0.18). (0) Not resolved. puffpaw.xyz shows no TGE, listing or price as of 2026-10-22. Aggregator listings are placeholders, and a Polymarket commenter said 'no TGE' around Oct 16. (a) About 10 weeks remain until the Dec 31, 2026, 11:59 PM ET launch deadline. (b) Status quo is No: there is no announced TGE date and no final tokenomics, which the whitepaper says come before TGE. The project has slipped repeatedly since the Feb 2026 airdrop portal, and the sibling launch-by-Dec-31 market sits at about 24–27%. (c) NO: the TGE slips into 2027, which is the most likely path. Alternatively it launches, but the airdrop float sells off, a reward token with weak value accrual draws modest demand, and the price is below $0.10 on the 1B supply by 4 PM ET the next day. (d) YES: a TGE is announced in November or December with a major CEX or Binance Alpha listing. The low float plus a revenue narrative ($17M+ cumulative revenue) lets the price hold above $0.10, for an FDV above $100M. The market anchor is 23% (bid 21 / ask 25). The $50M and $100M strikes trade almost identically, which implies the crowd treats launch as nearly the whole question. A realistic conditional P(FDV > $100M | launch) of about 0.6–0.75, times a launch probability of about 0.25, gives roughly 0.15–0.19. I shade slightly below the market for that reason and because no TGE news has appeared this close to the deadline.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5376",
+   "has_trace": true
+  },
   {
    "id": 4808,
    "scanned_at": "2026-10-15T19:06:03.385029",
@@ -15023,6 +15107,20 @@
  ],
  "Will Russia capture Vodianske by December 31?": [
   {
+   "id": 5384,
+   "scanned_at": "2026-10-22T21:51:20.373376",
+   "date": "2026-10-22",
+   "agent": 48.5,
+   "market_price_t0": 58.5,
+   "edge": -0.09999999999999998,
+   "confidence": 0.38,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.50, 0.47) after one crux research pass. (0) Not met as of today. The resolution-source query of ISW's Assessed Russian-Controlled layer found no polygon within 30 m of the intersection, though that layer was last edited around Sept 29. The daily-updated Assessed Russian Advances layer was not queried, so its state is unknown. ISW's Oct 21 text puts Vodyanske only in an 'infiltrated towards' context, and infiltration shading does not count. (a) About 10 weeks remain, to 11:59 PM ET Dec 31, 2026. (b) If nothing changes, the market resolves No: the village stays contested or infiltrated and unshaded. ISW reports net Russian losses since Sept 1, describes Russian advances as 'virtually halted', and says the infiltrations are unlikely to produce significant gains. (c) No scenario: Ukrainian counterattacks and falling foliage stall the infiltration around Dobropillia, ISW never upgrades Vodianske beyond infiltration, and the Nov 10 talks produce no settlement. (d) Yes scenario: Russia is already adjacent at Shevchenko and is planting flags in southeastern Dobropillia. Continued infiltration then consolidates, and ISW extends the Advances shading over part of the intersection. ISW's Oct 21 headline 'recently advanced south of Dobropillya' may already point that way. The market anchor is 60.5%, with a wide 52/69 spread and a +31-point jump in a week. Polymarket traders watch the ISW map closely, so that move may reflect advance shading creeping toward the village, which I could not verify. I shade the anchor down modestly to 50%: ISW's broad assessment is stalled Russian momentum, and the intersection is not confirmed shaded.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5384",
+   "has_trace": true
+  },
+  {
    "id": 4759,
    "scanned_at": "2026-10-15T03:59:01.305583",
    "date": "2026-10-15",
@@ -16714,6 +16812,20 @@
   }
  ],
  "Felix Protocol FDV above $25M one day after launch?": [
+  {
+   "id": 5386,
+   "scanned_at": "2026-10-22T22:32:08.656467",
+   "date": "2026-10-22",
+   "agent": 8.8,
+   "market_price_t0": 10.5,
+   "edge": -0.0175,
+   "confidence": 0.61,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) The condition is not met. CoinGecko's /coins/felix page tracks an unrelated BSC FLX token, and none of the research found a Felix Protocol (HyperEVM) token, TGE date, tokenomics or snapshot as of Oct 22, 2026. Airdrop guides still list the TGE as 'TBA'. (a) About 70 days remain before the Dec 31, 2026, 11:59 PM ET launch deadline. A launch would also need an FDV above $25M at 4 PM ET on the following day. (b) If nothing changes, there is no token and the market resolves No by default. (c) No scenario: Felix keeps shipping product (Oct 16 vault update) but defers the token into 2027 while TVL keeps sliding (down ~32–35% in 30 days to ~$60M) and revenue stays near zero. Alternatively it launches a small LQTY-style token that prints below $25M. (d) Yes scenario: Felix announces a surprise Nov–Dec TGE, perhaps a direct Hyperliquid spot listing like Kinetiq's, using its reserved FELIX ticker and a points program running since Apr 2025. A $25M FDV is then a low bar. Anchors: this market is at 10.5% (bid 8 / ask 13), and the same venue's 'launch by Dec 31' market sits at ~14%. I put P(launch) at roughly 11–13% given no pre-TGE signals, and P(FDV>$25M | launch) at ~75–80%, which gives ~9%, slightly under the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5386",
+   "has_trace": true
+  },
   {
    "id": 4818,
    "scanned_at": "2026-10-15T22:26:07.035428",
@@ -18560,7 +18672,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-22T19:13:09.963Z",
+  "last_sync": "2026-10-23T08:32:06.320Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -19394,6 +19506,20 @@
   }
  ],
  "Will an AI lab announce another Millennium Prize solution by December 31, 2026?": [
+  {
+   "id": 5381,
+   "scanned_at": "2026-10-22T21:03:18.266708",
+   "date": "2026-10-22",
+   "agent": 19.5,
+   "market_price_t0": 23.5,
+   "edge": -0.03999999999999998,
+   "confidence": 0.525,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.19, 0.20). (0) The condition is not yet met. As of Oct 22, 2026, no eligible lab has announced a full solution to RH, P vs NP, Yang-Mills, Hodge or BSD. OpenAI's Sept 8 claim was Navier-Stokes, which is excluded. Its Oct 6 dump of 722 manuscripts (quasi-RH, partial BSD, Hodge for CM abelian varieties, baby Yang-Mills) is explicitly framed as partial, and three Hodge papers were withdrawn for a sign error. (a) About 10 weeks remain until Dec 31, 2026, including the holiday slowdown. (b) The status quo is No: after six weeks of intense activity there is no qualifying claim and no scheduled announcement. (c) No scenario: OpenAI keeps partial-result framing under the IAS advisory group's vetting norms and the Fields Medalist backlash. The rumoured Hodge result either fails or slips into 2027, and Anthropic and Google stay conservative. (d) Yes scenario: OpenAI, under competitive pressure and with its internal model still running, announces a Lean-backed 'we proved the Hodge conjecture' (or a loosely worded full-BSD claim). That would fit the single-source Information report from Sept 17 and the NYT 'substantial progress' remark. The anchor is Polymarket at 23.5%, and the sibling '0 more' market at 78.5% implies about 21.5%. I shade slightly lower for three reasons: the Hodge rumour is single-sourced and five weeks stale, OpenAI has publicly signalled it will delay and vet, and the bar requires an explicit 'solved' framing.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5381",
+   "has_trace": true
+  },
   {
    "id": 4781,
    "scanned_at": "2026-10-15T10:10:44.024330",
@@ -23033,6 +23159,20 @@
  ],
  "Will Trump meet with Kim Jong Un in 2026?": [
   {
+   "id": 5412,
+   "scanned_at": "2026-10-23T06:05:45.802516",
+   "date": "2026-10-23",
+   "agent": 12.5,
+   "market_price_t0": 20.5,
+   "edge": -0.07999999999999999,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.13). (0) Resolution check: no source reports an in-person Trump–Kim meeting in 2026. The resolution-source read and the Oct 23 Reuters exclusive both confirm none has occurred or been scheduled, so the condition is neither met nor impossible. (a) About 10 weeks remain until the Dec 31 deadline. The only identified window is Trump's Asia trip: ASEAN in Manila on Nov 16 and APEC in Shenzhen on Nov 17–19. Kim belongs to neither group, so any meeting would need a separate, purpose-arranged encounter. The rest of the calendar offers little beyond a December G20 on US soil. (b) Status quo is No. Pyongyang has not responded to US outreach and is demanding nuclear-status recognition and a US policy shift. Trump walked back his Oct 12 \"I may\" on Oct 19 with \"I'm not sure that anybody's asking for a meeting.\" Five US and South Korean officials told Reuters on Oct 23 that chances are fading. Ankit Panda puts an APEC meeting below 10%. (c) NO scenario: the Asia trip passes with Trump–Xi and possibly Putin meetings but no Kim cameo, and there is no December opening, repeating what happened on the Oct 2025 and May 2026 trips. (d) YES scenario: a 2019-style stunt arranged at a day or two of notice, as Ambassador Steel described, perhaps facilitated by China or held at a border site or in Pyongyang, after a US concession on how denuclearisation is framed. The market sits at 20.5%, down 7 points this week, which likely reflects part of the walk-back. The same-day Reuters report and the expert estimates below 10% point lower still, though the abrupt-meeting precedent keeps a real tail. I shade to about 12%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5412",
+   "has_trace": true
+  },
+  {
    "id": 4848,
    "scanned_at": "2026-10-16T05:33:58.668810",
    "date": "2026-10-16",
@@ -24116,6 +24256,20 @@
   }
  ],
  "Will no qualifying US-Iran senior diplomatic meeting take place by December 31, 2026?": [
+  {
+   "id": 5409,
+   "scanned_at": "2026-10-23T05:25:24.994076",
+   "date": "2026-10-23",
+   "agent": 62,
+   "market_price_t0": 64,
+   "edge": -0.020000000000000018,
+   "confidence": 0.45,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.62, 0.62). (0) Resolution check: the Sept 22 New York indirect round (Witkoff and Kushner with Araghchi, Qatari shuttling) looks qualifying on its face. But this market opened Sept 22 and still trades at 64% for no meeting on $68k volume. That implies traders and the resolver treat it as not counting, most likely because the window starts after creation or the UNGA-sidelines exclusion applies. So I treat the condition as not yet met: a new senior same-city round has to begin. (a) About 10 weeks remain, to Dec 31 at 11:59 PM ET. (b) Status quo is no meeting. As of Oct 22–23 no round is scheduled, Trump says there are no negotiations, Pezeshkian and Rezaei say no talks until pressure and sanctions end, and the Araghchi impeachment push raises Iran's domestic cost of contact. (c) NO meeting path: Iran keeps stalling past the Nov 3 midterms and US/Israeli post-midterm strikes go ahead. Talks would then freeze through December, as the pattern of 'every round ended in war' suggests. (d) Meeting path: the Qatar–Pakistan framework reported by Al-Araby, said to be US-approved but single-source, produces a hastily arranged round in Doha or Islamabad. Alternatively, a short strike campaign triggers a ceasefire round; 2026 rounds were often arranged with only hours of notice. I anchor on the 64% market and shade slightly toward a meeting given active mediation and the roughly 2–3 month cadence of rounds, landing near 62%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5409",
+   "has_trace": true
+  },
   {
    "id": 4774,
    "scanned_at": "2026-10-15T07:48:45.806233",
@@ -26753,6 +26907,20 @@
  ],
  "Will Gyanesh Kumar be out as Chief Election Commissioner of India by December 31?": [
   {
+   "id": 5387,
+   "scanned_at": "2026-10-22T23:12:04.043655",
+   "date": "2026-10-22",
+   "agent": 10.5,
+   "market_price_t0": 20.5,
+   "edge": -0.09999999999999998,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.11) after one crux research pass. (0) Resolution check: the condition is not met. Reporting from 22 Oct 2026 (Times of India, Deccan Chronicle, Daily Jagran) shows Kumar still in office. No resignation or removal has been announced, and the Supreme Court refused interim suspension on 5 Oct. (a) About 70 days remain until 31 Dec 2026. (b) The status quo is No. His term runs to 2029. The BJP has mounted a coordinated public defence, with CMs, Rajnath Singh and calls for a Padma Bhushan. Presiding officers rejected the first removal notices and have left the second pending since April. (c) No scenario: the Oct 27/28 SC hearings deal with SIR decisions rather than his office. The bench's 'who would conduct elections' remark signals reluctance to suspend him. The Winter Session passes without an admitted motion, since any admitted motion would need a Judges (Inquiry) Act committee plus two-thirds votes, which cannot finish by December. Protests fizzle. (d) Yes scenario: Sandhu and Joshi confirm the 14 dissents on the record in SC replies. The court then divests his powers, or the government decides he is a liability before the 2027 state polls and he resigns suddenly, as EC Arun Goel did in 2024. Polymarket's anchor is 20.5% on thin volume ($31k) with a downward trend. The research finds no signal of a government shift or a court move against his office. No CEC has ever been removed, so I shade below the market to about 10%, keeping a meaningful tail for an SC surprise or a sudden political resignation.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5387",
+   "has_trace": true
+  },
+  {
    "id": 4601,
    "scanned_at": "2026-10-13T11:51:24.118289",
    "date": "2026-10-13",
@@ -27222,6 +27390,20 @@
   }
  ],
  "Will the 30-year Treasury yield hit 6.00% before 2027?": [
+  {
+   "id": 5382,
+   "scanned_at": "2026-10-22T21:35:43.893117",
+   "date": "2026-10-22",
+   "agent": 11,
+   "market_price_t0": 13.7,
+   "edge": -0.02650000000000001,
+   "confidence": 0.61,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.10). (0) Not met: Treasury's par-curve CSV shows a Sept 3–Oct 22 high of 5.67% on Oct 7, with 5.29% on Oct 22. (a) About 48 trading days remain and the yield needs roughly +71 bp. (b) Status quo is No: the latest move was a safe-haven rally and yields have drifted down since Oct 7. (c) No: a hold on Oct 28, long-end supply cuts and buybacks at the Nov 4 refunding, and AI risk-off keep the 30Y around 5.1–5.6%. (d) Yes: a hawkish Fed surprise plus a post-midterm Iran escalation lifting oil, a disappointing refunding and hot CPI re-run the Aug–Oct leg past 5.67% to a 6.00% close. A barrier-touch estimate at 6–8 bp/day gives about 9–20%, and the analogous 10Y 5.7% market (~73 bp away) is about 12%. BMO's October 6% call is failing and Barclays' is conditional, so I shade slightly below the 13.65% market price.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5382",
+   "has_trace": true
+  },
   {
    "id": 4815,
    "scanned_at": "2026-10-15T21:34:09.373891",
@@ -27810,6 +27992,22 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.05, 0.04). (0) The condition has not been met. NobelPrize.org lists the 2026 prize to Navi Pillay as the latest award, and nothing exists for 2027. Resolution depends on a single announcement, expected in early October 2027. (a) That is about 11.5 months away; the committee decides between mid-August and late September 2027, and the formal cutoff is 31 March 2028. (b) If nothing changes, the war continues, US–Ukraine ties stay strained, and the committee keeps favouring legal-order and human-rights laureates (Mohammadi, Hidankyo, Machado, Pillay). Zelenskyy then does not win, as in each year from 2022 to 2026, when he was often the bookmaker favourite. (c) NO: trilateral talks in November stall over Donetsk and NATO, fighting carries on through 2027, and the prize goes to another humanitarian or legal figure. PRIO's Urdal called a mid-war award to a head of state close to 'impossible.' (d) YES: a freeze or settlement is signed by about mid-2027 and holds, and the committee credits Zelenskyy, perhaps jointly as in the Begin/Sadat model. Related markets put a ceasefire by March 2027 at about 25%. Even then, a US-brokered deal involving territorial concessions might not earn Zelenskyy a personal award, so I put the conditional chance at roughly 12–15%. That gives about 3.5–4% through the deal path, plus a little for other paths. The Polymarket anchor of 7% (bid 6, ask 8) comes from a thin $20K market that has risen without news, and his name recognition has historically inflated his price. I therefore shade slightly below the market, to 5%.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/5346",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic's public ticker be $ANTH?": [
+  {
+   "id": 5404,
+   "scanned_at": "2026-10-23T03:29:20.709248",
+   "date": "2026-10-23",
+   "agent": 22.5,
+   "market_price_t0": 24.5,
+   "edge": -0.01999999999999999,
+   "confidence": 0.41000000000000003,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.22, 0.23). (0) Not resolved: as of Oct 23, 2026 Anthropic's newsroom and EDGAR show no public S-1, Form 8-A or ticker announcement; a public S-1 is reported as coming as soon as today and would normally name the Nasdaq symbol. (a) About 14 months remain to the Dec 31, 2027 deadline, with a listing reported for mid-to-late November 2026. (b) Status quo is no ticker, resolving to 'Other', but related markets put an IPO by end-2026 near 78-86%, so the question is mainly which symbol. (c) NO: the S-1 names ANT, a Claude-branded symbol or another abbreviation (cf. SpaceX's SPCX), or ANTH is blocked because Anthera's old ANTH symbol reportedly still trades OTC and one tracker omits ANTH from its list of available symbols. (d) YES: the S-1 lists 'Nasdaq: ANTH' or a class variant, and ANTH is the natural stem and the top-priced strike. Anchoring on the 25% market (bid 22/ask 28), which has fallen 9.5 points in a week and sits just above ANT at about 23%, I shade slightly lower on the unresolved availability risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5404",
    "has_trace": true
   }
  ]

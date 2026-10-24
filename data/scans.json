@@ -1315,6 +1315,20 @@
  ],
  "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?": [
   {
+   "id": 5506,
+   "scanned_at": "2026-10-24T12:40:24.505551",
+   "date": "2026-10-24",
+   "agent": 72.5,
+   "market_price_t0": 74,
+   "edge": -0.015000000000000013,
+   "confidence": 0.59,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.72, 0.73). (0) The condition is not met yet. FRED DFEDTARU shows the upper bound at 4.00% after the September 16 hike, and the December 8–9 statement does not exist yet. (a) About 6.5 weeks remain until the December 9 decision. Before then come the October 28 FOMC meeting, the October and November jobs reports, and October CPI. (b) The status quo for this contract is no change, but the consensus path is an October hold followed by a 25 bp December hike. That path rests on the September dot median (16 of 18 participants see at least one more 2026 hike), the minutes saying most participants favour another increase by year-end, all 100 economists in the Reuters poll, and major brokerages (Goldman, JPMorgan, Citi, Nomura, TD's \"all but locked in\"). (c) NO comes three ways. One is a December pause after an oil reversal or Gulf de-escalation, weak payrolls (September was +29k) or tighter financial conditions. Another is a delivered October hike that \"uses up\" the one more hike in the dots. The third is a hot October CPI pushing the Fed to 50 bp, which resolves to a different bracket. Secondary FedWatch snapshots put roughly 7–14% on +50 bp and about 10% on no change. (d) YES comes from an October 28 hold, oil staying above $100, firm core inflation, and the Fed delivering a single 25 bp hike on December 9. I anchor on the Polymarket price of 74%, which agrees with FedWatch's roughly 69–76% for +25 bp. Economist unanimity argues slightly higher, but the 50 bp tail, the October-hike tail and Warsh's refusal to give forward guidance offset it, so I land at 0.73.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5506",
+   "has_trace": true
+  },
+  {
    "id": 4950,
    "scanned_at": "2026-10-17T12:34:20.940067",
    "date": "2026-10-17",
@@ -1996,6 +2010,20 @@
   }
  ],
  "Will Anthony Fauci be arrested before 2027?": [
+  {
+   "id": 5496,
+   "scanned_at": "2026-10-24T10:01:59.124171",
+   "date": "2026-10-24",
+   "agent": 5,
+   "market_price_t0": 7,
+   "edge": -0.020000000000000004,
+   "confidence": 0.62,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.05). (0) Nothing shows the condition met. No source reports an arrest, indictment, warrant or grand jury aimed at Fauci as of 2026-10-24; the latest substantive news is the August contempt referral, which DOJ said it was \"reviewing.\" (a) About 10 weeks remain until Dec 31, 2026. In that time an indictment and then an arrest or surrender would both have to happen. (b) The status quo is No. DOJ has been silent for roughly 11 weeks, and the 2021-testimony perjury window closed on May 11 with no charge. The Morens case ended in a guilty plea without naming Fauci, and the state probes are civil inquiries with no named criminal statute. (c) In the No scenario, DOJ keeps sitting on the procedurally defective committee-only contempt referral, Lerner-style, and the state AGs keep issuing subpoenas without charging. Nothing happens before year-end. (d) In the Yes scenario, Pirro or Blanche brings a §192 contempt or §1505 obstruction case to a DC grand jury. Lawfare says they 'can almost certainly attempt' this, and DOJ has already charged Comey and others. A true bill would be followed by Fauci self-surrendering and being processed, which counts. DC grand juries have refused Pirro's political cases, though, and the referral skipped the full Senate. The market sits at 7% (bid 6%, ask 8%), and the related 'charged by Dec 31' market is at 11.5%. Arrest requires a charge first, and a misdemeanor summons might not clearly meet the booking criteria. Given that and the continued silence, I shade slightly below the market to 5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5496",
+   "has_trace": true
+  },
   {
    "id": 4899,
    "scanned_at": "2026-10-16T21:28:58.956681",
@@ -4364,6 +4392,20 @@
   }
  ],
  "Will Ethereum dip to $1,500 by December 31, 2026?": [
+  {
+   "id": 5501,
+   "scanned_at": "2026-10-24T11:16:02.430531",
+   "date": "2026-10-24",
+   "agent": 6.5,
+   "market_price_t0": 9,
+   "edge": -0.025499999999999995,
+   "confidence": 0.6799999999999999,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Not resolved. Binance's kline mirror (data-api.binance.vision) puts the lowest ETH/USDT price since Dec 1, 2025 at 1505.68, in the week of June 1, 2026. Secondary sources give 1,507.05 for June 6. Both are above $1,500, and ETH was about $2,700 or higher during the uncovered Nov 24–30, 2025 stretch. So a fresh print at or below $1,500 is still required.\n(a) About 68 days remain until Dec 31, 2026, 23:59 ET.\n(b) Status quo is NO: ETH sits near $2,370, roughly 37% above the strike.\n(c) NO path: ETH chops between $2,000 and $2,700 through year-end. Support at $2,300 and the 200-day average absorbs selling, and realized volatility stays in the 30s.\n(d) YES path: a repeat of June, worse in size. A hawkish December FOMC hike (about 80% priced), an oil or yield shock tied to Hormuz, ETF outflows and BTC losing $80K could trigger a long-liquidation cascade through $1,900 into a $1,500 wick.\nPricing: a barrier model at the options-implied 48–53% vol gives about 3–4% touch probability, and about 7–8% at 60% vol. ETH's fat tails and the bearish October tape (ETF outflows of about $1B, negative funding) argue for the upper end. This market also overpriced the June dip (76% before a near-miss). I shade slightly below the 9% Polymarket anchor. The $1,250 sibling at 8.5% looks stale or overpriced relative to this strike, so it does not raise my number.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5501",
+   "has_trace": true
+  },
   {
    "id": 4945,
    "scanned_at": "2026-10-17T10:54:25.154557",
@@ -13087,6 +13129,20 @@
  ],
  "Russia x Ukraine ceasefire by December 31, 2026?": [
   {
+   "id": 5494,
+   "scanned_at": "2026-10-24T08:39:57.773438",
+   "date": "2026-10-24",
+   "agent": 9,
+   "market_price_t0": 12.5,
+   "edge": -0.035,
+   "confidence": 0.64,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) No qualifying ceasefire exists as of Oct 24: the Oleshky truce is one town for several days, and the Oct 11 energy ceasefire was unconfirmed and target-category only, so both are excluded. (a) About 9.5 weeks remain; a general ceasefire must take effect by Dec 31 EET and the market stays open while the 10 days run. (b) The status quo is No: strikes continue and the Kremlin repeatedly says 'peace, not a ceasefire', with Lavrov ruling out any pause during talks. (c) No path: November trilateral talks slip or stall on Donbas, the proposed Trump–Putin–Xi APEC meeting yields nothing concrete, and holiday truces stay short like the 2026 Easter and Victory Day pauses. (d) Yes path: US pressure plus the APEC meeting produce a framework with a general freeze by mid-to-late December; Ukraine has already offered a 60-day full ceasefire and Russia's finances are strained. The market is at 12.5% and the looser sibling contract at 20.5%; given Moscow's explicit sequencing and the short timeline, I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5494",
+   "has_trace": true
+  },
+  {
    "id": 4938,
    "scanned_at": "2026-10-17T08:38:54.291353",
    "date": "2026-10-17",
@@ -13470,6 +13526,20 @@
   }
  ],
  "Will Russia capture all of Kostyantynivka by December 31, 2026?": [
+  {
+   "id": 5499,
+   "scanned_at": "2026-10-24T10:41:11.667287",
+   "date": "2026-10-24",
+   "agent": 9,
+   "market_price_t0": 13.5,
+   "edge": -0.04500000000000001,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) The condition is not met. ISW's October 16–17 assessments say Russian forces have only infiltrated parts of southern and central Kostyantynivka without consolidating, and that there is no Russian presence in the north. Ukrainian forces hold northern, central and western positions. The October 22–23 key takeaways report Ukrainian advances in southern and western Kostyantynivka. Russian claims of capture (MoD on July 3, Gerasimov, milbloggers) do not count because they are not ISW qualifying shading. (a) About 68 days remain until December 31, 2026. (b) If nothing changes, the city stays contested with mostly infiltration-only shading, which resolves No. (c) No: Ukrainian counterattacks and a front-wide Russian net territorial loss since September 1 (122 sq km per ISW) continue through winter. The north is never cleared, and ISW never shades the whole municipality as control or advances. (d) Yes: Ukrainian manpower breaks in November–December, Ukraine withdraws to the Druzhkivka line, and ISW quickly converts infiltration zones to assessed control, as in a Pokrovsk-style collapse. A negotiated handover is the other path, but no sign of one exists. The anchor is the Polymarket price of 13.5%, down 15 points over 30 days. The related Nov 30 market is at 7.5% and the Mar 2027 market at 37.5%. I shade slightly below the anchor because the newest ISW reports show Ukrainian gains rather than Russian ones, and a full-city qualifying shading inside 10 weeks would be a sharp reversal.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5499",
+   "has_trace": true
+  },
   {
    "id": 4943,
    "scanned_at": "2026-10-17T10:08:59.910881",
@@ -15452,6 +15522,20 @@
   }
  ],
  "Nothing Ever Happens: 2026": [
+  {
+   "id": 5522,
+   "scanned_at": "2026-10-24T17:57:05.355178",
+   "date": "2026-10-24",
+   "agent": 83,
+   "market_price_t0": 80.5,
+   "edge": 0.02499999999999991,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.83, 0.83). (0) No trigger met as of Oct 24: the resolution-source read shows no M8.5+ quake or 50kt+ fireball, Bitcoin at about $58k–$98k in 2026, an air/naval-only Iran war, a Greenland deal that kept Danish sovereignty, and gray-zone or hybrid activity only on Taiwan and Russia–NATO. (a) About 10 weeks remain, to Dec 31, 2026. (b) Status quo resolves Yes; the market anchor is 80.5%. (c) No path: post-midterm US/Israeli strikes escalate into a US seizure of Iranian land such as Kharg Island, which counts under the 'any portion' wording (sibling invasion market about 16.5% on Oct 15). Smaller routes are regime fall (5.5%), Trump out (4.3%), Greenland (2.9%), Taiwan (2.25%) and natural hazards (1–3%). (d) Yes path: strikes resume only from the air, the ground option dormant since March stays dormant, and the other tails stay quiet. The related markets carry longshot premia and overlap, so I estimate the true combined No risk at about 15–17%: Iran invasion 8–10%, regime fall 2–3%, the rest 3–4%. That puts me slightly above the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5522",
+   "has_trace": true
+  },
   {
    "id": 4897,
    "scanned_at": "2026-10-16T20:39:26.515829",
@@ -18840,7 +18924,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-24T08:07:11.229Z",
+  "last_sync": "2026-10-24T18:08:47.219Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -21947,6 +22031,20 @@
  ],
  "Another Fed rate hike in 2026?": [
   {
+   "id": 5514,
+   "scanned_at": "2026-10-24T15:17:46.346603",
+   "date": "2026-10-24",
+   "agent": 79,
+   "market_price_t0": 75,
+   "edge": 0.040000000000000036,
+   "confidence": 0.61,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.79, 0.79). (0) Not resolved. FRED's DFEDTARU series shows the upper bound at 4.00% since the excluded September 16 hike, unchanged through October 24, so no qualifying hike has happened yet. (a) There are about 6.5 weeks left, with two scheduled meetings in the window: October 27–28 and December 8–9. The rules count both, plus any emergency move. (b) If nothing changes, the Fed holds at 4.00% and the market resolves No, but the status quo is not inertia here. The September dots (16 of 18 participants expecting another hike), the minutes ('most participants' saw another hike as likely by year-end), the Reuters poll (100 of 100 economists expecting a December hike) and Goldman, ING, PIMCO, TD and Danske all point to a December hike. (c) The No path: oil eases on a Gulf de-escalation, the November 6 payrolls report is soft again and October CPI cools. Then Warsh, who gives no forward guidance, sides with Williams, Bowman and Jefferson's preference to wait, citing financial conditions that have already tightened (10-year yield around 5.1%). (d) The Yes path: hold on October 28 (about 10% chance of a hike there), then a 25bp hike on December 9 as inflation expectations stay elevated (Michigan long-run at 3.5%) and Brent stays above $110. The market anchor is 75% on Polymarket, against 80% on Kalshi's near-equivalent contract. FedWatch and OIS put December at about 73–83%, plus a roughly 10% October path, which together suggest around 78–82%. I lean slightly above the Polymarket price but stay cautious given its 30-day drift down and the volatility of rate pricing.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5514",
+   "has_trace": true
+  },
+  {
    "id": 4958,
    "scanned_at": "2026-10-17T14:57:24.921908",
    "date": "2026-10-17",
@@ -23818,6 +23916,20 @@
   }
  ],
  "Will AI solve 0 more Millennium Prize Problems in 2026?": [
+  {
+   "id": 5503,
+   "scanned_at": "2026-10-24T11:55:20.287230",
+   "date": "2026-10-24",
+   "agent": 82,
+   "market_price_t0": 80.5,
+   "edge": 0.014999999999999902,
+   "confidence": 0.64,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.82, 0.82). (0) The condition is not yet decided either way. As of Oct 24, every source (the resolution-source read, current-state research and the Clay page) shows zero qualifying lab announcements. OpenAI's Sept 8 Navier-Stokes claim is excluded by the rules, and its Oct 6 release had only partial results: quasi-RH, BSD for Selmer corank 0/1, Hodge for CM abelian varieties, and a baby Yang-Mills model. (a) About 68 days remain until Dec 31, 2026. (b) If nothing changes, the market resolves Yes (zero more). OpenAI's stated posture is to release caveated 'progress' and not claim prizes, and after the Hodge-paper retractions and the Fields Medalist backlash it is reportedly being more cautious about disclosure. (c) Yes path: OpenAI keeps releasing partial or special-case results, and no other lab gets close, since Anthropic and DeepMind show nothing at Millennium level. (d) No path: OpenAI's internal model, which went from start to a Navier-Stokes announcement in about a week, produces a full Hodge or BSD proof and OpenAI announces it as solved before year-end. The 'substantial progress on another problem' statement and The Information's 'relatively soon' Hodge report keep this live. I anchor on the market's 80.5% and its rising trend; the sibling bucket markets (1 more at 15.5%, 2+ at about 3.5%) imply the same. I nudge slightly toward Yes because the Hodge rumor appears to have been partly cashed out as the CM special case and the time is running down, but I keep meaningful weight on a sudden OpenAI claim.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5503",
+   "has_trace": true
+  },
   {
    "id": 4948,
    "scanned_at": "2026-10-17T11:44:34.009694",
@@ -27719,6 +27831,20 @@
  ],
  "Will the OpenAI spy be accused of working for Saudi Arabia by December 31?": [
   {
+   "id": 5519,
+   "scanned_at": "2026-10-24T17:21:39.396086",
+   "date": "2026-10-24",
+   "agent": 16.5,
+   "market_price_t0": 21.5,
+   "edge": -0.04999999999999999,
+   "confidence": 0.55,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.16, 0.17). Polymarket has Yes at 21.5%; I put it at 16%. (0) The condition is not met: the DOJ release and the 10/18 detention memo, as reported by CNBC, Fox, KQED and Fortune, describe only contacts and support (WhatsApp contact with a Saudi royal who tried to recruit him, a Saudi military official paying for his family's flights, a consulate bail offer). Fox and AZ Family say the filings do not allege Saudi direction, and prosecutors say his motive could be self-enrichment, aid to a foreign government, or both. No OpenAI statement attributes the act to Saudi Arabia. (a) About 10 weeks remain to Dec 31; the Speedy Trial clock is tolled to a Nov 6 status conference, so no indictment is forced on a fixed date. (b) If nothing changes, this resolves No: the only charge is one Wiretap Act count and the docket shows nothing new after 10/19. (c) No: DOJ indicts on the same count or keeps extending while it investigates, any foreign-agent or espionage count lands in 2027, and OpenAI, which held Saudi investment talks this year, stays silent; diplomatic sensitivity adds caution. (d) Yes: the 'Riyadh tasks' note, a 'Saudi Gov Docs' folder, searches for Saudi ministry meetings and counterintelligence involvement support a superseding indictment in Nov or Dec under §951 or §1831 alleging he acted at Saudi direction, as in the 2019 Twitter case. I shade below the market because prosecutors left motive open where state direction would have helped their danger argument, the tolled clock removes the near-term trigger, such attributions usually come months later, and it is unclear whether a royal acting privately counts as state-affiliated.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5519",
+   "has_trace": true
+  },
+  {
    "id": 4965,
    "scanned_at": "2026-10-17T17:17:05.843267",
    "date": "2026-10-17",
@@ -28354,6 +28480,70 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.90, 0.90). (0) Not yet resolved. Extended's pinned X post, the resolution source, says \"The ticker is $XTEN. Coming November 2026. Tokenomics to follow from 31 October.\" Claims are not open, and nothing is transferable or tradable yet.\n\n(a) About 68 days remain until the Dec 31, 2026 11:59 PM ET deadline.\n\n(b) If nothing changes from today, the market resolves No. But the first-party plan points strongly to a November launch with roughly 5 weeks of slack.\n\nSeveral prerequisites are already done or scheduled:\n- The Arc settlement migration completed on Oct 22.\n- The MiCA white paper has reportedly been submitted for filing, with publication on Oct 31.\n- The points program is nearly exhausted (69.2M of 70M distributed).\n- The final Arc trading competition ends on Nov 3, which sets up the snapshot.\n- The team is warning about fake claim sites, which suggests the claim flow is close.\n\n(c) No scenario: the regulator questions the MiCA filing, technical problems arise on the five-week-old Arc chain, or Sybil review delays push the TGE into 2027. Alternatively, tokens are dropped into wallets without any public trading venue before Dec 31. Extended has already slipped from H1 2026 and from Q3 2026.\n\n(d) Yes scenario: tokenomics publish Oct 31, the snapshot follows Nov 3, and claims open in mid-to-late November. Listings on DEXs, CEXs or Extended's own venue follow, which is standard for a funded perp DEX backed by eToro and Jump.\n\nAnchoring on Polymarket's 92% (it touched about 96.5% recently), I shade slightly lower. The reasons are the history of slippage, the absence of a named listing venue or exact date, and a minor resolver risk around the \"governance token\" wording, although the July statement explicitly tied the token to governance.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/5488",
+   "has_trace": true
+  }
+ ],
+ "Will no next Israeli Minister of Foreign Affairs be appointed by February 28, 2027?": [
+  {
+   "id": 5517,
+   "scanned_at": "2026-10-24T16:30:53.985667",
+   "date": "2026-10-24",
+   "agent": 39.5,
+   "market_price_t0": 39,
+   "edge": 0.0050000000000000044,
+   "confidence": 0.44499999999999995,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.39, 0.40). (0) Not resolved: the election is Oct 27 with official results due about Nov 4, and caretaker FM Sa'ar does not count. For No, a new government with a foreign minister must win a Knesset confidence vote by Feb 28, 2027. (a) About 4 months remain, roughly 124 days from election day; the statutory mandate sequence runs roughly to Feb 27 if every stage is used. (b) Status quo is Netanyahu's caretaker government continuing, which resolves Yes. (c) No: either bloc reaches 61 (only Channel 14 shows this, and Israeli polling misses are common), or Herzog brokers a unity deal or a party breaks a pledge as in 2020; recent formations took 58-81 days. (d) Yes: final polls put both blocs near 48-54 with Arab-led parties at about 14, and vetoes on Netanyahu, Arab parties, Haredim and minority governments block 61. Netanyahu gains from stalemate as caretaker, pointing to failed mandates and a spring 2027 election. History favours formation within 124 days, but about 2 of the last 6 cycles failed and this one is unusually deadlocked. The market's 39% looks reasonable and I have no unpriced information, so I stay near it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5517",
+   "has_trace": true
+  }
+ ],
+ "Will OpenAI's IPO valuation be between $1.75T and $2.0T?": [
+  {
+   "id": 5512,
+   "scanned_at": "2026-10-24T14:43:20.958121",
+   "date": "2026-10-24",
+   "agent": 8.3,
+   "market_price_t0": 9.5,
+   "edge": -0.012499999999999997,
+   "confidence": 0.525,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.08). (0) Not resolved: EDGAR shows no public S-1; only a confidential draft (June 2026), with no price range, share count or date. (a) About 14 months remain to the 2027-12-31 deadline. (b) Status quo is no IPO, which resolves to the lowest bracket (NO here). (c) NO: OpenAI waits past 2027, or lists near current marks: bridge cut from $1.4T to $1.25T pre-money, secondaries about $1.0-1.2T, Anthropic's IPO expectation down from $2T to about $1.5T. NO also wins if a hot market pushes pricing to $2.0T or above. (d) YES: the bridge closes, Anthropic prices well, run rate grows from about $50B to $70-100B+, and an H1 2027 IPO prices 1.4-1.6x above the bridge, inside the reported $1.5-2T ask, like SpaceX's $1.77T. About 60-65% chance of an IPO by end-2027 times about 13-15% conditional on this band gives about 8-9%. That is near the 9.5% market anchor, whose recent drop already reflects the down-round news.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5512",
+   "has_trace": true
+  }
+ ],
+ "Pete Hegseth out as Secretary of Defense by November 30?": [
+  {
+   "id": 5510,
+   "scanned_at": "2026-10-24T14:08:47.139989",
+   "date": "2026-10-24",
+   "agent": 13,
+   "market_price_t0": 13,
+   "edge": 0,
+   "confidence": 0.56,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.13). (0) The condition is not met. War.gov releases dated Oct 19–24 show Hegseth acting as Secretary of War, and no source reports a resignation, removal or announced departure. (a) About 37 days remain until Nov 30, 11:59 PM ET, and the window includes the Nov 3 midterms and the first weeks of the lame-duck session. (b) If nothing changes, Hegseth stays in office and the market resolves No. Trump and the White House have repeatedly said publicly that they back him, CNN (Oct 20) reports no overt sign of post-election change at the top of the Pentagon, and he has survived 20 months of scandals and false 'he's out' reports. (c) No: the GOP does acceptably or Trump digs in, Speaker Johnson tables Massie's impeachment resolution, and any lame-duck funding trade over the Dec 11 deadline either fails or lands in December. Impeachment cannot remove him before Nov 30. (d) Yes: after a midterm rout, Trump scapegoats Hegseth for the unpopular Iran war in the Rumsfeld/Sessions pattern (exits within about a day of the election), or trades him to unlock defense funding with GOP senators like Collins and Tillis pushing. An announcement alone counts. The Polymarket anchor of 13% sits sensibly below the Dec 31 sibling at 22.5%, since much of the funding-leverage risk peaks near Dec 11 and the new-Congress risk falls in January. Trump's 2026 record of firing Cabinet members (Noem, Bondi) keeps the tail real, but the only support for a change of heart is an unverified rumour, so I stay at the market price.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5510",
+   "has_trace": true
+  }
+ ],
+ "Ilhan Omar federally charged by December 31?": [
+  {
+   "id": 5507,
+   "scanned_at": "2026-10-24T13:17:13.045178",
+   "date": "2026-10-24",
+   "agent": 35,
+   "market_price_t0": 33.5,
+   "edge": 0.014999999999999958,
+   "confidence": 0.47,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.35, 0.35). (0) The condition is not met yet. Reports dated Oct 23–24, 2026 (Fox's Jarrett, Al Jazeera, NewsNation) all say Omar has not been charged, and the court docket shows only miscellaneous matters about the search warrant, not a criminal case. (a) About 9.5 weeks remain until Dec 31. The realistic window is roughly Nov 4 to Dec 31, after the Nov 3 midterm, and it includes the holidays. (b) If nothing changes, the probe stays in its evidence-gathering phase and the market resolves No. That phase covers relatives' testimony, a filter-team review of the seized phone and laptop, and the Speech-or-Debate dispute. (c) NO path: the statute of limitations on 2000-era conduct, the filter-team and privilege fights, and the possibility that DOJ pursues civil denaturalization instead (WSJ/Homan framing) all push any indictment into 2027 or kill it. A Minnesota grand jury could also balk, as grand juries reportedly have in other politicized cases. (d) YES path: after the election, the Minnesota grand jury returns a conspiracy or false-statement indictment. It could rest on recent passport filings, which CNN reports, to get around the limitations problem. This DOJ has a record of charging fast under public pressure from Trump: Comey and James were charged within weeks, and the Lucas indictment just came. There is also open backing from AG Blanche, Mullin and Homan. I anchor on Polymarket's 33.5%, which has been rising. Kalshi's broader multi-person federal-charges market has Omar at 47%. That is a somewhat different crowd and contract, but it argues slightly against fading the price. Against that, the typical months-long gap from search to indictment and the unresolved limitations problem argue against going higher. I land just above the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5507",
    "has_trace": true
   }
  ]

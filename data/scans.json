@@ -2111,6 +2111,20 @@
  ],
  "US strike on Cuba by December 31?": [
   {
+   "id": 5490,
+   "scanned_at": "2026-10-24T07:38:01.794254",
+   "date": "2026-10-24",
+   "agent": 7,
+   "market_price_t0": 8.5,
+   "edge": -0.015,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) As of Oct 22–24, credible reporting (Rio Times, AP) shows no US drone, missile or air strike on Cuban soil and no deployment order, so the event has not resolved. (a) About 68 days remain until Dec 31, 2026 ET. (b) The status quo is blockade, sanctions, the Raúl Castro indictment, stalled talks and CIA outreach, none of which qualifies, so nothing changing means NO. (c) NO path: the Iran war, nearly eight months old with no end in sight and a Hormuz blockade still running, keeps forces committed. Trump's 'after Iran' sequencing and the Army Reserve's 90–120 day support window push any Cuba operation to late December or 2027. The rally talk fades after the Nov 3 midterms, or the coercion stays naval and non-kinetic (the '50 yards off the coast' show of force would not count). (d) YES path: Iran is wound down or paused in November, assets shift to the Caribbean, and an ultimatum follows the Venezuela-style indictment-then-force sequence. Havana refuses and Trump orders a limited 'little Epic Fury' standoff strike on a military site or port. A Cuban drone incident at Guantanamo could also trigger retaliatory strikes. The market anchor is 8.5% (bid 8 / ask 9) and has fallen steadily as nine months of threats went unfulfilled, including the period when the Nimitz was in the Caribbean. It did not reprice upward on the Oct 23 rhetoric. With Iran unresolved and no force movements reported, I shade slightly below the market to about 7%, leaving tail risk for a sudden limited strike given this administration's demonstrated willingness to use force (Maduro, the boat strikes).",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5490",
+   "has_trace": true
+  },
+  {
    "id": 4933,
    "scanned_at": "2026-10-17T07:09:00.239529",
    "date": "2026-10-17",
@@ -2618,6 +2632,20 @@
   }
  ],
  "Russia x Ukraine ceasefire agreement by December 31, 2026?": [
+  {
+   "id": 5467,
+   "scanned_at": "2026-10-24T00:59:44.879221",
+   "date": "2026-10-24",
+   "agent": 16,
+   "market_price_t0": 20.5,
+   "edge": -0.044999999999999984,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.16, 0.16). (0) No source shows a qualifying agreement yet. The Oleshky/Alyoshki pause is explicitly limited to one city, and the Oct 11 \"energy ceasefire\" is limited to one target category and was never confirmed by either government. Neither meets the \"general pause\" rule. (a) About 68 days remain until 11:59 PM ET on Dec 31, 2026. An agreement reached by then counts even if it takes effect later. (b) If nothing changes, the answer is No. The Kremlin (Peskov: Russia \"needs peace, not a ceasefire\"; Putin rejecting a \"short-lived ceasefire\") still ties any ceasefire to a final settlement that includes all of Donbas, which Kyiv refuses. (c) NO scenario: the trilateral talks after Nov 10 in Abu Dhabi stay technical and about a security framework, as the Kremlin's readout frames them. Russia keeps up its strikes, and December passes with at most more local or humanitarian deals. (d) YES scenario: US pressure (sanctions relief, pressure on Kyiv) plus the APEC/Shenzhen window or the November talks produce a US-announced, dated, front-wide truce that both capitals confirm. Alternatively, a Christmas, New Year or Orthodox-Christmas truce is announced in December. The May 9–11 truce precedent, which resolved sibling markets Yes, shows short dated truces qualify, and Oleshky shows Moscow will quickly confirm US-brokered pauses. My anchor is the market at 20.5%, up 7 points on the Oleshky news and talk revival. Metaculus was around 15% and the Kremlin's explicit rejection of a standalone ceasefire is fresh, so I shade slightly below the market. I keep meaningful weight on the short-truce path, since two such truces already happened in 2026.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5467",
+   "has_trace": true
+  },
   {
    "id": 4909,
    "scanned_at": "2026-10-17T00:55:49.087683",
@@ -7962,6 +7990,20 @@
   }
  ],
  "Will NVIDIA be the largest company in the world by market cap on December 31?": [
+  {
+   "id": 5479,
+   "scanned_at": "2026-10-24T04:07:43.275362",
+   "date": "2026-10-24",
+   "agent": 55.5,
+   "market_price_t0": 59,
+   "edge": -0.03499999999999992,
+   "confidence": 0.435,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.56, 0.55). (0) Not resolved. CompaniesMarketCap shows NVIDIA #1 at $5.094T against Apple's $5.074T, a gap of about 0.4%, and Apple has already led intraday on Oct 23. Only the Dec 31 close counts. (a) About 10 weeks remain, with Apple's earnings on Nov 2 and NVIDIA's around Nov 17–25 both falling inside the window. (b) If nothing changes, NVIDIA wins by a hair. But NVIDIA-versus-Apple relative volatility is roughly 35–40% a year, about 15–17% over 10 weeks, so a 0.4% lead is close to irrelevant and the base case is near a coin flip. Microsoft and Alphabet are about $1.1T behind and are essentially out of the race. (c) NO: AI-capex and financing stress continues (Treasury yields above 5%, CoreWeave credit stress, Huang's 'capital is scarce' remark), or NVIDIA's guidance disappoints, while Apple's iPhone Duo-driven momentum holds and Apple closes Dec 31 slightly ahead. (d) YES: the sector-wide selloff mean-reverts toward NVIDIA's $5.78T October peak, its Q3 beats the $108B guide with the FY28 ~70% growth outlook reaffirmed, and Apple's Nov 2 print is merely 'slightly challenging' per Morgan Stanley. On the YES side, NVIDIA's much faster growth and lower multiple justify a modest edge over 50%. Against it, Apple's momentum and the sell-side average target sitting below Apple's price argue against going all the way to the market's 59%. I shade slightly below that anchor to 56%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5479",
+   "has_trace": true
+  },
   {
    "id": 4922,
    "scanned_at": "2026-10-17T04:04:53.053309",
@@ -13733,6 +13775,20 @@
  ],
  "Will Mojtaba Khamenei be head of state in Iran end of 2026?": [
   {
+   "id": 5482,
+   "scanned_at": "2026-10-24T04:53:39.501032",
+   "date": "2026-10-24",
+   "agent": 83.5,
+   "market_price_t0": 85,
+   "edge": -0.015000000000000013,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.84, 0.83). (0) The question is not yet resolved. As of Oct 21–24, 2026, credible reporting (Al Jazeera, Asharq Al-Awsat, Britannica, Wikipedia) still names Mojtaba Khamenei as Supreme Leader, and decrees in his name filled the top military and SNSC posts in Aug–Sep. For YES he has to stay in place for about 68 more days. (a) The deadline is 12:00 ET on Dec 31, 2026, about 68 days from today. (b) If nothing changes, the answer is YES: no rival claimant has emerged, no institution has repudiated him, and officials (Pezeshkian, Ghalibaf on Oct 21) keep claiming meetings and deferring to him. (c) NO would come from a death or incapacity announcement, a decapitation strike, or a post-deal replacement. US-Israeli strikes are reportedly expected to resume after the Nov 3 midterms, and Netanyahu has named Mojtaba personally. IranWire's anonymous sources also report a plan to replace him after the war. A resolver could also read the IRGC under Vahidi as the de facto authority, given that he has not been seen for over seven months and no proof of life exists. (d) YES comes from inertia: his written messages and decrees continue, the IRGC prefers a nominal leader to a mid-war succession fight, and media keep calling him Supreme Leader. The market sits at 85% (bid 84, ask 86), consistent with the sibling 'leadership change by Dec 31' market at 14.5%. The research adds no unpriced information beyond the post-midterm strike risk, which the market has likely already absorbed. I shade slightly to 84% to reflect that strike risk and the ambiguity in the 'de facto' wording.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5482",
+   "has_trace": true
+  },
+  {
    "id": 4924,
    "scanned_at": "2026-10-17T04:50:39.195889",
    "date": "2026-10-17",
@@ -15088,6 +15144,20 @@
   }
  ],
  "Will there be at least 10000 measles cases in the U.S. in 2026?": [
+  {
+   "id": 5471,
+   "scanned_at": "2026-10-24T01:49:52.311957",
+   "date": "2026-10-24",
+   "agent": 2.5,
+   "market_price_t0": 7,
+   "edge": -0.045000000000000005,
+   "confidence": 0.82,
+   "category": "Health",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.03, 0.03). (0) Not resolved either way. The CDC counter (updated Oct 23) shows 4,588 confirmed 2026 cases as of Oct 22, leaving 5,412 still needed. (a) About 10 weeks remain, with roughly 9–10 weekly CDC updates before Dec 31; holiday-week lag likely trims the last one. (b) Status quo means No. Recent weekly additions are +228, +193, +330 and +178, about 230 a week. At that pace the year ends near 6,800–7,000, and even holding the year's peak of 330 a week only reaches about 7,900. (c) The likely No path: Pennsylvania keeps decelerating (only about 21–78 added in the latest week by different reports), Utah and South Carolina stay spent, and New York adds about 27 a week. That ends the year around 6,000–7,500, in line with expert projections of 6,000–6,500. (d) A Yes path would need roughly 540–600 confirmed cases a week for ten straight weeks, nearly double the record week. That requires a new Pennsylvania-scale outbreak igniting in November plus a large CDC backlog release or a counting-rule change, such as including probable cases. Nothing in the research hints at any of these, and the state-sourced Johns Hopkins tracker is only about 190 ahead of CDC. The market's 7% looks inflated by longshot bias: the sibling 12,500 strike trades at 5.2%, which is not credible either. I shade below the anchor to about 2.5%, keeping some tail for a methodology change or an explosive new outbreak.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5471",
+   "has_trace": true
+  },
   {
    "id": 4911,
    "scanned_at": "2026-10-17T01:44:45.309291",
@@ -18770,7 +18840,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-23T19:12:44.285Z",
+  "last_sync": "2026-10-24T08:07:11.229Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -20502,6 +20572,20 @@
   }
  ],
  "US x Cuba military clash in 2026?": [
+  {
+   "id": 5459,
+   "scanned_at": "2026-10-23T22:10:49.461660",
+   "date": "2026-10-23",
+   "agent": 12,
+   "market_price_t0": 15,
+   "edge": -0.03,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.12). (0) Resolution check: no source shows a qualifying clash. The only armed incident in 2026 was the Feb 25 Cayo Falcones firefight between the Cuban Border Guard and armed civilians, the day before the market opened, and it involved no US forces. Nothing reported through Oct 21–23 involves US and Cuban military forces exchanging fire. (a) About 69 days remain until Dec 31, 2026. (b) Status quo is NO: ten months of maximum pressure (oil blockade, tanker interdictions, indictments, a carrier show of force) have stayed non-kinetic. Trump ties any Cuba move to finishing the Iran war, which has 'no end in sight,' and his 'raise their hands' scenario imagines no resistance. (c) NO scenario: the Iran war keeps absorbing assets, coercion stays economic, and Coast Guard boardings continue in international waters without Cuban Border Guard escorts. (d) YES scenario: the Iran war pauses and the US mounts a naval 'stopover' or Venezuela-style raid in December, matching the 90–120 day Reserve window. Alternatively, a Cuban unit fires on a US vessel, or a USCG–Border Guard confrontation during an interdiction turns violent; any one of these would qualify. The anchor is Polymarket at 14.5%, down 4 points over the week. Sibling markets price a US strike at 9% and an invasion at 6.5%. This market is broader than those, so a modest premium over them makes sense. With the main pathway conditional on an Iran settlement and the clock short, I shade slightly below market to 12%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5459",
+   "has_trace": true
+  },
   {
    "id": 4859,
    "scanned_at": "2026-10-16T08:36:53.619799",
@@ -24789,6 +24873,20 @@
  ],
  "US strike on Colombia by December 31?": [
   {
+   "id": 5476,
+   "scanned_at": "2026-10-24T03:28:48.860520",
+   "date": "2026-10-24",
+   "agent": 22,
+   "market_price_t0": 26,
+   "edge": -0.04000000000000001,
+   "confidence": 0.5,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.22, 0.22). (0) Resolution check: no source reports a qualifying strike as of Oct 22–24, 2026. The resolution-source read, the Wikipedia campaign page and the news searches all show no US-launched air, drone or missile strike on Colombian land. Colombia's five bombings under de la Espriella, including the Oct 22 El Tambo strike, were Colombian-run with US intelligence support, which does not qualify. (a) About 68 days remain until Dec 31, 2026. (b) Status quo is No: the working model has Colombia's air force striking with US intelligence and technology, and 14 months of campaign have produced zero US land strikes in Colombia. Colombia-linked US lethal action has been maritime only, and the territorial sea is excluded. (c) No scenario: de la Espriella keeps strikes branded Colombian because of the Senate-approval fight and the Cepeda legal challenge, and the US contributes intelligence, Reapers for surveillance, and 10th Mountain trainers. That produces only 'support' headlines through year-end. (d) Yes scenario: after the Southern Vanguard deployment, a US-operated Reaper (CNN mentioned 'potential precision strikes') or US aircraft hits an ELN or FARC-dissident camp in Nariño or Cauca. SOUTHCOM, Hegseth or Trump then claims it, mirroring the Ecuador March template. The market sits at 26% and has risen 12 points in 30 days on deployment news. The research supports a real but minority chance: capability and consent exist, but there is no timetable, Colombia has no operational need for US-flown strikes, and some agreements bar US combat roles. I shade slightly below the market to about 22%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5476",
+   "has_trace": true
+  },
+  {
    "id": 4894,
    "scanned_at": "2026-10-16T19:53:43.134565",
    "date": "2026-10-16",
@@ -25140,6 +25238,20 @@
   }
  ],
  "Iran leadership change by December 31?": [
+  {
+   "id": 5485,
+   "scanned_at": "2026-10-24T05:39:43.881412",
+   "date": "2026-10-24",
+   "agent": 13,
+   "market_price_t0": 14.5,
+   "edge": -0.014999999999999986,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.13). (0) Not met: IranWire/Tasnim and Al Jazeera (Oct 22) and Wikipedia still treat Mojtaba Khamenei as the incumbent, with officials claiming on Oct 21–23 that he met Ghalibaf and is 'fully healthy'; no credible report of death, removal, detention or incapacity exists. (a) About 10 weeks remain to the Dec 31 ET deadline. (b) Status quo is No: he has been hidden for about eight months while the regime issues messages in his name, and the IRGC has no evident interest in replacing him. (c) No: Trump holds off on or limits post-Nov 3 strikes, which reports describe as a short campaign on energy, nuclear and missile sites with no stated decapitation aim, and Mojtaba stays protected in hiding. (d) Yes: post-midterm strikes kill him, consistent with Katz's standing policy that any successor is a target, or his death or incapacity is announced or credibly confirmed after the Sept 27 rubble reports or the April unconsciousness memo. The anchor is the market at 14.5%; the sibling 'Iran leader end of 2026' market implies about 15%, and the Nov 30 (9.5%) and Oct 31 (2.5%) markets form a coherent term structure. No unpriced information emerged, and the NYT-reported strike plan omitting leadership targets leans slightly No, so I shade a touch below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5485",
+   "has_trace": true
+  },
   {
    "id": 4928,
    "scanned_at": "2026-10-17T05:35:28.209407",
@@ -28226,6 +28338,22 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.38, 0.39). (0) Unresolved: the election is 2026-10-27, no new government exists, and Levin is only a caretaker. NO needs a post-election government with a Justice Minister to win a Knesset confidence vote by 2027-02-28. (a) About 124 days from the vote; the first nominee's maximum window ends around late December, and the full failure sequence (second nominee, then 61-MK petition) runs to roughly mid/late February. (b) Status quo is YES (caretaker Levin), but historically governments form within 58-82 days in recent successful cases. (c) YES path: polls show both blocs around 49-54 seats with mutual vetoes, Haredi parties may withhold recommendations, a unity deal is denied, and Netanyahu pursues a blocking strategy. Foreign Policy, Ynet and J Street rate a repeat election as highly probable or comparable to either government outcome, and two of the three recent deadlocked cycles (2019) produced no government. (d) NO path: poll error or parties missing the threshold gives one bloc 61, an Eisenkot minority government passes with Arab-party abstention, or Herzog brokers a Netanyahu-Eisenkot unity deal, sworn in by Jan/Feb as in 2020 and 2021. I anchor on the 36% market price and nudge slightly up for the strong pre-election deadlock signals and a small tail where the Justice portfolio is not approved in the confidence vote.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/5423",
+   "has_trace": true
+  }
+ ],
+ "Will Extended launch a token by December 31 2026?": [
+  {
+   "id": 5488,
+   "scanned_at": "2026-10-24T06:57:32.339523",
+   "date": "2026-10-24",
+   "agent": 90,
+   "market_price_t0": 92,
+   "edge": -0.020499999999999963,
+   "confidence": 0.72,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.90, 0.90). (0) Not yet resolved. Extended's pinned X post, the resolution source, says \"The ticker is $XTEN. Coming November 2026. Tokenomics to follow from 31 October.\" Claims are not open, and nothing is transferable or tradable yet.\n\n(a) About 68 days remain until the Dec 31, 2026 11:59 PM ET deadline.\n\n(b) If nothing changes from today, the market resolves No. But the first-party plan points strongly to a November launch with roughly 5 weeks of slack.\n\nSeveral prerequisites are already done or scheduled:\n- The Arc settlement migration completed on Oct 22.\n- The MiCA white paper has reportedly been submitted for filing, with publication on Oct 31.\n- The points program is nearly exhausted (69.2M of 70M distributed).\n- The final Arc trading competition ends on Nov 3, which sets up the snapshot.\n- The team is warning about fake claim sites, which suggests the claim flow is close.\n\n(c) No scenario: the regulator questions the MiCA filing, technical problems arise on the five-week-old Arc chain, or Sybil review delays push the TGE into 2027. Alternatively, tokens are dropped into wallets without any public trading venue before Dec 31. Extended has already slipped from H1 2026 and from Q3 2026.\n\n(d) Yes scenario: tokenomics publish Oct 31, the snapshot follows Nov 3, and claims open in mid-to-late November. Listings on DEXs, CEXs or Extended's own venue follow, which is standard for a funded perp DEX backed by eToro and Jump.\n\nAnchoring on Polymarket's 92% (it touched about 96.5% recently), I shade slightly lower. The reasons are the history of slippage, the absence of a named listing venue or exact date, and a minor resolver risk around the \"governance token\" wording, although the July statement explicitly tied the token to governance.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5488",
    "has_trace": true
   }
  ]

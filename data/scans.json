@@ -2993,6 +2993,20 @@
  ],
  "Blue wave in 2026?": [
   {
+   "id": 5588,
+   "scanned_at": "2026-10-25T15:30:03.199624",
+   "date": "2026-10-25",
+   "agent": 84,
+   "market_price_t0": 85.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.62,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.84, 0.84). (0) Nothing has resolved yet. Election day is Nov 3, 2026, and no official results exist. Both legs still have to happen: Democrats need 218+ House seats and 49+ Senate seats, which is a net gain of only two from the current 47 (45 D plus 2 caucusing independents). (a) The election is 9 days away. Resolution could drag to Jan 4, 2027, if runoffs or independents' caucus choices are pending. (b) The status quo is strongly favorable to Yes. The House leg sits at 80–93% across DDHQ, Poliwave, Silver Bulletin, Kalshi (91%) and Polymarket. Cook rates 220 seats D-favored and Sabato 223. The 270toWin seven-forecaster consensus and Sabato already put the Senate at 49 D before any toss-up is decided. Model medians are 51–53, with 80% ranges bottoming at 48. (c) The No path is a uniform 2–3 point polling miss toward Republicans, like 2020 and 2024. Democrats would then fall short in TX, OH, ME and AK while losing Michigan. That leaves the Senate at 47–48, perhaps with a narrow House miss given the net-GOP redistricting map. Smaller risks are Fetterman switching before election day and Osborn refusing to caucus. (d) The Yes path is Democrats holding GA, MI, MN and NH, flipping NC (Cooper about +10), and flipping at least one of ME, OH, TX, AK or IA. A D+8 generic ballot would carry the House. The two legs are highly correlated, so the joint probability is roughly 0.89 for the House times about 0.93 for the Senate given a Democratic House, which comes to about 0.83–0.85. That matches the 85.5% market, so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5588",
+   "has_trace": true
+  },
+  {
    "id": 2448,
    "url": "https://forecast.agenticlearning.ai/scans/v2/2448",
    "date": "2026-09-02",
@@ -8407,6 +8421,20 @@
  ],
  "Will Gavin Newsom announce a Presidential run before 2027?": [
   {
+   "id": 5596,
+   "scanned_at": "2026-10-25T17:29:04.327419",
+   "date": "2026-10-25",
+   "agent": 10.5,
+   "market_price_t0": 14,
+   "edge": -0.035,
+   "confidence": 0.6,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.10). (0) Resolution check: no source shows an announcement. The 2028 Tracker (Oct 7), Newsweek (Oct 23) and Wikipedia all list Newsom as undeclared, and no major Democrat has declared. (a) About 67 days remain until Dec 31, 2026. The only realistic window is the 58 days after the Nov 3 midterms, which include Thanksgiving and the holidays, while he is still governor until January. (b) The status quo is NO. Newsom has said for a year that he will only decide after the midterms, that there is \"no such thing as a deadline,\" that his family holds veto power, and that he will not run if Harris does. Harris remains undecided and focused on the midterms. (c) NO: Harris stays undecided through December, or Newsom deliberates with his family. He leaves office in January and launches in Q1 2027, which matches the historical norm of declaring in the year before the election year. The July Kalshi sibling market priced the 2026 bucket at about 9% against about 47% by April 2027. (d) YES: Democrats win big on Nov 3 and Harris signals she is out. Newsom, who told AP in September that he might announce before year-end and that the race will move \"very, very quickly,\" uses his ready donor list and early-state network for a December video launch to get ahead of rivals. The Polymarket anchor is 14%, with a 13% duplicate market. I shade slightly below it because the Harris gate, the holiday timing and the risk that an exploratory committee does not count all favor 2027.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5596",
+   "has_trace": true
+  },
+  {
    "id": 5044,
    "scanned_at": "2026-10-18T16:30:48.278555",
    "date": "2026-10-18",
@@ -11802,6 +11830,20 @@
   }
  ],
  "China x Philippines military clash before 2027?": [
+  {
+   "id": 5586,
+   "scanned_at": "2026-10-25T15:04:29.851414",
+   "date": "2026-10-25",
+   "agent": 17.5,
+   "market_price_t0": 22,
+   "edge": -0.04500000000000001,
+   "confidence": 0.6,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.18, 0.17). (0) Resolution check: no source shows a qualifying event since the market opened on 2026-07-24. The July 20 baton melee at Second Thomas Shoal came four days before the window. Every incident since has been gray-zone friction that falls outside the criteria:\n- the Sept 18 ramming hit BFAR's Datu Magat Salamat, a fisheries vessel rather than a military ship, with no hull breach;\n- the Sept 25 resupply blockade involved no force;\n- the Oct 8 water cannon was aimed at a PCG ship and missed;\n- the October episodes were PLA intercepts and harassment.\n\n(a) About 67 days remain until Dec 31, 2026.\n\n(b) If nothing changes, managed friction continues and the market resolves No. The 2025 sibling contract resolved No despite many similar incidents.\n\n(c) NO scenario: Beijing keeps \"monitoring\" Sierra Madre resupplies, as it did with the unobstructed Oct 21 mission. Manila, as ASEAN chair, pushes the Code of Conduct and keeps incidents below the melee or hull-breach bar.\n\n(d) YES scenario: China acts on the reported \"countermeasures\" list by blocking or boarding a Sierra Madre rotation. CCG small boats then clash with Philippine Navy RHIBs using batons or blades, as in July 2026 and June 2024. Teodoro's \"act of war\" warning, the suspended military hotlines and the ambassador row make this plausible.\n\nThe historical rate of qualifying melees is roughly one per one to two years. Even at the current elevated tempo, that gives about 10-20% over nine weeks, plus some tail risk from a loose reading of an incident by the resolver. The market sits at 22% and fell 6 points this week, probably on the peaceful Oct 21 resupply. I shade slightly below it because nothing has qualified in three months and the latest Second Thomas signal points to de-escalation.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5586",
+   "has_trace": true
+  },
   {
    "id": 5038,
    "scanned_at": "2026-10-18T14:57:06.518315",
@@ -19050,7 +19092,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-25T08:24:37.949Z",
+  "last_sync": "2026-10-25T18:24:21.545Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -21871,6 +21913,20 @@
  ],
  "Will the highest score achieved by an OpenAI model on Humanity’s Last Exam in 2026 be 60% or higher?": [
   {
+   "id": 5592,
+   "scanned_at": "2026-10-25T16:37:58.126461",
+   "date": "2026-10-25",
+   "agent": 13.5,
+   "market_price_t0": 15,
+   "edge": -0.014999999999999986,
+   "confidence": 0.575,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.14). (0) Not met on any readable board: the official agi.safe.ai table did not render (static table dated April 2025), and Scale mirrors and Artificial Analysis show OpenAI's best (GPT-6 Astra) at about 54.7–54.8%. OpenAI's own with-tools figure is 57.2%. (a) About 10 weeks remain until Dec 31, 2026. (b) Status quo is No: OpenAI stays around 55% on the main board. (c) No: no new OpenAI frontier model ships (GPT-6.1 Astra was shelved on safety grounds and no release is dated), and the resolver uses the original HLE dataset rather than HLE-Diamond. (d) Yes: CAIS restructures agi.safe.ai so a Diamond table becomes the 'clear equivalent' (Astra 60.6%), or OpenAI ships a model gaining about 5 points before December. The anchor is the market at 15%, down sharply over 30 days; the sibling 65% and 70% strikes at 1.5–2.7% show traders discount the Diamond and tooled scores. I shade slightly below the market given the cancelled release and short window, keeping weight on interpretation ambiguity.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5592",
+   "has_trace": true
+  },
+  {
    "id": 3109,
    "scanned_at": "2026-09-18T04:04:52.633025",
    "date": "2026-09-18",
@@ -21974,6 +22030,20 @@
   }
  ],
  "Will Revolut launch a USD stablecoin in 2026?": [
+  {
+   "id": 5573,
+   "scanned_at": "2026-10-25T09:38:39.112007",
+   "date": "2026-10-25",
+   "agent": 28,
+   "market_price_t0": 43,
+   "edge": -0.14999999999999997,
+   "confidence": 0.5,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.28, 0.28) after one crux research pass. (0) Resolution check: nothing shows the condition already met. Revolut's only live stablecoin is EURR, a euro token issued by Bridge since Aug 2026. An October MiCA register list shows no Revolut USD token. Its USD↔USDC/USDT swaps use third-party tokens, so they do not qualify. (a) About 9.5 weeks remain until Dec 31, 2026. (b) If nothing changes, the market resolves No: no USD token has been named, given a ticker or dated. (c) No scenario: the explicit US stablecoin plan waits for Revolut Bank US, which still needs FDIC, Fed and final OCC approval and targets H1 2027. Any 'other currency' token this year turns out to be GBP via the FCA sandbox, or slips. That fits Revolut's slow record: a USD coin was first signalled in 2024 and EURR took over a year. (d) Yes scenario: Revolut quietly adds a Bridge-issued USD token through its CySEC/MiCA entity, under the still-standing 'other currencies later this year' line. EURR itself went live six days before publicity, so a soft launch to a small cohort is plausible and would count. Market anchor: 43% (bid 40, ask 46) on thin volume of about $74k, up 8 points this week with no news found to explain it. I discount it toward the research consensus (draw mean of about 0.24). I keep some weight on the unexplained rise and on Revolut's stated 2026 window for non-euro tokens.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5573",
+   "has_trace": true
+  },
   {
    "id": 3131,
    "scanned_at": "2026-09-18T13:45:58.455797",
@@ -23875,6 +23945,20 @@
  ],
  "Iran blockade lifted before Iran-Oman Hormuz agreement?": [
   {
+   "id": 5570,
+   "scanned_at": "2026-10-25T09:03:54.786871",
+   "date": "2026-10-25",
+   "agent": 26,
+   "market_price_t0": 28.5,
+   "edge": -0.024999999999999967,
+   "confidence": 0.5,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.26, 0.26). (0) Neither condition is met yet. CENTCOM marked 100 days of the resumed blockade on Oct 22, and nothing official has lifted it since July 14. On the Oman side, the Aug 25 joint 'phased framework' and the Oct 7 route-coordinate agreement have not been treated as a final, mutually accepted Hormuz deal, though that ambiguity tilts slightly toward No. (a) About 67 days remain until Dec 31. (b) Status quo is No: if neither event happens, the market resolves No. (c) No path: Trump holds the blockade 'for the foreseeable future' (Waltz, Oct 24) with a nuclear deal as the price, and weighs strikes after the Nov 3 midterms. Alternatively, Iran and Oman announce a permanent corridor deal first, or a past Iran-Oman statement is judged qualifying. (d) Yes path: the Qatar/Pakistan compromise yields a renewed MoU after the midterms, and Trump or CENTCOM declares the blockade removed. The June precedent shows a lift can be announced the same day a deal is reached, and Iran is likely to hold back a final Oman deal until the blockade is lifted. The anchor is the market price of 28.5%, consistent with the related 'US ends blockade by Dec 31' market at 36%, discounted for the chance an Oman deal lands first. The latest US signals are hawkish: Waltz's indefinite-blockade remarks, strike planning, and Trump rejecting the reopen-for-lift swap on Oct 25. So I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5570",
+   "has_trace": true
+  },
+  {
    "id": 4767,
    "scanned_at": "2026-10-15T06:15:30.246044",
    "date": "2026-10-15",
@@ -24280,6 +24364,20 @@
   }
  ],
  "Will David Lisnard advance to the second round of the next French presidential election?": [
+  {
+   "id": 5578,
+   "scanned_at": "2026-10-25T11:46:55.862195",
+   "date": "2026-10-25",
+   "agent": 9,
+   "market_price_t0": 15.3,
+   "edge": -0.0635,
+   "confidence": 0.575,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) Not resolved: the first round is scheduled for 18 April 2027 and the Interior Ministry has no results. Lisnard must finish top two on that date. (a) About six months remain. (b) Status quo is No. Latest polls put Lisnard at 4–8%, averaging about 6% and ranking 8th, while Le Pen holds 31–37% and second place sits at about 15–17% (Mélenchon, Philippe, Glucksmann). He is roughly 10 points short, and no candidate polling at this level this close to a first round has reached the runoff (reference-class claim from memory, not verified). (c) No: the Retailleau–Lisnard unity talks produce no withdrawal, Philippe and Attal keep the centre split, the social-media bump fades, and Mélenchon or Philippe takes second. (d) Yes: Retailleau stands aside or loses a primary, Lisnard reaches 15–17% as the single right candidate (Cluster17's hypothetical showed 17%), Philippe collapses under legal trouble and the left stays split. The market anchor is 15.35%, but I discount it because the surge coincided with buying from freshly created wallets, Cluster17 finds vote transfers imperfect (at best about 49% of Retailleau voters), and the winner market pricing him at 14.1% is internally implausible, which suggests inflation. The rising trend and a real chance of consolidation keep this above a pure base rate.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5578",
+   "has_trace": true
+  },
   {
    "id": 5028,
    "scanned_at": "2026-10-18T11:44:10.578876",
@@ -25655,6 +25753,20 @@
  ],
  "Will Predict.fun launch a token by December 31, 2026?": [
   {
+   "id": 5583,
+   "scanned_at": "2026-10-25T13:47:11.420796",
+   "date": "2026-10-25",
+   "agent": 91,
+   "market_price_t0": 93,
+   "edge": -0.020000000000000018,
+   "confidence": 0.7,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.91, 0.91). (0) Not yet resolved. The predict.fun homepage and news page (fetched Oct 25) show no TGE, claim or token. PREDICT trades only on pre-launch perps and IOU pre-markets (Aspecta Oct 9; Aster and Binance Wallet Oct 21; Gate Oct 22), which do not meet the 'actively and publicly transferable and tradable' bar. (a) About 67 days remain until 11:59 PM ET Dec 31, 2026. (b) If nothing changes, the market resolves No. However, the status quo is moving fast: an official 'Soon' teaser with a P token image came on Oct 6, and four venues listed derivatives within two weeks. That rollout is typical of the final pre-TGE stage for a YZi Labs and Binance-linked BNB Chain project. (c) No path: the team delays the TGE into Q1 2027, citing market conditions or slow tokenomics and claim setup, as OpenSea did and as Predict.fun's own reported abandoned 'PRINT' sale suggests. A smaller risk is a dispute over whether the token counts as a 'governance' token, or over claim-only or locked mechanics at a late-December TGE. (d) Yes path: tokenomics and airdrop claim are announced in November, followed by a Binance Alpha, CEX or on-chain pair listing in Nov–Dec, consistent with the Polymarket Nov 30 strike at ~88.5% and Predex's 88% by Dec 31. I anchor on the 93% Polymarket price and trim slightly. No official TGE date exists yet, and the lag from pre-launch perp listing to spot can stretch to months.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5583",
+   "has_trace": true
+  },
+  {
    "id": 5030,
    "scanned_at": "2026-10-18T12:31:25.205746",
    "date": "2026-10-18",
@@ -26330,6 +26442,20 @@
   }
  ],
  "Pedro Sánchez out as PM of Spain by December 31, 2026?": [
+  {
+   "id": 5575,
+   "scanned_at": "2026-10-25T11:01:19.760447",
+   "date": "2026-10-25",
+   "agent": 12.5,
+   "market_price_t0": 14.5,
+   "edge": -0.01999999999999999,
+   "confidence": 0.62,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.13). (0) Not met: La Moncloa, fetched 25 Oct, shows Sánchez as PM with no resignation; he called a 29 Nov snap election and is the PSOE candidate. (a) About 9.5 weeks remain to 31 Dec. (b) Status quo is NO: after the vote the government is cesante but continues en funciones under Art. 101 (2023 precedent, Maldita). The new Cortes only meet 23 Dec, and EFE and El Economista expect investiture in January at the earliest, so no successor can be sworn in by year-end. (c) NO: PP+Vox win about 200 seats; Sánchez stays acting PM, says he will lead the opposition (per Ara, citing his circle), and Feijóo is invested in January. The 46% price on the 15 Jan related market fits this. (d) YES: a heavy loss (PSOE under 100 seats) or a judicial shock prompts an announced resignation, which counts immediately under the rules; or a resolver treats the post-election cese or caretaker status as ceasing to be PM; or a health or legal shock. With about 75% for a PP+Vox win, about 10-12% conditional chance of a countable announcement, plus small ambiguity and shock tails, I land near 12%, slightly below the 14.5% market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5575",
+   "has_trace": true
+  },
   {
    "id": 5025,
    "scanned_at": "2026-10-18T10:59:27.157506",
@@ -28744,6 +28870,54 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.52, 0.54). (0) Not resolved: the only Critical php-src advisories are the excluded PHP2Shell pair (CVE-2026-109618/109619), and NVD shows no record for CVE-2026-115560 as of Oct 24. (a) About 68 days remain to Dec 31, likely covering two PHP release slots (mid/late Nov, mid Dec); the full CVE-2026-115560 advisory is promised with the next release. (b) Status quo is NO unless a PHP- or NIST-attributed score of 9.0+ is published on a newly disclosed php-src CVE. (c) NO: PHP scores CVE-2026-115560 at 7-8.x given its 'unlikely/unusual configuration' framing, or the release slips or NVD lags, and nothing else critical appears. (d) YES: PHP reuses its PHP2Shell CVSS 4.0 vector (AC:H/AT:P still yields 9.2), or NVD applies 9.8 to a pre-auth RCE with public PoC; other 2026 php-src bugs reportedly got NVD 9.8 in routine releases, and the AI-driven audit surge adds candidates. Anchoring on the 50% mid (wide 44/56 spread, last close 35%), scoring mechanics and two release windows tilt me slightly toward YES, offset by PHP's conservatism, NVD lag and some variant-interpretation risk.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/5524",
+   "has_trace": true
+  }
+ ],
+ "U.S. recognizes Machado as leader of Venezuela by December 31?": [
+  {
+   "id": 5598,
+   "scanned_at": "2026-10-25T17:55:23.784698",
+   "date": "2026-10-25",
+   "agent": 3.5,
+   "market_price_t0": 11,
+   "edge": -0.075,
+   "confidence": 0.76,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.04). (0) Not met. No White House or State Department statement recognizes Machado, and NPR, CNN, AP and Reuters on Oct 25 all confirm the US still backs Delcy Rodríguez. The US formally recognized Rodríguez as 'sole Head of State' in March 2026 (the Kozak letter, filed in federal court), and diplomatic relations were restored. (a) About 67 days remain until Dec 31, 2026. (b) Status quo is NO. The US works with Rodríguez, the US-backed talks run through Figuera and exclude Machado, and no election is scheduled; Reuters says a vote is a year or more away. (c) NO path: Trump keeps praising Machado without committing ('very nice woman'), oil flows continue, and the talks drag on into 2027. (d) YES path: after the midterms, Rodríguez cracks down on the now-returned Machado or the talks collapse. Trump then abandons Rodríguez and explicitly declares Machado the leader, as he showed in March he can switch recognition quickly. Market anchor: the live mid is 11%, but the spread is wide (7/15) and the daily close was 4.65%. The jump looks like a reaction to her return, not new information about recognition, and on that same day Trump signalled continued backing for Rodríguez. The strict 'direct and unqualified' wording makes a YES even harder. I price below the live mid, near the closing level.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5598",
+   "has_trace": true
+  }
+ ],
+ "Will Miloš Vučević win the next Serbia presidential election?": [
+  {
+   "id": 5595,
+   "scanned_at": "2026-10-25T17:05:17.130368",
+   "date": "2026-10-25",
+   "agent": 13,
+   "market_price_t0": 17.7,
+   "edge": -0.046999999999999986,
+   "confidence": 0.45999999999999996,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.13). (0) Not resolved: stat.gov.rs shows no presidential results, and Vučević is not a declared candidate. YES needs both an SNS nomination and an election win. (a) Vučić resigned on 27 September, so the vote is due by about 26–27 December 2026, with nominations closing 20 days before. (b) Status quo: Vučević is one of several floated SNS names (Brnabić, Petrov, Macut, Dačić, Nikolić, Pavlović), so the default is NO. (c) NO: SNS picks someone else, as Danas's sources suggest given his Novi Sad canopy burden and OSW's lean to Brnabić. Or record student-driven turnout carries into a winning student candidate; Kalshi's parliamentary market has the Student List at 58% and Vučić-for-PM fell from 81% to about 49% on election day. (d) YES: SNS holds power, Vučević uses his control of the party to take the nomination as a loyal coattail candidate, and beats a low-profile student nominee with state-media advantage. Nomination at about 25–35% times a win if nominated at about 40–50% gives about 12–15%, slightly below the thin market anchor of 17.7% because of the election-day signals against SNS.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5595",
+   "has_trace": true
+  }
+ ],
+ "Will the lowest St. Louis river level be -1.00 to 0.99 ft by November 30?": [
+  {
+   "id": 5591,
+   "scanned_at": "2026-10-25T16:11:10.490953",
+   "date": "2026-10-25",
+   "agent": 32,
+   "market_price_t0": 32,
+   "edge": 0,
+   "confidence": 0.49,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.31, 0.33). (0) Not resolved: the USGS daily-value minimum is 6.45 ft (10/25), falling from a 23.82 ft peak on 10/6. YES needs the window minimum to stop between -1.00 and 0.99 ft. (a) About 36 days remain to Nov 30. (b) Status quo: the NWS/NCRFC 10/25 forecast falls to about 1.0 ft on 11/6 and 0.5 ft on 11/8, still declining (~99.5 kcfs, -1 kcfs per 6h), so the river likely enters the bucket around 11/7-8 with three more weeks of recession beyond the forecast horizon. (c) NO, main path: drought persists, Missouri navigation support ends early on 11/15 and cuts base flow, and DTN's 'near low-water threshold (-3.2 ft)' view plays out, carrying the minimum below -1.00 like the 2022-23 lows; the sister buckets price this at about 48%. NO, minor path: CPC's wetter early-November signal for Missouri/Illinois stalls the fall above 1.00, priced under 7% but plausible given the thin margin. (d) YES: the forecast verifies to about 0-0.5 ft, then modest mid-November rain or flattening base flow halts the recession before another 1.5 ft drop. The market anchor of 32% fits my split of roughly 58% below, 11% above and 31% in-bucket; no unpriced information justifies a large move.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5591",
    "has_trace": true
   }
  ]

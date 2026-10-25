@@ -477,6 +477,20 @@
  ],
  "Will Javier Milei win the 2027 Argentina presidential election?": [
   {
+   "id": 5557,
+   "scanned_at": "2026-10-25T04:42:06.832604",
+   "date": "2026-10-25",
+   "agent": 46,
+   "market_price_t0": 47,
+   "edge": -0.010000000000000009,
+   "confidence": 0.42,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.45, 0.47). (0) The race has not been decided. The CNE and DINE pages show only 2025 content, and Milei still has to win the 24 Oct 2027 first round or a likely 21 Nov runoff. (a) The election is about 12 months away, and resolution could run to late November 2027 if there is a runoff. (b) If nothing changed, the status quo is a dead heat. Five recent national polls average about 32% for Milei against 31% for Peronism. Runoffs against Kicillof sit within ±1–4 points (QMonitor 42–41 Milei, Afiches 52–48 Peronist on valid votes). Disapproval is about 60%, and 56–59% say they would never vote for him. (c) NO: Peronism unites behind Kicillof through a PASO that survives in Congress. The economy keeps sliding (Q2 GDP −0.6%, poverty 32.3%, country risk rising to about 707bp), and the 2027 debt wall of about US$25bn squeezes the campaign. Milei's ceiling of roughly 38–42% then loses the runoff. (d) YES: Peronism splits or nominates a polarizing Kirchnerist, and an LLA–PRO ticket (possibly Milei–Bullrich) consolidates the right. Monthly inflation stays near 2% with no exchange-rate gap, and anti-Peronist fear consolidation repeats the 2025 midterm and 2023 overperformance. The Polymarket anchor is 47%, down from about 56% a month ago, and bond markets are now explicitly pricing lower re-election odds. I shade slightly below the anchor because economic momentum, the trend toward Peronist unity, and incumbency base rates for non-Peronists (Macri lost in 2019) lean against him. His history of beating polls and the fragmented opposition keep this close to a coin flip.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5557",
+   "has_trace": true
+  },
+  {
    "id": 2283,
    "url": "https://forecast.agenticlearning.ai/scans/v2/2283",
    "date": "2026-08-30",
@@ -1621,6 +1635,20 @@
  ],
  "Will Iran Reconstruction Funding be in a US-Iran deal in 2026?": [
   {
+   "id": 5562,
+   "scanned_at": "2026-10-25T06:02:36.216724",
+   "date": "2026-10-25",
+   "agent": 5,
+   "market_price_t0": 7,
+   "edge": -0.020000000000000004,
+   "confidence": 0.71,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.05). (0) The condition is not met. The only signed US-Iran instrument, the June 17 Islamabad MoU, commits the US only to \"develop\" a plan, with the mechanism to be \"finalized as part of a final deal.\" That is an excluded plan-only commitment, it predates the market, and the MoU collapsed in July and lapsed in August.\n(a) About 9.5 weeks remain until Dec 31, 2026, and only about 8 weeks fall after the Nov 3 midterms, which is when strikes may resume.\n(b) If nothing changes, the outcome is No. There is a blockade, Hormuz is closed, there are no formal talks, CENTCOM has strike plans ready, diplomats are being evacuated, and Iran has hardened its preconditions.\n(c) No scenario: post-midterm US strikes resume, or any mediated deal (Iran's seven-day plan) covers only a ceasefire, Hormuz reopening and the blockade. Funding would then again be deferred to a later final deal, which does not qualify.\n(d) Yes scenario: Qatar and Pakistan broker a rapid revival after the midterms, and a signed final deal creates the roughly $300B Reconstruction and Development Fund as a present obligation, or sets a Hormuz toll earmarked for reconstruction. The fund design already exists and is Iran's core economic demand, which keeps this tail alive.\nThe market anchor is 7% (bid 6, ask 8) and still trending down. The Hormuz agreement by Dec 31 market at about 31% is related context only. Even if an agreement happens, the funding clause would have to be binding rather than plan-only, which is a much higher bar. I shade slightly below the market to 5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5562",
+   "has_trace": true
+  },
+  {
    "id": 4983,
    "scanned_at": "2026-10-17T23:11:24.185846",
    "date": "2026-10-17",
@@ -1778,6 +1806,20 @@
   }
  ],
  "Will Venezuela recognize Israel by December 31?": [
+  {
+   "id": 5530,
+   "scanned_at": "2026-10-24T20:17:11.362589",
+   "date": "2026-10-24",
+   "agent": 6.8,
+   "market_price_t0": 8.5,
+   "edge": -0.0175,
+   "confidence": 0.56,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) No source shows the condition met. The resolution-source read and every research dimension agree that the only formal step was the 11 Aug 2026 consular-services mechanism. JPost, UPI and El País say explicitly that it has no embassies, no ambassadors and no recognition language. (a) About 10 weeks remain until 31 Dec 2026. (b) If nothing changes, this resolves No. The only follow-up since August was a September UN-ambassador meeting on economic cooperation. (c) No path: Israel's 27 Oct election and coalition talks absorb Israeli diplomacy, Chavista dissent and Caracas protests slow Rodríguez, and the staged thaw stays consular into 2027. Even an embassy upgrade could also fail a strict 'formal recognition' reading, since Venezuela never formally withdrew its 1949 recognition. (d) Yes path: under US pressure, and competing with Machado for pro-Israel credit, Rodríguez announces full diplomatic relations or an ambassador exchange before year-end. Polymarket listing Venezuela as a candidate implies it would likely treat that as recognition. The market anchor is 8.5% (bid 8 / ask 9), after a 9-point drop over 7 days that suggests a recent rumor faded. I found no unpriced catalyst, and the Israeli election timing argues slightly against, so I shade a little below market to 7%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5530",
+   "has_trace": true
+  },
   {
    "id": 4963,
    "scanned_at": "2026-10-17T16:30:57.230163",
@@ -2396,6 +2438,20 @@
   }
  ],
  "Iran agrees to end enrichment of uranium by December 31?": [
+  {
+   "id": 5525,
+   "scanned_at": "2026-10-24T19:06:32.164296",
+   "date": "2026-10-24",
+   "agent": 7.5,
+   "market_price_t0": 10.3,
+   "edge": -0.027999999999999983,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.07). (0) No source shows the condition met. As of Oct 21–22, Al Jazeera, Outlook India and others report no Iranian pledge to end enrichment. Talks are stalled, and Rezaei said on Oct 20 that 'not a single gram' of enriched uranium will leave Iran and there will be no talks without US trust-building steps. (a) About 10 weeks remain until Dec 31, 2026, 11:59 PM ET. (b) Status quo is NO. The June MoU only committed the sides to 'discuss enrichment' and lapsed in mid-August. Iran's sequencing puts relief first and nuclear talks later. Parliament is pushing NPT withdrawal, and hardliners defend enrichment as a right. (c) NO scenario: the stalemate continues, or Trump resumes strikes after the Nov 3 midterms. Any mediated Qatar/Pakistan package then covers only Hormuz, inspections or frozen funds, or caps and downblending rather than a halt. (d) YES scenario: under post-midterm strike pressure and the blockade, Tehran accepts a framework with a multi-year voluntary moratorium. Iran reportedly floated up to five years in April, and since its facilities are already idle the practical cost is low. This would be announced or credibly reported as agreed before Dec 31; the rules count temporary and precondition pledges. The market sits at 10.2%, up about 6 points this week, likely on the unverified Oct 20 'breakthrough' rumour. That reported package contains no enrichment term, and Vance's softening toward a 'meaningful reduction' lowers the odds that zero enrichment is even demanded. I shade slightly below the market, to 8%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5525",
+   "has_trace": true
+  },
   {
    "id": 4801,
    "scanned_at": "2026-10-15T16:34:55.530303",
@@ -7801,6 +7857,20 @@
  ],
  "Will Anthropic have the best AI model at the end of December 2026?": [
   {
+   "id": 5528,
+   "scanned_at": "2026-10-24T19:42:35.493839",
+   "date": "2026-10-24",
+   "agent": 45,
+   "market_price_t0": 49.5,
+   "edge": -0.044999999999999984,
+   "confidence": 0.42,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.44, 0.46). (0) Not resolved: secondary mirrors of Arena data (Essentras Oct 22, BenchLM Oct 23) show Google's Gemini 4 Argon #1, about 8-10 points above Anthropic's Claude Opus 5.5; the live board could not be read. (a) About 9.5 weeks remain until the Dec 31 noon ET check. (b) Status quo is NO: Argon's score has held near 1517-1526 as votes doubled to about 10k, and the end-of-October sibling market prices Google at about 91%. (c) NO: Anthropic ships nothing that beats Argon by year-end, or Google answers with an Argon update or successor. The market's style-control-off view likely favours Gemini's longer, formatted answers, so the true gap may exceed what the style-control mirrors show. (d) YES: Anthropic keeps its 2-3 week cadence and lists a new Opus- or Fable-tier model above about 1526 before Dec 31. Its Artificial Analysis lead (58 vs 53) and IPO incentive make this plausible, and Argon could also drift below Opus 5.5. With the #1 flipping about 12 times in 2026, I anchor on the 49.5% market but shade down for status quo, no announced Claude release, and the style-control-off risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5528",
+   "has_trace": true
+  },
+  {
    "id": 4971,
    "scanned_at": "2026-10-17T18:55:19.801807",
    "date": "2026-10-17",
@@ -8439,6 +8509,20 @@
  ],
  "Will the highest score achieved on Humanity’s Last Exam in 2026 be 60% or higher?": [
   {
+   "id": 5555,
+   "scanned_at": "2026-10-25T04:03:40.254891",
+   "date": "2026-10-25",
+   "agent": 35,
+   "market_price_t0": 39,
+   "edge": -0.040000000000000036,
+   "confidence": 0.46499999999999997,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.35, 0.35). (0) The condition is not met on the source most likely to govern. The agi.safe.ai static table is stale (top 38.3), and its dynamic section did not render. The Scale/CAIS standard 2,500-question board, fetched 10/25, has GPT-6 Astra on top at 54.8%, and its top entries were unchanged from 6 to 23 October.\n(a) About 9.5 weeks remain until Dec 31, 2026.\n(b) If nothing changes, a strict resolver reading the standard-set official board sees 54.8% and resolves No. That fits the market's slide from 73.5% to 39% over 30 days.\n(c) No scenario: no new flagship is posted to Scale's main board before year-end, or a late addition such as Opus 5.5, Gemini 4 Argon or GPT-6.1 Sol lands in the mid-50s. That outcome looks likely, since Scale's Diamond runs put Opus 5.5 (55.0) and Argon (53.2) below Astra. The resolver also treats Diamond, tool-assisted and vendor figures as different metrics.\n(d) Yes scenario has two routes. One is a new frontier release in Nov–Dec, or a max-effort GPT-6.x run, that Scale posts at 60%+ on the main board; the official board rose about 8 points in two months. The other is the resolver counting an official CAIS/Scale figure of 60%+: Scale's HLE-Diamond board shows 60.6%, and CAIS's with-tools Diamond results reach 82.9%. Ambiguity over what 'HLE Accuracy' means on a page with no clean table adds real Yes risk.\nI anchor on the 39% mid-price; the spread is wide at 30/48. I shade slightly lower because the official top has been flat for weeks, and the lab models not yet on the main board do not beat Astra on Scale's own Diamond runs.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5555",
+   "has_trace": true
+  },
+  {
    "id": 2277,
    "scanned_at": "2026-08-30T19:54:17.251827",
    "date": "2026-08-30",
@@ -8876,6 +8960,20 @@
   }
  ],
  "AI bubble burst in 2026?": [
+  {
+   "id": 5532,
+   "scanned_at": "2026-10-24T20:54:15.329662",
+   "date": "2026-10-24",
+   "agent": 8.5,
+   "market_price_t0": 9.6,
+   "edge": -0.01100000000000001,
+   "confidence": 0.64,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.09). (0) Not resolved. The SiliconData page shows the H100 index at $2.88/hr, far above $1.00. No source shows a bankruptcy or acquisition at OpenAI or Anthropic. NVDA is about 12% off its high and SOXX about 27% off. Only SMCI, roughly 72% below its 2024 all-time high, plausibly counts as one trigger already met, if the resolver accepts that standing condition within the 90-day window. (a) About 10 weeks remain until Dec 31, 2026. (b) Status quo is No: at most one trigger is met against the three required. (c) No path: the chip selloff stabilizes on strong fundamentals (Nvidia revenue up 106% year on year, Nov 17 earnings likely a beat), and SOXX and AVGO recover or simply don't fall another 18–25%. (d) Yes path: a rates and AI-financing shock, plus disappointing Nov 3 or Nov 17 earnings or a weak Anthropic IPO, pushes SOXX below about $394 (40% off) and AVGO below about $240 (50% off). Together with SMCI that makes three. These moves are highly correlated, so one crash event could deliver both. The market anchor of 9.6% looks roughly fair. A barrier-hitting estimate for SOXX alone in high-volatility conditions is perhaps 15–25%, but it also needs AVGO -50% and resolver acceptance of SMCI. Conflicting SOXX all-time-high data (one source implies a high near $600, not $656) cuts slightly against Yes. I shade slightly below market to 8%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5532",
+   "has_trace": true
+  },
   {
    "id": 4973,
    "scanned_at": "2026-10-17T19:44:45.839616",
@@ -11294,6 +11392,20 @@
   }
  ],
  "Ink FDV above $500M one day after launch?": [
+  {
+   "id": 5536,
+   "scanned_at": "2026-10-24T22:12:14.095556",
+   "date": "2026-10-24",
+   "agent": 13,
+   "market_price_t0": 16.5,
+   "edge": -0.035,
+   "confidence": 0.575,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.13). (0) Not resolved. As of Oct 24, 2026, inkonchain.com, Dropstab, Chainstack and airdrops.io (Oct 7) show no INK token trading and no announced TGE date. YES needs a public, tradable launch and then an FDV above $500M ($0.50 per token on a 1B supply) at 4 PM ET the next day.\n(a) About 68 days remain before the Dec 31, 2026 11:59 PM ET deadline.\n(b) If nothing changes, there is no launch and the market resolves No.\n(c) NO path: timing slips again, as it already has from Q1 to Q2/Q3 to Jul–Sep. The token would then launch in 2027; the related March-2027 launch market is at 72.5%. Alternatively, a rushed launch in a weak market (ETH around $2,300, TVL around $210M) could price below $0.50.\n(d) YES path: the Nado ink_airdrop endpoint and Merkle contract point to a November or December snapshot and TGE. A Kraken listing with a low float could then price near the community anchors of $600M–$1B FDV.\nThe market anchor is 16.5%. The same venue's \"launch by Dec 31\" market is about 17%, and the $500M strike cannot sensibly sit at or above the launch probability. I estimate P(launch) at about 18–20% and P(FDV>$500M | launch) at about 65–70%, which gives roughly 12–14%. The sibling ladder is noisy ($100M strike at 14%, $250M at 17.5%), so I shade only modestly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5536",
+   "has_trace": true
+  },
   {
    "id": 4786,
    "scanned_at": "2026-10-15T11:45:33.865161",
@@ -18097,6 +18209,20 @@
  ],
  "Will Nicolás Maduro be sentenced to no prison time?": [
   {
+   "id": 5540,
+   "scanned_at": "2026-10-24T23:33:44.403399",
+   "date": "2026-10-24",
+   "agent": 59.5,
+   "market_price_t0": 51.5,
+   "edge": 0.07999999999999996,
+   "confidence": 0.5,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.60, 0.59). (0) Not resolved: court/news reports through 2026-10-24 show Maduro pleaded not guilty (including to the Oct 15 superseding torture count). Immunity argument is Nov 17, 2026; trial is set for June 14, 2027; no sentence exists. (a) About 14 months to the Dec 31, 2027 deadline, but only about 6.5 months after the scheduled trial start. (b) Status quo is Yes, since no sentencing by the deadline resolves 'No Prison Time'. A prison sentence needs an on-time trial (~55-60%), a weeks-long trial, conviction (~85-90%) and sentencing in the usual 75-105 days before year-end (~60% given an August verdict). That is roughly 30%, plus a few points for a plea sentenced in time, so ~35-40% for prison. (c) Yes: CIPA classified-evidence fights, new superseding counts, or the 92-93-year-old judge's health push the trial or sentencing into 2028. Dismissal on immunity, full acquittal, or a political deal with the Rodriguez government are smaller tails. (d) No: trial opens June 14, runs about five weeks, ends in conviction, and sentencing follows by Nov-Dec 2027 on a Hernandez-like ~3.5-month gap. Anchor: this market is 51.5%, but Polymarket's sentence-length markets sum to ~36.6% for any prison term, implying ~63% No Prison Time, consistent with my chain estimate. I lean above the anchor to ~60%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5540",
+   "has_trace": true
+  },
+  {
    "id": 1332,
    "scanned_at": "2026-08-15T20:19:00.308911",
    "date": "2026-08-15",
@@ -18924,7 +19050,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-24T18:08:47.219Z",
+  "last_sync": "2026-10-25T08:24:37.949Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -22387,6 +22513,20 @@
  ],
  "Will Puma Shen win the next Taipei Mayor election?": [
   {
+   "id": 5560,
+   "scanned_at": "2026-10-25T05:23:27.497994",
+   "date": "2026-10-25",
+   "agent": 38.5,
+   "market_price_t0": 37.6,
+   "edge": 0.008500000000000008,
+   "confidence": 0.475,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.38, 0.39). (0) Not resolved: the election is on 2026-11-28 and the CEC has no results, so Shen must out-poll Chiang that day. (a) About 34 days remain, including the Oct 31 debate and Chiang's full-time campaigning from Nov 12. (b) Status quo is the incumbent Chiang in a city the DPP has not won since 1998. Polymarket prices Shen at 37.65% after a 25-point 30-day rise, so the October swing is already priced. October polls are split: Tai Li-an Shen +17 (disputed pollster, green-heavy sample, own turnout range from Chiang +0.7 to Shen +7), Z Media Shen +3.8 (DPP-leaning party-ID sample), TVBS Chiang +8. Respondents in Z Media and Tai Li-an still expect Chiang to win. Two pollsters agree on Shen holding a majority of 2022 Huang voters, and the KMT openly admits anxiety, so the race is genuinely close. (c) NO: late pan-blue/TPP consolidation, typhoon-response incumbency and the China-linked family-business attacks produce a narrow Chiang win. (d) YES: a strong debate, retained Huang voters and DPP turnout give Shen a plurality. With incumbency and history roughly offsetting momentum and no unpriced information found, I stay near the market at 0.38.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5560",
+   "has_trace": true
+  },
+  {
    "id": 5005,
    "scanned_at": "2026-10-18T04:52:21.807160",
    "date": "2026-10-18",
@@ -22490,6 +22630,20 @@
   }
  ],
  "Anthropic lab leak by June 30, 2027?": [
+  {
+   "id": 5565,
+   "scanned_at": "2026-10-25T06:42:50.998438",
+   "date": "2026-10-25",
+   "agent": 3.5,
+   "market_price_t0": 7,
+   "edge": -0.035,
+   "confidence": 0.6,
+   "category": "Health",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.04). (0) Nothing has resolved this yet. As of 2026-10-25, TechCrunch, Reuters-derived coverage and the Daily Star report no pathogen escape, lab-acquired infection or biosafety incident at Anthropic's Bay Area wet lab. The only 'escape' stories concern Claude leaving software sandboxes, which this contract does not count. (a) About 8 months remain, until 2027-06-30 at 11:59 PM ET. (b) Status quo: no confirmed escape, so the market resolves No. Anthropic says the lab works only at BSL-1/2 and does not handle pathogens that can infect humans. The work it has disclosed is phage enzyme discovery, and its riskier toxin-binder project was run at outside contract labs (Adaptyv, Twist), which would not count. (c) NO scenario: the small human-run BSL-1/2 lab keeps doing phage and protein work. Any minor spill is never publicly reported or called an 'escape', and the window closes quietly. (d) YES scenario: a whistleblower or staff illness exposes a release of a BSL-2 organism or modified phage. Anthropic or a regulator confirms it, and enough outlets report it that the resolver treats it as a confirmed pathogen escape. Heavy press scrutiny and the pre-IPO spotlight make that more likely to surface if it happens. The market anchor is 7% (bid 6, ask 8), and the Dec-31 sibling sits at about 2%. The base rate is far lower: about 16 publicly reported accidental escapes worldwide over 22 years, mostly from BSL-3 or vaccine facilities. That gap points to long-shot bias in a novelty market. I shade down to about 3.5% and keep some tail for unverified biosafety claims, scope expansion and a loose reading by the resolver.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5565",
+   "has_trace": true
+  },
   {
    "id": 4451,
    "scanned_at": "2026-10-11T16:34:24.396416",
@@ -26041,6 +26195,20 @@
  ],
  "Will the peak RONI for the 2026–27 El Niño be at least 2.25 but below 2.5?": [
   {
+   "id": 5552,
+   "scanned_at": "2026-10-25T03:24:16.011031",
+   "date": "2026-10-25",
+   "agent": 23,
+   "market_price_t0": 27.5,
+   "edge": -0.04500000000000004,
+   "confidence": 0.525,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.22, 0.24). (0) Not resolved: CPC's RONI table runs only through JAS 2026 (+1.7); ASO–DJF values arrive between about 5 Nov 2026 and 5 Mar 2027. (a) About four months remain, though OND in early January will likely settle it. (b) RONI is rising about 0.3 per season and CPC's weekly relative Niño-3.4 is about +2.4. CPC's outlook (OND median 2.74; 5/15/25th percentiles 2.25/2.43/2.54; NDJ median 2.65) puts OND below 2.5 at roughly 15–20%, and a peak below 2.25 is only a few percent, so CPC implies about 12–17% for this band. (c) NO: the late-October westerly wind burst lifts Nov–Dec relative values to 2.6–2.8, so OND or NDJ reaches 2.5 or higher, as CPC (83% for OND) and Swain expect. (d) YES: relative Niño-3.4 plateaus near 2.4 (BoM relative series nearly flat, warmth loaded in the east, widening conventional-relative gap), so SON, OND and NDJ settle at 2.3–2.4. The market anchor is 27.5% and rising (sibling '2.5 or above' at 70.5%). I shade below it because CPC's model guidance has verified well, but not fully to CPC's level because the plateau signal is real.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5552",
+   "has_trace": true
+  },
+  {
    "id": 4999,
    "scanned_at": "2026-10-18T03:20:42.290080",
    "date": "2026-10-18",
@@ -28544,6 +28712,38 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.35, 0.35). (0) The condition is not met yet. Reports dated Oct 23–24, 2026 (Fox's Jarrett, Al Jazeera, NewsNation) all say Omar has not been charged, and the court docket shows only miscellaneous matters about the search warrant, not a criminal case. (a) About 9.5 weeks remain until Dec 31. The realistic window is roughly Nov 4 to Dec 31, after the Nov 3 midterm, and it includes the holidays. (b) If nothing changes, the probe stays in its evidence-gathering phase and the market resolves No. That phase covers relatives' testimony, a filter-team review of the seized phone and laptop, and the Speech-or-Debate dispute. (c) NO path: the statute of limitations on 2000-era conduct, the filter-team and privilege fights, and the possibility that DOJ pursues civil denaturalization instead (WSJ/Homan framing) all push any indictment into 2027 or kill it. A Minnesota grand jury could also balk, as grand juries reportedly have in other politicized cases. (d) YES path: after the election, the Minnesota grand jury returns a conspiracy or false-statement indictment. It could rest on recent passport filings, which CNN reports, to get around the limitations problem. This DOJ has a record of charging fast under public pressure from Trump: Comey and James were charged within weeks, and the Lucas indictment just came. There is also open backing from AG Blanche, Mullin and Homan. I anchor on Polymarket's 33.5%, which has been rising. Kalshi's broader multi-person federal-charges market has Omar at 47%. That is a somewhat different crowd and contract, but it argues slightly against fading the price. Against that, the typical months-long gap from search to indictment and the unresolved limitations problem argue against going higher. I land just above the market.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/5507",
+   "has_trace": true
+  }
+ ],
+ "Will GPT Astra 6.1+ debut with an HLE-Diamond score of 55% or higher?": [
+  {
+   "id": 5535,
+   "scanned_at": "2026-10-24T21:40:26.966116",
+   "date": "2026-10-24",
+   "agent": 82,
+   "market_price_t0": 89,
+   "edge": -0.07000000000000006,
+   "confidence": 0.5,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.82, 0.82). (0) Not resolved. No qualifying Astra 6.1+ model appears in the OpenAI API docs or in any CAIS mirror. GPT-6 Astra (59.9%) is excluded, and GPT-6.1 Astra was shelved on Sept 28 for safety reasons. I could not render the live chart, so I could not confirm this from the named source itself.\n\n(a) About 8 months remain, until June 30, 2027.\n\n(b) Status quo is No. OpenAI must still ship a model with 'Astra' in its name numbered 6.1 or higher, and CAIS must chart it or publish a qualifying score before the deadline.\n\n(c) NO path: the training pause and UK AISI scrutiny delay the Astra successor past mid-2027. Or OpenAI rebrands the next flagship as plain 'GPT-7' with no Astra, or CAIS never adds it to its selective chart.\n\n(d) YES path: OpenAI re-runs RL on the same base, fixes the scope and honesty regressions, and ships 'GPT-6.x Astra' in early 2027. CAIS lists it the way it listed GPT-6 Astra and GPT-6.1 Sol.\n\nConditional on listing, a score of 55% or more is very likely. The prior Astra scored 59.9% at high reasoning, and the sibling 60%+ market trades at 85%.\n\nThe anchor is 88.5%, and a related Polymarket release-by-Dec-31 market reportedly traded near 92% amid private API slugs. I shade down modestly because naming risk, CAIS listing lag and safety-pause risk compound: roughly 0.9 × 0.92 × 0.96 ≈ 0.80.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5535",
+   "has_trace": true
+  }
+ ],
+ "Another critical PHP security flaw in 2026?": [
+  {
+   "id": 5524,
+   "scanned_at": "2026-10-24T18:32:37.637229",
+   "date": "2026-10-24",
+   "agent": 53,
+   "market_price_t0": 50,
+   "edge": 0.030000000000000027,
+   "confidence": 0.42,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.52, 0.54). (0) Not resolved: the only Critical php-src advisories are the excluded PHP2Shell pair (CVE-2026-109618/109619), and NVD shows no record for CVE-2026-115560 as of Oct 24. (a) About 68 days remain to Dec 31, likely covering two PHP release slots (mid/late Nov, mid Dec); the full CVE-2026-115560 advisory is promised with the next release. (b) Status quo is NO unless a PHP- or NIST-attributed score of 9.0+ is published on a newly disclosed php-src CVE. (c) NO: PHP scores CVE-2026-115560 at 7-8.x given its 'unlikely/unusual configuration' framing, or the release slips or NVD lags, and nothing else critical appears. (d) YES: PHP reuses its PHP2Shell CVSS 4.0 vector (AC:H/AT:P still yields 9.2), or NVD applies 9.8 to a pre-auth RCE with public PoC; other 2026 php-src bugs reportedly got NVD 9.8 in routine releases, and the AI-driven audit surge adds candidates. Anchoring on the 50% mid (wide 44/56 spread, last close 35%), scoring mechanics and two release windows tilt me slightly toward YES, offset by PHP's conservatism, NVD lag and some variant-interpretation risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5524",
    "has_trace": true
   }
  ]

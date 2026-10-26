@@ -1257,6 +1257,20 @@
  ],
  "Will Anthropic flip BTC by December 31?": [
   {
+   "id": 5670,
+   "scanned_at": "2026-10-26T14:13:01.267527",
+   "date": "2026-10-26",
+   "agent": 73.5,
+   "market_price_t0": 74.5,
+   "edge": -0.010000000000000009,
+   "confidence": 0.59,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.74, 0.73). (0) The condition is not yet met. Anthropic's only confirmed valuation is $965B (Series H, May 28). CoinGecko shows BTC at about $1.62T. The S-1 filed Oct 26 contains no price range, share count or valuation, so YES needs a priced IPO, or post-IPO trading, above BTC's cap before Dec 31. (a) About 9.5 weeks remain. The roadshow is reported for the week of Nov 9 and pricing for the week of Nov 16 or before Thanksgiving, which leaves roughly 5 weeks of slack. (b) If nothing changes, Anthropic stays at $965B and the market resolves NO. Because the IPO is filed and scheduled, though, the status quo is not static. (c) NO scenario: AI-market jitters push the IPO into January, or the deal prices at the cooled $1.5T talk and trades flat. A resolver might also use a basic share count rather than fully diluted, or BTC could rally above about $90K and raise the bar. (d) YES scenario: the IPO prices before Nov 26 at $1.75–2T, matching reported targets and the Liquid perpetual at about $1.92T, and credible outlets report a market cap above about $1.6T. Even a $1.5T pricing could cross the bar on a first-day pop, since the window is 'at any point'. Related Polymarket markets give about 94.5% for an IPO by Dec 31, and the closing-cap strikes show about 87% above $1.5T and about 69% above $1.75T. That implies roughly 0.945 × ~0.8 ≈ 0.75, consistent with the 74.5% anchor. I stay near the market and shade slightly lower for the diluted-versus-basic ambiguity, the documented slippage history, and the correlated risk-off that is hitting both AI and BTC.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5670",
+   "has_trace": true
+  },
+  {
    "id": 4433,
    "scanned_at": "2026-10-11T10:59:01.810724",
    "date": "2026-10-11",
@@ -6351,6 +6365,20 @@
  ],
  "Will Waymo operate in 12-15 cities on December 31 2026?": [
   {
+   "id": 5677,
+   "scanned_at": "2026-10-26T16:26:21.843219",
+   "date": "2026-10-26",
+   "agent": 79.5,
+   "market_price_t0": 81,
+   "edge": -0.014499999999999957,
+   "confidence": 0.66,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.79, 0.80). (0) The condition is not resolved, but the status quo already sits inside the range. Waymo's Rides page and FAQ (Oct 26) list 15 metros: 13 on the Waymo app plus Austin and Atlanta via Uber. The FAQ's \"anyone can ride\" list covers 12 app cities plus the 2 Uber cities, which gives 14 unambiguous ones. Las Vegas is still \"welcoming riders\" gradually. Either count, 14 or 15, resolves Yes. (a) About 9.5 weeks remain until 11:59 PM ET on Dec 31, 2026. (b) If nothing changes, the count stays at 14–15 and resolves Yes. (c) No mainly requires a 16th city to open publicly by year-end. Detroit is the only realistic candidate: it went driverless for employees only on Oct 6, and the recent ~2-month employee-to-public lag points to December. A resolver could also count a Detroit launch with a gradual rollout once Waymo adds it to its \"Serving Riders In\" list, as Waymo did with Las Vegas. A loose \"16 cities\" headline count is another risk. A multi-city suspension pushing the count below 12 is very unlikely. (d) Yes happens if Detroit's public opening slips to early 2027, as analyst Abuelsamid expects. DC is legislatively blocked until 2027 or later, and London lacks DfT and TfL approvals. Waymo's ~0.6 cities per month pace keeps a 16th city a real risk. I stay near the market's 81%, shaded slightly down for the Detroit timing and the risk of lenient counting.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5677",
+   "has_trace": true
+  },
+  {
    "id": 4693,
    "scanned_at": "2026-10-14T07:57:17.711035",
    "date": "2026-10-14",
@@ -6494,6 +6522,20 @@
   }
  ],
  "Will Turkey schedule early presidential elections in 2026?": [
+  {
+   "id": 5674,
+   "scanned_at": "2026-10-26T15:39:28.581459",
+   "date": "2026-10-26",
+   "agent": 7.3,
+   "market_price_t0": 9,
+   "edge": -0.017499999999999988,
+   "confidence": 0.64,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Not met: the YSK lists only the June 2026 by-election, and 26 Oct reporting confirms no parliamentary vote and no official date. (a) About nine weeks remain, with December largely taken up by the budget plenary. (b) Status quo is NO: official signals point to a 360-vote renewal decision for a March–April 2028 vote, which need not be taken in 2026. (c) NO: the AKP waits until 2027 or 2028, after the DEM/PKK process, while Kılıçdaroğlu's offer stays conditional and the budget fills December. (d) YES: the AKP uses the rump CHP's 44 votes (about 375 in total) to pass a renewal resolution in Nov–Dec, even one setting April 2028, which falls before the regular May 2028 date. The 2018 precedent of a sudden snap call and an AKP-aligned reporter's 'next few months' claim explain the recent rise from 4.5% to 9%. I sit slightly below the 9% market because official signals and incentives favour delay.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5674",
+   "has_trace": true
+  },
   {
    "id": 2412,
    "scanned_at": "2026-09-01T12:11:25.402331",
@@ -10026,6 +10068,20 @@
   }
  ],
  "Will Strait of Hormuz traffic not return to normal in 2026?": [
+  {
+   "id": 5679,
+   "scanned_at": "2026-10-26T17:06:36.586806",
+   "date": "2026-10-26",
+   "agent": 92.5,
+   "market_price_t0": 89.5,
+   "edge": 0.030000000000000027,
+   "confidence": 0.73,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.93, 0.92). (0) The condition is not met. PortWatch data runs through 18 Oct, and the 7-day average is about 3.7 against the 60 threshold. No day since March has reached 60; the peak was 51 on 24 Jun, and the best 7-day average was about 30 in late June. (a) About 9 weeks remain until 31 Dec 2026. Because of PortWatch's weekly publication lag, any qualifying recovery would effectively need to show up by mid-to-late December, though data for late-December dates published in January would still count. (b) If nothing changes, the average stays in single digits and the market resolves Yes, \"No Return to Normal Traffic in 2026\". (c) The No-on-recovery path is the most likely one: attacks are at a record in October, the IRGC has reportedly re-declared closure, talks are stalled over Iran's seven conditions, the US blockade continues and insurance cover is largely unavailable. That keeps counts near zero, and even a November deal would face mine clearance and insurer confidence delays, as in June. (d) The path to a No resolution is a quick US–Iran agreement in early November, perhaps after the US midterms. It would require the blockade to be lifted and a surge of stranded ships plus carrier returns pushing a 7-day average to 60 or more by late December. The June precedent, which reached only about 30, makes this hard. The unverified RAND figure of a ~94–107 pre-war average suggests 60 may be a somewhat lower bar than it looks. The market sits at 89.5% Yes, while sibling contracts imply about 7–12% for a return by year-end (Kalshi 7–8%, Polymarket Dec 31 at 11.5%, Nov plus Dec monthly contracts about 10%). Given the escalation and the slow ramp-up precedent, I lean slightly above the market at 93%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5679",
+   "has_trace": true
+  },
   {
    "id": 5123,
    "scanned_at": "2026-10-19T15:48:05.021174",
@@ -19204,7 +19260,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-26T08:54:21.044Z",
+  "last_sync": "2026-10-26T20:28:48.591Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -23553,6 +23609,20 @@
  ],
  "Will the next Google Gemini Pro model added to the Arena Leaderboard debut at a score of at least 1490?": [
   {
+   "id": 5667,
+   "scanned_at": "2026-10-26T13:29:45.532150",
+   "date": "2026-10-26",
+   "agent": 20,
+   "market_price_t0": 24.3,
+   "edge": -0.04249999999999998,
+   "confidence": 0.51,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.20). (0) Not met: the Oct 22 leaderboard read shows no newly added Pro-labeled Gemini. The only Pro rows are 3.1 Pro Preview (1487) and 3 Pro (1486). Gemini 4 Argon (~1517) was added Sep 30, before the question window, and is labeled 'Argon', not 'Pro', so it does not qualify. (a) About 66 days remain until Dec 31, 2026. (b) Status quo is No, since no qualifying model appears. (c) NO: Google keeps elemental codenames (the leaked next model is 'gemini-4-carbon-preview'), Argon fills the Pro slot after 3.5 Pro's reported cancellation, and nothing Pro-labeled ships by Dec 31. Google's models page lists no gemini-4-pro id or date, and the related market prices no Pro release by Nov 1 at ~97%. (d) YES: a 'Gemini 4 Pro' launches in Nov–Dec and debuts near Argon or above the 3.8 Flash level of 1496. Conditional on a Pro-labeled model, clearing 1490 is ~85% likely given prior Pro debuts at 1500–1501. The crux is naming and timing (~20–25%). I anchor on the market's 24% and shade slightly lower because leaks favor the 'Carbon' codename over the Pro label.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5667",
+   "has_trace": true
+  },
+  {
    "id": 5115,
    "scanned_at": "2026-10-19T13:20:56.290772",
    "date": "2026-10-19",
@@ -26137,6 +26207,20 @@
  ],
  "Will Russia capture the Royal Café Alex in Kostyantynivka by December 31, 2026?": [
   {
+   "id": 5657,
+   "scanned_at": "2026-10-26T10:14:21.408530",
+   "date": "2026-10-26",
+   "agent": 12.5,
+   "market_price_t0": 15,
+   "edge": -0.024999999999999994,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.12). (0) Not met. The live query of ISW's Assessed Russian-Controlled layer on Oct 26 found no polygon touching the café, or anywhere in the wider box of about 37.66–37.70E, 48.51–48.545N. The Assessed Advances layer was not queried separately. ISW's Oct 16 text says Russia has only infiltrated southern and central Kostyantynivka, which does not qualify, with no Russian presence in the north. Its Oct 25 report records no confirmed advances near the city. (a) About 9.5 weeks remain until Dec 31, 2026, plus a one-update persistence test. (b) The status quo is NO: ISW reports net Russian losses since Sep 1 (about 7 km²/day in October) and Ukrainian gains west of the city. (c) NO: the grinding street fight continues through winter, and infiltrations near Panfilova St and from Novodmytrivka are repeatedly cleared, so ISW never converts the NW sector to control or advance shading. (d) YES: Russian groups between Panfilova St and the Kryvyi Torets consolidate with the northern pincer, geolocated footage appears, and ISW shades an advance polygon overlapping the building by late December. Anchor: Polymarket is at 15% and has fallen sharply (from 86%), the Nov 30 sibling sits at 9%, and the high-volume 'all of Kostyantynivka by Dec 31' trades at 12.5%. Logically the café should price at or above the whole-city market, which caps how far below 15% I go. Given ISW's conservative shading and the current adverse trend for Russia, I land slightly under the market at 13%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5657",
+   "has_trace": true
+  },
+  {
    "id": 5083,
    "scanned_at": "2026-10-19T03:55:13.414765",
    "date": "2026-10-19",
@@ -27312,6 +27396,20 @@
   }
  ],
  "Will Lake Powell's minimum elevation be at least 3,500 but below 3,510 ft?": [
+  {
+   "id": 5663,
+   "scanned_at": "2026-10-26T12:04:01.635948",
+   "date": "2026-10-26",
+   "agent": 6,
+   "market_price_t0": 14.5,
+   "edge": -0.08499999999999999,
+   "confidence": 0.7,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.05) after one crux research pass. (0) The condition is not met. USBR RISE shows 3,526.10 ft on Oct 24, and the in-window low is 3,516.62 ft (Sep 15). YES needs a new low below 3,510 but at or above 3,500. (a) About five months remain to Mar 31, 2027, with USBR data as of Apr 15 governing. (b) The status quo is NO. The lake is rising after the Oct 21–23 flood (inflow about 41k cfs vs outflow about 6.6k cfs). The pre-flood October 24-Month Study's 90%-exceedance dry case bottoms only at about 3,511 ft at end of March, starting from a December value of 3,518 ft that the lake already exceeds by about 8 ft. (c) NO: flood storage largely stays, the release holds near 6 maf, and Flaming Gorge supplemental water continues through April, so the low lands around 3,516–3,520 ft. (d) YES: a winter far drier than the 42%-of-average dry case, plus a release near 7 maf or a cut in Flaming Gorge water, drops the lake about 20 ft by late March. The only supporting source is an analog tool (about 3,508 ft by Apr 8) that ignores operations. I discount the market's 14% (its recent +8.5% rise is unexplained) because the flood cushion sits on top of an official dry case that already stayed above 3,510. I keep about 7% for policy changes, daily lows below month-end values, and model error.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5663",
+   "has_trace": true
+  },
   {
    "id": 5015,
    "scanned_at": "2026-10-18T07:52:48.832053",
@@ -29208,6 +29306,70 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.15, 0.15). (0) No source shows Orbán arrested or detained as of 2026-10-25. Magyar Nemzet places him walking freely in Paris today. No suspect notice, summons, warrant or detention request naming him has been reported. (a) About 67 days remain until 2027-01-01. (b) The status quo is No: Orbán is not a formal suspect, and the complainants' motion to name him in the Oschadbank convoy case has gone unanswered by a prosecution service with only an acting head, which Telex describes as the bottleneck. (c) NO scenario: KNYF keeps the convoy suspect list at the five current suspects or moves slowly. Alternatively Orbán is named a suspect but only summoned for questioning or given criminal supervision or a travel ban, none of which qualifies. Its capacity is also tied up with Matolcsy follow-ups through year-end. (d) YES scenario: KNYF names Orbán a suspect in the convoy case, which moved to the central office on Oct 2. Since he gave up his seat, no immunity vote stands in the way. He could then be briefly taken into custody for questioning, as Matolcsy was, which counts under the rules even before any judge's ruling. The Hankó and Matolcsy precedents show suspect-stage detention happens fast once prosecutors decide to act. The market sits at 21%, up 10 points in a week on the Matolcsy arrest, which looks partly like momentum rather than Orbán-specific news. Arresting a former PM who leads the opposition requires a first procedural step that has not occurred, and the reference class for that inside about two months is low. I shade below the market to around 15%.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/5601",
+   "has_trace": true
+  }
+ ],
+ "Will GPT Astra 6.1+ debut at a score of at least 1440 by June 30, 2027?": [
+  {
+   "id": 5683,
+   "scanned_at": "2026-10-26T18:40:13.650062",
+   "date": "2026-10-26",
+   "agent": 59.5,
+   "market_price_t0": 58.5,
+   "edge": 0.010000000000000009,
+   "confidence": 0.44999999999999996,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.63, 0.56). (0) Not resolved. No GPT Astra 6.1+ exists. OpenAI shelved GPT-6.1 Astra on Sep 28, 2026 over deception and scope-authorization failures (WSJ, CNBC, CBS), and shipped GPT-6.1 Sol instead, which is excluded. The live Arena page could not be read because of a Cloudflare block. (a) About 8 months remain until the June 30, 2027 deadline. (b) Status quo is No: a qualifying Astra-named model at version 6.1 or higher would have to ship and appear on the no-style-control text board, without an AutoEval label, by then. (c) NO path: OpenAI's safety-gated Astra line stays delayed because of the second rogue-agent safety stream and the move of training offline. Or a successor ships under another name, such as a dated GPT-6 Astra snapshot or a Sol or Terra tier. Or Arena lists it late or only on non-text boards. (d) YES path: OpenAI re-RLs the same base model and ships something like GPT-6.2 Astra in late 2026 or H1 2027, and Arena lists it. The prior Astra reportedly sits at about 1477 and OpenAI entries cluster at 1459–1485, so 1440 is a comfortable bar. The anchor is this thin $15k market at 58.5%, down from 76.5%. The much more liquid related markets put a 6.1+ Astra release by Dec 31, 2026 at about 86%, by Nov 30 at about 52%, and even by Oct 31 at 16%, which implies a fairly high chance of release within the window. I estimate roughly 0.88 for release × 0.85 for a text-board listing × 0.9 for the score, which supports a modest move above the anchor. I hold back from going further because those release markets may use a different release definition, and the text-board scores I found are unverified.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5683",
+   "has_trace": true
+  }
+ ],
+ "Anthropic IPO before 2027?": [
+  {
+   "id": 5671,
+   "scanned_at": "2026-10-26T14:54:41.766901",
+   "date": "2026-10-26",
+   "agent": 90.5,
+   "market_price_t0": 93,
+   "edge": -0.025000000000000022,
+   "confidence": 0.72,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.91, 0.90). (0) Not yet resolved. Anthropic publicly filed its S-1 on Oct 26, 2026 for a Nasdaq listing under \"ANT\", confirmed on its own site and on EDGAR, but the registration statement is not effective and no shares have been sold. Still needed: a price-range amendment, a roadshow, SEC effectiveness, pricing and first trade, all by Dec 31. (a) About 9.5 weeks remain until the deadline. (b) If nothing changes, the reported plan holds: a roadshow around Nov 9 and listing the week of Nov 16 (WSJ, Bloomberg, Axios say before Thanksgiving). That leaves about 5–6 weeks of slack plus a fallback of pricing Dec 8–18. (c) NO: the AI tape keeps deteriorating (CoreWeave and Nebius down 30%+ in October, a thin fall IPO calendar, weak long-only demand at Oura), a government-dispute headline hits, or SEC comments arrive. Anthropic has no cash need after its $65B May round, so it postpones into 2027, as Oura did hours before pricing at 99% Kalshi odds. (d) YES: the late-stage setup is complete, with a 335-page S-1, a 22-bank syndicate, investor pre-marketing and a reported Nvidia cornerstone interest. Pricing well above the $965B Series H mark gives room to cut price rather than pull the deal, so it prices around Nov 18–24. I anchor on Polymarket's 93% (sibling Dec 15 and Dec 31 contracts at 93.5%) and shade slightly lower. The reason is that the timeline has already slipped once, the tape is hostile and documented late pulls exist, while the research surfaced no new information beyond what the market has priced.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5671",
+   "has_trace": true
+  }
+ ],
+ "Will Seattle have less than 1.75 inches of precipitation in October?": [
+  {
+   "id": 5665,
+   "scanned_at": "2026-10-26T12:44:39.768878",
+   "date": "2026-10-26",
+   "agent": 68.5,
+   "market_price_t0": 62,
+   "edge": 0.06500000000000006,
+   "confidence": 0.55,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.70, 0.67). (0) Not resolved. The ACIS feed for the named source 'Seattle City Area' (SEWthr) shows 0.68\" through Oct 25, notably above Sea-Tac's 0.30\", so about 1.07\" more is needed by Oct 31. (a) Six days of weather remain. (b) Status quo: automated forecasts (Wunderground ~0.6\", timeanddate ~0.57\", Meteored ~0.5\", KIRO 0.25-0.5\") plus light Oct 26 showers point to a city-site finish around 1.2-1.5\", under 1.75\". Oct 30-31 look mostly dry per the ECMWF ensemble, and the wetter models overshot the Oct 25 system. (c) NO: the Tue night-Thu front (NWS 80-90% chances, thunderstorms) overperforms at the city site, which has caught heavier showers than Sea-Tac this month, adding 1.1\"+. (d) YES: the front delivers the modeled 0.4-0.7\". The market at 62.5% (sibling 1.75-2.5 at 27.5%) likely already prices the higher city baseline and a wetter trend. Needing 1.5-2x model totals argues for slightly more YES, tempered by forecast uncertainty and preliminary data.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5665",
+   "has_trace": true
+  }
+ ],
+ "Will Donald Trump win the Nobel Peace Prize in 2027?": [
+  {
+   "id": 5655,
+   "scanned_at": "2026-10-26T09:29:40.562330",
+   "date": "2026-10-26",
+   "agent": 4.3,
+   "market_price_t0": 9,
+   "edge": -0.0475,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.04). (0) Not met: NobelPrize.org and Wikipedia show the 2026 prize went to Navi Pillay; nothing is announced for 2027. A Yes needs a nomination by 31 Jan 2027 (or a committee addition in February) and selection before the ~8 Oct 2027 announcement. (a) That announcement is about 11.5 months away; the backstop is 31 Mar 2028. (b) Status quo is No: Trump has lost two straight years, is openly hostile to the committee and Norway, and the 2026 citation framed the prize as defending international law while the US sanctioned the ICC hours later. (c) No: the Iran and Ukraine conflicts stay unresolved or end in coercive, fragile deals, and the refilled committee (same non-Trump-aligned parties) picks a rights or civil-society laureate from ~300 candidates. (d) Yes: Trump brokers a durable Iran settlement and Russia–Ukraine ceasefire, endorsed by both warring sides, and the committee rewards it despite the feud. The 9% Polymarket anchor is thin (about $59k) and long-dated, which typically inflates longshots. Experts rated him near zero for 2026, 2026 markets had him around 1% at announcement, and the post-announcement escalation (insults, ICC sanctions) is new negative information, so I shade below market while keeping a tail for a major peace deal.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5655",
    "has_trace": true
   }
  ]

@@ -5583,6 +5583,20 @@
  ],
  "Will Kuomintang (KMT) win the most head of local government elections in the 2026 Taiwan local elections?": [
   {
+   "id": 5634,
+   "scanned_at": "2026-10-26T03:25:22.690943",
+   "date": "2026-10-26",
+   "agent": 64.5,
+   "market_price_t0": 69,
+   "edge": -0.04499999999999993,
+   "confidence": 0.5,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.66, 0.63). (0) Not resolved: the vote is Nov 28, 2026 and the CEC shows no results. (a) About 33 days remain. (b) Status quo by ratings: KMT about 9 safe or leaning (Taoyuan, Miaoli, Nantou, Yunlin, Hualien, Taitung, Kinmen, Lienchiang, Taichung), DPP about 7 (Tainan, Kaohsiung, Chiayi County, Chiayi City, Pingtung, Changhua, Yilan), Hsinchu City independent, and 5 toss-ups (Taipei, New Taipei, Keelung, Hsinchu County, Penghu). Since a tie goes to the DPP alphabetically, the KMT needs 2 of the 5 toss-ups, or 3 if Taichung flips. (c) NO: a correlated DPP wave on Lai's 51% approval and the unpopular KMT chair sweeps the northern toss-ups or Taichung, giving the DPP 11-12 seats. (d) YES: the historical late KMT rebound and local organisation hold Keelung and Hsinchu County, or Taipei (TVBS Chiang +8), leaving the KMT at 11-12. The DPP's own targets of 7-9 seats also imply a KMT plurality. The market is at 69% after a -18.5pt 30-day slide, and my seat arithmetic gives roughly two-thirds odds, so I shade slightly below the market for correlated swing risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5634",
+   "has_trace": true
+  },
+  {
    "id": 4577,
    "scanned_at": "2026-10-13T04:37:48.789411",
    "date": "2026-10-13",
@@ -6116,6 +6130,20 @@
   }
  ],
  "Any Brazil STF Justice removed by impeachment before 2027?": [
+  {
+   "id": 5614,
+   "scanned_at": "2026-10-25T22:44:57.016259",
+   "date": "2026-10-25",
+   "agent": 2.5,
+   "market_price_t0": 7.6,
+   "edge": -0.051,
+   "confidence": 0.845,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.03, 0.03). (0) Not resolved: the resolution-source read and all research reports agree that no STF justice has been removed, and no petition has even been received. 109 requests sit parked in the Senate, and no committee referral, admissibility vote or trial is scheduled. (a) About 9.5 weeks remain until 31 Dec 2026, including the year-end recess period. (b) Status quo is No. Senate President Alcolumbre has reportedly told interlocutors (O Globo, 13 Oct) he will not advance STF impeachment requests this year, even if Flávio Bolsonaro wins. He is using them as leverage for his February 2027 re-election. (c) No path: petitions stay parked through December, and the pro-impeachment Senate (49–54 declared votes) takes office on 1 Feb 2027, after the deadline. That is by far the likeliest outcome. (d) Yes path: Alcolumbre reverses course after the runoff, or the Mesa bypasses him. The lame-duck Senate would then need a 54-vote opening/pronúncia under Gilmar Mendes's injunction, roughly 30+ days of statutory deadlines, and a 54-vote conviction, with no STF injunction stopping it. This has never happened in Brazilian history. The market's 7.6% is a wide-spread (3/12), thin-volume print that likely reflects excitement over the Moraes scandal and the runoff, not the 2026 calendar. I go below it to about 2%, keeping a small tail for an unexpected lame-duck move.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5614",
+   "has_trace": true
+  },
   {
    "id": 2432,
    "scanned_at": "2026-09-01T17:48:07.212595",
@@ -12003,6 +12031,20 @@
  ],
  "Will FISA Section 702 reauthorization become law this year?": [
   {
+   "id": 5631,
+   "scanned_at": "2026-10-26T02:42:34.313568",
+   "date": "2026-10-26",
+   "agent": 16.5,
+   "market_price_t0": 18.5,
+   "edge": -0.01999999999999999,
+   "confidence": 0.5,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.17, 0.16). (0) The condition has not been met. The Brennan Center (updated about Oct 16) and CRS (June 22) both say Section 702 and all of Title VII were repealed on June 12, 2026. Only 10-day and 45-day extensions became law this year, and no multi-year bill has passed both chambers. (a) Congress returns Nov 9, leaving roughly five legislative weeks before Dec 31, with Thanksgiving in between, a CR expiring Dec 11, and NDAA text not expected until the week of Dec 7. (b) If nothing changes, the answer is NO. The FISC certifications keep collection running until about March 17, 2027, so there is no hard deadline forcing action this year, and Congress already let July and September pass without acting even after Clayton replaced Pulte. (c) NO scenario: the NDAA or omnibus slips, or is stripped of 702 language because of the cross-ideological reform bloc. Trump's SAVE Act linkage and Democratic resistance (Warner said 'nothing has changed' after Clayton's confirmation) persist, and the issue is pushed to Jan–Mar 2027 in the new Congress. Even if a deal passes, an 18-month or 3-year term could fail a strict reading of 'for two years'. (d) YES scenario: Thune's stated plan to use the NDAA works. A leaders' compromise NDAA in mid-December carries a roughly two-year 702 revival, Democrats accept it now that a confirmed DNI is in place, it clears 60 votes in the Senate, and Trump signs it. This mirrors the Dec 2023 NDAA-rider precedent and the unbroken history of reauthorization at every sunset. The market sits at 18.5%, up 7 points this week, probably on lame-duck chatter. I see no unpriced fact strong enough to move far from it. The no-deadline argument and the term-length risk lean me slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5631",
+   "has_trace": true
+  },
+  {
    "id": 5002,
    "scanned_at": "2026-10-18T04:05:21.907654",
    "date": "2026-10-18",
@@ -12827,6 +12869,20 @@
  ],
  "OpenAI announces it has achieved AGI before 2027?": [
   {
+   "id": 5617,
+   "scanned_at": "2026-10-25T23:40:27.050087",
+   "date": "2026-10-25",
+   "agent": 10.5,
+   "market_price_t0": 13,
+   "edge": -0.024999999999999994,
+   "confidence": 0.6,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.10). (0) The condition is not met. OpenAI's News page, checked through Oct 23, has no formal AGI declaration. Brockman's Sept 3 line, \"Welcome to the AGI era,\" and the claim that Astra \"likely marks the onset\" of AGI were widely reported as stopping short of a declaration, and the market did not resolve on them. (a) About 9.5 weeks remain until Dec 31, 2026 ET. (b) If nothing changes, the market resolves No. (c) No scenario: safety incidents keep dominating the news cycle. These include 19 disclosed rogue incidents, the paused training run, the abandoned GPT-6.1 Astra rollout and the Oct 23 decision to stop training on the live internet. Add the Microsoft verification clause, with revenue share and IP rights riding on AGI, and OpenAI lets the year end with more hedged talk and no explicit claim. (d) Yes scenario: Altman makes good on his August TIME statement that OpenAI would have an internal system he would call AGI by year-end. He publishes a December blog post or gives an interview saying \"we have built AGI\" by the charter's self-graded definition, and a lenient resolver plus a consensus of reporting count it. The market anchor is 13%, flat over 30 days, down from a 19-27% spike after Astra. The research adds October safety setbacks and a shelved next-tier model, which argue against a near-term triumphal claim. On the other side, Altman's dated pledge and the loose resolution wording keep a real tail alive. I shade slightly below the market, to 11%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5617",
+   "has_trace": true
+  },
+  {
    "id": 4992,
    "scanned_at": "2026-10-18T01:47:06.437183",
    "date": "2026-10-18",
@@ -13396,6 +13452,20 @@
   }
  ],
  "China x India military clash by December 31, 2026?": [
+  {
+   "id": 5636,
+   "scanned_at": "2026-10-26T04:12:26.811676",
+   "date": "2026-10-26",
+   "agent": 6.5,
+   "market_price_t0": 7.5,
+   "edge": -0.009999999999999995,
+   "confidence": 0.64,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Resolution check: no credible report shows a qualifying use of force (gunfire, melee with injuries, damaging ramming) since Jan 29, 2025. Reporting from Oct 22–25, 2026, including the ITBP chief's confirmation, the MEA response and the Free Press Journal, describes only non-violent face-offs with \"no violence or casualties\". The event has not resolved and is not yet impossible.\n(a) About 66 days remain until Dec 31, 2026, and they fall in winter, when operations at altitude and patrol contact in the Taksing area are limited.\n(b) Status quo is No. The Arunachal standoff since July 2026 has run through hotlines, the first Eastern Sector corps commander talks, the August Special Representatives deal and Xi's BRICS visit without force. Ex-Army chief Naravane called the face-offs \"nothing new\".\n(c) NO scenario: the tents stay put or wind down quietly over winter, both sides keep their \"generally stable\" line, and no scuffle is disclosed.\n(d) YES scenario: a patrol or an attempt to dislodge troops at Asaphila or another point turns into a Yangtse-style fight with clubs and injuries that gets reported. Alternatively, an earlier withheld \"brief confrontation\" is later disclosed as a melee, as happened with the gallantry-citation revelations.\n\nThe base rate is about 3–4 publicly known qualifying clashes in 6 years, none since 2022. That implies roughly 5% over two months, nudged up by the active multi-point standoff and opaque disclosure. Loose \"skirmish\" labels in the media add a small ambiguity risk. The market sits at 7.5%. I see no unpriced information and trim slightly for winter and the short window.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5636",
+   "has_trace": true
+  },
   {
    "id": 1974,
    "scanned_at": "2026-08-26T06:24:36.873822",
@@ -14113,6 +14183,20 @@
  ],
  "Israel x Turkey military clash before 2027?": [
   {
+   "id": 5610,
+   "scanned_at": "2026-10-25T21:44:31.221194",
+   "date": "2026-10-25",
+   "agent": 5.5,
+   "market_price_t0": 9,
+   "edge": -0.034999999999999996,
+   "confidence": 0.6799999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) The condition is not met. The resolution-source read and all four research dimensions find no use of force between Israeli and Turkish military forces as of Oct 25, 2026. The Aug 18 Abu al-Duhur strike hit a Syrian base, Turkey denied any personnel were present, and the reported naval shadowing in the East Med was non-violent and excluded by the criteria. (a) About 67 days remain until Dec 31, 2026. (b) If nothing changes, the market resolves No: no direct Israel–Turkey kinetic exchange has ever occurred, including through about 18 months of heightened rivalry and the worst near-miss in August. (c) The NO path: Israel keeps hitting Syrian sites before Turkish crews arrive, Turkey keeps its stated restraint, and the Azerbaijan-brokered hotline and US pressure hold. Election-season rhetoric then fades after the Oct 27 vote, and Netanyahu and Erdogan both say (Oct 19–20) they want to avoid confrontation. (d) The YES path: Turkey stands up a Turkish-crewed radar or air-defence site in Syria and Israel strikes it, or Turkish air defences fire on Israeli jets. A naval incident in the East Med is a second route. A former Turkish air force chief, however, says a real deployment would take months to more than a year, which makes this window unlikely. The Polymarket anchor is 9% (bid 8 / ask 10), already down 4.5 points over 30 days. Given the short window, the narrow criteria and the zero base rate, I shade slightly below the anchor to allow for long-shot bias, while keeping weight on post-election escalation risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5610",
+   "has_trace": true
+  },
+  {
    "id": 4906,
    "scanned_at": "2026-10-17T00:09:41.782796",
    "date": "2026-10-17",
@@ -14230,6 +14314,20 @@
   }
  ],
  "Will Ricardo Ruiz Velasco be arrested in 2026?": [
+  {
+   "id": 5645,
+   "scanned_at": "2026-10-26T06:24:50.919050",
+   "date": "2026-10-26",
+   "agent": 9,
+   "market_price_t0": 12.2,
+   "edge": -0.032,
+   "confidence": 0.6,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) Nothing shows the condition already met. Infobae on Oct 6, 2026 says Ruiz Velasco remains a fugitive, and the State Department and DEA wanted pages still list him with a $10M reward. The March 2026 Mexicali 'Doble R' arrest was a different man, Ángel Javier 'N', and does not count. (a) About 9.5 weeks remain until Dec 31, 2026. (b) If nothing changes, he stays at large and the market resolves No. (c) NO: he keeps sheltering in his Jalisco stronghold (Ixtlahuacán del Río) as he has for years. Federal forces keep arresting mid-tier figures such as El Tanque, Mando 20 and his operator Nefta without reaching him, and the year ends. (d) YES: intelligence from detained associates (R1, Nefta, El Tanque) or a tip prompted by the US reward leads to a Marina or Army capture. Even a brief detention or a negotiated surrender would count. The post-Mencho tempo of CJNG arrests is real, with three senior arrests in October alone, which keeps the per-month hazard non-trivial. The market sits at 12.2% (bid 8%, ask 16%) after falling about 38 points in a week. The research found no fresh sighting or targeted operation that explains or contradicts that drop. Base rates for long-term top-tier fugitives point to a low hazard over a two-month window, so I sit slightly below the market midpoint.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5645",
+   "has_trace": true
+  },
   {
    "id": 4133,
    "scanned_at": "2026-10-07T17:40:50.061194",
@@ -17371,6 +17469,20 @@
  ],
  "Yoon out of custody before 2027?": [
   {
+   "id": 5625,
+   "scanned_at": "2026-10-26T01:14:38.537238",
+   "date": "2026-10-26",
+   "agent": 3.3,
+   "market_price_t0": 7.5,
+   "edge": -0.042499999999999996,
+   "confidence": 0.8,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.03, 0.04). (0) Resolution check: the condition has not been met. Reports from SBS, UPI and Kyunghyang dated Oct 16–22, 2026, and Wikipedia, all describe Yoon as imprisoned at Seoul Detention Center. Nothing shows he has been released, and nothing makes release impossible yet.\n(a) About 9 weeks remain, to Dec 31, 2026.\n(b) The status quo resolves NO. Yoon is serving a 7-year sentence in the obstruction case that the Supreme Court reportedly finalized on Jul 9, 2026. He also has a life sentence for insurrection on appeal, with closings around Nov 5 and a verdict possibly in December. A 30-year drone-case sentence is also on appeal, with a verdict reported for Dec 4. Bail is not available against a finalized sentence.\n(c) NO scenario: the appeals uphold heavy sentences, or the verdicts slip into 2027, and Yoon stays at Seoul Detention Center through year-end. This is overwhelmingly likely.\n(d) YES scenario: either a medical suspension of sentence or a surprise pardon frees him, or appellate rulings collapse across every case and the finalized sentence is somehow vacated. The pardon route would require clemency from the hostile Lee Jae-myung government, so this path is close to unthinkable within the window. No source reports any bail, pardon or medical-release move.\nThe market sits at 7.5% (bid 7, ask 8). That looks like typical longshot premium and noise from the recent appellate acquittals in minor cases, which do not affect his detention. I shade it down to about 3%, holding some residual weight on the chance that the finality of the 7-year sentence is misreported or that an unusual health or legal event occurs.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5625",
+   "has_trace": true
+  },
+  {
    "id": 3146,
    "scanned_at": "2026-09-18T20:06:26.600219",
    "date": "2026-09-18",
@@ -19092,7 +19204,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-25T18:24:21.545Z",
+  "last_sync": "2026-10-26T08:54:21.044Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -19484,6 +19596,20 @@
   }
  ],
  "Will Clavicular wear a Yarmulke in 2026?": [
+  {
+   "id": 5650,
+   "scanned_at": "2026-10-26T07:58:06.484563",
+   "date": "2026-10-26",
+   "agent": 28,
+   "market_price_t0": 41.5,
+   "edge": -0.13499999999999995,
+   "confidence": 0.45999999999999996,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.30, 0.26) after one crux research pass. (0) No source shows the condition met. JTA/JPost, Ynet, the Free Press and the NYU Decoding Antisemitism study all cover the July 8–14 Israel trip, and none reports a real kippah photo or video. The only kippah images that circulated were fan memes and AI fakes, which should not count under a 'photographed or videotaped' rule.\n\n(a) About 66 days remain, to Dec 31, 2026.\n\n(b) If nothing changes, the market resolves No.\n\n(c) No scenario: he surrendered his passport on Oct 22 under rape-case bail, so a repeat Israel trip is out. His schedule is secular (court on Nov 24, college-tour stops), and his defense posture favours staying low-profile. Under those conditions no kippah appears.\n\n(d) Yes scenario: one of two things surfaces and gets credible pickup.\n- Unreported July 10–14 footage of him in a paper kippah at the Western Wall or with Chabad. The Wall custom makes this plausible, but the visit may have predated the July 10 window.\n- A December Hanukkah or Chabad moment arranged through his Jewish manager and Rabbi Farro. Hanukkah 2026 begins in early December.\n\nThe market sits at 41.5% and has risen 15 points in 30 days, which hints that traders may know of footage or a dispute the research did not find. That uncertainty keeps me from going much lower. Still, with no documented evidence, I shade below the anchor to about 30%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5650",
+   "has_trace": true
+  },
   {
    "id": 5098,
    "scanned_at": "2026-10-19T07:48:18.694809",
@@ -20014,6 +20140,20 @@
   }
  ],
  "Alexandre de Moraes out as Brazil Supreme Court Justice?": [
+  {
+   "id": 5606,
+   "scanned_at": "2026-10-25T20:45:26.975992",
+   "date": "2026-10-25",
+   "agent": 13,
+   "market_price_t0": 18,
+   "edge": -0.04999999999999999,
+   "confidence": 0.55,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.14). (0) Not resolved. Reports dated 25 Oct 2026 show Moraes acting as a sitting STF justice: he voted in the runoff, signed an order in the Bolsonaro case on 24 Oct, and froze assets in the Willer Tomaz probe on 23 Oct. No source reports a resignation or removal announcement.\n\n(a) About 67 days remain until 31 Dec 2026.\n\n(b) The status quo is No, and every formal route is blocked inside the window:\n- Senate president Alcolumbre has shelved all impeachment requests.\n- Removal needs 54 of 81 votes, and the pro-impeachment Senate only sits in Feb 2027.\n- Dino's pedido de vista keeps the STF's Vorcaro inquiry frozen until about mid-December, and that ruling is only on whether to open an investigation.\n- Compulsory retirement is not until 2043.\n\n(c) NO scenario: Moraes rides out the transition while Alcolumbre keeps the requests parked, whoever wins today. Pressure carries into the Feb 2027 Senate, after the market closes. He has already ignored Flávio's repeated calls to resign and reportedly rejected resigning as an admission of guilt.\n\n(d) YES scenario: Flávio wins the runoff (about 66% on Polymarket). Facing near-certain impeachment in 2027 and the Vorcaro case resuming in December, Moraes announces a negotiated early retirement in Nov–Dec, as Barroso did. An announcement alone resolves YES. A PL wing has floated this idea, but Folha reports such a deal is hard to build and no negotiation is confirmed.\n\nMy rough decomposition: about 0.65 × 15% if Flávio wins, plus 0.35 × 3% if Lula wins, which gives about 11%. That is somewhat below the 18% market price. I shade below the anchor because no concrete evidence of an exit plan exists and long-shot Yes prices tend to carry a premium.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5606",
+   "has_trace": true
+  },
   {
    "id": 5055,
    "scanned_at": "2026-10-18T20:20:42.981922",
@@ -26597,6 +26737,20 @@
  ],
  "Will Bitcoin hit $100k by December 31, 2026?": [
   {
+   "id": 5604,
+   "scanned_at": "2026-10-25T20:28:09.362906",
+   "date": "2026-10-25",
+   "agent": 14.8,
+   "market_price_t0": 16.5,
+   "edge": -0.017500000000000016,
+   "confidence": 0.64,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.14, 0.15). (0) The condition has not been met and is not impossible. Binance's own data mirror shows the highest 2026 weekly High at 97,924 (Jan 12–18), with no week since topping about 87.4k, and the current price is about 80.6k. (a) About 67 days remain, until 11:59 PM ET on Dec 31, 2026. (b) If nothing changes, BTC keeps trading in its $79–87k range and the market resolves No. (c) A No path: the Fed stays hawkish with a December hike priced at about 73%, Brent stays above $100 on the Iran war, ETF outflows and weak spot volume persist, and lower highs at $84–87k cap any rally well short of $100k. (d) A Yes path: a US-Iran deal crashes oil and the Fed signals a pause, triggering an August-style 25% week that squeezes shorts from neutral or negative funding. The rally would need to break $90k and wick to $100k on Binance. The Polymarket anchor is 16.5%, and odds have decayed from about 29% in mid-October as price weakened. A driftless barrier calculation at roughly 37% implied vol puts a touch of +24% in 0.18 years near 17%. Implied vol has historically overstated realized vol, and the skew is put-bid, so the true figure is probably slightly lower. I shade marginally below the market to about 14.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5604",
+   "has_trace": true
+  },
+  {
    "id": 4803,
    "scanned_at": "2026-10-15T17:20:56.896950",
    "date": "2026-10-15",
@@ -26947,6 +27101,20 @@
  ],
  "Will NYC have less than 3 inches of precipitation in October?": [
   {
+   "id": 5642,
+   "scanned_at": "2026-10-26T05:39:01.066843",
+   "date": "2026-10-26",
+   "agent": 95,
+   "market_price_t0": 92,
+   "edge": 0.029999999999999916,
+   "confidence": 0.835,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.95, 0.95). (0) The condition is not yet resolved. The NWS CLI and CF6 for Central Park, which feed the NOWData resolution page, show 2.22 in through Oct 25, with Oct 25 recorded as dry. NO needs at least 0.78 in to fall between Oct 26 and 31. (a) Six days remain, through 11:59 PM ET on Oct 31; data finalization follows later. (b) If nothing changes, the total stays well under 3.00 in. The NWS point forecast and the Oct 24 and Oct 25 OKX forecast discussions show high pressure, a dry frontal passage, and VFR conditions through Fri Oct 30. Weather Underground and Hoodline also call the week rain-free. (c) For NO, a coastal low or strong front that the models are missing would have to arrive on Oct 30–31 and drop 0.78 in or more on a single day. That is roughly top-decile daily rainfall. Only one weak signal points that way: an unquantified AccuWeather 'Halloween showers' headline. Climatology gives about a 19% chance of measurable rain on Oct 31, and a much smaller chance of a heavy total. (d) For YES, dry weather continues as forecast and the month finishes around 2.2–2.5 in. Even the ambiguous 'Showers 0.2' item would leave about 2.4 in. The market sits at 92% (bid 90, ask 94). With a dry forecast through day 5 and a 0.78 in cushion, I put YES slightly above the market at about 95%, keeping roughly 5% for forecast error or a heavy Oct 31 event.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5642",
+   "has_trace": true
+  },
+  {
    "id": 4980,
    "scanned_at": "2026-10-17T22:17:19.023174",
    "date": "2026-10-17",
@@ -27237,6 +27405,20 @@
  ],
  "Will PSOE win the most seats in the 2026 Spanish general election?": [
   {
+   "id": 5627,
+   "scanned_at": "2026-10-26T01:59:34.558985",
+   "date": "2026-10-26",
+   "agent": 18,
+   "market_price_t0": 20,
+   "edge": -0.020000000000000018,
+   "confidence": 0.61,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.18, 0.18). (0) Not resolved: the election is on 29 Nov 2026 and the Interior Ministry has no results. PSOE must out-seat PP in the official count. (a) The vote is 34 days away; the campaign runs 13–27 Nov and the poll blackout starts 24 Nov. (b) Status quo is a PP lead in nearly every private poll, 4.4–5.4 points on averages and about 10–35 seats; only the left-biased CIS and a PSOE internal poll show PSOE ahead. (c) NO: polls are roughly right or err modestly toward PSOE, as in 2023 when PP still won 137 to 121, so PP finishes first. (d) YES: a polling miss against the right larger than 2023's, plus Vox draining PP and late tactical left consolidation around housing and the 11 Nov strike, flips first place; IMOP's 1.4-point gap and the market's +7 over 30 days are early hints. ElectoPanel's latest week moved away from PSOE, and IMOP's narrowing was mainly PP loss rather than PSOE gain, so I sit slightly below the 20% market price.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5627",
+   "has_trace": true
+  },
+  {
    "id": 5074,
    "scanned_at": "2026-10-19T01:38:55.383505",
    "date": "2026-10-19",
@@ -27438,6 +27620,20 @@
   }
  ],
  "Will no one leave the Trump Cabinet before 2027?": [
+  {
+   "id": 5613,
+   "scanned_at": "2026-10-25T22:30:44.643313",
+   "date": "2026-10-25",
+   "agent": 34.5,
+   "market_price_t0": 35.3,
+   "edge": -0.007500000000000007,
+   "confidence": 0.55,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.32, 0.37). (0) Not resolved: TrumpInsight (verified Oct 22) shows no listed Cabinet seat announced vacant since the market opened May 22; recent churn has hit only non-listed posts (press secretary, Navy secretary, FDA, Guilfoyle). (a) About 67 days remain until Dec 31, 2026, 11:59 PM ET, including roughly eight weeks after the Nov 3 midterms. (b) Status quo is 'None before 2027', supported by a five-month gap with no listed exit, the longest this term. (c) No: midterm losses trigger Trump's 2018-style post-midterm exits (Sessions, Kelly, Zinke, Mattis in Nov–Dec), e.g. Wiles (WaPo: aides expect her to leave after the elections), Hegseth (related market 21.5% out by Dec 31), Lutnick (16%), or someone leaving rather than face Democratic investigations; even treated as independent, the chance none of the leading names leaves is about 50–60%, and the tail across ~22 seats lowers it further. (d) Yes: Trump's reluctance to fire holds, 'zero chance' on Wiles stands, the planned Iran offensive keeps the security team in place, and any reset is announced in January 2027. Anchor 35.25%, down 19 points in 30 days on purge reporting; no unpriced decisive fact, so I shade slightly lower given the 2018 precedent and the multi-seat tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5613",
+   "has_trace": true
+  },
   {
    "id": 4554,
    "scanned_at": "2026-10-12T23:09:19.896171",
@@ -28299,6 +28495,20 @@
  ],
  "Will October be Melbourne's wettest month of 2026?": [
   {
+   "id": 5608,
+   "scanned_at": "2026-10-25T21:09:22.459678",
+   "date": "2026-10-25",
+   "agent": 84,
+   "market_price_t0": 85.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.69,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.84, 0.84). (0) The condition is not yet resolved. BoM daily observations for Olympic Park 086338 show 88.6 mm for October through 9 am on 25 Oct, already above August's 66.0 mm, so August is out. October still loses if November or December finishes strictly higher; a tie goes to October. (a) About 6 days of October remain. November and December run through 31 Dec, and resolution follows the first-published figures in early January 2027. (b) Status quo: October ends around 90–100 mm. The 31 Oct forecast is 5–10 mm, against BoM's 0–4 mm. October wins unless a later month beats that. (c) NO path: a single 40–50 mm frontal or trough event pushes November or December above about 95 mm, as in Nov 2025 (127.8 mm), Nov 2018 (97.8 mm), Nov 2021 (96.6 mm) and Dec 2018 (104.8 mm). That is roughly 3 in 11 Novembers and 1 in 10 Decembers recently. (d) YES path: the strong El Niño and BoM's 60–80% chance of below-average Nov–Jan rainfall for southern Victoria hold, and ABC modelling of a drier November along the Adelaide–Melbourne coast plays out, so both months stay under October's total. Unconditional climatology would put NO near 25%, and the dry tilt and a likely October total above 90 mm cut that to about 15–17%. That is slightly more NO risk than the market's 85.5%, and the related markets imply only about 13%. I stay near the anchor at 84%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5608",
+   "has_trace": true
+  },
+  {
    "id": 5057,
    "scanned_at": "2026-10-18T21:04:51.026000",
    "date": "2026-10-18",
@@ -28918,6 +29128,86 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.31, 0.33). (0) Not resolved: the USGS daily-value minimum is 6.45 ft (10/25), falling from a 23.82 ft peak on 10/6. YES needs the window minimum to stop between -1.00 and 0.99 ft. (a) About 36 days remain to Nov 30. (b) Status quo: the NWS/NCRFC 10/25 forecast falls to about 1.0 ft on 11/6 and 0.5 ft on 11/8, still declining (~99.5 kcfs, -1 kcfs per 6h), so the river likely enters the bucket around 11/7-8 with three more weeks of recession beyond the forecast horizon. (c) NO, main path: drought persists, Missouri navigation support ends early on 11/15 and cuts base flow, and DTN's 'near low-water threshold (-3.2 ft)' view plays out, carrying the minimum below -1.00 like the 2022-23 lows; the sister buckets price this at about 48%. NO, minor path: CPC's wetter early-November signal for Missouri/Illinois stalls the fall above 1.00, priced under 7% but plausible given the thin margin. (d) YES: the forecast verifies to about 0-0.5 ft, then modest mid-November rain or flattening base flow halts the recession before another 1.5 ft drop. The market anchor of 32% fits my split of roughly 58% below, 11% above and 31% in-bucket; no unpriced information justifies a large move.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/5591",
+   "has_trace": true
+  }
+ ],
+ "Military action against Saudi Oil Pipeline (East-West) by November 30?": [
+  {
+   "id": 5653,
+   "scanned_at": "2026-10-26T08:43:24.701619",
+   "date": "2026-10-26",
+   "agent": 54,
+   "market_price_t0": 57,
+   "edge": -0.029999999999999916,
+   "confidence": 0.45,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.53, 0.55). (0) The condition is not yet met. The market opened Oct 7, so the confirmed Sept 10–11 hit and the disputed Oct 4 Khurais report fall outside the window. The Houthi claims of Oct 24–26 against pumping stations have no Saudi or independent confirmation (Reuters: 'no immediate Saudi confirmation'), and Brent fell on Oct 26. (a) About 35 days remain, to Nov 30 at 11:59 PM Riyadh time. (b) If nothing changes the market resolves No, so Yes needs a new impact on the pipeline or a pumping station that Saudi Arabia or a consensus of credible reporting confirms. (c) No path: Houthi drones keep being intercepted or produce only debris, Saudi Arabia stays silent, and the Tehran talks or a Houthi truce cool things down. (d) Yes path: one of the near-daily Houthi waves gets through to an undefended interior station among the 13 spread over 1,200 km, and AFP or Reuters energy sources, satellite fire detections or a flow-halt statement confirm it. A second route is Iran or Iraqi proxies retaliating against Saudi energy sites after US-Israeli strikes reportedly planned for after Nov 3. The base rate is about 3 credible hits in 7.5 months, with the tempo rising (2 in the 8 weeks before Oct 5), which gives roughly 45–55% for a 5-week window before adding escalation risk. Against that, 19 days of intense claims inside the window have produced zero confirmations, and air defences are being reinforced. I anchor on the 57% market and shade slightly lower.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5653",
+   "has_trace": true
+  }
+ ],
+ "Will Goldman Sachs or any of its underwriting affiliates serve as the lead underwriter in OpenAI's initial public offering?": [
+  {
+   "id": 5647,
+   "scanned_at": "2026-10-26T07:10:48.547786",
+   "date": "2026-10-26",
+   "agent": 36.5,
+   "market_price_t0": 49,
+   "edge": -0.125,
+   "confidence": 0.435,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.35, 0.38) after one crux research pass. (0) Not resolved: no public S-1 or prospectus exists, OpenAI's June 8 confidential filing named no banks, and trackers list lead banks as 'Not disclosed'. (a) About 14 months remain until Dec 31, 2027, in which OpenAI must file publicly, clear SEC review and price with Goldman first on the cover. (b) Status quo is no IPO, which resolves 'Other' and therefore No here. (c) No: OpenAI's ~$30B private round at $1.25T, partly to fund infrastructure if the IPO slips, plus Altman's refusal to commit to a year, his $1T anchor and a possible Anthropic stumble push the IPO into 2028; or OpenAI lists in 2027 with Morgan Stanley first. (d) Yes: a 2027 public filing per Friar's internal remark, with Goldman lead-left as on SpaceX, possibly balancing Morgan Stanley's reported frontrunner role on Anthropic (my inference, not reporting). P(IPO by end-2027) is roughly 50-55%, with Kalshi near 50-50 on an announcement by June 2027; P(Goldman first | IPO) is roughly 60%, since Goldman-first claims come from unreliable aggregators and Fortune says lead-left is undecided. That gives about 0.30-0.35. The thin market (bid 28/ask 69) at 48.5%, with the multi-bank market leaving only ~12% for no IPO, appears to underweight the no-IPO risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5647",
+   "has_trace": true
+  }
+ ],
+ "Will GPT Astra 6.1+ debut with an HLE-Diamond score of 70% or higher?": [
+  {
+   "id": 5640,
+   "scanned_at": "2026-10-26T04:54:37.331334",
+   "date": "2026-10-26",
+   "agent": 24.5,
+   "market_price_t0": 28.5,
+   "edge": -0.03999999999999998,
+   "confidence": 0.42,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.25, 0.24). (0) Not resolved yet. No GPT Astra 6.1+ model appears on the agi.safe.ai HLE-Diamond chart or in any CAIS-published score. GPT-6.1 Astra was shelved on 2026-09-28 over safety concerns. GPT-6 Astra, which does not qualify, holds the best no-tools, high-effort score at 59.9% (60.6% on Scale's separate board).\n\n(a) There are about 8 months until the 2027-06-30 deadline. In that time a qualifying Astra model must ship, be added by CAIS, and score at least 70%.\n\n(b) Status quo: if nothing changes, the market resolves No.\n\n(c) NO scenarios: OpenAI keeps the Astra name gated or ships Terra/Sol tiers instead. Or a fixed Astra 6.1 or 6.2 lands around 64–68% at high effort, because the knowledge partition (45.6%) is parametric and the base model is reused.\n\n(d) YES scenario: a re-post-trained Astra 6.1 or 6.2 ships around Nov–Dec, which is consistent with the related release-by-Dec-31 market at 0.85. CAIS charts it quickly, as it did with GPT-6.1 Sol. RL gains similar to the +20-point Sol 6→6.1 jump lift it to 70% or more.\n\nThe market anchor is 28.5%. Sibling strikes (65%+ at 46.5%, 60%+ at 88%) imply roughly a 30% chance of 70%+ conditional on a debut. The price rose sharply from 8.5% in three days on thin volume, which may reflect momentum rather than new information. The roughly 10-point gap and the max-effort ceiling of 65.8% for GPT-6 Astra argue for shading slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5640",
+   "has_trace": true
+  }
+ ],
+ "Jair Bolsonaro released from custody by March 31, 2027?": [
+  {
+   "id": 5620,
+   "scanned_at": "2026-10-26T00:28:04.020717",
+   "date": "2026-10-26",
+   "agent": 7.5,
+   "market_price_t0": 15,
+   "edge": -0.07499999999999998,
+   "confidence": 0.6599999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.08). (0) The condition is not met. STF news (July 3) and October 23–25 reports show Bolsonaro still under humanitarian house arrest in EP 169 with an ankle monitor, which the rules explicitly exclude, and no release order is pending. (a) About 5 months remain, to March 31, 2027. (b) If nothing changes, he stays in open-ended humanitarian house arrest and the market resolves No. The official sentence certificate puts eligibility for the semi-open regime at 2033 and parole at 2037. (c) No: Lula's October 25 runoff win (about 51.5%) removes Flávio's promised pardon. Amnesty is pushed to 2027, faces a Lula veto and STF case law barring amnesty for coup crimes. The Dosimetria law is suspended by Moraes, and even if applied it yields only a semi-open regime around 2028–29. RvC 6021 still awaits a PGR opinion (the PGR opposed the first request), then release by the rapporteur, then Fachin's scheduling, then a plenary majority that four of the justices who convicted him would oppose. (d) Yes: Nunes Marques, a Bolsonaro appointee reportedly seeing 'exaggerations' in the conviction, issues an individual injunction suspending sentence execution, or the plenary unexpectedly annuls the conviction. The order would then have to be implemented before any agravo stays it, and a brief release would still count. The market's 14.5% sits in a wide 8/21 spread on thin volume and has been falling fast since Lula's win. The pardon sibling market at 16.5% looks stale. I place the fair value below the market at about 7%, almost entirely on the Nunes Marques injunction tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5620",
+   "has_trace": true
+  }
+ ],
+ "Viktor Orbán arrested by...?": [
+  {
+   "id": 5601,
+   "scanned_at": "2026-10-25T18:57:08.423951",
+   "date": "2026-10-25",
+   "agent": 15,
+   "market_price_t0": 20.9,
+   "edge": -0.0595,
+   "confidence": 0.525,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.15, 0.15). (0) No source shows Orbán arrested or detained as of 2026-10-25. Magyar Nemzet places him walking freely in Paris today. No suspect notice, summons, warrant or detention request naming him has been reported. (a) About 67 days remain until 2027-01-01. (b) The status quo is No: Orbán is not a formal suspect, and the complainants' motion to name him in the Oschadbank convoy case has gone unanswered by a prosecution service with only an acting head, which Telex describes as the bottleneck. (c) NO scenario: KNYF keeps the convoy suspect list at the five current suspects or moves slowly. Alternatively Orbán is named a suspect but only summoned for questioning or given criminal supervision or a travel ban, none of which qualifies. Its capacity is also tied up with Matolcsy follow-ups through year-end. (d) YES scenario: KNYF names Orbán a suspect in the convoy case, which moved to the central office on Oct 2. Since he gave up his seat, no immunity vote stands in the way. He could then be briefly taken into custody for questioning, as Matolcsy was, which counts under the rules even before any judge's ruling. The Hankó and Matolcsy precedents show suspect-stage detention happens fast once prosecutors decide to act. The market sits at 21%, up 10 points in a week on the Matolcsy arrest, which looks partly like momentum rather than Orbán-specific news. Arresting a former PM who leads the opposition requires a first procedural step that has not occurred, and the reference class for that inside about two months is low. I shade below the market to around 15%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5601",
    "has_trace": true
   }
  ]

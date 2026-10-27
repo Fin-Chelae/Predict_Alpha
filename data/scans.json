@@ -5321,6 +5321,20 @@
  ],
  "Will Bitcoin have the best performance in 2026?": [
   {
+   "id": 5717,
+   "scanned_at": "2026-10-27T05:47:31.813865",
+   "date": "2026-10-27",
+   "agent": 14,
+   "market_price_t0": 16.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.64,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.15, 0.13). (0) Not resolved. As of Oct 23–26 the S&P 500 is about +12% YTD (7,677 vs a 6,845.50 base), Bitcoin about −8% to −9% (≈$80k vs a ≈$87.5k Jan 1 base) and gold about −7.5%. (a) About 9 weeks remain to the Dec 31 closes. (b) Status quo: the S&P finishes first, so NO. (c) NO: Bitcoin stays capped below its $87.5k break-even, which it failed at twice this month; a likely December Fed hike weighs on risk; AI earnings keep the S&P near +10–15%. (d) YES: Bitcoin gains about 22% relative to the S&P by Dec 31, either via a Q4 squeeze to ~$98–100k on seasonality, call-heavy options, returning ETF inflows and $100k analyst targets, or via a move to ~$90k plus an S&P correction of more than 8%. With 45–50% annualized relative volatility over 0.18 years, the one-sigma move is ~0.19–0.21 log, against a required ~0.20 (ln 1.22), roughly one sigma, implying ~15–17%. The Polymarket anchor of 16.5% is consistent with the related markets (S&P 71%, Gold 6%). I shade slightly lower for weak momentum and the rate headwind; gold is irrelevant on the YES path.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5717",
+   "has_trace": true
+  },
+  {
    "id": 5062,
    "scanned_at": "2026-10-18T22:32:45.619037",
    "date": "2026-10-18",
@@ -9262,6 +9276,20 @@
   }
  ],
  "Will the highest score achieved by an Anthropic Claude model on Humanity’s Last Exam in 2026 be 60% or higher?": [
+  {
+   "id": 5715,
+   "scanned_at": "2026-10-27T05:07:20.982482",
+   "date": "2026-10-27",
+   "agent": 22,
+   "market_price_t0": 29,
+   "edge": -0.06999999999999998,
+   "confidence": 0.5,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.22, 0.22). (0) Not met on the named source: the readable agi.safe.ai table is stale (Claude 4.5 Sonnet 13.7%, live results did not load), and the CAIS/Scale full-set board it links to (o3-mini judge) has the best Claude at 46.5% (Fable 5.1), with no model above 54.8%. On Scale's HLE-Diamond board, Opus 5.5 is 55.0% without tools. (a) About 65 days remain, to 2026-12-31. (b) Status quo: No under a literal reading of 'HLE Accuracy' on agi.safe.ai. (c) No scenario: no new frontier Claude, or one scoring in the low 50s on the official harness, and the resolver ignores Anthropic's own 64–68% and Artificial Analysis's 61.4% as unofficial. (d) Yes scenario: the resolver accepts a restructured or 'clear equivalent' metric or 'official results published elsewhere' (tools column, system cards, AA 61.4%), or a new Claude release within the 1–2 month cadence posts 60%+ on the Diamond or official board; a 13-point full-set jump is implausible, about 5 points on Diamond is possible but must also count as official. The market's 30-day slide to 29% suggests traders lean toward the strict reading; I shade slightly below because there is no evidence of an imminent release or board restructuring, while keeping weight on interpretation risk and the unreadable live table.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5715",
+   "has_trace": true
+  },
   {
    "id": 4393,
    "scanned_at": "2026-10-11T00:08:22.601373",
@@ -14341,6 +14369,20 @@
  ],
  "Will Xiaomi be added to the Chinese Military Companies list by June 30, 2027?": [
   {
+   "id": 5709,
+   "scanned_at": "2026-10-27T03:46:04.913147",
+   "date": "2026-10-27",
+   "agent": 11.3,
+   "market_price_t0": 16.5,
+   "edge": -0.052500000000000005,
+   "confidence": 0.565,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.11). (0) Not resolved: secondary summaries of the June 8, 2026 list of 188 entities do not show Xiaomi, and no update has been reported since. Yes needs a new official DoD list naming Xiaomi, or a parent or subsidiary, by June 30, 2027. (a) About eight months remain. (b) The status quo is No: updates have come every 12-17 months (Jan 2024, Jan 2025, Jun 2026), so the next routine list likely lands near or after the deadline. (c) No: the Pentagon passed on Xiaomi in June while adding other firms from the December 2025 congressional letter, Xiaomi was absent from the October 2025 pipeline of eight firms (six were listed), the August 2026 WuXi injunction raises evidentiary costs, Xiaomi won in 2021, and the next list may slip. (d) Yes: an early annual or interim update timed before the June 30, 2027 product-ban date, driven by FY2027 NDAA pressure and congressional hawks, picks up the rest of the 'next logical tranche', as with consumer-brand peers BYD and NIO. P(new list by deadline) of about 45% times P(Xiaomi included) of about 22% gives roughly 10-12%, slightly below the 16.5% market, an edge from the visible pipeline and slow cadence.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5709",
+   "has_trace": true
+  },
+  {
    "id": 1939,
    "scanned_at": "2026-08-25T18:15:59.605749",
    "date": "2026-08-25",
@@ -16287,6 +16329,20 @@
  ],
  "Will Hamas agree to disarm by December 31?": [
   {
+   "id": 5727,
+   "scanned_at": "2026-10-27T08:40:32.986307",
+   "date": "2026-10-27",
+   "agent": 6,
+   "market_price_t0": 7,
+   "edge": -0.010000000000000009,
+   "confidence": 0.65,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) The condition is not clearly met yet. Hamas accepted the Board of Peace's 15-point staged decommissioning roadmap on July 30–31 (Naim's X post, reported by AP, Al Jazeera and The Hill). That acceptance was explicitly conditioned on Israeli withdrawal and, for heavy weapons, on statehood, and the rules exclude plans contingent on future conditions. The market is still trading at 7%, after peaking at 83.5% around that announcement. That pattern suggests the resolver did not count it, so YES needs a new qualifying announcement or a recognised start to handovers. (a) About 65 days remain until December 31, 2026. (b) The status quo is NO. Implementation is stalled over sequencing (Times of Israel, Oct 26), no weapons have been handed over, and Hamas statements since September (al-Hayya, Qassem) repeat the conditions. October 22–25 reporting from Israeli sources describes Hamas stockpiling weapons and threatening an attack, which points toward escalation rather than disarmament. (c) NO scenario: Israel's post-election coalition talks drag on, the sequencing dispute persists, and Hamas keeps issuing conditional, blame-shifting reaffirmations through December. (d) YES scenario: a new Israeli government, pushed by the US after the midterms, accepts the roadmap. The 14-day timetable is agreed, the technocratic committee (NCAG) and verification bodies enter Gaza, and Hamas formally announces the first-phase transfer of police weapons, which counts as partial disarmament within an acknowledged process. There is also a smaller chance the resolver reinterprets the reaffirmed commitment as qualifying. Both paths require prerequisites that are not confirmed and a tight timeline, so I stay near the market's 7% with a slight lean toward NO given the recent downward trend.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5727",
+   "has_trace": true
+  },
+  {
    "id": 5175,
    "scanned_at": "2026-10-20T07:01:06.819145",
    "date": "2026-10-20",
@@ -16388,6 +16444,20 @@
   }
  ],
  "Will Trump and Putin not meet?": [
+  {
+   "id": 5720,
+   "scanned_at": "2026-10-27T06:32:35.409653",
+   "date": "2026-10-27",
+   "agent": 21,
+   "market_price_t0": 17.5,
+   "edge": 0.03500000000000003,
+   "confidence": 0.6,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.22). (0) No source shows a qualifying in-person interaction since the market opened on 2026-05-26; the last meeting was Anchorage in August 2025, so the question is open. (a) About 65 days remain, with two windows: APEC Shenzhen on Nov 18–19 and the US G20 around Dec 14–15. (b) The status quo is YES (no meeting): 14 months without a meeting, and the Q1/Q2 2026 'next meeting' markets resolved 'No meeting'. (c) NO-meeting path: Trump skips APEC (White House schedule unconfirmed) or China blocks the trilateral (twice 'no information', agenda mismatch) and no sideline encounter occurs; Putin then skips the G20, which Bloomberg's Kremlin-linked sources call a very slim prospect and which Moscow ties to Shenzhen. (d) Meeting path: Lavrov confirmed Putin attends Shenzhen and Trump accepted Xi's invitation; any handshake or exchange at leaders' events qualifies, and Ushakov says they 'will certainly speak' if in the same place. The related market 'Trump, Putin, Xi seen together before 2027' at 87.5% implies both are expected to attend. I price slightly above the 0.175 anchor for the unconfirmed Trump trip and the Budapest/Danang precedents of announced meetings fizzling.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5720",
+   "has_trace": true
+  },
   {
    "id": 5170,
    "scanned_at": "2026-10-20T05:30:27.801219",
@@ -16622,6 +16692,20 @@
   }
  ],
  "Trump meets with Putin by December 31?": [
+  {
+   "id": 5705,
+   "scanned_at": "2026-10-27T03:03:39.917923",
+   "date": "2026-10-27",
+   "agent": 78,
+   "market_price_t0": 82,
+   "edge": -0.039999999999999925,
+   "confidence": 0.59,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.78, 0.78). (0) No source shows a Trump–Putin in-person meeting since Anchorage in Aug 2025, so the condition is not yet met. (a) About nine weeks remain, with two scheduled chances: APEC Shenzhen on Nov 18–19 and the Miami G20 on Dec 14–15. (b) Status quo is No, but Trump's APEC attendance looks set and Putin's attendance at an Xi-hosted APEC is the Kremlin's working assumption; Ushakov says if both are present they 'will at least greet each other', which satisfies the interaction rule. (c) No: the trilateral stalls (China uncommitted, Trump 'not yet agreed'), Putin skips Shenzhen over security/ICC concerns or Trump drops the trip amid midterm backlash, and Putin declines Miami as Bloomberg suggested; the two venues are correlated. (d) Yes: both attend Shenzhen and interact at a photo or protocol event or a trilateral/bilateral, reported credibly. I estimate both attending APEC at ~75–80% and interaction given attendance at ~90%, plus a small G20 residual. The market is at 82% and the related 'seen together' market at 87%; I shade slightly lower because plans are Kremlin-sourced and announced meetings collapsed in 2025.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5705",
+   "has_trace": true
+  },
   {
    "id": 5157,
    "scanned_at": "2026-10-20T02:24:33.528767",
@@ -19260,7 +19344,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-26T20:28:48.591Z",
+  "last_sync": "2026-10-27T08:58:50.687Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -26021,6 +26105,20 @@
  ],
  "Trump, Putin, and Xi seen together before 2027?": [
   {
+   "id": 5725,
+   "scanned_at": "2026-10-27T07:55:11.266456",
+   "date": "2026-10-27",
+   "agent": 80,
+   "market_price_t0": 87.5,
+   "edge": -0.07499999999999996,
+   "confidence": 0.6,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.80, 0.80). (0) No source shows an authentic same-frame image of Trump, Putin and Xi in the window as of Oct 26–27, 2026, so the market is not yet resolved. It needs all three at the same event. (a) About 9 weeks remain, with two dated venues: APEC Shenzhen on Nov 18–19, the main route, and the G20 at Doral on Dec 14–15, a weak backup since Peskov said again on Oct 27 that there is no decision on Putin attending. (b) If nothing changes, the status quo trajectory points to YES. Lavrov said Putin 'will visit Shenzhen', Xi hosts, and Trump and Xi have publicly committed to meet there. APEC leaders' family photos are routine, and the 2017 Danang photo put all three in one frame without any agreed trilateral. On top of that, Ushakov says trilateral preparations have begun. (c) NO scenario: Trump does a bilateral with Xi and skips or leaves before the leaders' session, as he did at Gyeongju in 2025. Or Putin pulls out over Iran, Ukraine or security concerns, Beijing choreographs to avoid a three-way image, and Putin then skips Miami. (d) YES scenario: all three attend Shenzhen and stand in the family photo or hold the Russian-pushed trilateral on Nov 18–19. My rough estimate is about 0.85 for Trump attending through the photo and about 0.85–0.9 for Putin, with the two positively correlated by the trilateral talk. That gives roughly 0.72–0.75 via APEC, plus a few points via G20. I shade slightly below the thin $46k market at 87.5% because neither the White House nor Putin's attendance is formally confirmed.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5725",
+   "has_trace": true
+  },
+  {
    "id": 5167,
    "scanned_at": "2026-10-20T04:44:11.511321",
    "date": "2026-10-20",
@@ -28703,6 +28801,20 @@
  ],
  "Will the next Fable model (5.2+) debut at a score of at least 1510 by June 30, 2027?": [
   {
+   "id": 5700,
+   "scanned_at": "2026-10-27T01:38:02.481592",
+   "date": "2026-10-27",
+   "agent": 79,
+   "market_price_t0": 81,
+   "edge": -0.020000000000000018,
+   "confidence": 0.55,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.79, 0.79). (0) The condition is not met yet. Arena's changelog lists no Fable 5.2+ entry, and the latest Fable is still 5.1 (Sep 1 launch, on Text Arena Sep 2). I could not read the resolving page directly because Cloudflare blocked it. (a) About 8 months remain until the June 30, 2027 deadline, and a Fable 5.5 is reportedly imminent: an Azure/LiteLLM identifier, TestingCatalog saying partners have it, and The Information saying a new model ships this month. Polymarket's sibling market prices a 5.2+ release by Dec 31 at about 96%. (b) If nothing changes, the market resolves No, but the long window makes a qualifying release very likely; the real question is the debut score. (c) No path: the imminent model ships as Opus 5.6 rather than Fable. Or the next Fable is an incremental step like 5.1, which on the style-controlled board scored below Fable 5. It debuts around 1505–1509 on early-vote noise, and 1510 is only about 2 points above Fable 5.1's reported no-style score of about 1512. (d) Yes path: Fable 5.5 launches within weeks and Arena lists it within a day or two, as it did for Fable 5 and 5.1. The no-style board runs higher at the top (Argon about 1532, Opus 5.5 about 1516), and the frontier is drifting up roughly 11 points a month. Preliminary debut scores also tend to start high before eroding, so a flagship Fable meant to compete for #1 should clear 1510 comfortably. The market at 81% already reflects these factors. My residual concerns are mirror disagreement on no-style values and the Opus-naming risk, which a later Fable within the window would only partly offset, so I sit slightly below the market at 0.79.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5700",
+   "has_trace": true
+  },
+  {
    "id": 5155,
    "scanned_at": "2026-10-20T01:36:34.121176",
    "date": "2026-10-20",
@@ -29370,6 +29482,54 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.04, 0.04). (0) Not met: NobelPrize.org and Wikipedia show the 2026 prize went to Navi Pillay; nothing is announced for 2027. A Yes needs a nomination by 31 Jan 2027 (or a committee addition in February) and selection before the ~8 Oct 2027 announcement. (a) That announcement is about 11.5 months away; the backstop is 31 Mar 2028. (b) Status quo is No: Trump has lost two straight years, is openly hostile to the committee and Norway, and the 2026 citation framed the prize as defending international law while the US sanctioned the ICC hours later. (c) No: the Iran and Ukraine conflicts stay unresolved or end in coercive, fragile deals, and the refilled committee (same non-Trump-aligned parties) picks a rights or civil-society laureate from ~300 candidates. (d) Yes: Trump brokers a durable Iran settlement and Russia–Ukraine ceasefire, endorsed by both warring sides, and the committee rewards it despite the feud. The 9% Polymarket anchor is thin (about $59k) and long-dated, which typically inflates longshots. Experts rated him near zero for 2026, 2026 markets had him around 1% at announcement, and the post-announcement escalation (insults, ICC sanctions) is new negative information, so I shade below market while keeping a tail for a major peace deal.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/5655",
+   "has_trace": true
+  }
+ ],
+ "Will no Millennium Prize Problem be solved by AI by December 31, 2027?": [
+  {
+   "id": 5722,
+   "scanned_at": "2026-10-27T07:13:12.588063",
+   "date": "2026-10-27",
+   "agent": 37.5,
+   "market_price_t0": 34.5,
+   "edge": 0.030000000000000027,
+   "confidence": 0.42,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.37, 0.38). (0) Not resolved. As of Oct 27, 2026 no eligible lab has announced a full solution to BSD, Hodge, P vs NP, Riemann or Yang–Mills. OpenAI's Navier–Stokes claim is excluded by the rules. Its quasi-RH, CM-abelian Hodge and Yang–Mills existence results (Oct 26, with the mass gap explicitly not claimed) are partial. The Hodge K3 route was retracted after a sign error that Lekili–Sheridan call probably irreparable. (a) About 14 months remain, to Dec 31, 2027 11:59 PM ET. (b) If nothing changes, the market resolves Yes (no solution). (c) NO scenario for this question (a qualifying announcement): OpenAI's next-generation internal model, which went from Navier–Stokes to Yang–Mills existence in seven weeks, extends that work to the mass gap. Alternatively it closes a Hodge or BSD case, or Anthropic, racing OpenAI per Tao, announces a 'solved' result. Only an announcement is needed, not verification, so a contested claim would still count. (d) YES scenario: labs keep framing outputs as partial or 'raw research data' amid retractions, the Tao-led boycott, the Fields Medalists' letter and the slow IAS and Gross-group verification. Lab-authored 'solved' claims therefore never appear before 2028. The market sits at 34.5% Yes and has drifted up 14 points over 30 days as hedged releases piled up. I shade slightly above it because OpenAI deliberately stopped short of 'solved' on every qualifying item, and three of the problems have no credible partial path. Still, the capability trajectory in this world is extraordinary, and 14 months is long, so I stay close to the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5722",
+   "has_trace": true
+  }
+ ],
+ "Will CMI declare the Navier-Stokes problem solved by December 31, 2027?": [
+  {
+   "id": 5711,
+   "scanned_at": "2026-10-27T04:25:22.636493",
+   "date": "2026-10-27",
+   "agent": 9,
+   "market_price_t0": 13,
+   "edge": -0.04000000000000001,
+   "confidence": 0.61,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) The condition is not met yet. CMI's 11 Sep 2026 note said the problem has only \"apparently been settled\" and called its process \"deliberately unhurried.\" The Millennium page, fetched today, puts Navier-Stokes in a new \"Active\" category rather than \"Solved problems.\" No prize has been awarded. The market opened 9 Sep and did not resolve on that note, which confirms it was not treated as a declaration.\n(a) About 14 months remain, to 31 Dec 2027.\n(b) If nothing changes, the outcome is No. CMI's written rules require publication in a Qualifying Outlet, a two-year wait and general acceptance before it will even consider a solution. The OpenAI result is only a preprint, so a rule-compliant decision could not come before about late 2028 or later.\n(c) No scenario: CMI keeps the \"Active\" holding status while journal review proceeds. Contributing factors are the Lean-versus-prose fidelity critique (arXiv 2610.08144), the Buckmaster/Alpöge priority dispute, and Perelman-style patience.\n(d) Yes scenario: experts such as Fefferman confirm the proof within months and the Lean mismatch proves harmless. CMI then updates its note with an explicit \"solved\" statement, separate from any prize, which these rules accept. The precedent of flexible interpretation in the Poincaré case and CMI's willingness to comment early make this non-zero.\nCreating a distinct \"Active\" category looks like a deliberate choice to avoid saying \"solved\" during review, which argues against an early declaration. I shade slightly below the 13% market anchor. It sits sensibly between the sibling contracts at 3.5% (end 2026) and 29.5% (end 2028).",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5711",
+   "has_trace": true
+  }
+ ],
+ "Total Internet Blackout in Iran by December 31, 2026?": [
+  {
+   "id": 5703,
+   "scanned_at": "2026-10-27T02:18:25.250470",
+   "date": "2026-10-27",
+   "agent": 30.5,
+   "market_price_t0": 27.5,
+   "edge": 0.02999999999999997,
+   "confidence": 0.49,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.30, 0.31). (0) No source shows the condition already met: Oct 23-24 reports describe restricted but working internet, the live Cloudflare chart could not be read, and a tracker shows no national shutdown since May 26. (a) About 9 weeks remain, to Dec 31. (b) Status quo is throttling well above 1% of the 4-week max, which resolves No. (c) No: Trump picks diplomacy (he already vetoed an October restart, Gulf mediation continues, oil prices bite), or strikes stay limited like July and Sept 1 with no blackout, or a whitelist regime leaves traffic just above 1%. (d) Yes: a post-midterm US/Israeli campaign on energy and nuclear targets (CNN: Trump leaning toward it) triggers Iran's wartime cut, as on Feb 28 and in June 2025, with Cloudflare showing sub-1% within hours. Estimate: about 50% chance of major strikes times about 60% chance of a qualifying cut, plus a small unrest or cable-damage tail, gives about 30%, slightly above the 27.5% market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5703",
    "has_trace": true
   }
  ]

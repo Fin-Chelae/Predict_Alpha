@@ -955,6 +955,20 @@
  ],
  "Will CATL be removed from Chinese Military Companies list by June 30, 2027?": [
   {
+   "id": 5734,
+   "scanned_at": "2026-10-27T10:49:24.182031",
+   "date": "2026-10-27",
+   "agent": 14,
+   "market_price_t0": 21,
+   "edge": -0.06999999999999998,
+   "confidence": 0.575,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.15, 0.13). (0) The condition is not met. The June 8, 2026 official list, published in the Federal Register on June 10, still names CATL as a parent-level entry. No later delisting notice was found, and an October 21, 2026 report says CATL remains listed. (a) About 8 months remain until June 30, 2027. (b) If nothing changes, CATL stays listed and the market resolves No. Updates have come roughly every 17 months (Jan 2025, then June 2026), so even a new list before the deadline is uncertain. (c) No: DoD sits on CATL's reconsideration request, the next update slips past June 2027 or keeps CATL, and other pressures make delisting costly. Those pressures are the Sept 2026 summit producing no reported 1260H concessions, CATL's statutory battery ban, and the June 30, 2027 indirect-procurement ban. (d) Yes: a Trump-Xi deal includes a delisting concession, or DoD grants CATL's reconsideration in an ad hoc notice or early-2027 list. A less likely route is a fast lawsuit and settlement, but CATL has not sued. Court wins by other firms (WuXi, Hesai, DJI) have produced injunctions and remands, not removals. The market at 21% (down from a 57% peak, -13.5% over 30 days) prices in some deal optionality. The research finds no concrete movement: two lobbying rounds failed, and Pan Jian himself judged the odds slim. I therefore shade modestly below the market, while keeping weight on unpredictable trade-deal outcomes under this administration.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5734",
+   "has_trace": true
+  },
+  {
    "id": 4878,
    "scanned_at": "2026-10-16T14:54:46.495522",
    "date": "2026-10-16",
@@ -5063,6 +5077,20 @@
  ],
  "Opensea FDV above $500M one day after launch?": [
   {
+   "id": 5733,
+   "scanned_at": "2026-10-27T10:07:25.459254",
+   "date": "2026-10-27",
+   "agent": 5.3,
+   "market_price_t0": 7,
+   "edge": -0.0175,
+   "confidence": 0.71,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.06). (0) The condition is not met and not yet impossible. CoinGecko, read today, shows SEA only as a preview listing with no price, no FDV, no tickers and zero circulating supply. DropsTab confirms there is no contract, no trading and no TGE date. (a) About 65 days remain until the Dec 31, 2026 11:59 PM ET deadline, and in practice trading must start by about Dec 30 to get a day-after 4 PM ET reading. (b) The status quo is No: no launch, so the market resolves No. Since the March 2026 postponement there has been no new date, and recent OpenSea news covers products (the mobile app on Oct 20, chain additions), not the token. (c) NO path: the Foundation keeps waiting for better crypto and NFT conditions, with BTC around $80k, NFT volumes down about 70% year on year and Blur shutting. Having broken one timeline, the team avoids naming a rushed year-end date and launches in 2027 or later. (d) YES path: with the mobile-app prerequisite now shipped, the Foundation announces a TGE in November or early December. SEA lists on major exchanges and, given the $13.3B last private valuation and comparables like Blur and ME launching at multi-billion FDVs, trades well above $500M FDV on day 2. Anchoring on the 7% market price and the sibling 'launch by Dec 31' market at 7.25%, I estimate about 6% for a launch, since there is no snapshot, supply figure or listing and lead time is short. With roughly 85% conditional on launch for clearing $500M, that gives about 5%, slightly below market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5733",
+   "has_trace": true
+  },
+  {
    "id": 5180,
    "scanned_at": "2026-10-20T08:30:11.783610",
    "date": "2026-10-20",
@@ -6100,6 +6128,20 @@
   }
  ],
  "Will any AI model reach 1560 Coding Arena Score by December 31, 2026?": [
+  {
+   "id": 5730,
+   "scanned_at": "2026-10-27T09:26:03.983484",
+   "date": "2026-10-27",
+   "agent": 32,
+   "market_price_t0": 34.5,
+   "edge": -0.024999999999999967,
+   "confidence": 0.46499999999999997,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.32, 0.32). (0) Resolution check: nothing shows the condition already met. The resolution page sat behind Cloudflare and could not be read. Arena-derived mirrors (BenchLM fetched Oct 23, BenchLeader Oct 26) put the Text Coding leader, Gemini 4 Argon (High), at about 1552. Since traders can see the live page and the Polymarket price is 34.5% rather than near 100%, the style-off Coding board almost certainly has not printed 1560. That includes the preliminary Oct 2 reading of 1560, which may have come from a different view. (a) About 9 weeks remain until Dec 31, 2026, 11:59 PM ET. (b) Status quo is NO. The top Coding score has been roughly flat (about 1553 in July, about 1552 in October), and Argon's preliminary score drifted down from 1560 to 1552 as votes accumulated. (c) NO: Argon settles in the low 1550s, GPT-6.1 Terra is mid-tier and Kimi K3.1 goes only to the WebDev board, so no frontier Text Coding entrant appears before year-end. (d) YES: an unscheduled flagship lands on Text Coding with an inflated preliminary debut of 1560 or more. Candidates include the rest of the Gemini 4 family, a rumored Claude Fable 5.5, or a GPT-6.x. Alternatively, the style-off view sits a few points above the mirrors and Argon drifts up. An undated snippet showing a 'Max 1535' on the style-off view cuts against the style-off-uplift story. The 7-day drift of -4.5 points also suggests the market sees fading catalysts. I shade slightly below the 34.5% anchor because I have no announced catalyst and the top score has plateaued.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5730",
+   "has_trace": true
+  },
   {
    "id": 3151,
    "scanned_at": "2026-09-18T22:29:06.449792",
@@ -11373,6 +11415,20 @@
  ],
  "Will a hurricane make landfall in Hawaii before 2027?": [
   {
+   "id": 5745,
+   "scanned_at": "2026-10-27T14:42:34.450797",
+   "date": "2026-10-27",
+   "agent": 4.3,
+   "market_price_t0": 9.5,
+   "edge": -0.052500000000000005,
+   "confidence": 0.72,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.04). (0) No qualifying landfall has occurred: CPHC shows no active Central Pacific cyclones as of Oct 27, and the in-window storms Lala, Lowell and Nolo had centers that stayed offshore per NWS Honolulu and post-storm summaries. (a) About 65 days remain, only about 34 of them in the formal season ending Nov 30, and the 7-day outlook expects no formation. (b) Status quo is No; the near-term hazard is a non-tropical flood trough. (c) No: the season ends quietly, consistent with only two modern landfalls (Dot 1959, Iniki 1992), both Aug–Sep, and none ever in Nov–Dec. (d) Yes: an Iwa-like November storm forms southwest of the islands and crosses the coast (about 1–2%), or Lala's post-storm Tropical Cyclone Report puts its center over South Point at hurricane strength and is treated as a correction (about 2–3%). Anchored on the market's 9.5% (8/11 spread, down 7.5 points in 30 days), I shade lower given the near-zero climatology, but keep weight on the Lala-revision route and resolution ambiguity.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5745",
+   "has_trace": true
+  },
+  {
    "id": 4141,
    "scanned_at": "2026-10-07T20:04:46.003375",
    "date": "2026-10-07",
@@ -11444,6 +11500,20 @@
   }
  ],
  "Variational FDV above $500M one day after launch?": [
+  {
+   "id": 5742,
+   "scanned_at": "2026-10-27T13:06:23.928001",
+   "date": "2026-10-27",
+   "agent": 87,
+   "market_price_t0": 88.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.61,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.87, 0.87). (0) Not resolved. CoinGecko lists VAR with no price, market cap or volume, and the latest reports (to mid-October 2026) say the TGE is targeted for Q4 2026 with no date announced. (a) About 14 months remain until the 2027-12-31 deadline. For YES, the token must become publicly tradable by then and its FDV must exceed $500M at 4 PM ET on the day after launch. (b) Status quo: no token means No, but the stated Q4 2026 target and the long runway make a launch very likely. Polymarket prices a launch by end-2026 at about 81%, and the $100M strike at 98.5%. (c) NO scenario: the volume record was partly driven by points farming and fades after farming ends. The 32% fully unlocked airdrop is dumped into thin float, and the next-day print falls below about $0.50 per token (for a 1B supply). This is consistent with the Blockworks revenue-multiple anchors of $167M–558M and the norm of post-TGE decay across 2025–26 perp DEX launches. A further slip past 2027 is a minor extra path. (d) YES scenario: VAR launches in Q4 2026 or Q1 2027 as a top-3 perp DEX by open interest (about $1B). OTC points at $37.5–44 imply roughly $1.1–1.6B FDV, about 2.7x the break-even for this strike. It then follows Hyperliquid, Aster and Lighter, all of which cleared $500M on day one. The market at 88.5% is internally consistent with the ladder ($300M at 94%, $1B at 56.5%), and the research adds no unpriced information. I shade slightly below the market for valuation-skeptic risk and resolution-source ambiguity.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5742",
+   "has_trace": true
+  },
   {
    "id": 2105,
    "scanned_at": "2026-08-28T12:26:36.392995",
@@ -15298,6 +15368,20 @@
   }
  ],
  "GTA 6 launch postponed again?": [
+  {
+   "id": 5755,
+   "scanned_at": "2026-10-27T17:56:38.931088",
+   "date": "2026-10-27",
+   "agent": 4.8,
+   "market_price_t0": 7.5,
+   "edge": -0.02749999999999999,
+   "confidence": 0.79,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.05). (0) The condition is not met. Rockstar's official GTA VI page, read directly, still says \"Coming November 19, 2026\" with live PS5 and Xbox Series X|S pre-orders, and its latest Newswire item is the Oct 15 Launch Trailer. Every source as of Oct 25–27 finds no official delay; the Oct 27 viral \"March 2027\" X post carries a Community Note calling it false. (a) About 23 days remain until the Nov 19, 11:59 PM ET deadline. The only scheduled checkpoint is Take-Two's Nov 9 earnings, followed by the Nov 12 preload and code-in-box retail availability. (b) If nothing changes, the game launches Nov 19 with a rolling local-midnight unlock and the market resolves No. (c) NO scenario: the build passes Sony/Microsoft certification in early November, the preload goes live Nov 12 and US players can buy and play on Nov 19. (d) YES scenario: a certification failure or a late critical bug forces Rockstar to announce a slip to early 2027, most likely tied to the Nov 9 earnings release because FY27 guidance assumes timely delivery. A partial launch that leaves the US without access is a much less likely path. The only real risk signal is Bloomberg's Oct 17 report that the game had not gone gold, which is normal a month out; GTA V went gold only 24 days before release. Against that, Rockstar has never moved a date inside its final month, the final dates for RDR2 and GTA V held, the launch trailer, preload, review-key reports and rivals clearing the window all make a late slip very costly, and physical copies are code-in-box, so there is no disc manufacturing constraint. The market sits at 7.5% with a wide 5/10 spread, and its recent uptick looks driven by the fake viral post and the not-gold report rather than new information. I shade slightly below the market to about 4.5%, keeping a tail for a late technical or certification problem.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5755",
+   "has_trace": true
+  },
   {
    "id": 1851,
    "scanned_at": "2026-08-24T12:40:44.848846",
@@ -19344,7 +19428,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-27T08:58:50.687Z",
+  "last_sync": "2026-10-27T20:05:19.589Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -20686,6 +20770,20 @@
   }
  ],
  "Will Erling Haaland be the #1 searched person on Google this year?": [
+  {
+   "id": 5739,
+   "scanned_at": "2026-10-27T12:19:52.511279",
+   "date": "2026-10-27",
+   "agent": 12,
+   "market_price_t0": 14,
+   "edge": -0.020000000000000018,
+   "confidence": 0.51,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.11). (0) Not resolved: the 2026 Year in Search page returns HTTP 404 and the hub still shows 2025 (d4vd #1), so Haaland needs to be ranked #1 when Google releases the list, probably in early December. (a) About five months remain to the 2027-03-31 deadline, but the data cutoff is about late November and release is likely early December. (b) Status quo: Haaland is one contender among several; Polymarket prices him at 14% and falling (−7.5 points over 30 days), and the global market's leading name has rotated to Lindsay Clancy. (c) NO: Google ranks year-over-year growth, so Haaland's high baseline limits his roughly +900% rise, while a news-shock name (Clancy, the Guthrie story, Maduro, a late scandal) posts a bigger ratio. Recent global lists have been US-heavy, no footballer has ever been #1, and Kalshi's 22 October top-five price for Haaland was only 54% against Clancy's 72%. (d) YES: his World Cup spike was broad and global (seven goals, a Google Easter egg, strong Nigeria trends data) and falls inside the window, so aggregation across non-US markets could carry him past US-centric rivals; Kalshi had him around 18–19% in mid-October. I anchor on the 14% market price and shade slightly down for the momentum and the top-five evidence.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5739",
+   "has_trace": true
+  },
   {
    "id": 5089,
    "scanned_at": "2026-10-19T05:27:23.110854",
@@ -29530,6 +29628,70 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.30, 0.31). (0) No source shows the condition already met: Oct 23-24 reports describe restricted but working internet, the live Cloudflare chart could not be read, and a tracker shows no national shutdown since May 26. (a) About 9 weeks remain, to Dec 31. (b) Status quo is throttling well above 1% of the 4-week max, which resolves No. (c) No: Trump picks diplomacy (he already vetoed an October restart, Gulf mediation continues, oil prices bite), or strikes stay limited like July and Sept 1 with no blackout, or a whitelist regime leaves traffic just above 1%. (d) Yes: a post-midterm US/Israeli campaign on energy and nuclear targets (CNN: Trump leaning toward it) triggers Iran's wartime cut, as on Feb 28 and in June 2025, with Cloudflare showing sub-1% within hours. Estimate: about 50% chance of major strikes times about 60% chance of a qualifying cut, plus a small unrest or cable-damage tail, gives about 30%, slightly above the 27.5% market anchor.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/5703",
+   "has_trace": true
+  }
+ ],
+ "Will Kimi K3.1 Pro debut at a score of at least 1470 by June 30, 2027?": [
+  {
+   "id": 5752,
+   "scanned_at": "2026-10-27T17:17:03.881372",
+   "date": "2026-10-27",
+   "agent": 65,
+   "market_price_t0": 69.5,
+   "edge": -0.04499999999999993,
+   "confidence": 0.475,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.64, 0.66). Market anchor is 69.5%; sibling strikes (1480 at 34%, 1490 at 17.5%) imply an expected debut around 1475-1480 plus some no-listing risk. (0) Not resolved: the 10-27 Arena changelog shows K3.1 Pro (Max) only on WebDev and Agent, with no Text entry. (a) About 8 months remain until June 30, 2027. (b) Status quo is No unless Arena adds it to Text; K3 was added on release day, but K3.1 is still absent after 4 days. (c) No: a late or absent listing, or a debut near K3's reported ~1476 style-control-off score, leaves only about 6 points of margin, so a preliminary first-day reading could fall below 1470. (d) Yes: a Text listing within weeks with gains like WebDev +37, DesignArena +15 and AA index +11 puts the debut in the high 1470s to 1490s. Listing about 85% times conditional clear about 75% gives roughly 0.64, slightly below market because of the lower 1476 anchor and the missing Text listing.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5752",
+   "has_trace": true
+  }
+ ],
+ "Will any AI model reach 1575 Math Arena Score by December 31, 2026?": [
+  {
+   "id": 5751,
+   "scanned_at": "2026-10-27T16:39:52.198985",
+   "date": "2026-10-27",
+   "agent": 16.5,
+   "market_price_t0": 23,
+   "edge": -0.06500000000000003,
+   "confidence": 0.525,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.18, 0.15). (0) Not met: mirrors (BenchLM 10-23, BenchLeader 10-26) show the Math leader at Gemini 4 Argon 1532, 43 points short; the live board was unreadable. (a) About 9 weeks remain to the 12-31 deadline. (b) Status quo is No: the leader moved +2 in 3.5 weeks, and preliminary scores tend to drift down. (c) NO: no frontier release in time, or new models land in the 1530s–1550s, consistent with roughly 8–9 Elo/month top growth; Terra is mid-tier and Astra is withheld. (d) YES: a rumored Claude Fable 5.5 or Opus 5.6, or a re-released OpenAI flagship, debuts with a thin early Math sample far above Argon, or the scale is rebased. The 1550 strike apparently resolving Yes and the market's earlier 89% high hint that Math scores have run higher before, adding some uncertainty. Anchored on the 23% market, which fell 14 points in a week; shaded slightly down because +43 in 9 weeks is 2–3x the historical pace with no confirmed release.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5751",
+   "has_trace": true
+  }
+ ],
+ "Will the lowest Baton Rouge river level be 6.00 ft or more by November 30?": [
+  {
+   "id": 5749,
+   "scanned_at": "2026-10-27T16:02:44.918617",
+   "date": "2026-10-27",
+   "agent": 34.5,
+   "market_price_t0": 33.6,
+   "edge": 0.009499999999999953,
+   "confidence": 0.475,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.37, 0.32). (0) Not resolved: the USGS provisional daily values put the window minimum at 6.83 ft (09-22), or 6.61 ft if 09-21 counts, both above 6.00; the latest reading is 10.19 ft on 10-26. (a) 34 days remain to 11-30, and one daily mean below 6.00 resolves NO. (b) Status quo: the river is falling 0.3-0.6 ft/day and the NWS forecast reaches 7.1 ft by 11-01, still falling about 0.4 ft/day, which crosses 6.00 around 11-03 to 11-05 if the fall does not slow. (c) NO: deepening drought (30-day rain 25-50% of normal), Memphis heading to -4 to -5 ft and still falling, and CPC backing off the early-November heavy-rain signal push Baton Rouge into the 5s by mid-November, as the bucket markets favour. (d) YES: in September, Memphis at -4.7 ft and Vicksburg at 8.2 ft still left Baton Rouge bottoming near 6.8 ft despite a 5.5 ft forecast. Upstream declines are tapering, Ohio inflow is flat, earlier forecast troughs were revised up, and CPC favours a wet El Nino November in the South, so a 6.1-7 ft trough and rebound is plausible. The market anchor is 33.5% with a wide spread. I sit slightly above it because the September analog suggests a shallower trough than the market may expect, but continued recession through late November keeps NO the favourite.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5749",
+   "has_trace": true
+  }
+ ],
+ "Will OpenAI's IPO valuation be between $1.25T and $1.5T?": [
+  {
+   "id": 5737,
+   "scanned_at": "2026-10-27T11:33:25.005307",
+   "date": "2026-10-27",
+   "agent": 18,
+   "market_price_t0": 18.3,
+   "edge": -0.0030000000000000027,
+   "confidence": 0.44499999999999995,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.18, 0.18). (0) Nothing has resolved: EDGAR and the trackers show no public S-1, final prospectus or IPO price. The $1.25T figure (CNBC, Oct 22) is a private pre-money round mark, not an IPO valuation. (a) About 14 months remain until Dec 31, 2027 for OpenAI to make its S-1 public, run a roadshow and price. (b) Status quo is no IPO, which resolves to the lowest bracket (No). Altman says 'not 2026', the CFO points to 2027, and Polymarket's timing ladder has about 41% by mid-2027. (c) No paths: the IPO slips past 2027 on AI-sector weakness, a poor Anthropic debut or safety gating (sibling market about 30% no-IPO); or OpenAI prices at $1.5T+ after 2027 growth, with Anthropic's reported $1.5-2T target as a comparable; or it prices below $1.25T. (d) Yes path: the $30B round closes at about $1.25T pre / $1.28T post, Anthropic lists acceptably in November, and OpenAI prices in 2027 at a flat to about 17% step-up, with fully diluted counts keeping it inside the bracket. With P(IPO by 2027) around 65-70% and about 27% conditional on this $250B band, I get roughly 18%, matching the 18.3% market and broadly consistent with the sibling closing-cap bucket (14%) and the neighbouring brackets.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5737",
    "has_trace": true
   }
  ]

@@ -9595,6 +9595,20 @@
  ],
  "Will Putin meet with Zelenskyy by December 31, 2026?": [
   {
+   "id": 5827,
+   "scanned_at": "2026-10-28T18:03:27.509964",
+   "date": "2026-10-28",
+   "agent": 6.3,
+   "market_price_t0": 7,
+   "edge": -0.007500000000000007,
+   "confidence": 0.7,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.06). (0) No credible source shows a meeting has happened. The last in-person Putin–Zelenskyy meeting was Paris in December 2019, and none is scheduled with a date or venue. (a) About 64 days remain until December 31, 2026, 11:59 PM ET. (b) The status quo is NO. The Kremlin conditions any meeting on a ready-to-sign deal held in Moscow, Kyiv refuses Moscow, and the Abu Dhabi talks expected in November are technical-level and exploratory, with no confirmed date. (c) NO scenario: Abu Dhabi produces only prisoner swaps and energy de-escalation. The Trump–Putin–Xi talks at APEC exclude Zelenskyy, Putin skips the Miami G20 as Bloomberg sources suggest, and the year ends without a summit, like every earlier Trump 'soon' promise (Istanbul and post-Alaska in 2025, the G20 offer in 2026). (d) YES scenario: the November rounds make enough progress on security guarantees that Trump convenes a formalising leaders' summit in the Gulf or at the December 14–15 Miami G20, and Moscow drops its Moscow-only demand. The Polymarket anchor is 7.5% (bid 6 / ask 9), and Kalshi's identical market sits at 8–9%, an independent crowd in close agreement. Trump's October 28 comments and the leaders'-level aim of the talks add slight upside, but the base rate and the fixed, mutually exclusive venue positions argue for a price at or slightly below market. I price YES at about 6.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5827",
+   "has_trace": true
+  },
+  {
    "id": 5291,
    "scanned_at": "2026-10-21T16:33:49.310105",
    "date": "2026-10-21",
@@ -9806,6 +9820,20 @@
   }
  ],
  "US recession by end of 2026?": [
+  {
+   "id": 5805,
+   "scanned_at": "2026-10-28T11:03:06.124870",
+   "date": "2026-10-28",
+   "agent": 2.8,
+   "market_price_t0": 7,
+   "edge": -0.0425,
+   "confidence": 0.81,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.03, 0.03). (0) The condition is not met. BEA/FRED data show every quarter from Q2 2025 through Q2 2026 positive (+4.0, +3.9, +0.2, +2.5, +2.2), and no source shows an NBER announcement. A YES now requires both Q3 and Q4 2026 to print negative, or an NBER call before the Q4 advance release on Jan 28, 2027.\n(a) About three months remain. The Q3 advance estimate comes tomorrow (Oct 29), the Q3 revisions on Nov 25 and Dec 23, and the Q4 advance on Jan 28, 2027.\n(b) If nothing changes, this resolves No. Q3 is nowcast at about +3.4% (GDPNow) against a +2.7–3.2% consensus, and no forecaster found expects a negative print.\n(c) NO scenario: Q3 prints near +3% tomorrow, which makes the GDP route effectively impossible. NBER, which has never announced a peak in under about four months and has issued nothing since 2021, stays silent.\n(d) YES scenario: an extreme import/inventory swing drives Q3 negative, or later revisions do. Then Fed tightening into about 3.7% inflation, weak payrolls (+29k in September) and an inventory payback push the Q4 advance negative. Each leg is a tail event, and together they are perhaps 1–2%; a surprise NBER call adds well under 1%.\nThe market's 7% (bid 6, ask 8) looks inflated by long-shot bias and the cost of locking up capital. The research supplies concrete arithmetic the price does not reflect: even with zero inventory contribution, Q3 would still be about +0.8–1.1%. I shade well below the anchor to about 2.5%, keeping some room for data surprises.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5805",
+   "has_trace": true
+  },
   {
    "id": 5274,
    "scanned_at": "2026-10-21T10:57:51.803276",
@@ -16175,6 +16203,20 @@
  ],
  "Ukraine signs peace deal with Russia before 2027?": [
   {
+   "id": 5830,
+   "scanned_at": "2026-10-28T18:56:44.193160",
+   "date": "2026-10-28",
+   "agent": 5.5,
+   "market_price_t0": 7.5,
+   "edge": -0.019999999999999997,
+   "confidence": 0.73,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.05). (0) Not met. Credible reporting through Oct 26–28 (Kyiv Independent, AP/MPR, CNBC, Kyiv Post) shows no signed Ukraine–Russia ceasefire or framework. The only recent deal is the local Oleshky humanitarian truce, which the rules explicitly exclude. (a) About 9 weeks remain until the Dec 31, 2026 11:59 PM ET deadline. The first resumed trilateral round in Abu Dhabi is expected around Nov 10–20, with no exact date fixed. (b) If nothing changes, the market resolves No. Talks are only restarting after an 8-month pause. Ushakov calls the round a \"trial run\" that \"will not resolve much,\" and Moscow rejects any pause short of a comprehensive deal on its terms (all four regions, no NATO). (c) NO path: Abu Dhabi produces at most issue-specific items (energy or sea truce, prisoner swap, leader-meeting format), which do not qualify. Territory deadlocks over Donetsk and Zelensky's referendum red line, and the year ends without a jointly signed text, continuing 14 months of US mediation with no bilateral document. (d) YES path: US midterm and fuel-price pressure pushes a short framework or roadmap on mutual security guarantees, a topic both sides now name. Russia signs a sequencing text without an immediate pause, and Ukraine signs, perhaps at a December Trump-hosted summit. That loosely worded framework is the main tail risk. The market price of 7.5% (bid 7, ask 8) is the anchor. The related 16.5% Dec-31 ceasefire market has looser criteria and is context only. I found nothing the market hasn't priced, and Moscow's own framing of the round tilts slightly toward No, so I shade to 6%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5830",
+   "has_trace": true
+  },
+  {
    "id": 5296,
    "scanned_at": "2026-10-21T18:13:29.672457",
    "date": "2026-10-21",
@@ -19498,7 +19540,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-28T09:39:11.007Z",
+  "last_sync": "2026-10-28T20:16:03.519Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -23814,6 +23856,20 @@
   }
  ],
  "Will Benjamin Netanyahu be the next leader out before 2027?": [
+  {
+   "id": 5812,
+   "scanned_at": "2026-10-28T12:50:36.334638",
+   "date": "2026-10-28",
+   "agent": 9.5,
+   "market_price_t0": 17.5,
+   "edge": -0.07999999999999999,
+   "confidence": 0.65,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.10) after one crux research pass. (0) The condition is not met. All Oct 27-28, 2026 reporting (CNN, Axios, JPost, ToI) still calls Netanyahu the sitting PM, and votes are still being counted after the Oct 27 election. (a) About 9 weeks remain, to Dec 31, 2026 11:59 PM ET. (b) Under the status quo, Netanyahu stays PM, as caretaker if his coalition is gone, and the market rules say a caretaker role does not count as leaving office. (c) NO path: the partial count (about 84%: Netanyahu bloc 54, Eisenkot 49, Arab parties 17) leaves both sides short of 61. The Haredim stay out, and Liberman keeps refusing a minority government that relies on Arab parties. The statutory clock then runs through about Dec 9-23 for the first nominee and beyond, with a possible new election in spring 2027, so Netanyahu is still in office on Dec 31. (d) YES path: Liberman reverses, or Likud MKs defect. An Eisenkot or compromise government then wins a simple-majority confidence vote, with Arab abstention, and is sworn in before year-end, faster than any government in 20 years (IDI's floor is about 50 days, i.e. Dec 16). Death or incapacity is a small extra tail. The market anchor is 17.5% and falling fast (-9 points in 7 days). This is also a multi-leader market, so another listed leader leaving first would block YES. Given the arithmetic and timeline evidence, I shade below the market to about 9%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5812",
+   "has_trace": true
+  },
   {
    "id": 5276,
    "scanned_at": "2026-10-21T11:42:34.989171",
@@ -29167,6 +29223,20 @@
  ],
  "Will the Fed Hike–Pause–Pause in the next three decisions (Sep–Oct–Dec)?": [
   {
+   "id": 5815,
+   "scanned_at": "2026-10-28T13:45:55.550004",
+   "date": "2026-10-28",
+   "agent": 19,
+   "market_price_t0": 21,
+   "edge": -0.01999999999999999,
+   "confidence": 0.62,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.19, 0.19). (0) The condition is not yet met or ruled out. The September hike to 3.75–4.00% is confirmed by the Fed's Sept 16 statement and by FRED DFEDTARU moving to 4.00. The October 28 decision had not been posted when checked (the press-release URL returned 404), and the December 9 decision is still ahead. (a) The deadline is December 9, about six weeks away, with an October statement due today. (b) If nothing changes, the Fed holds in October and then hikes in December, which resolves 'Other'/No. (c) NO path: the Fed holds today, then November data on CPI and oil near $100 stay hot. The committee then delivers the 25bp hike signalled by the dot plot and the September minutes ('most' participants want one more hike by year-end), lifting the upper bound to 4.25%. A surprise October hike, priced at about 5% on Polymarket, would also resolve No. (d) YES path: the Fed holds today, then weak payrolls (29k in September), easing core inflation, or tighter financial conditions (10-year around 5%, the AI-stock selloff) lead the leadership to skip December. Williams, Jefferson and Waller have all framed further hikes as patient and optional rather than committed. Pricing gives an October hold about 0.95 and a December hold about 0.21–0.25 on Polymarket and Kalshi, but only about 0.11–0.27 on CME. The product is roughly 0.18–0.22, consistent with the market's 21%. I shade slightly below the market because CME futures and the unanimous economist poll lean more hawkish than the prediction markets.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5815",
+   "has_trace": true
+  },
+  {
    "id": 5222,
    "scanned_at": "2026-10-20T21:51:14.056243",
    "date": "2026-10-20",
@@ -29182,6 +29252,20 @@
   }
  ],
  "Will the Iranian regime fall by June 30, 2027?": [
+  {
+   "id": 5819,
+   "scanned_at": "2026-10-28T15:26:22.859385",
+   "date": "2026-10-28",
+   "agent": 13,
+   "market_price_t0": 21.5,
+   "edge": -0.08499999999999999,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.13) after one crux research pass. (0) Not met: Oct 26–27 credible reporting (Bloomberg, IranWire, Anadolu) shows the Islamic Republic still governing, with Mojtaba Khamenei meeting top officials, and no provisional government, security-force defections or loss of control over most of the population. (a) About 8 months remain until June 30, 2027. (b) Status quo is No: the regime survived decapitation, succession and the crushed January protests with security forces cohesive, and stress is concentrating power in the IRGC, which the rules exclude. (c) No path: blockade-driven decay produces a hollowed, IRGC-run 'Houthization' state, while unrest stays sectoral and the Baluch insurgency stays peripheral. (d) Yes path: oil payments run dry around December, the IRGC goes unpaid, post-midterm strikes and a mass protest wave trigger defections, and an IRGC or Artesh faction or revolutionary council displaces the clerical core. The anchor is 21.5% on thin $27K volume after a 5-point weekly jump. The higher-volume 'before 2027' market is 5.5%, and the looser 'leadership change by June 30, 2027' market is only 25.5%; regime fall is a far stricter subset, so it should sit well below that. Past market spikes repeatedly resolved No, and the Israeli H1 2027 estimates are second-hand and conditional. I fade to about 13%, above the 4–6% annual base rate because of documented severe economic stress.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5819",
+   "has_trace": true
+  },
   {
    "id": 5220,
    "scanned_at": "2026-10-20T20:47:14.057603",
@@ -29850,6 +29934,134 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.07, 0.07). (0) The resolving condition has not been met. Bloomberg/O Globo, Reuters/NBC, CNN and Gazeta do Povo, all dated 10/27, report that Flávio left Brazil and arrived in Miami. The US State Department said it would issue visas to him and his family. No source reports a return. (a) About 33 days remain until 11:59 PM ET on Nov 30. (b) The status quo is that he stays in the US, coordinated with Eduardo and backed by the Trump administration, which resolves No. (c) In the NO scenario he holds his press conference, pursues asylum and leads the opposition from Florida. Moraes may issue a preventive arrest order, which allies call 'inevitable', making a return mean arrest on arrival. He would follow the path of Eduardo and Willer Tomaz, who have not returned. (d) Three routes lead to YES. One is the 'present at creation' clause, if later reporting places him on Brazilian soil when the market opened on 10/27. Most accounts put his exit on the night of 10/26 or the early hours of 10/27, before his Miami arrival that afternoon, but the PF has no border record. Another is that the departure story proves false. The last is a sudden voluntary return, prompted by PL pressure that the flight is politically damaging, by Planalto reluctance to arrest him, or by a family health emergency. All three look thin. The market anchor is 9.5%, and I shade slightly lower because the departure is now confirmed by many independent outlets and US officials. I keep a few points for the creation-timing ambiguity and a surprise reversal.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/5777",
+   "has_trace": true
+  }
+ ],
+ "Will Otzma win 6-7 seats in the 2026 Knesset elections?": [
+  {
+   "id": 5833,
+   "scanned_at": "2026-10-28T19:52:41.395774",
+   "date": "2026-10-28",
+   "agent": 88,
+   "market_price_t0": 78.5,
+   "edge": 0.09499999999999997,
+   "confidence": 0.8,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.88, 0.88) after one crux research pass. (0) Not yet resolved, but close. The CEC's regular-station count is complete and shows Otzma, running alone, at about 5.5% (278,623 votes) and 7 seats. Every tracker (Poliwave/Votendi at 96%, The Petek, Arutz Sheva's CEC republication, JPost) agrees, and all exit polls gave 6–7. What remains is the count of about 430–480k double-envelope ballots (29–30 Oct) and the official certification due 4 Nov.\n(a) Results land well before the 30 Nov close.\n(b) Status quo: 7 seats, which resolves YES. A one-seat drop to 6 also resolves YES.\n(c) NO scenario: soldiers' envelopes skew heavily to Ben-Gvir. Otzma would need roughly 12–14% of the envelopes against 5.5% overall to reach 8 seats. A fall to 5 would need a collapse, which is essentially impossible.\n(d) YES scenario: the envelopes follow the national pattern or show a mild right skew of about 2x, as RZP had among soldiers in 2022. Otzma stays at 7, or slips to 6 on leftover allocation.\nThe market sits at 78.5% live (close 58%), and the related 8–9 bracket at 17.5% looks a bit rich. My own arithmetic and the CEC's complete regular count argue for somewhat higher. I keep about 12% on an envelope skew, the calculation being off, or tracker errors, since the official CEC page could not be accessed directly.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5833",
+   "has_trace": true
+  }
+ ],
+ "Will the 30-year Treasury yield hit 5.70% before 2027?": [
+  {
+   "id": 5832,
+   "scanned_at": "2026-10-28T19:21:17.577734",
+   "date": "2026-10-28",
+   "agent": 23.5,
+   "market_price_t0": 26.5,
+   "edge": -0.030000000000000027,
+   "confidence": 0.575,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.23, 0.24). (0) Not resolved. Treasury's par curve CSV runs through 10/27, and the highest 30 Yr print since 9/03 is 5.67% on 10/07. Intraday quotes of about 5.72–5.73% and the 20 Yr's 5.71% do not count. The latest print is 5.30%. (a) About 44 trading days remain until 12/31. YES needs roughly a 40bp rise to a single daily par close at or above 5.70%. (b) Status quo is NO: yields have retraced about 37bp from the peak, have stayed in a 5.29–5.33% range since 10/22, and the Fed hold moved the long end only about 2bp. (c) NO scenario: oil eases or the Middle East de-escalates, December CPI and FOMC disappoint the roughly four priced hikes, Treasury buybacks and the 11/04 refunding calm supply fears, and pension demand near 5.5–5.7% caps the long end. (d) YES scenario: renewed Iran strikes after the midterms push Brent from about $115 to $120+, October and November CPI come in hot again, and a December hike plus Warsh rhetoric reignite the term-premium selloff that produced +38bp in 11 sessions in late September. A rough barrier-hit calculation with 5–7bp daily volatility gives about 23–38%. I shade that down because elevated vol may fade, strategist year-end targets sit below the strike, and the 10/07 peak failed. Sibling Polymarket 10-year markets (hit 5.4% at 22%, 5.5% at 11%) imply a similar distribution. I anchor near the market's 21.5–26.5% and land at about 23%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5832",
+   "has_trace": true
+  }
+ ],
+ "Will the next GPT Terra model (5.7+) debut at a score of at least 1450 by June 30, 2027?": [
+  {
+   "id": 5829,
+   "scanned_at": "2026-10-28T18:28:07.245538",
+   "date": "2026-10-28",
+   "agent": 21.5,
+   "market_price_t0": 23,
+   "edge": -0.015000000000000013,
+   "confidence": 0.475,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.21, 0.22). (0) Not resolved: GPT-6.1 Terra (released 2026-10-26) qualifies on name and version but has no confirmed Text Arena (no style control) row yet; Arena's changelog lists it only on WebDev (1671), a different board. (a) About 8 months remain, and the 16-22 day lag seen for past OpenAI models makes timing a minor risk. (b) Status quo: Terra gets a Text row within weeks and its first-day score decides. Arena's own HF dataset (10-22 snapshot, 'text' config) has GPT-5.6 Terra at 1448, GPT-6.1 Sol (Max) at 1444 and GPT-6 Astra at 1442, all just under 1450. The ~1480 Sol figure in the research is likely the style-controlled view. Terra 6.1 trails Sol 6.1 on Artificial Analysis and WebDev, pointing to a low-to-mid 1440s debut. The market ladder (1440 at 57.5%, 1450 at 23%, 1460 at 11.5%) implies a median near 1442, consistent with this. (c) No: Terra debuts at 1435-1448, in line with Sol 6.1 and its predecessor. (d) Yes: Terra's big generational gains (hallucination, multimodal) lift chat preference above Sol 6.1, or a noisy provisional first-day score lands at 1450+. I anchor on the 23% live price and shade slightly lower given the first-party Sol 6.1 reading of 1444.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5829",
+   "has_trace": true
+  }
+ ],
+ "Gemini Carbon released by November 30, 2026?": [
+  {
+   "id": 5826,
+   "scanned_at": "2026-10-28T17:25:18.522909",
+   "date": "2026-10-28",
+   "agent": 88.5,
+   "market_price_t0": 93,
+   "edge": -0.04500000000000004,
+   "confidence": 0.6799999999999999,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.88, 0.89). (0) Not yet resolved. Google's Oct 28 blog post officially names the model \"Gemini 4 Carbon\", so the naming condition is met. Access so far is limited to Fairwind cyber defenders and trusted partners, which counts as private access, and the Gemini API models page shows no Carbon endpoint. To resolve YES, Google still has to open Carbon publicly through the paid API, AI Studio or the Gemini app by Nov 30. (a) About 33 days remain. (b) If nothing changes, Carbon stays Fairwind-only and the market resolves NO. Google's own wording points to change: the post says \"as soon as possible\" and \"coming soon\", Pichai posted \"wider availability soon, hang tight\", and he explicitly compared the rollout to Argon's. (c) NO path: the extra US government pre-release testing (possibly up to 30 days, from a single unconfirmed source) and tighter guardrails for a model more capable at exploitation push public access past Nov 30. Google already let Gemini 3.5 Pro slip repeatedly this year. (d) YES path: Carbon repeats Argon's path, which went from Fairwind-only announcement to paid-tier general availability in 13 days. That would mean a mid-November launch, and pricing already matches Argon's introductory rate, which expires Nov 30. The market sits at 92.5%, and the Nov 15 (73.5%) and Dec 31 (94.5%) markets are consistent with it. I shade slightly below the market because the release is explicitly conditional on guardrail work and government testing, Carbon is more cyber-capable than Argon, and there is a small risk the resolver disputes whether a paid-only launch counts as public.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5826",
+   "has_trace": true
+  }
+ ],
+ "Will Trump meet with Flávio Bolsonaro in 2026?": [
+  {
+   "id": 5822,
+   "scanned_at": "2026-10-28T16:02:25.888922",
+   "date": "2026-10-28",
+   "agent": 34.5,
+   "market_price_t0": 35,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.435,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.36, 0.33). (0) No credible outlet reports an in-person Trump–Flávio meeting since Oct 27. The only 2026 meeting was in the Oval Office on May 26, which is outside the window. For YES, a reported face-to-face interaction must happen by Dec 31. (a) About 64 days remain. Roughly 20 of those go to the Nov 3 midterm push and the mid-November Asia trip (ASEAN in Manila, then APEC). (b) The status quo is NO: there is no announcement, Trump said he didn't know where Flávio was, and he called it permission ('would approve', 'okay with me'), not an invitation. (c) NO scenario: Trump keeps his 'didn't take sides' distance to protect trade ties with Lula, especially if Lula attends the December G20 in Miami. Contact stays with State, Rubio and Eduardo or by phone, and Flávio sits quietly in Florida. (d) YES scenario: Flávio is about an hour from Palm Beach. He could get a low-key, short-notice Mar-a-Lago encounter on one of Trump's frequent weekends (an FAA notice points to Oct 30–Nov 1) or at the New Year's Eve party, brokered by Eduardo, and then post a photo as he did in May. The administration did actively facilitate his exit and visas, and Trump has called the election 'rigged'. I anchor on the 35% market price, which fell from 44.5% after Trump's distancing remarks. I see no unpriced information strong enough to move much, so I stay near it with a slight lean up, given proximity and the long Florida stay.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5822",
+   "has_trace": true
+  }
+ ],
+ "Will Vladan Đokić win the next Serbia presidential election?": [
+  {
+   "id": 5810,
+   "scanned_at": "2026-10-28T12:15:00.292412",
+   "date": "2026-10-28",
+   "agent": 19,
+   "market_price_t0": 21,
+   "edge": -0.01999999999999999,
+   "confidence": 0.475,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.19, 0.19). (0) Not resolved. stat.gov.rs shows no presidential results. The election has not been called, and no student presidential nominee has been announced as of 28 Oct 2026. (a) Vučić resigned on 27 Sep, so the vote must be called by about 27 Nov and held by about 26–27 Dec 2026. That is well before the market's close, which leaves only weeks for the nomination decision. (b) Status quo: Đokić is not a candidate. If nothing changes, the outcome is No. (c) NO path: the plenums pick Bodiroga, Saičić or another consensus figure, consistent with the September 43:42 veto that kept Đokić off the list. Bodiroga is widely reported as the speculated frontrunner, and Saičić gave the victory address. That nominee wins, or a ruling-camp candidate does. (d) YES path: the students choose the best-known, best-rated figure, as Demostat's Mandić argues Đokić is. With little time to introduce a newcomer, he gets the nomination and rides the Student List's roughly 52% parliamentary win to a first-round or runoff victory over a weak SNS/SPS field. I put his nomination chance at roughly 25–30% and his win chance if nominated at about 75–80%. That gives about 19–23%, consistent with the 21% Polymarket anchor, which has risen 8.5 points in the past week. Absent nomination news, I shade slightly below the market because the more recent reporting (Reuters/AP leader profiles, Wikipedia) features others rather than Đokić.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5810",
+   "has_trace": true
+  }
+ ],
+ "Will Ra'am win exactly 5 seats in the 2026 Knesset elections?": [
+  {
+   "id": 5807,
+   "scanned_at": "2026-10-28T11:40:41.885121",
+   "date": "2026-10-28",
+   "agent": 10.5,
+   "market_price_t0": 12.4,
+   "edge": -0.019500000000000003,
+   "confidence": 0.585,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.12). (0) Not resolved yet. The CEC partial count at 12:32 on 28 Oct shows Ra'am at 208,769 votes (4.74%) with about 78–85% of boxes counted. Media projections from that count give 6 seats, and Ra'am has held at 6 since about 66% counted. (a) Double-envelope ballots (about 600k+) are counted on 29 Oct and official results are due by 4 Nov, well before the 30 Nov close, so the 2027 lowest-bracket fallback is very unlikely. (b) Status quo is 6, or 7 per exit polls. The live sibling Polymarket brackets price 7 at about 64%, 6 at about 24% and 5 at about 12%, which suggests later count data points upward rather than to dilution. (c) NO: the remaining regular boxes and double envelopes leave Ra'am at about 5.6+ quotas, and the final result is 6 or 7. (d) YES: Zionist-leaning double envelopes and the remaining ballots dilute Ra'am to about 4.3%, and the Bader-Ofer leftover or surplus pairing goes against it, giving exactly 5. This rests on arithmetic only, with no published projection. Anchoring on the 12.45% mid (8–17% spread, last close 7.6%, falling trend) and the sibling markets favouring 6–7, I set about 9%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5807",
+   "has_trace": true
+  }
+ ],
+ "Will the next Claude Opus model (5.6+) debut with an HLE-Diamond score of 60% or higher?": [
+  {
+   "id": 5803,
+   "scanned_at": "2026-10-28T10:09:31.171964",
+   "date": "2026-10-28",
+   "agent": 51,
+   "market_price_t0": 57.5,
+   "edge": -0.06499999999999995,
+   "confidence": 0.42,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.52, 0.50). (0) Not resolved. No Opus 5.6+ has been released or charted. Secondary sources dated Oct 20–28 confirm Opus 5.5 is the latest Opus, at 54.6% on CAIS's no-tools, reasoning-high table, and the agi.safe.ai news still ends at the Sep 22 HLE-Diamond release. Opus 5.5 does not qualify because it is below 5.6. (a) About 8 months remain until the Jun 30, 2027 deadline. That fits several cycles at Anthropic's roughly 6–10 week Opus cadence, so some Opus 5.6+ shipping is very likely (around 90%). (b) If nothing changes, no qualifying model appears and the market resolves No. (c) NO path: the next release is Fable 5.5, followed later by an incremental or distilled Opus 5.6 that scores 57–59% at 'high', a range within Scale's ±3-point noise. Alternatively, CAIS is slow to chart the model and publishes no qualifying score in time. (d) YES path: Opus 5.6 or Opus 6 ships in the next 1–4 months with a better knowledge partition (Opus 5.5 is at 46.8%) and is charted at 60%+. The case for this is the +16.5-point jump from Opus 5 to 5.5, Opus 5.5's 68% at max effort, and competitive pressure from GPT-6 Astra at 59.9%. The market sits at 56.5%, and its sibling strikes (55%+ at 0.85, 65%+ at 0.11) imply a median near 61%. Conditional on release and listing, I estimate roughly 57–60% for clearing 60%. Discounting about 10% for listing, timing and name risk puts me slightly under the market, at about 0.52.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5803",
    "has_trace": true
   }
  ]

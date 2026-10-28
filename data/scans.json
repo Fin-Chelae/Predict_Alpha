@@ -4175,6 +4175,20 @@
  ],
  "Mitch McConnell steps down from Senate before his term ends?": [
   {
+   "id": 5770,
+   "scanned_at": "2026-10-28T00:28:56.910107",
+   "date": "2026-10-28",
+   "agent": 6.8,
+   "market_price_t0": 8.5,
+   "edge": -0.0175,
+   "confidence": 0.62,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) The condition has not been met. McConnell's official press-release page shows no resignation through its Oct 26 op-ed, and Senate.gov still lists him as a sitting senator. (a) About 67 days remain until his term ends on Jan 3, 2027. The Senate is in recess until Nov 9, and the lame duck is expected to adjourn around Dec 18. (b) If nothing changes, he serves out his term and the market resolves No. He has pledged repeatedly to finish, including saying on Sept 14 that he would 'finish the job for this Congress'. His Oct 26 WSJ op-ed looks ahead to the lame-duck agenda. (c) No scenario: he attends some or all of the lame duck, or skips it quietly without formally resigning, and his term simply expires. Kentucky's 2024 law bars appointments, which removes any partisan or seniority motive for leaving a few weeks early. (d) Yes scenario: the 84-year-old, wheelchair-bound senator suffers another fall or illness, given his post-polio condition and his February and June 2026 hospitalizations. That could lead to death or an announced resignation, either of which vacates the seat. For a frail man his age, the death risk alone over about two months is plausibly 3-5%, and a deliberate resignation adds perhaps 1-2%. The market sits at 8.5% after a +2 point move over 7 days, likely driven by his October invisibility. I found no unpriced signal that justifies going higher, and slightly shade it to about 6.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5770",
+   "has_trace": true
+  },
+  {
    "id": 5228,
    "scanned_at": "2026-10-21T00:12:30.439134",
    "date": "2026-10-21",
@@ -4706,6 +4720,20 @@
   }
  ],
  "Will OpenAI announce earbuds or headphones in 2026?": [
+  {
+   "id": 5764,
+   "scanned_at": "2026-10-27T22:40:40.990305",
+   "date": "2026-10-27",
+   "agent": 9,
+   "market_price_t0": 14,
+   "edge": -0.05000000000000002,
+   "confidence": 0.61,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) Not yet resolved. OpenAI's newsroom, checked through Oct 27, 2026, shows no earbuds, headphones or other consumer audio device, and the only OpenAI hardware is the Codex Micro keypad. (a) About 65 days remain until the Dec 31, 2026 11:59 PM ET deadline. (b) If nothing changes, this resolves No: no hardware event, teaser or invite has been reported for Nov–Dec. (c) NO path: OpenAI's first reveal slips into 2027 because of the Apple trade-secret litigation and depositions in Nov–Dec. Or it reveals only the doughnut-shaped speaker Bloomberg described in July and August. Either way, earbuds are never officially named. (d) YES path: OpenAI holds a Q4 'family of devices' unveil, which Brockman hinted at in July, and shows an earbud or audio wearable beside the speaker. A smaller chance is a partner-built audio accessory announced quietly, the way Codex Micro was. The anchor is Polymarket at 14% (bid 11, ask 17). I shade below it for four reasons. The most credible 2026 reporting puts earbuds outside the known roadmap, which runs speaker first and phone second. The leaker's September 2026 earbud date has already passed with nothing. MacRumors cited earlier iyO filings saying the first device is not in-ear. And even a 2026 reveal of the speaker is uncertain. Even if a multi-device reveal happens, earbuds being named is a minority outcome, so I land around 9%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5764",
+   "has_trace": true
+  },
   {
    "id": 2514,
    "scanned_at": "2026-09-02T18:24:34.014635",
@@ -6506,6 +6534,20 @@
   }
  ],
  "Will the upper bound of the target federal funds rate be ≥ 4.5% at the end of 2026?": [
+  {
+   "id": 5802,
+   "scanned_at": "2026-10-28T09:32:26.431566",
+   "date": "2026-10-28",
+   "agent": 8,
+   "market_price_t0": 7.7,
+   "edge": 0.0030000000000000027,
+   "confidence": 0.72,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.08). (0) Not resolved. FRED's DFEDTARU and the Fed's Sept 16 press release both show the upper bound at 4.00% (range 3.75–4.00%). The Oct 28 decision was not yet published in any source checked. (a) Two meetings remain: today, Oct 28, and Dec 8–9, about six weeks away, with resolution right after the December statement. (b) Status quo is 4.00%, which resolves No. The consensus path is a hold today and 25bp in December, giving 4.25%, which also resolves No; there is no rounding route to 4.50%. (c) NO scenario: the Fed holds today, as FedWatch (~91–93% hold), the Reuters poll (94 of 100 economists) and Kalshi (~94%) expect, then hikes 25bp or holds in December. (d) YES scenario: either a surprise October hike (~7–10% priced) followed by a December hike, or a 50bp December move after hot PCE and jobs data (~4% on Polymarket's December market, ~7.6% on Kalshi). The hawkish bloc (Logan wanting at least another 50bp, four SEP dots at 4.375%, BofA calling two hikes) and the mid-October CNBC note putting a 50bp hike near 50-50 show the tail is real. Combining the paths: about 0.07 × 0.7 for an October hike plus a December hike, plus about 0.93 × 0.04 for a December 50bp, gives roughly 8–9%. That is consistent with the market's 7.7%, so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5802",
+   "has_trace": true
+  },
   {
    "id": 5269,
    "scanned_at": "2026-10-21T09:28:33.402201",
@@ -17831,6 +17873,20 @@
  ],
  "Will there be between 11 and 13 earthquakes of magnitude 7.0 or higher worldwide in 2026?": [
   {
+   "id": 5767,
+   "scanned_at": "2026-10-27T23:42:21.639659",
+   "date": "2026-10-27",
+   "agent": 11,
+   "market_price_t0": 15.6,
+   "edge": -0.0455,
+   "confidence": 0.72,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.11). (0) The condition is not yet settled. The USGS ComCat API shows exactly 13 M7.0+ events for 2026 as of Oct 27, all with reviewed status. That is the top of the 11–13 bin, so a single new M7.0+ quake resolves No. (a) About 65 days remain (Oct 28–Dec 31 ET), and the market can stay open until Jan 7 to catch late catalog entries. (b) If nothing changes, the count stays at 13 and the market resolves Yes. But the long-run rate is about 15 M7+ events a year, roughly 2.7 expected in the window. (c) No: any M7.0+ anywhere by Dec 31, whether background seismicity or a late Panama aftershock (USGS put one-year odds near 24%), pushes the count to 14+. (d) Yes: a quiet 65 days with no M7.0+. Gaps of 53 and 48 days already occurred in 2026. A smaller route is one new event offset by a downgrade of the Tibet M7.0, which is reviewed with a tight error, so that is unlikely. Plain Poisson gives about 7% for zero events; overdispersion and clustering lift that to about 10%, and revision paths add 1–2 points. The market's 15.5% sits mid-spread in a very wide 0.3%/31% book, so it is a weak anchor. I lean below it, to about 11%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5767",
+   "has_trace": true
+  },
+  {
    "id": 2916,
    "scanned_at": "2026-09-14T12:22:10.045819",
    "date": "2026-09-14",
@@ -18076,6 +18132,20 @@
   }
  ],
  "Edi Rama out as Albania PM in 2026?": [
+  {
+   "id": 5785,
+   "scanned_at": "2026-10-28T04:14:42.997161",
+   "date": "2026-10-28",
+   "agent": 8.5,
+   "market_price_t0": 10,
+   "edge": -0.015000000000000013,
+   "confidence": 0.5800000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.09). (0) The condition has not been met. The official government site (kryeministria.al) shows Rama presenting an anti-protest package on Oct 25, and AFP, Reuters and Euronews Albania report through Oct 27-28 that he has refused to resign. YES would require a resignation announcement or a removal. (a) About 9 weeks remain until Dec 31, 2026. (b) If nothing changes, Rama stays PM. His Socialists hold about 82-83 of 140 seats, the next election is due in 2029, and a no-confidence motion under Art. 105 needs a majority-backed successor. That gives the PS a veto, and party whip Taulant Balla says there will be no resignation. (c) NO scenario: the crackdown package, protester fatigue and the lack of unified protest leadership let Rama wait out the movement. He would then concede on ministers or education, as he did in 2017-2019, and stay in office through year-end. (d) YES scenario: the violence and the widening coalition of doctors, professors and former Socialist figures push the PS toward a managed handover. Rama would resign and the President would appoint a Socialist successor without dissolving parliament. That would resolve YES on announcement, but so far only Substack speculation about Spiropali points to it. The Polymarket anchor is 10%, down 10.5 points in a week as Rama's defiance and party loyalty held. I see no unpriced information that justifies a large move. The protests are the most intense of his tenure, which keeps real tail risk, but his consistent refusal to resign and the absence of defections lead me to price slightly at or below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5785",
+   "has_trace": true
+  },
   {
    "id": 5248,
    "scanned_at": "2026-10-21T04:10:21.478703",
@@ -19428,7 +19498,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-27T20:05:19.589Z",
+  "last_sync": "2026-10-28T09:39:11.007Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -23319,6 +23389,20 @@
  ],
  "Will Russia capture Dobropillia by December 31, 2026?": [
   {
+   "id": 5788,
+   "scanned_at": "2026-10-28T05:00:10.897605",
+   "date": "2026-10-28",
+   "agent": 16,
+   "market_price_t0": 20,
+   "edge": -0.04000000000000001,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.15, 0.17). (0) Not met: ISW's Oct 26 assessment says Russian forces 'did not advance' around Dobropillya; the Oct 18 flag-raising was classed as infiltration (non-qualifying) and ISW reports no consolidated positions in the city. The live map could not be rendered, so exact shading at the intersection is unverified. (a) About 64 days remain until Dec 31, 2026, 11:59 PM ET, and shading must persist through the next daily update. (b) Status quo is No: ISW assesses a net Russian loss of about 122 km² since Sep 1, places the latest advance 'southeast of' the city, and the target intersection is about 0.8 km north of the centroid in the core, away from the southeastern infiltration. (c) No: Ukrainian forces keep clearing infiltrators as in September, ISW holds its evidence threshold, and Russia stays on the southern approaches through winter; Mashovets implies the fight runs past mid-to-late December. (d) Yes: Russia's large concentration of armies pushes through, assault groups already reported in southern and possibly central Dobropillia expand, drone interdiction collapses Ukrainian logistics, and ISW shades central blocks as 'Assessed Russian Advances', a lower bar than full control. The market sits at 20% with a rising 30-day trend; the Pokrovsk precedent (shading came months after infiltration) and ISW's conservatism argue for slightly under the market, though deepening infiltration reports keep meaningful mass on Yes. A negotiated handover before the deadline is negligible.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5788",
+   "has_trace": true
+  },
+  {
    "id": 5252,
    "scanned_at": "2026-10-21T04:56:36.513704",
    "date": "2026-10-21",
@@ -24800,6 +24884,20 @@
   }
  ],
  "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?": [
+  {
+   "id": 5798,
+   "scanned_at": "2026-10-28T08:16:58.673350",
+   "date": "2026-10-28",
+   "agent": 28.5,
+   "market_price_t0": 31.5,
+   "edge": -0.02999999999999997,
+   "confidence": 0.55,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.29, 0.28). (0) Not resolved. FRED DFEDTARU shows the upper bound at 4.00% after the September 2026 hike, and the January 26-27, 2027 meeting has not happened, so nothing can settle before the January 27 statement. (a) About three months remain. The October 28 decision, the December 9 SEP meeting and the Q4 CPI, PCE and jobs data all come before the January vote. (b) The status quo is a hold in January, which resolves No. The anchors agree: Polymarket at 31.5%, Kalshi's same-meeting market at 31% for a 25bp hike with 64% hold and 4% for 50bp+, and Polymarket's Oct–Jan path market implying about 31%. (c) No scenario: the Fed hikes in December, consistent with the every-other-meeting rhythm Harris, KPMG and Gephardt describe, then holds in January, a no-SEP meeting. This is helped by the 2027 rotation removing the hawkish voters Hammack, Logan and Kashkari, weak payrolls (+29k), and a possible post-midterm easing in energy prices. (d) Yes scenario: Q4 inflation stays hot with oil near $100, and the Fed either skips December and hikes in January, or makes back-to-back hikes under Hammack-style 'smaller, more frequent' logic. Futures pricing about two 2027 hikes in the first half gives this real weight. I shade slightly below the market because the voter rotation and the leadership's 'no consecutive meetings needed' framing lean No. Both are public and likely mostly priced, so the adjustment is small.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5798",
+   "has_trace": true
+  },
   {
    "id": 5263,
    "scanned_at": "2026-10-21T07:58:31.193937",
@@ -27517,6 +27615,20 @@
  ],
  "Will OpenAI rename itself to OpenSI?": [
   {
+   "id": 5780,
+   "scanned_at": "2026-10-28T02:43:32.915451",
+   "date": "2026-10-28",
+   "agent": 6,
+   "market_price_t0": 10.1,
+   "edge": -0.04100000000000001,
+   "confidence": 0.62,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) Not resolved. OpenAI's newsroom through Oct 27, 2026 still uses the OpenAI name, and the entity names are still OpenAI Foundation and OpenAI Group PBC. No filing, leak or announcement of an OpenSI rename has surfaced. (a) About 64 days remain until the Dec 31, 2026 deadline. (b) If nothing changes, this resolves No: the executive order binds only federal agencies and carries no penalty for private firms. (c) No scenario: Altman's on-record Oct 5 'no plans' answer to Politico holds. He kept saying 'AI' at Oracle AI World on Oct 27, Trump's escalation stays rhetorical, and the late-November federal SI definition creates no trigger for corporate names. (d) Yes scenario: pressure escalates (the 'THE ENEMY' post, the Oct 27 'ban' threat, NASA adoption), and OpenAI makes a political deal ahead of its IPO. It then formally renames the Foundation or Group PBC, which the generous rules would count, as Musk pledged to do with SpaceXSI. The market sits at 10.1% (bid 8 / ask 12) and has drifted up from about 3-4% in early October. That rise reflects Trump's rhetorical escalation, not any OpenAI-specific signal. With an explicit CEO denial, a brand worth about $1.25T, and the semantic problem that 'SI' would imply OpenAI already has superintelligence, I shade below the market to about 6%. I keep a fat tail because Trump-aligned surprises happen quickly.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5780",
+   "has_trace": true
+  },
+  {
    "id": 4996,
    "scanned_at": "2026-10-18T02:33:42.100336",
    "date": "2026-10-18",
@@ -27868,6 +27980,20 @@
   }
  ],
  "Will there be 20 to 34 West Nile neuroinvasive disease cases among NYC residents in 2026?": [
+  {
+   "id": 5765,
+   "scanned_at": "2026-10-27T22:52:27.402547",
+   "date": "2026-10-27",
+   "agent": 69.5,
+   "market_price_t0": 73,
+   "edge": -0.03550000000000009,
+   "confidence": 0.5,
+   "category": "Health",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.69, 0.70). (0) The NYC DOHMH page fetched today shows 33 neuroinvasive cases for 2026, inside 20–34 but one below the top edge. The condition is met now but not locked; resolution uses the count on or after 2027-01-01, plus any revision within 14 days of the first update, capped at 2027-03-31. (a) About two months remain to the January starting figure and up to five months to the latest resolution date. (b) Status quo: 33 resolves Yes, and the market prices that at 73%. (c) No path: the page is a one-way cumulative tally fed by lagged hospital reports. The count rose 24→33 since Sept 21 (~1.8/week), so two more late confirmations or a year-end reconciliation would push it to 35+; the 35–49 bucket trades ~26%, consistent with this market. (d) Yes path: positive pools barely grew (1,737→1,777), fever cases were near flat (5→6), suggesting a cleared backlog. Confirmation is centralized, and the 2024 year-end figure matched its in-season figure, so 33–34 may be close to final. A one-case buffer against a ratchet with known reporting lag is fragile, and the page's lack of a timestamp cuts both ways, so I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5765",
+   "has_trace": true
+  },
   {
    "id": 5224,
    "scanned_at": "2026-10-20T22:48:07.334823",
@@ -29692,6 +29818,38 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.18, 0.18). (0) Nothing has resolved: EDGAR and the trackers show no public S-1, final prospectus or IPO price. The $1.25T figure (CNBC, Oct 22) is a private pre-money round mark, not an IPO valuation. (a) About 14 months remain until Dec 31, 2027 for OpenAI to make its S-1 public, run a roadshow and price. (b) Status quo is no IPO, which resolves to the lowest bracket (No). Altman says 'not 2026', the CFO points to 2027, and Polymarket's timing ladder has about 41% by mid-2027. (c) No paths: the IPO slips past 2027 on AI-sector weakness, a poor Anthropic debut or safety gating (sibling market about 30% no-IPO); or OpenAI prices at $1.5T+ after 2027 growth, with Anthropic's reported $1.5-2T target as a comparable; or it prices below $1.25T. (d) Yes path: the $30B round closes at about $1.25T pre / $1.28T post, Anthropic lists acceptably in November, and OpenAI prices in 2027 at a flat to about 17% step-up, with fully diluted counts keeping it inside the bracket. With P(IPO by 2027) around 65-70% and about 27% conditional on this $250B band, I get roughly 18%, matching the 18.3% market and broadly consistent with the sibling closing-cap bucket (14%) and the neighbouring brackets.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/5737",
+   "has_trace": true
+  }
+ ],
+ "Saudi-Houthi ceasefire agreement announced by December 31?": [
+  {
+   "id": 5795,
+   "scanned_at": "2026-10-28T07:41:35.515460",
+   "date": "2026-10-28",
+   "agent": 23,
+   "market_price_t0": 27.5,
+   "edge": -0.04500000000000001,
+   "confidence": 0.485,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.23, 0.23). (0) The condition is not met. As of Oct 28 no source shows either Riyadh or Houthi leadership accepting a ceasefire. The Oct 26-27 Tehran talks among Saudi Arabia, Iran, Pakistan and Turkey reportedly ended with only a pledge to keep talking. The $1bn offer comes from a single Israeli outlet and is unconfirmed. (a) About 9 weeks remain until Dec 31, 11:59 PM ET. (b) Status quo is No: fighting is escalating. Houthi strikes have hit Ras Tanura, Riyadh airport and Aden, Saudi strikes hit Mocha, and the Houthis are gaining ground near Taiz. Riyadh publicly rejects a ceasefire under 'military blackmail' and is lining up support from Egypt, the UK and possibly the US. (c) NO path: the blockade-first sequencing dispute persists and US strikes on Iran resume after the Nov 3 midterms. Alternatively, any de-escalation takes an excluded form, such as an informal salary-for-calm understanding, a unilateral pause, or a deal limited to airports or energy sites. (d) YES path: Oman or the Tehran-Pakistan-Turkey track produces a short dated truce-plus-talks, like the two-week structure reported in September, with phased blockade easing or salary payments. Both Saudi state media and the Houthis confirm it, echoing the April 2022 truce that came about a week after major Aramco strikes. I anchor on the 27.5% market price and shade slightly down. The research adds no hard evidence of convergence, the strict dual-declaration, dated, general-pause criteria exclude many plausible outcomes, and the latest signals (failed Tehran round, hardening Houthi rhetoric) point the wrong way. Real Saudi pain and active mediation keep a meaningful tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5795",
+   "has_trace": true
+  }
+ ],
+ "Will Flávio Bolsonaro return to Brazil by November 30, 2026?": [
+  {
+   "id": 5777,
+   "scanned_at": "2026-10-28T01:44:47.290759",
+   "date": "2026-10-28",
+   "agent": 7,
+   "market_price_t0": 9.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.71,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) The resolving condition has not been met. Bloomberg/O Globo, Reuters/NBC, CNN and Gazeta do Povo, all dated 10/27, report that Flávio left Brazil and arrived in Miami. The US State Department said it would issue visas to him and his family. No source reports a return. (a) About 33 days remain until 11:59 PM ET on Nov 30. (b) The status quo is that he stays in the US, coordinated with Eduardo and backed by the Trump administration, which resolves No. (c) In the NO scenario he holds his press conference, pursues asylum and leads the opposition from Florida. Moraes may issue a preventive arrest order, which allies call 'inevitable', making a return mean arrest on arrival. He would follow the path of Eduardo and Willer Tomaz, who have not returned. (d) Three routes lead to YES. One is the 'present at creation' clause, if later reporting places him on Brazilian soil when the market opened on 10/27. Most accounts put his exit on the night of 10/26 or the early hours of 10/27, before his Miami arrival that afternoon, but the PF has no border record. Another is that the departure story proves false. The last is a sudden voluntary return, prompted by PL pressure that the flight is politically damaging, by Planalto reluctance to arrest him, or by a family health emergency. All three look thin. The market anchor is 9.5%, and I shade slightly lower because the departure is now confirmed by many independent outlets and US officials. I keep a few points for the creation-timing ambiguity and a surprise reversal.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5777",
    "has_trace": true
   }
  ]

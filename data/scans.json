@@ -2641,6 +2641,20 @@
  ],
  "Trump declares election interference national emergency by December 31?": [
   {
+   "id": 5890,
+   "scanned_at": "2026-10-29T13:02:57.768266",
+   "date": "2026-10-29",
+   "agent": 16.5,
+   "market_price_t0": 25.5,
+   "edge": -0.09,
+   "confidence": 0.55,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.17, 0.16) after one crux research pass. (0) The condition has not been met. As of Oct 28, the Federal Register API and whitehouse.gov show no new NEA declaration tied to elections. The only election-related item is the routine Aug 31 continuation of the EO 13848 emergency, a boilerplate renewal that the rules exclude. (a) About 9 weeks remain until Dec 31, 2026, covering the Nov 3 midterms, certification and the holidays. (b) If nothing changes, the market resolves No. The administration has used ordinary EOs (EO 14399), DOJ suits (Alaska certification, California ballots) and rhetoric instead of an NEA declaration. (c) No scenario: Democrats win the Senate, as markets price at about 67%, or results are disputed. Trump fights through litigation and certification challenges, and the activist draft stays unsigned, as it has since February and as the December 2020 drafts did. Legal-counsel risk and Padilla's ready termination resolution reinforce this. (d) Yes scenario: a bad Nov 3 result or contested counts prompts Trump to sign an IEEPA/NEA order built on the EO 13848 template. It would cite Chinese interference in voter databases or foreign voting-machine parts, and even a narrow sanctions or procurement order with that explicit language would qualify. The market's 25.5% anchor reflects real tail signals: repeated refusals to rule it out, a ready draft, the predicate laid by the July 'crisis of election security' declassifications, and access for allied activists. Against that, every predicted deadline passed with nothing (Bannon's late-August call, the pre-election window). Trump's non-denials carry little signal, the base rate is near zero, and the pre-election rationale lapses after Nov 3. I shade below the market to about 17%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5890",
+   "has_trace": true
+  },
+  {
    "id": 5359,
    "scanned_at": "2026-10-22T12:54:33.258748",
    "date": "2026-10-22",
@@ -19638,7 +19652,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-29T09:57:26.570Z",
+  "last_sync": "2026-10-29T20:17:03.288Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -25323,6 +25337,20 @@
  ],
  "Eritrea invades Ethiopia by December 31?": [
   {
+   "id": 5884,
+   "scanned_at": "2026-10-29T10:29:59.390124",
+   "date": "2026-10-29",
+   "agent": 11.3,
+   "market_price_t0": 13.5,
+   "edge": -0.022500000000000006,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.11). (0) The condition is not met as of today. Eritrean troops were reported crossing at Zalambessa and Adigrat around Oct 7–9, but ACLED, Crisis Group and CTP all describe a withdrawal back across the border by Oct 10–13. Eritrea denies the incursion, and Reuters said it was 'unclear' whether its troops were still present. No credible consensus shows Eritrea establishing control. The sibling Oct 31 market trading at 2.8% confirms traders do not count that episode. (a) About 63 days remain until Dec 31, plus a 7-day confirmation window if an entry happens late. (b) If nothing changes, this resolves No: the conflict is federal forces against the TPLF, ties are severed, and Russia has offered mediation. Eritrea's revealed preference is deniable proxy support, not holding Ethiopian ground. (c) NO scenario: the TPLF fights on as a rural insurgency, so Eritrea's buffer survives. Ethiopian air power, newly boosted by Su-35s, deters overt incursions, and rhetoric stays below a new ground push. (d) YES scenario: the TPLF collapses, or Ethiopia moves on Assab or Deba Sima, prompting a sustained overt Eritrean push through Zalambessa, Irob or Afar that holds ground for more than 48 hours, with Reuters, AP and AFP reporting control. I anchor on the 13.5% market price, which has drifted down 8.5 points over 30 days. I shade slightly lower because no new Eritrean movement has been reported since mid-October and the 'consensus of control' bar is demanding. Elevated tail risk from the TPLF-collapse trigger keeps the estimate above 10%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5884",
+   "has_trace": true
+  },
+  {
    "id": 4793,
    "scanned_at": "2026-10-15T14:05:37.844147",
    "date": "2026-10-15",
@@ -27541,6 +27569,20 @@
  ],
  "Blue tsunami in 2026?": [
   {
+   "id": 5903,
+   "scanned_at": "2026-10-29T17:00:03.460449",
+   "date": "2026-10-29",
+   "agent": 56.5,
+   "market_price_t0": 60.5,
+   "edge": -0.040000000000000036,
+   "confidence": 0.55,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.57, 0.56). (0) Not resolved: the election is Nov 3, 2026, five days away, with no results; both legs (235+ House, net +4 Senate to 51) remain open. (a) Votes are cast in 5 days; runoffs, Alaska's ranked-choice count or independent caucus decisions could delay resolution to as late as Jan 4, 2027. (b) The status quo Senate is 53R-47D, so No if nothing changes. Anchors: this market trades at 60.5% (up 11 points in a week); Kalshi's identical-threshold contract was 55% on Oct 28; Polymarket's D-sweep market (which only needs 218 House seats) is ~66.5%, an upper bound. Kalshi's House seat mean is ~238; DDHQ projects 238/51 but gives only 56% for bare control of both chambers, lower at the 235 bar; Poliwave's House median is ~230 and Sabato has 225 seats at least leaning D. Given strong correlation between the legs, P(House 235+ | Senate 51+) is roughly 0.8-0.88, so ~0.67×0.85 ≈ 0.57. (c) No: a correlated red-state polling miss flips ME/TX/AK, where D leads are 1-2 points, or MI slips, leaving the Senate at 50; or the Senate flips but redistricting caps the House at 228-234. (d) Yes: a D+9-11 national vote delivers NC, OH, ME, AK (plus TX/IA as cushion) and a 238-245-seat House. I shade slightly below the Polymarket price, toward Kalshi's 55% and the model consensus.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5903",
+   "has_trace": true
+  },
+  {
    "id": 5360,
    "scanned_at": "2026-10-22T13:27:15.278999",
    "date": "2026-10-22",
@@ -29267,6 +29309,20 @@
  ],
  "Will the Doge-1 Lunar Mission launch by December 31, 2026?": [
   {
+   "id": 5901,
+   "scanned_at": "2026-10-29T16:20:43.026244",
+   "date": "2026-10-29",
+   "agent": 6,
+   "market_price_t0": 12.8,
+   "edge": -0.068,
+   "confidence": 0.71,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) No source shows a launch; the Sept 14/16 targets passed with no liftoff, and the project site gives only 'Q4 2026 / NET 2026' with no date and an inactive livestream. (a) About 9 weeks remain until the Dec 31, 2026 11:59 PM ET deadline. (b) If nothing changes, the answer is No. NextSpaceflight lists DOGE-1 as a rideshare on IM-3, NET Q1 2027. The Intuitive Machines Q2 call put IM-3 in a Jan–Mar 2027 window, with the hot-fire, sensor validation and an October readiness review still pending. Wikipedia and NASA also place IM-3 in early 2027. (c) No: IM-3 stays in Q1 2027 or slips further, as every prior IM-3 revision has. DOGE-1, with five-plus missed targets and a history of being bumped from IM-1, rides along into 2027. (d) Yes: IM-3 is pulled into December after a clean readiness review, or DOGE-1 finds an unreported alternate Falcon 9 rideshare. The project's 'engineering sprint toward the next feasible lunar mission' hints at a possible host change, but nothing independent supports it. The market sits at 12.95% with a wide 6/20 spread. Its roughly 10-point jump in a week came with no news found, while sibling and earlier snapshots put this strike at 2–6%. I fade the spike but keep some weight on undisclosed information.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5901",
+   "has_trace": true
+  },
+  {
    "id": 5211,
    "scanned_at": "2026-10-20T18:13:26.711185",
    "date": "2026-10-20",
@@ -30312,6 +30368,150 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.44, 0.42). (0) The market is not resolved: the Oct 27, 2026 vote is the one counted election and no government has passed a confidence vote. Yes needs a government to win one before any second election-day vote. (a) About 14 months remain to Dec 31, 2027, but the legal clock binds first: results by about Nov 4, three nomination rounds to about Mar 1, 2027, then dissolution and a repeat vote around May-June 2027, inside the window. (b) If the deadlock persists, the clock runs out and the result is No; at 89.8% counted it is Netanyahu bloc 53, Jewish opposition 48, Arab parties 19, with both blocs rejecting Arab partners. (c) No: Netanyahu as cost-free caretaker holds out for a right-wing government as in 2019, Eisenkot refuses rotation, Bennett vetoes Arab support, all mandates fail and Israel votes again in spring 2027. (d) Yes: Herzog and Trump broker a Netanyahu-Eisenkot unity deal (reported as explored by Netanyahu's allies; 60% public support), or a 2021-style government passes with Ra'am outside support or abstention, or defections reach the right bloc. Comparable Israeli hung parliaments split roughly 50/50 between a government and a repeat vote. The market's drop from about 61% to 40.5% is sensible; I sit slightly above it because of the external pressure and the long three-round runway.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/5838",
+   "has_trace": true
+  }
+ ],
+ "Iran nuclear test before 2027?": [
+  {
+   "id": 5912,
+   "scanned_at": "2026-10-29T19:41:42.098807",
+   "date": "2026-10-29",
+   "agent": 3.5,
+   "market_price_t0": 7.8,
+   "edge": -0.043,
+   "confidence": 0.71,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.03). (0) The condition has not been met. Reporting through Oct 27–29, 2026 (IAEA via Bloomberg and UN News, GlobalSecurity's war update) describes no Iranian detonation. The CTBTO publicly cleared the suspect seismic events of Oct 2024 and March 2026 as earthquakes. YES would need Iran to complete a device and stage a chain-reaction test that is claimed or attributed.\n\n(a) About 63 days remain, until Dec 31, 2026.\n\n(b) The status quo is NO. Iran has no verified weapon, and the IAEA sees no rebuilding at the bombed sites. US estimates put a weapon 9–12 months or more away. No test-site preparation, 90% enrichment or NPT Article X notice has been reported.\n\n(c) NO scenario: talks in Qatar or Turkey drag on, or US strikes resume after Nov 3. Iran keeps to rhetoric and an NPT-exit debate, and stays ambiguous rather than testing. Experts such as ISIS argue a test is not even required for Iran to signal possession.\n\n(d) YES scenario: a covert crude device is built from the unverified ~440 kg of 60% HEU, possibly via Pickaxe Mountain, where single-source Israeli reports place centrifuges and material. After renewed strikes, Mojtaba Khamenei authorizes a demonstration test. The rising Majlis and Fars calls for a 'live test' and the 'Coming Soon' video hint at this intent, but there is no evidence of the capability.\n\nThe market sits at 7.8%, up 3.4 points in a week, apparently on rhetoric and the AI video rather than any new capability evidence. The sibling market on possession, 'Iran Nuke before 2027', is at 5.4%. A test should logically be less likely than possession, since a test requires possession. Given the near-zero base rate for a first test within a two-month window, and the multi-step weaponization gap, I price below the market at about 4%. I keep some tail for the large verification void.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5912",
+   "has_trace": true
+  }
+ ],
+ "Will the Fed Pause-Hike-Pause in the next three decisions (Oct-Dec-Jan)?": [
+  {
+   "id": 5910,
+   "scanned_at": "2026-10-29T19:01:42.500102",
+   "date": "2026-10-29",
+   "agent": 57.5,
+   "market_price_t0": 55,
+   "edge": 0.02499999999999991,
+   "confidence": 0.59,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.58, 0.57). (0) Leg 1 confirmed: the FOMC held at 3.75–4.00% on Oct 28 (Fed release, FRED DFEDTARU = 4.00), so the October pause is done; not resolved, as Yes still needs exactly a 25bp hike on Dec 9 and a hold on Jan 27. (a) About 3 months remain; Dec 9 and Jan 27 settle the last two legs. (b) If rates simply stay put the result is Pause-Pause-Pause, a No; Yes needs one change then inertia. (c) No: soft data around the midterms delays the hike to January (Pause-Pause-Hike), hot inflation with oil above $100 forces back-to-back hikes (Pause-Hike-Hike), or a 50bp December hike. (d) Yes: a 25bp December hike (CME/OIS about 82–86%, single-meeting prediction markets about 77–82%, unanimous Reuters poll) followed by the every-other-meeting January hold signalled by Goldman, Harris and Fed officials, with the next hike in March per the defirate stair-step. Unconditional January hike pricing of about 31–42% is partly concentrated on the no-December-hike branch, so a January hike conditional on a December hike is roughly 25–30%, giving about 0.82 × 0.72 ≈ 0.59. Sibling combo prices are stale and sum above 100%, so given little weight. The strategy-only meeting reportedly starts in late 2027, so the January vote looks safe. Market at 55% with a wide 49/61 spread; I land slightly above it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5910",
+   "has_trace": true
+  }
+ ],
+ "Will Ra'am win 8 or more seats in the 2026 Knesset elections?": [
+  {
+   "id": 5909,
+   "scanned_at": "2026-10-29T18:18:40.417802",
+   "date": "2026-10-29",
+   "agent": 90.5,
+   "market_price_t0": 91.8,
+   "edge": -0.012499999999999956,
+   "confidence": 0.8,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.90, 0.91). (0) Counting is complete but uncertified; all major outlets report Ra'am provisionally at 8 seats and the Joint List at 11, with the official gazette due by 4 Nov. (a) About a week to certification; the market closes 30 Nov. (b) Status quo is Yes: a D'Hondt check on CEC totals (336,275 vs 499,878) gives Ra'am's 8th quotient 42,034 against the Joint List's 12th at 41,657, so Ra'am needs to lose about 3,000 relative votes to flip, wider than the earlier 1,200-vote gap. (c) No would come from Likud annulling Bedouin or Arab station results, the Arab pair falling from 19 to 18 seats (Ra'am's 8th has the lowest quotient, so it would go), or a CEC allocation that differs from media tallies. Police dismissed the fraud claims and no annulment ruling exists. (d) Yes comes from certification of the current count. Anchoring on the 0.9175 market and shading slightly for the seat's history of flipping and the bloc-total sensitivity.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5909",
+   "has_trace": true
+  }
+ ],
+ "Houthis capture Taiz city by December 31?": [
+  {
+   "id": 5906,
+   "scanned_at": "2026-10-29T17:39:35.715960",
+   "date": "2026-10-29",
+   "agent": 16.5,
+   "market_price_t0": 21,
+   "edge": -0.044999999999999984,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.16, 0.17). (0) Resolution check: the condition is not met. The resolution-source read and Al Jazeera's Oct 29 report show Taiz city under siege but government-held. No source puts Houthi forces at Al-Qahira Castle or in the central districts, and Wikipedia lists the Houthis only as 'encircling Taiz'. (a) About nine weeks remain until 11:59 PM ET on Dec 31, 2026. (b) Status quo is a siege and shelling with fighting on the southern outskirts (Al-Aqroud) and on Jabal Sabr. The rules explicitly exclude siege and encirclement, so if nothing changes this resolves No. (c) No: government and local resistance hold the line on Sabr, backed by intensifying Saudi air strikes. The siege grinds on, or Saudi–Iran talks freeze the lines, and any Houthi gains stay contested. Contested gains fail the 'clearly demonstrated, uncontested' test. (d) Yes: the Houthis take the Sabr heights above the castle, and the factionalised Islah-linked units collapse or negotiate a withdrawal, as happened at al-Turbah. New Lines quotes an official saying 'there is no army in Taiz in any military sense'. Houthi forces would then occupy the old city with video evidence before year-end. The market sits at 21.5%, down from 49%, and the Nov 30 market is at 18%, which reflects the same picture of a stalled push. The base rate is no Houthi hold on the city since August 2015, the strict control criterion is a high bar, and there are no reports of fighting at the castle. Against that, the fast countryside collapse and the defenders' fragility leave a real tail. I shade slightly below the market at 16%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5906",
+   "has_trace": true
+  }
+ ],
+ "Will the lowest 2026 Great Salt Lake elevation be below 4,189.3 ft?": [
+  {
+   "id": 5899,
+   "scanned_at": "2026-10-29T15:41:32.584778",
+   "date": "2026-10-29",
+   "agent": 6,
+   "market_price_t0": 10.5,
+   "edge": -0.0455,
+   "confidence": 0.69,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) Not met: per the USGS daily values fetched Oct 29, the 2026 minimum is 4,189.4 ft (provisional, Oct 10). A 'Yes' needs a published daily mean of 4,189.2 or lower, since the sibling '4,189.3 or 4,189.4' market at 84.5% confirms the bucket structure. (a) About 64 days remain to Dec 31, with resolution around Jan 1-2, 2027. (b) Status quo is 'No': the lake is at 4,189.8 and flat to rising since mid-October, with HydroMap showing a +0.1-0.2 ft 30-day change. (c) NO: evaporation shuts down and a wet, El Niño-influenced fall keeps the level flat or rising, so the minimum stays at 4,189.4. (d) YES: a warm, dry November drifts the base down about 0.3 ft (2022 fell only about 0.2 ft from late October to its Nov 7 low), plus a wind or seiche one-day dip larger than October's roughly 0.3 ft; or a pre-resolution downward revision of the Oct 10 value. Anchoring on the 10.5% market, I shade down because roughly 0.6 ft of decline against the seasonal turn is hard, but I keep a tail for gage noise and provisional-data changes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5899",
+   "has_trace": true
+  }
+ ],
+ "Israeli Knesset election annulled?": [
+  {
+   "id": 5896,
+   "scanned_at": "2026-10-29T15:02:03.987712",
+   "date": "2026-10-29",
+   "agent": 5,
+   "market_price_t0": 7.8,
+   "edge": -0.027499999999999997,
+   "confidence": 0.6699999999999999,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.05). (0) Nothing has been annulled; counting was ~90% complete on Oct 28-29 and no body has accepted an annulment case. (a) About two months remain until Dec 31; results are due ~Nov 4 and a Section 86 appeal ~Nov 18, with a possible extension to June 30, 2027 if a case is accepted but undecided. (b) Status quo: the CEC certifies results, the Knesset convenes ~Nov 10, and the market resolves No. (c) No: Likud's station-level petition fails or yields only station-level remedies; police and the CEC see no widespread fraud, no Israeli court has ever annulled a nationwide election, JPost calls it 'slim to virtually nonexistent', and no appellant wants full annulment. (d) Yes: the Shin Bet probe substantiates large foreign-funded bribery, a broad appeal follows and the court finds the result affected, or a station-level voiding is loosely counted as annulment by the resolver. I price the nationwide path at ~1-2% and the loose-resolution path at ~2-3%, a bit below the 7.75% market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5896",
+   "has_trace": true
+  }
+ ],
+ "Will the lowest Baton Rouge river level be 5.00 to 5.99 ft by November 30?": [
+  {
+   "id": 5895,
+   "scanned_at": "2026-10-29T14:21:33.917018",
+   "date": "2026-10-29",
+   "agent": 41.5,
+   "market_price_t0": 42,
+   "edge": -0.004999999999999949,
+   "confidence": 0.5,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.43, 0.40). (0) The condition is not met yet: the USGS window minimum is 6.83 ft (6.61 ft if 09-21 counts), with no reading in 5.00-5.99, and the latest value is 9.37 ft on 10-28, falling about 0.4 ft/day. (a) About 32 days remain, to Nov 30. (b) If nothing changes, the 10-28 NWS/LMRFC forecast crosses below 6.0 ft around 11-05/06, reaches about 5.0 ft around 11-12 to 11-14 and falls to 4.1-3.9 ft by late November, which would resolve the 4.00-4.99 bucket or lower. (c) NO comes from the dry recession continuing through the basin drought to about 4 ft, or from rain stalling the fall above 6.00 ft. (d) YES needs the river to break below 6 ft in early November and then flatten or rebound between 5.0 and 6.0 ft on a mid-November rain pulse or Ohio releases. The September forecast overshoot of about 1 ft, the low bias of a no-rain 28-day tail, a strong El Nino favouring a wetter south, and November's seasonal rises make 5-5.99 the modal bucket, against drought-year lows in the 4s and only about a week inside the band. Related buckets (6+ at 32%, 4-4.99 at 22%) agree, so I stay near the 42% market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5895",
+   "has_trace": true
+  }
+ ],
+ "Will Spider-Man: Brand New Day be the #1 searched movie on Google this year?": [
+  {
+   "id": 5892,
+   "scanned_at": "2026-10-29T13:42:22.808371",
+   "date": "2026-10-29",
+   "agent": 13.5,
+   "market_price_t0": 12.5,
+   "edge": 0.010000000000000009,
+   "confidence": 0.5,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.14). (0) Not resolved: the 2026 Year in Search page returns a 404 as of Oct 29. The 2025 list came out around Dec 4, so the 2026 list will very likely appear in early December, well before the March 31, 2027 deadline. (a) That leaves roughly five weeks until likely publication, with a hard deadline five months away. Google's data window probably ends around late November. (b) Status quo: Polymarket prices Brand New Day at 12.5% (bid 11 / ask 14), behind Obsession (about 49% on a mirror) and The Odyssey (about 34–37%). The sibling market is stable at 12–14%. (c) NO path: Google's growth-based metric rewards a sustained breakout like Obsession. Google's own October data (Frightgeist costumes, the FlixPatrol daily chart, Roku) keeps surfacing Obsession and The Odyssey while Spider-Man has faded. Brand New Day also already had large pre-release searches in 2025, which weakens its year-over-year growth. Superhero films finished #2 in both 2024 and 2025. (d) YES path: Brand New Day's huge July–August global spike outweighs the others' cumulative growth. It had a record $360M domestic opening, is the year's top film at $2.5B, and led worldwide Google movie searches in early August. The Dec 18 Avengers: Doomsday release likely falls outside the window. I found no information the market hasn't already priced, so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5892",
+   "has_trace": true
+  }
+ ],
+ "Will Google have the best AI model at the end of December 2026?": [
+  {
+   "id": 5886,
+   "scanned_at": "2026-10-29T11:30:10.749661",
+   "date": "2026-10-29",
+   "agent": 54.5,
+   "market_price_t0": 51.5,
+   "edge": 0.030000000000000027,
+   "confidence": 0.5,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.54, 0.55). (0) Not resolved. LMArena's official Hugging Face dataset (text config, style control off, published 2026-10-28) shows Google at Rank 1 with Gemini 4 Carbon (High) at 1540.0 (±9, 4.4k votes) and Rank 2 with Argon at 1528.6. Anthropic's best, Opus 5.5, is Rank 3 at 1515.8, about 24 points behind. (a) About 9 weeks remain before the single snapshot on Dec 31 at 12:00 PM ET. (b) If nothing changes, Google wins: it holds the top two places, and a rival must beat both Gemini 4 models. (c) NO path: Carbon's preliminary score drifts down the way Argon's did (1532 to roughly 1520). Then Anthropic's leaked-but-unconfirmed Fable 5.5 or Opus 5.6, possibly timed to its IPO, or an OpenAI GPT-6.2, debuts around 1530–1545 and takes Rank 1 on unrounded score. Historically the #1 spot changes about every 2 months, and Anthropic held it for most of 2026. (d) YES path: Anthropic's next model lands below about 1530, as Fable 5.1 and Opus 5.5 did in the 1504–1516 range. Google's near-monthly cadence also adds a further Gemini 4 variant or a public Carbon release. The market anchor of 51.5% already reflects the jump after Carbon. I lean slightly above it because the source shows a 24-point lead and two Google models above Anthropic's best. That lead is offset by a credible imminent Anthropic flagship and drift in preliminary scores.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5886",
    "has_trace": true
   }
  ]

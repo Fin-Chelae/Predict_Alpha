@@ -621,6 +621,20 @@
  ],
  "Will Anthropic have the highest IPO Market Cap 2026?": [
   {
+   "id": 5957,
+   "scanned_at": "2026-10-30T07:06:43.941261",
+   "date": "2026-10-30",
+   "agent": 42,
+   "market_price_t0": 48,
+   "edge": -0.0605,
+   "confidence": 0.435,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.42, 0.42). (0) Not resolved: Anthropic filed its public S-1 on Oct 26 (Nasdaq 'ANT') with no price range or share count; it must list by Dec 31 and close day one above SpaceX's ~$2.1T first-day close (June 12, $160.95). (a) About two months remain, with a mid-to-late-November debut reported, so the date is likely safe. (b) Status quo: SpaceX holds the title, resolving No. (c) No: pricing near the reported ~$1.5T (Reuters Oct 15; Damodaran ~$1.475T), with a large retail float and day-one insider selling muting the pop, gives a close around $1.7–1.9T. (d) Yes: pricing at the $2T top of the WSJ range plus an 8%+ pop from an oversubscribed retail-heavy book; pre-IPO perps imply ~$1.88T and an early backer predicts $2.3–2.4T. The venue anchor is 48%, and the SpaceX Yes market at 51.5% is consistent with it, but Polymarket's own Anthropic IPO-day cap buckets (~14% above $2.25T, 21% for $2.0–2.25T) imply only ~25–30% above $2.1T. Add ~10% delay risk and share-class counting ambiguity on both companies, and I shade below the market to 0.42 rather than fully to the bucket figure, since the live market's recent +22% move may reflect information I lack.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5957",
+   "has_trace": true
+  },
+  {
    "id": 5414,
    "scanned_at": "2026-10-23T06:45:02.870422",
    "date": "2026-10-23",
@@ -6735,6 +6749,20 @@
  ],
  "Dutch House of Representatives dissolved in 2026?": [
   {
+   "id": 5938,
+   "scanned_at": "2026-10-30T02:27:09.925318",
+   "date": "2026-10-30",
+   "agent": 8.5,
+   "market_price_t0": 15.2,
+   "edge": -0.0665,
+   "confidence": 0.535,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.08) after one crux research pass. (0) Not met: as of 29-30 Oct 2026, tweedekamer.nl shows normal sittings and no dissolution decree, resignation or election call has been reported. (a) About nine weeks remain; the key trigger is the Tax Plan vote on 12 Nov (date unconfirmed beyond one report), with Christmas recess inside the window. (b) Status quo is No: the cabinet has two possible majorities (PRO/Volt, or the JA21/BBB/SGP bloc), most of the opposition does not want elections, and the coalition polls far below its 2025 result. (c) No: a tax deal is reached, or a failed vote leads to a patch, caretaker period or reshuffle, or a cabinet fall comes too late for a decree before 31 Dec (past lags were about 9 weeks in 2023 and 13 weeks in 2025; a mid-November fall points to elections around March 2027 and a decree in December or January). (d) Yes: the plan fails or the VVD breaks with D66/CDA, the cabinet resigns, a Kamer majority backs dissolution and a decree is signed before year-end; Polymarket's 10 Sep clarification counts the decree as dissolution. The market is at 15.5% live (12/19), last close 10.35%, up from 1.4% on 24 Oct in a thin market with no identified cause. My estimate is P(fall by mid-December) about 20% times P(decree by 31 Dec | fall) about 40%, roughly 8%, shaded slightly toward the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5938",
+   "has_trace": true
+  },
+  {
    "id": 4217,
    "scanned_at": "2026-10-08T19:59:15.013346",
    "date": "2026-10-08",
@@ -7426,6 +7454,20 @@
   }
  ],
  "NYSE marketwide circuit breaker before 2027?": [
+  {
+   "id": 5949,
+   "scanned_at": "2026-10-30T04:47:12.867331",
+   "date": "2026-10-30",
+   "agent": 4,
+   "market_price_t0": 11.5,
+   "edge": -0.07500000000000001,
+   "confidence": 0.72,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.04). (0) Resolution check: neither the NYSE pages nor any news report shows a marketwide circuit breaker since 2025-11-07. The worst S&P 500 close in the window was -2.64% on 2026-06-05, and the worst intraday swings were about 3.5%, so the event has not resolved. YES still needs an S&P 500 drop of at least 7% from the prior close before 3:25pm ET, or 20% at any time. (a) About two months remain, roughly 41 trading days to 2026-12-31. (b) Status quo is NO: the S&P is about 1% below its October record, the VIX is around 17, and futures on 10-30 were down only about 0.9% despite the Alphabet, Amazon and Intel earnings shock. (c) NO scenario: the AI-capex worries produce ordinary 1–3% down days or a slow correction without a single-session 7% collapse. This is what happened in March 2026, when the market fell about 9% from its high with no breaker, and in April 2025, when the worst day was -5.97% with no breaker. (d) YES scenario: an overnight or weekend shock, such as an AI financing or credit event, a bond or Fed yield spike with the 10-year near 5%, or geopolitics, produces a gap-down of 7% or more. Brazil's 13.9% day shows tail events happen, but no US analogue exists outside March 2020. Under the 7/13/20 rules since 2012, only one year in about 14 had a trip, which is roughly 7% a year and about 1–2% for two months, even adjusting upward for elevated AI concentration risk. The Polymarket price of 11.5% looks inflated by long-shot bias and the recent tech jitters, so I fade it to about 4%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5949",
+   "has_trace": true
+  },
   {
    "id": 5018,
    "scanned_at": "2026-10-18T08:37:15.145740",
@@ -11392,6 +11434,20 @@
   }
  ],
  "Will the highest score achieved by a SpaceXAI Grok model on Humanity’s Last Exam in 2026 be 45% or higher?": [
+  {
+   "id": 5951,
+   "scanned_at": "2026-10-30T05:36:40.440657",
+   "date": "2026-10-30",
+   "agent": 55,
+   "market_price_t0": 69.4,
+   "edge": -0.1439999999999999,
+   "confidence": 0.33,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.55, 0.55) after one crux research pass. (0) Resolution check: the condition is not shown as met. The only readable part of agi.safe.ai is a stale table dated April 3, 2025, with Grok 4 at 24.5%. The live JavaScript results section never rendered, so I could not see what traders may be seeing. (a) About two months remain, to Dec 31, 2026. (b) Status quo is No. The best independently measured Grok is Grok 4.7 at 43.1% on Artificial Analysis's text-only subset, and it sits at about 23% on the newer HLE-Diamond board. No Grok at 45% or above appears on any source I could check. (c) No path: Grok 4.8 slips into December, or CAIS headlines HLE-Diamond, where Grok trails badly. Or the official board simply never lists a new Grok, as happened with Grok 4 Heavy. (d) Yes path: Grok 4.8, a 2.5T model with release around 74% likely by Nov 30 per secondary market quotes, ships and adds a few points. CAIS's live board would then need to list it at 45% or more. Alternatively, the live board may already show Grok models on a scoring basis where they exceed 45%. The market's history hints at this: it hit a high of 97.75%, and the 50% sister market trades at 0.65. Anchor: the market is at 0.694 but with a wide 56/83 spread and thin volume. I shade it down because the research cannot verify any path to 45% on the resolution source. I don't go further because traders may see live leaderboard rows I could not render.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5951",
+   "has_trace": true
+  },
   {
    "id": 4989,
    "scanned_at": "2026-10-18T00:58:00.983762",
@@ -16465,6 +16521,20 @@
  ],
  "Will a new country join the Abraham Accords before 2027?": [
   {
+   "id": 5966,
+   "scanned_at": "2026-10-30T09:25:59.321889",
+   "date": "2026-10-30",
+   "agent": 9.5,
+   "market_price_t0": 11.3,
+   "edge": -0.018000000000000002,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.09). (0) No source shows the condition met. Britannica (updated 2026-10-23) and Times of Central Asia (~2026-09-28) both say Kazakhstan's promised signing ceremony has not happened, and Somaliland has only pledged to accede, with no Accords-attributed signing. (a) About 2 months remain, to 2026-12-31 23:59 ET. (b) If nothing changes, this resolves No: no ceremony is scheduled for any country. (c) No scenario: Israel's coalition stays unformed after the 10/27 election, Saudi preconditions on Palestinian statehood go unmet, and renewed Iran tensions crowd out diplomacy. Kazakhstan's ceremony keeps slipping, as it has for 11+ months, and the year ends without a signing. (d) Yes scenario: Trump stages a symbolic Kazakhstan signing, perhaps bundled with Somaliland or Azerbaijan, around the 12/14–15 Miami G20 that Tokayev attends. Credible reporting would count it as formal accession. Even then, a ceremony for a country with ties to Israel since 1992 creates some resolution ambiguity. I anchor on the Polymarket price of 11.3% (bid 10 / ask 13). The base-rate evidence of repeatedly failed 'soon' forecasts, and the ambassador's Kuwait timeline running past the deadline, argue slightly lower. The real G20 opportunity and Trump's taste for ceremonies keep the price from falling much, so I land near 10%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5966",
+   "has_trace": true
+  },
+  {
    "id": 5173,
    "scanned_at": "2026-10-20T06:15:43.741358",
    "date": "2026-10-20",
@@ -17932,6 +18002,20 @@
   }
  ],
  "Will Ukraine re-enter Obratne or Temyrivka by December 31?": [
+  {
+   "id": 5924,
+   "scanned_at": "2026-10-29T23:21:17.485071",
+   "date": "2026-10-29",
+   "agent": 25,
+   "market_price_t0": 28.5,
+   "edge": -0.034999999999999976,
+   "confidence": 0.5,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.25, 0.25). (0) Nothing shows the condition already met. ISW's Oct 28 assessment still describes Obratne as the Russian supply point for Novomykolaivka, which Ukraine can now strike but does not hold. No source reports Ukrainian shading in Obratne or Temyrivka. (a) About 63 days remain until Dec 31, running into winter weather. (b) If nothing changes, this resolves NO: both villages appear one or two steps behind the current line, and Ukraine has not finished clearing the Berezove–Novomykolaivka junction. (c) NO: Ukraine keeps interdicting the Obratne road by drone and fire rather than assaulting it, as the 7th Corps' defensive posture and logistics-interdiction priority suggest. Mashovets' note that the advance is slowing holds, and Russian reserves arriving in the area stall the front before Dec 31. (d) YES: Ukraine clears Novomykolaivka, pushes 3–4 km southeast, and a geolocated infiltration or a Mashovets or General Staff claim gets part of Obratne or Temyrivka shaded on the 'Claimed Ukrainian Counteroffensives' layer. That layer has a low threshold, and the shading only needs to persist for one update. The Polymarket anchor is 28.5%, down 7.5 points in a week from a high of 69%, which suggests traders see momentum fading. The research adds no unpriced positive catalyst, only proximity and fire control. I shade slightly below the market to 25%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5924",
+   "has_trace": true
+  },
   {
    "id": 1466,
    "scanned_at": "2026-08-18T11:30:28.118297",
@@ -19652,7 +19736,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-29T20:17:03.288Z",
+  "last_sync": "2026-10-30T09:59:56.611Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -19766,6 +19850,20 @@
   }
  ],
  "Will Trump recognize Somaliland before 2027?": [
+  {
+   "id": 5930,
+   "scanned_at": "2026-10-30T00:51:39.656627",
+   "date": "2026-10-30",
+   "agent": 8,
+   "market_price_t0": 12.3,
+   "edge": -0.043,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.08). (0) The condition has not been met. The State Department page, the White House Presidential Actions list through Oct 28, and allAfrica/Horndiplomat on Oct 22 all show no formal US recognition, and Israel remains the only UN member state recognizing Somaliland. (a) About 62 days remain until the Dec 31, 2026 deadline, and no decision point, Trump–Irro meeting or deal is scheduled in that window. (b) If nothing changes, the answer is No. Official policy is still 'One Somalia': the June 2026 report to Congress said so, the State Department told Foreign Policy the same on Sept 23, and AFRICOM said in August it had no plans to recognize. Irro's September Washington trip ended with 'no American promise'. (c) No scenario: Trump's Oct 12 rally remark stays rhetorical, as his 'looking into it' (Aug 2025) and 'we'll study it' (Dec 2025) remarks did. Washington pursues a dual-track Berbera cooperation without recognition, and the midterms and other issues take priority. (d) Yes scenario: after the Nov 3 midterms, Trump abruptly announces recognition by executive action, as he did on the Golan and Western Sahara. It would be tied to Berbera access, minerals, Houthi and Red Sea security, and Somaliland joining the Abraham Accords, possibly announced at an Irro meeting before a new Congress is seated. On price, Polymarket sits at 12.3% with a wide 10/15 spread. Kalshi priced the same question at about 6% on Oct 15. The +8.85% seven-day move hints at some recent catalyst that my research did not surface, and the related Kalshi 2029 market also rose 10 points that week. I shade below the Polymarket price because there is no procedural evidence of a policy change, but I keep tail weight for Trump's unpredictability and the unexplained jump.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5930",
+   "has_trace": true
+  },
   {
    "id": 2609,
    "scanned_at": "2026-09-04T12:16:07.623576",
@@ -20410,6 +20508,20 @@
   }
  ],
  "US Government removes public access to a major Chinese AI model in 2026?": [
+  {
+   "id": 5920,
+   "scanned_at": "2026-10-29T21:44:44.595275",
+   "date": "2026-10-29",
+   "agent": 9,
+   "market_price_t0": 24,
+   "edge": -0.15,
+   "confidence": 0.67,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.08) after one crux research pass. (0) No source shows the condition met: the only new action, DHS FASCSA Order #2026-01 on DeepSeek, is procurement-only and DeepSeek's US App Store listing was live on Oct 20. (a) About 9 weeks remain, and an action must be issued and take effect by Dec 31. (b) Status quo is No: 21 months of US actions, and Zhipu's Entity List status since Jan 2025, have never removed public access. (c) No: Xi summits on Nov 18 and Dec 14 and a truce to Jan 10 keep Washington restrained, and the July Moonshot threat stays unexecuted. (d) Yes: a summit breakdown prompts an OFAC SDN or ICTS action that makes US platforms drop a flagship model, though open weights keep the 'all ordinary channels' test contestable. The 24% market likely reflects DHS headlines that do not qualify, so I price well below it while keeping weight on a sudden designation and lenient resolution.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5920",
+   "has_trace": true
+  },
   {
    "id": 5323,
    "scanned_at": "2026-10-22T01:58:03.398009",
@@ -22049,6 +22161,20 @@
  ],
  "Will JD Vance visit Ukraine by December 31, 2026?": [
   {
+   "id": 5960,
+   "scanned_at": "2026-10-30T07:55:23.837588",
+   "date": "2026-10-30",
+   "agent": 16.5,
+   "market_price_t0": 35.4,
+   "edge": -0.1885,
+   "confidence": 0.51,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.18, 0.15) after one crux research pass. (0) No source shows Vance has entered Ukraine; the resolution-source read, the Wikipedia trips list and October 2026 coverage show no visit and no announced or leaked trip, so YES still needs a physical entry within ~9 weeks. (a) About 62 days remain until the Dec 31, 2026, 11:59 PM ET deadline. (b) The status quo is NO: zero visits in ~21 months, his 'propaganda tours' refusal, Ukraine diplomacy run through Witkoff, Kushner and Rubio, and strained US–Kyiv ties (sanctions easing, the diesel deal, Starlink and intel friction, his 'divergent interests' remarks). (c) NO: the November Abu Dhabi talks stay technical and far apart, Vance campaigns through the midterms and then tours Argentina/Chile, and no deal is signed by year-end. (d) YES: a surprise breakthrough yields a December signing or ceremony with Vance as ceremonial envoy (Armenia/Azerbaijan and Iran-signing precedents), or an unannounced security-driven trip; the unexplained Oct 30 St. Cloud cancellation is a weak hint. The Polymarket anchor of ~35% is thin (20/51 spread) and jumped ~30 points in a week from a stable 4–7%, with no catalyst found. Related markets cap the main YES path (ceasefire by year-end 13.5%, peace deal signed 8%). I discount the spike heavily but keep some weight for information the research may have missed.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5960",
+   "has_trace": true
+  },
+  {
    "id": 3881,
    "scanned_at": "2026-10-04T11:09:46.331632",
    "date": "2026-10-04",
@@ -22900,6 +23026,20 @@
   }
  ],
  "Russia military action against an EU country by December 31, 2026?": [
+  {
+   "id": 5927,
+   "scanned_at": "2026-10-30T00:08:17.483777",
+   "date": "2026-10-30",
+   "agent": 6.5,
+   "market_price_t0": 7,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Resolution check: no source shows a qualifying strike since the market opened on 2026-09-19. Every incident so far fails at least one rule. The October ship sinkings off Constanța and Bulgaria were in the economic zone or territorial sea, which the rules exclude as maritime. The Oct 17 Geran-4 drones were shot down over Romanian territorial waters, so they are both intercepted and maritime. The Oct 18 Lithuanian drone exploded in the air with unclear origin. The Sept 24 Solca crash was unattributed and caused no damage. The May Galați hit predates the market and was treated as spillover. (a) About 62 days remain until the Dec 31 deadline. (b) If nothing changes, this resolves No: Russia keeps striking Ukraine at scale, but border incidents get intercepted, happen at sea, or are judged stray. (c) No path: US-mediated talks in early November proceed, Russia avoids a deliberate EU strike, and Danube-port spillovers keep being shot down or ruled accidental, as Romania has done since 2023. (d) Yes path: the anti-shipping campaign near Constanța moves into port or internal waters, where a ship target would plausibly count as directed at Romania. Alternatively, a faster jet-powered Geran evades interception and hits a Romanian town, with Romania calling it deliberate. A deliberate limited strike of the kind Danish intelligence (DDIS) described is the least likely route. The market sits at 7% and has fallen 8.5 points over 30 days with no qualifying event. The base rate of roughly one ambiguous case in 4.5 years supports a low number. The October maritime escalation toward EU ports is a real tail, so I stay at roughly the market price, slightly below.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5927",
+   "has_trace": true
+  },
   {
    "id": 5278,
    "scanned_at": "2026-10-21T12:28:45.380429",
@@ -24321,6 +24461,20 @@
  ],
  "Will Trump meet with Kim Jong Un in 2026?": [
   {
+   "id": 5954,
+   "scanned_at": "2026-10-30T06:21:56.832870",
+   "date": "2026-10-30",
+   "agent": 11,
+   "market_price_t0": 15,
+   "edge": -0.039999999999999994,
+   "confidence": 0.625,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.11). (0) The condition is not met yet. Reuters, the Korea Times and NK News, all dated through Oct 30, 2026, report no in-person Trump–Kim meeting this year, and none is scheduled. (a) About two months remain until Dec 31, 2026. The only realistic window is Trump's Nov 16–19 trip to Manila and the Shenzhen APEC summit, plus any surprise December event. Kim attending the G20 in Miami is not plausible. (b) If nothing changes, the answer is No. Pyongyang has not answered US outreach, according to five Reuters sources briefed by senior officials, and has made 'no move' to prepare. Trump went from 'I may' on Oct 12 to 'I don't know' on Oct 19, and reportedly now calls the chance low. (c) NO scenario: Kim sticks to his demand for recognition as a nuclear state, keeps escalating with loudspeaker broadcasts against the South, and Trump's Asia trip passes without a side encounter, as happened in October 2025 and May 2026. (d) YES scenario: Xi brokers a short-notice encounter near Shenzhen or at the border, following Kim's Dandong trip. That trip included Choe Son-hui and Kim Yo Jong, and South Korea's foreign minister hinted that dialogue was discussed there. It would echo the 2019 DMZ meeting, which was arranged within days. The market sits at 15% and has drifted down 6 points over 30 days. Expert odds are lower: Panda puts an APEC meeting below 10%, and the official-channel Reuters reporting is pessimistic. The Dandong signals keep a modest tail alive, so I shade slightly below the market to about 11%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5954",
+   "has_trace": true
+  },
+  {
    "id": 5412,
    "scanned_at": "2026-10-23T06:05:45.802516",
    "date": "2026-10-23",
@@ -25502,6 +25656,20 @@
   }
  ],
  "Will no qualifying US-Iran senior diplomatic meeting take place by December 31, 2026?": [
+  {
+   "id": 5963,
+   "scanned_at": "2026-10-30T08:40:50.798192",
+   "date": "2026-10-30",
+   "agent": 55.5,
+   "market_price_t0": 56,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.435,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.56, 0.55). (0) Resolution check: the condition is not documented as met. The Sept 22 UNGA contact in New York falls on the market's open date and was described by Witkoff as indirect, mediator-shuttled talks. The market still trades at 56% rather than near zero, so traders evidently do not count it. No qualifying meeting is reported between Sept 23 and Oct 30. (a) About 62 days remain until Dec 31, 2026, 11:59 PM ET. (b) Status quo means YES: talks have been stalled since late September and consist only of Qatari and Pakistani shuttling to Tehran, which fails the same-city, same-day test. Ghalibaf, Rezaei and Tasnim all restated the seven preconditions within the last 10 days, and Iran rejected Qatar's draft. (c) NO-meeting scenario: Iran leaves the Vance letter unanswered or rejects it, and the US and Israel run the widely reported 'short, intense' strike campaign after Nov 3. Diplomacy then freezes through December, repeating the roughly 3-month gaps seen after the June and September contacts. (d) Meeting scenario: the Vance–Rezaei channel produces a Doha or Istanbul round in November. Alternatively, a post-strike ceasefire is brokered by Qatar or Pakistan with a senior round in the Gulf, as in April, when war prompted quick ceasefire diplomacy. I anchor on the 56% market price, which has fallen 7 points on the Vance-letter news. The latest evidence (Iran's public rejection signals and Trump disowning the letter) roughly offsets the upside from the active channel and the chance of a post-strike ceasefire round, so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5963",
+   "has_trace": true
+  },
   {
    "id": 5409,
    "scanned_at": "2026-10-23T05:25:24.994076",
@@ -30512,6 +30680,102 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.54, 0.55). (0) Not resolved. LMArena's official Hugging Face dataset (text config, style control off, published 2026-10-28) shows Google at Rank 1 with Gemini 4 Carbon (High) at 1540.0 (±9, 4.4k votes) and Rank 2 with Argon at 1528.6. Anthropic's best, Opus 5.5, is Rank 3 at 1515.8, about 24 points behind. (a) About 9 weeks remain before the single snapshot on Dec 31 at 12:00 PM ET. (b) If nothing changes, Google wins: it holds the top two places, and a rival must beat both Gemini 4 models. (c) NO path: Carbon's preliminary score drifts down the way Argon's did (1532 to roughly 1520). Then Anthropic's leaked-but-unconfirmed Fable 5.5 or Opus 5.6, possibly timed to its IPO, or an OpenAI GPT-6.2, debuts around 1530–1545 and takes Rank 1 on unrounded score. Historically the #1 spot changes about every 2 months, and Anthropic held it for most of 2026. (d) YES path: Anthropic's next model lands below about 1530, as Fable 5.1 and Opus 5.5 did in the 1504–1516 range. Google's near-monthly cadence also adds a further Gemini 4 variant or a public Carbon release. The market anchor of 51.5% already reflects the jump after Carbon. I lean slightly above it because the source shows a 24-point lead and two Google models above Anthropic's best. That lead is offset by a credible imminent Anthropic flagship and drift in preliminary scores.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/5886",
+   "has_trace": true
+  }
+ ],
+ "Ilhan Omar arrested by December 31, 2026?": [
+  {
+   "id": 5945,
+   "scanned_at": "2026-10-30T04:00:18.089059",
+   "date": "2026-10-30",
+   "agent": 27,
+   "market_price_t0": 32,
+   "edge": -0.04999999999999999,
+   "confidence": 0.47,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.27, 0.27). (0) No source shows an arrest, charge, warrant or sealed indictment; Fox 9 (Oct 28) says no charges filed, and Omar voted publicly Oct 23. (a) About 9 weeks remain to Dec 31, effectively Nov 4 to Dec 31 given election caution. (b) If nothing changes, this resolves No. The market's jump from ~14-21% to 32% likely already prices DOJ's Oct 27 filing that the warrant will be 'fully executed in short order' and a 'public charging decision will follow', along with grand jury subpoenas, the seized passport, flight-risk language and Trump's jail rhetoric. (d) Yes path: a Minnesota or DC grand jury indicts her in Nov-Dec on conspiracy or false-statement counts, and she is arrested or self-surrenders and is processed by the US Marshals; booking counts under prong (i), so I put arrest given indictment at ~80%. (c) No path: DOJ says no charging decision is made; old immigration material may be time-barred, favouring civil denaturalization (no arrest); Pirro's office has had a grand jury no-bill Democratic lawmakers; the device filter review and holidays could push any charge into 2027. I estimate indictment by Dec 31 at ~30-33% given the administration's willingness to indict opponents quickly, so ~25-27% for arrest, slightly below the 32% market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5945",
+   "has_trace": true
+  }
+ ],
+ "Will Ukraine re-enter Uspenivka by December 31?": [
+  {
+   "id": 5942,
+   "scanned_at": "2026-10-30T03:12:36.909309",
+   "date": "2026-10-30",
+   "agent": 42,
+   "market_price_t0": 45,
+   "edge": -0.030000000000000027,
+   "confidence": 0.42,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.41, 0.43). (0) Not met as far as sources show: ISW's 'Claimed Ukrainian Counteroffensives' polygon (last edited ~Sept 28) crosses a 2x2 km box around Uspenivka but not the village centre point, and the settlement boundary was not queried. The market staying well below 1 since then implies no touch. ISW's Oct 28 wording ('near Uspenivka', consolidating on the Yanchur bank) and Suspilne's description of the Oct 28 map show no shading inside the village. (a) About 62 days remain to Dec 31. (b) Status quo is No: Ukrainian forces sit adjacent to the village, unshaded inside it. (c) No: winter, Russian massing in the Hulyaipole direction, Russian infiltration groups on Ukrainian flanks and Starshield strike limits keep the front positional, repeating the March and September near-misses. (d) Yes: Ukrainian assault groups enter the outskirts or Mashovets/General Staff claim positions there, ISW extends its claim-based polygon a few hundred metres, and the shading persists one cycle. The market is at 45%, up 28 points in a week on the Oct 28 report, which is already priced. The tiny distance needed and ISW's permissive claim-based layer support Yes; seven months of non-conversion, the persistence rule and slowing momentum weigh against, so I shade slightly below market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5942",
+   "has_trace": true
+  }
+ ],
+ "Will Gemini Carbon debut with an HLE-Diamond score of 65% or higher?": [
+  {
+   "id": 5934,
+   "scanned_at": "2026-10-30T01:39:02.220320",
+   "date": "2026-10-30",
+   "agent": 64,
+   "market_price_t0": 71,
+   "edge": -0.06999999999999995,
+   "confidence": 0.5,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.64, 0.64). (0) Not resolved. The resolution-source read could not render the agi.safe.ai chart. No CAIS Carbon score was found: the CAIS HLE-Diamond blog and dashboard show only the Sept 22 launch table, topped by GPT-6 Astra at 59.9% with Argon at 56.9%. For YES, CAIS must list Carbon and its high, no-tools score must show at least 65.0%. (a) The deadline is 2027-07-01, about 8 months away. (b) If nothing changes, Carbon is never listed and the market resolves No. CAIS did evaluate Argon before Google announced it, so a listing within weeks to months seems likely; I put it at roughly 85-90%. (c) NO path: CAIS's harness and judge score Carbon around 62-64%, below Artificial Analysis's 69.1%, or Carbon stays gated and is never charted. (d) YES path: CAIS gets Fairwind or API access, as AA did, and reproduces roughly AA's High-setting score of about 66-69%. AA's Argon High (57) matched CAIS (56.9), which supports that. AA's large gaps for Opus and Astra are at the 'max' setting, not 'high', so they overstate the haircut. Given listing, I put P(score ≥65) at about 0.72-0.75 with an uncertainty of roughly ±3.5 points, which gives about 0.64. That is slightly below the 69.5% market, mainly for listing and timing risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5934",
+   "has_trace": true
+  }
+ ],
+ "Will Lee Shu-chuan win the next New Taipei Mayor election?": [
+  {
+   "id": 5922,
+   "scanned_at": "2026-10-29T22:26:53.431393",
+   "date": "2026-10-29",
+   "agent": 50.5,
+   "market_price_t0": 55.5,
+   "edge": -0.050000000000000044,
+   "confidence": 0.42500000000000004,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.50, 0.51). (0) The race is not resolved. Voting is on Nov 28, 2026, and the CEC database has no results. Lee must out-poll Su Chiao-hui on election day.\n\n(a) About 30 days remain until the election, with results expected that night, before the Nov 29 close.\n\n(b) The status quo is a genuine toss-up, and Polymarket anchors at 55.5% for Lee (the Su market is at 43%). The price has been very volatile: roughly 74% a month ago, a low of 34%, then +21.5% in the last week. The research found no specific news explaining that rebound.\n\nPolls conflict by sponsor:\n- The KMT-commissioned TVBS poll has Lee +6.7, but Templeman says TVBS leans about 10 points pan-blue.\n- Tai Li-an's pan-green-leaning poll has Su +13 on support but only about +4 on its modeled vote share.\n- Juwen has Lee +0.5 and Zhen Media has Su +1.\n- Analysts (Templeman, Ogasawara) call it a toss-up or slight Su lead.\n\nStructurally, the KMT has won New Taipei every cycle since 2010, the city leans B+1, the blue-white alliance is unified, and Hou's approval is about 70%. KMT candidates have also often beaten polls in local races.\n\n(c) NO: the Taipei \"ocean current\" spills over and Lee's rising negatives and defensive campaign persist. Su wins Banqiao and the late undecideds, taking the race by 2-4 points.\n\n(d) YES: blue-white consolidation near 90%, Hou's machine and the village chiefs turn out low-propensity blue voters, and the undecideds break KMT as in 2018/2022. Lee then wins narrowly.\n\nWith no neutral late-October poll and momentum and structure pulling in opposite directions, I shade slightly below the market to 50%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5922",
+   "has_trace": true
+  }
+ ],
+ "Will no next Israeli Minister of Finance be appointed by February 28, 2027?": [
+  {
+   "id": 5918,
+   "scanned_at": "2026-10-29T21:02:45.536149",
+   "date": "2026-10-29",
+   "agent": 57,
+   "market_price_t0": 54,
+   "edge": 0.029999999999999916,
+   "confidence": 0.46499999999999997,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.57, 0.57). (0) Not resolved: as of Oct 29 no government has been formed, no mandate assigned, and Smotrich is only caretaker Finance Minister, which does not count. (a) About four months remain; Feb 28 is day 124 after the election, and the full statutory sequence (28+14, 28, 21+14 days) runs to about Feb 27. (b) Status quo is a 53/48/19 deadlock with no 61 for either bloc, pledges blocking defections and Arab-party reliance, and a caretaker Netanyahu who gains by waiting, which points to Yes. (c) No: Netanyahu gains Liberman, Bennett or defectors, or a unity deal emerges under Herzog's pressure, and a government is sworn in by Jan–Feb. (d) Yes: nominees fail, the Knesset dissolves early as in 2019, or the clocks run out, and a repeat election comes in April–July 2027. Anchoring on the 54% market price, the bloc arithmetic (worse than 2021) and the 2019 precedents justify a slight move toward Yes, tempered by Israeli politicians' history of breaking pledges.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5918",
+   "has_trace": true
+  }
+ ],
+ "Will Kimi K3.1 Pro debut in the top 20 of the Text Arena leaderboard by June 30, 2027?": [
+  {
+   "id": 5915,
+   "scanned_at": "2026-10-29T20:23:17.965951",
+   "date": "2026-10-29",
+   "agent": 50,
+   "market_price_t0": 57,
+   "edge": -0.06999999999999995,
+   "confidence": 0.41000000000000003,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.50, 0.50). (0) Not resolved: Arena's changelog (read through Oct 28) shows K3.1 Pro (Max) only on WebDev (#8) and Agent (#11 prelim); the Text board was Cloudflare-blocked and no Text entry has appeared six days after release, unlike K3's same-day Text debut. (a) About 8 months remain until June 30, 2027, so a Text debut is likely at some point, but timing is uncertain. (b) Status quo, with no entry, resolves No; the real question is where it would rank. K3 (Max) sits around #16-18 at ~1487 on the default view, with the top-20 cutoff near 1483-1487. K3.1's gains are mostly agentic/coding rather than general chat, and the AA index was revised from 55 to 46, so its Text score may land near K3's, right at the cutoff. Related score markets (>=1470: 59.5%, >=1480: 38%, >=1490: 17.5%) imply a median debut score in the high 1470s, pointing to roughly a coin flip for top 20, a bit below this market's thinly traded 57% (34/80 spread). (c) NO: Arena delays Text listing while Gemini 4 Carbon, GPT-6 variants and others push the top-20 line above ~1490, and K3.1 debuts around #22-25; or it is never listed on Text; or an AutoEval label or next-day absence voids the appearance. (d) YES: Arena adds 'Kimi K3.1 Pro (Max)' in a routine changelog batch within weeks using pre-release Kibitz votes, scoring at or above K3's ~1487 and ranking #12-20, consistent with its WebDev and Agent improvements.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5915",
    "has_trace": true
   }
  ]

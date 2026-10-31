@@ -549,6 +549,20 @@
  ],
  "Strait of Hormuz traffic returns to normal by November 30?": [
   {
+   "id": 6052,
+   "scanned_at": "2026-10-31T11:01:41.175651",
+   "date": "2026-10-31",
+   "agent": 4.5,
+   "market_price_t0": 7,
+   "edge": -0.02500000000000001,
+   "confidence": 0.72,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.04). (0) The condition has not been met. PortWatch's own ArcGIS feed runs through Oct 25 and shows daily transits of 2–5, a 7-day average of about 3.3 against the 60 needed, and no October day above 8. (a) About 30 days of data remain (through Nov 30). Data published up to 14 days afterward counts, but only dates up to Nov 30 qualify. (b) If nothing changes, the average stays in the 3–7 band it has held since mid-July, and the market resolves No. (c) The likely No path: talks stall past the Nov 3 midterms or the US strikes again, with attacks at a wartime high (35+ in October). Alternatively, a deal comes but the ramp follows the June precedent: the 7-day average peaked near 27, June averaged only 12.9 a day, and insurers and shipowners quoted 4–8 weeks to normalise. (d) The Yes path needs a Doha initial understanding by roughly Nov 5–12, Iran reopening on its day-6 clock, and a queue of hundreds of stranded ships crossing with AIS on, averaging at least 60 for 7 straight days before Nov 30. That would be more than double the best week of the war. Related markets give a shipping deal by Nov 30 about 34% and ceasefire continuation about 37%, but even conditional on a deal, hitting 60 in time looks to be about 10–15% at most. The Polymarket anchor is 7% (bid 6, ask 8). I shade slightly below it because the June precedent and the AIS-only undercount make the needed jump from about 3 to 60 inside four weeks very hard.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6052",
+   "has_trace": true
+  },
+  {
    "id": 5133,
    "scanned_at": "2026-10-19T19:02:13.980599",
    "date": "2026-10-19",
@@ -2508,6 +2522,20 @@
   }
  ],
  "Iran agrees to end enrichment of uranium by December 31?": [
+  {
+   "id": 6074,
+   "scanned_at": "2026-10-31T19:08:53.654113",
+   "date": "2026-10-31",
+   "agent": 7,
+   "market_price_t0": 9,
+   "edge": -0.01999999999999999,
+   "confidence": 0.6599999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) No source shows the condition met. Credible reporting through Oct 31 shows Iran has made no official public pledge to end all enrichment. The June MOU deferred enrichment and expired in August. AEOI head Eslami (Oct 8) and security chief Rezaei (Oct 20) both publicly reject a halt, and Ghalibaf calls enrichment non-negotiable. (a) About 61 days remain until the 11:59 PM ET Dec 31, 2026 deadline. (b) If nothing changes, this resolves No. The live Qatar/Doha track is about reopening Hormuz and confidence-building, and the reported Al Arabiya draft offers either a stockpile transfer or a lower enrichment level. Both are caps or stockpile measures, which do not qualify. The US has also softened toward a 'meaningful reduction' (Vance), which removes pressure for a full halt. (c) NO scenario: post-midterm strikes from around Nov 4 harden Tehran, or a Doha deal reopens Hormuz and pushes the nuclear file to a later phase or settles on downblending. (d) YES scenario: under strike threat and blockade pressure, Iran publicly accepts a fixed-term enrichment moratorium inside a Qatari-mediated framework, which counts under the 'any amount of time' clause. Iran has privately offered 5–7 year moratoria before. A loose resolver might also count a widely reported freeze. The market sits at 9%, and every earlier deadline for this question resolved No after headline spikes and Iranian denials. Given the sequencing deadlock and the softening US demand, I shade slightly below the market to 7%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6074",
+   "has_trace": true
+  },
   {
    "id": 5525,
    "scanned_at": "2026-10-24T19:06:32.164296",
@@ -4602,6 +4630,20 @@
   }
  ],
  "Will Ethereum dip to $1,500 by December 31, 2026?": [
+  {
+   "id": 6054,
+   "scanned_at": "2026-10-31T11:46:12.808252",
+   "date": "2026-10-31",
+   "agent": 13,
+   "market_price_t0": 13.1,
+   "edge": -0.0010000000000000009,
+   "confidence": 0.6,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.15). (0) Not met: Binance klines (data-api.binance.vision, Nov 2025 to Oct 2026) show the window's lowest low at $1,505.68 in June 2026, above $1,500, and the market is still open. ETH needs a fresh ~33% wick from about $2,240 to $1,500 or below on Binance ETH/USDT before 23:59 ET Dec 31, 2026. (a) About 61 days remain. (b) Status quo: ETH chops in the $2,000-2,400 range and the market resolves No. The research's barrier math is wrong. A 0.40 log drop against sigma*sqrt(T) of about 0.18-0.20 is roughly 2 sigma, so the driftless touch probability is about 5-7%, or about 10% at 60% volatility. Fat tails and bearish momentum add to that: October fell 13-16%, ETF outflows persist, the attacker holds about 519k unfreezable ETH, and BTC is near $77k. (c) No: Binance's Nov 2 Proof of Reserves and withdrawal restart go smoothly, the attacker's ETH drips out slowly, and supports at $2,000 and $1,820 hold. June's extreme capitulation (RSI ~13) still failed to break $1,500. (d) Yes: a botched reserves report or withdrawal stumble at Binance, which is also the resolution venue, combines with attacker exchange deposits and a hawkish macro leg. A leverage cascade then wicks ETH below $1,500, a move larger than the Bybit precedent. The market anchor is 13.3%. I sit slightly below it because the volatility math points lower, while the hack tail risk on the resolution venue justifies some premium.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6054",
+   "has_trace": true
+  },
   {
    "id": 5501,
    "scanned_at": "2026-10-24T11:16:02.430531",
@@ -19974,7 +20016,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-31T09:38:22.393Z",
+  "last_sync": "2026-10-31T19:17:00.348Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -23207,6 +23249,20 @@
  ],
  "Another Fed rate hike in 2026?": [
   {
+   "id": 6063,
+   "scanned_at": "2026-10-31T15:21:54.282751",
+   "date": "2026-10-31",
+   "agent": 71,
+   "market_price_t0": 69.5,
+   "edge": 0.015000000000000013,
+   "confidence": 0.55,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.71, 0.71). (0) Not yet resolved. FRED DFEDTARU shows the upper bound at 4.00% through Oct 31. The Sept 16 hike is excluded by the rules, and the Oct 28 FOMC held 10-2, so YES needs a hike at the Dec 8–9 meeting or an emergency move before it. (a) About 5.5 weeks remain, with one scheduled decision on Dec 9. (b) If nothing changes, the rate stays at 3.75–4.00% and the market resolves NO. That makes this a single-meeting call, and the pricing hinges on it. (c) NO path: soft October and November jobs data (September payrolls were only +29k), a cooler Oct CPI on Nov 10, and a continued equity/AI selloff tightening financial conditions. A non-committal Warsh then sides with the Williams/Jefferson patience camp and skips again, consistent with the 'accumulation of more information' statement language and an every-other-meeting or once-per-quarter cadence. (d) YES path: data stay hot and the Dec 9 meeting hikes 25bp. The current evidence leans this way: core PCE 3.1% and rising, Q3 GDP at 3.4%, oil near $104, and 16 of 18 September dots for another hike. Voters Hammack and Cook already dissented for a hike, and voter Logan, Musalem and Barkin publicly pushed for more firming within 48 hours of the hold. Anchor: Polymarket is at 69.5%, down from 91.5% over the month. Independent futures reads on Oct 30 ranged from 69% to 76%, and Kalshi showed about 71%. The post-meeting hawkish speeches and the hot PCE argue slightly above the market, while the recent downtrend, a non-committal chair and swing data releases argue against moving far. I land at 0.71.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6063",
+   "has_trace": true
+  },
+  {
    "id": 5514,
    "scanned_at": "2026-10-24T15:17:46.346603",
    "date": "2026-10-24",
@@ -25246,6 +25302,20 @@
   }
  ],
  "Will AI solve 0 more Millennium Prize Problems in 2026?": [
+  {
+   "id": 6057,
+   "scanned_at": "2026-10-31T12:31:00.245033",
+   "date": "2026-10-31",
+   "agent": 75,
+   "market_price_t0": 72,
+   "edge": 0.030000000000000027,
+   "confidence": 0.55,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.75, 0.75). (0) Not resolved. The resolution-source read, Papex's 10-28 tracker and Clay's page all show zero qualifying announcements. The Navier-Stokes claim is excluded by the rules. OpenAI's Oct 26 Yang-Mills claim is existence-only, which OpenAI itself calls \"part of\" the Clay problem, with no mass gap. The quasi-RH, Hodge and BSD results are partial, and the ETH refutation does not touch P vs NP. (a) About 61 days remain, to Dec 31, 2026. (b) If nothing changes, the count stays at 0 and this resolves Yes. (c) For No, an eligible lab would have to issue an unhedged \"solved\" claim on Hodge, BSD, RH, P vs NP or the Yang-Mills mass gap. The most plausible path is OpenAI's fast cadence (a major release every 2–3 weeks) producing a full Hodge or BSD claim, or a mass-gap extension. (d) Yes happens if the labs keep their hedged \"partial result\" framing. Several things point that way: the Gross/Jaffe panel is gating the Yang-Mills release and says the mass gap is open, OpenAI withdrew its Hodge papers over a sign error, Brockman disavowed any P vs NP link, and Fields Medalist backlash raises the cost of overclaiming. The market anchor is 72%, down 7 points this week after the Yang-Mills news. I lean slightly above it because the Yang-Mills item is clearly partial under the rules and the labs' framing is trending toward caution. Escalation has been extraordinary since September, though, so a fat tail remains.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6057",
+   "has_trace": true
+  },
   {
    "id": 5503,
    "scanned_at": "2026-10-24T11:55:20.287230",
@@ -29941,6 +30011,20 @@
  ],
  "Will Polymarket mindshare hit 75% by December 31?": [
   {
+   "id": 6050,
+   "scanned_at": "2026-10-31T10:14:19.907049",
+   "date": "2026-10-31",
+   "agent": 56.5,
+   "market_price_t0": 58.3,
+   "edge": -0.01750000000000007,
+   "confidence": 0.38,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.58, 0.55). (0) The Kaito page was blocked (403 and a Cloudflare challenge), so no source confirms a finalized daily value of 75.00% or more. The 65% strike and one 70% strike appear settled Yes, so at least 70% has likely printed since June 30, while 75% remains open. (a) About 61 days remain, through Dec 31, 2026 ET. (b) Status quo: the maximum so far looks to be between 70% and 75%, which resolves No if nothing changes. (c) No: the Oct 29–30 breach spike peaks in the low 70s, Kalshi keeps gaining (about 76% of 30-day volume), attention cools after Nov 3, and the post-Yaps posting decline makes the 2025 base rate (about 20 days above 75%) overstate today's. (d) Yes: the breach, the Protocol V2 launch, election-surveillance and Warren-letter coverage, and Nov 3 election night produce one day of 75%+, as 80%+ was hit in the previous window. The market anchor is 58.25% on a thin book with a 46/70 spread. The tracker's 94.7% reading at 00:50 UTC Oct 31 fell back to about 58%, which may indicate a near-miss reading or a squeeze. Sibling moves in the 70% and 80% strikes support a real spike, and a big catalyst is still ahead, so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6050",
+   "has_trace": true
+  },
+  {
    "id": 5298,
    "scanned_at": "2026-10-21T18:59:34.192199",
    "date": "2026-10-21",
@@ -30034,6 +30118,20 @@
   }
  ],
  "Will no next Israeli Minister of Defense be appointed by February 28, 2027?": [
+  {
+   "id": 6069,
+   "scanned_at": "2026-10-31T17:17:07.185556",
+   "date": "2026-10-31",
+   "agent": 53.5,
+   "market_price_t0": 52.8,
+   "edge": 0.006500000000000061,
+   "confidence": 0.435,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.55, 0.52). (0) Nothing has resolved. Several outlets (Al Jazeera, CNN, CNBC, Oct 29–30) report no government formed and only Katz serving as caretaker defense minister, which does not count under the rules. (a) About 4 months remain until Feb 28, 2027, roughly day 124 after the Oct 27 election. (b) If nothing changes, the hung Knesset (53 Netanyahu bloc / 48 Eisenkot bloc / 19 Arab parties) stays deadlocked, the caretaker government continues, and the market resolves YES. (c) A NO path: a Netanyahu–Eisenkot unity deal is brokered by Herzog. Alternatively, Eisenkot gets the first mandate and assembles 61 with Haredi parties, or a minority government passes with abstentions; any of these would put a defense minister in place by January or February, in line with the 55–80-day historical formation norm. (d) A YES path: Eisenkot's mandate fails because Liberman rejects Netanyahu and Arab or Haredi backing, Deri refuses to join without Likud, and Eisenkot refuses to serve under Netanyahu. Netanyahu, as caretaker, has an incentive to run out the clock, the second mandate also fails, and the chain runs to around late February or March or into a new election. The market anchor is 52.85% and has risen 24 points in 30 days, which suggests the crowd is pricing the hard vetoes and Liberman's apparent appetite for new elections. Historical base rates still favour some government forming within ~120 days, but the 2019 precedent, the mutual vetoes, Likud's 'stolen election' framing and the long statutory chain push slightly toward YES. I put YES modestly above the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6069",
+   "has_trace": true
+  },
   {
    "id": 5362,
    "scanned_at": "2026-10-22T14:02:29.069727",
@@ -30207,6 +30305,20 @@
  ],
  "Will no next Israeli Minister of Foreign Affairs be appointed by February 28, 2027?": [
   {
+   "id": 6066,
+   "scanned_at": "2026-10-31T16:35:28.120412",
+   "date": "2026-10-31",
+   "agent": 54.5,
+   "market_price_t0": 48,
+   "edge": 0.06500000000000006,
+   "confidence": 0.45,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.53, 0.56). (0) Not resolved. The final count after the 27 Oct election is Netanyahu bloc 53, Eisenkot bloc 48 and Arab parties 19, and no government has formed. Sa'ar holds the Foreign Ministry only as caretaker, which does not count under the rules. YES therefore requires that no government wins a Knesset confidence vote by Feb 28.\n(a) About 120 days remain. By the Ynet/MEPC timetable, the full statutory sequence of mandates runs to roughly Feb 27 to Mar 1, so the deadline sits right at the end of the formation process.\n(b) Status quo is deadlock, with Netanyahu as caretaker PM, and that resolves YES. Brookings, Axios and Times of Israel analysis call a repeat election in early 2027 the likeliest outcome. Netanyahu also has an incentive to run out the clock as a caretaker with near-full powers.\n(c) NO path: Herzog's and reportedly US pressure produces a Netanyahu–Eisenkot unity deal with rotation. Alternatively, the Haredi parties, roughly 13 seats, defect to Eisenkot for a bare 61. Any government sworn in by late February names a foreign minister through the confidence vote.\n(d) YES path: Eisenkot's first mandate fails because he will not rely on Arab support and will not serve under Netanyahu. The second-nominee and 61-signature stages also fail, the Knesset dissolves, and an April–May election follows.\nHistorically, governments formed within 55–82 days when single elections were decisive. In the deadlocked 2019 rounds no government formed. This hung parliament, where no bloc is near 61, resembles 2019 more closely.\nThe market sits at 48% (mid of a wide 40/56 spread) and has trended up. I lean slightly above it because multiple expert sources favor a repeat election. I stay near the anchor because unity pressure is real and the window is long.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6066",
+   "has_trace": true
+  },
+  {
    "id": 5517,
    "scanned_at": "2026-10-24T16:30:53.985667",
    "date": "2026-10-24",
@@ -30254,6 +30366,20 @@
   }
  ],
  "Ilhan Omar federally charged by December 31?": [
+  {
+   "id": 6059,
+   "scanned_at": "2026-10-31T13:20:51.142943",
+   "date": "2026-10-31",
+   "agent": 30,
+   "market_price_t0": 36,
+   "edge": -0.06,
+   "confidence": 0.49,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.29, 0.31). (0) The condition is not met. Fox 9, MPR and AP reporting from Oct 28–29 says Omar has not been charged. In a court filing, DOJ said it has not decided whether to charge her and that the search warrant is only partially executed. (a) About 61 days remain until Dec 31, and roughly 58 of those fall after the Nov 3 election, including the holiday period. (b) Status quo means the investigation simply stays open, which resolves NO. Federal searches of sitting members' homes have historically taken a year or more to become indictments (Menendez about 15 months, Cuellar about 2 years), and the main naturalization and marriage theories face statute-of-limitations problems. (c) NO scenario: DOJ finishes executing the warrant, keeps the grand jury taking witness testimony and perhaps charges relatives first. It may then pursue civil denaturalization, which the WSJ described as the goal and which does not count, leaving a criminal charge for 2027 or never. (d) YES scenario: after the election, a Minnesota grand jury returns a family-wide conspiracy or false-statement indictment, built on the sister's cooperation and the search evidence. Alternatively, Pirro's office files a quick complaint, as this DOJ did with Comey and the ex-FBI officials, under pressure from Trump and Mullin's 'large case' referral. I anchor on the 36% market price, which has risen sharply on news-flow momentum. I shade it down because of the limitations hurdle, the civil route as a substitute, the unfinished warrant, and the poor conversion record (about 2 of 13+ targeted Democrats indicted). The political will and the pattern of fast charges keep YES well above base rates.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6059",
+   "has_trace": true
+  },
   {
    "id": 5507,
    "scanned_at": "2026-10-24T13:17:13.045178",

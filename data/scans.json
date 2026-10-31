@@ -233,6 +233,20 @@
  ],
  "Strait of Hormuz traffic returns to normal by December 31?": [
   {
+   "id": 6001,
+   "scanned_at": "2026-10-30T21:32:28.800421",
+   "date": "2026-10-30",
+   "agent": 7,
+   "market_price_t0": 10.5,
+   "edge": -0.03499999999999999,
+   "confidence": 0.71,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Not already met. The resolution-source read of the PortWatch ArcGIS data shows the 7-day average at about 3.3 as of Oct 25, far below 60. No source shows 60 reached since Mar 2 (63.3).\n(a) About 9 weeks remain until Dec 31. Data lags about 5 days, and there is a 14-day grace window for data publication.\n(b) Status quo is NO. The 7-day average has sat at 3–10 since mid-July, while the IRGC has declared closure, new mine and limpet attacks continue, and insurers are absent.\n(c) NO scenario: talks stall or strikes resume after the Nov 3 midterms. Alternatively, a partial, convoy-bound reopening keeps AIS-visible transits well under 60, as after the June MoU, when the peak was only about 32 even with a deal.\n(d) YES scenario: a Qatar-brokered deal in early to mid November reopens the strait within about 4 days. The backlog of about 490 waiting vessels and dark-fleet ships then switch AIS on, and PortWatch snaps to 60+ for a week in December.\nThe market anchor is 10.5%, with the Kalshi sibling at 8% and the Nov 30 market at 6%. The ceasefire markets imply a real chance of renewed war, and the PortWatch threshold sits near the pre-war winter level. Even a deal likely produces a gradual ramp, consistent with Kpler's forecast of about 40/day a month after reopening. I shade slightly below the market, to about 7%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6001",
+   "has_trace": true
+  },
+  {
    "id": 5448,
    "scanned_at": "2026-10-23T17:10:32.628991",
    "date": "2026-10-23",
@@ -2800,6 +2814,20 @@
   }
  ],
  "Russia x Ukraine ceasefire agreement by December 31, 2026?": [
+  {
+   "id": 6023,
+   "scanned_at": "2026-10-31T03:09:33.864744",
+   "date": "2026-10-31",
+   "agent": 11.5,
+   "market_price_t0": 14.5,
+   "edge": -0.03,
+   "confidence": 0.66,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.12). (0) No qualifying ceasefire exists as of Oct 30-31 per NBC, CNN and Reuters. The Oleshky/Kherson humanitarian truce is location-specific, called an 'isolated case' by the Kremlin, and expires Nov 1. Trump's 'energy ceasefire' covers one target category and was never confirmed by both sides. Neither qualifies. (a) About 8.5 weeks remain until Dec 31, 2026. (b) Status quo is continued fighting: Russia still demands all of Donbas, and Peskov says talks do not mean any halt in hostilities, so No. (c) No: the technical trilateral round slips again or yields only energy, maritime or prisoner deals, which the rules exclude, and strikes continue through winter. (d) Yes: US pressure and sanctions relief lead Putin to accept Zelensky's front-line freeze or a dated general halt announced by both governments, possibly using the Oleshky mechanism. Alternatively, a front-wide Christmas or New Year truce like the April 2026 Easter truce is announced and accepted before Dec 31 and arguably qualifies. Anchor is Polymarket at 14.5%, down 6 points this week. The research found no Russian movement on Donbas, and related markets (peace deal 7.5%, sibling ceasefire contract 13.5%, Manifold about 7%) point lower. The holiday-truce ambiguity keeps a tail, so I shade slightly below market to 11%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6023",
+   "has_trace": true
+  },
   {
    "id": 5467,
    "scanned_at": "2026-10-24T00:59:44.879221",
@@ -8425,6 +8453,20 @@
  ],
  "Will NVIDIA be the largest company in the world by market cap on December 31?": [
   {
+   "id": 6041,
+   "scanned_at": "2026-10-31T07:51:04.817025",
+   "date": "2026-10-31",
+   "agent": 49.5,
+   "market_price_t0": 54.5,
+   "edge": -0.050000000000000044,
+   "confidence": 0.55,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.50, 0.49). (0) Not resolved. Apple closed Oct 30, 2026 as the world's largest company at about $5.03T against NVIDIA at about $4.93T, per Bloomberg/Yahoo, TradingKey and CompaniesMarketCap. NVIDIA is roughly 2% behind, and only the Dec 31 close counts. (a) About two months remain, with NVIDIA's Q3 FY27 earnings around Nov 17 and Apple's FQ4 report on Nov 2 inside the window. (b) If nothing changes, Apple stays #1 and this resolves NO. (c) NO path: the AI-capex de-rating continues, with chips in a bear market, hyperscaler cash-burn worries and CoreWeave/OpenAI credit stress. Apple keeps its low-capex safe-haven bid after a decent Nov 2 print and holds a lead into Dec 31. (d) YES path: NVIDIA beats and raises on Nov 17, Rubin ramps and AI sentiment rebounds. NVIDIA recovers more than 2% relative to Apple, which is smaller than its 7.4% average earnings move and its ~20% drawdown from Oct 6, and holds that lead at year-end. A rough relative-volatility model (relative vol ~43% annualized, about 18% over two months) with a 2% gap puts NVIDIA at roughly 45%. The incumbency history (NVIDIA regained #1 after every prior 2026 flip), its cheaper multiple and analyst skepticism on Apple's valuation pull that toward about 50%. The market's 54.5% looks slightly generous given NVIDIA is currently behind, so I shade to 50%. Near-tie reporting ambiguity from different share-count methods slightly favours whoever leads clearly.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6041",
+   "has_trace": true
+  },
+  {
    "id": 5479,
    "scanned_at": "2026-10-24T04:07:43.275362",
    "date": "2026-10-24",
@@ -10149,6 +10191,20 @@
  ],
  "Will Hyperliquid reach $100 by December 31, 2026?": [
   {
+   "id": 6009,
+   "scanned_at": "2026-10-31T00:04:17.314525",
+   "date": "2026-10-31",
+   "agent": 70,
+   "market_price_t0": 73,
+   "edge": -0.030000000000000027,
+   "confidence": 0.55,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.70, 0.70). (0) The condition has not been met yet. Binance futures monthly klines, read directly from the named source, show a peak High of 98.057 in September 2026 and an October high of 97.193, with price near $90. No candle has reached $100. (a) About 61 days remain, to Dec 31, 2026 23:59 ET, and any single 1-minute wick on Binance HYPEUSDT counts. (b) If nothing changes, HYPE sits about 10–11% below the strike and resolves No. Getting there needs a new all-time high, about 2% above the prior peak. (c) No path: the Nov 6 unlock of roughly 9.9M HYPE adds selling pressure, the ICE/TradeXYZ catalyst fades without CFTC action, the BTC tape stays risk-off after the Binance hack, and the $94–98 resistance holds a fourth time. (d) Yes path: HYPE absorbs the unlock, negative funding and rising open interest fuel a squeeze through $98, and Binance wicks to $100 during a liquidation cascade or on a regulatory or ETF headline. Simple barrier-touch math with 70–100% annualized volatility over 61 days gives roughly 70–78% for an 11% move. That agrees with the market's 73% (bid 71 / ask 75). I shade slightly lower for the repeated rejections near $98 and the supply overhang, but no unpriced information justifies a large move off the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6009",
+   "has_trace": true
+  },
+  {
    "id": 5379,
    "scanned_at": "2026-10-22T20:43:41.521986",
    "date": "2026-10-22",
@@ -10864,6 +10920,20 @@
   }
  ],
  "Will Solana dip to $60 by December 31, 2026?": [
+  {
+   "id": 6037,
+   "scanned_at": "2026-10-31T07:03:39.097083",
+   "date": "2026-10-31",
+   "agent": 11.8,
+   "market_price_t0": 11.7,
+   "edge": 0.0004999999999999866,
+   "confidence": 0.66,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.12). (0) Not yet met. The resolution-source read uses Binance's public data mirror, and its weekly SOL/USDT candles since Nov 24, 2025 show the lowest low at $60.13 (week of June 1, 2026). A weekly low is the lowest of its 1-minute lows, so the $60 strike has not been touched, though it missed by only 13 cents. (a) About 61 days remain, to Dec 31, 2026 23:59 ET. (b) Status quo is NO: SOL is near $96, about 37% above the strike, with named supports at $92, $89 (200-day SMA), $77–82 and $71 above it. (c) NO: SOL holds the $89–92 area through the Breakpoint conference and the Dec 9 Fed meeting, where a hike is reportedly about 85% priced, and drifts between $85 and $110. (d) YES: fallout from the reported Binance breach, BTC ETF outflows and a BTC break below its $73k 200-day MA set off a capitulation leg. High-beta SOL then wicks through the June low on a liquidation cascade, and on 1-minute Binance candles a brief wick is enough. A driftless barrier model with 70–90% annualised volatility gives roughly a 10–15% touch probability. Bearish momentum (RSI 27.6, ETF outflows, a whale sale, negative funding) is roughly offset by June showing $60 held even under BTC-below-$60k forced selling. I stay at the Polymarket price of 11.7%, since the research surfaces nothing clearly unpriced.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6037",
+   "has_trace": true
+  },
   {
    "id": 3252,
    "scanned_at": "2026-09-20T18:33:26.322791",
@@ -12059,6 +12129,20 @@
  ],
  "Will Ethereum hit $1,000 or $3,000 first?": [
   {
+   "id": 6012,
+   "scanned_at": "2026-10-31T00:49:30.091175",
+   "date": "2026-10-31",
+   "agent": 40,
+   "market_price_t0": 36,
+   "edge": 0.040000000000000036,
+   "confidence": 0.55,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.40, 0.40). Yes is taken to be the $1,000-first outcome, since its price rose as ETH fell. (0) Binance klines show neither strike touched since the March open (range $1,505–$2,807, last ~$2,250), so nothing has resolved. (a) About 61 days remain, to Dec 31, 2026. (b) If nothing changes, neither strike is hit and the market resolves 50–50, paying Yes 0.5. At ~51% implied vol, $3,000 (+34%, ~1.4 sigma) has roughly a 15–20% touch chance and $1,000 (-55%, ~3.9 sigma) about 1–3%, giving fair Yes value of ~0.41. The market's 36% implies about a 28% chance of $3,000 first, which looks rich against heavy ETF outflows, a priced December hike and the delayed upgrade. (c) A soft CPI print or short squeeze wicks ETH to $3,000 and Yes loses. (d) A BTC crash to ~$50K drags ETH to $1,000 and Yes wins, but the likelier good outcome for Yes is a 50–50 payout. I shade modestly above the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6012",
+   "has_trace": true
+  },
+  {
    "id": 2088,
    "scanned_at": "2026-08-28T03:43:09.742092",
    "date": "2026-08-28",
@@ -12118,6 +12202,20 @@
   }
  ],
  "Will Variational launch a token by December 31, 2026?": [
+  {
+   "id": 6007,
+   "scanned_at": "2026-10-30T23:11:21.165306",
+   "date": "2026-10-30",
+   "agent": 78.5,
+   "market_price_t0": 84.4,
+   "edge": -0.058499999999999996,
+   "confidence": 0.565,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.79, 0.78). (0) Not resolved. Variational's X profile (Oct 29–30) shows week 46 points still being distributed, and those continue 'until TGE', so $VAR is not yet tradable. The pinned Sep 24 article and the official docs both still say the TGE is 'set for Q4 2026'. (a) About 62 days remain until 11:59 PM ET on Dec 31, 2026, and the rules require live public trading, not just a claim or an announcement. (b) Status quo: the token is not launched and has no announced date, snapshot or claim portal. If nothing changes, this resolves NO, but the official Q4 commitment means the team intends to act. (c) NO path: the stated pre-TGE gates slip and the launch moves into Q1 2027. Those gates are Omni public mainnet (still private beta), the trading API, swaps, and buyback and utility details. The team already slipped once (Q3 to Q4, citing a 'strategic partnership'), the roadmap says it is not a timeline commitment, and a soft market adds reason to wait. (d) YES path: public mainnet opens in November, then a snapshot and buyback details follow, then a December TGE and Arbitrum listing. This fits the Nov 30 sibling market at 22%, which implies December is the expected month. Supporting it: the venue is well funded ($50M Series A), detailed tokenomics are published, and peers that gave a firm quarter, such as Lighter and GRVT, mostly delivered. I anchor on the 84% Polymarket price (bid 80, ask 88) and shade down a few points. The unshipped gating items, the lack of any date with 2 months left, and the prior slip make a further slip of a few weeks more plausible than 16%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6007",
+   "has_trace": true
+  },
   {
    "id": 5118,
    "scanned_at": "2026-10-19T14:11:53.452999",
@@ -13539,6 +13637,20 @@
  ],
  "UNSC Resolution Endorsing Final U.S.-Iran Deal by December 31?": [
   {
+   "id": 6044,
+   "scanned_at": "2026-10-31T08:40:10.315681",
+   "date": "2026-10-31",
+   "agent": 8,
+   "market_price_t0": 19.5,
+   "edge": -0.115,
+   "confidence": 0.685,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.08) after one crux research pass. (0) No source shows the condition met: no final deal, no draft UNSC text and no scheduled vote as of Oct 31 (Axios, CBS, Al Jazeera); the MOU window lapsed Aug 17 and fighting resumed. (a) About 8.5 weeks remain to agree a final deal and adopt a P5-cleared resolution. (b) Status quo is No: talks are indirect and stalled, the Qatari track covers only preliminary reciprocal steps, Iran called the Oct 28 draft 'unacceptable', and the sides disagree on who moves first. (c) No: the strike pause ends Nov 3 and fighting resumes, or interim steps drag on, or drafting stalls on the snapback/2231 dispute after the September Russia-China veto. (d) Yes: the Qatari package is accepted in November, Doha talks quickly produce a comprehensive text, and the P5 pre-clear an endorsement as in 2015's six-day 2231 timeline. Anchor: the market's 19.5% follows a +9.5% spike on unconfirmed reporting, while Polymarket's Dec 31 final-deal market is 14.5%. Since an endorsement requires that deal plus adoption, this market should be lower; I price about 8%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6044",
+   "has_trace": true
+  },
+  {
    "id": 5261,
    "scanned_at": "2026-10-21T07:11:35.540405",
    "date": "2026-10-21",
@@ -13758,6 +13870,20 @@
   }
  ],
  "Russia x Ukraine ceasefire by December 31, 2026?": [
+  {
+   "id": 6047,
+   "scanned_at": "2026-10-31T09:26:24.602290",
+   "date": "2026-10-31",
+   "agent": 9,
+   "market_price_t0": 13.5,
+   "edge": -0.04500000000000001,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) No source shows a qualifying ceasefire. Oleshky is local and expires around Nov 1, and the energy truce is limited to one target category and unconfirmed by Moscow. A general mutually agreed halt must still take effect. (a) About 61 days remain. Because the market stays open past Dec 31 if a ceasefire has started, a start on or before Dec 31 that holds 10 days counts. (b) The status quo of continued fighting resolves No. Peskov says talks impose no restrictions on combat and rejects any 'respite' ceasefire, and Ushakov calls the Abu Dhabi meeting a preliminary trial run with no date. (c) No: technical talks yield at most energy or POW steps, Donbas stays deadlocked, and winter strikes continue. (d) Yes: fast talks lead to a summit, then Russian acceptance of the 60-day ceasefire-for-elections offer or an extended holiday truce, starting by late December and holding 10 days. I anchor on the 13.5% market and the 14.5% sister contract. I shade down given explicit Russian rejection, no theater-wide truce of 10+ days in 4.5 years, and only a technical meeting scheduled, while leaving residual risk for Trump-driven surprises.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6047",
+   "has_trace": true
+  },
   {
    "id": 5494,
    "scanned_at": "2026-10-24T08:39:57.773438",
@@ -14488,6 +14614,20 @@
   }
  ],
  "Will Mojtaba Khamenei be head of state in Iran end of 2026?": [
+  {
+   "id": 6032,
+   "scanned_at": "2026-10-31T05:28:43.355416",
+   "date": "2026-10-31",
+   "agent": 85,
+   "market_price_t0": 85.7,
+   "edge": -0.006500000000000061,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.85, 0.85). (0) Not resolved. The market settles on who de facto holds head-of-state power on Dec 31, 2026. As of Oct 27–29, credible outlets (Bloomberg, IranWire, NIAC, AA, Arab News) still describe Mojtaba Khamenei as Supreme Leader. State media reported meetings with Ghalibaf (Oct 21), Ejei (Oct 24) and Rezaei (Oct 27), and Tasnim published a written message from him on Oct 28. (a) About two months remain until the Dec 31 12:00 ET snapshot. (b) If nothing changes, he is still the formally installed leader that state bodies, the president and even hostile Western outlets name, and a 'consensus of credible reporting' would most likely name him. That points to YES. (c) NO would come from a US/Israeli strike after the Nov 3 midterms that kills him, or from confirmation that he died or is incapacitated, which the Atlantic alleged in August. It could also come from an Article 111 interim council or an open IRGC takeover that leads reporting to name Vahidi or a collective. A further, smaller route is the resolver applying the 'symbolic status does not qualify' clause, given he has had no verified public appearance in eight months. (d) YES comes through continuity: written directives and meetings keep flowing, the Vance–Rezaei diplomatic channel holds off strikes, and no death or replacement is confirmed. I anchor on Polymarket's 85.65%, which matches the related 'leadership change by Dec 31' market at 14.5%. The research surfaced no new unpriced information, so I stay essentially at market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6032",
+   "has_trace": true
+  },
   {
    "id": 5482,
    "scanned_at": "2026-10-24T04:53:39.501032",
@@ -15928,6 +16068,20 @@
   }
  ],
  "Will there be at least 10000 measles cases in the U.S. in 2026?": [
+  {
+   "id": 6030,
+   "scanned_at": "2026-10-31T04:43:12.024805",
+   "date": "2026-10-31",
+   "agent": 3,
+   "market_price_t0": 7.4,
+   "edge": -0.0445,
+   "confidence": 0.85,
+   "category": "Health",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.03, 0.03). (0) The condition is not met. The CDC counter updated Oct 30 shows 4,852 confirmed 2026 cases as of Oct 29, well short of 10,000. It is also not yet mathematically impossible, since about 5,150 more cases would still need to be added by Dec 31. (a) About two months remain, which means roughly 8 weekly CDC updates (Nov 6 to about Dec 25), with possible holiday slippage. (b) If the status quo holds, weekly additions of 178–330 (12 straight triple-digit weeks) put the year-end total near 6,500–7,500, so the market resolves No. Expert projections of 6,000–6,500 (Adalja, Schaffner) agree, and Hotez places the seasonal peak in Feb–Mar 2027, outside the window. (c) In the NO scenario, Pennsylvania (+73 to +88 per week, slowing) plus Wisconsin, Minnesota and Indiana keep adding a few hundred a week, and the year ends around 7,000. (d) YES would require a sustained ~600–650+ per week starting immediately, more than 2x the best recent week. That could only come from a simultaneous sharp acceleration across states, an explosive new outbreak, or a bulk probable-to-confirmed reclassification, and the research found no evidence of any of these. The Polymarket anchor of 7.45% looks inflated by long-shot bias, also visible in sibling markets such as 12,500 trading at 5%. I therefore price below it at about 3%, keeping a small allowance for counting or methodology surprises.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6030",
+   "has_trace": true
+  },
   {
    "id": 5471,
    "scanned_at": "2026-10-24T01:49:52.311957",
@@ -19820,7 +19974,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-30T19:55:46.264Z",
+  "last_sync": "2026-10-31T09:38:22.393Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -24515,6 +24669,20 @@
  ],
  "Will Russia capture all of Bilytske by December 31?": [
   {
+   "id": 5999,
+   "scanned_at": "2026-10-30T20:41:23.767768",
+   "date": "2026-10-30",
+   "agent": 65.5,
+   "market_price_t0": 72,
+   "edge": -0.06499999999999995,
+   "confidence": 0.435,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.66, 0.65). (0) Resolution check: no source shows the condition met. ISW's text through Oct 22–25 still calls Russian presence in Bilytske infiltration, which does not qualify. An Oct 24 ISW item records an advance in central Bilytske, and the Russian MoD (July) and milblogger (Oct 25) capture claims are unconfirmed. I could not read the live map shading directly. (a) About 62 days remain until Dec 31, 11:59 PM ET. (b) If nothing changes, the town stays partly infiltration or contested and the market resolves NO. (c) NO path: Ukraine keeps its few remaining positions or keeps striking Russian-held buildings. ISW's conservative method, together with Ukrainian counteroffensives that ISW says have 'virtually halted' Russian advances, leaves edge areas as infiltration or unshaded at Dec 31. Precedents such as the slow conversion at Kostiantynivka support this. (d) YES path: Russia already holds Svitle and Vodyanske and is at Dobropillya's southern edge. Mashovets says Ukraine holds only 'a few positions' in Bilytske, and General Staff attack lists are shifting past it. ISW would then upgrade this small, half-bypassed town to advance or control shading within the next several weeks. The Polymarket anchor is 72% (bid 70 / ask 74) and has risen steadily: +9.5 points in 7 days and +17.5 in 30 days. That trend likely reflects traders watching the map. The Nov 30 version trades at about 45%, and a looser-worded Dec 31 market sits at 85%. I shade slightly below the anchor for two reasons: the full-municipality requirement on ISW's conservative shading, and the reported slowdown in Russian advances.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/5999",
+   "has_trace": true
+  },
+  {
    "id": 5293,
    "scanned_at": "2026-10-21T17:22:33.232685",
    "date": "2026-10-21",
@@ -26568,6 +26736,20 @@
   }
  ],
  "Iran leadership change by December 31?": [
+  {
+   "id": 6035,
+   "scanned_at": "2026-10-31T06:17:26.136439",
+   "date": "2026-10-31",
+   "agent": 13.3,
+   "market_price_t0": 14.5,
+   "edge": -0.012499999999999983,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.14, 0.13). (0) Not resolved. Credible outlets (Bloomberg Oct 27, Al Jazeera/Shafaqna Oct 31, Fox Oct 28) still describe Mojtaba Khamenei as Supreme Leader acting through written statements and reported meetings. Nothing reports his removal, death, detention or confirmed incapacity. (a) About 61 days remain until Dec 31, 2026. (b) Status quo is No: his continued invisibility has lasted 8 months without moving the consensus, and the regime, presidency, judiciary and Assembly members publicly vouch for him. (c) No scenario: talks via Qatar and Pakistan muddle along or any post-midterm US campaign stays 'brief and intense' and coercive. The regime keeps issuing statements in his name and the year ends with him nominally in office. (d) Yes scenario: post-midterm US or Israeli strikes kill him (Israel has called him 'marked for death' and has shown reach), or a credible leak or regime admission establishes he is dead or comatose. An Article 111 council would then take over, which satisfies 'prevented from acting.' The anchor is 14.5%, consistent with the sibling 'Mojtaba head of state end of 2026' market (14.35% No) and the Nov 30 strike (9%). The research surfaces no unpriced information beyond the known strike-window risk, so I shade only slightly below the market. The time decay is offset by the elevated post-midterm hazard.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6035",
+   "has_trace": true
+  },
   {
    "id": 5485,
    "scanned_at": "2026-10-24T05:39:43.881412",
@@ -30964,6 +31146,70 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.43, 0.43). (0) Not resolved. The Bank of Canada calendar shows the December 9, 2026 decision still upcoming, and the rate stands at 2.50% after the October 28 hike of 25 bp. (a) About 40 days remain. Before the decision come October CPI (Nov 16), the October and November Labour Force Surveys (Nov 6 and about Dec 4), and Q3 GDP (Nov 30). (b) The status quo is a hold, which resolves NO. The Bank's guidance is to 'proceed carefully' and decide 'one meeting at a time', and it held at 2.25% for about a year before October. (c) NO scenario: Q3 GDP confirms roughly 1.3% growth against the Bank's 2%, jobs keep falling, and core CPI stays under 2%. The Bank then waits for the January MPR, as Desjardins, ING, Citi and part of RBC's view expect, much like the hold in December 2018 after a hike in October 2018. (d) YES scenario: Brent stays above $110 amid the Hormuz disruption, October CPI shows pass-through toward 3.5%, and Macklem and Rogers keep December live. The Bank then validates pricing of 55–60%, as it did in October. The Polymarket anchor is 44.5%, and OIS and LSEG put it at 42–52%. The weak GDP print on October 30 came after the most hawkish swaps readings, so I shade slightly below the venue price but stay close to the consensus.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/5987",
+   "has_trace": true
+  }
+ ],
+ "Will Ko Chih-en win the next Kaohsiung Mayor election?": [
+  {
+   "id": 6026,
+   "scanned_at": "2026-10-31T03:58:21.034167",
+   "date": "2026-10-31",
+   "agent": 22.5,
+   "market_price_t0": 22.6,
+   "edge": -0.0005000000000000004,
+   "confidence": 0.55,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.22, 0.23). (0) Not resolved. The CEC page has no results because voting is on Nov 28, 2026, so the outcome depends on the vote count that night. (a) About 28 days remain until the election, and trading closes Nov 29. (b) The status quo is a DPP-held city with a popular outgoing mayor: Chen Chi-mai's approval is 72–84%, and the DPP won by 18 points in 2022. The Polymarket anchor sits at about 22.5% for Ko, and the separate Lai market is at about 75%, so the two venues agree. (c) NO path: the DPP mobilises late through Chen, the president and its party machine. Phone polls such as TPOC's Oct 28 poll (Lai about 45 to 35.7) and the summer surveys showing Lai up 8–20 points prove more accurate than online panels. Most undecided voters who approve of Chen break to Lai. (d) YES path: the ETtoday online-panel tie (43.2 to 43.1) is real. Ko's lead among non-partisans (38.8 to 20.6), her better favourability and her debate momentum carry undecided voters her way, and Chen's approval fails to transfer to Lai. The only evidence of a tie comes from online panels plus a poll Ko commissioned. Phone polls, the expected-winner question (Lai 51.6 to Ko 36.8), the August expert rating of Likely DPP and NBR's view all favour Lai. That leaves no specific new information to move off the market price, so I stay near it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6026",
+   "has_trace": true
+  }
+ ],
+ "Will the Bank of Canada make no change to the target for the overnight rate at the December interest rate announcement?": [
+  {
+   "id": 6020,
+   "scanned_at": "2026-10-31T02:22:52.472863",
+   "date": "2026-10-31",
+   "agent": 57.5,
+   "market_price_t0": 57,
+   "edge": 0.0050000000000000044,
+   "confidence": 0.5,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.57, 0.58). (0) Not resolved. The Bank of Canada calendar still lists Dec 9, 2026 as upcoming. The current target is 2.50%, after the Oct 28 hike of 25 bp. (a) About 5.5 weeks remain. Before the decision come the October CPI (around Nov 16), the summary of deliberations (around Nov 10), the Nov 5 budget and the Nov LFS on Dec 4. (b) The status quo is a hold. The Bank said it would \"proceed carefully\" and decide \"one meeting at a time\", and Dec 9 carries no MPR while Jan 27 does. That makes January the natural slot for a second hike. (c) NO scenario: October CPI comes in hot on energy pass-through, oil stays near $100 with the Iran conflict, and Macklem signals more tightening in November. The Bank then hikes back-to-back to 2.75%, as CIBC/Pollick, Rabobank and RSM expect. The market correctly priced the October hike off Macklem's remarks, so a hawkish speech could quickly flip pricing. (d) YES scenario: the post-decision stall in August GDP and the -0.1% September flash put Q3 near 1.3%, against the Bank's 2%. Add two months of job losses and soft core inflation (trim 1.8%, median 1.9%), and the Bank waits for the January MPR, as Desjardins, CIBC/Grantham, Capital Economics and Continuum expect. OIS readings of about 53–55% hold agree with the Polymarket 57% and the sibling hike-25 contract at 41.5%. One conflicting LSEG reading put a hike at 57%. I see no unpriced information strong enough to move off the anchor, so I stay near the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6020",
+   "has_trace": true
+  }
+ ],
+ "Will Russia capture all of Chasiv Yar by December 31?": [
+  {
+   "id": 6017,
+   "scanned_at": "2026-10-31T01:38:35.039670",
+   "date": "2026-10-31",
+   "agent": 29,
+   "market_price_t0": 35,
+   "edge": -0.06,
+   "confidence": 0.46499999999999997,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.29, 0.29) after one crux research pass. (0) No source shows the condition met; ISW's Sept 27 and Oct 13 reports describe Ukrainian advances in southwestern Chasiv Yar and only a Russian infiltration near Klynove, and Ukrainian reporting from Oct 27–29 says Ukraine still holds the western Shevchenko outskirts and a northern sector. The ISW map itself could not be read. (a) About 8.5 weeks remain until 11:59 PM ET Dec 31, and shading must persist through the next ISW update cycle. (b) Status quo is No: the town has been contested for about 31 months, Russian capture claims since July 2025 were never confirmed by ISW, and all prior Polymarket contracts on this town resolved No. (c) No scenario: winter attrition continues at meters per week, Russian drone units stay diverted to Lyman, ISW keeps reporting net Russian losses (-122 km² since Sept 1) and labels Chasiv Yar activity as infiltration, so an unshaded pocket survives to year-end. (d) Yes scenario: flank pressure at Kostiantynivka/Novodmytrivka or a drone-enforced supply cutoff forces a Ukrainian withdrawal from the small remaining pockets, and ISW reclassifies the rest in one update, as DeepState did with 3.47 km² on Aug 27. The market sits at 38.5% after falling 15.5 points in 30 days; traders seeing the map may know the unshaded remnant is small, so I stay near the market but shade below it given late-September Ukrainian gains, the October net-loss trend, and no settlement path.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6017",
+   "has_trace": true
+  }
+ ],
+ "Will WTI Crude Oil (WTI) hit (HIGH) $130 in November?": [
+  {
+   "id": 6004,
+   "scanned_at": "2026-10-30T22:21:55.830438",
+   "date": "2026-10-30",
+   "agent": 8.2,
+   "market_price_t0": 10.3,
+   "edge": -0.021000000000000005,
+   "confidence": 0.585,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.09). (0) Not resolved: the November window has not opened, and Pyth shows CLLZ6 at about $102.25 with NYMEX Dec settling near $104 on Oct 30. A November 1-minute High of $130 or more is still required. (a) About 21 sessions remain in November; Dec is active for roughly 12, then Jan, which is about $2 lower due to backwardation, from about Nov 17. (b) Status quo: WTI around $100-110 resolves No. (c) No: talks via Qatar continue or any post-midterm strike is brief and spares Gulf export infrastructure; Hormuz flows hold with US escorts, and WTI stays below its April war peak of about $117.6. (d) Yes: Trump approves the post-Nov 3 strike package, Iran or the Houthis hit Saudi or Gulf terminals, Hormuz shuts again, and with depleted buffers WTI spikes 25-29% intraday to touch $130, above anything printed even in April. Anchoring on Polymarket's 10.35% (8/12 spread), a touch model at 45-55% volatility gives about 8-10%. The Jan roll, the backwardated curve pricing spikes as temporary, and mainstream extreme scenarios ($120-130, likely Brent) implying WTI under $130 pull it slightly lower. Fat war-driven tails keep it meaningful.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6004",
    "has_trace": true
   }
  ]

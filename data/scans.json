@@ -2667,6 +2667,20 @@
  ],
  "Will the next Google Gemini Pro model debut with a Humanity’s Last Exam score of 50% or higher?": [
   {
+   "id": 6138,
+   "scanned_at": "2026-11-01T14:46:38.375146",
+   "date": "2026-11-01",
+   "agent": 12.5,
+   "market_price_t0": 15.5,
+   "edge": -0.03,
+   "confidence": 0.55,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.12). (0) Not resolved. The agi.safe.ai chart could not be read, but no source shows a new Pro-labelled Gemini on it. The newest Pro on record is gemini-3.1-pro-preview at about 44–46%. (a) About 60 days remain until the 2026-12-31 11:59 PM ET deadline. (b) If nothing changes, the market resolves No. No Gemini Pro model ID exists in the API, the Pro tier has been dormant since February, and Google's new flagships are named Argon (released, not Pro) and Carbon (gated to cyber defenders, not Pro). (c) No path: Google keeps codename branding, Carbon ships under its own name, and no Pro model is added to agi.safe.ai by year-end. Alternatively, a delayed 3.5 Pro appears and scores in the 40s, as 3.5 Flash's 40.2% suggests it might. (d) Yes path: Carbon or another Gemini 4 model ships labelled 'Pro' (an employee reportedly called Carbon the 'Gemini pro next model'), CAIS adds it promptly, and it shows at least 50%. That score is plausible given Argon's 53.2% on HLE-Diamond and 57.1% on Artificial Analysis. The market anchor is 15.5%. The sibling thresholds (40%/45%/55%) all trade around 13–14%, which implies the crowd prices almost entirely the chance that any Pro appears at all. I shade slightly below the anchor for two reasons: CAIS has a lag in adding models to the site, and a qualifying model could be a weaker 3.5 Pro.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6138",
+   "has_trace": true
+  },
+  {
    "id": 5033,
    "scanned_at": "2026-10-18T13:17:13.315005",
    "date": "2026-10-18",
@@ -3160,6 +3174,20 @@
   }
  ],
  "Blue wave in 2026?": [
+  {
+   "id": 6142,
+   "scanned_at": "2026-11-01T15:42:03.063678",
+   "date": "2026-11-01",
+   "agent": 85.5,
+   "market_price_t0": 88,
+   "edge": -0.025000000000000022,
+   "confidence": 0.64,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.85, 0.86). (0) Not resolved: Election Day is Nov 3, 2026 and no results exist yet. (a) About 2 days to Election Day; Alaska may take ~15 days to call and runoffs could run to the Jan 4-5 cutoff. (b) Status quo is 47 D Senate seats and a D House minority, which is No, but every final forecast has Democrats favored: D+9 generic ballot, House 83-94% with medians of 230-241 seats, Senate medians of 52-53 with 80% floors at 48-49. (c) No: a uniform 3+ point GOP polling miss in red-state toss-ups plus a Michigan loss leaves Democrats at 48 or fewer; an Osborn win does not count unless he commits to caucus with Democrats; or the House lands at 217 or fewer. (d) Yes: polls hold, Democrats flip NC plus one or two of OH/TX/AK/ME, hold MI, and win about 225-240 House seats. The 49-seat bar is well below control, and a House miss is highly correlated with a Senate miss, so the joint probability is about 84-86%. That is slightly under the 88% market price, discounted for late Senate tightening and the prior GOP poll understatement.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6142",
+   "has_trace": true
+  },
   {
    "id": 5588,
    "scanned_at": "2026-10-25T15:30:03.199624",
@@ -5228,6 +5256,20 @@
   }
  ],
  "Base FDV above $2B one day after launch?": [
+  {
+   "id": 6129,
+   "scanned_at": "2026-11-01T11:18:52.933786",
+   "date": "2026-11-01",
+   "agent": 34.5,
+   "market_price_t0": 43.5,
+   "edge": -0.09000000000000002,
+   "confidence": 0.55,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.34, 0.35) after one crux research pass. (0) Not resolved: every source agrees there is no Base token, no announced date, no tokenomics and no snapshot as of 2026-11-01, so no price source exists. (a) About 14 months remain; a token must launch and be publicly tradable by 2027-12-31 and exceed $2B FDV at 4 PM ET the next day. (b) Status quo is No: Base has stayed at 'exploring, no definitive plans' for 13+ months, its 2026-27 priorities are tokenized equities, payments and financing, and every earlier launch-window estimate slipped. (c) NO: Coinbase's conservative legal posture and a weak market (BTC ~$78K, ETH -15% over 30d, COIN -10% post-earnings) keep the token shelved past 2027, or less likely it launches at a small FDV. (d) YES: Coinbase announces the token at BaseCamp 2027 and lists it with a large nominal supply; Base's scale (#1 L2 by TVL, >70% of L2 profit, $12-34B analyst estimates) makes $2B likely given ARB at ~$1.6B and Linea opening ~$3.6B. Anchor: this contract trades at 43.5%, but Polymarket's launch-by-end-2027 market is ~40.5-41% and decaying from ~62% in September; this contract needs a launch, so it cannot exceed that. Launch ~0.38-0.41 times FDV>$2B given launch ~0.85-0.9, discounted for time decay with no catalyst, gives ~0.33-0.35.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6129",
+   "has_trace": true
+  },
   {
    "id": 2490,
    "scanned_at": "2026-09-02T11:15:07.018975",
@@ -8841,6 +8883,20 @@
  ],
  "Will Gavin Newsom announce a Presidential run before 2027?": [
   {
+   "id": 6149,
+   "scanned_at": "2026-11-01T17:40:09.072699",
+   "date": "2026-11-01",
+   "agent": 10.5,
+   "market_price_t0": 13,
+   "edge": -0.024999999999999994,
+   "confidence": 0.62,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.10). (0) Not resolved: coverage through Oct 29–30 and the resolution-source read show no announcement from Newsom. He still says he will decide after the Nov 3 midterms, needs family sign-off, and would not run if Harris does. (a) About 60 days remain until the Dec 31, 2026 deadline, and only about 58 days of that falls after the midterms. (b) The status quo is No. He keeps deliberating and governs through his term's end in early January 2027, while Harris remains undecided. (c) NO scenario: Democrats win the House and Newsom spends Nov–Dec on lame-duck governing and family talks. He then launches in early or mid 2027, in line with the historical post-midterm median of roughly 4–6 months and pollster Celinda Lake's view that the race starts Jan 1, 2027. (d) YES scenario: a blue-wave night, family approval, and Harris signaling no or him deciding not to wait. He would then launch in December using his ready $14M+ PAC infrastructure, possibly prompted by rivals who reportedly want to announce before 2027. The Polymarket anchor is 13% (bid 12/ask 14) and stable. The research adds mild NO-leaning detail the market may underweight: the explicit Harris condition paired with Harris's open-ended 'six months or a year' timing, his 'no such thing as a deadline' remark, and his lame-duck agenda. I shade slightly below the market to 11%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6149",
+   "has_trace": true
+  },
+  {
    "id": 5596,
    "scanned_at": "2026-10-25T17:29:04.327419",
    "date": "2026-10-25",
@@ -9288,6 +9344,20 @@
   }
  ],
  "Will Donald Trump be the #1 searched person on Google in the US this year?": [
+  {
+   "id": 6150,
+   "scanned_at": "2026-11-01T18:06:52.608594",
+   "date": "2026-11-01",
+   "agent": 5,
+   "market_price_t0": 7.3,
+   "edge": -0.023499999999999993,
+   "confidence": 0.71,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.05). (0) Not resolved. Google's 2026 Year in Search page returned a 404 as of Nov 1, 2026, and the 2025 US People list was topped by Zohran Mamdani, with Trump outside the top 10. (a) The list usually comes out in early to mid December, well before the March 31, 2027 deadline. Google's stated measurement window runs from Jan 1 to about Nov 25, so roughly 3–4 weeks of search activity remain that can still count. (b) Status quo is No. Google ranks people by year-over-year spike, not volume, and Trump's 2025 baseline as a full-year sitting president is already enormous. He has topped the US list only in presidential-election years (2016, 2024). He missed it in 2020, 2021, 2022, 2023 and 2025, and 2026 has no comparable Trump-specific shock so far. Breakout names that started from near-zero baselines fit the method far better, such as Lindsay Clancy, who leads the sibling market, and Nancy Guthrie. (c) No: no major Trump event happens before late November, and a breakout figure takes #1, as in most years. (d) Yes: a dramatic late shock, such as a serious health event or incapacity, or an extraordinary midterm or impeachment crisis, produces a sustained surge large enough to beat breakout names despite his high baseline. Even then, a short window limits how much it can lift his year-long growth. The market's 7.35% (bid 6, ask 9) already prices this tail. Given the methodology and the 2025 result, I shade slightly below it to 5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6150",
+   "has_trace": true
+  },
   {
    "id": 2263,
    "scanned_at": "2026-08-30T15:08:54.954550",
@@ -12460,6 +12530,20 @@
   }
  ],
  "China x Philippines military clash before 2027?": [
+  {
+   "id": 6141,
+   "scanned_at": "2026-11-01T15:15:05.857431",
+   "date": "2026-11-01",
+   "agent": 15.5,
+   "market_price_t0": 19.5,
+   "edge": -0.04000000000000001,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.16, 0.15). (0) Resolution check: no source reports a qualifying event since the market opened on Jul 24. The July 20 baton clash came before the window. Everything after it was blocking, water cannon, readiness patrols, a ramming of a fisheries (BFAR) vessel rather than a military ship, and aircraft harassment, all of which the rules exclude or fall below their threshold. Crisis Group rated October 'Unchanged'.\n(a) About two months remain, until Dec 31, 2026.\n(b) The status quo is continued grey-zone friction without a qualifying use of force, which resolves No.\n(c) No path: Manila keeps backing off at the threshold of force, as it did on Sep 24. Resupplies continue under Chinese 'monitoring', as on Oct 21. The ASEAN-chair diplomacy, the code-of-conduct push and the Manila Dialogue keep both sides restrained through year-end.\n(d) Yes path: China acts on the reported but unconfirmed countermeasures against BRP Sierra Madre, such as a tow, a boarding or a blocked resupply. The China Coast Guard then repeats a June-2024-style melee with knives or batons against Philippine Navy personnel, which credible reporting treats as melee-weapon force. A second, less likely path is a collision that holes a military hull.\nOn the base rate, clear melee incidents have happened about once or twice a year. That implies roughly a 20% chance of a candidate event in two months, discounted for resolver ambiguity, and pushed up modestly by the current hazard: the resupply arrangement has collapsed, there are 101 Chinese vessels on station, and the ambassador's use-of-force rhetoric has raised the temperature. The market sits at 19.5% and is trending down. I shade slightly below it because of time decay and the market's history of over-reacting.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6141",
+   "has_trace": true
+  },
   {
    "id": 5586,
    "scanned_at": "2026-10-25T15:04:29.851414",
@@ -20100,7 +20184,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-01T10:26:52.831Z",
+  "last_sync": "2026-11-01T19:39:07.538Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -25625,6 +25709,20 @@
  ],
  "Will David Lisnard advance to the second round of the next French presidential election?": [
   {
+   "id": 6132,
+   "scanned_at": "2026-11-01T11:53:30.560065",
+   "date": "2026-11-01",
+   "agent": 8.5,
+   "market_price_t0": 20.1,
+   "edge": -0.11550000000000002,
+   "confidence": 0.6,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.09) after one crux research pass. (0) Nothing is resolved yet. The first round is on 18 April 2027, and no Interior Ministry results exist.\n\n(a) About 5.5 months remain until the first round. Before then come the Cassation ruling on Le Pen (by January), possible primary or alliance talks, and the sponsorship and Conseil constitutionnel list in March 2027.\n\n(b) Status quo: Lisnard averages about 5–7% across aggregators. Le Pen is at about 34%, and Mélenchon and Philippe are at 15–17%, so he is roughly 8–10 points short of the second slot. PrésiTracker's simulation puts his runoff chance at about 2% (0–18% depending on the candidate list). If nothing changes, this resolves NO.\n\n(c) NO scenario: Philippe keeps refusing a primary, and the right stays split between Lisnard, Retailleau and others. The usual pattern of an October social-media bump stalling also plays out. Lisnard finishes 5–10% while Le Pen and Mélenchon or Philippe advance.\n\n(d) YES scenario: a primary or deal makes Lisnard the single right/centre-right candidate (Cluster17 shows him at about 17% in that case). Philippe also collapses, possibly on the Le Havre inquiry, and Mélenchon or the left fragments. Lisnard edges past about 18% for second place.\n\nThe Polymarket anchor is 20%, with strong upward momentum. I discount it heavily. The win market prices him at about 17–20%, nearly equal to this qualify-for-runoff market, which is incoherent. Commentators also flag hype and new-wallet buying, and even as sole candidate he trails Philippe in polls. No candidate at about 6% six months out has reached a Fifth Republic runoff. I leave some room for genuine momentum and right-wing consolidation, landing at about 8%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6132",
+   "has_trace": true
+  },
+  {
    "id": 5578,
    "scanned_at": "2026-10-25T11:46:55.862195",
    "date": "2026-10-25",
@@ -27828,6 +27926,20 @@
   }
  ],
  "Pedro Sánchez out as PM of Spain by December 31, 2026?": [
+  {
+   "id": 6155,
+   "scanned_at": "2026-11-01T19:29:35.628617",
+   "date": "2026-11-01",
+   "agent": 17,
+   "market_price_t0": 18,
+   "edge": -0.010000000000000009,
+   "confidence": 0.575,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.19, 0.15). (0) Not met: La Moncloa still lists Sánchez as PM (agenda entry 2 Nov 2026); no resignation or successor announced. Election is 29 Nov and the new Cortes convene 23 Dec. (a) About 60 days remain to 31 Dec. (b) Status quo is No: under Art. 101 he stays 'en funciones' until a successor takes office, and the rules mirror suggests caretaker status does not count. (c) No: PP+Vox win, but coalition talks and the holidays push Feijóo's investiture into January; Sánchez stays caretaker without formally resigning, as after 2015, 2024 and 2025. The sibling strikes (18% for 31 Dec vs ~55% for 15 Jan) fit this. (d) Yes: the 2011 precedent (Cortes 13 Dec, Rajoy invested 20 Dec) shows a 7-day investiture is possible, so a clear result could produce one around 29–30 Dec. Alternatively, Sánchez announces his resignation after a heavy defeat (PSOE below ~105 seats). With ~70% odds of a centre-right majority, I put fast investiture at ~15–20% and an explicit resignation at ~10–12% conditional on that, giving ~19–22%, slightly above the 18% anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6155",
+   "has_trace": true
+  },
   {
    "id": 5575,
    "scanned_at": "2026-10-25T11:01:19.760447",
@@ -30629,6 +30741,20 @@
  ],
  "Will the lowest St. Louis river level be -1.00 to 0.99 ft by November 30?": [
   {
+   "id": 6145,
+   "scanned_at": "2026-11-01T16:42:54.279235",
+   "date": "2026-11-01",
+   "agent": 30,
+   "market_price_t0": 30.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.45,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.30, 0.30). (0) Not resolved. USGS daily values show the window minimum is 2.77 ft, on Nov 1. That is 1.78 ft above this bracket's 0.99 ft top. No reading has reached -1.00 to 0.99 yet.\n(a) There are about 29 days left, through Nov 30. Resolution follows the USGS 08:00 daily values, and provisional data counts.\n(b) Status quo: the NWS forecast holds near 2.6 ft, bumps to 3.1 ft around Nov 6–7, then falls slowly to 1.4 ft by Nov 15. Extending that roughly 0.1 ft/day decline reaches about 0.99 ft near Nov 19, so the bracket is reachable if nothing interrupts the recession. If it isn't reached, the 1.00–2.99 bracket wins, which the market prices at about 49%.\n(c) NO: the 1–3 inch Nov 2–4 soaking over Minnesota, Iowa and Sioux City is not in the NWS path. It would prop up St. Louis flows through mid-to-late November and keep the minimum above 1 ft. A less likely NO route is an unusually steep late-November drop below -1.00 ft.\n(d) YES: the scheduled Gavins Point cut to 9,000 cfs starting Nov 6, plus the Nov 15 end of navigation support, steepens the fall in the second half of November. The NWS 4-week Missouri table supports this, falling sharply through Nov 25. Mid-month is drier, consistent with the CPC 8–14 day dry tilt, and the stage reaches 0–1 ft.\nThe rain and the release cut roughly offset each other. I see no clear unpriced edge, so I stay near the 30.5% market price.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6145",
+   "has_trace": true
+  },
+  {
    "id": 5591,
    "scanned_at": "2026-10-25T16:11:10.490953",
    "date": "2026-10-25",
@@ -30708,6 +30834,20 @@
   }
  ],
  "Viktor Orbán arrested by...?": [
+  {
+   "id": 6152,
+   "scanned_at": "2026-11-01T19:03:16.800137",
+   "date": "2026-11-01",
+   "agent": 8.5,
+   "market_price_t0": 11.9,
+   "edge": -0.0345,
+   "confidence": 0.61,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.09). (0) The condition is not met: reporting through 1 Nov 2026 shows Orbán has not been arrested or detained. He was free and visiting Vučić in Belgrade on 31 Oct, and no source shows him named as a suspect. (a) About 60 days remain until 11:59 PM ET on 31 Dec 2026. (b) If nothing changes, the market resolves No. Orbán's exposure is still pre-suspect: the convoy case has five suspects that exclude him, a victim lawyer's motion to question him has gone unanswered for weeks, and the speech complaint is only in preliminary review. (c) NO scenario: prosecutors, without a confirmed Prosecutor General and with the accusing prosecutor Fürcht suspended, move slowly. Even if Orbán gets a suspect notice, they follow their Hajdu practice of questioning and then releasing, which does not count. (d) YES scenario: prosecutors issue a convoy-case suspect notice, bring him in, and seek custody or house arrest citing flight risk from the UN or US-relocation reports. That would mirror how quickly Hankó, Seszták and Matolcsy were detained, and his lack of parliamentary immunity removes one hurdle. Anchoring on Polymarket's 11.95% (bid 10 / ask 14), I shade down slightly. A YES needs a multi-step chain with no first step yet reported, inside a short window, and the demonstrated practice in this exact case is suspect status without detention. The detentions of other Orbán-era figures and the accelerating 'Operation Purge' keep real tail risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6152",
+   "has_trace": true
+  },
   {
    "id": 5601,
    "scanned_at": "2026-10-25T18:57:08.423951",
@@ -31600,6 +31740,22 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.62, 0.63). (0) The condition is not met yet. Google officially announced 'Gemini 4 Carbon' on Oct 28, which settles the identity question. Access is limited to a subset of cyber defenders and Fairwind partners, and that private access does not qualify. Third-party checks on Oct 28–30 found no Carbon model ID in the Gemini API or on the pricing page. (a) The deadline is Nov 15 ET, about 15 days away and 18 days after the announcement. (b) If nothing changes, the market resolves No: Google's 'coming soon' and 'as soon as possible' wording carries no date. (c) No scenario: the Fairwind feedback round, guardrail work (Google notes the cyber benchmarks were run without guardrails) and US government pre-release testing push general availability to late November. The Nov 30 market at 86% shows meaningful mass in that window. (d) Yes scenario: Google repeats Argon's path, which went from cyber-defenders-only on Sept 30 to general availability on Oct 13, 13 days. Repeating it gives roughly Nov 10, with Carbon in the API, AI Studio and the Gemini app for Pro and Ultra. A stated launch price, LMArena presence and the commercial pressure of a #1 benchmark ranking all support this. I anchor on the 66.5% market price, which is consistent with its own date ladder (Nov 11 at 51.5%, Nov 13 at 64%). I shade slightly lower because Carbon's gating looks tighter than Argon's: government testing, an explicit guardrail iteration step, and a Fairwind expansion step described as coming before wider Antigravity availability. All of this rests on a single precedent.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/6075",
+   "has_trace": true
+  }
+ ],
+ "Will Trump speak to Mark Carney by November 30?": [
+  {
+   "id": 6146,
+   "scanned_at": "2026-11-01T17:12:40.284786",
+   "date": "2026-11-01",
+   "agent": 93,
+   "market_price_t0": 91.2,
+   "edge": 0.018000000000000016,
+   "confidence": 0.76,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.93, 0.93). (0) The condition may already be met. On Nov 1, 2026, Carney posted on X about a \"good conversation\" with Trump on trade, and CP24/CTV, AP and BNN all reported it. The market opened Oct 31, so the talk almost certainly falls inside the window. It is not conclusive yet: no source specifies that the talk was verbal rather than texts, no exact date or time is given, and there is no White House or PMO readout. AP and other outlets frame it as a call, and nothing has contradicted it so far, which matters because the rules give the other side three days to dispute. (a) About 29 days remain until Nov 30, 11:59 PM ET. (b) Status quo: the Nov 1 talk likely qualifies. Even if it doesn't, Trump and Carney have spoken roughly every one to two weeks (Oct 11, about Oct 18, Oct 21, Nov 1), with active trade talks and Trump citing a 3–4 week resolution timeline. (c) NO scenario: the resolver rejects the Nov 1 talk as text-based or undated. After the midterms talks then stall, with no summit before the Dec 14–15 G20. Any later contact goes undisclosed or is disclosed too vaguely to date. (d) YES scenario: the Nov 1 conversation is treated as a phone call and resolves the market, or a deal-closing or routine call happens in November. The market anchor is about 91% (last close 92%, spread 85–97). I land slightly above it, at 93%, because two largely independent YES paths combine.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6146",
    "has_trace": true
   }
  ]

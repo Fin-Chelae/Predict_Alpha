@@ -491,6 +491,20 @@
  ],
  "Will Javier Milei win the 2027 Argentina presidential election?": [
   {
+   "id": 6111,
+   "scanned_at": "2026-11-01T04:54:29.479723",
+   "date": "2026-11-01",
+   "agent": 42,
+   "market_price_t0": 43.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.45,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.42, 0.42). (0) Not resolved: the CNE and DINE sites show no 2027 results, so Milei must run, reach the top two on 24 Oct 2027, and almost certainly win a November runoff given 27–35% first-round polling. (a) About 12 months remain. (b) Status quo is a coin flip: the Clarín 11-poll average has Milei 42.2 vs Kicillof 38.9 and QMonitor 42–41, but Haime and Delfos show Kicillof ahead and Synopsis flips to Kicillof 52–47.8 once undecideds are projected out. (c) NO: the PASO survive and unify Peronism, approval stays near 30–37% with about 59% disapproval amid rising poverty and unemployment, undecideds break against the incumbent, and the regional anti-incumbent trend holds. (d) YES: a divided Peronist field produces a weak nominee, PRO stays aligned, disinflation and growth arrive in 2027, and anti-Peronist rejection voting carries Milei through a narrow runoff. Polymarket is at 43.5% after a 12.5-point monthly drop; I see no specific unpriced information, so I shade only slightly lower for weak approval and the undecided-allocation results.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6111",
+   "has_trace": true
+  },
+  {
    "id": 5557,
    "scanned_at": "2026-10-25T04:42:06.832604",
    "date": "2026-10-25",
@@ -1890,6 +1904,20 @@
   }
  ],
  "Will Venezuela recognize Israel by December 31?": [
+  {
+   "id": 6080,
+   "scanned_at": "2026-10-31T20:40:42.205473",
+   "date": "2026-10-31",
+   "agent": 11,
+   "market_price_t0": 14,
+   "edge": -0.030000000000000013,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.11). (0) The condition is not met. The 11 Aug 2026 Israel–Venezuela deal created only a consular coordination mechanism. Al Jazeera, JPost, UPI and El País all say it falls short of full diplomatic ties or embassies. The market's spike to about 56–73% and then its retreat suggests traders and the resolver did not count it. Wikipedia's 14 Oct mission list shows no Venezuelan change.\n(a) About 61 days remain until 31 Dec 2026.\n(b) Status quo means No. Recognition was never formally withdrawn, so there is no obvious discrete 'recognition' act to perform. Nothing has been reported for about 60–80 days since the Danon–Godoy UN meeting.\n(c) NO: Rodríguez keeps ties at a low-cost consular level to placate Washington while managing Chavista backlash. Meanwhile Israel's post-election coalition deadlock delays any ambassador or embassy steps past year-end.\n(d) YES: under US pressure, and competing with the recently returned Machado for the pro-Israel lane, Caracas announces full diplomatic relations or an ambassador exchange (Rabbi Cohen has been floated). A lenient resolver could read 'consensus of credible reporting' as recognition.\nThe market's 14% (up 6 points in a week) is the anchor. That weekly rise may reflect news my research did not surface. Even so, the absence of any scheduled step, the short window and the definitional ambiguity lead me to shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6080",
+   "has_trace": true
+  },
   {
    "id": 5530,
    "scanned_at": "2026-10-24T20:17:11.362589",
@@ -9381,6 +9409,20 @@
  ],
  "AI bubble burst in 2026?": [
   {
+   "id": 6081,
+   "scanned_at": "2026-10-31T21:12:40.960503",
+   "date": "2026-10-31",
+   "agent": 9.5,
+   "market_price_t0": 9.6,
+   "edge": -0.0005000000000000004,
+   "confidence": 0.62,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.09). (0) None of the triggers that would decide this market has fired. The Silicon Data H100 index is at $2.92/hr and rising, far from the $1.00 trigger. NVDA closed at $204.64, about 15% below its Oct 6 record close of $239.24. SOXX is about 28% below its high. Neither OpenAI nor Anthropic has gone bankrupt, and OpenAI has not been acquired. One trigger is probably already banked: SMCI is about 72% below its 2024 all-time-high close per Macrotrends snippets, and the supplier trigger is defined against all-time highs. (a) About 2 months remain, to Dec 31, 2026. (b) Status quo is NO: at most 1 of the 3 required triggers is met. (c) NO path: the October chip rout stabilizes around Nvidia's Nov 17 earnings and the Anthropic IPO, and SOXX stays above roughly $390 on a split-adjusted basis. AVGO stays above about $245 and NVDA above about $120. (d) YES path: rate-hike fears, OpenAI's reduced funding round and neocloud credit stress push chips down another 17–25%. SOXX would then hit −40% and AVGO −50% together, which with SMCI makes 3. Those two triggers are highly correlated, but AVGO's level would sit below its 52-week low, and the bankruptcy, acquisition and H100 triggers are near zero. I anchor on the Polymarket price of 9.55%. The accelerating selloff and the likely SMCI credit roughly offset the short window and the large further declines still needed. Ambiguity over how the \"within 90 days\" wording is read adds a little tail risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6081",
+   "has_trace": true
+  },
+  {
    "id": 5532,
    "scanned_at": "2026-10-24T20:54:15.329662",
    "date": "2026-10-24",
@@ -11967,6 +12009,20 @@
  ],
  "Ink FDV above $500M one day after launch?": [
   {
+   "id": 6085,
+   "scanned_at": "2026-10-31T22:17:49.592134",
+   "date": "2026-10-31",
+   "agent": 10.5,
+   "market_price_t0": 15,
+   "edge": -0.044999999999999984,
+   "confidence": 0.575,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.11). (0) Not resolved: the INK token has not launched per inkonchain.com, DropsTab (Sept) and airdrops.io (Oct 7), and no pre-market or perp price exists. (a) About 61 days remain to the 2026-12-31 deadline, including holidays, with no TGE or snapshot announced. (b) Status quo is No on the launch condition alone; guidance has slipped from Q2 to Jul–Sep to Q3–Q4 2026, and Kraken only says details will come 'as milestones are reached.' (c) NO: the TGE slips to 2027, which the sibling launch-by-Dec-31 market prices at about 78–85% (15.5–22% Yes). Or INK launches but, as a utility-only incentives token on a chain with about $200M TVL, opens below $0.50, given that Optimism's FDV is already under $500M. (d) YES: a November/December TGE, consistent with the Nado ink_airdrop endpoint and Merkle claim contract, with a low-float Kraken listing reaching the $600M–$1B FDV farmers expect (EdgeX $700M+ comp). The market's 15% is roughly equal to the launch probability, implying near-certain FDV above $500M conditional on launch. I estimate that conditional at about 50–60%, giving roughly 0.18 × 0.55 ≈ 10%, slightly below the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6085",
+   "has_trace": true
+  },
+  {
    "id": 5536,
    "scanned_at": "2026-10-24T22:12:14.095556",
    "date": "2026-10-24",
@@ -13827,6 +13883,20 @@
  ],
  "Cuban regime falls in 2026?": [
   {
+   "id": 6084,
+   "scanned_at": "2026-10-31T21:45:26.691175",
+   "date": "2026-10-31",
+   "agent": 5.8,
+   "market_price_t0": 9.5,
+   "edge": -0.0375,
+   "confidence": 0.72,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) The condition is not met. Reports from Oct 28–30, 2026 show Díaz-Canel and the PCC still governing: he hailed the UN embargo vote as a victory, toured a Havana hospital, and the foreign minister vowed to resist \"for as long as it takes.\" No source shows an overthrow, a transitional authority, or the party losing administration of most of the population. (a) About 2 months remain before the Dec 31, 2026 11:59 PM ET deadline. (b) If nothing changes, the answer is No. Nothing on the calendar forces a transition: there is no election or referendum, and the only scheduled event is Armed Forces Day on Dec 2. (c) NO path: the US remains tied up with Iran, as Trump has made finishing Iran the precondition for action. Trump's own horizon is up to 2.5 years. The security forces (FAR, GAESA, MININT) stay cohesive and talks stay stalled. Even a Díaz-Canel exit or a Maduro-style capture of Raúl Castro would leave the apparatus intact and resolve No. (d) YES path: a US decapitation or intervention around December, consistent with the Army Reserve memo's 90–120 day window (mostly after the deadline). It would also need a rapid handover to a non-PCC authority, or an elite or military break amid grid collapse and 766+ protests. I anchor on Polymarket's 9.5% but shade it down for three reasons. First, the sibling market \"Díaz-Canel out\" trades at 8.5%, yet a regime fall should be strictly less likely than a leader exit, so this market looks rich. Second, Trump's named trigger (Iran winding down) has not occurred. Third, long-shot bias is typical on deadline markets like this.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6084",
+   "has_trace": true
+  },
+  {
    "id": 5316,
    "scanned_at": "2026-10-22T00:10:51.372786",
    "date": "2026-10-22",
@@ -14338,6 +14408,20 @@
   }
  ],
  "Will Russia capture all of Kostyantynivka by December 31, 2026?": [
+  {
+   "id": 6078,
+   "scanned_at": "2026-10-31T20:10:21.049938",
+   "date": "2026-10-31",
+   "agent": 7.5,
+   "market_price_t0": 10.5,
+   "edge": -0.029999999999999985,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.07). (0) Not resolved. ISW's text reports through Oct 16–30, 2026 explicitly reject the Russian capture claim. ISW assesses only infiltration, not consolidated control, in southern and central Kostyantynivka, sees no Russian presence in the north, and reports Ukrainian advances on the northern outskirts and to the west (Oct 29–30). Infiltration shading does not qualify under the rules. (a) About 61 days remain until 11:59 PM ET on Dec 31, and a qualifying shading must also persist through one more ISW update cycle. (b) Status quo is No. ISW's own figures show a net Russian loss of territory since September, and the Oct 30 report lists no Russian advance at Kostyantynivka. (c) No: the grinding infiltration continues and Ukraine holds the north and west through December, so ISW never shades the whole municipality. (d) Yes: a Pokrovsk-style collapse or ordered Ukrainian withdrawal via the Klynove/Druzhkivka flank prompts ISW to reclassify the whole city at once. A negotiated handover is a far less likely route, since Moscow rejects a freeze and the November talks are uncertain. The market anchor is 10.5%, down 19 points in 30 days. The sibling 'Royal Café Alex' Dec 31 market at 18.5% asks for a single building, a weaker condition, so whole-city capture should be priced below it. ISW's strict standard and the recent Ukrainian counterattacks lead me slightly under the market, at about 8%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6078",
+   "has_trace": true
+  },
   {
    "id": 5499,
    "scanned_at": "2026-10-24T10:41:11.667287",
@@ -20016,7 +20100,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-10-31T19:17:00.348Z",
+  "last_sync": "2026-11-01T10:26:52.831Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -23647,6 +23731,20 @@
  ],
  "Will Puma Shen win the next Taipei Mayor election?": [
   {
+   "id": 6119,
+   "scanned_at": "2026-11-01T07:06:51.995514",
+   "date": "2026-11-01",
+   "agent": 29.5,
+   "market_price_t0": 29.9,
+   "edge": -0.004500000000000004,
+   "confidence": 0.55,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.29, 0.30). (0) Nothing is resolved yet. Voting is on Nov 28, 2026, the CEC has no results, and the race is still open. (a) About 4 weeks remain until the election, and the result should be known that night, well before the June 2027 fallback. (b) If nothing changes, the incumbent Chiang wins. He leads the two less DPP-friendly polls: TVBS after the debate has him at 46–42, and ETtoday at 48.6–41.1. He leads every poll's 'who will win' question. Taipei has elected a DPP mayor only once, in 1994, when the pan-blue vote was split. (c) NO: the KMT base returns from its current 86% consolidation, TPP voters stay with Chiang by about 80–14, older voters turn out at their higher rates, and undecideds break blue. That would repeat 2022, when DPP-leaning polls overstated the DPP and Chiang won comfortably. (d) YES: Shen's momentum continues, having already cut a 28-point May deficit to about 4 points, and neutral voters who favored him in the debate break his way. Youth turnout would also have to push past about 72%, in line with the UDN Shen +4 poll and the Trust poll's turnout-adjusted band of Shen +6 to −0.7. The Polymarket price of about 30% and Kalshi's about 31% form a consistent anchor. The research adds nothing clearly unpriced, and the market has already absorbed the tighter TVBS number, so I stay close to 29%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6119",
+   "has_trace": true
+  },
+  {
    "id": 5560,
    "scanned_at": "2026-10-25T05:23:27.497994",
    "date": "2026-10-25",
@@ -26441,6 +26539,20 @@
  ],
  "US strike on Colombia by December 31?": [
   {
+   "id": 6089,
+   "scanned_at": "2026-10-31T23:48:36.417330",
+   "date": "2026-10-31",
+   "agent": 15,
+   "market_price_t0": 19.5,
+   "edge": -0.04500000000000001,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.15, 0.15). (0) No source shows the condition met. All research dated Oct 30–31 confirms that no US-launched air, drone or missile strike has hit Colombian soil. US kinetic action near Colombia has been boat strikes at sea, which the rules exclude.\n(a) About 61 days remain, to Dec 31, 2026 ET.\n(b) If nothing changes, this resolves No.\n(c) No scenario: the loaned MQ-9s stay under Colombian control in an ISR role. US support remains intelligence and training through the Tolemaida exercise, which ends Nov 11, and the Caine and Vance visits. Colombia's air force keeps doing the bombing, as in its six strikes since Aug 7. Legal challenges in the Senate and Consejo de Estado, plus the government's emphasis on Colombian-led operations, deter a publicly US-claimed strike.\n(d) Yes scenario: after the exercise and the high-level visits, Hegseth announces a joint US-Colombian strike on an ELN, dissident or Clan del Golfo camp. The model would be the Ecuador strike in March, which the US publicly claimed. It could use an AC-130J or a US-operated Reaper, and the US claim alone would qualify.\nThe market sits at 19.5% after a 7.5-point drop this week. The intent signals are real: the Aug 12 joint-operations agreement, Hegseth saying joint strikes were discussed, and the SOUTHCOM posture statement. Against them, there has been no strike in 11 weeks since the agreement, the Reapers are framed as ISR, and Colombia is executing its own strikes. I lean slightly below market, at about 15%. The Hegseth/Trump habit of publicly claiming partnered strikes keeps meaningful tail risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6089",
+   "has_trace": true
+  },
+  {
    "id": 5476,
    "scanned_at": "2026-10-24T03:28:48.860520",
    "date": "2026-10-24",
@@ -27553,6 +27665,20 @@
  ],
  "Will the peak RONI for the 2026–27 El Niño be at least 2.25 but below 2.5?": [
   {
+   "id": 6104,
+   "scanned_at": "2026-11-01T03:31:25.012362",
+   "date": "2026-11-01",
+   "agent": 18,
+   "market_price_t0": 22,
+   "edge": -0.04000000000000001,
+   "confidence": 0.565,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.17, 0.19). (0) Not resolved: the CPC RONI table runs only through JAS 2026 at 1.7 (1.69 unrounded), and none of ASO, SON, OND, NDJ or DJF has a value yet; ASO is due about 5 Nov. (a) The OND release around 5 Jan 2027 likely decides it; DJF publishes about early March and trading closes 1 Apr 2027. (b) Status quo is a still-strengthening event: weekly Nino-3.4 hit +3.4C, weekly BoM relative Nino-3.4 was about +2.88 in late October, and CPC gives OND RONI an 83% chance of reaching 2.5 (median 2.74, 15th percentile 2.43). Since the peak is the maximum across seasons, P(peak below 2.5) is at most about 17-20%, and CPC puts only about 5% below 2.25, leaving roughly 12-17% for this band. (c) NO: relative warming continues and OND or NDJ prints 2.5 or higher, the dominant path given upward-drifting CPC odds; a stall below 2.25 is much less likely. (d) YES: tropical-mean warming damps RONI so the three-month averages, with SON including September at about 2.1, peak at a published 2.3 or 2.4. The market's 22% is a bit rich against CPC's lower tail, though one-decimal rounding adds small ambiguity; I shade to 17%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6104",
+   "has_trace": true
+  },
+  {
    "id": 5552,
    "scanned_at": "2026-10-25T03:24:16.011031",
    "date": "2026-10-25",
@@ -27644,6 +27770,20 @@
   }
  ],
  "Will the 10-year Treasury yield hit 5.5% before 2027?": [
+  {
+   "id": 6092,
+   "scanned_at": "2026-11-01T00:34:09.680029",
+   "date": "2026-11-01",
+   "agent": 11,
+   "market_price_t0": 9.8,
+   "edge": 0.012499999999999997,
+   "confidence": 0.62,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.11). (0) Not met: Treasury par CSV shows the 10 Yr peak close at 5.31% (10/05/2026) and the latest print at 4.94% (10/30). The truncated Feb–Jul rows are covered by FRED DGS10 showing nothing above 4.75% before September, and intraday highs near 5.35% don't count. (a) About 41 Treasury publication days remain through 12/31/2026. (b) Status quo is No: the yield is 56bp below the strike with a pattern of lower highs. A MOVE-implied ~40bp one-sigma over 41 days gives a barrier-hit chance of roughly 14-16%, but mean reversion, the risk-off bid and the closes-only rule cut that. Sibling strikes (5.4% at 22%, 5.7% at about 5%) support about 10%. (c) No: soft payrolls or continuing AI/credit stress price out the December hike and keep the 10-year in a 4.8-5.2% range. (d) Yes: hot CPI and strong jobs push toward a 50bp December hike, plus a Hormuz oil spike or a supply-heavy refunding, produce a September-style +50bp run to a 5.5% close. Repeated forecast misses this year argue for a fat tail. Anchoring near the 9.85% market, slightly above it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6092",
+   "has_trace": true
+  },
   {
    "id": 5349,
    "scanned_at": "2026-10-22T09:50:23.595110",
@@ -29497,6 +29637,20 @@
  ],
  "Will the OpenAI spy be accused of working for Saudi Arabia by December 31?": [
   {
+   "id": 6122,
+   "scanned_at": "2026-11-01T07:52:09.899661",
+   "date": "2026-11-01",
+   "agent": 17,
+   "market_price_t0": 24.5,
+   "edge": -0.07499999999999998,
+   "confidence": 0.575,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.17, 0.17). (0) The condition has not been met. The DOJ press release (updated Oct 19), the complaint, the detention memo and the reported Oct 27 one-count interception indictment show Saudi contact and support, including a royal on WhatsApp, a consulate bail offer and a military official paying for the family's travel. None of them definitively alleges that Alfozan acted on behalf of or under the direction of the Saudi state. The rules expressly exclude contact and association. (a) About two months remain until Dec 31, 2026. (b) If nothing changes, the market resolves No. The only scheduled event is a Nov 6 hearing, which is likely procedural now that an indictment has been returned. (c) No: the FBI keeps investigating and prosecutors wait for hard proof, as in the Linwei Ding case, where the §1831 counts came about 11 months after the original indictment. OpenAI stays silent given its Gulf ties, and nothing qualifying is filed by year-end. (d) Yes: the investigation turns up device data or WhatsApp content showing tasking, and DOJ returns a superseding indictment under §951 or §1831 naming Saudi Arabia, or a Saudi state-linked entity, as the principal. Alternatively, OpenAI issues a statement calling it state-sponsored. I start from the 24.5% market price and shade down for three reasons. Prosecutors indicted on Oct 27 without a foreign count, even though the FBI was reportedly weighing espionage charges days earlier. The WSJ's single source said the theory might hold \"even if he wasn't recruited\" and might yield no further charges. A §1831 \"benefit of\" allegation may not even meet the market's \"on behalf of\" standard. The strong Saudi-nexus facts and the explicit \"additional serious charges\" signal keep a meaningful tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6122",
+   "has_trace": true
+  },
+  {
    "id": 5519,
    "scanned_at": "2026-10-24T17:21:39.396086",
    "date": "2026-10-24",
@@ -30056,6 +30210,20 @@
   }
  ],
  "France accuses foreign country of provoking unrest by November 30?": [
+  {
+   "id": 6107,
+   "scanned_at": "2026-11-01T04:14:12.399946",
+   "date": "2026-11-01",
+   "agent": 6,
+   "market_price_t0": 7,
+   "edge": -0.010000000000000009,
+   "confidence": 0.5,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Polymarket direct is the price anchor, and resolution_source points at official French government statements. polymarket_related and kalshi_related give cross-market signals on the French unrest. GDELT is there to catch foreign-language headlines about French officials (Élysée, Interior Ministry) accusing Russia or another state of ingérence. Wikipedia may have a page on the October 2026 unrest for background.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6107",
+   "has_trace": true
+  },
   {
    "id": 5342,
    "scanned_at": "2026-10-22T07:55:37.724296",
@@ -31336,6 +31504,102 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.07, 0.09). (0) Not resolved: the November window has not opened, and Pyth shows CLLZ6 at about $102.25 with NYMEX Dec settling near $104 on Oct 30. A November 1-minute High of $130 or more is still required. (a) About 21 sessions remain in November; Dec is active for roughly 12, then Jan, which is about $2 lower due to backwardation, from about Nov 17. (b) Status quo: WTI around $100-110 resolves No. (c) No: talks via Qatar continue or any post-midterm strike is brief and spares Gulf export infrastructure; Hormuz flows hold with US escorts, and WTI stays below its April war peak of about $117.6. (d) Yes: Trump approves the post-Nov 3 strike package, Iran or the Houthis hit Saudi or Gulf terminals, Hormuz shuts again, and with depleted buffers WTI spikes 25-29% intraday to touch $130, above anything printed even in April. Anchoring on Polymarket's 10.35% (8/12 spread), a touch model at 45-55% volatility gives about 8-10%. The Jan roll, the backwardated curve pricing spikes as temporary, and mainstream extreme scenarios ($120-130, likely Brent) implying WTI under $130 pull it slightly lower. Fat war-driven tails keep it meaningful.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/6004",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic have the #1 AI model at the end of December 2026?": [
+  {
+   "id": 6115,
+   "scanned_at": "2026-11-01T06:26:18.767635",
+   "date": "2026-11-01",
+   "agent": 35.5,
+   "market_price_t0": 40.5,
+   "edge": -0.050000000000000044,
+   "confidence": 0.49,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.36, 0.35). (0) Not resolved. Secondary reports dated Oct 28–31, including Arena's own X post, have Google's Gemini 4 Carbon (High) at #1 with 1528 and Argon at #2 with 1520 in the default style-on view. Anthropic's best, Opus 5.5 (High), sits roughly 8–20 points behind. The live arena.ai table could not be loaded, so the style-on ranks are inferred from these reports. (a) There are about two months left before the Dec 31, 12:00 PM ET check. (b) If nothing changes, Google resolves #1, and Argon would still lead even if Carbon were delisted under Arena's public-access rule. So the status quo is NO. (c) NO path: Anthropic ships no new flagship before late December, or ships one that debuts below ~1521–1529. Google could also widen its lead with a Carbon general release or another Gemini 4 variant. (d) YES path: Anthropic keeps its ~6–10 week Opus/Fable cadence and launches a new flagship in November or December. That model could be the reportedly in-testing model that leakers have previously called correctly. It would then need to debut above Google's preliminary scores, as Opus 5.5 briefly did at #1 in September. Anthropic's deep bench and the history of the crown rotating every 2–4 months make this plausible but not likely. The anchor is this thin market at 41% with a 37/45 spread. The far higher-volume sibling 'best AI model' market, which uses the same arena source, prices Anthropic at about 36.5% and Google at 56%. I lean toward the more liquid sibling and land at 0.36.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6115",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic IPO on November 20, 2026?": [
+  {
+   "id": 6113,
+   "scanned_at": "2026-11-01T05:42:20.702196",
+   "date": "2026-11-01",
+   "agent": 17,
+   "market_price_t0": 19,
+   "edge": -0.01999999999999999,
+   "confidence": 0.5,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.17, 0.17). (0) Not resolved. As of Nov 1, Nasdaq's IPO calendar shows no Anthropic listing. The public S-1 (Oct 26) still has a blank price range, and no S-1/A, roadshow launch or trading date has been announced. (a) About 19 days remain to the Nov 20 strike, and it is a single-day contract. (b) If nothing changes, there is no IPO on Nov 20, so No. (c) NO paths: the deal slips a day or more, for example pricing Nov 20 and trading Nov 23–25 in Thanksgiving week as Fortune reported. A risk-off tape (Nasdaq fell 2.9% on Oct 30, 10-year yield near 5%) could also push it to December. Or the debut comes earlier, on Nov 18–19. (d) YES path: the midterms pass quietly, an S-1/A with a price range is filed around Nov 9–10, and a roughly 7–8 day roadshow after Veterans Day ends with pricing Thursday Nov 19 and first trade Friday Nov 20. This matches the Fox Business report of 'Nov 19 or 20' and the WSJ/Reuters week-of-Nov-16 target. The market anchor is 19%, consistent with the sibling ladder (by Nov 19 about 40–44%, by Nov 20 about 57–61%), which implies roughly 15–20 points on this day. FutureSearch's median of Nov 24, the deal's history of slipping, and the weak tape argue for a slight discount, so I price it at 17%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6113",
+   "has_trace": true
+  }
+ ],
+ "Will Trump meet with Mohammed bin Salman by November 30, 2026?": [
+  {
+   "id": 6101,
+   "scanned_at": "2026-11-01T02:47:03.243876",
+   "date": "2026-11-01",
+   "agent": 9,
+   "market_price_t0": 13.5,
+   "edge": -0.04500000000000001,
+   "confidence": 0.6,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) No source shows a 2026 in-person Trump–MBS meeting. The last one was the November 18, 2025 White House visit, and the resolution-source check found no announced meeting before November 30. (a) About 29 days remain, to November 30, 2026 at 11:59 PM ET. (b) If nothing changes, the answer is No. Trump's calendar runs through the November 3 midterms, then Manila on Nov 15–17 and Shenzhen APEC on Nov 18–19. The one shared venue, the Miami G20 on Dec 14–15, falls after the deadline, and MBS's attendance there is unconfirmed. (c) NO path: MBS stays home because of the active Houthi war and his reported aversion to long-haul flights. Contact stays on the phone, as it has all of 2026, and the next encounter is the G20 or later. (d) YES path: an Iran-war endgame or a normalization-and-nuclear package prompts a short-notice MBS trip to Washington, or Trump adds a Gulf stop around his Asia trip. Trump has used Riyadh for ad hoc summits before. Prior meetings were pre-reported about four weeks ahead, and nothing comparable exists now. That points below the base rate of roughly 5–10% per month. The Polymarket price is 13.5% and drifting down, on thin volume of about $16k. I shade below it to about 9% but keep some weight on Trump's capacity for surprise diplomacy.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6101",
+   "has_trace": true
+  }
+ ],
+ "Tusk out by December 31?": [
+  {
+   "id": 6098,
+   "scanned_at": "2026-11-01T02:03:19.772820",
+   "date": "2026-11-01",
+   "agent": 7.8,
+   "market_price_t0": 7,
+   "edge": 0.007499999999999993,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.08). (0) The resolving condition has not been met. The official gov.pl/web/premier page, updated to 31 Oct 2026, still lists Tusk as Prezes Rady Ministrów. His 31 Oct address was defiant and announced no resignation.\n(a) About two months remain, to 31 Dec 2026, 11:59 PM ET. That is enough time to file a constructive no-confidence motion (46 signatures, then at least a 7-day wait) and vote on it.\n(b) If nothing changes, Tusk stays PM and the market resolves No. His coalition holds about 239 of 460 seats against a 231 threshold, and no Polish PM has been ousted by a constructive vote under the 1997 constitution.\n(c) No path: PSL and Poland 2050 keep pressing for a Tribunal 'reset' and de-escalation rather than defecting. They are unlikely to back Morawiecki's hard-right candidate Jurek, and Konfederacja is split, preferring a push for early elections. The motion fails or is never filed, and the Tribunal standoff drags on without Tusk's office changing.\n(d) Yes path: the Tribunal crisis keeps escalating, starting with the 3 Nov judges' assembly. PSL and Poland 2050 break away and join a new majority around a more acceptable candidate such as Kosiniak-Kamysz, or Tusk resigns or announces a handover to save the coalition.\nThe crisis is real and the junior partners are wobbling. Even so, the arithmetic needs a positive majority for a named successor, and every past scare (June 2025, April 2026) ended with the coalition holding. The market's 7% after a fall from 16.5% looks about right, so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6098",
+   "has_trace": true
+  }
+ ],
+ "Will the lowest St. Louis river level be 3.00 ft or more by November 30?": [
+  {
+   "id": 6088,
+   "scanned_at": "2026-10-31T23:30:55.080470",
+   "date": "2026-10-31",
+   "agent": 5,
+   "market_price_t0": 8.1,
+   "edge": -0.031,
+   "confidence": 0.8,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.05). (0) Not resolved yet. The USGS daily values show a window minimum of 3.34 ft on 10/31, still above the 3.00 line. With the window running to 11/30, the outcome stays open until the river either dips below 3.00 or the window ends. (a) About 30 days remain, and a single published daily value under 3.00 ft at any point resolves this No. (b) The status quo is a falling river. The NWS forecast issued 10/31 shows about 2.9 ft on 11/1–11/3 and, after a small bump to 3.7 ft, 2.5 ft on 11/9 and 0.9 ft by 11/14. That is roughly 2 ft below the threshold, so the status quo path is No. (c) No scenario: the forecast verifies even roughly. CPC's 10/31 6–10 and 8–14 day outlooks favor below-normal rain over the Middle and Upper Mississippi Valley, and Missouri River navigation support ends 11/15, so the second, deeper decline below 3 ft almost certainly happens. (d) Yes scenario: the early-November trough bottoms at 3.0 ft or higher. Then unexpected heavy Plains or Missouri-basin rain around 11/6–11/10 halts the slide, and the river stays above 3 ft through late November despite reduced Missouri flows. This needs several unlikely things to line up. The market anchor is 8.1% (bid 4% / ask 12%) and has been falling. The 10/31 forecast data showing about 0.9 ft by mid-November and the drier CPC update justify a slightly lower figure of about 5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6088",
+   "has_trace": true
+  }
+ ],
+ "Gemini Carbon released by November 15, 2026?": [
+  {
+   "id": 6075,
+   "scanned_at": "2026-10-31T19:40:37.406037",
+   "date": "2026-10-31",
+   "agent": 62.5,
+   "market_price_t0": 66.5,
+   "edge": -0.040000000000000036,
+   "confidence": 0.49,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.62, 0.63). (0) The condition is not met yet. Google officially announced 'Gemini 4 Carbon' on Oct 28, which settles the identity question. Access is limited to a subset of cyber defenders and Fairwind partners, and that private access does not qualify. Third-party checks on Oct 28–30 found no Carbon model ID in the Gemini API or on the pricing page. (a) The deadline is Nov 15 ET, about 15 days away and 18 days after the announcement. (b) If nothing changes, the market resolves No: Google's 'coming soon' and 'as soon as possible' wording carries no date. (c) No scenario: the Fairwind feedback round, guardrail work (Google notes the cyber benchmarks were run without guardrails) and US government pre-release testing push general availability to late November. The Nov 30 market at 86% shows meaningful mass in that window. (d) Yes scenario: Google repeats Argon's path, which went from cyber-defenders-only on Sept 30 to general availability on Oct 13, 13 days. Repeating it gives roughly Nov 10, with Carbon in the API, AI Studio and the Gemini app for Pro and Ultra. A stated launch price, LMArena presence and the commercial pressure of a #1 benchmark ranking all support this. I anchor on the 66.5% market price, which is consistent with its own date ladder (Nov 11 at 51.5%, Nov 13 at 64%). I shade slightly lower because Carbon's gating looks tighter than Argon's: government testing, an explicit guardrail iteration step, and a Fairwind expansion step described as coming before wider Antigravity availability. All of this rests on a single precedent.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6075",
    "has_trace": true
   }
  ]

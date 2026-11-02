@@ -1747,6 +1747,20 @@
  ],
  "Will Iran Reconstruction Funding be in a US-Iran deal in 2026?": [
   {
+   "id": 6240,
+   "scanned_at": "2026-11-02T18:24:34.308086",
+   "date": "2026-11-02",
+   "agent": 7.3,
+   "market_price_t0": 11.5,
+   "edge": -0.042499999999999996,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) No qualifying instrument exists as of 2026-11-02. The only signed US-Iran text, the June 17 Islamabad MoU, said the US 'undertakes with regional partners to develop a definitive, mutually agreed plan' and deferred the mechanism to a final deal. That is the plan-to-plan wording the rules exclude. The MoU also predates the market and lapsed by August 17. (a) About 8.5 weeks remain until the Dec 31, 2026 11:59 PM ET deadline. (b) Status quo is No: the talks are indirect, no draft text has been published, and Iran's spokesman says there is 'absolutely no trust'. Strikes may resume after the Nov 3 midterms. (c) NO scenario: talks stall or strikes resume. Alternatively, a Hormuz-reopening and ceasefire interim deal is signed, which the related market prices at about 43% by Dec 31. That deal would again push economics and reconstruction into a later phase with plan-only language. (d) YES scenario: the Doha track produces a fast comprehensive deal. It would turn the $300B private/Gulf 'Reconstruction and Development Fund' into a presently-agreed fund, with details left to later arrangements, or adopt a Hormuz toll earmarked for reconstruction. Neither appears in current reported drafts. The Gulf payers have not committed, and Trump opposes paying anything resembling reparations. The market sits at 11.5% and has drifted down 4 points over 30 days. Even if a Hormuz deal happens, the chance it carries a qualifying funding clause looks well under one in five. There is also some resolution-leniency risk if vague fund language appears. On that basis I shade below market to about 7%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6240",
+   "has_trace": true
+  },
+  {
    "id": 5562,
    "scanned_at": "2026-10-25T06:02:36.216724",
    "date": "2026-10-25",
@@ -2091,6 +2105,20 @@
  ],
  "Skin cancer vaccine FDA approved by December 31, 2027?": [
   {
+   "id": 6230,
+   "scanned_at": "2026-11-02T14:45:10.542586",
+   "date": "2026-11-02",
+   "agent": 59,
+   "market_price_t0": 68,
+   "edge": -0.09000000000000008,
+   "confidence": 0.5,
+   "category": "Health",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.58, 0.60) after one crux research pass. (0) Not resolved: no approval on the FDA CBER 2026 BLA list (as of 10/22/2026), and no BLA submission or PDUFA date reported; the CEO said 'no update' on filing timing. (a) About 14 months remain to 12/31/2027. A standard ~12-month review needs a filing by about Dec 2026–Jan 2027; priority review (~8 months) needs a filing by about April 2027. (b) Status quo is No; a filing, acceptance and first-cycle approval are all still needed. (c) NO: the filing slips to Q2 2027 or later (sibling markets: 54% by Mar 31, 77% by Jun 30), standard review given the first-in-class CMC burden, or CBER asks for mature OS (HR 0.77, not significant) or issues an RTF/CRL amid leadership volatility. (d) YES: BLA work began mid-August with extra staff, a Q4 2026–Q1 2027 submission, priority review on Breakthrough designation and RFS HR 0.58, and approval in H2 2027, possibly early via a voucher. The decomposition (≈0.54 × 0.75 × 0.85 plus late-filing and fast-path routes) gives roughly 50–58%, a bit below the 68% market, which looks rich against its own sibling markets (approval by Sep 30, 2027 at 36.5%). Management's 2027 approval guidance and Merck's record of fast adjuvant-melanoma approvals keep me close to the anchor; I shade to 0.58.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6230",
+   "has_trace": true
+  },
+  {
    "id": 2538,
    "url": "https://forecast.agenticlearning.ai/scans/v2/2538",
    "date": "2026-09-03",
@@ -2306,6 +2334,20 @@
   }
  ],
  "US strike on Cuba by December 31?": [
+  {
+   "id": 6234,
+   "scanned_at": "2026-11-02T16:15:44.190238",
+   "date": "2026-11-02",
+   "agent": 6.5,
+   "market_price_t0": 7.5,
+   "edge": -0.009999999999999995,
+   "confidence": 0.56,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Resolution check: no source shows a qualifying strike. Rio Times (about Oct 24 and Nov 1) and the research reports all say no US strike on Cuban soil has happened and no order has been reported, so the market is unresolved. (a) About 59 days remain until Dec 31, 2026 ET. A strike would need to be credibly reported, with its date confirmed, within two days after that. (b) If nothing changes, the answer is No: ten months of threats, the oil blockade, the Nimitz deployment and Pentagon planning leaks have produced no strike. Recent rhetoric also points to deals and a longer timeline (Trump's '2.5 years', Rubio's 2028 framing, Newsweek's 'stuck in limbo'). (c) NO scenario: Iran strikes resume after the midterms and absorb US assets, including a third carrier. The Rubio back-channel or Panama mediation keeps limping along, and the Doral G20 in December discourages escalation. The Army Reserve 90-120 day window points to January or later, and any Cuba action takes a form that does not qualify, such as a naval show of force, a raid or blockade enforcement. (d) YES scenario: after Nov 3 and an Iran wind-down, Trump follows through on 'take care of Cuba on our way back from Iran'. That could be a limited air or drone strike on Cuban drone sites, triggered by a provocation or launched as a Venezuela-style package from Puerto Rico assets. The new SOUTHCOM messaging and the lifting of the midterm constraint keep this tail real. The market anchor is 7.5% and drifting down (-7 points over 30 days). I found no unpriced information pointing either way, so I shade slightly below market given the Iran bottleneck and the strict criteria on what counts as a strike.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6234",
+   "has_trace": true
+  },
   {
    "id": 5490,
    "scanned_at": "2026-10-24T07:38:01.794254",
@@ -18325,6 +18367,20 @@
  ],
  "Felix Protocol FDV above $25M one day after launch?": [
   {
+   "id": 6225,
+   "scanned_at": "2026-11-02T13:20:11.729613",
+   "date": "2026-11-02",
+   "agent": 7,
+   "market_price_t0": 7.5,
+   "edge": -0.0049999999999999906,
+   "confidence": 0.62,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Resolution check: the condition is not met. As of 2026-11-02, CoinGecko search shows only feUSD and unrelated FELIX tokens, and airdrop trackers report no Felix Protocol token as of October 2026. Nothing makes Yes impossible yet, but a token would have to launch and trade publicly by Dec 31, 2026, then hold an FDV above $25M at 4 PM ET the next day. (a) About 59 days remain before the deadline. (b) If nothing changes, there is no launch and the market resolves No. (c) No scenario: Felix, a cash-strapped team, stays quiet. It shut its HIP-3 exchange in June, its TVL fell to about $58M (down roughly 20% in October), and its revenue is tiny, so no TGE comes before year-end. (d) Yes scenario: Felix announces a points-based airdrop in Nov–Dec, lists on Hyperliquid spot with a total supply of 1B or more, and trades above about $0.025 the next day. On total supply, that is plausible for a protocol of this size, though a third-party estimate put FDV near $30M even before the TVL slide. The anchor is the market at 7.5% (bid 6 / ask 9). The sibling launch-by-Dec-31 market shows 32%, but an October snapshot had it at 17%. Given no announcement and the usual 1–4 week lead-up, I put the chance of a launch at about 12–15%. Conditional on launch, I put FDV above $25M at about 55–65%, which gives roughly 7%. I stay near the market because the research found no new information it has not priced.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6225",
+   "has_trace": true
+  },
+  {
    "id": 5386,
    "scanned_at": "2026-10-22T22:32:08.656467",
    "date": "2026-10-22",
@@ -20268,7 +20324,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-02T11:04:31.580Z",
+  "last_sync": "2026-11-02T23:06:30.212Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -27537,6 +27593,20 @@
  ],
  "Will Russia capture the Royal Café Alex in Kostyantynivka by December 31, 2026?": [
   {
+   "id": 6224,
+   "scanned_at": "2026-11-02T12:36:57.495749",
+   "date": "2026-11-02",
+   "agent": 19,
+   "market_price_t0": 23.5,
+   "edge": -0.044999999999999984,
+   "confidence": 0.535,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.19, 0.19). (0) Not resolved. The resolution-source check queried ISW's ArcGIS services directly and found no polygon from either qualifying layer (Russian-controlled terrain or Russian advance) within 40 m of the café's coordinates. No source reports qualifying shading since the market opened. (a) About 59 days remain until 11:59 PM ET on Dec 31, 2026, and any shading must also survive the next full ISW update. (b) Status quo is No: ISW's Nov 1 assessment says Russia lost net ground in both September and October and still has not completed the seizure of Kostyantynivka. ISW also says much of the Russian presence in the centre and south is infiltration only, which does not count. (c) No path: Ukrainian counterattacks continue west of the city, on the flank nearest the café, and Operation Vivaldi drains Russian effort elsewhere. Infiltration never gets upgraded to advance shading at this building before year-end. (d) Yes path: Russia resumes local gains, and geolocated footage leads ISW to convert central or western infiltration into 'Assessed Russian Advances' covering any part of the building. The earlier 86% peak suggests the café sits near the contested line, so a single reclassification could do it. The market anchor is 23.5% and falling, down 35 points in 30 days. Sibling markets put the café at 9.5% by Nov 30 and 63.5% by Mar 31, so ~20% by Dec 31 is consistent with that curve. Given ISW's documented net-loss trend and the persistence hurdle, I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6224",
+   "has_trace": true
+  },
+  {
    "id": 5657,
    "scanned_at": "2026-10-26T10:14:21.408530",
    "date": "2026-10-26",
@@ -29315,6 +29385,20 @@
  ],
  "Will Gyanesh Kumar be out as Chief Election Commissioner of India by December 31?": [
   {
+   "id": 6237,
+   "scanned_at": "2026-11-02T17:22:23.528716",
+   "date": "2026-11-02",
+   "agent": 6,
+   "market_price_t0": 7,
+   "edge": -0.010000000000000009,
+   "confidence": 0.7,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) The condition has not been met. The Week (Nov 1–2, 2026) and other credible reports show Gyanesh Kumar still serving as CEC and chairing a Meerut election-readiness review on Nov 2, with no resignation or removal announced. (a) About 8.5 weeks remain until Dec 31, 2026. (b) If nothing changes, he stays: his term runs to Jan 2029, the presiding officers rejected the April removal notices, and removal needs two-thirds of both Houses, which the government controls. (c) NO: the Nov 6 Supreme Court hearing produces only a consolidated, slow process, and any Winter Session notice is again not admitted or stalls. The BJP keeps backing its 'bureaucrat of choice' through the 2027 state polls. (d) YES: an adverse Supreme Court observation, fresh Kerala corruption revelations or sustained mass protests lead the government to see him as a liability. It would then broker a resignation 'for personal reasons' before year-end; the Dharmendra Pradhan resignation earlier in 2026 shows it can bend to protest waves. I anchor on Polymarket's 7% (bid 6 / ask 8), which has fallen from 34% as the formal routes failed. The research found no sign of a government shift or a resignation plan, so I shade slightly below the market. I keep a non-trivial tail for a voluntary or engineered exit, a novel court remedy, or the 'any period of time' clause being triggered by a temporary step-aside.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6237",
+   "has_trace": true
+  },
+  {
    "id": 5387,
    "scanned_at": "2026-10-22T23:12:04.043655",
    "date": "2026-10-22",
@@ -29344,6 +29428,20 @@
   }
  ],
  "Will Mark Warner vote \"Yea\" on the Clarity Act?": [
+  {
+   "id": 6243,
+   "scanned_at": "2026-11-02T19:04:25.967829",
+   "date": "2026-11-02",
+   "agent": 6.3,
+   "market_price_t0": 8.6,
+   "edge": -0.023999999999999994,
+   "confidence": 0.62,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.06). (0) Not resolved. Every source (CoinPaprika on 2026-11-02, CNBC, FinTech Weekly) says the only Senate floor vote was the failed 49–50 cloture vote on the motion to proceed on Sept 15. That vote does not qualify, and no final-passage vote is scheduled. (a) About 8 weeks remain, but realistically only the lame-duck window counts: roughly 22 session days, Senate out after about Dec 20. That window competes with the Dec 11 funding deadline, the NDAA and other year-end items. (b) Status quo is no vote, so No. (c) NO scenario: the lame duck is spent on appropriations and the NDAA, and the ethics dispute stays unresolved. Republicans, possibly strengthened by the midterms, may wait for the new Congress, so no final-passage vote happens by Dec 31. (d) YES scenario: after the election the White House concedes the remaining ethics-enforcement language and the seven-Democrat bloc moves. Thune would use Tillis's motion to reconsider to clear cloture, then a final-passage vote in December, with Warner as a lead negotiator voting Yea as he did on GENIUS. Conditional on a vote occurring, Warner's Yea is likely (about 80–85%), so the question mostly turns on whether a vote happens at all. The probability of a vote looks like roughly 7–9%; the related 'signed into law in 2026' market sits at 2.65% and the definition-linked market at 8.45%. The market anchor is 8.65% and has drifted up recently. I shade slightly lower because nothing scheduled has surfaced, Warner is running an ad attacking Trump's crypto income, and the Senate's track record on these deadlines has been too optimistic.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6243",
+   "has_trace": true
+  },
   {
    "id": 5447,
    "scanned_at": "2026-10-23T16:37:57.411429",
@@ -30631,6 +30729,20 @@
  ],
  "SpaceX becomes a US mobile carrier by June 30, 2027?": [
   {
+   "id": 6251,
+   "scanned_at": "2026-11-02T22:03:54.837136",
+   "date": "2026-11-02",
+   "agent": 16.5,
+   "market_price_t0": 21.5,
+   "edge": -0.04999999999999999,
+   "confidence": 0.55,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.16, 0.17). (0) Resolution check: the condition is not met. Starlink, SpaceX and late-October press all confirm there is no standalone SpaceX-sold US phone plan, and the only US offering is T-Mobile's T-Satellite add-on, which the rules exclude. (a) About eight months remain until 11:59 PM ET on June 30, 2027. (b) Status quo is No. SpaceX's own guidance has slipped from end-2027 to H1/early 2028 (Shotwell on the Q3 call, CFO Johnsen in September), which falls after the deadline. (c) No scenario: the reported Boost talks stall or fail. Alternatively, a deal is signed but closing drags because AT&T or T-Mobile withhold consent to transfer Boost's wholesale and hybrid-MNO agreements, through litigation or because of EchoStar's financial and bankruptcy complexity, so no plan is purchasable by mid-2027. (d) Yes scenario: SpaceX, already deeply tied to a financially stressed EchoStar, signs a Boost or EchoStar deal within weeks and closes by spring 2027. Boost's existing voice, text and data plans then count immediately under the acquired-carrier clause. A less likely route is some other MVNO acquisition or launch. The market sits at 21.5%, after jumping about 13 points on the Nov 2 Washington Post report. I shade below it for several reasons: the talks are unconfirmed and described as preliminary, analysts such as Farrar and LightShed doubt that a deal or a transfer of host agreements is feasible, and no large MVNO sale closing within eight months of first being reported was found. The December 2027 market at 27% is consistent with a modest edge here.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6251",
+   "has_trace": true
+  },
+  {
    "id": 5443,
    "scanned_at": "2026-10-23T15:22:01.510053",
    "date": "2026-10-23",
@@ -31089,6 +31201,20 @@
  ],
  "Will GPT Astra 6.1+ debut at a score of at least 1440 by June 30, 2027?": [
   {
+   "id": 6245,
+   "scanned_at": "2026-11-02T19:44:46.222393",
+   "date": "2026-11-02",
+   "agent": 75,
+   "market_price_t0": 73,
+   "edge": 0.020000000000000018,
+   "confidence": 0.55,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.75, 0.75). (0) Not resolved. No Astra 6.1+ model is on the Arena text board or in OpenAI's docs. GPT-6.1 Astra was shelved on Sept 28. A 'gpt-6.2-astra' ID has shown up in Codex usage logs and reportedly runs via the Codex CLI, but OpenAI has not announced it. That name would qualify. (a) The deadline is June 30, 2027, roughly 8 months away. (b) Status quo is NO: no qualifying model has been listed. Still, Polymarket's related release markets price an Astra 6.1+ release at about 98% by Dec 31, 2026, so the status quo looks unlikely to hold. (c) NO paths: OpenAI holds the model again on safety grounds or rebrands its successor (e.g. a Sol tier or the 'Bell' codename). Arena could list it only as AutoEval or delay its text entry. Or it debuts below 1440 on the no-style-control board. (d) YES path: GPT-6.2 Astra goes public within weeks and Arena adds it to Text within days, as it did for GPT-6 Astra. It then scores well above 1440, given GPT-6 Astra at ~1475, GPT-6.1 Sol at ~1445–1484 and even GPT-6 Sol at ~1458 on the text board. My rough estimate is P(release by June) ~0.95 × P(non-AutoEval text listing) ~0.92 × P(score ≥1440) ~0.88, which comes to about 0.77. That sits slightly above the 72.5% market and the sibling 1440+ snapshot of ~76%. The leaderboard numbers come from aggregators and mix board variants, and the resolution page itself was unreadable, so I stay close to the anchor at 0.75.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6245",
+   "has_trace": true
+  },
+  {
    "id": 5683,
    "scanned_at": "2026-10-26T18:40:13.650062",
    "date": "2026-10-26",
@@ -31104,6 +31230,20 @@
   }
  ],
  "Anthropic IPO before 2027?": [
+  {
+   "id": 6232,
+   "scanned_at": "2026-11-02T15:28:59.006187",
+   "date": "2026-11-02",
+   "agent": 91,
+   "market_price_t0": 92.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.7,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.92, 0.90). (0) Not resolved yet. The public S-1 is on EDGAR (Oct 26), and the research reports Amendment No. 1 signed Nov 2 plus a Japanese regulatory filing for a ~$3.5B Japan tranche. There is no price range, roadshow launch or pricing yet, so pricing, SEC effectiveness and a first Nasdaq trade as ANT must all happen by Dec 31 ET. (a) About 8.5 weeks remain. The earliest roadshow is Nov 10, and multiple outlets report a targeted debut the week of Nov 16, before Thanksgiving, leaving roughly 4–6 weeks of slack including the early-December window. (b) Status quo is a process moving on a standard 23–27-day filing-to-trade schedule (the SpaceX comparable took 23 days), with no reported delay or withdrawal. Continuing that path resolves YES. (c) NO: the AI-stock selloff (AI ETFs down sharply, Google's worst day, peer AI IPOs pulled or repriced, valuation talk cut from ~$2T to ~$1.5T, a BB-rating report) leads Anthropic, which has no cash need, to postpone. A one-month slip from the original plan would push it into the year-end lull and January. Its timeline has already slipped twice. (d) YES: a price-range S-1/A around Nov 9–10, a roadshow, then pricing and first trade around Nov 18–25, or failing that in early December. I anchor on Polymarket's 92.5%, which fell 2.5 points this week on the selloff. The Nov 2 amendment and Japan tranche filing are fresh launch-imminent signals that may be only partly priced, but market-shock postponement risk is real, so I stay roughly at the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6232",
+   "has_trace": true
+  },
   {
    "id": 5671,
    "scanned_at": "2026-10-26T14:54:41.766901",
@@ -32076,6 +32216,86 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.16, 0.13). (0) The condition is not yet met or settled. The token is trading on Solana DEXes, but the latest observed FDV is about $63M (OKX, $0.0632 × 1B supply), below the $70M strike, which needs about $0.07 per token. (a) The deadline is very near. If launch is DEX trading from Oct 31, the snapshot is 4 PM ET on Nov 1, only hours from now. If the resolver uses the team's official Nov 3 listing date, the snapshot is 4 PM ET on Nov 4. (b) Status quo is No: the price would have to rise about 11% and hold there at the snapshot. (c) NO path: sale and airdrop supply is fully unlocked at a $0.03 cost basis, and the pool is thin ($244K liquidity, falling). That keeps the price in the $50–63M range seen over the last day, or a CEX listing becomes a sell-the-news dump. (d) YES path: momentum continues (+25% in 24h), refunded USDC rotates into buying, or a Nov 3 CEX listing counted as launch pushes the price above $0.07 on Nov 4. The Polymarket anchor is 13% (bid 12, ask 14), down from 56% recently, which suggests traders with live price feeds see the snapshot as likely below the strike. I nudge slightly above the anchor because the Nov 4 interpretation adds variance on a token already within 10% of the strike.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/6158",
+   "has_trace": true
+  }
+ ],
+ "Major airlines suspend Ben Gurion flights by November 30, 2026?": [
+  {
+   "id": 6249,
+   "scanned_at": "2026-11-02T21:29:36.084868",
+   "date": "2026-11-02",
+   "agent": 30,
+   "market_price_t0": 33.5,
+   "edge": -0.03500000000000003,
+   "confidence": 0.46499999999999997,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.30, 0.30). (0) Nothing has resolved this yet. As of Oct 30–Nov 2, all five basket airlines appear to be flying to TLV: Delta on JFK, United on EWR plus new routes, Lufthansa at about 21 weekly flights from Frankfurt, Air France since May, and BA since Oct 25. So 0 of 5 are in a Qualifying Suspension. The Feb–Sep halts predate the market's Oct 29 creation and cannot count. (a) About four weeks remain. In practice, any new halt must begin by roughly Nov 16–17 so that three 14-day streaks can overlap on a day on or before Nov 30. (b) If nothing changes, the market resolves No. (c) No path: Trump keeps talks going under the Qatari/Pakistani mediation, or a strike is brief and without major retaliation against Israel. Carriers might then cancel only a few days, or keep at least one flight running, which breaks the 14-day streak. (d) Yes path: the reported post-midterm US strikes, as early as Nov 4, bring Iranian retaliation against Israel. The Feb 2026 precedent then repeats, with all five carriers cancelling within hours and extending for weeks; Delta and United did the same in June 2025. My estimate is a strike in the window at about 45%, and a three-carrier 14-day halt given a strike at about 60–65%, which gives roughly 0.28–0.30. That is slightly below the 33.5% market price. The Dec 31 market at 55% shows traders see a strike as quite likely, but this deadline is tight and diplomacy signals were active on Nov 2.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6249",
+   "has_trace": true
+  }
+ ],
+ "Will the Fed Hike–Pause–Hike in the next three decisions (Sep–Oct–Dec)?": [
+  {
+   "id": 6247,
+   "scanned_at": "2026-11-02T20:30:23.587401",
+   "date": "2026-11-02",
+   "agent": 73,
+   "market_price_t0": 72,
+   "edge": 0.010000000000000009,
+   "confidence": 0.6,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.73, 0.73). (0) The first two legs are already met on the resolution source. The Fed's Sept 16 statement records a 25bp hike to 3.75–4.00%. The Oct 28 statement records a 10-2 hold at 4.00%, with Cook and Hammack dissenting in favour of a hike, and FRED's DFEDTARU confirms the upper bound is still 4.00. Only the Dec 8–9 decision remains, and it must be a hike.\n(a) That decision comes in about 5 weeks. The October jobs report, October CPI, the October minutes and PCE all land before it.\n(b) If nothing changes, the rate stays at 4.00%. That makes the sequence hike–pause–pause, which resolves No/Other. Current pricing, however, has a December hike as the expected path.\n(c) NO scenario: a US–Iran deal pulls oil down, payrolls come in weak, and the centrists (Williams, Jefferson, Warsh) push the move to January. FedWatch already has January at about 79%, which makes that slip plausible.\n(d) YES scenario: payrolls land near the ~65k consensus and CPI stays above 3.5%. The September dot plot, where 12+ of 18 participants expected one more hike, and the 'hike every other meeting' signalling then deliver 25bp.\n\nOn pricing, the market anchor is 72%. The sibling Polymarket December market shows 73.5% for +25bp and 2.2% for +50bp. Under these rules any hike qualifies, so a 50bp move would also count. FedWatch and OIS pricing sit at roughly 71–77%, and MUFG is an outlier at 55%. I see no unpriced information, so I stay close to the consensus at about 73%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6247",
+   "has_trace": true
+  }
+ ],
+ "Will Crude Oil reach a new all-time high by December 31?": [
+  {
+   "id": 6227,
+   "scanned_at": "2026-11-02T14:03:30.951557",
+   "date": "2026-11-02",
+   "agent": 8,
+   "market_price_t0": 15.5,
+   "edge": -0.075,
+   "confidence": 0.62,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.08) after one crux research pass. (0) Not met: CME's Nov 2 feed shows front-month CLZ6 at about $97.74 with a session high of $102.75, and the 2026 intraday peak is about $119.48 (Mar 9). (a) About eight weeks, roughly 40 sessions, remain until Dec 31. (b) Status quo is NO: WTI needs about +48% to beat $147.27, and EIA (Q4 WTI $97) and Goldman (tail about $125–140 Brent) sit far below. (c) NO: Qatar-mediated US-Iran talks progress or stall, WTI chops between $90 and $115, and rolls onto cheaper backwardated Jan/Feb contracts drag the active month lower. (d) YES: post-midterm strikes and new Gulf infrastructure losses push thin inventories toward stock-out, and futures gap toward physical like the Mar 9 +29% spike. The 'Dated Brent above $150' bull premise is contradicted by the EIA series (peak $138.21). Polymarket's sibling November markets price a $150 touch at about 1.75% and $140 at about 3%, implying roughly 60% vol, which gives about 10% over two months before negative roll drift. I land near 8%, well below the 15.5% market, which looks like long-tail overpricing.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6227",
+   "has_trace": true
+  }
+ ],
+ "Pakistan military action against Afghanistan by November 30, 2026?": [
+  {
+   "id": 6221,
+   "scanned_at": "2026-11-02T11:56:19.049987",
+   "date": "2026-11-02",
+   "agent": 58,
+   "market_price_t0": 53,
+   "edge": 0.04999999999999993,
+   "confidence": 0.49,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.58, 0.58). (0) No source shows a qualifying strike since the market opened on Oct 30. The latest confirmed Pakistani air strike was Sept 30–Oct 1 in Kunar and Helmand, before market creation. The Oct 26–28 Paktika drone claims are Afghan-only and also predate the window. The Nov 1–2 exchanges were mortar and artillery fire, which the rules exclude. (a) About 28 days remain until Nov 30, 11:59 PM AFT. (b) Status quo is NO: if the current pattern of border skirmishes stays at artillery and small-arms level, the market resolves No. (c) NO scenario: no mass-casualty TTP attack or Afghan drone incident triggers retaliation, and the US mediation offer keeps Islamabad restrained while it is busy on the Iran front. The lull would then extend, as in late June to Sept 21. (d) YES scenario: a high-casualty TTP attack, or Taliban drone or mortar casualties, prompts Pakistan's Information Ministry to announce 'calibrated' air or drone strikes within days. That is how the Sept 21, Sept 24 and Oct 1 strikes came about. ISPR has explicitly threatened a 'cost' and named TTP leaders in Afghanistan. On base rates, Amu TV counted about 15 strike dates in 12 months, roughly 1.25 a month, and the recent tempo is about 4 in 6 weeks. There is no ceasefire and no scheduled talks, which points to somewhat better than even odds once clustering is discounted. The Polymarket anchor is 53%, but its 19/87 spread makes it weak, and the Nov 15 market at 23% is consistent with roughly 55–60% by Nov 30. I lean slightly above the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6221",
+   "has_trace": true
+  }
+ ],
+ "Next White House Press Secretary announced by December 31, 2026?": [
+  {
+   "id": 6218,
+   "scanned_at": "2026-11-02T11:13:35.671816",
+   "date": "2026-11-02",
+   "agent": 58.5,
+   "market_price_t0": 62.5,
+   "edge": -0.040000000000000036,
+   "confidence": 0.45,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.58, 0.59). (0) Not resolved. The resolution-source read of whitehouse.gov and Wikipedia shows the post vacant since Oct 16, with no permanent successor named as of Nov 1–2. A Trump or White House announcement of a non-interim press secretary must still happen by Dec 31. (a) About 59 days remain. Reporting (Semafor Oct 22, USA Today) says no pick before the Nov 3 midterms, so effectively the whole window is post-election. (b) If nothing changes, the post stays vacant with rotating briefers. The administration tolerated that for about six weeks after Leavitt left, and Trump says he is in \"no rush\", so the status quo resolves No. (d) YES path: after the midterms the search resumes. Wiles and Trump promote Anna Kelly or recruit someone like Jennings, announced by Truth Social. The last search took about 58 days, roughly the same length as the remaining window, and post-midterm reshuffles are a natural moment for it. (c) NO path: Trump's impulsive, personal hiring style, a thinner pool of willing candidates after the five-day Zacharia fiasco, lame-duck and holiday distractions, and comfort with rotating briefers push the pick into 2027. An acting designation would also not count. The market anchor is 62.5%. The sister Nov 30 market at 30.5% implies the crowd expects about 32 points of December hazard, which looks slightly generous given the holiday lull. I shade modestly below the market to 0.58, since there is no named finalist or vetting report.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6218",
    "has_trace": true
   }
  ]

@@ -819,6 +819,20 @@
  ],
  "Zhang Youxia sentenced to prison before 2027?": [
   {
+   "id": 6210,
+   "scanned_at": "2026-11-02T08:50:32.140199",
+   "date": "2026-11-02",
+   "agent": 7,
+   "market_price_t0": 12.5,
+   "edge": -0.05499999999999999,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Resolution check: nothing shows the event has happened. The resolution-source read and all three research reports find no indictment, trial date or verdict as of 2026-11-02. The latest official steps are the referral to military prosecutors on 2026-09-21 and plenum ratification of the expulsion on 2026-10-29. (a) About two months remain until the 2026-12-31 deadline. A YES needs a sentence about 3.3 months after referral, and a sealed military trial would only be announced after the verdict. (b) Status quo: if nothing changes, the market resolves No. (c) NO path: the case follows comparable precedents. Guo Boxiong took about 12 months from referral to sentence, Wei Fenghe and Li Shangfu took about 22.5 months, and He Weidong is still unsentenced after about 12.5 months. The leadership may also want He's 'test case' settled first, or need time to work out how to sentence Zhang, who is too old for the death penalty. (d) YES path: a politically compressed timeline produces a sealed military trial in November or December and a Xinhua-announced life sentence. That is plausible because Zhang's age removes the death-penalty question and the plenum step is complete, but even the fastest precedent, Fang Fenghui at about 4 months from expulsion to verdict, would land just past the deadline. Conviction itself is near-certain, so the only uncertainty is timing, and every precedent points to 2027 or later. I shade below the 12.5% market anchor to about 7%, keeping some weight on opaque, politically driven acceleration.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6210",
+   "has_trace": true
+  },
+  {
    "id": 5048,
    "scanned_at": "2026-10-18T18:11:23.015921",
    "date": "2026-10-18",
@@ -3276,6 +3290,20 @@
   }
  ],
  "Will the highest score achieved by a Moonshot Kimi model on Humanity’s Last Exam in 2026 be 50% or higher?": [
+  {
+   "id": 6199,
+   "scanned_at": "2026-11-02T05:34:45.077625",
+   "date": "2026-11-02",
+   "agent": 8,
+   "market_price_t0": 8.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.62,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.08). (0) Not met as of today. The readable official agi.safe.ai table is stale (April 2025 dataset, Gemini 3 Pro on top at 38.3%) and has no Kimi entry. The only CAIS-published Kimi figure is K3.1 Pro at 29.5% on HLE-Diamond, about 20 points under the line. The above-50% numbers come from elsewhere: Artificial Analysis 52.5% on a text-only set it has since retired, Moonshot's self-reported 51.1% no-tools, and 70% with tools. None of these are on the resolution source. (a) About 59 days remain, to 2026-12-31. (b) Status quo: no Kimi row at 50% or above appears on agi.safe.ai, so the market resolves No. (c) NO path: CAIS keeps the stale table and/or moves its headline to HLE-Diamond, where Kimi sits at roughly 29–39%. No new Kimi model scores 50% or more on an official run. (d) YES path: after the K3.1 Pro open weights land on 11-04, CAIS or Scale evaluates it on the original 2,500-question set and gets 50% or more. The independent ~52% measurement suggests that is possible, but Scale's board topped out near 46% in August. A looser path is the resolver accepting vendor or with-tools figures as a 'clear equivalent', or a surprise new Kimi release. The market sits at 8.5% (bid 5 / ask 12) after a steep fall, which fits the CAIS Diamond figure. I see no unpriced information that justifies moving much, so I hold near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6199",
+   "has_trace": true
+  },
   {
    "id": 4438,
    "scanned_at": "2026-10-11T12:37:06.174560",
@@ -7743,6 +7771,20 @@
  ],
  "Will Oliver Tree be the #1 searched passing on Google in the US this year?": [
   {
+   "id": 6174,
+   "scanned_at": "2026-11-01T23:33:56.197755",
+   "date": "2026-11-01",
+   "agent": 14.5,
+   "market_price_t0": 14.5,
+   "edge": 2.7755575615628914e-17,
+   "confidence": 0.42,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.15, 0.14). (0) Not resolved: the 2026 US Year in Search page returns 404, and release is expected in December. (a) About two months of deaths remain, and publication is very likely before the Mar 31, 2027 deadline. (b) Status quo: Tree is a contender, but Dolly Parton (Aug 25) is the favourite. Google Trends itself said she outdrew weather and sports searches on the day she died, and her reach is broad and multi-query. Patrick Stewart (Oct 28-29) adds late competition. (c) NO: Parton's or Stewart's spike, or a new late-year death, ranks #1, as high-baseline giants like Queen Elizabeth and Charlie Kirk have done. (d) YES: Google's growth-versus-prior-year method favours sudden young deaths (Payne, Avicii), and Google's own Halloween costume data shows Tree at his all-time interest peak and #6 overall, above Parton at #12. Market at 14.5% and rising, likely pricing the costume data already; no unpriced edge found, so I stay near it at 15%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6174",
+   "has_trace": true
+  },
+  {
    "id": 4891,
    "scanned_at": "2026-10-16T19:01:45.617091",
    "date": "2026-10-16",
@@ -9013,6 +9055,20 @@
  ],
  "Will the highest score achieved on Humanity’s Last Exam in 2026 be 60% or higher?": [
   {
+   "id": 6180,
+   "scanned_at": "2026-11-02T01:03:06.547413",
+   "date": "2026-11-02",
+   "agent": 68.5,
+   "market_price_t0": 72,
+   "edge": -0.03499999999999992,
+   "confidence": 0.435,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.69, 0.68). (0) The condition is not clearly met on the named source. The readable static table on agi.safe.ai shows 38.3%, and its dynamic results section never loaded. Scale/CAIS's HLE-Diamond board, now listed as the frontier HLE board with the original set under 'Legacy', already shows GPT-6 Astra at 60.6%. (a) About 2 months remain until 2026-12-31. (b) Status quo: the original 2,500-question official series tops out at about 54.8% (GPT-6 Astra, via Scale/Epoch mirrors), which is NO if the resolver is strict and YES if Diamond counts as a 'clear equivalent'. (c) NO: the resolver insists on the original HLE table, and Scale stops back-filling the legacy board, so vendor 64–70% claims and Artificial Analysis's 61.4% don't count. (d) YES: either Diamond is accepted (60.6% already), or Scale adds Gemini 4 Carbon (69.1% on Artificial Analysis Diamond) or Opus 5.5 to either board and exceeds 60%. The market at 72%, up 34.5% in 7 days, reflects this. The 65% sister market at 24.5% fits a top near 60–64%. I shade slightly below the market because of the wording risk ('HLE Accuracy' on agi.safe.ai) and because the dynamic table's contents are unverified.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6180",
+   "has_trace": true
+  },
+  {
    "id": 5555,
    "scanned_at": "2026-10-25T04:03:40.254891",
    "date": "2026-10-25",
@@ -9608,6 +9664,20 @@
   }
  ],
  "Will OpenAI have a #1 AI model by December 31, 2026?": [
+  {
+   "id": 6193,
+   "scanned_at": "2026-11-02T04:10:49.751206",
+   "date": "2026-11-02",
+   "agent": 9.5,
+   "market_price_t0": 15,
+   "edge": -0.05499999999999999,
+   "confidence": 0.61,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.09). (0) Not met: LMArena's HF dataset (text, style control off, 2026-10-28) shows Gemini 4 Carbon #1 (~1540) and Gemini 4 Argon #2, with no OpenAI model in the top 15; OpenAI's best is an estimated 40–50 points back. (a) About 59 days remain until Dec 31, 2026, 11:59 PM ET. (b) Status quo is NO, with Google or Anthropic holding #1. (c) NO: rumoured GPT-6.2 Astra slips or launches as a coding/agent model and lands mid-board, as GPT-5.5, 5.6 and 6 did, while Google iterates Carbon and Anthropic prepares Fable/Mythos 5.5. (d) YES: OpenAI rushes a text-tuned flagship that jumps 40+ points (as GPT-6.1 Sol did in WebDev) into the top confidence group, where a tie at rank 1 counts. The 'by' wording may count any moment at #1, which is why this market sits above the ~1–6% 'end of December' siblings. I shade below the 15% anchor because OpenAI is far from the top cluster and the recent bump rests on a low-reliability GPT-6.2 rumour.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6193",
+   "has_trace": true
+  },
   {
    "id": 3056,
    "scanned_at": "2026-09-17T05:50:02.503357",
@@ -13026,6 +13096,20 @@
   }
  ],
  "Puffpaw FDV above $100M one day after launch?": [
+  {
+   "id": 6177,
+   "scanned_at": "2026-11-02T00:20:04.711889",
+   "date": "2026-11-02",
+   "agent": 12,
+   "market_price_t0": 17.5,
+   "edge": -0.05499999999999999,
+   "confidence": 0.565,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.12). (0) Not resolved: Puffpaw's homepage (Nov 2, 2026) shows no live token or TGE date, the whitepaper says final tokenomics come before the TGE, and the Polymarket API shows the market open. (a) About 8.5 weeks remain to the Dec 31, 2026 deadline, with no TGE notice yet against the usual 1-4 weeks of lead time. (b) Status quo is no launch, which resolves No; the team has missed every 'imminent' signal since February. Anchor: Yes at 17.5%, down 11.5 points in 30 days; the thin sibling launch-by-Dec-31 market is at 19% and the $50M strike also at 19%, implying ~90% conditional success, which conflicts with the $50-100M analyst base case and day-one airdrop selling. My view: ~18% launch chance times ~60% conditional gives ~11-12%. (c) NO: no TGE before year-end, or a launch that prints $50-90M FDV. (d) YES: a surprise mid-December TGE with a CEX listing and 5-10% float holding above $0.10 at 4 PM ET the next day.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6177",
+   "has_trace": true
+  },
   {
    "id": 5376,
    "scanned_at": "2026-10-22T19:45:27.820776",
@@ -20184,7 +20268,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-01T19:39:07.538Z",
+  "last_sync": "2026-11-02T11:04:31.580Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -20360,6 +20444,20 @@
   }
  ],
  "Andrew Tate released from custody by December 31, 2026?": [
+  {
+   "id": 6206,
+   "scanned_at": "2026-11-02T08:08:02.701751",
+   "date": "2026-11-02",
+   "agent": 5.8,
+   "market_price_t0": 7,
+   "edge": -0.012500000000000004,
+   "confidence": 0.7,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) Not resolved. CNN, AP, LBC and the Morning Star report Tate held at FDC Miami from his July 18 arrest through about Oct 31. Bail was denied on Sept 9, and no ruling on the Oct 7 habeas petition had been reported as of the Oct 28 CourtListener mirror or news through Oct 30. (a) About 8.5 weeks remain until 11:59 PM ET on Dec 31, 2026. (b) Status quo is continued federal detention through the Nov 19 extradition hearing. Certification and any later surrender to the UK both resolve NO, since extradition is not release. (c) NO: Judge Damian denies the habeas petition, following binding Eleventh Circuit 'special circumstances' precedent and the magistrate's flight-risk and danger findings. Extradition is then certified after Nov 19, and Tate stays jailed or is surrendered to the UK. (d) YES: Damian grants bond or home detention on habeas, perhaps on a documented medical ground. Alternatively, the court refuses certification for treaty or information defects, or the UK withdraws its request. Even then, a government stay (as in Lui Kin-Hong) could delay release past Dec 31. Release pending extradition is 'extremely rare' per State Department guidance. The White House has ruled out intervening, and the DOJ has added new flight-risk allegations (a Mexican passport, witness interference). I anchor on Polymarket's 7% (bid 6, ask 8), which has drifted down. I see no unpriced information, so I shade slightly lower to 6%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6206",
+   "has_trace": true
+  },
   {
    "id": 5334,
    "scanned_at": "2026-10-22T04:46:01.001315",
@@ -28095,6 +28193,20 @@
  ],
  "Will Bitcoin hit $100k by December 31, 2026?": [
   {
+   "id": 6162,
+   "scanned_at": "2026-11-01T20:46:53.795575",
+   "date": "2026-11-01",
+   "agent": 9,
+   "market_price_t0": 10.5,
+   "edge": -0.015,
+   "confidence": 0.71,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) The condition is not met. Binance BTCUSDT monthly klines, read from data-api.binance.vision, show no 2026 high at or above $100k. The 2026 high was about $97.9k in January, and every month since the Aug 20 market open peaked below about $87.4k. (a) About 60 days remain, until 11:59 PM ET on Dec 31, 2026. (b) The status quo is NO: BTC is about $77.9k and needs roughly +28% to print a single 1-minute high of $100k. (c) NO path: BTC stays range-bound or drifts lower. Drivers would be the expected Dec 9 Fed hike (priced at about 83–88%), the Binance hack overhang with outflows, weak ETF demand, and max pain at $75–80k. (d) YES path: a dovish surprise in the Nov 10 CPI or a Fed pause would trigger a squeeze through $90k from lean positioning. ETF inflows would then resume and carry price through the January high near $98k to a wick at $100k. A barrier-touch estimate using DVOL of about 38–40 gives roughly 11%. CryptoQuant found DVOL tends to overprice realized vol, which argues lower, while fat tails argue higher. The negative momentum and macro headwinds put me slightly below the market's 10.5%. That is consistent with the sibling $95k contract at 15.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6162",
+   "has_trace": true
+  },
+  {
    "id": 5604,
    "scanned_at": "2026-10-25T20:28:09.362906",
    "date": "2026-10-25",
@@ -28805,6 +28917,20 @@
  ],
  "Will PSOE win the most seats in the 2026 Spanish general election?": [
   {
+   "id": 6184,
+   "scanned_at": "2026-11-02T02:04:43.911111",
+   "date": "2026-11-02",
+   "agent": 13,
+   "market_price_t0": 15.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.6,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.13). (0) The condition is not yet met or ruled out. The election is on 29 Nov 2026 and no results exist; infoelectoral will publish them after the vote. (a) About 27 days remain until polling day, and the result should be known before the 30 Nov close. (b) If nothing changes, PP finishes first. All 13 or more private pollsters have PP ahead by roughly 3–4.5 points and 20–35 seats. The Poliwave model gives PSOE about 5%, and the only post-Urda poll (SocioMétrica) widened the PP seat lead to 33. (c) NO path: the Urda train crash and the Puente controversy cap PSOE's recovery, and PP holds a 3+ point lead and a 20+ seat margin on 29 Nov. (d) YES path: housing dominates the campaign, the left consolidates tactically behind PSOE, and polls repeat their 2023 error. That year the PP–PSOE gap was overstated by about 5 points, more than today's 3–4.5 point average lead, so a repeat could flip the order. The CIS outlier and an unverified Vox-attributed poll are weak hints in this direction. I anchor on Polymarket's 15.5% and shade slightly lower for two reasons: the first post-crash reading moved against PSOE, and the 2023 miss still left PP first, narrowing a seat gap rather than reversing it. A 2023-sized error remains plausible enough to keep this in the low teens.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6184",
+   "has_trace": true
+  },
+  {
    "id": 5627,
    "scanned_at": "2026-10-26T01:59:34.558985",
    "date": "2026-10-26",
@@ -29034,6 +29160,20 @@
   }
  ],
  "Will no one leave the Trump Cabinet before 2027?": [
+  {
+   "id": 6196,
+   "scanned_at": "2026-11-02T04:52:26.695840",
+   "date": "2026-11-02",
+   "agent": 41,
+   "market_price_t0": 38,
+   "edge": 0.029500000000000026,
+   "confidence": 0.485,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.42, 0.40). (0) Not resolved: this contract opened May 22, 2026 as a 'next to leave' market after Gabbard, so the four spring 2026 exits do not count. Trackers through Nov 2 show no listed Cabinet exit since then. (a) About 59 days remain, almost all after the Nov 3 midterms. (b) If nothing changes, the market resolves Yes; the Cabinet has held for about five months. (c) No path: a GOP midterm loss plus Hegseth impeachment pressure leads Trump to cut Hegseth loose, or Wiles, Lutnick or another secretary goes in a post-midterm shake-up like Sessions, Zinke and Mattis in 2018. (d) Yes path: Trump keeps backing loyalists, as with Hegseth on Oct 30 and Wiles at 'zero chance', avoids giving Democrats a scalp, and pushes any reshuffle into 2027. The base rate of about 0.18 exits a month, raised for the post-midterm window, gives roughly 45–55% for no departure. The market's 38% and the ~20% 'Hegseth out by Nov 30' sibling show traders expect elevated churn. I sit slightly above the market given Trump's demonstrated reluctance and the five-month quiet stretch, but only one announcement among about 25 posts is needed for No.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6196",
+   "has_trace": true
+  },
   {
    "id": 5613,
    "scanned_at": "2026-10-25T22:30:44.643313",
@@ -29937,6 +30077,20 @@
  ],
  "Will October be Melbourne's wettest month of 2026?": [
   {
+   "id": 6170,
+   "scanned_at": "2026-11-01T22:40:29.651605",
+   "date": "2026-11-01",
+   "agent": 92.3,
+   "market_price_t0": 91.3,
+   "edge": 0.009500000000000064,
+   "confidence": 0.8,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.92, 0.93). (0) The resolution source (BoM Monthly rainfall table, 086338) already lists October 2026 at 113.8 mm, matching the daily-observation sum and 47.8 mm above August's 66.0 mm. The market is not resolved: YES needs both November and December to finish at or below 113.8 mm, with ties going to October. (a) Two months remain, and December's figure is due by 8 Jan 2027. (b) Status quo is YES: Nov and Dec average about 60 mm, their 95th percentiles are about 110 and 114 mm, and only Nov 2025 (127.8) and Dec 2017 (128.4) in the station record exceed 113.8. (c) NO needs a record-class November or December, for example a 40-50 mm thunderstorm day on top of a wet month, fuelled by sea temperatures up to 3 °C above average. (d) YES follows from a moderate November start (about 5 mm on the 1st, roughly 3-15 mm forecast for the 2nd) and the BoM Nov-Jan outlook leaning dry for southern Victoria under a strong El Niño and positive IOD. Each month carries roughly a 3-5% tail chance, so about 7-8% for NO combined. The Polymarket price of 91.3% and the sibling Nov/Dec markets at about 3.4%/3.3% agree; I sit slightly above the market on the dry outlook.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6170",
+   "has_trace": true
+  },
+  {
    "id": 5608,
    "scanned_at": "2026-10-25T21:09:22.459678",
    "date": "2026-10-25",
@@ -30553,6 +30707,20 @@
  ],
  "Will no next Israeli Minister of Justice be appointed by February 28, 2027?": [
   {
+   "id": 6163,
+   "scanned_at": "2026-11-01T21:14:54.020232",
+   "date": "2026-11-01",
+   "agent": 53,
+   "market_price_t0": 46,
+   "edge": 0.07,
+   "confidence": 0.44499999999999995,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.54, 0.52). (0) Not resolved either way. No 38th government exists. Herzog only starts consultations on Nov 4, Levin is serving as caretaker (which doesn't count), and no confidence vote has been held. (a) About 4 months remain until Feb 28, 2027, roughly 124 days after the Oct 27 election. (b) Status quo is deadlock: Netanyahu's bloc has 53, Eisenkot's Jewish bloc 48 and the Arab parties 19, so a caretaker government persists and the market resolves YES. (c) Path to NO: a government is formed and sworn in before Feb 28. That could be an Eisenkot minority government that passes the confidence vote by simple majority, about 56 to 53 with Ra'am support and Joint List abstention. It could be a Haredi flip, or a Likud–Eisenkot unity or rotation deal pushed by Herzog. Such a government would most likely come out of the first or second mandate, by late January. (d) Path to YES: Liberman and Bennett block reliance on Arab votes, the opposition refuses Netanyahu, and Likud rejects a rotation while disputing the results as \"stolen\". The fight over replacing Speaker Ohana poisons talks, every mandate expires (the third-candidate stage runs to about Feb 27), and the Knesset dissolves for a spring election. The market anchor is 46% and has risen 20 points over 30 days. Brookings, AP, CNN and The Conversation all name a repeat election as the likeliest outcome, and the legal timeline leaves little slack for a late-stage success. Against that, the simple-majority confidence rule makes a minority government more achievable than '61 seats' framing suggests, and Herzog is actively pushing for unity. I lean modestly above the market, at 54% YES.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6163",
+   "has_trace": true
+  },
+  {
    "id": 5423,
    "scanned_at": "2026-10-23T10:00:45.203170",
    "date": "2026-10-23",
@@ -30568,6 +30736,20 @@
   }
  ],
  "Will Extended launch a token by December 31 2026?": [
+  {
+   "id": 6212,
+   "scanned_at": "2026-11-02T09:53:04.659848",
+   "date": "2026-11-02",
+   "agent": 91,
+   "market_price_t0": 93,
+   "edge": -0.019499999999999962,
+   "confidence": 0.7,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.91, 0.91). (0) Not yet resolved. Extended's X profile, read through Oct 30, shows no claim opening and no spot trading for XTEN. The Hyperliquid hyperp listed Oct 27 is a synthetic pre-market and does not count as the token being tradable. (a) There are about 8.5 weeks left until 11:59 PM ET on Dec 31, 2026. (b) If nothing changes, the answer is No: today there is no transferable, tradable token. However, Extended has publicly committed to a November 2026 launch with ticker $XTEN, a 1B supply and 300M for points users, and says it has notified a MiCA white paper. (c) No path: the white paper, reportedly already slipped to Nov 2 in an unconfirmed post, gets delayed again. A MiCA classification challenge, problems with claim or listing infrastructure on the new Arc chain, or slow lining-up of a CEX listing pushes the TGE into January. Extended missed its earlier H1 2026 target, and StandX shows that perp-DEX tokens can be cancelled outright. (d) Yes path: the white paper publishes in early November and the 20-working-day MiCA clock ends around mid-to-late November. Claims then open in self-custodied Arc wallets with a DEX or CEX listing in late November or December. Even a one-month slip still resolves Yes. The market anchor of 93% (bid 91, ask 95) prices this well. The points programme closing, the Arc migration being finished, and Hyperliquid demand all support a launch, so I shade only slightly lower to about 91% for slip risk and the strict tradability requirement.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6212",
+   "has_trace": true
+  },
   {
    "id": 5488,
    "scanned_at": "2026-10-24T06:57:32.339523",
@@ -30631,6 +30813,20 @@
  ],
  "Pete Hegseth out as Secretary of Defense by November 30?": [
   {
+   "id": 6167,
+   "scanned_at": "2026-11-01T22:13:23.525066",
+   "date": "2026-11-01",
+   "agent": 20,
+   "market_price_t0": 19.5,
+   "edge": 0.0050000000000000044,
+   "confidence": 0.525,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.19, 0.21). (0) The condition has not been met. War.gov reported Hegseth at the ASEAN defense ministers' meeting on Oct 28, he fired Lt. Gen. Sylvia around Oct 29, and as of Nov 1 no source reports a resignation or removal announcement. (a) About 30 days remain until 11:59 PM ET on Nov 30, and an announcement alone would resolve Yes. (b) If nothing changes, the result is No: Trump called him a 'great warrior' on Oct 29, the Pentagon says he is '100% committed,' and the Nov 1 WaPo headline is 'Hegseth digs in.' (c) NO scenario: the GOP loses the House and Massie forces an impeachment vote around Nov 10–13. Leadership tables it, or it passes but the Senate cannot remove him, as with Mayorkas. Trump keeps backing him, and the Tennessee Senate-seat parachute cannot happen before January. (d) YES scenario: after a bad Nov 3 result, Trump cuts Hegseth loose to shift blame for the Iran war and to unlock lame-duck defense funding that Senate Democrats are tying to his exit. That would follow the post-election precedents of Esper (Nov 2020) and Sessions (Nov 2018), or Hegseth could announce he is leaving to avoid impeachment. The Polymarket anchor is 20%, Kalshi's stricter 'before Dec 1' contract is about 23%, and the Dec 31 market is 28.5%, so the crowds broadly agree. The post-midterm catalyst is real but already priced in. Against it, Hegseth has survived every earlier 'next out' scare, and Trump tends to resist exits his opponents demand. I see no unpriced information that justifies moving far from the anchor, so I shade slightly below it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6167",
+   "has_trace": true
+  },
+  {
    "id": 5510,
    "scanned_at": "2026-10-24T14:08:47.139989",
    "date": "2026-10-24",
@@ -30677,6 +30873,20 @@
  ],
  "Will GPT Astra 6.1+ debut with an HLE-Diamond score of 55% or higher?": [
   {
+   "id": 6200,
+   "scanned_at": "2026-11-02T06:18:54.327203",
+   "date": "2026-11-02",
+   "agent": 87.5,
+   "market_price_t0": 90.5,
+   "edge": -0.030000000000000027,
+   "confidence": 0.62,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.87, 0.88). (0) Not yet resolved: no Astra 6.1+ has been released or listed on agi.safe.ai. GPT-6.1 Astra was shelved Sept 28, and only the excluded GPT-6 Astra (59.9% no-tools/high, per the CAIS/Scale table on lastexam.ai) is on the board. (a) About 8 months remain, to June 30, 2027. (b) Status quo is No (no qualifying model), but related Polymarket markets price an Astra 6.1+ release by Dec 31 at ~96%, with rumours of an imminent launch and a gpt-6.2-astra ID seen in Codex analytics. (c) No path: the next flagship ships under a non-Astra name (e.g., the leaked GPT-6.2 Betelgeuse), safety gating delays or restricts release, CAIS fails to list it cleanly at the 'high' setting (no evidence CAIS has added models since Sept 22; Gemini 4 Carbon is absent), or a cost-tuned successor lands below 55%. (d) YES path: a revised 6.1 Astra or a 6.2 Astra ships in Nov/Dec on the same base, CAIS lists it, and it scores at or above the parent's ~60%. Chaining P(Astra-named release) ~0.94, P(CAIS listing) ~0.94 and P(≥55% given listing) ~0.96 gives ~0.85–0.87, slightly below the 90.5% market anchor because of naming and CAIS-listing risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6200",
+   "has_trace": true
+  },
+  {
    "id": 5535,
    "scanned_at": "2026-10-24T21:40:26.966116",
    "date": "2026-10-24",
@@ -30692,6 +30902,20 @@
   }
  ],
  "Another critical PHP security flaw in 2026?": [
+  {
+   "id": 6204,
+   "scanned_at": "2026-11-02T07:26:16.755364",
+   "date": "2026-11-02",
+   "agent": 40,
+   "market_price_t0": 36,
+   "edge": 0.040000000000000036,
+   "confidence": 0.42,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.38, 0.42). (0) Not resolved. The php-src advisories list and the NVD API (both checked 2026-11-02) show no Critical php-src CVE other than the excluded PHP2Shell pair. NVD has no record for CVE-2026-115560, the main candidate.\n\n(a) About 2 months remain, to 2026-12-31. Regular PHP point releases appear roughly monthly, so one in late November (near the 8.6 GA on 11-19) and one in December are both likely. PHP says the full, scored advisory for CVE-2026-115560 will ship \"with the next release\".\n\n(b) If nothing changes, the market resolves NO: no qualifying score exists today.\n\n(c) NO scenario: PHP publishes the advisory with a sub-9.0 score. This fits its own framing of an \"unlikely\" bug needing an unusual configuration and an ini_set() call, plus AC:H or AT:P scoring. Amazon's v3.1 score was 8.1 and its prior non-PHP2Shell advisories were High or lower. NVD would then either not score it in time or score it about 8.1, and no new variant surfaces.\n\n(d) YES scenario: PHP's CNA scores CVE-2026-115560 at 9.2 under CVSS v4.0, as it did for the sibling AC:H session-path bugs. Alternatively, NVD scores it 9.8 under v3.1, as it initially did for PHP2Shell. A third route is that the intense, AI-assisted scrutiny of PHP turns up a new unauthenticated RCE variant before year-end, which PHP itself flagged as possible.\n\nWeighing roughly 35% for a ≥9.0 score on 115560 given a release in the window, plus about 10% for a separate variant, I land slightly above the 36% market price. There is also a small risk that a resolver treats 115560 as part of PHP2Shell.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6204",
+   "has_trace": true
+  },
   {
    "id": 5524,
    "scanned_at": "2026-10-24T18:32:37.637229",
@@ -31756,6 +31980,102 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.93, 0.93). (0) The condition may already be met. On Nov 1, 2026, Carney posted on X about a \"good conversation\" with Trump on trade, and CP24/CTV, AP and BNN all reported it. The market opened Oct 31, so the talk almost certainly falls inside the window. It is not conclusive yet: no source specifies that the talk was verbal rather than texts, no exact date or time is given, and there is no White House or PMO readout. AP and other outlets frame it as a call, and nothing has contradicted it so far, which matters because the rules give the other side three days to dispute. (a) About 29 days remain until Nov 30, 11:59 PM ET. (b) Status quo: the Nov 1 talk likely qualifies. Even if it doesn't, Trump and Carney have spoken roughly every one to two weeks (Oct 11, about Oct 18, Oct 21, Nov 1), with active trade talks and Trump citing a 3–4 week resolution timeline. (c) NO scenario: the resolver rejects the Nov 1 talk as text-based or undated. After the midterms talks then stall, with no summit before the Dec 14–15 G20. Any later contact goes undisclosed or is disclosed too vaguely to date. (d) YES scenario: the Nov 1 conversation is treated as a phone call and resolves the market, or a deal-closing or routine call happens in November. The market anchor is about 91% (last close 92%, spread 85–97). I land slightly above it, at 93%, because two largely independent YES paths combine.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/6146",
+   "has_trace": true
+  }
+ ],
+ "Will Ethereum dip to $1,700 in November?": [
+  {
+   "id": 6215,
+   "scanned_at": "2026-11-02T10:33:17.360516",
+   "date": "2026-11-02",
+   "agent": 10.5,
+   "market_price_t0": 13.5,
+   "edge": -0.03,
+   "confidence": 0.6,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.11). (0) Binance hourly klines from Nov 1 00:00 ET to about Nov 2 11:00 UTC show a lowest low of $2,247.84 against a price near $2,287, so the condition is not met; ETH needs a ~25% fall to a 1-minute low at or below $1,700 on Binance ETH/USDT. (a) About 29 days remain. (b) Status quo is No: the October/hack low held near $2,175, Nov 1 volume was the thinnest since Aug 17, and sentiment is neutral. A barrier-touch model at 55-60% vol (consistent with the sibling $2,000 dip strike near 41.5%) puts $1,700 about 1.8 sigma away, roughly 7%; fat tails and the 1-minute-wick trigger lift this to about 9-11%. (c) NO: the Nov 3 proof of reserves shows ETH fully backed, outflows fade, and ETH ranges $2,100-2,500 with bear targets stopping at $2,000. (d) YES: a reserve-proof ETH shortfall restarts the Binance run, hack-laundered ETH is dumped, ETF outflows continue and a December hike is priced, so breaks of $2,200 and $2,000 cascade into the June $1,700 zone. The market's 13.5% is reasonable given this Binance-specific event risk; I shade slightly lower to 10% for typical overpricing of longshot tail strikes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6215",
+   "has_trace": true
+  }
+ ],
+ "Will Trump speak to Ursula von der Leyen by November 30?": [
+  {
+   "id": 6190,
+   "scanned_at": "2026-11-02T03:25:04.806971",
+   "date": "2026-11-02",
+   "agent": 25,
+   "market_price_t0": 29.5,
+   "edge": -0.044999999999999984,
+   "confidence": 0.475,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.25, 0.25). (0) No source shows a qualifying Trump–von der Leyen call or meeting since the market opened on Oct 31. The resolution-source check found nothing through Nov 2, so the question is unresolved. (a) About 28 days remain until Nov 30, 11:59 PM ET, with a 3-day confirmation buffer after that. (b) On the status quo the answer is No: the last confirmed contacts were Apr 26 and May 7, 2026, a gap of roughly six months. Nothing is scheduled, and the main in-person venue, the Miami G20, falls on Dec 14–15, after the window. (c) No path: the Ukraine talks run through Witkoff, Kushner and the Russians while Europe is excluded from Abu Dhabi. The trade deal was approved in June, so no deadline forces a call. Von der Leyen's alignment with Canada keeps relations cold, and November passes without contact. (d) Yes path: a mid-November trilateral round, or a Trump–Putin–Xi meeting at APEC, prompts a leaders' debrief or coalition call that includes von der Leyen, as happened in May, August and December 2025. A new tariff or ICC flare-up could also trigger a quick call, which she would publicise on X. The market sits at 29.5% (bid 27, ask 32) on thin volume. Given the long no-contact run and the defused trade trigger, I shade slightly below it, while keeping real weight on Ukraine-driven group calls, which have historically included her.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6190",
+   "has_trace": true
+  }
+ ],
+ "Will Felix Protocol launch a token by December 31, 2026?": [
+  {
+   "id": 6171,
+   "scanned_at": "2026-11-01T23:08:07.626596",
+   "date": "2026-11-01",
+   "agent": 7.3,
+   "market_price_t0": 9.8,
+   "edge": -0.024999999999999994,
+   "confidence": 0.6599999999999999,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) The condition is not met. Felix's X feed through Oct 29, 2026 shows only Vanilla lending and yield posts. Its GitBook docs have no token, tokenomics or airdrop page. Airdrop trackers still list Felix as having no confirmed token, and the only tradable Felix token is the long-standing feUSD stablecoin, which is not a new launch. (a) About 60 days remain until Dec 31, 2026, 11:59 PM ET, and the token must be live and tradable by then, since announcements alone do not count. (b) If nothing changes, the market resolves No, because Felix has given no announcement, snapshot, claim page or TGE date. (c) The NO path is that Felix keeps running Season 2 points and keeps its focus on lending and equities, so any TGE slips into 2027 or later; the sibling markets point to 2027 as the more likely window. (d) The YES path is a surprise announcement in November or early December that ends Season 2 with a snapshot and lists FELIX on Hyperliquid spot before year-end, which the reserved ticker and a healthy HYPE market make feasible. A smaller chance is that a new Felix stablecoin is loosely counted as 'a token'. The Polymarket anchor is 9.8% (bid 8%, ask 11.5%) and has fallen steadily from a 45% high, the usual decay for markets on undeclared tokens. I shade slightly below the market because there is no pre-launch signal at all and a US-incorporated operator faces extra legal work. Short-notice TGEs do happen in the Hyperliquid ecosystem, which keeps the probability well above zero.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6171",
+   "has_trace": true
+  }
+ ],
+ "Will Bitcoin dip to $77,500 in November?": [
+  {
+   "id": 6166,
+   "scanned_at": "2026-11-01T21:51:16.709226",
+   "date": "2026-11-01",
+   "agent": 94,
+   "market_price_t0": 92.5,
+   "edge": 0.015499999999999958,
+   "confidence": 0.76,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.94, 0.94). (0) Not yet met. Binance hourly data from the resolution source's public API shows November's low at 77,622.81 as of about 21:00 UTC Nov 1, roughly $120 above the strike. The latest price was about 77,968. (a) There are about 29 days left, until 23:59 ET Nov 30. (b) If nothing changes, spot sits only about 0.6% above $77,500. In a market with about 38% implied volatility (a one-month 1-sigma move of about 11%), a zero-drift barrier calculation puts the chance of a touch near 95%. Fat tails and jump risk only raise that. (c) NO: the Binance proof-of-reserves report on Nov 2 comes back clean, sparks a relief rally, and the 200-day EMA bounce repeats the September pattern. BTC would then reclaim $80k quickly and never print a one-minute wick back to $77.5k all month. (d) YES: an ordinary drift down of about 0.6% does it. It could come within hours, from midterm or jobs-data risk-off, ETF outflows, leftover headlines about the Binance hack, or put-heavy positioning at $74–78k. The Bitfinex support zone of $77,000–77,765 also straddles the strike, so wicks into it are likely. The market prices YES at 92.45%. My barrier math and the downside skew argue slightly higher, but I stay near the anchor because an immediate rebound is plausible and positive sentiment signals point to capitulation having already happened.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6166",
+   "has_trace": true
+  }
+ ],
+ "Will no next Israeli Minister of National Security be appointed by February 28, 2027?": [
+  {
+   "id": 6159,
+   "scanned_at": "2026-11-01T20:22:22.877132",
+   "date": "2026-11-01",
+   "agent": 59.5,
+   "market_price_t0": 56,
+   "edge": 0.03499999999999992,
+   "confidence": 0.49,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.60, 0.59). (0) Nothing has resolved. The October 27 election produced a hung Knesset: Netanyahu's bloc has 53 seats, Eisenkot's bloc 48, and the Arab parties 19. No mandate has been assigned, and Ben-Gvir remains only a caretaker minister, which does not count. (a) About four months remain until Feb 28, 2027, which is day 124 after the election. The statutory first and second mandates would run out around late January, while a third-round success could slip past the deadline. (b) If nothing changes, Israel stays under a caretaker government and the market resolves Yes. Fitch's base case is an early-January dissolution with elections in April, and Brookings calls a repeat election the most likely outcome. (c) Path to Yes: Eisenkot gets the mandate but cannot reach a working majority. Lieberman refuses any Arab- or Haredi-dependent government, and on the best-case arithmetic that leaves Eisenkot one seat short. UTJ and Shas demand a draft exemption that Eisenkot has ruled out. Netanyahu is content to stay caretaker, the Knesset dissolves, and no new minister is approved. (d) Path to No: US and Herzog pressure produces a Netanyahu–Eisenkot unity deal, or Haredi parties trade support for draft concessions, or an Arab safety-net minority government somehow survives. A government sworn in by January would appoint a National Security (or successor) minister. The market sits at 56% with a wide 45–67% spread and a sharp recent rise. The research supports leaning slightly further toward Yes, given that the expert consensus (Fitch, Brookings, IDI's Plesner, NPR) points to a repeat election. I hold back from going higher because a unity deal under pressure is a real possibility and some Shas overtures were reported.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6159",
+   "has_trace": true
+  }
+ ],
+ "1win FDV above $70M one day after launch?": [
+  {
+   "id": 6158,
+   "scanned_at": "2026-11-01T20:00:17.856235",
+   "date": "2026-11-01",
+   "agent": 14.5,
+   "market_price_t0": 13,
+   "edge": 0.015000000000000013,
+   "confidence": 0.525,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.16, 0.13). (0) The condition is not yet met or settled. The token is trading on Solana DEXes, but the latest observed FDV is about $63M (OKX, $0.0632 × 1B supply), below the $70M strike, which needs about $0.07 per token. (a) The deadline is very near. If launch is DEX trading from Oct 31, the snapshot is 4 PM ET on Nov 1, only hours from now. If the resolver uses the team's official Nov 3 listing date, the snapshot is 4 PM ET on Nov 4. (b) Status quo is No: the price would have to rise about 11% and hold there at the snapshot. (c) NO path: sale and airdrop supply is fully unlocked at a $0.03 cost basis, and the pool is thin ($244K liquidity, falling). That keeps the price in the $50–63M range seen over the last day, or a CEX listing becomes a sell-the-news dump. (d) YES path: momentum continues (+25% in 24h), refunded USDC rotates into buying, or a Nov 3 CEX listing counted as launch pushes the price above $0.07 on Nov 4. The Polymarket anchor is 13% (bid 12, ask 14), down from 56% recently, which suggests traders with live price feeds see the snapshot as likely below the strike. I nudge slightly above the anchor because the Nov 4 interpretation adds variance on a token already within 10% of the strike.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6158",
    "has_trace": true
   }
  ]

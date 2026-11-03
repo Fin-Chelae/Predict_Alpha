@@ -5657,6 +5657,20 @@
  ],
  "Will Bitcoin have the best performance in 2026?": [
   {
+   "id": 6282,
+   "scanned_at": "2026-11-03T06:55:18.567489",
+   "date": "2026-11-03",
+   "agent": 9,
+   "market_price_t0": 12,
+   "edge": -0.03,
+   "confidence": 0.72,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) Not resolved; 2026 closes decide it. Binance's data mirror shows the Jan 1 00:00 ET baseline at 87,611 and BTC now ~76.6k (-12.6%). The S&P is ~+10% (7,526 vs 6,845.50) and gold ~-10 to -11%. (a) About 8 weeks remain until the Dec 31, 2026 closes. (b) Status quo: the S&P wins and this resolves No; BTC needs ~$96k (+26%) to beat a flat S&P. (c) No: BTC drifts $70-85k amid ETF outflows and post-peak weakness while the S&P holds a high-single-digit gain; a sell-off likely hurts BTC more. (d) Yes: a post-midterm policy catalyst (GOP Congress, Clarity Act) sparks an August-style +25-30% squeeze toward $100k while an AI-led drawdown pulls the S&P toward flat. With BTC's ~16-18% 8-week relative volatility this is a ~1.3-1.4 sigma event, about 8-10% with fat tails. Kalshi's year-end mean (~$75k) and Dec futures (~$82.8k) sit far below the bar. The Polymarket anchor is 12% and the S&P market's 82% implies ~18% for BTC plus gold combined; I shade slightly below on continued downward momentum.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6282",
+   "has_trace": true
+  },
+  {
    "id": 5717,
    "scanned_at": "2026-10-27T05:47:31.813865",
    "date": "2026-10-27",
@@ -10685,6 +10699,20 @@
  ],
  "Will Strait of Hormuz traffic not return to normal in 2026?": [
   {
+   "id": 6284,
+   "scanned_at": "2026-11-03T07:34:42.840573",
+   "date": "2026-11-03",
+   "agent": 93,
+   "market_price_t0": 89.5,
+   "edge": 0.03500000000000003,
+   "confidence": 0.76,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.93, 0.93). (0) Not resolved yet. PortWatch's ArcGIS feed shows the latest data for Oct 25, with daily counts of 2–5 and a 7-day average of about 3.3, against a threshold of 60. No single day since mid-March has reached 60; the peak was 51 on Jun 24, and the 7-day average topped out at about 26.7 after the June deal. (a) About 8 weeks remain until Dec 31. PortWatch publishes weekly with a lag of several days, but December data published by Jan 31 still counts. (b) Status quo is Yes: the strait is effectively closed, October had a record number of attacks, Iran's reopening offers are conditional and rejected, and US strikes followed on Nov 3. (c) No path: talks stay stalled or slow, insurance and mine friction persist, and dark or shuttle transits keep the AIS-visible count low. Even a full peace in winter left the Dec 2025 7-day average near 56–63, right at the threshold. (d) Yes-failure path: a US–Iran deal in November lifts the blockade, and about 490 queued vessels surge through visibly on AIS, pushing the 7-day average to 60 or more in late December. Related markets price a blockade end by Nov 30 at about 25% and by Dec 31 at about 40%. Even conditional on a deal, the June precedent suggests reaching 60 within weeks is unlikely, maybe 20–30%. The market anchor is 89.5%, consistent with the 11.5% sibling price for 'returns to normal by Dec 31'. I lean slightly above the market because the threshold sits near the top of the normal winter range and the June deal reached under half of it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6284",
+   "has_trace": true
+  },
+  {
    "id": 5679,
    "scanned_at": "2026-10-26T17:06:36.586806",
    "date": "2026-10-26",
@@ -13491,6 +13519,20 @@
  ],
  "Anthropic vs OpenAI - higher valuation on December 31?": [
   {
+   "id": 6265,
+   "scanned_at": "2026-11-03T02:46:57.480210",
+   "date": "2026-11-03",
+   "agent": 89,
+   "market_price_t0": 91,
+   "edge": -0.020000000000000018,
+   "confidence": 0.66,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.89, 0.89). (0) Not resolved. I could not read the named NPM pages. Every available mark has Anthropic ahead: $965B May round vs OpenAI's $852B; NPM-based ~$1.44T on Oct 23 (Substack summary); OpenAI's $968/share on Oct 19, ~$1.2T on an assumed share count. (a) About 8 weeks remain to Dec 31, with the final NPM print or market close by early January. (b) Status quo is Yes: Anthropic leads every mark, its IPO is reported for mid-to-late November at a revised $1.5–1.6T, OpenAI's round has ~$11B of $20B at $1.25T, and OpenAI has ruled out a 2026 IPO so stays on NPM. (c) No: Anthropic prices near $1.5T, falls 20%+ by Dec 31 as SpaceX did, NPM marks OpenAI up to ~$1.25–1.3T on a round close, and a narrow share-class count or an IPO slip back to noisy NPM marks adds to the shortfall. (d) Yes: Anthropic lists at $1.5T+ and holds above OpenAI's ~$1.0–1.3T mark, or stays private with NPM near $1.4T. Anchoring on 0.91, I shade slightly down because OpenAI's NPM mark rose ~33% in five weeks and Anthropic's cushion narrowed after the selloff.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6265",
+   "has_trace": true
+  },
+  {
    "id": 2007,
    "scanned_at": "2026-08-26T17:46:56.928623",
    "date": "2026-08-26",
@@ -15471,6 +15513,20 @@
  ],
  "Will Tesla sell a Cybercab for 30k or less in 2026?": [
   {
+   "id": 6278,
+   "scanned_at": "2026-11-03T05:34:34.242217",
+   "date": "2026-11-03",
+   "agent": 23.5,
+   "market_price_t0": 40.5,
+   "edge": -0.17000000000000004,
+   "confidence": 0.525,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.24, 0.23) after one crux research pass. (0) Not resolved. As of Nov 3, no source shows a Cybercab retail sale, published price, order page or configurator. The resolution-source read and several trackers confirm there is no retail channel; Tesla's only route is a commercial and fleet interest form. (a) About 58 days remain until Dec 31, 2026. (b) If nothing changes, this resolves No: every unit built so far is in Tesla's own robotaxi fleet, more than 300 cars in Austin with Dallas expansion. (c) No path: Tesla's year-end \"customers\" target either slips or is met by fleet or commercial buyers through the interest form, which the rules exclude. Other No routes are a delivery that is undisclosed or not priced at $30k or less, or Tesla holding back public sales while NHTSA's FMVSS audit and Special Order are open. (d) Yes path: Musk honours his February \"Yes\" on the MKBHD bet with a token December listing at $29,999 or less in Austin or Dallas and a handover to a member of the public. Lenient resolvers would then accept it as retail. The anchor is Polymarket at 41%, but the spread is very wide (26/56) and volume thin. The recent +27pt jump appears to reflect the Q3-call \"trying to get Cybercabs to customers\" comment. That comment was effort-level and gave no price; Musk also said the \"vast majority\" will stay Tesla-owned. Given the strict retail and listed-price criteria, the open regulatory probe, Tesla's history of missed price and timeline targets, and no sign of a public sales channel, I price Yes well below the market, while leaving real room for a bet-driven stunt sale.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6278",
+   "has_trace": true
+  },
+  {
    "id": 5023,
    "scanned_at": "2026-10-18T10:10:11.083564",
    "date": "2026-10-18",
@@ -17355,6 +17411,20 @@
  ],
  "Will Trump and Putin not meet?": [
   {
+   "id": 6287,
+   "scanned_at": "2026-11-03T08:18:23.417223",
+   "date": "2026-11-03",
+   "agent": 18.5,
+   "market_price_t0": 15,
+   "edge": 0.035,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.18, 0.19). (0) Resolution check: no source shows a Trump–Putin in-person meeting since Alaska on 15 Aug 2025, so the market is unresolved. A qualifying interaction still has to happen at APEC Shenzhen (Nov 18–19) or the Miami G20 (Dec 14–15). (a) About eight weeks remain before the Dec 31 deadline. (b) If nothing changes, Yes ('no meeting') wins. However, Trump's APEC attendance is reported as firm and Putin is 'slated' to go (Lavrov for Xi talks; the NYT on Nov 3). (c) NO-meeting scenario: Putin skips Shenzhen or the two avoid direct contact there. He then declines Miami, consistent with Bloomberg's 'very slim' report and Ushakov making the G20 trip depend on Shenzhen. Trump's 'not necessarily in person' hedge points to calls rather than meetings. (d) Meeting scenario: both attend APEC and at least greet each other, as Ushakov said they would, and the rules count a handshake or brief exchange. The Danang 2017 precedent shows a brief APEC encounter happens even without a formal bilateral. The market anchor is 15%, and the related 'Trump, Putin, Xi seen together' market at 89% reinforces high expected co-attendance. I shade slightly toward Yes at 18%, because the Kremlin has repeatedly floated meetings that did not happen, Putin's attendance is not officially final, and the two December chances are correlated.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6287",
+   "has_trace": true
+  },
+  {
    "id": 5720,
    "scanned_at": "2026-10-27T06:32:35.409653",
    "date": "2026-10-27",
@@ -17602,6 +17672,20 @@
   }
  ],
  "Trump meets with Putin by December 31?": [
+  {
+   "id": 6271,
+   "scanned_at": "2026-11-03T04:09:14.263786",
+   "date": "2026-11-03",
+   "agent": 79,
+   "market_price_t0": 85,
+   "edge": -0.05999999999999994,
+   "confidence": 0.58,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.78, 0.80). (0) Not met: credible reporting as of Nov 2–3 still names Anchorage (Aug 15, 2025) as the last in-person meeting, and nothing makes YES impossible. (a) About eight weeks remain, with two venues: APEC Shenzhen (Nov 18–19) and G20 Miami (Dec 14–15). (b) Status quo: nothing is scheduled; Peskov says there are no confirmed agreements, Ushakov says only a trilateral with Xi is agreed 'in principle', and a senior US official told the WSJ Trump had not agreed. APEC is the main path: if both attend, a handshake that counts under the rules is very likely (Danang 2017 precedent). Trump's attendance (secondary White House reports, accepted Xi's invitation) is about 85–90% and Putin's (expected per Ushakov, itinerary 'being finalized') about 85%, giving roughly 0.68–0.72. Miami adds a few points: Putin has skipped G20s since 2019, needs a sanctions exception, and Moscow ties the decision to Shenzhen. (c) NO: Putin skips Shenzhen or Trump's Asia trip changes, then Putin declines Miami. (d) YES: both attend Shenzhen and Xi hosts a trilateral, a pull-aside, or a gala-dinner or photo handshake. Market anchor is 85% and the related 'Trump, Putin and Xi seen together' market is 89%; I shade slightly lower to 0.78 for no-show or Budapest-style collapse risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6271",
+   "has_trace": true
+  },
   {
    "id": 5705,
    "scanned_at": "2026-10-27T03:03:39.917923",
@@ -20324,7 +20408,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-02T23:06:30.212Z",
+  "last_sync": "2026-11-03T10:51:50.111Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -23374,6 +23458,20 @@
   }
  ],
  "Will Revolut launch a USD stablecoin in 2026?": [
+  {
+   "id": 6292,
+   "scanned_at": "2026-11-03T09:40:50.981787",
+   "date": "2026-11-03",
+   "agent": 10,
+   "market_price_t0": 21.5,
+   "edge": -0.11499999999999999,
+   "confidence": 0.62,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.10) after one crux research pass. (0) Resolution check: no source shows a Revolut USD stablecoin live or even announced as of Nov 3, 2026. Revolut's only own-branded token is EURR, a euro coin issued by Bridge and rolled out from Aug 26, and an October stablecoin list shows only EURR for Revolut. (a) About 8 weeks remain until the Dec 31, 2026 deadline, and an actual transferable or tradable launch is required, not an announcement. (b) Status quo is NO. The only documented dollar route is Revolut Bank US: it has only conditional OCC approval, is targeted for H1 2027, and the GENIUS Act and OCC final rule take effect Jan 18, 2027. Revolut's stated 2026 roadmap is wider EEA rollout of EURR, with GBP testing in the FCA sandbox. (c) NO scenario: Revolut keeps offering third-party USDC with 1:1 conversion, expands EURR, and saves a USD token for the 2027 US bank launch. (d) YES scenario: Revolut uses Bridge's Open Issuance, which can launch a coin \"in just a few days\", to ship a Revolut-branded USD token for non-US or US users in December without warning. This is technically feasible but has zero public signals: no waitlist, no testnet, no named issuer. EURR's tiny supply (€1.7M) also gives Revolut little urgency. The market sits at 21.5% (bid 18 / ask 25) after falling from about 33-35% in the past week. The 2025 sibling market resolved NO, and Revolut's dollar-coin rumours have slipped for two years. I shade below the market to about 10%, keeping some weight for a surprise Bridge-style launch and for thin search coverage of the most recent days.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6292",
+   "has_trace": true
+  },
   {
    "id": 5573,
    "scanned_at": "2026-10-25T09:38:39.112007",
@@ -30313,6 +30411,20 @@
  ],
  "Will the next Fable model (5.2+) debut at a score of at least 1510 by June 30, 2027?": [
   {
+   "id": 6261,
+   "scanned_at": "2026-11-03T01:44:52.037347",
+   "date": "2026-11-03",
+   "agent": 85.5,
+   "market_price_t0": 88,
+   "edge": -0.025000000000000022,
+   "confidence": 0.64,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.85, 0.86). (0) Not resolved. Arena's own Hugging Face dataset snapshot of the no-style-control text board (2026-10-28) has no Fable row at version 5.2 or higher. Its Fable rows are Fable 5.1 (Max) at about 1514 and Fable 5 (High) at about 1492, and trackers confirm no Fable 5.5 has been announced as of Nov 2. (a) About 8 months remain until the June 30, 2027 deadline. (b) Status quo: if no qualifying Fable is listed, the market resolves No. Release markets, though, price a Fable 5.2+ at 96% by Dec 31, 2026, and leaks describe Fable 5.5 being A/B tested with users and possibly launching in early November. (c) NO: Anthropic ships only Mythos 5.5 or renames the line. Or the model is gated and never shows a non-AutoEval row. Or early-vote noise of about ±10 puts its day-after score below 1510. (d) YES: Fable 5.5 launches in Nov–Dec, Arena lists it at once, and it debuts above its predecessor. On the resolution view that predecessor already sits at about 1514, and Opus 5.5 is at about 1516. The 1510 line is therefore below where a new Fable would likely land; the 1502–1509 figures in the reports come from the style-controlled view. The 88% market anchor is reasonable. I shade slightly lower for naming and gating risk, for possible noise on the noon-next-day reading, and because the view distinction rests on one secondary table plus the HF dataset.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6261",
+   "has_trace": true
+  },
+  {
    "id": 5700,
    "scanned_at": "2026-10-27T01:38:02.481592",
    "date": "2026-10-27",
@@ -30342,6 +30454,20 @@
   }
  ],
  "Will Papertrade launch a token by December 31, 2026?": [
+  {
+   "id": 6295,
+   "scanned_at": "2026-11-03T10:22:10.659219",
+   "date": "2026-11-03",
+   "agent": 6,
+   "market_price_t0": 7.5,
+   "edge": -0.015,
+   "confidence": 0.76,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) Resolution check: the condition is not met. PAPER was minted on-chain from Oct 10 but cannot be transferred and can only be staked or unstaked. That fails the 'actively and publicly tradable' clause. The third-party PAPER perps were synthetic, which the rules exclude, and Paragon and Aster have closed them. Docs updated Oct 21 and press through about Oct 26 confirm no spot market exists.\n(a) About 8 weeks remain until 11:59 PM ET on Dec 31, 2026.\n(b) Status quo is NO. On Oct 19 the team said it has no plans to allow transfers, citing a structural risk that a PAPER perp lets attackers short the bankroll. It held that position through backlash, including from Delphi, and posted nothing reversing it after Oct 24.\n(c) NO scenario: PAPER stays locked as a revenue-claim token while the team works on fees, open-interest limits and the issuance curve, and the year ends with no transferable token.\n(d) YES scenario: falling volume (about -90%) and TVL (from $102M to $26M) push the team to add a delayed oracle or pool caps. It would then enable transfers via a 7-day timelock and get a DEX listing by late December. A weaker YES path is a lenient resolver counting the Oct 10 mint, but the market's collapse from 91.5% to 7.5% suggests traders already reject that reading.\nThe Polymarket anchor is 7.5% (bid 7, ask 8). I see no new information to move it, so I shade slightly lower to about 6% given the structural rationale and the absence of any reversal signal.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6295",
+   "has_trace": true
+  },
   {
    "id": 5147,
    "scanned_at": "2026-10-20T00:07:21.298937",
@@ -31107,6 +31233,20 @@
  ],
  "Military action against Saudi Oil Pipeline (East-West) by November 30?": [
   {
+   "id": 6290,
+   "scanned_at": "2026-11-03T08:59:45.383051",
+   "date": "2026-11-03",
+   "agent": 34,
+   "market_price_t0": 38.5,
+   "edge": -0.044999999999999984,
+   "confidence": 0.5,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.34, 0.34). (0) Not resolved. No source shows a qualifying impact since the market opened on Oct 7. The contested Khurais hit on Oct 4 predates the window. The Houthi pipeline claims of Oct 20, 23, 24 and 26 were never confirmed by Saudi Arabia, and Saudi statements described interceptions and debris, which the rules exclude. The market's slide from about 70% to 38% suggests traders do not treat those claims as resolving. (a) About 27 days remain, to Nov 30 at 11:59 PM Riyadh time. (b) Status quo is No: in the 53 days since the Sept 10–11 strike there has been no Saudi-confirmed or independently corroborated impact, and October Yanbu loadings (2.21M bpd) show no Sept-style collapse. (c) No path: Iran-Saudi talks continue, the reported $1B Houthi ceasefire offer holds or claims stay unverified, and US-Iran diplomacy keeps the post-midterm strike pause going. Saudi air defences and the French deployment at Yanbu intercept what gets launched. (d) Yes path: the roughly weekly Houthi or Iraqi-militia strikes put one drone through to a pumping station that Saudi ministries or AFP/Reuters credibly report, as on April 9 and Sept 10. Alternatively, a US strike on Iran after Nov 4 triggers Iranian retaliation against Saudi oil, which Iran has refused to rule out. The base rate is about two confirmed hits in eight months, with a higher tempo now, which points to roughly 25–40% over 27 days. Given the confirmation hurdle and the de-escalation signals, I shade slightly below the 38% market price.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6290",
+   "has_trace": true
+  },
+  {
    "id": 5653,
    "scanned_at": "2026-10-26T08:43:24.701619",
    "date": "2026-10-26",
@@ -31324,6 +31464,20 @@
   }
  ],
  "Total Internet Blackout in Iran by December 31, 2026?": [
+  {
+   "id": 6275,
+   "scanned_at": "2026-11-03T04:52:12.480429",
+   "date": "2026-11-03",
+   "agent": 38.5,
+   "market_price_t0": 44.5,
+   "edge": -0.06,
+   "confidence": 0.46499999999999997,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.39, 0.38). (0) Resolution check: the Cloudflare Radar chart could not be read, and secondary sources (Cloudflare's Q3 summary listing only a Fanap single-network outage, Oct–Nov reporting) show no qualifying blackout since the 26 May partial restoration, so YES still needs a new trigger. (a) About 58 days remain until 31 Dec 23:59 UTC. (b) Status quo is throttled-but-online connectivity, which resolves NO; it held through low-level kinetic exchanges and the 2 Nov Qeshm strike. (c) NO: talks continue, Trump limits action to targeted strikes or none, and Iran uses tiered throttling or power cuts; allowlisted traffic could also keep Cloudflare above 1% of a now-depressed 4-week Max. (d) YES: a broad post-midterm US/Israeli strike campaign (plans reportedly shown to Trump, Netanyahu pressing) triggers a 28 Feb-style cut under a reported standing order, collapsing traffic for days; mass unrest is a smaller second path. I put P(major war resumption by year-end) at about 45–50% and P(qualifying cut | war) at about 75–80%, plus a small unrest path, giving roughly 0.37–0.40. That is slightly below the 45% market, which jumped 18 points in a week on escalation headlines and has a wide spread.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6275",
+   "has_trace": true
+  },
   {
    "id": 5703,
    "scanned_at": "2026-10-27T02:18:25.250470",
@@ -32296,6 +32450,38 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.58, 0.59). (0) Not resolved. The resolution-source read of whitehouse.gov and Wikipedia shows the post vacant since Oct 16, with no permanent successor named as of Nov 1–2. A Trump or White House announcement of a non-interim press secretary must still happen by Dec 31. (a) About 59 days remain. Reporting (Semafor Oct 22, USA Today) says no pick before the Nov 3 midterms, so effectively the whole window is post-election. (b) If nothing changes, the post stays vacant with rotating briefers. The administration tolerated that for about six weeks after Leavitt left, and Trump says he is in \"no rush\", so the status quo resolves No. (d) YES path: after the midterms the search resumes. Wiles and Trump promote Anna Kelly or recruit someone like Jennings, announced by Truth Social. The last search took about 58 days, roughly the same length as the remaining window, and post-midterm reshuffles are a natural moment for it. (c) NO path: Trump's impulsive, personal hiring style, a thinner pool of willing candidates after the five-day Zacharia fiasco, lame-duck and holiday distractions, and comfort with rotating briefers push the pick into 2027. An acting designation would also not count. The market anchor is 62.5%. The sister Nov 30 market at 30.5% implies the crowd expects about 32 points of December hazard, which looks slightly generous given the holiday lull. I shade modestly below the market to 0.58, since there is no named finalist or vetting report.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/6218",
+   "has_trace": true
+  }
+ ],
+ "Carles Puigdemont back in Spain in 2026?": [
+  {
+   "id": 6279,
+   "scanned_at": "2026-11-03T06:15:03.057624",
+   "date": "2026-11-03",
+   "agent": 73.5,
+   "market_price_t0": 74.5,
+   "edge": -0.010000000000000009,
+   "confidence": 0.55,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.75, 0.72). (0) No source shows Puigdemont has entered Spain inside the window. Reporting through 31 Oct to 1 Nov (Catalunyapress, El Nacional) confirms he is still abroad. So the condition is not met, but nothing now makes it impossible. (a) About 58 days remain until 31 Dec 2026. His camp says he will not return before the 29 Nov election, which leaves an effective window of about 32 days, including the Christmas period. (b) If nothing changes, he stays in Waterloo and the market resolves No. But the status quo is moving: Llarena lifted the warrants on 6 Oct and confirmed the amnesty around 19 Oct, and Puig and Comín have both returned without being arrested. (c) NO scenario: he insists on the Supreme Court criminal chamber formally closing the case. That chamber has no deadline and could be delayed by appeals or the holidays. He then times a 'return of the country' for early 2027. (d) YES scenario: after the election, he either treats Llarena's order as enough or the chamber closes the case quickly; Boye spoke of '1-3 weeks' in mid-October. He then crosses in December in a return coordinated with the Mossos, consistent with Crónica Global's 24 Oct report that he will spend Christmas in Girona. I anchor on the Polymarket price of 73.5%. The specific post-election, before-Christmas intent reported by several outlets supports it, while the court-closure dependency and the habitual slippage of timelines limit it. I land slightly above the market, at 75%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6279",
+   "has_trace": true
+  }
+ ],
+ "Blue mega-tsunami in 2026?": [
+  {
+   "id": 6268,
+   "scanned_at": "2026-11-03T03:28:58.641398",
+   "date": "2026-11-03",
+   "agent": 30.5,
+   "market_price_t0": 38.5,
+   "edge": -0.08000000000000002,
+   "confidence": 0.5,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.30, 0.31) after one crux research pass. (0) Not resolved: today is Election Day and no returns appear in any source. (a) Most races resolve within days; runoffs (GA Dec 1, LA Dec 12) and caucus announcements can run to Jan 4. (b) Status quo misses both thresholds: models center on ~230-241 D House seats (DDHQ 241, ElectIt 239, Poliwave 230; Cook 222 at least Lean D) and 52-53 D Senate seats. (c) NO: polls roughly accurate at D+8-9, giving ~235-245 House and 52-53 Senate, with Democrats losing at least one of TX/IA/KS/AK and Osborn not counting. (d) YES: a correlated ~2-point miss toward Democrats (NYT/Siena D+11, AtlasIntel D+14, special-election overperformance) yields ElectIt's 'normal error' ~250/54 case. Polymarket's 'R below 190' at 43.5% implies ~33% for 250+ House; Senate control at 76.5% implies ~35-40% for 54+; correlation puts the joint near 20-25%, and Kalshi's looser 240/54 was 27% on Oct 28. The thin market's 39% looks rich versus these, but I shade toward it given strong late momentum and possible information I lack, landing at 0.30.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6268",
    "has_trace": true
   }
  ]

@@ -11,7 +11,7 @@
  */
 
 const CFG = window.PA_CONFIG || {};
-const DATA_API = 'https://data-api.polymarket.com';
+const DATA_API = 'https://data-api.polymarket.com/v2';
 const CLOB = 'https://clob.polymarket.com';
 const GAMMA = 'https://gamma-api.polymarket.com';
 const WS_URL = 'wss://ws-subscriptions-clob.polymarket.com/ws/market';
@@ -98,19 +98,50 @@ function tween(el, to, fmt, ms = 500) {
 }
 
 /* ══════════════ chain reads ══════════════ */
-async function fetchPositions() {
-  return jget(`${DATA_API}/positions?user=${CFG.wallet}&limit=500`);
-}
-async function fetchActivity() {
-  // One page covers years at the current trade rate; page anyway so the
-  // dashboard doesn't silently truncate history once it grows past 500.
+/* Data API v2 (v1 was retired with HTTP 410): responses are wrapped as
+ * { data: [...], pagination: { has_more, next_cursor } } and fields are
+ * snake_case. The adapters below map v2 records back onto the v1 field names
+ * the rest of this file was written against, so nothing downstream changes. */
+async function fetchAllPages(path) {
   const out = [];
-  for (let offset = 0; offset < 5000; offset += 500) {
-    const page = await jget(`${DATA_API}/activity?user=${CFG.wallet}&limit=500&offset=${offset}`);
-    out.push(...page);
-    if (page.length < 500) break;
+  let cursor = null;
+  for (let i = 0; i < 20; i++) {  // cursor-only paging; `offset` is rejected
+    const page = cursor ? `&cursor=${encodeURIComponent(cursor)}` : '';
+    const j = await jget(`${DATA_API}/${path}?user=${CFG.wallet}&limit=500${page}`);
+    const rows = Array.isArray(j) ? j : j.data || [];
+    out.push(...rows);
+    const pg = j.pagination || {};
+    if (!pg.has_more || !pg.next_cursor || !rows.length) break;
+    cursor = pg.next_cursor;
   }
   return out;
+}
+const v2Position = p => ({
+  proxyWallet: p.proxy_wallet, asset: p.token_id, conditionId: p.condition_id,
+  size: p.current_size, avgPrice: p.avg_price,
+  initialValue: p.entry_cost_usdc, entryFeesUsdc: p.entry_fees_usdc,
+  grossInitialValue: p.total_cost_usdc,
+  curPrice: p.current_price, currentValue: p.current_value,
+  cashPnl: p.unrealized_pnl, percentPnl: p.percent_pnl, realizedPnl: p.realized_pnl,
+  redeemable: p.redeemable, mergeable: p.mergeable, negativeRisk: p.negative_risk,
+  title: p.title, slug: p.slug, icon: p.icon, eventSlug: p.event_slug,
+  outcome: p.outcome, outcomeIndex: p.outcome_index,
+  oppositeOutcome: p.opposite_outcome, oppositeAsset: p.opposite_token_id,
+  endDate: p.end_date, status: p.status,
+});
+const v2Activity = a => ({
+  proxyWallet: a.proxy_wallet, timestamp: a.timestamp, conditionId: a.condition_id,
+  type: a.type, size: a.size, usdcSize: a.usdc_size,
+  transactionHash: a.transaction_hash, price: a.price,
+  asset: a.token_id || '', side: a.side, outcomeIndex: a.outcome_index,
+  title: a.title, slug: a.slug, icon: a.icon, eventSlug: a.event_slug,
+  outcome: a.outcome,
+});
+async function fetchPositions() {
+  return (await fetchAllPages('positions')).map(v2Position);
+}
+async function fetchActivity() {
+  return (await fetchAllPages('activity')).map(v2Activity);
 }
 async function fetchCash() {
   const data = '0x70a08231' + CFG.wallet.toLowerCase().replace(/^0x/, '').padStart(64, '0');

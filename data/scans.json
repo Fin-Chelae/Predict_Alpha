@@ -20408,7 +20408,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-03T10:51:50.111Z",
+  "last_sync": "2026-11-03T20:58:26.966Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -31495,6 +31495,20 @@
  ],
  "Will Kimi K3.1 Pro debut at a score of at least 1470 by June 30, 2027?": [
   {
+   "id": 6311,
+   "scanned_at": "2026-11-03T17:21:22.026961",
+   "date": "2026-11-03",
+   "agent": 42.5,
+   "market_price_t0": 44,
+   "edge": -0.015000000000000013,
+   "confidence": 0.45,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.42, 0.43). (0) The condition is not met. Arena's changelog through Nov 2 lists K3.1 Pro (Max) only on WebDev (1692, #8) and Agent Arena (#11). There is no Text listing, and the resolution page itself was blocked by a bot check, so I could not confirm the current Text board. (a) About 8 months remain, until June 30, 2027. (b) If nothing changes, K3.1 Pro never appears on the Text board and the market resolves No. That outcome looks more plausible than usual: Kimi K3 hit Text on launch day, K3.1 did not, and the changelog shows Arena often routes point releases only to WebDev or Agent. (c) NO scenario: Arena never adds K3.1 to Text before Kimi K4 or other releases make it moot. Or it lists the model and the preliminary no-style-control score lands below 1470 in a dense field, which would take a drop of about 18 points from K3 (around 1488, style-controlled) plus some style-control offset or chat regression from agent-focused tuning. (d) YES scenario: Arena adds K3.1 Pro (Max) to Text within weeks, possibly after the open-weights release. It scores within about ±15 of K3's 1485–1489 and shows at least 1470 at noon ET the next day. The market anchor is 44%, after falling from 69% as the Text listing failed to appear. Sibling strikes (≥1480 at 33%, ≥1490 at 8%, top-20 at 23.5%) imply roughly a 55–60% chance of a listing, with scores clustered in 1470–1490 if listed. That matches my read, so I shade slightly below the market for the routing evidence.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6311",
+   "has_trace": true
+  },
+  {
    "id": 5752,
    "scanned_at": "2026-10-27T17:17:03.881372",
    "date": "2026-10-27",
@@ -31526,6 +31540,20 @@
   }
  ],
  "Will the lowest Baton Rouge river level be 6.00 ft or more by November 30?": [
+  {
+   "id": 6309,
+   "scanned_at": "2026-11-03T16:14:08.148723",
+   "date": "2026-11-03",
+   "agent": 46,
+   "market_price_t0": 47.5,
+   "edge": -0.015500000000000014,
+   "confidence": 0.42,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.45, 0.47). (0) Not resolved: USGS series window minimum is 6.83 ft on 9/22 (6.61 ft if 9/21 counts), latest daily mean 8.33 ft on 11/2; Yes needs every daily mean 11/3–11/30 at or above 6.00 ft. (a) About 27 days remain. (b) Status quo favours No: the 11/3 NWS forecast reaches 6.4–6.5 ft by 11/10–13, crosses 6.00 around 11/20–25 and ends near 4.9–5.0 ft on 11/30; upstream gauges (Hickman, Memphis) were still falling with a 1–2 week lag; a Coast Guard low-water notice took effect 11/2; the Missouri adds little. (c) No: the 11/3–5 front (already in the forecast) passes, drier high pressure follows, and recession takes the stage below 6.00 in the final week. (d) Yes: the 10/22 forecast (6.0 ft on 11/4, 3.2 ft by 11/19) has missed low by about 1.5–2 ft; the NWS line includes only 24–48 h of rain; CPC leans wet for the Southeast and Lower Mississippi under strong El Niño; one rise of about 1 ft above the forecast path keeps the stage above 6.00. Against that, 2025 bottomed at 5.32 ft in mid-November and the forecast-trough cushion is only about 0.4 ft. Anchoring on the 46% market price, the forecast's low bias roughly offsets its sub-6.00 endpoint, so I stay near the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6309",
+   "has_trace": true
+  },
   {
    "id": 5749,
    "scanned_at": "2026-10-27T16:02:44.918617",
@@ -32482,6 +32510,54 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.30, 0.31) after one crux research pass. (0) Not resolved: today is Election Day and no returns appear in any source. (a) Most races resolve within days; runoffs (GA Dec 1, LA Dec 12) and caucus announcements can run to Jan 4. (b) Status quo misses both thresholds: models center on ~230-241 D House seats (DDHQ 241, ElectIt 239, Poliwave 230; Cook 222 at least Lean D) and 52-53 D Senate seats. (c) NO: polls roughly accurate at D+8-9, giving ~235-245 House and 52-53 Senate, with Democrats losing at least one of TX/IA/KS/AK and Osborn not counting. (d) YES: a correlated ~2-point miss toward Democrats (NYT/Siena D+11, AtlasIntel D+14, special-election overperformance) yields ElectIt's 'normal error' ~250/54 case. Polymarket's 'R below 190' at 43.5% implies ~33% for 250+ House; Senate control at 76.5% implies ~35-40% for 54+; correlation puts the joint near 20-25%, and Kalshi's looser 240/54 was 27% on Oct 28. The thin market's 39% looks rich versus these, but I shade toward it given strong late momentum and possible information I lack, landing at 0.30.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/6268",
+   "has_trace": true
+  }
+ ],
+ "Crypto Market Structure legislation becomes law in 2026?": [
+  {
+   "id": 6321,
+   "scanned_at": "2026-11-03T20:29:32.041010",
+   "date": "2026-11-03",
+   "agent": 4.5,
+   "market_price_t0": 7.2,
+   "edge": -0.026999999999999996,
+   "confidence": 0.64,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.04). (0) No source shows the condition met. Congress.gov snippets and secondary reporting still list the Sept 15, 2026 motion to reconsider as the latest action on H.R.3633, after cloture on the motion to proceed failed 49–50. No law has been signed. (a) About 8 weeks remain until Dec 31. The Senate has roughly 22 session days, with a Thanksgiving recess and a Dec 11 funding cliff that takes floor time first. (b) If nothing changes, no bill is enacted and the bill dies on Jan 3, so the market resolves No. (c) The most likely path to No is a Democratic midterm gain (Kalshi ~94% House, ~74% Senate per TD Cowen). That removes Democrats' incentive to settle the ethics dispute. Lame-duck time then goes to the CR or omnibus, NDAA and permitting, and the bill expires. (d) The path to Yes needs several steps before Jan 3: Republicans keep or lose the Senate and want to lock in a deal; the White House concedes on ethics language; the seven Democratic negotiators supply 60 votes; and the Senate passes a merged text. The House would then have to pass that text and Trump sign it. A rider on must-pass legislation is a small alternative path. The anchor is this thin market's 7.2% (bid 6%, ask 8%, $53K volume). The far more liquid sibling, 'Clarity Act signed into law in 2026' ($24.8M volume), trades at 3.1%. This market's broader definition adds little, since CLARITY is effectively the only vehicle. Post-vote expert estimates (DeFi Rate 7–9%, Kalshi ~8% in September) predate eight more weeks with no activity. I place the probability between the two prices at about 4.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6321",
+   "has_trace": true
+  }
+ ],
+ "Fetterman leaves the Democrats by December 31, 2026?": [
+  {
+   "id": 6318,
+   "scanned_at": "2026-11-03T19:48:47.829312",
+   "date": "2026-11-03",
+   "agent": 10,
+   "market_price_t0": 13.1,
+   "edge": -0.0305,
+   "confidence": 0.55,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.10). (0) No source shows the condition met. His official X account through Nov 3 has only routine posts, and no outlet reports a formal departure. A YES would need a formal announcement or a consensus of credible reporting before Dec 31. (a) That leaves about 58 days, starting on Election Day. (b) If nothing changes, the market resolves NO. He has repeatedly denied he will leave (May 7 WaPo op-ed, Sept 15 \"I'm not going to be a Republican!\", Sept 27 \"no reason to\"). His only stated trigger is an official anti-Israel platform, which cannot happen before the deadline. Next to those denials he said \"let's revisit after the midterm,\" which puts a news hook inside the window. (c) NO scenario: Democrats win a clear majority, as markets give 74-77% odds. His leverage then disappears, and any 2028 positioning can wait until well after the January organizing session. (d) YES scenario: the Senate lands 51-49 Democratic or the GOP holds narrowly. Trump and Thune's courtship, plus the endorsement and money reportedly offered, then pushes him to declare independence or switch in Nov-Dec. The 2028 primary threat (Deluzio, 22% approval among Democrats) adds to the pressure. Weighing these: about 3% if Democrats win clearly, and about 15% each if he becomes pivotal or Republicans hold. That gives roughly 8-10%, a bit below the 13% market price (bid 11 / ask 15). The Kalshi multi-person market sat at 16% in a snippet, but the Kalshi Apr 2027 strike at 21% suggests most of the risk falls after this deadline. I land near 10%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6318",
+   "has_trace": true
+  }
+ ],
+ "Will Iran sabotage undersea internet cables by December 31?": [
+  {
+   "id": 6298,
+   "scanned_at": "2026-11-03T11:05:09.938879",
+   "date": "2026-11-03",
+   "agent": 12,
+   "market_price_t0": 15.5,
+   "edge": -0.035,
+   "confidence": 0.575,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.12). (0) The condition has not been met. Credible reporting through Nov 1–3 (Hudson, Al Jazeera, CBS, CircleID) shows escalating IRGC threats against the seven Hormuz cables, but no physical cable damage attributed to Iran or a listed proxy since the market opened Oct 12, or in eight months of war. (a) About 58 days remain until Dec 31, plus a possible 3-day attribution window. (b) The status quo is No. Every cable threat is explicitly conditional on a renewed large US/Israeli strike campaign, and that has not started. Qatar-mediated talks are active and Trump reportedly wants to let negotiations play out. Iran has so far preferred fees, licensing and repair control, which give it leverage only while the cables stay intact. (c) NO: talks drag on or produce a deal, Trump holds off on Netanyahu's push for post-midterm strikes, and ongoing ship and mine attacks near Hormuz and in the Red Sea cause no attributable cable fault. (d) YES: post-midterm US/Israeli strikes trigger the reported Iranian plan (Reuters, Oct 23–24) to cut Gulf cables and block repairs. A second, less likely route is a Houthi or IRGC-struck ship dragging its anchor across a cable corridor, as with the Rubymar, with credible attribution. My rough decomposition: about 35% that major strikes resume in the window, times about 25–30% that Iran then executes a qualifying, attributed cut, plus about 2–3% from incidental ship-attack damage. That gives roughly 11–13%. This is slightly below the market's 15.5%, which itself fell 9.5 points this week on thin volume of about $44K.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6298",
    "has_trace": true
   }
  ]

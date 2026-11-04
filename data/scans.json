@@ -1441,6 +1441,20 @@
  ],
  "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?": [
   {
+   "id": 6344,
+   "scanned_at": "2026-11-04T05:00:00.831556",
+   "date": "2026-11-04",
+   "agent": 74.5,
+   "market_price_t0": 75.5,
+   "edge": -0.010000000000000009,
+   "confidence": 0.55,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.74, 0.75). (0) Not resolved yet. FRED DFEDTARU shows the upper bound at 4.00% since the Sep 17 hike, held through Nov 3 after the Oct 28 hold. YES still needs the Dec 9 FOMC statement to raise the upper bound to exactly 4.25%. (a) About 35 days remain, with the Oct jobs report (Nov 6), Oct CPI (Nov 10), the October minutes, Fed speeches and the Nov jobs report (Dec 4) still to come. (b) Status quo is the Committee's stated path. The September SEP median of 4.1% for end-2026 and 16 of 18 participants projecting a higher year-end rate both imply a December hike. Two hawkish dissents in October (Cook and Hammack), public calls from Logan and Musalem, and a 100/100 Reuters economist poll point the same way. (c) NO path: soft October/November payrolls, sliding consumer confidence and higher long yields lead Williams, Jefferson or Warsh to signal patience, as they did before October. That October hike was priced near 69% a month out and still slipped, so the Fed could skip to the March SEP meeting. A thin 50bp tail would also resolve NO. (d) YES path: hot October CPI driven by $100+ oil and ISM prices near 2022 highs, plus a credibility motive after the midterms, delivers the gradual every-other-meeting 25bp hike. The Polymarket anchor of 75.5% matches CME/OIS readings of roughly 70–85%. I see no unpriced information, so I shade only slightly for event risk and the October-skip precedent.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6344",
+   "has_trace": true
+  },
+  {
    "id": 5506,
    "scanned_at": "2026-10-24T12:40:24.505551",
    "date": "2026-10-24",
@@ -1702,6 +1716,20 @@
   }
  ],
  "Will Trump be impeached before his term ends?": [
+  {
+   "id": 6346,
+   "scanned_at": "2026-11-04T05:37:24.631928",
+   "date": "2026-11-04",
+   "agent": 80.5,
+   "market_price_t0": 84.5,
+   "edge": -0.039999999999999925,
+   "confidence": 0.55,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.81, 0.80). (0) Not resolved. The resolution-source read and congress.gov show every second-term impeachment resolution was tabled under the Republican majority, most recently H.Res.1486 on 2026-09-15. Cohen's H.Res.1575 sits in Judiciary. YES still requires a House floor vote passing articles before 2029-01-20.\n(a) About 26 months remain. Of that, about 24.5 months fall under the new Democratic House seated 2027-01-03.\n(b) The key precondition flipped on election night. NBC projects a Democratic House of roughly 255 seats, and Democrats also took the Senate. The status quo still requires leadership to choose impeachment. Jeffries is noncommittal, Aguilar answered 'No', and CSMonitor reports Hegseth is the preferred target.\n(c) NO scenario: leadership runs an affordability agenda plus committee investigations. Subpoena litigation drags through 2027, and 2028 election caution keeps articles off the floor. Member-filed privileged resolutions get referred to Judiciary and die.\n(d) YES scenario: White House stonewalling of subpoenas, Iran-war or corruption findings, and pressure from the base set things in motion. About 88% of Democrats want impeachment, 147 members opposed tabling even in the minority, and Adam Smith has flipped. That leads to Raskin-led articles in late 2027 or 2028, mirroring the 11-month 2019 timeline. A lame-duck vote after November 2028 is also possible.\nThe market sits at 84.5% (bid 81/ask 88), up 15 points in 30 days on the House flip. Sibling markets priced about 74% by end-2027 and about 56-66% for Kalshi's late-2027 dates. Extending to January 2029 plausibly lifts that to the high 70s or low 80s. Given documented leadership reluctance, I shade slightly below the mid to about 81%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6346",
+   "has_trace": true
+  },
   {
    "id": 2066,
    "url": "https://forecast.agenticlearning.ai/scans/v2/2066",
@@ -3098,6 +3126,20 @@
   }
  ],
  "Will Xi meet with Takaichi by December 31, 2026?": [
+  {
+   "id": 6393,
+   "scanned_at": "2026-11-04T19:00:11.144422",
+   "date": "2026-11-04",
+   "agent": 70,
+   "market_price_t0": 68,
+   "edge": 0.019999999999999907,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.70, 0.70). (0) Not resolved yet. No Xi–Takaichi interaction has occurred since the October 31, 2025 Gyeongju talks, which likely predate this market. Everything hinges on the Shenzhen APEC leaders' meeting on Nov 18-19, which Xi hosts.\n(a) About eight weeks remain until the Dec 31 deadline. APEC is in two weeks, and the G20 in Miami (Dec 14-15) is a weak second route.\n(b) Status quo: Beijing has refused a formal bilateral, offering Li Qiang instead per SCMP on Oct 8, and Tokyo has declined that substitute. A formal meeting is unlikely. However, the criteria count any handshake or exchange of words. APEC hosts traditionally greet every leader individually at the welcome ceremony or gala, often with a photographed handshake, as Xi did with Abe in 2014. If Takaichi attends, some qualifying contact is likely unless Beijing stages a deliberate and unusual snub.\n(c) NO: Diet business forces Takaichi to skip or shorten the trip, or China stages the event so contact amounts to no more than a group photo or proximity. Chinese downplaying, as with the July Motegi–Wang episode, would also muddy the 'consensus of credible reporting.'\n(d) YES: Takaichi attends, and Xi greets her at the arrival line or dinner with a handshake and a few words, which Japanese media widely report. A brief pull-aside like the 2014 precedent is also possible.\nI put Takaichi's attendance at about 85% and a reported qualifying interaction given attendance at about 82%. That gives roughly 0.70, slightly above the 0.68 market price, which has drifted down 5 points this week on the bilateral-refusal news.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6393",
+   "has_trace": true
+  },
   {
    "id": 4852,
    "scanned_at": "2026-10-16T07:04:48.794236",
@@ -16091,6 +16133,20 @@
  ],
  "AI data center in space by December 31, 2027?": [
   {
+   "id": 6384,
+   "scanned_at": "2026-11-04T17:09:37.654935",
+   "date": "2026-11-04",
+   "agent": 16,
+   "market_price_t0": 20.5,
+   "edge": -0.044999999999999984,
+   "confidence": 0.55,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.16, 0.16). (0) No source shows the condition met. Every payload flown so far is far below 100 data-center-grade accelerators: Starcloud-1 carried one H100, Google's Suncatcher four TPUs, and Kepler's cluster uses Orin edge GPUs. (a) About 14 months remain, to 2027-12-31 11:59 PM ET. (b) If nothing changes, the market resolves No. Starcloud-2 (about 8 kW, a handful of GPUs, slipped into 2027) and Orbital's single-GPU demo cannot clear the bar on power or chip count, and Google's 2027 pair are 4-TPU-class prototypes. (c) NO scenario: SpaceX's AI1/Starmind slips into 2028, which its own prospectus language ('as early as 2028') already points to. Alternatively, the first unit flies alone with 72 Rubin GPU packages and the resolver does not count CPUs or dies. Starship is still in the test phase, and space-rated Vera Rubin hardware lags. (d) YES scenario: Starship reaches routine operations in 2027 and SpaceX launches one or more AI1 satellites in Q4 2027, as Musk and Shotwell say. Either two fly together, or the resolver accepts 72 GPUs plus 36 Vera CPUs, or dual-die counting, as 100 or more processors. The market sits at 20.5% and has drifted down (-4.5% over 7 days). Given Musk's slip record, the target falling in the final quarter, the prospectus pointing to 2028, and the 72-versus-100 ambiguity, I shade slightly below the market to about 16%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6384",
+   "has_trace": true
+  },
+  {
    "id": 1857,
    "scanned_at": "2026-08-24T14:31:19.434808",
    "date": "2026-08-24",
@@ -16796,6 +16852,20 @@
   }
  ],
  "Nothing Ever Happens: 2026": [
+  {
+   "id": 6358,
+   "scanned_at": "2026-11-04T09:46:16.077377",
+   "date": "2026-11-04",
+   "agent": 85,
+   "market_price_t0": 83,
+   "edge": 0.020000000000000018,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.86, 0.84). (0) No trigger has been confirmed as of Nov 4, 2026, so the market is not already resolved. USGS shows no M8.5+ quake, JPL's largest fireball is 1.1 kt, Bitcoin has ranged $57.8k–$98k on Binance, the Iranian regime persists (succession is excluded by the rules), and no US ground seizure of Iranian land has been reported. The Senate supermajority trigger is dead after Democrats won 54–44. The Greenland security pact keeps Danish sovereignty, so it does not meet the rules' sovereignty-transfer bar. (a) About 8 weeks remain until Dec 31, 2026. (b) If nothing changes, the market resolves Yes. (c) NO scenario: after the midterms Trump resumes major strikes on Iran, and Marines aboard the Makin Island ARG seize Kharg, Abu Musa or Qeshm. Under the 'any portion' wording that resolves No. Smaller paths are a regime break or tail events: Trump announcing an exit, a Taiwan or NATO incursion, an M9 quake, a VEI6 eruption. (d) YES scenario: Iran stays at air and naval pressure plus Qatari-mediated talks, as it has for 8 months through several ceasefires and collapses. Trump says there are 'no immediate plans', and the other triggers stay quiet. Summing the individual risks gives roughly 11–15%: Iran ground operation ~5%, regime fall ~2%, Trump out ~1.5–2%, Taiwan ~1%, Greenland/NATO/Xi ~1.5%, natural events ~0.5%. The related Polymarket longshot markets (Taiwan 1.75%, Trump out 3.95%, regime fall 4.5%) likely carry longshot bias. I therefore sit slightly above the 83% anchor at 86%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6358",
+   "has_trace": true
+  },
   {
    "id": 5522,
    "scanned_at": "2026-10-24T17:57:05.355178",
@@ -19043,6 +19113,20 @@
  ],
  "Edi Rama out as Albania PM in 2026?": [
   {
+   "id": 6340,
+   "scanned_at": "2026-11-04T04:21:51.852007",
+   "date": "2026-11-04",
+   "agent": 9.5,
+   "market_price_t0": 13.5,
+   "edge": -0.04000000000000001,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.09). (0) The condition is not met. Wikipedia and Euronews (3 Nov 2026) show Rama still PM and speaking at the Enlargement Summit, and he has repeatedly and explicitly refused to resign. (a) About 8 weeks remain until 31 Dec 2026. (b) The status quo is NO: Rama's Socialists hold 83 of 140 seats and govern alone. No Article 105 constructive no-confidence motion, snap-election plan or resignation signal has been reported, and he talks of a 'contract' with voters to 2029. (c) NO scenario: the leaderless student protests grind on and are contained through policing, fines and concessions, as happened with the 2017–2019 waves, the Nov 2025–May 2026 opposition wave and the 250,000-strong June peak. Defections stay limited to individuals like Koçeku, so Rama sees out the year. (d) YES scenario: a shock makes staying costlier than going, and Rama announces a managed handover to another Socialist to protect the EU-2027 timetable. Possible shocks are protest deaths, a SPAK probe triggered by the Veliaj allegations, a bloc of roughly a dozen PS defections, or a health event. An announcement alone resolves YES. The market sits at 13.5% (up 4 points this week). I shade slightly below it because there is no concrete exit mechanism, Rama has a long record of surviving such pressure, and long-dated political-exit contracts tend to overprice tail risk. Still, the largest unrest in decades and early cracks inside the party keep the risk above a normal base rate.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6340",
+   "has_trace": true
+  },
+  {
    "id": 5785,
    "scanned_at": "2026-10-28T04:14:42.997161",
    "date": "2026-10-28",
@@ -20408,7 +20492,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-03T20:58:26.966Z",
+  "last_sync": "2026-11-04T21:19:47.691Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -20828,6 +20912,20 @@
   }
  ],
  "Will Clavicular wear a Yarmulke in 2026?": [
+  {
+   "id": 6330,
+   "scanned_at": "2026-11-04T01:04:51.118661",
+   "date": "2026-11-04",
+   "agent": 32.5,
+   "market_price_t0": 46.5,
+   "edge": -0.14,
+   "confidence": 0.42,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.31, 0.34) after one crux research pass. (0) Resolution check: no source shows the condition met. Polymarket's own AI summary (Nov 3) and all searches find no credible photo or video of Peters in a kippah since July 10. The only yarmulke reports are fan memes, AI fakes, and friends (Nate Kest; the man at the Oct 22 arraignment in UnHerd), and none of those count. (a) About 57 days remain, to Dec 31, 2026 11:59 PM ET. (b) Status quo is No: his calendar is set by the Massachusetts rape case (probable-cause hearing Nov 24), and he surrendered his passport as a bail condition, which effectively removes a return to Israel. His best opportunity, the July Western Wall trip, produced no documented kippah image; the sibling kiss-the-Wall market sat around 6–10% right after the trip, suggesting traders saw no Wall footage. (c) NO: he spends the rest of 2026 on court dates, relationship drama and streams, with no Jewish-themed appearance. (d) YES: a domestic stunt, such as a Hanukkah (early-mid December) or Chabad/Farro content moment on stream, a Jewish friend's event, or a late-surfacing Western Wall clip, gets picked up by outlets that cover him heavily. He is a virality-driven streamer whose audience memes the kippah, so a deliberate stunt is plausible. Anchor: the market is at 46.5% and up 14 points over 30 days, a rise the research could not explain. It may reflect stream-watcher information such as a teased stunt, so I don't fade it fully. Without any identified trigger, the passport surrender and the absence of evidence after ~117 days push me to about 31%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6330",
+   "has_trace": true
+  },
   {
    "id": 5650,
    "scanned_at": "2026-10-26T07:58:06.484563",
@@ -22238,6 +22336,20 @@
   }
  ],
  "US x Cuba military clash in 2026?": [
+  {
+   "id": 6390,
+   "scanned_at": "2026-11-04T18:14:49.209516",
+   "date": "2026-11-04",
+   "agent": 8,
+   "market_price_t0": 10,
+   "edge": -0.020000000000000004,
+   "confidence": 0.56,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.08). (0) No source shows a qualifying clash since the market opened on 2026-02-26. The Feb 25 Villa Clara shootout involved private armed men on a US-registered boat, not US forces, and it predates the window. Nothing has resolved yet. (a) About 8 weeks remain, to Dec 31, 2026. (b) The status quo is a coercion campaign: an oil blockade enforced through Coast Guard and HSI boardings of commercial ships, CIA recruitment, and rally rhetoric. Ten months of this have produced no exchange of force, so the status quo resolves NO. (c) NO scenario: the Iran war, with the Nov 2 Qeshm strikes, keeps absorbing naval assets. Trump's post-Iran 'stop-off' stays a show of force or a Rubio visit, and the Army Reserve's 90–120-day readiness window only matures around year-end. The year ends without kinetic action. (d) YES scenario: after the midterms, the US runs a limited Maduro-style raid or air strikes on Cuban leadership or military targets. Alternatively, a Guantánamo drone incident or a Coast Guard confrontation with a Cuban escort turns violent. The market sits at 10% and has fallen 5.5 points over 30 days. The sibling 'US strike on Cuba by Dec 31' market is at 7.5%, and a strike makes up most of the YES path here. No deployment orders or confirmations exist, and the Iran gating condition is not met. I therefore shade slightly below the anchor, to about 8%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6390",
+   "has_trace": true
+  },
   {
    "id": 5459,
    "scanned_at": "2026-10-23T22:10:49.461660",
@@ -24865,6 +24977,20 @@
  ],
  "Will Benjamin Netanyahu be the next leader out before 2027?": [
   {
+   "id": 6369,
+   "scanned_at": "2026-11-04T13:09:02.762973",
+   "date": "2026-11-04",
+   "agent": 11,
+   "market_price_t0": 11,
+   "edge": 0,
+   "confidence": 0.64,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.10). (0) Not resolved: Netanyahu is caretaker PM after the inconclusive 27 Oct election (Al Jazeera, CNN, Wikipedia), and caretaker status explicitly does not count. (a) About 57 days remain until 31 Dec 2026, with Herzog's consultations only starting 4 Nov. (b) Status quo is No: a failed mandate, a second nominee or a new election all leave Netanyahu in office as caretaker. (c) No: Eisenkot gets the mandate around 11 Nov, talks stall over relying on Arab or Haredi parties (Liberman and Bennett reject this, and the arithmetic needs Ra'am's active support), and the 28+14 days run to about 23 Dec and on into 2027. (d) Yes: the coordinated Bennett/Liberman/Golan/Lapid/Eisenkot bloc secures Ra'am support or UTJ abstention and a minority government is sworn in by mid/late December, faster than any Israeli formation in 20 years (the 50-day mark is 16 Dec; the 2022 pace of 58 days gives about 24 Dec). Death, conviction or another listed leader leaving first are minor factors. The market's 11.5% (down 21 points in 30 days) already reflects this; I nudge slightly up for the real minority-government path.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6369",
+   "has_trace": true
+  },
+  {
    "id": 5812,
    "scanned_at": "2026-10-28T12:50:36.334638",
    "date": "2026-10-28",
@@ -26018,6 +26144,20 @@
   }
  ],
  "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?": [
+  {
+   "id": 6355,
+   "scanned_at": "2026-11-04T08:59:37.210496",
+   "date": "2026-11-04",
+   "agent": 24,
+   "market_price_t0": 24.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.55,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.23, 0.25). (0) Not resolved. FRED and the Fed's open market page show the upper bound at 4.00% after the October 28 hold. The January 26–27, 2027 statement does not exist yet. The December 9 decision will set the baseline for this market. (a) About 12 weeks remain. Before January come the Nov 6 and Dec 4 jobs reports, October and November CPI, and the December FOMC. (b) If nothing changes, January holds and the market resolves No. Kalshi and Polymarket snapshots both have hold as the favourite at about 64–65%. (c) NO: the Fed hikes in December, which CME and Polymarket price at roughly 75–80%. It then pauses in January, in line with Williams' 'one more hike', the dot-plot majority and the reported dislike of back-to-back hikes. Smaller NO routes are a 50 bp move or a strategy-only January meeting. (d) YES: the Fed skips December, as it did in October, on soft payrolls and then catches up in January. Alternatively, hot CPI (3.7% headline, oil above $100) and the hawkish dissent bloc force consecutive 25 bp hikes. A rough decomposition gives about 0.23: 0.77 × ~0.15 if December hikes, plus 0.23 × ~0.5 if it does not. This sits close to the Polymarket anchor of 24.5%, which has drifted down 7 points in 30 days. I shade slightly below the anchor, given that drift and the pause-after-hike pattern.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6355",
+   "has_trace": true
+  },
   {
    "id": 5798,
    "scanned_at": "2026-10-28T08:16:58.673350",
@@ -27490,6 +27630,20 @@
   }
  ],
  "Trump, Putin, and Xi seen together before 2027?": [
+  {
+   "id": 6363,
+   "scanned_at": "2026-11-04T11:28:47.149826",
+   "date": "2026-11-04",
+   "agent": 80.5,
+   "market_price_t0": 87.5,
+   "edge": -0.06999999999999995,
+   "confidence": 0.6,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.81, 0.80). (0) No source shows Trump, Putin and Xi in one frame as of 2026-11-04, so the market has not resolved; the Moscow Times and TRT say the meeting is only 'under discussion'. (a) About eight weeks remain to Dec 31, and nearly all the chance sits in APEC Shenzhen on Nov 18-19, since Putin at the Miami G20 on Dec 14-15 is 'extremely remote' per Bloomberg. (b) Status quo: all three are slated to be in Shenzhen, with Lavrov saying Putin will go, Trump having agreed to attend, and Xi hosting. (d) Yes needs only a shared frame, not a formal trilateral: a Xi-brokered trilateral or handshake, the leaders' family photo, or gala-dinner footage would likely count, as the 2017 Da Nang photo with all three present shows. (c) No: Putin's itinerary was still 'being prepared' on Nov 2, Trump could leave early as he did before the 2025 Gyeongju family photo, China has given only a soft 'maintaining communication' line, Steinmeier said Xi seemed confused by a trilateral, and state media might release only Xi-framed images. I estimate about 85% that all three attend and about 90% that a qualifying frame is then released, plus a small Miami tail, giving roughly 0.81, slightly under the 87.5% market, whose 30-day rise from 60% already prices the attendance confirmations.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6363",
+   "has_trace": true
+  },
   {
    "id": 5725,
    "scanned_at": "2026-10-27T07:55:11.266456",
@@ -30625,6 +30779,20 @@
  ],
  "Will the Iranian regime fall by June 30, 2027?": [
   {
+   "id": 6387,
+   "scanned_at": "2026-11-04T17:45:05.402504",
+   "date": "2026-11-04",
+   "agent": 11.5,
+   "market_price_t0": 16.5,
+   "edge": -0.05000000000000002,
+   "confidence": 0.575,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.12). (0) Resolution check: no source shows the condition met. The resolution-source read (Times of Israel, Bloomberg, Nov 2–4, 2026) shows the Islamic Republic governing, with Mojtaba Khamenei issuing statements and authorizing peace talks. For YES, a clear break in continuity with consensus reporting would still have to occur before the deadline.\n(a) About 8 months remain, to June 30, 2027.\n(b) The status quo is NO. The regime has survived the January uprising, Ali Khamenei's assassination, an 8-month war and the blockade. Its security command has been consolidated, and no defections or lost cities have been reported.\n(c) NO scenario: a negotiated de-escalation, or 'no war, no deal' pressure that the regime absorbs through repression. Less likely, an IRGC-led consolidation or Mojtaba's replacement, both explicitly excluded by the criteria.\n(d) YES scenario: renewed US-Israeli strikes kill the apex leadership. Winter energy shortages and 88% inflation then spark a larger uprising, unpaid security forces defect in major cities, and a transitional council emerges.\nThe Polymarket anchor is 16.5% on thin volume ($39k). The liquid end-2026 contract is at 3.55%, so the market implies roughly 13% hazard for H1 2027 alone. That looks rich against autocratic base rates of 2–5% a year, the INSS (Nov 3) and Treasury assessments that collapse is not imminent, and a fragmented opposition. Markets also overpriced Iranian collapse in 2025, and the Democratic midterm sweep plus Vance's support for diplomacy lowers the odds of a sustained campaign. Offsetting this, stress is extreme and Mojtaba's public absence is a real fragility, so I shade below the market but not to the base rate.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6387",
+   "has_trace": true
+  },
+  {
    "id": 5819,
    "scanned_at": "2026-10-28T15:26:22.859385",
    "date": "2026-10-28",
@@ -30731,6 +30899,20 @@
  ],
  "Will Anthropic IPO by December 31, 2026?": [
   {
+   "id": 6376,
+   "scanned_at": "2026-11-04T15:03:11.271196",
+   "date": "2026-11-04",
+   "agent": 78,
+   "market_price_t0": 80.7,
+   "edge": -0.026499999999999968,
+   "confidence": 0.575,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.78, 0.78). (0) The condition is not met yet. EDGAR shows the public S-1 (Oct 26), and an S-1/A adding Q3 results was filed Nov 2, but there is no price range, SEC effectiveness, Form 8-A or trading. Press on Nov 3–4 says shares are not trading and no date is confirmed. Still needed: a roadshow (legally possible from Nov 10), a price-range amendment, effectiveness, pricing, and shares open on Nasdaq by Dec 31.\n\n(a) About 57 days remain, including the Thanksgiving and late-December slowdowns.\n\n(b) If the current trajectory holds, reports (WSJ, IFR, Bloomberg) point to a debut the week of Nov 16 or Thanksgiving week. That leaves about five weeks of slack. The machinery is in place: a 22-bank syndicate, a Japanese tranche, retail allocations, a Google purchase option and debt financing tied to the IPO.\n\n(c) NO: the AI and tech sell-off deepens (Alphabet had its worst day Oct 29, the Nasdaq slid for three weeks). Institutions push the valuation well below $1.5T. Anthropic, with about $132B in cash, delays as OpenAI and Firmus did, and the roadshow slips past Thanksgiving into January.\n\n(d) YES: the roadshow launches around Nov 10, pricing lands Nov 19–20 at the low end of the range, and ANT trades before Thanksgiving. The SpaceX precedent took 23 days from public filing to first trade.\n\nThe Polymarket anchor is 79%, down about 14 points in a week on valuation and market-turbulence news. Kalshi's looser 'announce by Jan 1' contract sits at 84%, which is consistent. The base rate (median 43 days from public filing to first trade) favors YES, but the recent drop shows real slippage risk the research doesn't fully explain. So I stay near the market, at 0.78.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6376",
+   "has_trace": true
+  },
+  {
    "id": 5302,
    "scanned_at": "2026-10-21T20:40:30.726546",
    "date": "2026-10-21",
@@ -30746,6 +30928,20 @@
   }
  ],
  "Will Google have the best AI model at the end of November 2026?": [
+  {
+   "id": 6396,
+   "scanned_at": "2026-11-04T20:18:59.494683",
+   "date": "2026-11-04",
+   "agent": 71.5,
+   "market_price_t0": 68,
+   "edge": 0.03499999999999992,
+   "confidence": 0.61,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.71, 0.72). (0) Not resolved. Arena's official HF dataset (style-control-off 'text/overall', dated 2026-10-28) ranks Gemini 4 Carbon #1 at 1540, Gemini 4 Argon #2 at 1528.6 and Claude Opus 5.5 #3 at 1515.8, a lead of about 24 points on the exact resolving view. (a) About 26 days remain until the Nov 30 noon ET check. (b) Status quo is Yes. Argon also beats every rival, so it covers an AutoEval or withdrawal risk for Carbon. (c) No path: Anthropic ships Opus 5.6/Fable 5.5 (Polymarket about 61% by Nov 30, roughly 45% early enough to be listed). It would then need to debut above about 1540 style-off, roughly a 25-point jump on a low-vote score; I put this near 20%. Smaller contributions come from OpenAI's GPT-6.2 (large gap), re-baselining, or rank/tie anomalies. (d) Yes path: no rival launch lands or beats Carbon, and Google's own Carbon-H testing and wider rollout only add upside. The market anchor is 68.5% and has priced the rival-release risk. I edge slightly above it because the style-off margin is wider than the style-on headline suggests.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6396",
+   "has_trace": true
+  },
   {
    "id": 5835,
    "scanned_at": "2026-10-28T20:17:13.870905",
@@ -31587,6 +31783,20 @@
  ],
  "Saudi-Houthi ceasefire agreement announced by December 31?": [
   {
+   "id": 6350,
+   "scanned_at": "2026-11-04T07:48:55.325188",
+   "date": "2026-11-04",
+   "agent": 20.5,
+   "market_price_t0": 25,
+   "edge": -0.044999999999999984,
+   "confidence": 0.535,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.21). (0) Resolution check: the condition is not met. CFR's tracker, Khaleej Times (Nov 3) and ISW (Nov 1) all show active Saudi–Houthi strikes, and neither Riyadh nor the Houthis has announced acceptance of any ceasefire. The Omani two-week proposal and the reported $1bn offer remain unconfirmed.\n(a) About 57 days remain until 11:59 PM ET on Dec 31, 2026.\n(b) If nothing changes, the answer is No. The war is escalating: Houthis are attacking Saudi airports and oil sites and are within 80 km of Aden, the coalition has launched its 'neutralise' operation, and Riyadh's official line reportedly rejects a ceasefire.\n(c) NO scenario: US–Iran talks drag on or collapse. Even if de-escalation happens, it takes an informal or excluded form, such as an Iranian-brokered understanding, a unilateral Houthi halt, a Saudi 'welcome', or a pause limited to airports or energy targets. Each of these fails the strict both-sides, dated, general criteria.\n(d) YES scenario: the Qatari US–Iran draft memorandum, reportedly approved by the US and Saudi Arabia, gets signed. Iran then presses the Houthis, and Oman or the UN announces a dated general truce that both sides accept. This would echo the April 2022 truce, which came within days of an escalation peak.\nI anchor on the Polymarket price of 25%, which has held steady around 24–26%. I shade a bit lower because the YES path rests on one unconfirmed report that does not mention Yemen, because the criteria are strict, and because the related 'effective ceasefire by Nov 30' market sits at 17.5%. The real pressure on Riyadh and active multi-party mediation keep a meaningful tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6350",
+   "has_trace": true
+  },
+  {
    "id": 5795,
    "scanned_at": "2026-10-28T07:41:35.515460",
    "date": "2026-10-28",
@@ -31683,6 +31893,20 @@
  ],
  "Will Trump meet with Flávio Bolsonaro in 2026?": [
   {
+   "id": 6381,
+   "scanned_at": "2026-11-04T16:08:26.373730",
+   "date": "2026-11-04",
+   "agent": 14,
+   "market_price_t0": 15.5,
+   "edge": -0.014999999999999986,
+   "confidence": 0.575,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.14, 0.14). (0) Nothing shows the condition already met. The resolution-source read and the research, current to Nov 2–4, find no Trump–Flávio meeting since Oct 27. The only meeting this year was May 26, which falls outside the window. (a) About 8 weeks remain, to Dec 31, 2026. (b) Status quo is No. On Oct 31 at Mar-a-Lago, Trump said he had \"no plans\" to meet Flávio, and Reuters reports Trump won't back Flávio's political claims. Several Florida weekends since Flávio arrived in Miami on Oct 28 have passed without contact. (c) NO path: Democrats, emboldened by their midterm win, push oversight letters (Garcia's Nov 13 records deadline), and the #DeportTheBolsonaros campaign continues. Rubio keeps managing the Lula relationship, and Trump keeps his distance, as he did with Jair's 2023 Florida exile. (d) YES path: the White House's reported low-profile request was tied to the midterms, and that caution fades after Nov 3. Flávio, based about 70 miles from Mar-a-Lago, gets an invite to a club dinner or a holiday event (Thanksgiving, Christmas or New Year's), or a Washington meeting brokered by Eduardo, Rubio or Jason Miller. Trump posts photos, as he did in May. Trump's unpredictability and his evident sympathy (\"stay as long as he wants\", \"we'll see\") keep a real tail. I anchor on the Polymarket price of 15.5%, which has fallen sharply after the \"no plans\" remark. I see no new unpriced information beyond the added oversight pressure, so I shade slightly below the market to 14%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6381",
+   "has_trace": true
+  },
+  {
    "id": 5822,
    "scanned_at": "2026-10-28T16:02:25.888922",
    "date": "2026-10-28",
@@ -31698,6 +31922,20 @@
   }
  ],
  "Will Vladan Đokić win the next Serbia presidential election?": [
+  {
+   "id": 6367,
+   "scanned_at": "2026-11-04T12:35:07.777020",
+   "date": "2026-11-04",
+   "agent": 7,
+   "market_price_t0": 8,
+   "edge": -0.009999999999999995,
+   "confidence": 0.62,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Nothing is resolved yet. Vučić resigned on 27 Sep 2026, which triggers an early presidential election. Brnabić must call it by 27 Nov and hold it by about 27 Dec. No candidate has filed, and stat.gov.rs and RIK show no results. (a) The vote, and any runoff, should fall by early January 2027, well inside the window that closes on 2 May 2027. (b) Status quo is No: Đokić is not declared, and the student plenums voted 43–40 in September to keep him off the Student List. (c) NO: the plenums pick Bodiroga, who is now an MP and described as the frontrunner, or Saičić, and that nominee wins easily, especially if SNS sits out; Đokić stays rector. (d) YES: the plenums reverse the narrow veto and draft Đokić as the best-known, least-polarising figure, citing a Demostat researcher's claim that he has the best ratings, and he wins on the Student List's 53% base against a weak field. I put his chance of being the student nominee at about 10% and his chance of winning if nominated at about 75–80%, which gives about 7–8%. That is consistent with the market's 8% price and its steady 30-day decline, which suggests insiders see his nomination fading. I shade slightly below the market because the veto and the rival frontrunner are the dominant signals.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6367",
+   "has_trace": true
+  },
   {
    "id": 5810,
    "scanned_at": "2026-10-28T12:15:00.292412",
@@ -32558,6 +32796,118 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.12, 0.12). (0) The condition has not been met. Credible reporting through Nov 1–3 (Hudson, Al Jazeera, CBS, CircleID) shows escalating IRGC threats against the seven Hormuz cables, but no physical cable damage attributed to Iran or a listed proxy since the market opened Oct 12, or in eight months of war. (a) About 58 days remain until Dec 31, plus a possible 3-day attribution window. (b) The status quo is No. Every cable threat is explicitly conditional on a renewed large US/Israeli strike campaign, and that has not started. Qatar-mediated talks are active and Trump reportedly wants to let negotiations play out. Iran has so far preferred fees, licensing and repair control, which give it leverage only while the cables stay intact. (c) NO: talks drag on or produce a deal, Trump holds off on Netanyahu's push for post-midterm strikes, and ongoing ship and mine attacks near Hormuz and in the Red Sea cause no attributable cable fault. (d) YES: post-midterm US/Israeli strikes trigger the reported Iranian plan (Reuters, Oct 23–24) to cut Gulf cables and block repairs. A second, less likely route is a Houthi or IRGC-struck ship dragging its anchor across a cable corridor, as with the Rubymar, with credible attribution. My rough decomposition: about 35% that major strikes resume in the window, times about 25–30% that Iran then executes a qualifying, attributed cut, plus about 2–3% from incidental ship-attack damage. That gives roughly 11–13%. This is slightly below the market's 15.5%, which itself fell 9.5 points this week on thin volume of about $44K.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/6298",
+   "has_trace": true
+  }
+ ],
+ "Ukraine signs peace deal with Russia by December 31, 2026?": [
+  {
+   "id": 6394,
+   "scanned_at": "2026-11-04T19:33:32.005656",
+   "date": "2026-11-04",
+   "agent": 5.5,
+   "market_price_t0": 7.5,
+   "edge": -0.019999999999999997,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) Resolution check: as of Nov 3–4, 2026, credible reporting (RFE/RL, Moscow Times, CNBC) shows no Ukraine-signed peace, ceasefire or roadmap instrument with Russia. The only recent arrangements are the Oleshky local truce and the energy ceasefire, and the rules explicitly exclude both. For YES, Ukraine would still have to sign a comprehensive ceasefire or a defined peace-process text with Russia as a party. (a) About 8 weeks remain until the Dec 31, 2026 11:59 PM ET deadline. (b) If nothing changes, the market resolves No. The Nov 10–11 Abu Dhabi round is working-level, its agenda is issue-specific (energy and maritime truce, POWs, children), and no leaders' summit is scheduled. (c) NO scenario: Abu Dhabi yields at most prisoner swaps or a narrow energy or maritime truce. Putin keeps demanding all of Donetsk and insists a comprehensive deal must come before any ceasefire, Russia keeps escalating strikes, and talks drift into 2027. (d) YES scenario: US pressure works on both sides. Washington links its security guarantees to a deal and offers sanctions relief to Moscow, which produces a freeze-on-the-current-line framework based on the 20-point plan. Zelensky signs it at a December leaders' meeting. The market anchor is 7.5%, flat over 30 days. The sibling ceasefire market (12.5%) has broader criteria, and Manifold was around 7% in October. Rubio's 'I don't know if negotiated peace is achievable' and the analysts' consensus of no breakthrough point slightly below the anchor, so I shade to about 5.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6394",
+   "has_trace": true
+  }
+ ],
+ "US-Iran Hormuz Agreement by December 31?": [
+  {
+   "id": 6383,
+   "scanned_at": "2026-11-04T16:37:19.858478",
+   "date": "2026-11-04",
+   "agent": 35.5,
+   "market_price_t0": 38,
+   "edge": -0.025000000000000022,
+   "confidence": 0.46499999999999997,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.36, 0.35). (0) Resolution check: no source shows the condition met. As of Nov 3–4 there is no declarative US or Iranian acceptance of a new agreement, and a senior Iranian official told Reuters the sides \"remain far\" from a deal. The June 2026 MoU predates the market and collapsed on July 8, so a new agreement is needed. (a) About 57 days remain until 11:59 PM ET on Dec 31. (b) Status quo is NO: the strait is effectively closed, and Iran insists its seven conditions be met first (blockade lifted, sanctions waived, frozen funds released). The US wants Hormuz opened and nuclear concessions first. (c) NO scenario: sequencing stays deadlocked. The Rubio/Bessent/Ratcliffe faction keeps economic pressure on, Iran's demands for authority over the strait and transit fees go unmet, and Trump's \"no rush\" posture holds. Or post-midterm strikes or another Qeshm-style exchange reset talks, as happened in July and after the August and October \"close\" episodes. (d) YES scenario: Qatar's draft interim MoU, which the US reportedly approved (single-source Al-Araby report), is announced at the same time by both governments. It would pair partial frozen-asset release and a blockade pause with Iranian commitments to reopen Hormuz within days. That fits the fast April and June precedents and Trump's own \"deal right after the election\" prediction. I anchor on Polymarket's 38% (bid 37 / ask 39). The research adds mixed signals: an unconfirmed report of US approval and an active Qatari process, against Iranian rejection of the US reply and a divided US administration. It also flags a risk that a confidence-building text lacks explicit Hormuz commitments. The sibling market pricing traffic back to normal by Dec 31 at about 10% suggests some skepticism, though an announced deal does not require normal traffic. On balance I shade slightly below market, to 36%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6383",
+   "has_trace": true
+  }
+ ],
+ "Will Alexandria Ocasio-Cortez run for President in 2028?": [
+  {
+   "id": 6378,
+   "scanned_at": "2026-11-04T15:33:37.233501",
+   "date": "2026-11-04",
+   "agent": 34,
+   "market_price_t0": 34,
+   "edge": -5.551115123125783e-17,
+   "confidence": 0.42,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.33, 0.35). (0) Not met: as of Nov 3-4, 2026 no source shows an explicit announcement; WSJ/Political Wire says she 'hasn't publicly announced,' and her Election Day memo deflects with President, Senate and House all listed. (a) About 14 months remain until Dec 31, 2027. (b) Status quo of continued non-commitment resolves Neither, i.e. No, but her stated decision point ('after the midterms') has arrived. (c) NO: she announces against Schumer or for an open seat first, consistent with the upstate tour and lighter presidential infrastructure, or she delays a presidential launch to Q1 2028. (d) YES: an H1 2027 presidential launch using Sanders-network staff, a ~$17M war chest and early-state strength, with the Senate kept as a fallback. The anchor is Polymarket 34% (wide 27/41 spread) after a sharp weekly drop; the sibling Senate market at ~55% implies the crowd leans Senate, though thin volume makes it noisy. No unpriced information was found, so I stay near the anchor, shading slightly down for late or Senate-first risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6378",
+   "has_trace": true
+  }
+ ],
+ "Will the lowest 2026 Great Salt Lake elevation be 4,189.3 or 4,189.4 ft?": [
+  {
+   "id": 6375,
+   "scanned_at": "2026-11-04T14:31:05.432202",
+   "date": "2026-11-04",
+   "agent": 92,
+   "market_price_t0": 92,
+   "edge": 0,
+   "confidence": 0.8,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.92, 0.92). (0) The USGS daily-values file for site 10010000, retrieved 2026-11-04, shows the 2026 minimum daily mean is 4189.4 ft on 2026-10-10. That value is inside the YES band, but it is provisional and the year is not over, so the outcome is not yet locked. (a) About 58 days remain until Dec 31; resolution uses whatever is published by roughly Jan 2, 2027. (b) Status quo is YES. The lake bottomed in Sept–Oct and is now rising, with daily means of 4190.0–4190.2 in early November, so an unchanged record resolves YES. (c) NO would come from one of two things: USGS editing the wind-affected Oct 10 provisional mean up to 4189.5 or higher, given its hours at 4189.0 and a data gap, which would make the minimum 4189.6; or a new wind setdown that pushes a daily mean to 4189.2 or lower, about 0.8 ft below current levels. (d) YES only needs Nov–Dec daily means to stay at or above 4189.3 and the Oct 10 value to stand or be revised down to 4189.3, which is still in the band. Historically the lake stabilises or rises after early November, and cooler, wetter weather supports that. The market anchor is 92%, consistent with the sibling markets (Below 4,189.3 at 5%, 4,189.5–4,189.6 at 1%). I see no unpriced information, so I stay near the anchor; the residual risk is mainly a provisional revision, which typically happens after this window.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6375",
+   "has_trace": true
+  }
+ ],
+ "SpaceX becomes a US mobile carrier by December 31, 2027?": [
+  {
+   "id": 6372,
+   "scanned_at": "2026-11-04T14:01:40.240499",
+   "date": "2026-11-04",
+   "agent": 36,
+   "market_price_t0": 51.5,
+   "edge": -0.15500000000000003,
+   "confidence": 0.5,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.37, 0.35) after one crux research pass. (0) Nothing qualifying exists as of 2026-11-04 per Starlink's X feed and Nov 3-4 coverage, and T-Satellite is excluded. (a) About 14 months remain to 2027-12-31. (b) Status quo is NO: own-network service has slipped from end-2027 to early/H1 2028 per Shotwell and the CFO. EchoStar spectrum closing is targeted for about 2027-11-30, Grain 800 MHz is unapproved, and Qualcomm sites only start in 2027. (c) NO: the Boost talks stall over AT&T/T-Mobile change-of-control consent, which analysts (LightShed, New Street) see as a major obstacle, and Starlink Mobile launches in 2028 or as a waitlist beta. (d) YES: SpaceX buys Boost or EchoStar, closes in 2027 with existing Boost plans still sold, which counts under the rules regardless of branding; or a one-state public launch happens in Q4 2027. The market's 51.5% is thin, wide-spread and jumped on unconfirmed talk, while the sister June-2027 market is at 30%. The research leans NO but leaves real acquisition upside, so I shade to 37%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6372",
+   "has_trace": true
+  }
+ ],
+ "US x Iran effective ceasefire continues through December 31, 2026?": [
+  {
+   "id": 6366,
+   "scanned_at": "2026-11-04T12:02:01.494319",
+   "date": "2026-11-04",
+   "agent": 25,
+   "market_price_t0": 27.5,
+   "edge": -0.025000000000000022,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.25, 0.25). (0) Resolution check: the only confirmed recent US strike, on Qeshm, Hengam and Bandar Abbas on Nov 2–3 and acknowledged by Trump, came before the market opened on Nov 4. No source shows a qualifying strike since then, so nothing has resolved yet. (a) There are about 8 weeks left until 11:59 PM Iran time on Dec 31, 2026. (b) If nothing changes, YES requires 8 straight weeks with no US air or missile strike landing on Iranian soil. The longest recent quiet gap was about 2 months (early Sept to Nov 2), and even that was a self-imposed pre-midterm pause. (c) NO scenario: the IRGC keeps shooting down MQ-9s (a 56th was claimed Nov 4) and attacking tankers. The US answers with another \"defensive\" jet strike on a coastal SAM or missile site, or talks stall and CENTCOM's ready post-midterm plans for a short, intense campaign are carried out. Any one such strike resolves NO. (d) YES scenario: Trump, weakened by the midterm rout and focused on falling oil prices, keeps to his Nov 3–4 line of \"no immediate plans\". The Qatar/Pakistan framework (Iran stops Hormuz attacks, the US lifts the blockade) is reached or informally observed, IRGC fire on US aircraft stops, and no launcher strikes are triggered. The market's 27.5% (bid 24, ask 31) already prices this tension, and the sibling Israel x Iran Dec 31 market sits at 36%. The ongoing blockade friction and the track record of collapsed deals argue slightly against YES, so I shade a little below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6366",
+   "has_trace": true
+  }
+ ],
+ "Will Gavin Newsom announce a Presidential run by December 31, 2026?": [
+  {
+   "id": 6353,
+   "scanned_at": "2026-11-04T08:23:37.409333",
+   "date": "2026-11-04",
+   "agent": 8,
+   "market_price_t0": 12,
+   "edge": -0.039999999999999994,
+   "confidence": 0.65,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.08). (0) Nothing shows the condition already met. Newsom's X feed as of Nov 4 has only midterm congratulations and no 2028 announcement, and CBS says he 'has yet to provide details of his political future.' (a) About 57 days remain until 11:59 PM ET on Dec 31, 2026, a window that includes Thanksgiving, Christmas and his end-of-term duties as governor. (b) The status quo is that he stays an undeclared 'considering' candidate through year-end, which resolves NO. (c) NO scenario: Harris keeps to her own timeline, possibly into spring. Newsom honors his Sept 2026 pledge not to run if she does, and his family veto stays unresolved. He follows the reported plan to announce only after leaving office in January 2027, consistent with his 'there's no such thing as a deadline' framing. (d) YES scenario: Harris rules out 2028 in November or December, his family signs off, and he launches by video or podcast using his $14M PAC and small-dollar operation, as Trump did one week after the 2022 midterms. The anchor is this market at 12% (bid 11%, ask 13%), trending down 4.5 points over 30 days. A near-identical, higher-volume sibling market ('before 2027') trades at 7.5%. The research adds two compounding gates, Harris's pending decision and his family veto, plus the reported plan to wait until after January 2027. Base rates also show leading non-incumbents rarely declare within eight weeks of a midterm. I therefore shade below 12% to about 8%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6353",
    "has_trace": true
   }
  ]

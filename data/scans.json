@@ -8213,6 +8213,20 @@
  ],
  "Will Bola Tinubu win the 2027 Nigerian Presidential Election?": [
   {
+   "id": 6466,
+   "scanned_at": "2026-11-05T18:45:54.689291",
+   "date": "2026-11-05",
+   "agent": 70,
+   "market_price_t0": 67.5,
+   "edge": 0.02499999999999991,
+   "confidence": 0.525,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.70, 0.70). (0) Nothing is resolved yet. INEC's site lists the presidential vote for 16 Jan 2027 and shows no results. Tinubu is on the final list of 18 candidates. (a) The vote is about 10 weeks away. A first-round result would likely be declared within about 4 days, and the rules allow until 31 Oct 2027, which covers any runoff. (b) Status quo: Tinubu leads as the incumbent APC nominee. He has 14 governors on his campaign council, defections are flowing to the APC, and the opposition is split three ways (Atiku/ADC, Obi-Kwankwaso/NDC, plus Makinde and Duke), with both main challengers refusing to field a single candidate. Nigerian incumbents have won every re-election bid except 2015, which followed an opposition merger, and The Economist and several analysts call him the favourite. (c) NO: his thin 2023 northern margins and roughly 10m new registrants cost him the 25%-in-24-states requirement. That forces a first-ever runoff, which a consolidated opposition wins, or Obi surges on discontent. Health shocks and annulment are tail risks. (d) YES: a first-round plurality, as in 2023 when he won with 37%, with the APC machine securing the 25% spread. The 5 Nov High Court ruling voiding Atiku's ADC ticket could further fragment or disrupt the opposition, though the same judge was reversed on appeal in July, so I discount that ruling. The Polymarket anchor is 67.5%, and sibling markets (Obi 26.5%, Atiku 4.75%) are consistent with it. I nudge up slightly to 70% because the Atiku ruling came out today and may not be fully priced. The OSRS estimate of roughly 30% runoff risk keeps me from going much higher.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6466",
+   "has_trace": true
+  },
+  {
    "id": 5840,
    "scanned_at": "2026-10-28T22:04:25.581627",
    "date": "2026-10-28",
@@ -20506,7 +20520,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-05T10:55:19.424Z",
+  "last_sync": "2026-11-05T21:28:16.809Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -24564,6 +24578,20 @@
   }
  ],
  "Will Russia capture Dobropillia by December 31, 2026?": [
+  {
+   "id": 6461,
+   "scanned_at": "2026-11-05T17:25:31.464493",
+   "date": "2026-11-05",
+   "agent": 10,
+   "market_price_t0": 13,
+   "edge": -0.03,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.10). (0) The condition is not met. ISW's 1 Nov assessment says Russia \"has not consolidated any positions in the town.\" Its 4 Nov assessment records no Russian advance on the Dobropillia axis because of Ukrainian counterattacks. Russia's 16 Oct capture claim, which Wikipedia repeats, is Russian claimed territory and does not qualify; ISW and Ukraine reject it. I could not see the live map layer itself, so this rests on ISW's written assessments. (a) About 8 weeks remain until 31 Dec 2026. (b) Status quo is No: the intersection is slightly north of the city centre and is not shaded under a qualifying layer. ISW reports only infiltration, which does not count. (c) No path: Ukrainian counterattacks and the 'New Donbas Line' fortifications keep Russia confined to infiltration on the outskirts. This would follow the reversal of the 2025 Dobropillia push and the year-plus Kostiantynivka grind. (d) Yes path: Russia renews the assault in autumn fog, cuts the Bilozerske supply roads, and ISW shifts southern and central districts from the infiltration layer to 'Assessed Russian Advances' covering the intersection, with the shading persisting through one update. Bilytske gains and multiple committed armies make this plausible but unlikely this fast. Comparable cities took 3–21 months from the start of the assault, and ISW lagged Russian claims by months. The market sits at 13%, the 30 Nov market at 4%, and the March 2027 market at 39%. Falling Russian tempo and ISW's no-positions finding justify shading slightly below the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6461",
+   "has_trace": true
+  },
   {
    "id": 5788,
    "scanned_at": "2026-10-28T05:00:10.897605",
@@ -30017,6 +30045,20 @@
  ],
  "Will the 5-year Treasury yield hit 5.10% before 2027?": [
   {
+   "id": 6459,
+   "scanned_at": "2026-11-05T16:44:18.224737",
+   "date": "2026-11-05",
+   "agent": 22,
+   "market_price_t0": 27.6,
+   "edge": -0.05550000000000002,
+   "confidence": 0.6,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.22, 0.22). (0) Treasury par-curve CSV shows no 5 Yr print >=5.10% in the window (peak 5.09% on 9/30; latest 4.69% on 11/04), so unresolved; a close-based move of ~41bp+ is needed, and 11/05 likely printed lower (~4.62-4.68%) after the post-midterm rally, widening the gap to ~45bp. (a) About 8 weeks / ~38 trading days remain to 12/31. (b) Status quo of ~4.7% resolves No. (c) NO: yields keep making lower highs (5.09→5.06→4.95), the December hike is already ~80% priced, Warsh stays non-committal and oil/inflation expectations ease, leaving the 5Y in a 4.5-4.9% range. (d) YES: strong 11/06 payrolls, hot CPI and a hawkish 12/9 dot plot plus supply/term-premium worries repeat September's 57bp four-week rally to a close ≥5.10%. A barrier calculation with ~6-7bp daily vol gives roughly 20-34%, with recent negative drift pushing toward the low end. The Polymarket anchor of 27.5% (down 53pts in 30 days) sits within that range; the sibling 'dip below 4.30%' market at 18.7% for a closer barrier already shows upside skew. Strategist year-end forecasts (10Y ~5%) are below what 5.10% on the 5Y would require. I shade slightly below market to 22%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6459",
+   "has_trace": true
+  },
+  {
    "id": 5850,
    "scanned_at": "2026-10-29T01:17:42.017453",
    "date": "2026-10-29",
@@ -30774,6 +30816,20 @@
   }
  ],
  "Will the US economy be in a soft landing at the end of 2026?": [
+  {
+   "id": 6469,
+   "scanned_at": "2026-11-05T19:42:48.706639",
+   "date": "2026-11-05",
+   "agent": 11.5,
+   "market_price_t0": 13.3,
+   "edge": -0.017500000000000016,
+   "confidence": 0.61,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.11). (0) Nothing is resolved yet. September BLS data show unemployment at 4.2% and CPI at 3.7% year over year, which is the Overheating bucket. (a) The December jobs and CPI releases come out around Jan 8 and Jan 13, 2027, before the Jan 31 cutoff, leaving about two months of price action. (b) Status quo: unemployment almost surely stays below 5%. With the December 2025 index at 324.054, December 2026 CPI must come in under about 335.2 to round below 3.5%. That is roughly 0.5% below September's 336.94, while September-to-December raw changes are usually flat to slightly negative. Cleveland Fed nowcasts of 3.74% for October and 3.88% for November, plus the forecaster survey's 3.6%, all sit above the line. (c) No: Iran talks stall, Brent holds around $95–105, gasoline stays near $4, and core adds 0.2–0.3% a month, so December CPI is about 3.6–4.0%. (d) Yes: a signed US–Iran/Hormuz deal pushes gasoline to about $3.50 by December, a drop of roughly 15% that removes about 0.55pp from headline CPI, landing it near 3.3–3.4%. The market's 13.25% already reflects this week's oil drop and deal hopes. Absent a signed deal, I stay near the market, slightly below it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6469",
+   "has_trace": true
+  },
   {
    "id": 5226,
    "scanned_at": "2026-10-20T23:29:48.415669",
@@ -32195,6 +32251,20 @@
  ],
  "Will the Fed Pause-Hike-Pause in the next three decisions (Oct-Dec-Jan)?": [
   {
+   "id": 6468,
+   "scanned_at": "2026-11-05T19:15:48.274694",
+   "date": "2026-11-05",
+   "agent": 62,
+   "market_price_t0": 66.5,
+   "edge": -0.04500000000000004,
+   "confidence": 0.55,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.64, 0.60). (0) The first leg is met: the Fed's Oct 28, 2026 note and FRED show a hold at 3.75–4.00%. A December hike and a January hold are still needed. (a) About 12 weeks and two meetings remain before the Jan 27, 2027 close. (b) Status quo of no further moves resolves 'Other', but consensus expects a December hike then a January skip. FedWatch cumulative pricing through January (14% flat, 67% +25bp, 19% +50bp) with a ~18–20% December hold implies hold-then-hike of about 5%. That puts Dec-hike/Jan-hold near 61–63%, plus a little for a 50bp-December-then-hold path. Kalshi's ~74% January hold and Central Bank Watch's 79%/24.5% tree agree, and Logan's skip-a-meeting endorsement plus gradualist comments from Hammack, Musalem and Barkin support the rhythm. (c) NO: a soft Oct jobs print or cool CPI forces a December hold, or a hot November CPI (out Dec 10, after the meeting) prompts a back-to-back January hike. (d) YES: a 25bp December hike with a January skip until March. Pricing volatility of 15–20 points per week argues for staying close to the 66.5% anchor; I shade slightly below it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6468",
+   "has_trace": true
+  },
+  {
    "id": 5910,
    "scanned_at": "2026-10-29T19:01:42.500102",
    "date": "2026-10-29",
@@ -32226,6 +32296,20 @@
   }
  ],
  "Houthis capture Taiz city by December 31?": [
+  {
+   "id": 6465,
+   "scanned_at": "2026-11-05T18:18:33.056179",
+   "date": "2026-11-05",
+   "agent": 19.5,
+   "market_price_t0": 28.5,
+   "edge": -0.08999999999999997,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.19, 0.20) after one crux research pass. (0) The condition is not met. As of Nov 4–5, Al Jazeera, Anadolu and Arab News all describe Taiz city as besieged and encircled but still government-held. No source reports Houthi control of Al-Qahira Castle or any inner district, and the rules explicitly exclude siege and encirclement. (a) About 8 weeks remain until Dec 31 11:59 PM ET, with a 3-day grace period only if timing is unclear. (b) If nothing changes, the siege continues, the government keeps the castle and the city centre, and the market resolves No. (c) NO scenario: the Houthis keep strangling the city rather than storming it, which is how the Sana'a Center, ACLED, RUSI and Crisis Group describe their strategy. Saudi airpower and the government's 'Dawn of Yemen' counteroffensive hold Jabal Sabir and the old city, or Saudi–Houthi talks freeze the lines. (d) YES scenario: starvation and supply loss break the defenders' cohesion. The Houthis then take the Jabal Sabir summit, which they advanced onto from Oct 25, push past the contested western prison area into the old city, and are filmed holding the castle before year-end. The market sits at 28.5%, down sharply from 49%, and the sibling Nov 30 contract is at 8.5%. I shade below the market for three reasons: the strict 'clearly demonstrated, uncontested' standard, the absence of any confirmed inner-city gains a month into the siege, and analyst consensus that the Houthis do not need to storm the city. I still keep a meaningful tail for a sudden collapse of the defence, given Houthi momentum toward Aden and fighting on Sabir.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6465",
+   "has_trace": true
+  },
   {
    "id": 5906,
    "scanned_at": "2026-10-29T17:39:35.715960",
@@ -32307,6 +32391,20 @@
  ],
  "Will Google have the best AI model at the end of December 2026?": [
   {
+   "id": 6444,
+   "scanned_at": "2026-11-05T11:34:16.352209",
+   "date": "2026-11-05",
+   "agent": 60,
+   "market_price_t0": 61.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.51,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.60, 0.60). (0) Not resolved: mirrors (BenchLeader Oct 28 data re-read Nov 4, ChatJudge) and a reported Arena post show Google's Gemini 4 Carbon #1 at 1528 and Argon #2 at 1520, ahead of Claude Opus 5.5 (1509) and Meta Muse Wonder (1507), but these are style-control ON and the resolving style-off table could not be read directly. (a) About 8 weeks remain to the Dec 31 12:00 ET check. (b) Status quo is Yes: Google holds the top two slots with a ~19-point margin over the best rival and wins exact ties. (c) No: Anthropic ships a general-access Fable 5.5 (rumoured ~Nov 30, testers claim it beats Carbon) or Opus 5.6 that debuts above ~1528, as Anthropic flagships have repeatedly taken #1 in 2026. Lesser paths are a style-off reorder or a Carbon checkpoint change; OpenAI and xAI start 47-53 points back. (d) Yes: rival releases slip, land below Carbon, or are restricted and absent from the board. The market at 61.5% (Anthropic 31.5%) already prices this two-horse race, and I found no clear unpriced edge, so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6444",
+   "has_trace": true
+  },
+  {
    "id": 5886,
    "scanned_at": "2026-10-29T11:30:10.749661",
    "date": "2026-10-29",
@@ -32386,6 +32484,20 @@
   }
  ],
  "Will no next Israeli Minister of Finance be appointed by February 28, 2027?": [
+  {
+   "id": 6474,
+   "scanned_at": "2026-11-05T21:11:41.839390",
+   "date": "2026-11-05",
+   "agent": 51.5,
+   "market_price_t0": 45.5,
+   "edge": 0.06,
+   "confidence": 0.435,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.52, 0.51). (0) Not resolved. Per Al Jazeera and the Times of Israel (Nov 4–5), no post-election government exists. Smotrich is only a caretaker finance minister, which does not count. Herzog will give the mandate around Nov 8, most likely to Eisenkot, who has 67 recommendations. (a) There are about 115 days until Feb 28, 2027. That covers one full 28+14-day mandate plus most of a second 28-day round; a failed first round pushes any government close to or past the deadline. (b) If nothing changes, Smotrich stays as caretaker with no confidence vote, which resolves Yes. (c) Yes scenario: Liberman holds to 'no minority government' and to no Arab or Haredi partners. Eisenkot's Hamas-label condition blocks Ra'am, and UTJ refuses to back the draft-reform bloc. Netanyahu, stuck at 46 recommendations and helped by a repeat vote, runs the clock. Rounds expire around Jan–Mar and a new election follows, the outcome Brookings calls most likely. (d) No scenario: Trump pressure and Herzog's push produce a unity or rotation deal. Alternatively, Eisenkot assembles a 2021-style coalition with Ra'am's outside support, or Liberman softens, and a government is sworn in by January or February. The market sits at 46% Yes, and the related 'government formed by Feb 28' market is about 54%, so the crowd is roughly a coin flip. The research adds stated hard vetoes across both blocs, Liberman's openly patient '42+28+21' stance, and Netanyahu's incentive to stall. Against that are Trump/Herzog pressure and the 2021 precedent of anti-Netanyahu blocs finding a way. I lean modestly above the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6474",
+   "has_trace": true
+  },
   {
    "id": 5918,
    "scanned_at": "2026-10-29T21:02:45.536149",
@@ -33118,6 +33230,86 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.44, 0.47). (0) As of Nov 4, 2026, no source shows a resignation or removal announcement; Wiles is still Chief of Staff, so YES needs an announcement or departure before Dec 31. (a) About 57 days remain. (b) Status quo is NO: Trump said in October there was 'zero chance' he would replace her and that she stays 'until the end', Wiles says she is 'not going anywhere', and she addressed aides about the next two years on election night. (c) NO: the White House blames candidates and says Trump 'wasn't on the ballot'; scapegoats are outside consultants or Hegseth, and any Wiles transition comes in 2027. (d) YES: the midterm rout (both chambers lost, 32% approval) turns Trump's anger on the chief of staff who ran the apparatus, building on Politico-reported successor canvassing and Washington Post-reported rival jockeying, ending in a Kelly-style December announcement of a January handover, which counts. Anchor: Polymarket 51%, up sharply on post-election commentary; Kalshi's differently worded contract was about 44% on Nov 2 and Axiom said 27%. I shade slightly below the market because the purge reporting is anonymous and mostly Daily Mail-sourced, the same outlet's June exit claim was denied, and Trump tends to resist firing under public pressure.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/6399",
+   "has_trace": true
+  }
+ ],
+ "Will XRP dip to $1.00 in November?": [
+  {
+   "id": 6473,
+   "scanned_at": "2026-11-05T20:46:14.878950",
+   "date": "2026-11-05",
+   "agent": 19,
+   "market_price_t0": 18,
+   "edge": 0.010000000000000009,
+   "confidence": 0.575,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.19, 0.19). (0) Not resolved. Binance's own data mirror puts the November 1m-equivalent low at 1.2288 so far, about 19% above $1.00, with spot near $1.237 late on Nov 5. (a) About 25 days remain, through 11:59 PM ET on Nov 30. (b) If nothing changes, XRP ranges between $1.20 and $1.35 and the market resolves No. Analysts mostly treat $1.10–1.20 as the break zone and $1.00 only as a bear tail. (c) NO path: the $1.20 October low keeps holding as it did on Oct 30 and Nov 2. Whale accumulation and ETF inflows support price, and BTC stabilises in the mid-$70ks. (d) YES path: the Nov 5 Nasdaq-led deleveraging (BTC to a seven-week low, $1B+ in liquidations) gets a second leg. XRP loses $1.20, and with little support down to the round number, crowded longs cascade into a wick to $1.00, as in August. A first-passage estimate with 60–75% annualised volatility and a barrier about 21% below spot (log terms) gives roughly 17–25%. That brackets the Polymarket 18% price (16/20 bid/ask). The fresh risk-off backdrop and the long-skewed positioning nudge me slightly above the market, while the high XRP–BTC correlation (a $1.00 touch implies BTC in the low $60ks) caps it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6473",
+   "has_trace": true
+  }
+ ],
+ "JD Vance 2028 presidential odds leader on November 30?": [
+  {
+   "id": 6462,
+   "scanned_at": "2026-11-05T17:52:16.312099",
+   "date": "2026-11-05",
+   "agent": 31.5,
+   "market_price_t0": 37,
+   "edge": -0.05499999999999999,
+   "confidence": 0.5,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.32, 0.31). (0) Not resolved: the resolution source shows Ossoff 21.5% vs Vance 15.7% in the Nov 5 noon window, a 5.8-point gap. (a) About 25 days remain, and resolution hinges on the single hourly window ending noon ET Nov 30. (b) Status quo is NO: Ossoff leads on the blend, by about 9 points on Kalshi (the heaviest-weighted venue, about 43%), and is roughly tied or slightly ahead on Polymarket. (c) NO: the Democratic-wave narrative and Ossoff's roughly 25% Democratic-nomination lead keep his winner price elevated, while Vance stays dragged down by GOP fragmentation (DeSantis, Rubio) and Trump's lukewarm 'maybe he won't run' remark. (d) YES: the overnight Ossoff spike (+8 points on thin liquidity, despite his 'zero interest' denials) retraces toward 13–15%, and Vance recovers toward his pre-midterm 18–20%, possibly on a Trump endorsement or launch, flipping a roughly 6-point blended gap. The market's 37% (bid 35 / ask 39) prices meaningful mean reversion. With no identified catalyst for Vance and the large Kalshi gap, I shade slightly lower, to 32%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6462",
+   "has_trace": true
+  }
+ ],
+ "KOSPI all-time high before 2028?": [
+  {
+   "id": 6457,
+   "scanned_at": "2026-11-05T15:47:24.736184",
+   "date": "2026-11-05",
+   "agent": 20.5,
+   "market_price_t0": 25,
+   "edge": -0.044999999999999984,
+   "confidence": 0.525,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.21, 0.20). (0) Not resolved. The Yahoo ^KS11 page, the named resolution source, shows a 52-week high equal to the 9,385.59 threshold and a last close of 5,383.80 on Nov 5, 2026. The index must rise about 74% to break the record.\n\n(a) About 14 months remain, to Dec 31, 2027 KST. Some research text says 26 months; that is an error.\n\n(b) Status quo is No. The index is making lower lows below the July trough, foreigners are selling Samsung and SK hynix, and post-sell-off broker 2027 ranges mostly top out at 7,500–8,500. Goldman's target is 9,000 and Hanwha's is 9,300, both below the record.\n\n(c) No scenario: AI-regulation fears, tight Bank of Korea policy and shrinking retail leverage keep the index in a 5,000–8,000 range through 2027. That matches KOSPI history, where recoveries from 20%+ drawdowns took a median of about 2.5 years.\n\n(d) Yes scenario: SK hynix's \"sold out through 2029\" demand and Q4 profit above 100tn won drive a re-rating from a roughly 4x forward P/E toward 7x. Given realized volatility with 5–18% daily moves, a +74% path is plausible. The index did +123% in under six months earlier in 2026.\n\nA zero-drift barrier calculation with 40–50% volatility gives roughly 20–30%. Broker targets clustering below the record and the failed V-bottom argue for the lower end. I shade slightly below the 25% market price.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6457",
+   "has_trace": true
+  }
+ ],
+ "Will Trump meet with Benjamin Netanyahu by November 30, 2026?": [
+  {
+   "id": 6452,
+   "scanned_at": "2026-11-05T14:33:02.657049",
+   "date": "2026-11-05",
+   "agent": 10.5,
+   "market_price_t0": 9,
+   "edge": 0.015000000000000013,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.11). (0) No source shows a qualifying meeting since the market opened on Oct 31. The resolution-source read puts the last in-person meeting at July 28, and contact since then has been phone calls only (Oct 18 and Nov 1). Nothing is announced for November. (a) About 25 days remain until Nov 30, and Trump is in Asia Nov 16–19. (b) If nothing changes, this resolves No. (c) No scenario: Herzog gives Eisenkot the first mandate and Netanyahu stays home fighting for UTJ and Haredi support as caretaker. Trump keeps pursuing Iran talks by phone, relations stay strained over strikes and the end of the aid, and no pretext like July's Graham funeral appears. (d) Yes scenario: Trump calls Netanyahu, possibly with Eisenkot, to Mar-a-Lago over Thanksgiving week to broker a unity government. An anonymous US official said Trump might do this 'a few weeks' after Oct 28. Alternatively, an Iran deal or renewed strikes prompts a short-notice coordination visit; past meetings were set up within days. The raw base rate for a 26-day window is about 30%. The current conditions argue below that: the coalition fight, the soured relationship, the Asia trip, and no announced plan. The Polymarket price of 9% (bid 8 / ask 10) already reflects the collapse from 38.5%. I found nothing the market hasn't priced, so I stay near the anchor at 10%, allowing for Netanyahu's history of short-notice trips.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6452",
+   "has_trace": true
+  }
+ ],
+ "Will the Fed increase interest rates by 25 bps after the March 2027 meeting?": [
+  {
+   "id": 6450,
+   "scanned_at": "2026-11-05T13:28:32.848159",
+   "date": "2026-11-05",
+   "agent": 48.5,
+   "market_price_t0": 51.5,
+   "edge": -0.030000000000000027,
+   "confidence": 0.42,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.49, 0.48). (0) Not resolved. FRED and the Fed's open market page show the upper bound at 4.00% after the September 2026 hike and the October 28 hold (10-2, with two dissents for a hike). The March 16-17, 2027 statement has not been issued. (a) About 4.5 months remain. Before March come the December 8-9 and late-January meetings, plus several jobs and CPI reports. (b) The status quo for the March meeting itself is a hold. Most sell-side views (ING, PIMCO, Citi, Goldman, JPM) and the Fed's September projections, which show no 2027 hikes beyond one more in 2026, imply March would be a pause even if December brings a hike. (c) NO: the Fed hikes in December and then pauses as inflation cools and energy falls after the midterms. Williams and Warsh lean against further tightening, or January takes the next step instead. A small tail also exists if March turns out to be the strategy-only meeting, which would mean no statement and a 'No change' resolution. (d) YES: the Fed keeps an every-other-meeting cadence (September hike, October skip, December hike, January skip, March hike), consistent with Logan's call for at least two more hikes, the Hammack/Cook bloc, and futures implying about 1.5 hikes by March. Anchors are this market at 51.5%, Kalshi's same-question market at 58% about a week ago, and an OIS screen at about 44% for March alone. I shade slightly below the Polymarket price for three reasons: the dovish economist and official tilt, the post-midterm repricing that took out some tightening, and the small strategy-meeting and December-hold paths.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6450",
    "has_trace": true
   }
  ]

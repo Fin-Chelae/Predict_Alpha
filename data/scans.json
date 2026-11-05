@@ -17279,6 +17279,20 @@
  ],
  "Will Iran withdraw from the NPT before 2027?": [
   {
+   "id": 6413,
+   "scanned_at": "2026-11-05T01:47:47.838820",
+   "date": "2026-11-05",
+   "agent": 7,
+   "market_price_t0": 8.3,
+   "edge": -0.012999999999999998,
+   "confidence": 0.65,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Not resolved: the resolution-source read (Nov 4) and multiple outlets show no Article X notice. Iran's foreign ministry said on Nov 1–3 that Iran remains an NPT member, and SNSC secretary Rezaei said 'no new decision.' (a) About 8 weeks remain until the Dec 31, 2026 deadline. (b) Status quo is No: bills sit with the Majlis presidium, Ghalibaf has gatekept before, and Mottaki said MPs would vote 'if the Leader agrees,' which puts the veto with Mojtaba Khamenei and the SNSC. None of them has endorsed exit. (c) NO scenario: the Doha talks and the Vance letter keep the diplomatic track alive, exit stays as leverage with Russia and China, and threats continue without filing, as after the 2006 referral, the 2020 dispute mechanism and the 2025 snapback. (d) YES scenario: a major post-midterm US or Israeli strike on nuclear sites such as Pickaxe Mountain triggers an SNSC/Leader decision, and the UN mission quickly sends a letter invoking Article X citing extraordinary events already drafted by the 130-MP bloc. The Nov 2–3 strikes on Qeshm and Bandar Abbas did not trigger a decision, and Trump signaled no continued strikes. The market sits at 8.3% and is trending down; the research gives no unpriced information. Given the base rate of one withdrawal in 56 years and a tail risk elevated by the war, I shade slightly below the market at 7%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6413",
+   "has_trace": true
+  },
+  {
    "id": 5842,
    "scanned_at": "2026-10-28T22:50:33.010617",
    "date": "2026-10-28",
@@ -20492,7 +20506,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-04T21:19:47.691Z",
+  "last_sync": "2026-11-05T10:55:19.424Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -25065,6 +25079,20 @@
  ],
  "Will the next Google Gemini Pro model added to the Arena Leaderboard debut at a score of at least 1490?": [
   {
+   "id": 6422,
+   "scanned_at": "2026-11-05T04:01:56.759287",
+   "date": "2026-11-05",
+   "agent": 7.5,
+   "market_price_t0": 8.6,
+   "edge": -0.011499999999999982,
+   "confidence": 0.69,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.08). (0) Not resolved. Mirrors of Arena data dated Oct 28 show no Pro-labelled Gemini added since Gemini 3.1 Pro in February. That predates this market's Oct 21 open, so it does not count. Gemini 4 Argon (Sep 30) and Carbon (Oct 28) are on the board without a \"Pro\" label, and the market's sharp fall from about 95% suggests traders concluded they don't qualify.\n(a) About 8 weeks remain until the Dec 31, 2026 deadline.\n(b) Status quo is No: if no Pro-labelled model is added, the market resolves No.\n(c) NO scenario: Google sticks with codenamed frontier tiers and Flash releases. Reuters reports Google cancelled 3.5 Pro and said Argon replaced the Pro tier. Pichai reportedly said a distilled Argon is coming, likely under a non-Pro name. Nothing Pro-labelled appears by Dec 31.\n(d) YES scenario: Google ships a \"Gemini 4 Pro\" or similar Pro SKU in Nov–Dec, and Arena lists it with \"Pro\" in the name. Conditional on that, a score of 1490 or higher is very likely: recent flagships sit at 1520–1532 with style control off, and the last two Pro debuts were about 1500.\nThe market sits at 8.65%, close to the 1480 strike at 8.15%, which means traders price the chance of a qualifying Pro model appearing at roughly 8–10%. I see no specific information to move far from that and shade slightly below given Google's explicit naming shift.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6422",
+   "has_trace": true
+  },
+  {
    "id": 5667,
    "scanned_at": "2026-10-26T13:29:45.532150",
    "date": "2026-10-26",
@@ -28713,6 +28741,20 @@
  ],
  "Will Su Chiao-hui win the next New Taipei Mayor election?": [
   {
+   "id": 6404,
+   "scanned_at": "2026-11-04T23:28:34.620201",
+   "date": "2026-11-04",
+   "agent": 49,
+   "market_price_t0": 55,
+   "edge": -0.06000000000000005,
+   "confidence": 0.42,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.50, 0.48). (0) Not resolved. The election is on Nov 28, 2026, and the CEC database shows no results yet. (a) About 24 days remain, and the poll-publication blackout starts Nov 18. (b) Status quo: there is no incumbent effect for Su, since Hou is term-limited. New Taipei has gone KMT in all four races since 2010, including Hou's large wins in 2018 and 2022. The current polls, though, show a genuinely close two-way race between Su and Lee. (c) NO: KMT-TPP consolidation holds and \"silent blue\" voters turn out. The KMT-commissioned TVBS series shows Lee ahead by a stable 6-7 points, and the Pearson poll has Lee narrowly ahead. The sister-startup audit report could land inside the final weeks and hurt Su. Together these hand Lee a narrow win. (d) YES: the Taipei \"current\" effect lifts the DPP. The Tai Li-an poll has Su ahead on raw support, though its own model cuts that to about +4. TPP voters drift away from Lee, and Su's strong western base districts carry her. The anchor is Polymarket at 55%, which has risen 20 points in 30 days. I shade it slightly toward a toss-up for three reasons. The pro-Su evidence leans on DPP-aligned polls. The KMT's historical New Taipei strength and the known pro-DPP poll-response bias pull the other way. The latest data point, an AI simulation from Oct 28, favours Lee. The market's recent momentum may still reflect information I lack, so I do not go below 50%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6404",
+   "has_trace": true
+  },
+  {
    "id": 5437,
    "scanned_at": "2026-10-23T13:32:41.025185",
    "date": "2026-10-23",
@@ -31861,6 +31903,20 @@
  ],
  "Will the next GPT Terra model (5.7+) debut at a score of at least 1450 by June 30, 2027?": [
   {
+   "id": 6429,
+   "scanned_at": "2026-11-05T06:57:32.908286",
+   "date": "2026-11-05",
+   "agent": 16,
+   "market_price_t0": 14,
+   "edge": 0.01999999999999999,
+   "confidence": 0.42,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.16, 0.16). (0) Nothing has resolved: as of the Nov 4 Arena changelog and a Nov 5 aggregator, GPT-6.1 Terra (released Oct 26) has no Text board listing or score, though it is in the Text battle pool; the resolution page itself was blocked. (a) About 7.8 months remain, and a listing is likely within weeks given GPT-5.6's roughly 3-week lag, so timing is not the main risk. (b) Status quo means the outcome hinges on GPT-6.1 Terra's debut score against a 1450 strike that sits right at the predecessor's ~1448 (or 1467 per another mirror). (c) NO: Terra debuts at 1435-1449, as GPT-6-generation models have underperformed GPT-5.6 on Text (GPT-6 Sol ~1458 vs 5.6 Sol ~1485), or a lower-effort variant is listed first, or it is never listed and no later Terra clears 1450. (d) YES: the Max configuration lists at 1450+ without AutoEval, consistent with WebDev +151 over 5.6 Terra, an Intelligence Index of 48 vs 42, and the Sol 6 to 6.1 gain of about +25. The market fell from 57.5% to 14% in a week, and the sibling ladder (1440 at 38%, 1460 at 11%, 1470 at 2%) implies traders expect a debut below 1450, possibly from preliminary or AutoEval data I can't see. I defer mostly to that consensus while allowing a slight upward lean from the research.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6429",
+   "has_trace": true
+  },
+  {
    "id": 5829,
    "scanned_at": "2026-10-28T18:28:07.245538",
    "date": "2026-10-28",
@@ -31985,6 +32041,20 @@
  ],
  "Will the next Fable model (5.2+) debut with a Humanity's Last Exam score of 65% or higher?": [
   {
+   "id": 6441,
+   "scanned_at": "2026-11-05T10:32:55.761753",
+   "date": "2026-11-05",
+   "agent": 12,
+   "market_price_t0": 13,
+   "edge": -0.010000000000000009,
+   "confidence": 0.45999999999999996,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.12). (0) Not resolved. No Fable 5.2+ has been released as of Nov 1–4, 2026, according to several trackers and Anthropic's newsroom. I could not read the agi.safe.ai chart directly. (a) A qualifying model has until June 30, 2027 to appear, about 8 months, and the score is fixed the day after it first appears. (b) Status quo: no qualifying model yet, though a Fable 5.5 or 5.2 looks likely to ship. Related markets put a release by Dec 31 at about 94%. The Polymarket ladder of 99% for ≥50%, 94.5% for ≥55%, 42.5% for ≥60% and 13% for ≥65% implies traders, who can likely see the chart, expect a debut score near 59–61%. (c) NO: Fable 5.5 ships in Nov–Dec and is added at around 60–63%, consistent with the past +3–5 point gains per Anthropic step (Fable 5 to 5.1 was +3.6 on Artificial Analysis). It is also NO if the chart is frozen in favour of HLE-Diamond or HLE-Rolling and the model is never added. (d) YES: the chart shows a max-effort or lab-style figure, and Fable 5.1 already sits around 60–65% on such series. Alternatively, a larger-than-usual generational jump, like Opus 5.5's 67.9% on Artificial Analysis's Diamond series, carries a new Fable past 65%. Uncertainty about which configuration agi.safe.ai displays cuts both ways. The market's sharp 7-day drop (-16 points) probably reflects information I cannot see, so I stay near the 13% anchor, slightly below it, given chart-freeze risk and typical step sizes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6441",
+   "has_trace": true
+  },
+  {
    "id": 5881,
    "scanned_at": "2026-10-29T09:48:46.928142",
    "date": "2026-10-29",
@@ -32017,6 +32087,20 @@
  ],
  "Next US-Iran senior diplomatic meeting by December 31, 2026?": [
   {
+   "id": 6436,
+   "scanned_at": "2026-11-05T09:16:02.750098",
+   "date": "2026-11-05",
+   "agent": 38,
+   "market_price_t0": 42.5,
+   "edge": -0.044999999999999984,
+   "confidence": 0.475,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.38, 0.38). (0) Resolution check: no source shows a qualifying meeting since the Sept 22 UNGA round. Reporting from Nov 1–4 (Reuters, Al Jazeera, Qatar MFA) describes Qatari shuttle diplomacy between Doha and Tehran with no senior US team present, and a US official denied Al-Araby's claim that a US delegation was joining talks in Doha. So the condition is not yet met. A US team and an Iranian team must be in the same city, or meet face to face, by Dec 31. (a) That leaves about 8 weeks. (b) If nothing changes, the mediator-only exchanges continue and the market resolves NO. Araghchi says no meetings are planned until Iran's preconditions are met, Rezaei calls the US response 'not convincing', and Trump says 'there is no rush'. (c) NO scenario: the parties stay stuck on who concedes first, the IRGC press and Rezaei keep rejecting Qatari proposals, and sporadic US strikes such as Qeshm freeze contact through year-end. (d) YES scenario: the Republican midterm rout and Vance's push to end the war lead the US to accept parts of the Qatari draft, such as a frozen-assets release for a Hormuz arrangement. A launch or signing round then follows in Doha or Islamabad, and it qualifies as indirect if both delegations are present; the April 2026 Islamabad precedent shows such rounds can be set up within days. The market sits at 42.5% and has drifted down 8 points over 30 days. The sibling markets for Vance (21%) and Ghalibaf (26%) attending are consistent with that. I shade slightly below the market because Iran's explicit preconditions and the 6+ weeks without a follow-up meeting, despite Trump's 'very near future' promise, make the status quo sticky. Even so, the active draft and the post-midterm incentives keep a real chance of a quick turnaround.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6436",
+   "has_trace": true
+  },
+  {
    "id": 5877,
    "scanned_at": "2026-10-29T08:23:23.310793",
    "date": "2026-10-29",
@@ -32048,6 +32132,20 @@
   }
  ],
  "Will the 5-year Treasury yield dip below 4.65% before 2027?": [
+  {
+   "id": 6418,
+   "scanned_at": "2026-11-05T03:16:26.675072",
+   "date": "2026-11-05",
+   "agent": 82.5,
+   "market_price_t0": 82.5,
+   "edge": 0,
+   "confidence": 0.62,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.81, 0.84). (0) Not yet resolved. The market opened Oct 23, so the 4.61 print on 9/09 does not count. Treasury's par curve shows the 5 Yr at 4.69 on 11/04, the latest row, and every value since 9/10 is at or above that, so no print of 4.64 or lower has occurred in the window. (a) About 8 weeks remain, roughly 38 business-day fixings through Dec 31, with data due by mid-January. (b) If nothing changes, the yield sits 5bp above the threshold and the market resolves No only if every remaining close stays at 4.65 or higher. (c) No scenario: payrolls come in firm and CPI on Nov 10 stays hot near 3.7%. A December hike is delivered with hawkish guidance, breakevens rebound, and the 5Y grinds back toward 4.8–5.0, in line with the forecasts.org model path. (d) Yes scenario: a weak October jobs print cuts the 75–85% December-hike pricing. Combined with oil and peace headlines, equity risk-off, or the post-midterm fiscal-gridlock bid that already pushed the 5Y to about 4.67–4.68 intraday on Nov 4, this produces a single close of 4.64 or lower. Using daily volatility of about 5–7bp over about 38 sessions, a driftless touch probability for a level 5bp away is about 85–90%. The hawkish Fed backdrop pulls that down somewhat. That puts me close to the Polymarket anchor of 82.5%, which is also consistent with the related ladder (4.60 at 63.5%, 4.50 at 47%).",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6418",
+   "has_trace": true
+  },
   {
    "id": 5857,
    "scanned_at": "2026-10-29T02:47:59.501764",
@@ -32908,6 +33006,118 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.08, 0.08). (0) Nothing shows the condition already met. Newsom's X feed as of Nov 4 has only midterm congratulations and no 2028 announcement, and CBS says he 'has yet to provide details of his political future.' (a) About 57 days remain until 11:59 PM ET on Dec 31, 2026, a window that includes Thanksgiving, Christmas and his end-of-term duties as governor. (b) The status quo is that he stays an undeclared 'considering' candidate through year-end, which resolves NO. (c) NO scenario: Harris keeps to her own timeline, possibly into spring. Newsom honors his Sept 2026 pledge not to run if she does, and his family veto stays unresolved. He follows the reported plan to announce only after leaving office in January 2027, consistent with his 'there's no such thing as a deadline' framing. (d) YES scenario: Harris rules out 2028 in November or December, his family signs off, and he launches by video or podcast using his $14M PAC and small-dollar operation, as Trump did one week after the 2022 midterms. The anchor is this market at 12% (bid 11%, ask 13%), trending down 4.5 points over 30 days. A near-identical, higher-volume sibling market ('before 2027') trades at 7.5%. The research adds two compounding gates, Harris's pending decision and his family veto, plus the reported plan to wait until after January 2027. Base rates also show leading non-incumbents rarely declare within eight weeks of a midterm. I therefore shade below 12% to about 8%.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/6353",
+   "has_trace": true
+  }
+ ],
+ "Will GPT Astra 6.1+ debut in the top 20 of the Text Arena leaderboard by June 30, 2027?": [
+  {
+   "id": 6439,
+   "scanned_at": "2026-11-05T09:53:34.721997",
+   "date": "2026-11-05",
+   "agent": 31,
+   "market_price_t0": 27,
+   "edge": 0.03999999999999998,
+   "confidence": 0.435,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.30, 0.32). (0) Not resolved: no Astra model at version 6.1+ is on the board yet. GPT-6.1 Astra was cancelled and GPT-6 Astra is excluded; 6.2 Astra appears only in Codex logs and cloud listings, per secondary reports from Nov 1–4. (a) About 7.8 months remain, and related markets price an Astra 6.1+ release at about 99% by year-end, so the question is the displayed text rank the day after debut. (b) Status quo: base GPT-6 Astra sits at about #21–28 (about 1476 Elo) against a top-20 cutoff near 1485–1489, so an unimproved successor lands just outside, and only the first qualifying entry counts. (c) NO: 6.2 Astra is a code- and agent-focused RL retrain of the same base, while new Gemini and Claude releases raise the cutoff, and it debuts at rank 22–30. (d) YES: 6.2 Astra ships soon with several reasoning variants (the highest same-day entry counts), and debut-day vote inflation plus a modest 10–20 Elo gain gets it into the top 20. Recent OpenAI debuts ranged from #7 (GPT-5.5) to #18–22, and anecdotes claim a big leap, offset by the code focus and rising cutoff. I stay near the 27% market anchor at about 30%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6439",
+   "has_trace": true
+  }
+ ],
+ "Next DeepSeek Pro released by November 30, 2026?": [
+  {
+   "id": 6435,
+   "scanned_at": "2026-11-05T08:35:36.874861",
+   "date": "2026-11-05",
+   "agent": 15,
+   "market_price_t0": 14.5,
+   "edge": 0.0050000000000000044,
+   "confidence": 0.6,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.15, 0.15). (0) Not yet resolved. As of Nov 5, DeepSeek's pricing page still lists deepseek-v4-pro as DeepSeek-V4-Pro-0813, and the change log has no Pro entry after 2026-08-13. Only Flash moved, to V4.1-Flash-1017, and Flash does not qualify. (a) About 25 days remain until the Nov 30 ET deadline. (b) Status quo is NO: nothing qualifying exists, and DeepSeek has published no date, teaser, or 'will follow soon' line. The V4 cycle had such a line, and Pro then followed 13 days after Flash. (c) NO path: DeepSeek keeps shipping agent and infra tooling and Flash builds while compute constraints and outages hold back a larger Pro. V4.1-Pro would then slip to December or 2027, or ship as an in-place update under the unchanged identifier, which would not count. (d) YES path: DeepSeek does an unheralded weekend drop of DeepSeek-V4.1-Pro, or a dated Pro build, on web, app and API, as it did with Flash-1017. Several things support this: V4.1-Pro was named in the Sept 10 notice, Pro has gone 84 days without a new build, and V4.1-Flash now outscores V4-Pro on benchmarks. Against that, every earlier rumoured window (late September, National Day, mid-October) missed, and the Nov 1 benchmark-harness claim comes from a single account. The Polymarket anchor of 14.5% fits with the sibling Dec 31 market at 37%, which implies a modest monthly hazard. I see no unpriced information, so I stay near the market at 15%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6435",
+   "has_trace": true
+  }
+ ],
+ "Next Gemini Flash Model (3.9+) released by November 30, 2026?": [
+  {
+   "id": 6432,
+   "scanned_at": "2026-11-05T07:59:55.639416",
+   "date": "2026-11-05",
+   "agent": 30,
+   "market_price_t0": 41.5,
+   "edge": -0.11499999999999999,
+   "confidence": 0.46499999999999997,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.30, 0.30) after one crux research pass. (0) Not resolved: Google's Gemini API changelog (Nov 4-5) shows no 3.9+ or Gemini 4 Flash; gemini-3.8-flash (Sep 2) remains 'our most intelligent Flash model' and the model reference lists only gemini-4-argon among Gemini 4 models. (a) About 25 days remain until the Nov 30 ET deadline. (b) Status quo is No: Google is routing gemini-2.5-pro traffic to 3.8 Flash from Dec 1, and 3.8 Flash intro pricing runs through Dec 31. (c) No: Google focuses November on the Gemini 4 Carbon public rollout, or ships its smaller Gemini 4 model under an element codename like 'Hydrogen' without 'Flash' (Argon already broke Pro/Flash naming), or gates it to partners first as with Argon and Carbon. (d) Yes: following the Gemini 3 precedent (Pro Nov 18 to Flash Dec 17, 2025), a 'Gemini 4 Flash' public preview lands mid-to-late November after Argon's Oct 13 GA, consistent with Hydrogen leaks from a leaker with a track record, older-Flash retirements, and a paywalled Argon. The market sits at 41.5% on a wide 30/53 spread and thin volume; its 7-day jump looks leak-driven, but the leaks are unverified, their 'this week or next' timing already slipped, one Oct 30 post said not to expect Hydrogen soon, and Manifold's 'Gemini 4 Flash by Nov 13' traded at about 11%. Weighing the absent official signals and the naming and gating risks against the cadence precedent, I shade below the market to about 30%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6432",
+   "has_trace": true
+  }
+ ],
+ "Will Russia enter Bilozerske by December 31, 2026?": [
+  {
+   "id": 6415,
+   "scanned_at": "2026-11-05T02:34:41.343661",
+   "date": "2026-11-05",
+   "agent": 20,
+   "market_price_t0": 33,
+   "edge": -0.13,
+   "confidence": 0.5,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.20) after one crux research pass. (0) No source shows the condition met; the ISW map polygons were unreadable. ISW Nov 1–4 reports only marginal Russian gains at Dobropillya and no advances on Nov 3–4, with fewer attacks, and never mention Bilozerske. Ukrainian reports from Oct 16 and Nov 2 show Ukrainian troops holding the town under glide-bomb and drone strikes. (a) About 8 weeks remain until Dec 31. (b) Status quo is No: the front is stalled and Russia is losing ground overall, with Bilozerske ~6 km north of uncaptured Dobropillia and ~12–15 km from the contact line. (c) No: Ukrainian counterattacks keep infiltration confined to Dobropillia's outskirts, and the Abu Dhabi talks yield no handover. (d) Yes: Russia's 51st CAA bypasses Dobropillia westward and ISW draws a persisting infiltration polygon reaching Bilozerske's southern edge; infiltration shading is a low bar. The market's 33% (Nov 30 contract at 13%) assumes strong December momentum that ISW and Ukrainian sources do not support, and its 30-day jump appears driven by unverified Russian claims. I shade down to ~20% rather than lower because I cannot read the map and infiltration polygons may sit closer to the boundary than contact-line distances suggest.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6415",
+   "has_trace": true
+  }
+ ],
+ "US x Iran effective ceasefire continues through November 30, 2026?": [
+  {
+   "id": 6409,
+   "scanned_at": "2026-11-05T01:01:12.767313",
+   "date": "2026-11-05",
+   "agent": 40,
+   "market_price_t0": 42.5,
+   "edge": -0.024999999999999967,
+   "confidence": 0.46499999999999997,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.40, 0.40). (0) Resolution check: nothing has resolved yet. The confirmed US strike on Qeshm, Hengam and Bandar Abbas happened Nov 2–3, before this market opened on Nov 4, so it does not count. No source shows a qualifying strike on Nov 4–5. (a) About 25 days remain until 11:59 PM Iran time on Nov 30, and late-reported incidents inside the window can still be adjudicated until Dec 3. (b) Status quo: the de facto lull holds if Iran stops firing at US aircraft. Trump has said there are no 'immediate' plans after the midterm rout, a Qatari interim MOU is reportedly under review, and Qatar says both sides agreed to avoid escalation, all of which favors Yes. (c) NO scenario: daily Hormuz clashes continue (the IRGC claims an MQ-9 shoot-down and tanker attacks), Iran fires SAMs again, and CENTCOM hits a coastal SAM site on Qeshm in a 'limited, defensive' strike. That qualifies however small it is. Alternatively, Trump orders the planned short, intense campaign before the new Congress sits, with Netanyahu pushing for it. (d) YES scenario: the Qatari framework turns into simultaneous announcements, Trump is content with the blockade and chastened politically, and Iran avoids provoking US forces, giving 26 quiet days. On base rates, pauses in this war have rarely lasted more than 3–4 weeks while the strait was contested. Iran International/WSJ also describe a 'series of limited attacks in recent weeks', implying low-level strikes are more frequent than the headline gaps suggest. The Polymarket anchor is 42.5%. The related Israel x Iran Nov 30 market sits at 59.5%, which is consistent with US strikes being likelier given the US forces in Hormuz. I shade slightly below the anchor because of the high friction and the low bar for a qualifying strike.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6409",
+   "has_trace": true
+  }
+ ],
+ "Will the lowest St. Louis river level be 1.00 to 2.99 ft by November 30?": [
+  {
+   "id": 6400,
+   "scanned_at": "2026-11-04T22:19:47.235712",
+   "date": "2026-11-04",
+   "agent": 85,
+   "market_price_t0": 85.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.7,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.86, 0.84). (0) The USGS 00065/30800 series shows a window minimum of 2.77 ft (P) on 2026-11-01, already inside the 1.00–2.99 ft bin, so Yes holds unless a later 08:00 reading falls below 1.00 ft or that value is revised. (a) About 26 days remain to Nov 30, plus up to 2 days for publication. (b) Status quo: the river has rebounded to 4.64 ft, and the Nov 4 NWS forecast crests near 12.8 ft on Nov 11 and falls to about 7 ft by Nov 18, so 2.77 ft stays the minimum. (c) No: the forecast rise underperforms or recedes fast, and the Nov 15 Missouri support cutoff, a dry CPC Mississippi Valley signal and low tributaries cut flow from about 130k to about 105k cfs, pushing an 08:00 reading below 1 ft. This fall's recessions were quick (about 5.8 ft in 9 days), but it would need roughly 0.5 ft/day over 12 dry days after Nov 18. (d) Yes: any meaningful rain, especially the above-median Plains and Iowa signal, keeps stages above 1 ft; low-stage forecasts have repeatedly verified too low this season. The market at 85.5% looks roughly fair, with residual uncertainty from one report saying the forecast endpoint returned a stale issuance, so I hold close at 0.86.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6400",
+   "has_trace": true
+  }
+ ],
+ "Susie Wiles out as White House Chief of Staff by December 31?": [
+  {
+   "id": 6399,
+   "scanned_at": "2026-11-04T22:00:41.932577",
+   "date": "2026-11-04",
+   "agent": 45.5,
+   "market_price_t0": 51,
+   "edge": -0.05500000000000005,
+   "confidence": 0.45,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.44, 0.47). (0) As of Nov 4, 2026, no source shows a resignation or removal announcement; Wiles is still Chief of Staff, so YES needs an announcement or departure before Dec 31. (a) About 57 days remain. (b) Status quo is NO: Trump said in October there was 'zero chance' he would replace her and that she stays 'until the end', Wiles says she is 'not going anywhere', and she addressed aides about the next two years on election night. (c) NO: the White House blames candidates and says Trump 'wasn't on the ballot'; scapegoats are outside consultants or Hegseth, and any Wiles transition comes in 2027. (d) YES: the midterm rout (both chambers lost, 32% approval) turns Trump's anger on the chief of staff who ran the apparatus, building on Politico-reported successor canvassing and Washington Post-reported rival jockeying, ending in a Kelly-style December announcement of a January handover, which counts. Anchor: Polymarket 51%, up sharply on post-election commentary; Kalshi's differently worded contract was about 44% on Nov 2 and Axiom said 27%. I shade slightly below the market because the purge reporting is anonymous and mostly Daily Mail-sourced, the same outlet's June exit claim was denied, and Trump tends to resist firing under public pressure.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6399",
    "has_trace": true
   }
  ]

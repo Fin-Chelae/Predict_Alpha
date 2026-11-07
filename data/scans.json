@@ -4869,6 +4869,20 @@
  ],
  "Will Ethereum dip to $1,500 by December 31, 2026?": [
   {
+   "id": 6613,
+   "scanned_at": "2026-11-07T12:33:35.299334",
+   "date": "2026-11-07",
+   "agent": 8.8,
+   "market_price_t0": 10.8,
+   "edge": -0.020500000000000004,
+   "confidence": 0.61,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) Not yet met. Binance's public kline mirror shows the lowest ETH/USDT Low in the window is 1505.68, in the week of Jun 1–7, 2026. That is $5.68 above the strike, and no source reports a Binance print at or below $1,500. (a) About 55 days remain, to Dec 31, 2026 23:59 ET. (b) Status quo is No: spot is about $2,240, roughly 33% above $1,500, with supports in between at $2,170–2,200, $2,000 and $1,940. (c) No: ETH stays in its $1,900–2,800 range through year-end even with the Nov 5 risk-off selloff and ETF outflows, as it did after the two June tests that held. (d) Yes: three things would need to stack up — a hawkish Dec 9 Fed hike or revised projections, an extended Nasdaq/AI selloff, and continued ETF outflows. ETH would then break $2,000 and $1,940, and a June-style leveraged-long flush would wick into the liquidation clusters near $1,500. A driftless barrier-touch estimate at 50–60% vol puts the probability at roughly 6–9%; crypto's fat tails push it modestly higher. The Polymarket anchor is 10.8% (bid 10% / ask 11%). That fits the related ladder in the sibling-market search: $1,750 dip at 20.5% and $1,250 dip at 6.5%. I shade slightly below the market because the volatility math and the remaining support levels suggest a small tail premium is priced in.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6613",
+   "has_trace": true
+  },
+  {
    "id": 6054,
    "scanned_at": "2026-10-31T11:46:12.808252",
    "date": "2026-10-31",
@@ -8844,6 +8858,20 @@
   }
  ],
  "Will NVIDIA be the largest company in the world by market cap on December 31?": [
+  {
+   "id": 6607,
+   "scanned_at": "2026-11-07T10:55:09.502481",
+   "date": "2026-11-07",
+   "agent": 32,
+   "market_price_t0": 34.5,
+   "edge": -0.024999999999999967,
+   "confidence": 0.59,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.32, 0.32). (0) The question is not resolved. CompaniesMarketCap (Nov 6–7) shows Apple #1 at $4.975T and NVIDIA #2 at $4.506T, a gap of about 9.4%. NVIDIA must overtake Apple and still be ahead at the Dec 31 close. (a) About 8 weeks, roughly 37 trading days, remain. (b) If nothing changes, Apple stays #1 and the market resolves No. (c) No scenario: the Texas data-center moratorium and H200 China overhangs linger past Dec 31, the Nov 17 earnings beat but do not re-rate the stock, and Apple holds its safe-haven bid. (d) Yes scenario: a strong Nov 17 print and FY28 guide, plus a rebound in chip stocks from oversold levels (RSI ~33, about 11x FY28 EPS), lifts NVIDIA 10–15%. NVIDIA was #1 as recently as Nov 3, and Apple's 35x multiple could mean-revert. A simple model of the NVDA/AAPL relative move helps size this. I assumed relative volatility of about 40–45% annualised (my estimate), boosted by an earnings move of roughly ±9% (options-implied, per the research). Against a ~10% gap, that gives roughly 28–33% odds of a flip. This is slightly below the Polymarket anchor of 34.5%, which has also been volatile. I see no unpriced information that would justify a large move away from the market, so I shade only slightly below it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6607",
+   "has_trace": true
+  },
   {
    "id": 6041,
    "scanned_at": "2026-10-31T07:51:04.817025",
@@ -14514,6 +14542,20 @@
   }
  ],
  "Russia x Ukraine ceasefire by December 31, 2026?": [
+  {
+   "id": 6603,
+   "scanned_at": "2026-11-07T10:10:08.451788",
+   "date": "2026-11-07",
+   "agent": 8,
+   "market_price_t0": 10.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.64,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.08). (0) Not resolved. As of Nov 6–7, credible reporting (Al Jazeera, CFR, ISW) shows no general ceasefire, and heavy strikes continue: 2,346 drones and 80+ missiles in the week to Nov 6. Neither the Oleshky local truce (ended Nov 1–2) nor the disputed energy-only truce qualifies under the rules. (a) About 54 days remain to Dec 31, but a qualifying ceasefire has to start by about Dec 22 to complete 10 days, so the real window is roughly six weeks. (b) If nothing changes, fighting continues and the market resolves No. Russia openly rejects short truces ('peace, not a ceasefire'), still demands the rest of Donbas, and treats winter energy strikes as leverage. (c) NO scenario: the Nov 10–11 Abu Dhabi working-level talks yield only a prisoner swap and another round. Russia keeps its Donbas precondition, and any holiday truce lasts a few days, like Easter (32 hours) and Victory Day (3 days). (d) YES scenario: Russian fiscal strain (deferred December military pay, a deficit twice the projection) and US inducements (diesel and sovereign wealth fund sanctions relief) push Putin to accept a US package freezing the line. A leaders' announcement before about Dec 22 then holds 10 days, possibly with Oleshky-style mutual adherence. No source shows Moscow moving on the precondition, and every 2026 truce collapsed within days. I anchor on the Polymarket mid of 10.5% and shade slightly lower. Analysts uniformly expect only modest results from Abu Dhabi, no leaders' summit is scheduled, and the 10-day test plus the Dec 22 effective cutoff are stricter than the sibling 'agreement' market at 13.5%. The 'peace deal signed' market sits at 7.5%. Trump's 'very close' claims have repeatedly not matched Kremlin statements.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6603",
+   "has_trace": true
+  },
   {
    "id": 6047,
    "scanned_at": "2026-10-31T09:26:24.602290",
@@ -20800,7 +20842,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-07T10:07:02.569Z",
+  "last_sync": "2026-11-07T19:25:32.602Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -24117,6 +24159,20 @@
  ],
  "Another Fed rate hike in 2026?": [
   {
+   "id": 6621,
+   "scanned_at": "2026-11-07T15:23:32.425246",
+   "date": "2026-11-07",
+   "agent": 76.5,
+   "market_price_t0": 75.5,
+   "edge": 0.010000000000000009,
+   "confidence": 0.62,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.76, 0.77). (0) Not yet resolved. The Fed's open market table shows only the September 17 change to 3.75–4.00%, which the rules exclude, and FRED DFEDTARU is still 4.00 on Nov 7. A qualifying hike has to come at the Dec 8–9 FOMC or as an emergency move before it. (a) About 32 days remain until the Dec 9 decision. (b) If nothing changes, the range stays at 3.75–4.00% and the market resolves No. Yes therefore requires the Committee to actually act in December; a January hike would fall outside the window. (c) No path: the Nov 10 October CPI prints soft, and Warsh, who refused December guidance, has already held once despite hawkish dots. Add a softer November jobs report or a spreading Nasdaq/AI selloff, and the Williams/Jefferson leadership core picks patience again. (d) Yes path: CPI comes in near consensus or hotter and payrolls stay firm. The broad hawkish bloc then delivers a 25bp hike on Dec 9: September dots with 16 of 18 expecting more hikes, Cook and Hammack dissenting for a hike, and Daly, Barkin, Logan, Musalem and Waller all signalling more tightening. The strong October jobs report (165k, unemployment at 4.1%, wages +0.4%) supports this. The anchor is this market's 75.5%. The sibling Polymarket December 25bp contract trades at 76.5%, Kalshi at about 77–78%, and CME FedWatch at about 77–80% after payrolls, all consistent with each other. The research surfaces nothing the market hasn't priced, so I stay close to consensus, slightly above it given the hawkish speaker drumbeat and the sibling and futures prices. Odds have swung between 60% and 85% within days, so the uncertainty around the remaining data is real.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6621",
+   "has_trace": true
+  },
+  {
    "id": 6063,
    "scanned_at": "2026-10-31T15:21:54.282751",
    "date": "2026-10-31",
@@ -26254,6 +26310,20 @@
   }
  ],
  "Will AI solve 0 more Millennium Prize Problems in 2026?": [
+  {
+   "id": 6616,
+   "scanned_at": "2026-11-07T13:25:33.982571",
+   "date": "2026-11-07",
+   "agent": 87,
+   "market_price_t0": 86.5,
+   "edge": 0.0050000000000000044,
+   "confidence": 0.6799999999999999,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.87, 0.87). (0) Resolution check: the condition is not met, and the count of qualifying announcements stands at zero. The Papex tracker (28 Oct), Clay's page and current reporting show no eligible lab claiming a full solution to BSD, Hodge, P vs NP, Riemann, or Yang-Mills with the mass gap. Navier-Stokes is excluded, and OpenAI's quasi-RH, Hodge/BSD special-case and Yang-Mills-existence results are all explicitly partial. (a) About 54 days remain until 31 Dec 2026 11:59 PM ET. (b) If nothing changes, the count stays at 0 and this market resolves Yes. (c) Path to No: OpenAI's next GPT, which Altman says ships 'soon', comes with a claimed full solve of Hodge or BSD, its rumoured next targets. Alternatively, OpenAI or another lab drops scoping language and declares a problem 'solved' before year-end. (d) Path to Yes: OpenAI keeps its caveated 'raw research data' framing. Its own Yang-Mills panel (Gross, Jaffe and others) has publicly said the mass gap remains open, and the procedural cadence of Lean formalization plus expert custody pushes any further claim into 2027. The market anchor is 86.5% with strong upward momentum, and the sibling '1 more' market sits at about 9%. The pace of AI math announcements in this world is unusually fast, with OpenAI making a major release every 3–5 weeks, so a ~13% tail for a qualifying claim seems right. I hold roughly at the market price, with a very slight upward lean given the status quo and OpenAI's careful scoping.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6616",
+   "has_trace": true
+  },
   {
    "id": 6057,
    "scanned_at": "2026-10-31T12:31:00.245033",
@@ -30523,6 +30593,20 @@
  ],
  "Will Anthropic launch a Muse-like personal agent before 2027?": [
   {
+   "id": 6619,
+   "scanned_at": "2026-11-07T14:11:10.911351",
+   "date": "2026-11-07",
+   "agent": 90.5,
+   "market_price_t0": 90.5,
+   "edge": -0.0004999999999999449,
+   "confidence": 0.7,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.90, 0.91). (0) Resolution check: the condition looks substantively met already. Anthropic's own page (claude.com) announced Claude Duet on 2026-10-21, after the market opened on Oct 8. Duet is a proactive agent that \"has a virtual machine with its own browser\" and works \"on its own computer in the cloud.\" It sends unprompted morning briefs and checks connected accounts every few hours. It can act in Gmail, Slack, Gusto, Docusign and Shopify, subject to user approval. It is sold to individual US Pro, Max and Ultra subscribers through a public waitlist, and the rules say paid-plan limits, country limits and open rolling waitlists qualify. The market has not resolved, though, and the residual doubt is definitional. Anthropic labels Duet a \"research preview,\" admission comes \"in waves\" with an emailed invite, and some outlets call it \"not a launch.\" A strict resolver could read that as private access. Smaller risks are that approval-gated actions or polling every few hours (rather than triggering on events) might be judged short of the Muse definition. (a) There are about 8 weeks left, until Dec 31, 2026. (b) If nothing changes, Duet stays a waitlist preview that is actively admitting users, which most credible outlets describe as a release or launch. That most likely resolves Yes. (c) No scenario: the resolver treats an invite-in-waves research preview as closed or private access, and Anthropic announces no general availability before year-end. (d) Yes scenario: the resolver accepts the public waitlist signup as an \"open rolling waitlist\" under Anthropic's official materials, or Anthropic widens access or removes the waitlist before Dec 31. I anchor on the 90.5% market price, which already reflects this interpretive risk, and see no new information that justifies moving far from it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6619",
+   "has_trace": true
+  },
+  {
    "id": 5314,
    "scanned_at": "2026-10-21T23:18:59.995279",
    "date": "2026-10-21",
@@ -31491,6 +31575,20 @@
  ],
  "Will no next Israeli Minister of Defense be appointed by February 28, 2027?": [
   {
+   "id": 6626,
+   "scanned_at": "2026-11-07T17:21:18.938129",
+   "date": "2026-11-07",
+   "agent": 32.5,
+   "market_price_t0": 26.2,
+   "edge": 0.063,
+   "confidence": 0.48,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.32, 0.33) after one crux research pass. (0) Not resolved. As of Nov 5–7 there is no 38th government and no Defense Minister approved by the Knesset. Katz remains caretaker, which does not count. Herzog was due to assign the mandate on Nov 8, most likely to Eisenkot (67 recommendations to 46).\n(a) There are about 113 days left to Feb 28. The legal cascade keeps formation possible until roughly Feb 24: 28+14 days for the first nominee, 28 days for a second, then a 21-day 61-MK request window and 14 days for a third nominee.\n(b) If nothing changes, the blocs stay at 53/48 with 19 Arab seats and no 61. Liberman's veto on Arab abstention support holds, the process runs out, and the Knesset dissolves. That gives a repeat election in spring 2027 and Yes.\n(c) NO path to a Yes outcome: Eisenkot refuses to compromise on universal service, the Haredi parties won't join without draft exemptions, and Netanyahu's second attempt fails. Netanyahu prefers a rerun as caretaker. Brookings and Ynet's Karni both rate failure or a repeat election as most likely.\n(d) YES path to a No outcome: Liberman has dropped his Haredi veto and accepts \"painful compromises.\" UTJ signals \"give us a draft law and we'll go with them,\" and Shas leaves the door open. A softened draft deal, a late unity or rotation deal, or defections could produce a confidence vote by Dec–Feb, and any such government would seat a Defense Minister.\nThe market has fallen from ~54% to ~26% this week, which likely prices these Haredi and Liberman openings. Expert commentary remains more pessimistic, and the 2019 precedent of two failed formations is relevant. I therefore sit slightly above the market's mid at 32%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6626",
+   "has_trace": true
+  },
+  {
    "id": 6069,
    "scanned_at": "2026-10-31T17:17:07.185556",
    "date": "2026-10-31",
@@ -31718,6 +31816,20 @@
   }
  ],
  "Will no next Israeli Minister of Foreign Affairs be appointed by February 28, 2027?": [
+  {
+   "id": 6623,
+   "scanned_at": "2026-11-07T16:40:54.617820",
+   "date": "2026-11-07",
+   "agent": 39.5,
+   "market_price_t0": 34.5,
+   "edge": 0.050000000000000044,
+   "confidence": 0.45,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.39, 0.40). (0) Not yet met: as of Nov 5-7 no new government exists, and Sa'ar is only a caretaker Foreign Minister, which the rules exclude. A government must win a Knesset confidence vote with a Foreign Minister before Feb 28 for this to resolve No. (a) About 113 days remain. The legal mandate sequence (42 days, then 28, then a 61-MK third nominee with 14 days) runs to roughly Feb 27, so every legal attempt can just fit. (b) Status quo is deadlock, meaning Yes: Netanyahu's bloc has 53 seats, the Zionist opposition 48, and Arab-led lists 19. Eisenkot's 67 recommendations include Arab parties that Liberman and Bennett refuse to depend on, his camp rejects unity with Netanyahu, and the Haredi conscription dispute blocks a UTJ deal. (c) Yes path: Brookings, Ynet's Karni and Drassinower all name another election as the likeliest outcome. Eisenkot burns 42 days, Netanyahu fails, the Knesset dissolves, and a spring election follows with Sa'ar still caretaker. (d) No path: pressure from the end of US aid and the cost of a re-run push Liberman toward the Haredim, or produce a minority government with outside Ra'am support, sworn in by January or February with a Foreign Minister such as Lapid. Historically, formations take 20-100 days. The Polymarket mid is 34.5%, and the related 'government formed by Feb 28' market at 67.5% agrees. I nudge Yes slightly up because the expert consensus treats formation failure as the modal outcome and the calendar is tight, but Israeli politicians' record of last-minute deals keeps the move modest.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6623",
+   "has_trace": true
+  },
   {
    "id": 6066,
    "scanned_at": "2026-10-31T16:35:28.120412",
@@ -33083,6 +33195,20 @@
  ],
  "Will Ko Chih-en win the next Kaohsiung Mayor election?": [
   {
+   "id": 6610,
+   "scanned_at": "2026-11-07T11:44:31.181108",
+   "date": "2026-11-07",
+   "agent": 13,
+   "market_price_t0": 10.8,
+   "edge": 0.021500000000000005,
+   "confidence": 0.61,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.13). (0) The race is not resolved. The CEC database has no 2026 results, and voting is on Nov 28, 2026. (a) About 21 days remain until the election, and certification should follow within days, well before the June 2027 'Other' deadline. (b) If nothing changes, Lai Jui-lung (DPP) wins. He leads in every independent phone-based poll, by about 7 points in UDN (Oct 28–31, 26% undecided) and by about 19–20 points in Fengcan. Only ETtoday's online panel shows a tie, and the only 'Ko 50-50' claim is her own unverified internal poll. (c) NO: Kaohsiung's structural DPP lean holds (the DPP has won every regular race since 2006 except 2018, and holds all eight legislative seats), Chen Chi-mai stays popular, and Lai's supporters report higher turnout intent. Lai then wins by a mid-to-high single-digit margin or more. (d) YES: blue-white consolidation (TPP backing, Huang Kuo-chang and Ko Wen-je campaigning), a claimed post-debate surge, and a 2018-style late break of neutrals and older voters toward Ko produce a polling miss. A favourable national KMT environment would help; the related market prices the KMT winning the most races at about 73%. The Polymarket anchor is about 10.9%, down sharply from 43%. I nudge it up slightly because Taiwanese polls vary widely by pollster, the undecided share is large, and the national climate leans KMT, but no independent post-debate poll shows Ko ahead.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6610",
+   "has_trace": true
+  },
+  {
    "id": 6026,
    "scanned_at": "2026-10-31T03:58:21.034167",
    "date": "2026-10-31",
@@ -33986,6 +34112,22 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.78, 0.76). (0) No qualifying confirmation is documented as of Nov 7: the review group still calls it a claimed refutation, Fortnow's post is hedged, and there is no peer-reviewed acceptance. (a) About 54 days remain; route (i) is effectively closed since STOC 2027 notifies Feb 1, 2027, so an unqualified expert statement is the only realistic path. (b) Status quo is No, but the trajectory points to acceptance: an independent Anthropic proof with a direct Lean ETHIsFalse statement, human re-derivations by O'Donnell and Kintali, outside Lean replications, no reported errors, and leading commentators treating it as settled. (c) NO: the review group stays cautious, issues only 'no errors found' language or waits for the 2027 conference, and no one else states it unqualified in time; or an error turns up in the flagged 'alien-looking' sections or the Lean-to-paper match. (d) YES: Williams, Impagliazzo, Paturi, O'Donnell, Nelson or another unaffiliated theorist states the proof has been checked and ETH is false. The market at 80.5% (June 2027 market at 91%) already prices this well; I shade slightly down for the strict unqualified-wording requirement.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/6575",
+   "has_trace": true
+  }
+ ],
+ "Next White House Press Secretary announced by November 30, 2026?": [
+  {
+   "id": 6633,
+   "scanned_at": "2026-11-07T19:17:27.445022",
+   "date": "2026-11-07",
+   "agent": 41.5,
+   "market_price_t0": 42,
+   "edge": -0.004999999999999949,
+   "confidence": 0.475,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.40, 0.43). (0) Not met as of Nov 7: NBC, Wikipedia and whitehouse.gov show the post vacant since Oct 16. Trump's Nov 7 post only says Dana White 'has been offered the job', unconfirmed by the White House and unaccepted by White, so a strict resolver likely won't count it; Trump's 'I am pleased to announce' wording and Rapid Response 47's repost add some lenient-reading risk. (a) About 23 days remain until Nov 30, 11:59 PM ET. (b) Status quo is NO: briefings have run without a press secretary since late August, Trump said 'we're in no rush', and the prior search took ~8 weeks. (c) NO: White declines or the offer proves a joke like the Minaj/Benny Johnson remarks, and Miller's Nov 9 takeover as chief of staff absorbs staffing attention. (d) YES: White accepts (his 'On to the next chapter' caption hints at it) or the White House confirms and Trump declares him press secretary; or Trump names Anna Kelly or another loyalist in a post-midterm reset now that the stated obstacle, the midterms, has passed. The Polymarket anchor of 42% already reflects the White news (+7.5% this week), and the Dec 31 market sits at 72%. I shade slightly lower because a joke-toned, unaccepted offer to a sitting UFC CEO more likely fizzles within three weeks.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6633",
    "has_trace": true
   }
  ]

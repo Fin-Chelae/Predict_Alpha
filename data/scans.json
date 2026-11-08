@@ -6707,6 +6707,20 @@
  ],
  "Will a Chinese company have the best AI model by December 31?": [
   {
+   "id": 6699,
+   "scanned_at": "2026-11-08T18:03:37.516242",
+   "date": "2026-11-08",
+   "agent": 5,
+   "market_price_t0": 7,
+   "edge": -0.020000000000000004,
+   "confidence": 0.72,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.05). (0) Resolution check: the condition is not met. Mirrors of Arena data dated Oct 28 to Nov 6 show Google's Gemini 4 Carbon at #1 (1527–1540). The best Chinese model is about 39–49 points behind: Xiaomi MiMo at #12 on the raw board, Kimi K3 at #19 with style control on. No source shows a Chinese #1 at any point since the market opened in April, and history has no Chinese overall text #1 at all. One caveat: the live resolution page itself returned 403, so I relied on mirrors.\n(a) About 7.5 weeks remain until 11:59 PM ET on Dec 31, 2026.\n(b) If nothing changes, a Google or Anthropic model stays at #1 and the market resolves No.\n(c) NO: Qwen4 slips, or launches and lands somewhere in the top 10 to 20, as Chinese flagships have all year. Western labs keep shipping (GPT-6 variants, Claude Fable) and the gap holds.\n(d) YES: Alibaba ships Qwen4-Max in mid-November and it collects enough votes to debut above 1530 on the no-style-control board by December. A DeepSeek V5 surprise is a second, weaker path. The \"any check\" wording also helps, since a short preliminary spike to #1 would count.\nOn pricing: the market sits at 7% (bid 6, ask 8). Related markets put Alibaba #1 by Dec 31 at 3.25% and Chinese labs near zero for month-end Nov #1, though \"top 3 by Dec 31\" trades at 16.5%. Given the 40+ point gap, no Chinese model near the top in any snapshot this year, and repeated Qwen4 slippage, I shade slightly below the market to about 5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6699",
+   "has_trace": true
+  },
+  {
    "id": 5451,
    "scanned_at": "2026-10-23T17:43:38.137493",
    "date": "2026-10-23",
@@ -9218,6 +9232,20 @@
   }
  ],
  "Will Gavin Newsom announce a Presidential run before 2027?": [
+  {
+   "id": 6698,
+   "scanned_at": "2026-11-08T17:41:53.672509",
+   "date": "2026-11-08",
+   "agent": 6.5,
+   "market_price_t0": 7.5,
+   "edge": -0.009999999999999995,
+   "confidence": 0.56,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). {\"probabilities\":[{\"market\":\"Yes\",\"probability\":0.065},{\"market\":\"No\",\"probability\":0.935}],\"rationale\":\"(0) The condition is not met. Newsom's X feed through Nov 6 shows no announcement, and multiple outlets (Time, Yahoo, 2028tracker on Nov 8) say he is still 'weighing' a run. He has made no FEC filing and has not formed an exploratory committee. (a) About 53 days remain until Dec 31, 2026, and that stretch includes Thanksgiving and Christmas. (b) If nothing changes, the market resolves No. Newsom remains governor until January 2027 and is handling the death-row commutation fallout and the transition to Becerra. He has said there is 'no such thing as a deadline.' (c) NO path: Harris keeps her decision open, since she told a podcast on Nov 7 that she has set no timeline. Newsom sticks to his 'wouldn't run if she ran' pledge and waits until after leaving office, following the historical norm of announcements in January through spring after the midterm year. (d) YES path: Harris publicly rules out a run in Nov or Dec, Newsom's family agrees, and he announces by video in the lame-duck weeks to grab front-runner momentum after Prop 50 and the blue wave. This needs several uncertain steps and none has begun. The Polymarket anchor is 7.5% and has fallen recently; a duplicate same-deadline market sits at about 11.5% on thinner, staler trading. I lean slightly below the main anchor at 6.5%, given the Harris gate, the base rates and his office tenure.\",\"confidence\":0.68,\"unverified_claims\":[\"Report that Newsom told allies he won't announce until after leaving office in January 2027 (possibly a year-old paraphrase)\",\"Harris has not set any decision timeline before year-end\"]}",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6698",
+   "has_trace": true
+  },
   {
    "id": 6149,
    "scanned_at": "2026-11-01T17:40:09.072699",
@@ -20898,7 +20926,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-08T10:21:14.681Z",
+  "last_sync": "2026-11-08T19:40:47.104Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -26633,6 +26661,20 @@
  ],
  "Will David Lisnard advance to the second round of the next French presidential election?": [
   {
+   "id": 6701,
+   "scanned_at": "2026-11-08T18:19:46.642978",
+   "date": "2026-11-08",
+   "agent": 9,
+   "market_price_t0": 17.9,
+   "edge": -0.089,
+   "confidence": 0.6,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09) after one crux research pass. (0) The condition is not met and not yet impossible: the first round is scheduled for 18 April 2027 and no results exist. Lisnard would need to finish top two in that vote. (a) About 5.3 months remain until the first round, and trading closes 19 April 2027. (b) If nothing changes, the answer is NO. Polling averages put Lisnard at roughly 6–7% (Ifop 29 Oct: 7–9%; Ipsos 6.5%; OpinionWay 6%). Le Pen holds about 35%, and second place is Mélenchon at about 17–18%, with Philippe and Glucksmann around 10–15%. Public Sénat describes a Le Pen–Mélenchon runoff as currently 'assuré', and PrésiTracker's model gives him about 2% to reach the runoff. (c) NO: Philippe keeps refusing a primary, which Franceinfo, Public Sénat and Europe1 confirm through 7 Nov. The right and centre stay split four ways at under 10% each, and Mélenchon or Philippe takes the runoff slot. (d) YES: pressure forces a right-and-centre primary, Lisnard wins it on momentum and strong crossover appeal to the hard right, and he consolidates to about 17–20%. He then passes a Mélenchon held down by left-wing tactical voting, or a collapsing Philippe. The market anchor is 17.9%, but his 'win the presidency' price is an implausible 14.85%, which shows hype in a thin market (new-wallet buying is reported but contested). The runoff price is therefore likely inflated, not informative. Chaining the steps — a primary happening (~35%), Lisnard winning it (~30%), then beating Mélenchon or Glucksmann (~50%) — plus a small chance of an organic surge gives roughly 7–10%. I discount well below the market but keep some weight on his steep trajectory and Philippe's decline.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6701",
+   "has_trace": true
+  },
+  {
    "id": 6132,
    "scanned_at": "2026-11-01T11:53:30.560065",
    "date": "2026-11-01",
@@ -28962,6 +29004,20 @@
   }
  ],
  "Pedro Sánchez out as PM of Spain by December 31, 2026?": [
+  {
+   "id": 6704,
+   "scanned_at": "2026-11-08T19:34:19.028375",
+   "date": "2026-11-08",
+   "agent": 13,
+   "market_price_t0": 16.5,
+   "edge": -0.035,
+   "confidence": 0.62,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.13). (0) Not met: La Moncloa still lists Sánchez as Presidente del Gobierno, and every source shows him campaigning as PSOE candidate. No resignation, removal or detention is reported. (a) About 7.5 weeks remain to 31 Dec; the election is 29 Nov and the new Cortes are only constituted on 23 Dec. (b) Status quo: after the election Sánchez becomes acting PM (Art. 101.2) until a successor takes office. The rules shown on the polym.trade mirror, though missing from the prompt's text, say caretaker status does not count. EFE expects the investiture in January, and Sánchez attends the mid-December G20 and European Council as acting PM. So the status quo is No. (c) No: PP+Vox win as polls show, Sánchez stays caretaker through Christmas, and Feijóo is invested in January. The sibling strikes (15 Jan 48.5%, 31 Jan 79.5%) confirm traders expect any handover after this deadline. (d) Yes: a heavy defeat followed by an explicit announcement that he is resigning as PM (not merely as PSOE leader), a new Koldo or family-case shock, or a dispute over the routine BOE 'cese' decree if the caretaker clause is not in the live rules. A Christmas-week investiture is near-impossible. Anchoring on the 16.5% market, I shade slightly lower given his history of staying on (90 seats in 2015, April 2024) and the downward trend, while keeping about 13% for a post-defeat resignation announcement and resolution ambiguity.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6704",
+   "has_trace": true
+  },
   {
    "id": 6155,
    "scanned_at": "2026-11-01T19:29:35.628617",
@@ -34302,6 +34358,70 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.09, 0.11). (0) Resolution check: no source reports an in-person Trump–Zelenskyy meeting since the market opened on Oct 31. The last confirmed meeting was the Sept 22 UNGA bilateral, which predates the market and does not count. Nothing is scheduled before Nov 30, so the condition is neither met nor ruled out. (a) About 23 days remain, until Nov 30 at 11:59 PM ET, and Trump's reported Asia trip (ASEAN in Manila, then APEC in Shenzhen, roughly Nov 16–19) takes up part of that time. (b) Status quo is No: contact is running through envoys and phone calls, the Abu Dhabi talks on Nov 10–11 are delegation-level, and the most likely joint venue, the G20 in Miami on Dec 14–15, falls after the deadline. (c) NO path: Abu Dhabi produces only technical progress, Trump keeps working the US–Russia bilateral track (he met Dmitriev on Nov 5 while Kyiv was excluded), and he spends mid-November in Asia. Friction continues, including Trump's October criticism of Zelenskyy and Zelenskyy calling Trump's proposed security deal 'dangerous', and the next meeting lands at the G20 or later. (d) YES path: Abu Dhabi goes well, Trump says a deal is 'very close', and he invites Zelenskyy to the White House or Mar-a-Lago on a few days' notice in late November. Past meetings were set up within 2–4 days, so this is plausible; a rapidly arranged leaders' trilateral is a lower-probability variant. The historical rate of a meeting every 1–3 months argues for something above zero, but the strained relationship, the travel schedule and the record of 'very soon' slipping (Nov 2025 slipped to Dec 28) all cut against it. I stay close to the market's 8.3%, nudging slightly up for the short-notice precedent.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/6635",
+   "has_trace": true
+  }
+ ],
+ "Marco Rubio out as Secretary of State by December 31, 2026?": [
+  {
+   "id": 6696,
+   "scanned_at": "2026-11-08T17:01:28.884632",
+   "date": "2026-11-08",
+   "agent": 10,
+   "market_price_t0": 12.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.555,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.10). (0) The condition is not met. The State Department biography lists Rubio as Secretary of State \"January 21, 2025 - Present\", news from Nov 6-8 shows him still serving and travelling to the Paris G7, and no resignation or removal has been announced. (a) About 53 days remain, until 11:59 PM ET on Dec 31, 2026; an announcement alone in that window would resolve Yes. (b) If nothing changes, he stays and the market resolves No. Rubio told the NYT that serving the full term was \"always been my plan\", and the White House and State both issued on-record denials, calling the reports a \"hoax\" and \"fake news\". (c) No: he finishes the G7 trip, keeps his dual State/NSA role through the Iran-war diplomacy, and any post-midterm firing pressure lands on Hegseth or others. (d) Yes: the Bloomberg-sourced talks with the White House about stepping down turn into a December announcement, so Trump can nominate a successor before Democrats take the Senate in January. Wiles's ouster shows that pre-midterm denials do fail. The Polymarket anchor is 12.5%. The sibling contracts (Nov 15 at 2.25%, Nov 30 at 3.85%) imply about 9% for December alone, which looks rich given the coordinated denials and the absence of any timetable. I shade slightly below the market to 10%, keeping meaningful weight on the credible Bloomberg report and the lame-duck confirmation logic.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6696",
+   "has_trace": true
+  }
+ ],
+ "Pete Hegseth impeached by December 31, 2026?": [
+  {
+   "id": 6693,
+   "scanned_at": "2026-11-08T16:24:15.398315",
+   "date": "2026-11-08",
+   "agent": 68,
+   "market_price_t0": 71,
+   "edge": -0.030500000000000083,
+   "confidence": 0.55,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.69, 0.67). (0) Not resolved: Clerk page and Nov 4-8 reports show no House vote yet; the House reconvenes Nov 9. Yes requires Massie to refile his privileged resolution and a majority to defeat any table/refer motion and pass at least one article while Hegseth is still in office. (a) About 7.5 weeks remain in the lame-duck session; the new Democratic House is seated Jan 3, after the deadline. (b) Status quo: Massie will 'definitely' refile, forcing a vote within two legislative days. Axios (Nov 8) says GOP leaders are 'bracing for enough GOP defections'; CNN and MS NOW cite GOP sources expecting passage; Jeffries became a 'hard yes' Nov 8. With 214 D plus 1 I and 2 vacancies, roughly 3-4 Republicans are needed, Massie being one. (c) No: a tabling or referral motion succeeds as absences and Trump whip pressure keep the handful of defectors short (Bacon only undecided), leadership delays again as in September, or Trump forces Hegseth out before the vote, which resolves No. (d) Yes: Massie files Nov 9-10, Democrats vote near-unanimously, 4+ Republicans defeat tabling and pass the articles that week, with a fallback December attempt if the first fails. Anchored on the 71% market; with no named whip count, procedural and pre-vote-exit risk keeps me slightly below it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6693",
+   "has_trace": true
+  }
+ ],
+ "Aryeh Deri out as Shas Leader by December 31?": [
+  {
+   "id": 6691,
+   "scanned_at": "2026-11-08T15:17:25.459129",
+   "date": "2026-11-08",
+   "agent": 13,
+   "market_price_t0": 32,
+   "edge": -0.19,
+   "confidence": 0.64,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.14, 0.12) after one crux research pass. (0) Resolution check: the condition is not met. On Nov 4 the Council of Torah Sages refused Deri's reported resignation request, and Deri said he accepted that \"without hesitation or reservation.\" Shas called the resignation reports false. On Nov 8 Shas announced he was leaving only the Knesset list, and Ynet, JPost and Haaretz all report he remains chairman. (a) About 53 days remain until Dec 31, 2026. (b) Status quo is No. Deri leads from outside the Knesset, as he did in 2022, and the rabbis want him in charge through coalition talks and the draft-exemption fight. (c) No scenario: Deri runs Shas's coalition negotiations through December and no new council session or ouster happens. (d) Yes scenario: Rabbi Yitzhak Yosef revives the ouster plan Kan reported, the council reverses its ruling, perhaps after Shas is shut out of an Eisenkot government, and a new chairman is named with Deri as \"party president.\" A second Yes path is a resolver counting the Nov 4 private request as an \"announcement,\" which seems unlikely because Shas denied it officially and the market kept trading. The Polymarket mid is 32%, but the book is thin and wide (19/45 on $20k volume), so it is a weak anchor. The specific Nov 4 ruling and Nov 8 outcome, plus Deri's record of surviving refused resignations in 2014 and 2026, justify pricing well below it. I keep some probability for the post-election discontent, Yosef's rivalry, and the resolution ambiguity.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6691",
+   "has_trace": true
+  }
+ ],
+ "US x Iran Effective Ceasefire by December 31?": [
+  {
+   "id": 6683,
+   "scanned_at": "2026-11-08T11:48:46.369867",
+   "date": "2026-11-08",
+   "agent": 82.5,
+   "market_price_t0": 83,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.59,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.82, 0.83). (0) Not yet resolved: the last reported US strikes on Iranian land (Qeshm, Nov 6-7, plus an unconfirmed Jask report) came at or before market creation on Nov 8, so YES needs any 14-day strike-free window whose first day falls on or before Dec 31. (a) That allows about 54 possible start dates, with the last window completing around Jan 13 plus a 3-day reporting lag; NO requires US strikes on Iranian soil at least every 14 days for more than two months. (b) If the current lull holds, the window completes around Nov 21-22; sibling markets (Nov 22 at 51.5%, Nov 30 at 63.5%) price a few clock resets, and this contract trades at 83%. (c) NO: Trump resumes major combat around the Nov 9 new moon or later in the lame-duck window, and a sustained campaign or recurring 'defensive' suppression strikes keep resetting the clock into January. (d) YES: the Vance/Qatar talks produce a bridge deal or tacit stand-down, or a short campaign ends as the 13-night July one did, leaving a quiet stretch like the roughly 8-week September-November gap. Trump's admission that the war cost the midterms adds pressure against escalation. I stay near the market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6683",
    "has_trace": true
   }
  ]

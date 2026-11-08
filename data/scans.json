@@ -505,6 +505,20 @@
  ],
  "Will Javier Milei win the 2027 Argentina presidential election?": [
   {
+   "id": 6667,
+   "scanned_at": "2026-11-08T05:00:45.170082",
+   "date": "2026-11-08",
+   "agent": 46,
+   "market_price_t0": 44.5,
+   "edge": 0.015000000000000013,
+   "confidence": 0.45999999999999996,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.46, 0.46). (0) Nothing is resolved. The CNE and DINE pages carry only 2025 legislative material, and the first round is not until 24 Oct 2027. (a) That leaves about 11.5 months to the first round, and a runoff would follow within 30 days. Polls show Milei at 29–35% in the first round, far below the 45% (or 40% plus a 10-point lead) needed to win outright, so the race almost certainly goes to a runoff. (b) If nothing changes, the runoff is close to a coin flip. The Clarín average of 11 polls has Milei 42–39, and CB and QMonitor have him up 1–3. RDT, Haime, QSocial and Delfos have Kicillof or Massa ahead. Rejection runs 56–61%, and bond-market commentary puts re-election at about 45%. (c) NO: Peronism unites behind Kicillof or Massa, food inflation and household pessimism keep eroding Milei's standing, and the post-midterm US political shift limits outside financial support. Buenos Aires province, where Kicillof leads, then carries the runoff. (d) YES: Peronism stays fractured, with Cristina's camp and Kicillof at odds, or nominates a polarizing figure. Disinflation and growth continue, Bullrich stays aligned, and the 46–46 'worse for the country' anti-Peronist vote carries Milei, as in 2023 and in the 2025 midterm rebound when polls underestimated LLA. The anchor is Polymarket at 44.5%, down 11 points in 30 days. I nudge slightly up, to 46%, for incumbency, Milei's first-round leads, Argentine polls' record of underestimating him, and the possible recent easing in country risk. There is no strong unpriced information to justify a larger move.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6667",
+   "has_trace": true
+  },
+  {
    "id": 6111,
    "scanned_at": "2026-11-01T04:54:29.479723",
    "date": "2026-11-01",
@@ -5112,6 +5126,20 @@
   }
  ],
  "Will OpenAI announce earbuds or headphones in 2026?": [
+  {
+   "id": 6680,
+   "scanned_at": "2026-11-08T09:31:43.596224",
+   "date": "2026-11-08",
+   "agent": 7.5,
+   "market_price_t0": 11.5,
+   "edge": -0.039999999999999994,
+   "confidence": 0.56,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.08). {\n  \"probabilities\": [\n    {\"market\": \"Yes\", \"probability\": 0.07},\n    {\"market\": \"No\", \"probability\": 0.93}\n  ],\n  \"rationale\": \"(0) The condition is not met. OpenAI's news page, rendered Nov 8 with posts through Nov 6, shows no device, earbud or headphone announcement, and no research report found any official hardware announcement or event invite. (a) About 53 days remain until the Dec 31, 2026 11:59 PM ET deadline. (b) Status quo is NO. DevDay (Sept 29) passed without hardware, and no teaser or event is scheduled. (c) NO scenario: OpenAI holds its first reveal in early 2027 because the Apple trade-secret suit and injunction risk are still live. Or it unveils only the doughnut-shaped screenless speaker that Bloomberg and MacRumors have reported since July as the first product. (d) YES scenario: OpenAI keeps Lehane's 'unveil in 2H 2026' promise with a year-end family reveal that also previews earbuds or headphones. MacRumors lists 'potentially earbuds' only in a 'further out, could be cancelled' tier, so this is a narrow path. The market sits at 11.5%, and the sibling 'launch new consumer hardware by end of 2026' trades at 12.5%. That implies the crowd sees any hardware reveal as unlikely, and earbuds should be only a fraction of that. I shade below the anchor to about 7%, because every credible report puts the speaker first and the earbud evidence is limited to stale, unconfirmed tipster leaks from early 2026.\",\n  \"confidence\": 0.62,\n  \"unverified_claims\": [\n    \"No OpenAI hardware announcement occurred earlier in 2026 (only the latest page of the news feed was searched, though multiple trackers corroborate)\",\n    \"Bloomberg's report that the first device is a speaker, not earbuds, read only via secondary outlets\"\n  ]\n}",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6680",
+   "has_trace": true
+  },
   {
    "id": 5764,
    "scanned_at": "2026-10-27T22:40:40.990305",
@@ -9800,6 +9828,20 @@
   }
  ],
  "AI bubble burst in 2026?": [
+  {
+   "id": 6644,
+   "scanned_at": "2026-11-07T22:48:58.679978",
+   "date": "2026-11-07",
+   "agent": 9.5,
+   "market_price_t0": 8.9,
+   "edge": 0.005500000000000005,
+   "confidence": 0.625,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.08). (0) No resolving combination is met yet. SOXX's lowest close was $131.90 on Nov 5, against a 40% line of about $131.0 from the $218.34 record close, and it has rebounded to $136.53. NVDA ($186.64) needs a close of about $119.6. The Silicon Data H100 index is $3.04 and rising, OpenAI just raised $11B, and Anthropic is mid-IPO. Among the named suppliers, only SMCI already sits more than 50% below its 2024 all-time high, and whether that standing drawdown counts 'within 90 days' is ambiguous. (a) About 55 days remain until Dec 31, 2026. (b) Status quo is No: at most SOXX plus a disputed SMCI count, which is two at best. (c) No: chips keep the V-shaped pattern seen in July, and NVDA's Nov 17 earnings and continued capex calm the sector, so neither NVDA nor any second supplier gets near -50%. (d) Yes: the policy-driven capex scare deepens, SOXX closes about 4% lower, and Broadcom falls roughly 18% more to about $241 (50% below its $481.57 close high), perhaps around its Dec 9 earnings. Combined with SMCI being counted literally, that makes three. Rough path math gives about 40% that SMCI counts times about 25% for an AVGO -50% close, which is highly correlated with SOXX breaching. Add a small probability for non-SMCI paths needing NVDA, ASML or TSM to fall 30-36%. That lands near 11%, slightly above the 9% Polymarket anchor. The market has stayed in the 6-16% range for months, which implies most traders discount the SMCI shortcut, so I stay close to the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6644",
+   "has_trace": true
+  },
   {
    "id": 6081,
    "scanned_at": "2026-10-31T21:12:40.960503",
@@ -14982,6 +15024,20 @@
   }
  ],
  "Will Russia capture all of Kostyantynivka by December 31, 2026?": [
+  {
+   "id": 6636,
+   "scanned_at": "2026-11-07T20:36:53.253969",
+   "date": "2026-11-07",
+   "agent": 5.8,
+   "market_price_t0": 8,
+   "edge": -0.0225,
+   "confidence": 0.68,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) The condition is not met. ISW's Nov 1 assessment says Russian forces \"have not yet completed the seizure.\" It puts Russia's advanced share at only about 36% (about 75% including infiltration, which does not count). On Nov 6 ISW reported Ukrainian forces advancing in northwestern Kostyantynivka. (a) About 54 days remain until Dec 31, 2026, in winter, and qualifying shading must also persist through a full ISW update cycle. (b) Status quo is NO. Roughly 64% of the city is outside the qualifying layers, and ISW saw no Russian presence in the north as of mid-October. ISW also reports Russia losing net ground in Donetsk in September and October amid Ukrainian counteroffensives. (c) NO path: the current slow infiltrate-and-consolidate pace continues, as it has for over a year. Ukraine keeps holding northern and central positions, and repeated premature forecasts and Russia's July 3 capture claim (excluded by the rules) keep failing. (d) YES path: a Pokrovsk-style late collapse. Here the Nov 4 northwest consolidation expands, the drone-supplied garrison withdraws, and ISW reshades the remainder in a few updates. The Krasnohorivka last-mile closure took about 5 weeks, but it started from near-total control, not 36%. The market anchor is 8%, falling, with sibling contracts at 3.35% for Nov 30 and 34.5% for Mar 31, 2027, so the term structure is consistent. Given negative Russian momentum and the large unconverted area, I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6636",
+   "has_trace": true
+  },
   {
    "id": 6078,
    "scanned_at": "2026-10-31T20:10:21.049938",
@@ -20842,7 +20898,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-07T19:25:32.602Z",
+  "last_sync": "2026-11-08T10:21:14.681Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -24585,6 +24641,20 @@
  ],
  "Will Puma Shen win the next Taipei Mayor election?": [
   {
+   "id": 6673,
+   "scanned_at": "2026-11-08T07:10:01.831859",
+   "date": "2026-11-08",
+   "agent": 33,
+   "market_price_t0": 34.2,
+   "edge": -0.01150000000000001,
+   "confidence": 0.535,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.33, 0.33). (0) Not resolved. The CEC database shows no results because the vote is on 28 Nov 2026, and there are no reports of withdrawal or disqualification. (a) About three weeks remain until election day. Results should come that night, before the 29 Nov close, and poll publication is banned from roughly 18 Nov. (b) Status quo: incumbent Chiang Wan-an (KMT, with the KMT–TPP alliance) still leads in the two conventional pollsters that tracked the 2022 result well. ETtoday's 1–3 Nov poll has him ahead 50.7 to 41.9, and TVBS's post-debate poll has him ahead 46 to 42. (c) NO path: shy KMT/TPP voters and the older-voter turnout gap (over 70% for ages 55+ in 2022, about 50% for under-34s) hold Chiang's lead. TPP identifiers break about 78% for Chiang, and Taipei's history holds, with one DPP mayoral win since 1994. (d) YES path: the 'Ocean Wave' momentum (TVBS moved from Chiang +28 to +4) and about half of 2022 Huang voters defecting combine with a youth and women turnout surge. That would match the UDN (Shen +4) and Z.Media (Shen +3.8) leads rather than the partisan-adjacent SPRIT and Trust in Democracy polls showing Shen +17. The Polymarket price of 34% (Chiang at 66.5%) already reflects this split. The DPP-friendly polls have sample skews, and even Trust in Democracy's turnout-weighted model includes a scenario where Chiang wins. Against that, Shen's trajectory and post-debate edge are real. I see no unpriced information strong enough to move far from the anchor, so I hold slightly below market at 33%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6673",
+   "has_trace": true
+  },
+  {
    "id": 6119,
    "scanned_at": "2026-11-01T07:06:51.995514",
    "date": "2026-11-01",
@@ -26055,6 +26125,20 @@
  ],
  "Will the UK’s 2026 inflation be between 3.5% and 3.9%?": [
   {
+   "id": 6638,
+   "scanned_at": "2026-11-07T21:06:54.343731",
+   "date": "2026-11-07",
+   "agent": 42,
+   "market_price_t0": 43.5,
+   "edge": -0.014500000000000013,
+   "confidence": 0.475,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.42, 0.42). (0) Not resolved. The latest ONS print is 3.5% for September 2026. October, November and December data are unpublished, and the December figure that settles this market is due 20 January 2027.\n(a) About 2.5 months remain, with October CPI out 18 November and November CPI out 16 December.\n(b) Status quo: CPI at 3.5% sits on the band's lower edge. The Q4 forecasts (Treasury survey about 3.6%, BoE September about 3¾%) sit inside the band. But the BoE's November projection was revised up sharply to about 4½% for Q1 2027, which implies December is near the top of the band or above it.\n(c) NO: fuel and services keep pushing higher, and the soft November 2025 comparator lifts the annual rate. December then prints 4.0% or more, which the 4.0–4.4% market prices at about 23%. A sharp fall in energy prices could instead take it to 3.4% or lower (about 12.5%).\n(d) YES: pump prices drift down from the October peak (petrol about 169p, down 5p over 30 days). The high December 2025 monthly base (+0.4%) then pulls the December annual rate back, and it plateaus at about 3.6–3.9%.\nThe October bucket markets price 3.7–3.9% at 67%. Combined with an upside-skewed path, the December mode is roughly 3.8–4.0%, right at the band's upper boundary. The Polymarket bucket ladder sums to about 0.89; normalising it gives this band about 48%, while the live mid is 43% after a 12-point weekly drop following the BoE upgrade. I hold close to the anchor at 0.42, shading slightly for the upside skew.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6638",
+   "has_trace": true
+  },
+  {
    "id": 5190,
    "scanned_at": "2026-10-20T11:37:10.681587",
    "date": "2026-10-20",
@@ -27519,6 +27603,20 @@
  ],
  "US strike on Colombia by December 31?": [
   {
+   "id": 6647,
+   "scanned_at": "2026-11-07T23:53:49.359403",
+   "date": "2026-11-07",
+   "agent": 13,
+   "market_price_t0": 16.5,
+   "edge": -0.035,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.13). (0) No source shows the condition met. The resolution-source read, the Rio Times Nov 1–7 monitor and Wikipedia's Operation Southern Spear tally all show no US-launched air, drone or missile strike on Colombian ground. US land strikes so far have been in Venezuela (June, and the Oct 30 Apure strike) and Ecuador (March). (a) About 54 days remain, to Dec 31 ET. (b) The status quo is No: US activity in Colombia is training (Southern Vanguard ends Nov 11), intelligence support, and MQ-9s that arrived disarmed for training Colombian crews. Colombian forces have so far done the bombing themselves and taken the credit. (c) NO scenario: De la Espriella keeps the ELN offensive Colombian-run, amid a sovereignty dispute and Cepeda's pending legal challenge. US attention shifts to Iran and the incoming Democratic Congress. Any US role stays limited to intelligence or drones handed to Colombian operators, which the rules exclude. (d) YES scenario: the coalition's November 'priority network campaigns' are finalized and escalating ELN attacks (Planadas, Santa Rosa del Sur) prompt a request. SOUTHCOM then announces a joint kinetic strike on an ELN or dissident camp, as it did in Ecuador, or the NYT reports US-operated drones striking inside Colombia. The structural enablers (consent, joint command, Reapers in country, Donovan's land-strike rhetoric) keep this from being negligible. However, about 12 weeks have passed since the joint-operations authorization with no kinetic US action, much slower than Ecuador's days. I anchor on the 16.5% market, which has drifted down 4 points this week, and shade slightly lower given the near-term evidence of training-only posture.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6647",
+   "has_trace": true
+  },
+  {
    "id": 6089,
    "scanned_at": "2026-10-31T23:48:36.417330",
    "date": "2026-10-31",
@@ -28955,6 +29053,20 @@
  ],
  "Will Pump.fun reach $0.0090 by December 31, 2026?": [
   {
+   "id": 6669,
+   "scanned_at": "2026-11-08T05:45:14.069291",
+   "date": "2026-11-08",
+   "agent": 4.8,
+   "market_price_t0": 7.5,
+   "edge": -0.02799999999999999,
+   "confidence": 0.71,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.05). (0) The condition is not met. Binance's public kline data (data-api.binance.vision) puts the highest PUMP/USDT price in the window at about $0.006806, in October 2026. Binance's all-time high is $0.00898 from September 2025, which falls outside the window and is still below the strike. (a) About 53 days remain until the December 31, 2026 23:59 ET deadline. (b) Status quo is NO: spot is about $0.00366, so YES needs a roughly +146% wick to a new all-time high on Binance. The recent trend is down, with the price off 35% over 30 days and the October peak failing. Unlocks are scheduled for Nov 12 and Dec 12, and past unlocks have averaged about -16.6% in the following 14 days. The broader market is neutral (Fear & Greed 47, BTC about $77k). (c) NO path: PUMP drifts between $0.003 and $0.005 as unlock supply and launchpad competition cap any rally. (d) YES path: a sharp altcoin and memecoin risk-on turn lifts revenue and buybacks, PUMP retakes $0.0065, and a leveraged short squeeze wicks the thin Binance spot book to $0.009. The token did run about 5.5x from June to October, so this has some precedent. A log move of about 0.90 at roughly 6% daily volatility sits about 2 standard deviations out. That gives a touch probability of about 4%, with some extra allowance for fat tails and the fact that a single 1-minute wick counts. The market's 7.55% (bid 7 / ask 8) looks to carry longshot premium, and the sibling ladder (0.0080 at 17%, 0.0070 at 39%) looks rich against spot. I shade below the anchor to about 4.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6669",
+   "has_trace": true
+  },
+  {
    "id": 5286,
    "scanned_at": "2026-10-21T14:51:12.537010",
    "date": "2026-10-21",
@@ -29722,6 +29834,20 @@
   }
  ],
  "Claude 6 released by March 31, 2027?": [
+  {
+   "id": 6641,
+   "scanned_at": "2026-11-07T21:39:49.494208",
+   "date": "2026-11-07",
+   "agent": 32,
+   "market_price_t0": 37.5,
+   "edge": -0.05499999999999999,
+   "confidence": 0.49,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.33, 0.31). (0) Not resolved. Anthropic's newsroom and models overview, checked 2026-11-07, list only 5.x models: Fable 5.1 and Opus, Sonnet and Haiku 5.5. No version-6 name or model ID appears anywhere. (a) About 144 days remain until the 2027-03-31 deadline. (b) If nothing changes, the answer is No. The visible pipeline is a 5.x generation: Fable 5.5 surfaced in an Azure listing and partner A/B tests, and a Mythos 5.5 string appeared on Anthropic's site, which would be excluded anyway. (c) NO scenario: Fable 5.5 ships in Nov–Dec and is followed by 5.6 or 5.7 point releases. The fresh frontier pretrain, which the S-1 says was delayed more than a month for security, plus RSP-threshold safety testing push a whole-number 6 to Q2 2027. That would match the 12.5–14.5 month generation gaps seen before. (d) YES scenario: Anthropic keeps its 2026 cadence of roughly one launch a month and renumbers aggressively, as it did going from Opus 4.8 to 5 in 57 days and from 5 to 5.5. Pressure from the IPO and OpenAI's GPT-6 naming could lead it to brand a Q1 2027 Fable or Opus release as '6' with public availability. I anchor on Polymarket's 37.5% mid, and the sibling strikes (69% for Jun 30, 89% for Dec 31) are coherent with it. I shade a few points lower for three reasons: the S-1 pretraining delay, the fact that the next confirmed release is 5.5, and a history of leak-ecosystem '6' rumors that never came true. These signals look only partly priced in.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6641",
+   "has_trace": true
+  },
   {
    "id": 5429,
    "scanned_at": "2026-10-23T11:44:34.508913",
@@ -34128,6 +34254,54 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.40, 0.43). (0) Not met as of Nov 7: NBC, Wikipedia and whitehouse.gov show the post vacant since Oct 16. Trump's Nov 7 post only says Dana White 'has been offered the job', unconfirmed by the White House and unaccepted by White, so a strict resolver likely won't count it; Trump's 'I am pleased to announce' wording and Rapid Response 47's repost add some lenient-reading risk. (a) About 23 days remain until Nov 30, 11:59 PM ET. (b) Status quo is NO: briefings have run without a press secretary since late August, Trump said 'we're in no rush', and the prior search took ~8 weeks. (c) NO: White declines or the offer proves a joke like the Minaj/Benny Johnson remarks, and Miller's Nov 9 takeover as chief of staff absorbs staffing attention. (d) YES: White accepts (his 'On to the next chapter' caption hints at it) or the White House confirms and Trump declares him press secretary; or Trump names Anna Kelly or another loyalist in a post-midterm reset now that the stated obstacle, the midterms, has passed. The Polymarket anchor of 42% already reflects the White news (+7.5% this week), and the Dec 31 market sits at 72%. I shade slightly lower because a joke-toned, unaccepted offer to a sitting UFC CEO more likely fizzles within three weeks.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/6633",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic have the best AI Agent at the end of November 2026?": [
+  {
+   "id": 6671,
+   "scanned_at": "2026-11-08T06:27:54.618125",
+   "date": "2026-11-08",
+   "agent": 78,
+   "market_price_t0": 76.5,
+   "edge": 0.015000000000000013,
+   "confidence": 0.58,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.78, 0.78). (0) The market is not resolved. The last view of the resolution source, a search snippet of arena.ai/leaderboard/agent indexed around Nov 5, shows Claude Opus 5.5 (Max) at #1 with 21.15% ±3.21. Gemini 4 Carbon (High) trails by about 3–5 points. The live page was blocked, so nothing after Nov 5 is visible. (a) There are about 22 days until the Nov 30 noon ET check. (b) If nothing changes, Anthropic resolves YES: an Anthropic model has been #1 at nearly every snapshot since mid-June, and Anthropic holds several top-five slots. (c) NO could come from two paths. OpenAI could ship the rumoured GPT-6.2 Astra, which Altman says is coming soon and Polymarket prices at roughly 65% for November, and accumulate enough human sessions to clear AutoEval and beat about 20% net improvement. Or Carbon's score could rise past Opus as access widens; it already leads on steerability, and the intervals are wide. (d) YES needs the status quo to hold, or Anthropic to extend its lead with a rumoured Fable 5.5 or Mythos 5.5 release. Under the tie rules, the model listed higher wins, which currently favours Opus. A late rival debut flagged AutoEval would also be excluded. The Polymarket mid is 76.5% and has been stable in a 71–84% range. My evidence roughly matches what the market already prices: a solid incumbent lead with real but unconfirmed release risks. I nudge slightly above the market because a new entrant needs weeks of sessions to climb, as Opus 5.5 did.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6671",
+   "has_trace": true
+  }
+ ],
+ "Will OpenAI have the best Text-to-Image AI at the end of December 2026?": [
+  {
+   "id": 6642,
+   "scanned_at": "2026-11-07T22:11:45.282469",
+   "date": "2026-11-07",
+   "agent": 82.5,
+   "market_price_t0": 83,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.62,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.83, 0.82). (0) The condition is not yet resolved, but the status quo already satisfies it. Arena's own Nov 5 post and several secondary snapshots show OpenAI holding all top five Text-to-Image spots, led by GPT-Image-2.5 Sunburst at about 1427. The best rival, MAI-Image-2.6, sits around 1331, roughly 95 points back. (a) About 54 days remain until the Dec 31, 2026 12:00 PM ET check. (b) If nothing changes, OpenAI keeps #1 and the market resolves Yes. OpenAI has held the top spot continuously since April 2026, through rival launches from Google, Microsoft and xAI. (c) The main No path is a new rival release that debuts more than about 100 points higher than today's best rival. Candidates are a Gemini-4-era Google image model (the rumored \"Gempix 3 Pro\" / Nano Banana 3 Pro), whose timing would fit Google's habit of shipping image models alongside new text models. Others are Microsoft's MAI Image 2.7 text-to-image, which is \"coming soon\", or the anonymous \"cobalt-grove-2\" seen testing on Arena. Smaller risks are a leaderboard rescaling or AutoEval/tie quirks. (d) The Yes path is simply that no rival clears the roughly 100-point gap. Microsoft's typical per-release gain of about 75–80 points would fall short. Google already shipped Nano Banana 2.1 on Oct 6, debuting only at #5, which makes another leaderboard-topping Google launch within eight weeks less likely. The market's 83% fairly prices about a 15–20% chance of a disruptive launch, so I stay at the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6642",
+   "has_trace": true
+  }
+ ],
+ "Will Trump meet with Volodymyr Zelenskyy by November 30, 2026?": [
+  {
+   "id": 6635,
+   "scanned_at": "2026-11-07T20:03:25.025662",
+   "date": "2026-11-07",
+   "agent": 10,
+   "market_price_t0": 8.3,
+   "edge": 0.017,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.11). (0) Resolution check: no source reports an in-person Trump–Zelenskyy meeting since the market opened on Oct 31. The last confirmed meeting was the Sept 22 UNGA bilateral, which predates the market and does not count. Nothing is scheduled before Nov 30, so the condition is neither met nor ruled out. (a) About 23 days remain, until Nov 30 at 11:59 PM ET, and Trump's reported Asia trip (ASEAN in Manila, then APEC in Shenzhen, roughly Nov 16–19) takes up part of that time. (b) Status quo is No: contact is running through envoys and phone calls, the Abu Dhabi talks on Nov 10–11 are delegation-level, and the most likely joint venue, the G20 in Miami on Dec 14–15, falls after the deadline. (c) NO path: Abu Dhabi produces only technical progress, Trump keeps working the US–Russia bilateral track (he met Dmitriev on Nov 5 while Kyiv was excluded), and he spends mid-November in Asia. Friction continues, including Trump's October criticism of Zelenskyy and Zelenskyy calling Trump's proposed security deal 'dangerous', and the next meeting lands at the G20 or later. (d) YES path: Abu Dhabi goes well, Trump says a deal is 'very close', and he invites Zelenskyy to the White House or Mar-a-Lago on a few days' notice in late November. Past meetings were set up within 2–4 days, so this is plausible; a rapidly arranged leaders' trilateral is a lower-probability variant. The historical rate of a meeting every 1–3 months argues for something above zero, but the strained relationship, the travel schedule and the record of 'very soon' slipping (Nov 2025 slipped to Dec 28) all cut against it. I stay close to the market's 8.3%, nudging slightly up for the short-notice precedent.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6635",
    "has_trace": true
   }
  ]

@@ -12555,6 +12555,20 @@
  ],
  "Ink FDV above $500M one day after launch?": [
   {
+   "id": 6718,
+   "scanned_at": "2026-11-08T23:26:13.938025",
+   "date": "2026-11-08",
+   "agent": 6,
+   "market_price_t0": 7.5,
+   "edge": -0.015,
+   "confidence": 0.6,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.06). (0) Resolution check: the condition is not met yet. As of early November 2026, inkonchain.com, inkfnd.com, DropsTab, Eco (October 5 data) and airdrops.io (October 7) all show INK has not launched and no TGE date, snapshot or listing has been announced. The only live 'INK' prices belong to unrelated tokens. (a) About 7.5 weeks remain until the December 31, 2026 11:59 PM ET deadline; a launch after that resolves No. (b) The status quo of no announced TGE resolves No. Past guidance windows (Q2 2026, then July–September, then Q3–Q4) have all slipped. (c) NO path: the TGE slips into 2027, or INK launches but sells off below about $0.50 per token (fixed 1B supply) by 4 PM ET the next day. Analogue guides suggest $50–250M FDV. (d) YES path: the Foundation announces a TGE in November or December, Kraken lists INK with a low float, and the large Kraken user base plus Nado and Tydro points farmers hold the price at $0.50 or more on day two. The anchor is the market at 7.5% (bid 6%, ask 9%). The sibling 'launch by Dec 31' market at 15.5% and the FDV ladder ($100M at 13.5%, $250M at 10%, $1B at 6%) together imply roughly 15% launch odds times about 50% odds of clearing $500M given a launch. With no launch announcement and launch-prep signals limited to API and contract plumbing, I shade launch odds slightly to about 12–13%. That gives roughly 6.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6718",
+   "has_trace": true
+  },
+  {
    "id": 6085,
    "scanned_at": "2026-10-31T22:17:49.592134",
    "date": "2026-10-31",
@@ -12772,6 +12786,20 @@
   }
  ],
  "Will Ethereum hit $1,000 or $3,000 first?": [
+  {
+   "id": 6767,
+   "scanned_at": "2026-11-09T11:09:29.753580",
+   "date": "2026-11-09",
+   "agent": 45,
+   "market_price_t0": 41,
+   "edge": 0.040000000000000036,
+   "confidence": 0.56,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.45, 0.45). Fair value for \"Yes\" is about 0.47; I price it at 0.45, a bit above the market's 41% mid.\n\n**Which side is \"Yes\".** I read \"Yes\" as \"$1,000 first\", following the aggregator mapping, though Polymarket's own labels were not seen. The contract's price history supports this reading. It rose 23 points over 30 days while ETH fell from about $2,400 to $2,100. It sat near its 11.5% low when ETH was near $2,800 in September.\n\n**(0) Resolution check.** Not resolved. Binance weekly klines show ETH/USDT stayed between $1,505.68 and $2,807.34 since February, and the market opened on 2026-03-11. Neither strike has been touched.\n\n**(a) Time left.** About 52 days, to Dec 31 at 11:59 PM ET.\n\n**(b) Status quo.** With ETH near $2,106, it needs about +41% to reach $3,000 or about −53% to reach $1,000. The most likely outcome is that neither is hit, which pays 50–50.\n\n**Rough odds.**\n- Touching $3,000 first: about 6–8%. A driftless model at roughly 50% volatility gives 5–10% for that touch, and the soft backdrop (ETF outflows, likely Fed hike) puts it at the low end.\n- Touching $1,000 first: about 1%.\n- Neither: about 91–92%.\n\nExpected value of \"Yes\" is about 0.01 + 0.46 ≈ 0.47. The market mid is 41% (bid 38 / ask 44), so the market looks slightly cheap. As time runs out it should drift up toward 50.\n\n**(c) Path to \"No\".** A de-escalation rally, a soft CPI and ETF inflows push ETH through $2,807 and on to $3,000 before year-end.\n\n**(d) Path to \"Yes\".** A full payout needs a crash below $1,000, for example contagion from the Binance breach or a flash wick. That is very unlikely. Most of Yes's value comes from the 50–50 fallback.\n\nI shade slightly below fair value because the outcome mapping is unconfirmed.\n\n\n\n\n\n\n\n- **Confidence:** 0.55\n- **Unverified claim:** Polymarket's \"Yes\" outcome corresponds to $1,000 being hit first (the lower price). This mapping is inferred from aggregators and the price history, not from Polymarket's own labels.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6767",
+   "has_trace": true
+  },
   {
    "id": 6012,
    "scanned_at": "2026-10-31T00:49:30.091175",
@@ -19179,6 +19207,20 @@
  ],
  "Will Ukraine re-enter Obratne or Temyrivka by December 31?": [
   {
+   "id": 6724,
+   "scanned_at": "2026-11-09T00:30:29.604793",
+   "date": "2026-11-09",
+   "agent": 18.5,
+   "market_price_t0": 22.5,
+   "edge": -0.04000000000000001,
+   "confidence": 0.42,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.18, 0.19). (0) Resolution check: nothing shows the condition already met. I could not read the ISW map's shading. ISW's written reports from Oct 28 to Nov 7 never name Obratne or Temyrivka as a site of Ukrainian advance. The Oct 28 report says Russian forces supply their positions from Obratne, which implies Russia still held it then. (a) About 52 days remain until Dec 31, 11:59 PM ET. (b) If nothing changes, the market resolves No: both villages appear to sit behind Russian lines and no shading has been reported. (c) No scenario: Russia keeps reinforcing the Hulyaipole direction, which ISW calls its southern priority, and winter conditions plus drone saturation stall Ukraine's creeping push near Uspenivka and Velyka Novosilka short of the villages. (d) Yes scenario: Ukrainian forces, already near Zaporizke about 3.5 km northwest of Temyrivka and pressing along the Yanchur, produce geolocated footage at the edge of Temyrivka or Obratne. ISW would then shade a sliver under Claimed Ukrainian Counteroffensives, which is a low bar, and it would only need to persist through one update. The market sits at 22.5% and has fallen from 64.5%, down 9.5 points in 30 days, which fits a slowing advance. The No-case claim that Ukrainian activity is 25+ km away appears overstated given the Zaporizke gains. Even so, the absence of any recent named activity, Russian reinforcement and the short window justify shading slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6724",
+   "has_trace": true
+  },
+  {
    "id": 5924,
    "scanned_at": "2026-10-29T23:21:17.485071",
    "date": "2026-10-29",
@@ -20926,7 +20968,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-08T19:40:47.104Z",
+  "last_sync": "2026-11-09T11:30:03.559Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -21830,6 +21872,20 @@
   }
  ],
  "Will an AI lab announce another Millennium Prize solution by December 31, 2026?": [
+  {
+   "id": 6728,
+   "scanned_at": "2026-11-09T01:12:12.708196",
+   "date": "2026-11-09",
+   "agent": 8.3,
+   "market_price_t0": 9.5,
+   "edge": -0.012499999999999997,
+   "confidence": 0.62,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.08). (0) Resolution check: the condition is not met. Clay still lists RH, P vs NP, Yang–Mills, Hodge and BSD as Unsolved, and Papex (Oct 28) and coverage through Nov 8 show no full-solution claim by any eligible lab. OpenAI's Navier–Stokes claim is excluded by the rules, and the later claims (quasi-RH, BSD for low Selmer corank, Hodge for CM abelian varieties, Yang–Mills existence described as 'part of' the problem, Anthropic's ETH disproof) are all partial. One gap: no source checked announcements between Oct 28 and Nov 9 directly. (a) About 7 weeks remain until 11:59 PM ET on Dec 31, 2026. (b) If nothing changes, the market resolves No. (c) No path: OpenAI keeps releasing hedged partial results, the Gross committee's Yang–Mills write-up slips into 2027 or explicitly excludes the mass gap, and any GPT-6.2 launch arrives without a headline 'solved' claim. (d) Yes path: OpenAI announces a full Hodge proof, the target The Information reported in September, or a Yang–Mills mass-gap claim alongside a model launch, worded as 'solved' as it was for Navier–Stokes. The anchor is Polymarket at 9.5% (bid 9 / ask 10), down from 71% in September as each rumoured second solution came out as a partial result. A sibling Polymarket market has '0 more problems in 2026' at roughly 87–90%. OpenAI's pace (a major release every 3–7 weeks, model still training) keeps a real tail, but its consistent hedging and staged external review argue against an unhedged claim this quickly. I sit slightly under the market at about 8.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6728",
+   "has_trace": true
+  },
   {
    "id": 5975,
    "scanned_at": "2026-10-30T12:29:15.474146",
@@ -24815,6 +24871,20 @@
  ],
  "Anthropic lab leak by June 30, 2027?": [
   {
+   "id": 6759,
+   "scanned_at": "2026-11-09T08:57:58.704800",
+   "date": "2026-11-09",
+   "agent": 3,
+   "market_price_t0": 7,
+   "edge": -0.04000000000000001,
+   "confidence": 0.72,
+   "category": "Health",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.03, 0.03). (0) Resolution check: a news search through 2026-11-09 found no credible reporting of any pathogen escape, exposure or biosafety incident at an Anthropic-operated wet lab. The only Anthropic 'leaks' in the news are software, model-information and AI sandbox-escape stories, which do not qualify. The condition is neither met nor ruled out. (a) About 7.7 months remain, to June 30, 2027 at 11:59 PM ET. (b) If nothing changes, the market resolves No. Anthropic's own post says the lab is BSL-1/2, run by human scientists, and does not handle pathogens that can infect humans; its first result came from phage and standard lab bacterial strains. No disclosure regime would surface minor incidents. (c) NO scenario: the lab keeps scaling its phage and enzyme work, and any minor contamination is either not a 'pathogen escape' or never becomes public. That is overwhelmingly likely. (d) YES scenario: a whistleblower or regulator complaint reveals that a bacterial strain or culture got out of the facility, and a consensus of outlets reports it as a confirmed escape. That needs an incident, disclosure, the organism counting as a 'pathogen', and confirmation, all inside the window. The base rate is about 0.7 publicly confirmed lab escapes a year across all labs worldwide, mostly involving dangerous agents at higher containment, so the per-lab rate for a BSL-1/2 lab is tiny. The Polymarket anchor is 7% (bid 6% / ask 8%), and the Dec 31 sibling trades at 1.9%; I read most of the 7% as long-shot bias in a low-volume novelty market rather than information. I shade down to about 3%, keeping some weight on Anthropic moving into riskier work or a loose media reading of 'pathogen escape'.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6759",
+   "has_trace": true
+  },
+  {
    "id": 5565,
    "scanned_at": "2026-10-25T06:42:50.998438",
    "date": "2026-10-25",
@@ -25902,6 +25972,20 @@
   }
  ],
  "Will Trump meet with Kim Jong Un in 2026?": [
+  {
+   "id": 6753,
+   "scanned_at": "2026-11-09T07:32:49.171327",
+   "date": "2026-11-09",
+   "agent": 7,
+   "market_price_t0": 9.6,
+   "edge": -0.025499999999999995,
+   "confidence": 0.69,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Not resolved yet. No source reports a 2026 Trump–Kim in-person meeting, and none is scheduled. Rubio said on Oct 31 that nothing is scheduled, and the White House said on Oct 23 that no meetings are being announced. (a) About 7.5 weeks remain until Dec 31, 2026. The only plausible window is Trump's Asia trip: Manila on Nov 16 and Shenzhen APEC on Nov 18–19. After that he has no known Asia travel, and the Dec 14–15 G20 in Miami offers no venue for Kim. (b) If nothing changes, the answer is No. Kim Yo Jong's Nov 4 KCNA statement said there is \"no need to sit face-to-face\" with \"unreliable and hostile persons.\" It followed the FBI's Binance attribution, new sanctions, and North Korean cruise missile tests. Reuters on Nov 6 described US and South Korean officials seeing fading chances, with no response from Pyongyang. (c) NO path: Trump goes to Manila and Shenzhen, perhaps meets Xi and Putin, Kim stays home, and the year ends, repeating the misses of Oct 2025 and April 2026. (d) YES path: Pyongyang reverses course through Chinese mediation, and a DMZ-style snap meeting is arranged within days, as Ambassador Steel said would be the pattern. That could be Kim travelling to China near Shenzhen or Trump detouring to Panmunjom or Pyongyang. Trump's eagerness after the midterms and his US concessions keep this tail alive. The market sits at about 9.5% mid and has been falling. The research supports pricing slightly below that, given the explicit North Korean rejection and Trump's own downgrade to \"I don't know\" on Oct 19. I keep about 7% for Trump's demonstrated ability to arrange a sudden meeting.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6753",
+   "has_trace": true
+  },
   {
    "id": 5954,
    "scanned_at": "2026-10-30T06:21:56.832870",
@@ -29215,6 +29299,20 @@
  ],
  "Will Bitcoin hit $100k by December 31, 2026?": [
   {
+   "id": 6719,
+   "scanned_at": "2026-11-08T23:27:31.057369",
+   "date": "2026-11-08",
+   "agent": 5.3,
+   "market_price_t0": 7,
+   "edge": -0.0175,
+   "confidence": 0.76,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.06). (0) The condition has not been met. Binance weekly candles (data-api.binance.vision) show no 2026 high at or above $100k. The year's high was $97.9k in mid-January, before this market opened, and the post-August high was about $87.4k. The current week's high is $81.2k with spot near $75.5k. (a) About 53 days remain, until 11:59 PM ET on Dec 31, 2026. (b) The status quo is NO: BTC needs a roughly +32% intraminute touch. (c) NO path: a hot Nov 10 CPI and a Dec 9 Fed hike (about 78% priced), continued ETF outflows and overhead supply at $80–87k keep BTC capped in the $70–87k range through year-end. (d) YES path: a soft CPI and a Fed skip trigger a squeeze, ETF inflows return, BTC breaks the $87k ceiling and wicks to $100k on gamma-fueled momentum. A simple barrier model with about 40% implied vol (DVOL) gives a touch probability of about 6%. Realized vol of about 25% would imply far less, while fat tails push it slightly up. Every 2026 upside call has failed at smaller gaps, such as the 44% odds on $90k that never printed. The Polymarket mid of 7% (bid 6, ask 8) is roughly fair, and I shade slightly below it given the downtrend and the negative macro and flow backdrop.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6719",
+   "has_trace": true
+  },
+  {
    "id": 6162,
    "scanned_at": "2026-11-01T20:46:53.795575",
    "date": "2026-11-01",
@@ -29966,6 +30064,20 @@
   }
  ],
  "Will PSOE win the most seats in the 2026 Spanish general election?": [
+  {
+   "id": 6731,
+   "scanned_at": "2026-11-09T02:10:36.196576",
+   "date": "2026-11-09",
+   "agent": 15.5,
+   "market_price_t0": 14,
+   "edge": 0.014999999999999986,
+   "confidence": 0.6,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.15, 0.16). (0) Not resolved. The vote is on 29 Nov 2026, Infoelectoral has no results yet, and 12 of 13 recent pollsters put PP first. (a) About 20 days remain, including the 13–27 Nov campaign, four TV debates and a poll-publication ban from about 23 Nov. (b) Status quo is a PP win. The averages are PP about 31% vs PSOE about 26–27%, a lead of roughly 4–5 points and 25–30 seats (Mapa Electoral PP 135 vs PSOE 105; Demócrata has PP ahead in all 11 institutes). PolitPro's model gives PSOE about 10%. (c) NO: the post-Urda dip holds, strike and rail-chaos sentiment hurts the government, and PP's provincial seat bonus keeps it first even if the vote gap narrows to about 1–2 points. In 2023 a 1.4-point PP vote lead produced 16 more seats. (d) YES: debates and tactical consolidation of FA/Podemos voters lift PSOE, and a 2023-style underestimate of PSOE (about 3–3.5 points at IMOP, Sondaxe and GAD3) recurs. That would turn the narrower private readings into a PSOE lead: 40dB has PP +2.0, Sondaxe +2.4 and Ateneo +2.9, while SW Demoscopia already has PSOE ahead. The market at 14% (up 4.5 points this week) roughly prices this. A combined poll-plus-campaign error of about 5 points is plausible but needs more than 1 SD, and PP's seat efficiency raises the bar. I stay near the anchor at 15%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6731",
+   "has_trace": true
+  },
   {
    "id": 6184,
    "scanned_at": "2026-11-02T02:04:43.911111",
@@ -31009,6 +31121,20 @@
  ],
  "Will the OpenAI spy be accused of working for Saudi Arabia by December 31?": [
   {
+   "id": 6764,
+   "scanned_at": "2026-11-09T10:24:20.185894",
+   "date": "2026-11-09",
+   "agent": 13,
+   "market_price_t0": 20,
+   "edge": -0.07,
+   "confidence": 0.6,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.13). (0) The condition has not been met. The DOJ release (updated Oct 19) names Saudi Arabia only as Alfozan's nationality. The Oct 27 indictment is a single wiretap count with no foreign-agent or §1831 charge. Detention filings describe contact with a Saudi royal and Saudi state help with his family's flight. The rules exclude that kind of contact or assistance, and the filings use hedged phrases like 'appears to have Saudi backing'. (a) About 52 days remain until Dec 31, including the holidays, and the only scheduled event is a routine Nov 17 hearing. (b) If nothing changes, this resolves No. (c) The No path: the case proceeds on the single interception count, possibly through continuances, while the FBI investigation keeps running past year-end without a superseding indictment. That is the usual pace; in the Ding case, foreign-state counts came about 11 months after indictment. Political sensitivity around Saudi relations, and OpenAI's PIF talks, also argue against a hasty official attribution. (d) The Yes path: phone or WhatsApp evidence establishes that he was directed. NSD then approves a §951 superseding indictment on the Twitter/Saudi template, and prosecutors warned twice of 'additional serious charges'. Alternatively, a later filing flatly states he acted at the direction of Saudi officials. The market at 20% (range 13.5–40%, down 6.5 points this week) prices in that possibility. I shade lower because prosecutors already passed on a foreign-agent count at the grand jury stage, the timeline is short, and the wording bar is strict.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6764",
+   "has_trace": true
+  },
+  {
    "id": 6122,
    "scanned_at": "2026-11-01T07:52:09.899661",
    "date": "2026-11-01",
@@ -31939,6 +32065,20 @@
  ],
  "Will no next Israeli Minister of Justice be appointed by February 28, 2027?": [
   {
+   "id": 6708,
+   "scanned_at": "2026-11-08T21:19:18.658657",
+   "date": "2026-11-08",
+   "agent": 40.5,
+   "market_price_t0": 36.5,
+   "edge": 0.040000000000000036,
+   "confidence": 0.475,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.41, 0.40). (0) Not met: as of Nov 7-8, no new government exists after the Oct 27 election. Levin is caretaker Justice Minister and does not count; Eisenkot received the first mandate Nov 7. (a) About 112 days remain to Feb 28, 2027. The legal sequence (Eisenkot 28+14 days, then a second nominee to about Jan 23, then a third to about Mar 1) means a full run-through lands right at the deadline. (b) Status quo means caretaker Levin and Yes, but 112 days is long: Israeli governments historically formed within 20-100 days, recent ones within 58-82. (c) Yes: hard deadlock (48 vs 53 seats, 19 Arab, no one at 61). Eisenkot needs both UTJ and Shas, and Shas calls joining 'fake news'. The minority route is blocked by Liberman and Haredi opposition to Arab-reliant government. Caretaker Netanyahu benefits from delay and Liberman says 'or another election'. Mandates lapse or the Knesset dissolves as in 2019, and the election falls after Feb 28; Brookings calls this most likely. (d) No: Eisenkot or a later nominee wins a confidence vote by mid-Feb via a UTJ draft compromise plus Shas, a minority government with outside Arab support, or Likud defections or a unity deal, with Justice filled at swearing-in. The market anchor is 36.5%, and related markets ('election called by Mar 31' at 34%, 'confidence vote by Dec 31' at about 35%) roughly support it. Adding a small Yes path from a government formed without a qualifying Justice Minister or a late swearing-in, and given fairly bearish research on both coalition routes, I lean modestly above the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6708",
+   "has_trace": true
+  },
+  {
    "id": 6163,
    "scanned_at": "2026-11-01T21:14:54.020232",
    "date": "2026-11-01",
@@ -32058,6 +32198,20 @@
   }
  ],
  "Pete Hegseth out as Secretary of Defense by November 30?": [
+  {
+   "id": 6713,
+   "scanned_at": "2026-11-08T22:17:41.978910",
+   "date": "2026-11-08",
+   "agent": 28,
+   "market_price_t0": 29.5,
+   "edge": -0.014999999999999958,
+   "confidence": 0.5,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.28, 0.28). (0) Not resolved yet. Wikipedia and news from Nov 5–8 show Hegseth still in office, with no resignation, firing or successor announced. YES needs Trump or Hegseth to announce a departure by 11:59 PM ET on Nov 30. A House impeachment alone does not count.\n(a) About 22 days remain, and Thanksgiving week falls inside the window.\n(b) Status quo is NO. Trump said \"I do\" have confidence in him (60 Minutes, Nov 6–7) and said on Nov 5 he intends to keep him. The Pentagon says Hegseth is \"100% committed.\"\n(c) NO path: Hegseth is impeached by the House or the vote is tabled, and Trump refuses to cave under pressure. The Senate does not convict, and any trade tied to the defense bill (NDAA) or appropriations, or any successor search, lands in December, which still resolves NO.\n(d) YES path: the House impeaches this week with GOP defections. Trump, who per NBC and CBS is already asking allies about successors and has put Hegseth's travel on hold, takes Massie's off-ramp: no impeachment articles if Hegseth resigns. He announces a resignation or reassignment (Blackburn's Senate seat, or a DeSantis-type successor) to use the Republican Senate before Jan 3. The abrupt Wiles exit and Trump's history of denying firings just before making them make this credible.\nThe market sits at 29.5% after rising 20 points in 30 days. The Dec 31 contract is at 44.5%, which suggests the market sees much of the risk landing in December, consistent with the confirmation-window logic. I found nothing the market hasn't priced, so I stay near the anchor and shade slightly toward the status quo given Trump's fresh public backing.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6713",
+   "has_trace": true
+  },
   {
    "id": 6167,
    "scanned_at": "2026-11-01T22:13:23.525066",
@@ -32318,6 +32472,20 @@
   }
  ],
  "Viktor Orbán arrested by...?": [
+  {
+   "id": 6761,
+   "scanned_at": "2026-11-09T09:40:08.771188",
+   "date": "2026-11-09",
+   "agent": 12,
+   "market_price_t0": 17.8,
+   "edge": -0.057999999999999996,
+   "confidence": 0.55,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.13). (0) Not resolved. No source reports Viktor Orbán himself arrested or detained as of 9 Nov 2026. The reported 9 Nov detention involves his brother Áron, is unconfirmed by authorities, and does not count. (a) About 7.5 weeks remain until 31 Dec 2026, 11:59 PM ET, and the holiday period falls inside that window. (b) Status quo is NO. Orbán has not been named a suspect, summoned, or made the subject of a warrant. A Hungarian suspect notice or questioning alone would not qualify; only custody, house arrest or electronic monitoring would. (c) NO scenario: newly sworn Prosecutor General Fejes (in office since 3 Nov) spends weeks reviewing the convoy case, which is tainted by internal disputes. The purge keeps hitting businessmen, ex-ministers and relatives. If Orbán is named a suspect at all, it is via summons rather than custody, or it slips into 2027. (d) YES scenario: the central prosecutor's office handling the Oschadbank convoy case names Orbán a suspect for abuse of office. Because he gave up his seat in April, he has no immunity and no parliamentary vote is needed, so prosecutors can order 72-hour custody citing collusion or flight risk (e.g., the UN/US refuge reports) before year-end. The escalation from ex-ministers to the central bank chief to his brother within six weeks is real tail risk. The market sits at 17.8%, up 5 points on the brother news, while the June 2027 contract is at 33.5%. I shade below the market because nothing has been documented that precedes an arrest, and detaining rather than summoning a former PM within weeks would be extraordinary even in this crackdown.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6761",
+   "has_trace": true
+  },
   {
    "id": 6152,
    "scanned_at": "2026-11-01T19:03:16.800137",
@@ -33299,6 +33467,20 @@
  ],
  "Will Kimi K3.1 Pro debut in the top 20 of the Text Arena leaderboard by June 30, 2027?": [
   {
+   "id": 6735,
+   "scanned_at": "2026-11-09T03:02:39.242963",
+   "date": "2026-11-09",
+   "agent": 8.5,
+   "market_price_t0": 7.7,
+   "edge": 0.007999999999999993,
+   "confidence": 0.5,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.08). (0) Not yet met: no source shows K3.1 Pro on Arena's Text board. Arena's changelog lists it only on WebDev (#8) and Agent Arena (#13), and the resolution page itself was Cloudflare-blocked. (a) About 7.5 months remain until June 30, 2027. (b) Status quo: no Text listing means NO. The market's collapse from 59.5% to about 8%, and the 1470-score sister market at 18%, imply only about 20% odds of any Text debut. (c) NO path: Arena never adds it to Text, or it debuts around #21–30 raw, where base K3 sits at about #25 on a crowded and compressing board. (d) YES path: a Max entry debuts with a 5–15 point gain over K3, reaching the #20 band near 1490, in line with earlier Kimi flagship debuts at #5–15. Given about 20% odds of listing and about 45% odds of top 20 if listed, I stay near the 7.7% anchor at 9%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6735",
+   "has_trace": true
+  },
+  {
    "id": 5915,
    "scanned_at": "2026-10-29T20:23:17.965951",
    "date": "2026-10-29",
@@ -33611,6 +33793,20 @@
  ],
  "Will Trump speak to Ursula von der Leyen by November 30?": [
   {
+   "id": 6751,
+   "scanned_at": "2026-11-09T06:43:58.046659",
+   "date": "2026-11-09",
+   "agent": 29.5,
+   "market_price_t0": 38.5,
+   "edge": -0.08999999999999997,
+   "confidence": 0.5,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.27, 0.32) after one crux research pass. (0) Not resolved: the EC press corner's latest Trump readout is May 7, 2026, and news searches found no Trump–von der Leyen contact since Oct 31, though Truth Social and White House readouts were not checked directly. (a) About three weeks remain, to Nov 30, with confirmation needed by Dec 3. (b) The status quo is No: nothing is scheduled, the Dec 14–15 Miami G20 falls after the deadline, and the trade-deadline trigger ended when the deal was implemented in June. The 2026 calls (Apr 26, May 7) were reactive, followed by about six months without a confirmed contact. (c) NO: Abu Dhabi stays official-level and stalls, Trump keeps routing Europe through Merz or focuses on a Trump–Xi–Putin track at APEC, and no call naming von der Leyen occurs. (d) YES: the 'all of Europe' security deal or Abu Dhabi progress prompts a leaders' group video call including her, as in August and December 2025, or a crisis prompts a bilateral call she publicises. The market's 38.5% mid (wide 33/44 spread) seems anchored on the 2025 contact rate. The sparser 2026 pattern and the lack of any catalyst inside the window argue for shading lower, with real upside left for active Ukraine diplomacy.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6751",
+   "has_trace": true
+  },
+  {
    "id": 6190,
    "scanned_at": "2026-11-02T03:25:04.806971",
    "date": "2026-11-02",
@@ -33658,6 +33854,20 @@
   }
  ],
  "Will no next Israeli Minister of National Security be appointed by February 28, 2027?": [
+  {
+   "id": 6712,
+   "scanned_at": "2026-11-08T22:11:25.787872",
+   "date": "2026-11-08",
+   "agent": 33.5,
+   "market_price_t0": 30.5,
+   "edge": 0.030000000000000027,
+   "confidence": 0.45,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.33, 0.34). (0) Not resolved: as of Nov 8, 2026 no new government exists, and Ben-Gvir is only a caretaker minister, which does not count. (a) About 16 weeks remain; Haaretz reports the full three-round statutory sequence ends about Feb 26, so by Feb 28 either a government has won confidence or the Knesset has dissolved. (b) Status quo: a hung Knesset, 53 for Netanyahu's bloc and 48 for Eisenkot's bloc with 19 Arab seats excluded; Eisenkot holds the mandate with 67 recommendations but no coalition. (c) Yes path: all rounds fail (Shas refuses Eisenkot, Liberman and the Haredim vote down any Arab-supported minority government, unity terms stay incompatible) and Israel goes to new elections, which Brookings calls most likely; a smaller path is a government sworn in with the ministry abolished, merged or left to an acting minister (about 2-4%). (d) No path: a Liberman-plus-both-Haredi-parties 61, a pressured unity or rotation deal, or a second-round nominee such as Netanyahu attracting defectors; the March 31 budget cliff and Herzog's push for unity add pressure, and successful formations historically take 20-100 days, inside the 124-day window. The market at 30.5% mid (dropping 14 points this week, likely on the Liberman–Haredi thaw) is a reasonable anchor; I add a small premium for the portfolio technicality and the 2019 deadlock precedent.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6712",
+   "has_trace": true
+  },
   {
    "id": 6159,
    "scanned_at": "2026-11-01T20:22:22.877132",
@@ -34422,6 +34632,134 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.82, 0.83). (0) Not yet resolved: the last reported US strikes on Iranian land (Qeshm, Nov 6-7, plus an unconfirmed Jask report) came at or before market creation on Nov 8, so YES needs any 14-day strike-free window whose first day falls on or before Dec 31. (a) That allows about 54 possible start dates, with the last window completing around Jan 13 plus a 3-day reporting lag; NO requires US strikes on Iranian soil at least every 14 days for more than two months. (b) If the current lull holds, the window completes around Nov 21-22; sibling markets (Nov 22 at 51.5%, Nov 30 at 63.5%) price a few clock resets, and this contract trades at 83%. (c) NO: Trump resumes major combat around the Nov 9 new moon or later in the lame-duck window, and a sustained campaign or recurring 'defensive' suppression strikes keep resetting the clock into January. (d) YES: the Vance/Qatar talks produce a bridge deal or tacit stand-down, or a short campaign ends as the 13-night July one did, leaving a quiet stretch like the roughly 8-week September-November gap. Trump's admission that the war cost the midterms adds pressure against escalation. I stay near the market anchor.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/6683",
+   "has_trace": true
+  }
+ ],
+ "Will NVIDIA be the largest company in the world by market cap on November 30, 2026?": [
+  {
+   "id": 6756,
+   "scanned_at": "2026-11-09T08:14:30.928943",
+   "date": "2026-11-09",
+   "agent": 14,
+   "market_price_t0": 15,
+   "edge": -0.009999999999999981,
+   "confidence": 0.6,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.14, 0.14). (0) Not resolved. On companiesmarketcap at the Nov 6 close, Apple is #1 at $4.975T and NVIDIA is #2 at $4.506T. Other sources (Trading Economics, Motley Fool, Upstox) also show Apple ahead by roughly 5–10%. (a) About three weeks remain until the Nov 30 close, with NVIDIA's Nov 17 earnings as the main catalyst. (b) If nothing changes, Apple stays #1 and the market resolves No. The Nov 8–9 board probe into Jensen Huang pushed NVDA to about $180 overnight, which widens the gap to roughly 12–13%. (c) No: NVDA drifts or dips after earnings, as it did after four of its last five reports, while governance, data-center politics and rate fears persist. Apple has already reported and holds its lead. (d) Yes: a strong beat-and-raise on Nov 17, with NVDA near 13x forward earnings and very oversold, sparks a 15%+ relief rally while Apple fades on memory-cost margin worries. The two have swapped the lead several times since Oct 23, so a flip is plausible. A rough model with relative volatility of about 50% annualized plus an earnings jump puts a roughly 12% relative move over three weeks at about 15%. That is consistent with the Polymarket anchor of 15% and the Dec 31 sister market at 20.5%. I shade slightly lower to 14% for the fresh Huang governance overhang.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6756",
+   "has_trace": true
+  }
+ ],
+ "US-Iran Hormuz Agreement by November 30?": [
+  {
+   "id": 6748,
+   "scanned_at": "2026-11-09T05:59:10.655074",
+   "date": "2026-11-09",
+   "agent": 15.5,
+   "market_price_t0": 15.5,
+   "edge": 0,
+   "confidence": 0.55,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.15, 0.16). (0) Not resolved: as of Nov 8–9, CBS, CNN and the resolution-source read show no US–Iran agreement accepted by both governments. Talks run indirectly through Qatar, and Rubio says the US is \"not on the verge of a breakthrough.\" (a) About 21 days remain until 11:59 PM ET on Nov 30. (b) If nothing changes, the result is NO. The strait is effectively closed, with about 1 transit per day logged. The US has just expanded the blockade through \"Iron Gate,\" and Iran publicly ties any reopening to seven preconditions.\n\n(c) The NO path: the Qatari two-day draft stays stuck on sequencing, tolls and sovereignty, and IAEA access. The White House split, with Rubio, Bessent and Ratcliffe against Vance and Witkoff, delays any decision. Trump says he is \"not in a hurry,\" and November ends with more \"close\" headlines but no announcement. This repeats the August 5 near-miss.\n\n(d) The YES path: after Trump meets the Qatari PM on Nov 9, Trump sides with Vance. Both sides announce a narrow two- or three-day sequence: the US eases the blockade and Iran commits to reopen Hormuz. This would be abrupt, like the April 8 ceasefire and the June 17 MOU, and those precedents show both sides can announce jointly.\n\nThe market sits at 15.5% and has trended down 6 points this week. The Dec 31 contract is at 34.5%, so the crowd expects any deal to take more time. The research turns up nothing the market has missed: Qatar's \"significant progress\" talk is offset by Rubio's comments and the blockade expansion. There is also some risk that a narrow \"bridge\" deal would not clearly state Iran's passage commitments as required. I stay close to the anchor at about 15%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6748",
+   "has_trace": true
+  }
+ ],
+ "Jensen Huang divorce in 2026?": [
+  {
+   "id": 6745,
+   "scanned_at": "2026-11-09T05:14:16.545598",
+   "date": "2026-11-09",
+   "agent": 8,
+   "market_price_t0": 10.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.5,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.08). {\n  \"probabilities\": [\n    {\"market\": \"Yes\", \"probability\": 0.08},\n    {\"market\": \"No\", \"probability\": 0.92}\n  ],\n  \"rationale\": \"(0) Not resolved. As of Nov 8–9, 2026 the resolution-source read and all the research reports find no court filing, no statement from Lori Huang or a representative, and no credible report of separation. Jensen's Nov 8 memo admits infidelity but frames it as an apology seeking forgiveness. (a) About 52 days remain until Dec 31, 2026, and the holidays fall inside that window. (b) The status quo is No: the couple has been married 41 years, Lori is private and silent, and Jensen's memo says \\\"I love you\\\" and \\\"earn back your trust,\\\" which points toward reconciliation. (c) No path: Lori stays quiet, the couple reconciles or separates and negotiates privately over a community-property fortune of $160B+, and nothing is filed before year-end. California gives no legal reason to file early. (d) Yes path: humiliation from the alleged-spy angle, plus congressional hearings and the board inquiry keeping the story alive, lead Lori's counsel to file in Santa Clara County, or to put out a joint or representative statement of divorce, which TMZ or Page Six then reports. The market sits at 10.5% (bid 9 / ask 12) on thin, two-day-old trading. The base rate for a filing within two months of an admitted affair in a decades-long marriage is low, and very high-wealth spouses tend to negotiate before filing. I shade slightly below the market to 8%, keeping real tail weight on the scandal's unusual severity.\",\n  \"confidence\": 0.55,\n  \"unverified_claims\": [\n    \"No divorce filing or separation statement has occurred as of Nov 9, 2026 (court records were not checked directly)\",\n    \"The couple has no prenup covering Nvidia assets (single X-post speculation)\"\n  ]\n}",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6745",
+   "has_trace": true
+  }
+ ],
+ "Will there be Houthi military action against Israel by December 31, 2026?": [
+  {
+   "id": 6742,
+   "scanned_at": "2026-11-09T04:30:58.740924",
+   "date": "2026-11-09",
+   "agent": 8.5,
+   "market_price_t0": 13,
+   "edge": -0.045,
+   "confidence": 0.6,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) No source shows the condition met. The last Houthi fire at Israel was on 8–9 June 2026, and it was either intercepted or fell short. The only possible impact, an ambiguous open-area fall on 4 April, predates the market's 30 September opening. Nothing has resolved, and nothing has become impossible.\n\n(a) About 52 days remain until 23:59 IDT on 31 December 2026.\n\n(b) Status quo is No. The Houthis have not launched at Israel in about five months. Their missiles and launch crews are committed to an escalating war with Saudi Arabia (Riyadh, Medina and Aramco strikes through 8 November). They also stayed out of the 8 July and 3 October Iran–US/Israel flare-ups, which weakens the main trigger mechanism.\n\n(c) NO path: US–Iran diplomacy through Qatar contains escalation, the Gaza ceasefire nominally holds, and the Saudi front keeps absorbing Houthi capacity. Even if a few launches occur, Arrow and David's Sling intercept them or they fall short, and neither outcome counts.\n\n(d) YES path: a new Iran–Israel round, or a Gaza collapse, brings the Houthis back with a salvo. A low-signature drone at Eilat, or a missile at central Israel, then leaks through defences, as happened in September 2025.\n\nThis needs a chained trigger, a launch and an unintercepted impact within seven weeks, so I put YES at about 20% × 40% plus a small tail. That is somewhat below the market's 13% mid (bid 12, ask 14). The research gives me a specific reason the market may underweight: the Houthis' strategic reorientation toward Saudi Arabia and their non-response to two Iran flare-ups.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6742",
+   "has_trace": true
+  }
+ ],
+ "Jensen Huang announced resignation or removal by December 31?": [
+  {
+   "id": 6739,
+   "scanned_at": "2026-11-09T03:46:09.418233",
+   "date": "2026-11-09",
+   "agent": 12,
+   "market_price_t0": 14.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.525,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.12). (0) The condition has not been met. The resolution source (NVIDIA Newsroom, Nov 8) shows only Huang's apology memo, which says he is \"fully committed to NVIDIA\", and the board's statement opening an investigation while expressing \"confidence in Jensen.\" Neither announces a resignation or removal, and no 8-K reports a CEO change. (a) About 7.5 weeks remain until the Dec 31, 2026 11:59 PM ET deadline. (b) Status quo is No: Huang stays CEO while an open-ended independent probe runs, and the company says he will lead \"without interruption.\" (c) No scenario: the probe runs past year-end, as founder-related special committees typically do (Apple/Jobs, Nvidia's 2007 SLC). The Nov 17 earnings and the Nov 18 House briefing pass without new damaging revelations. Trump's backing, Huang's 3.58% stake, his control of the board and the lack of a successor keep the board from acting. Any interim arrangement framed as a leave or reduced duties would not qualify. (d) Yes scenario: leaks from the intelligence file, the Singapore or US Megaspeed probes, or the board's committee find that Huang knowingly mishandled the relationship or that chips were diverted. Combined with bipartisan congressional pressure and a falling stock, that could push the board to announce a transition with Huang as executive chairman, which counts. Scandal precedents (Nestlé, Astronomer) show boards can move within weeks to months, and Gary Black predicts removal. I anchor on the Polymarket mid of 14.5% and shade slightly lower. The research shows no director or major-shareholder movement toward an exit, and the timeline is tight for a probe with no stated end date. The national-security angle still carries real tail risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6739",
+   "has_trace": true
+  }
+ ],
+ "Will OpenAI be the second-best Code Arena | WebDev AI lab at the end of November 2026?": [
+  {
+   "id": 6720,
+   "scanned_at": "2026-11-08T23:44:20.372944",
+   "date": "2026-11-08",
+   "agent": 33.5,
+   "market_price_t0": 30,
+   "edge": 0.034999999999999976,
+   "confidence": 0.4,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.32, 0.35). (0) Not resolved; the check is November 30, 2026 at 12:00 PM ET. Third-party mirrors (dated November 6) show Anthropic first at 1814, with OpenAI's GPT-6 Astra (1770) narrowly ahead of Google's Gemini 4 Carbon (1767) for second lab; the live arena.ai Labs view could not be read. (a) About 22 days remain. (b) Status quo is OpenAI second by a 3-point margin inside the noise. Astra has slid from 1797 to 1770, the gap to Carbon shrank from 5 to 3 points in ten days, and Carbon is still gathering votes ahead of a wider rollout. The market anchor is 30% after a 17.5-point drop in a week, and sibling markets (OpenAI third 36%, Google third 41%) suggest the crowd sees Google already at or near second on the live page. (c) NO: Carbon or a new Gemini variant passes Astra; or GPT-6.2 Astra (85–91% expected by November 30) tops Opus 5.5 at 1814, making Anthropic second; or the alphabetical tiebreak or an AutoEval tag cuts against OpenAI. (d) YES: Astra holds above Carbon, or GPT-6.2 lands between about 1775 and 1814. I stay near the market, nudged slightly up because the latest mirror data still shows OpenAI second.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6720",
+   "has_trace": true
+  }
+ ],
+ "US imports Russian diesel by November 30?": [
+  {
+   "id": 6711,
+   "scanned_at": "2026-11-08T21:46:50.149618",
+   "date": "2026-11-08",
+   "agent": 11,
+   "market_price_t0": 13,
+   "edge": -0.020000000000000004,
+   "confidence": 0.62,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.11). (0) The condition is not met. Al Jazeera (Nov 7), CNN (Nov 7) and Windward via gCaptain (Nov 3) all report zero Russian diesel delivered to the US under GL 135, and nothing more recent was found. (a) About 22 days remain until the Nov 30, 11:59 PM ET deadline. (b) The status quo is No. Talisman, Leruo and Beast have diverted, as have Hanna and Manta from the Ukrainian watch list. Agioi Fanendes is slow, signalling \"for orders\", and has no identified US buyer or terminal. Kpler says it \"may yet divert\", and France 24 quotes Kpler as having \"little doubt\" it sells elsewhere. (c) No: the last cargo goes to Brazil or Turkey. The liability chokepoint holds through November: the 2022 statute, a pending CBP seizure question, NJ and congressional warnings to banks and terminals, and an incoming Democratic Congress. No later cargo lands. (d) Yes: a buyer willing to rely on Treasury's reading of the law takes Agioi Fanendes into a non-NJ East Coast terminal, or Iblea discharges at Corpus Christi. A government purchase would also qualify, with the White House pushing to land at least one symbolic cargo before Democrats take control. The market's 13% mid, down from 88%, already prices the diversions. The research turns up nothing new beyond Beast's diversion, which further narrows the YES paths, so I shade slightly below the market. I keep some tail for the strong political motivation on both the Kremlin and White House sides.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6711",
+   "has_trace": true
+  }
+ ],
+ "Mohammed Ghalibaf out as Speaker of Iran Parliament by December 31, 2026?": [
+  {
+   "id": 6705,
+   "scanned_at": "2026-11-08T19:46:38.064580",
+   "date": "2026-11-08",
+   "agent": 7.5,
+   "market_price_t0": 12.5,
+   "edge": -0.05,
+   "confidence": 0.65,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) The condition has not been met. Wikipedia and multiple dated reports show Ghalibaf chairing parliament on Nov 3 and posting as Speaker on Nov 5, and nothing reports a resignation, removal, detention or incapacity. (a) About 53 days remain until Dec 31, 2026. (b) The status quo is No: he was re-elected May 25, 2026 with 235 of 271 votes, the next routine presidium vote is late May 2027, and the IPU lists no impeachment path for Speakers. He also has public backing from Supreme Leader Mojtaba Khamenei, the SNSC and senior IRGC command. (c) NO: the shaky MOU holds or the deal talks continue. Paydari hostility stays rhetorical, as it did when challengers drew only 29 votes and their impeachment drive targeted Araghchi instead. Ghalibaf remains Speaker through year-end. (d) YES: the ceasefire collapses after the Nov 6 'minor' US strikes, and Israel acts on its reported target list and kills or incapacitates him, as it did Larijani in March. A less likely route is a Leader- or IRGC-backed purge of the deal-makers, a health event, or detention. The market sits at 12.5% on thin volume ($31k) with a 10/15 spread and has drifted down over the past 30 days. I shade below it because there is no formal mechanism, no motion against him, and post-midterm signals point toward de-escalation. I keep a meaningful tail for wartime violence and for the unexplained Oct 24 cancellation of his BRICS trip.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6705",
    "has_trace": true
   }
  ]

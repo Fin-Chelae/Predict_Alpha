@@ -1831,6 +1831,20 @@
  ],
  "Will Iran Reconstruction Funding be in a US-Iran deal in 2026?": [
   {
+   "id": 6793,
+   "scanned_at": "2026-11-09T19:04:29.633068",
+   "date": "2026-11-09",
+   "agent": 4.5,
+   "market_price_t0": 7.5,
+   "edge": -0.03,
+   "confidence": 0.71,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.04). (0) Not met. The resolution-source read of state.gov, whitehouse.gov and mfa.ir shows the only signed US-Iran instrument is the June 17 Islamabad MoU. Its paragraph 6 is a commitment to 'develop a plan' with the mechanism 'finalized as part of a final deal'. That is a plan-to-plan clause the rules explicitly exclude, it predates this market, and the MoU has since collapsed. (a) About 7 weeks remain until Dec 31, 2026. (b) Status quo is No. Talks are stalled: Araghchi says there has been no progress since the midterms, and Rubio says the sides are not 'on the verge of a breakthrough.' The live Qatari interim track covers blockade relief, about $6-8B in frozen Iranian funds, inspections and Hormuz, and none of those qualify. (c) No scenario: talks drag on, or an interim Hormuz/frozen-assets deal is signed without a fund clause, or strikes resume. (d) Yes scenario: Vance, Witkoff and Qatar prevail, and a revived final deal is signed by Dec 31 that rewrites Article 6 as a presently established Gulf-funded reconstruction vehicle. That would need a jump from stalled interim talks to a full settlement within weeks. Even then, the June precedent shows the drafters prefer conditional wording, and Vance insists 'not a cent of American money' goes to Iran. Related markets support this: the final nuclear deal by Dec 31 trades at 9.5%, and only part of any final deal would carry a qualifying fund clause. The market anchor is 7.5% and falling; I shade slightly below it given the stringent qualification language.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6793",
+   "has_trace": true
+  },
+  {
    "id": 6240,
    "scanned_at": "2026-11-02T18:24:34.308086",
    "date": "2026-11-02",
@@ -2418,6 +2432,20 @@
   }
  ],
  "US strike on Cuba by December 31?": [
+  {
+   "id": 6795,
+   "scanned_at": "2026-11-09T19:50:31.561780",
+   "date": "2026-11-09",
+   "agent": 7,
+   "market_price_t0": 9,
+   "edge": -0.01999999999999999,
+   "confidence": 0.56,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Credible reporting through Nov 9 (resolution-source read, Rio Times defence monitor, Cuba's UN envoy) shows no US air, drone or missile strike on Cuban soil, so the condition is not met. A strike would have to be authorized and carried out by Dec 31. (a) About 52 days remain. (b) If nothing changes, the outcome is No. Ten months of blockade, indictment, the Nimitz deployment and repeated threats have produced no kinetic action, and this week's US steps were sanctions. (c) NO scenario: the Iran war keeps intensifying and pulls a third carrier and an amphibious group to the Gulf. Trump's own stated order (Iran, then Russia-Ukraine, then Cuba) holds, Rubio keeps to strategic patience, and pressure stays economic and covert, none of which counts. (d) YES scenario: the Iran conflict pauses and the Rubio contacts collapse. A pretext such as Iranian drones on the island appears, and Trump orders a limited strike on air-defence or military sites inside the Army Reserve's '90-120 day' window, which starts around Dec 24. Forces in the region reportedly need only his go-ahead. The market sits at 9% (bid 8 / ask 10) and is trending down from a 49% peak in May and 14% in September. The research adds nothing hawkish beyond what is already public. Iran escalation and the stated sequencing are slight bearish factors, so I shade a little below the market but keep tail risk for a president who has struck often in 2026.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6795",
+   "has_trace": true
+  },
   {
    "id": 6234,
    "scanned_at": "2026-11-02T16:15:44.190238",
@@ -10001,6 +10029,20 @@
  ],
  "Will OpenAI have a #1 AI model by December 31, 2026?": [
   {
+   "id": 6778,
+   "scanned_at": "2026-11-09T14:12:49.757359",
+   "date": "2026-11-09",
+   "agent": 7.5,
+   "market_price_t0": 8.5,
+   "edge": -0.009999999999999995,
+   "confidence": 0.62,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.08). Market anchor is 8.5%; I shade to 7%. (0) Not met: no source shows OpenAI at or tied for #1. Arena Text mirrors (BenchLeader, BenchLM, Arena's X post) show Gemini 4 Carbon #1 (~1528-1540) and Gemini 4 Argon #2, with OpenAI's best entry (GPT-5.6 Sol xhigh, ~1485) around #22, about 42 points back. The style-control-off view reportedly favours Google even more. I could not read the live board directly. (a) About 7.5 weeks remain until Dec 31, 2026. (b) Status quo is Google #1, so No. (c) No: GPT-6.2 launches but, like recent OpenAI releases (GPT-6 Sol -27, Astra -7), fails to gain much on the Text board, while Google holds and Anthropic or Meta ship again in December. (d) Yes: the rumoured GPT-6.2 launches mid-November (gray-release routing, RC API IDs, anonymous 'Fe-pichu' on Arena, Artificial Analysis parity with Carbon) and debuts 40+ Arena points higher, reaching #1 or a CI-based tie at any point before the deadline. The 'by' wording may allow a brief stint at #1, which is likely why this trades above the ~4% year-end sibling market. OpenAI's 2026 record of no #1 month-ends and weak Arena conversion keeps me a bit under market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6778",
+   "has_trace": true
+  },
+  {
    "id": 6193,
    "scanned_at": "2026-11-02T04:10:49.751206",
    "date": "2026-11-02",
@@ -14392,6 +14434,20 @@
   }
  ],
  "UNSC Resolution Endorsing Final U.S.-Iran Deal by December 31?": [
+  {
+   "id": 6787,
+   "scanned_at": "2026-11-09T17:23:44.839530",
+   "date": "2026-11-09",
+   "agent": 4,
+   "market_price_t0": 7.5,
+   "edge": -0.034999999999999996,
+   "confidence": 0.72,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.04). (0) The condition is not met. As of Nov 9, Bloomberg, Euronews, Reuters and Al Jazeera all report no final deal and no draft UNSC text. Rubio says there is \"no progress,\" and the June MoU has been described as defunct since July. (a) About 52 days remain until Dec 31, 11:59 PM ET. (b) The status quo resolves No: the two sides are not even formally negotiating, and Iran is demanding the blockade be lifted before talks resume. (c) No scenario: the Qatari two-day truce plan stalls or yields only a Hormuz swap, and US strikes resume. Even with a truce, nuclear and sanctions issues are deferred into 2027, so nothing reaches the Council. (d) Yes scenario: the Qatar–Trump channel produces a ceasefire in November and a compressed final deal in December. The US then circulates a draft adopted JCPOA-style within days, with Russia's pre-committed support. Every link in that chain must happen fast, against a Council already split over snapback and the 1737 regime. The related Polymarket \"final deal by Dec 31\" market sits at 10%. Conditional on a deal, I put the chance of a Council resolution before year-end at roughly 40-50%, given drafting time and P5 friction. That implies about 4-5%, slightly below this market's 7.5% mid, which has itself been falling.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6787",
+   "has_trace": true
+  },
   {
    "id": 6044,
    "scanned_at": "2026-10-31T08:40:10.315681",
@@ -20968,7 +21024,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-09T11:30:03.559Z",
+  "last_sync": "2026-11-09T23:46:46.441Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -21768,6 +21824,20 @@
   }
  ],
  "US Government removes public access to a major Chinese AI model in 2026?": [
+  {
+   "id": 6776,
+   "scanned_at": "2026-11-09T13:23:22.532368",
+   "date": "2026-11-09",
+   "agent": 4.5,
+   "market_price_t0": 7.5,
+   "edge": -0.03,
+   "confidence": 0.72,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.04). (0) Nothing shows the condition met as of Nov 9. The only formal action, the DHS order published Oct 20, covers federal civilian agency systems only. Multiple sources (TechCrunch, NBC/AP, VentureBeat, DeepInfra) confirm public and commercial use is untouched, and open weights such as DeepSeek V4.1-Flash, Kimi K3.1 and ERNIE 5.5 continue to ship. (a) About 52 days remain, to Dec 31, 2026. Both the formal action and an actual general removal across all ordinary US channels must happen within that window. (b) The status quo is No: the July Entity List and ICTS threats were not carried out. A secondary source reports an Entity List package is held back under a US-China truce running to Jan 10, and Trump plans to meet Xi Nov 18-19. (c) No scenario: diplomacy holds, the NDAA passes only with Pentagon-use bans, and nothing reaches public access. (d) Yes scenario: the truce collapses after APEC, BIS lists Moonshot or DeepSeek, or Treasury sanctions them, and US hosts and apps pull the flagship model nationwide, much as Anthropic suspended Fable under an export-control letter. Even then, mirrored open weights make a 'general removal across ordinary channels' hard to establish. The market sits at 7.5% and is falling. Given the stalled toolkit, the diplomatic calendar and the strict removal requirement, I shade it slightly lower to about 4.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6776",
+   "has_trace": true
+  },
   {
    "id": 5920,
    "scanned_at": "2026-10-29T21:44:44.595275",
@@ -28573,6 +28643,20 @@
  ],
  "Will Russia capture the Royal Café Alex in Kostyantynivka by December 31, 2026?": [
   {
+   "id": 6797,
+   "scanned_at": "2026-11-09T20:38:07.186057",
+   "date": "2026-11-09",
+   "agent": 14,
+   "market_price_t0": 15,
+   "edge": -0.009999999999999981,
+   "confidence": 0.5,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.14, 0.14). (0) Nothing shows the condition already met. The resolution-source read could not test the café's coordinates against ISW's polygons dated Nov 8. The live 15% price, against a high of 86%, implies traders checking the map see the building unshaded. (a) About 7.5 weeks remain until Dec 31, 2026. (b) Status quo is No. ISW's Nov 7 and Nov 8 updates record no Russian advance at Kostyantynivka, and the Nov 6 update records a Ukrainian advance in the northwest, the sector nearest the café. (c) NO: Russia keeps grinding in roughly 1 km² increments with reversals. Ukrainian counterattacks and Operation Vivaldi drain Russian reserves, and the building stays grey zone or infiltration-only, which does not qualify, through year-end. (d) YES: ISW's 'likely consolidated' assessment in northwestern Kostyantynivka (Nov 4) and Russian infiltration from the south turn into Assessed Russian Advances shading over the café block in one geolocated update, and it holds through the next cycle. Sibling prices fit roughly 14-15%: the same building is about 9% by Nov 30 and 51% by Mar 31, and all of Kostyantynivka is 8% by Dec 31. Russian timelines for this city have repeatedly slipped, but there is real Russian activity nearby, so I stay just below the market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6797",
+   "has_trace": true
+  },
+  {
    "id": 6224,
    "scanned_at": "2026-11-02T12:36:57.495749",
    "date": "2026-11-02",
@@ -32243,6 +32327,20 @@
  ],
  "Ilhan Omar federally charged by December 31?": [
   {
+   "id": 6782,
+   "scanned_at": "2026-11-09T15:44:36.915262",
+   "date": "2026-11-09",
+   "agent": 16.5,
+   "market_price_t0": 20,
+   "edge": -0.035,
+   "confidence": 0.525,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.16, 0.17). (0) The condition is not met. Credible reports through about Nov 5–7 (Arab News, Fox, Fox 9, MPR) all say Omar has not been charged, and searches found no indictment or target letter as of Nov 9. The DOJ press page could not be read, which leaves a small lag risk. (a) About 7.5 weeks remain until 11:59 PM ET on Dec 31, 2026. (b) If nothing changes, the investigation simply continues past year-end and the market resolves No. (c) No path: the Speech-or-Debate privilege screen of her phone and laptops, the pending House position, and the conspiracy probe still working through relatives and 'other individuals' keep a charging decision out of 2026. Core marriage-fraud theories may also be time-barred, so prosecutors need newer conduct, and a sealed indictment or civil denaturalization filing would not count. (d) Yes path: DOJ finishes executing the warrant 'in short order,' as the Oct 27 filing anticipated. A Minnesota grand jury then indicts on conspiracy or false-statement counts, or Pirro's D.C. office brings a financial-disclosure charge, under heavy political pressure now that the election-sensitivity window has passed. This DOJ has charged Lucas and McIver quickly, but grand-jury no-bills (Hutchinson) and recent dismissals show the risk of a rushed case. I anchor on the Polymarket mid of 20%, which fell 11 points this week as nothing materialized after the election. I shade slightly below it because DOJ said on Oct 28 it 'has not made decisions' and many procedural steps remain.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6782",
+   "has_trace": true
+  },
+  {
    "id": 6059,
    "scanned_at": "2026-10-31T13:20:51.142943",
    "date": "2026-10-31",
@@ -32976,6 +33074,20 @@
   }
  ],
  "Will the next Claude Opus model (5.6+) debut with an HLE-Diamond score of 60% or higher?": [
+  {
+   "id": 6780,
+   "scanned_at": "2026-11-09T14:59:53.361808",
+   "date": "2026-11-09",
+   "agent": 48,
+   "market_price_t0": 54,
+   "edge": -0.06000000000000005,
+   "confidence": 0.42,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.48, 0.48). (0) Nothing has resolved: no Opus 5.6+ exists as of 9 Nov 2026, and the CAIS chart appears unchanged since launch (Opus 5.5 at 54.6%, top score GPT-6 Astra at 59.9%). (a) About 7.5 months remain, to 30 Jun 2027. (b) Status quo is No because no qualifying model is charted; release markets imply roughly 66-72% for an Opus 5.6+ by Nov 30 and about 88% by year-end, and Anthropic's 1-2 month cadence makes a release before the deadline near-certain. Charting is uncertain: CAIS made no commitment to update, and weak evidence suggests Gemini 4 Carbon has not been added, though any later Opus charted before the deadline would also count. (c) No: Opus 5.6 is an incremental, cost-focused refresh (leaks suggest about +3 on the AA index) landing around 57-59% at 'high', or CAIS never charts it, or the frontier jump ships under a non-Opus name. (d) Yes: a real new checkpoint ships in Nov-Dec, closes the roughly 6-point gap between Opus 5.5's 'high' and 'max' scores (it is token-light at 'high'), lifts the knowledge half above about 50%, and CAIS charts it at 60%+. Anchoring on the 54% market, which is drifting down, I shade lower for the charting risk (roughly 10-15% on no appearance) and an estimated 55-58% conditional chance of clearing 60%, giving about 0.48.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6780",
+   "has_trace": true
+  },
   {
    "id": 5803,
    "scanned_at": "2026-10-28T10:09:31.171964",
@@ -34760,6 +34872,118 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.07, 0.07). (0) The condition has not been met. Wikipedia and multiple dated reports show Ghalibaf chairing parliament on Nov 3 and posting as Speaker on Nov 5, and nothing reports a resignation, removal, detention or incapacity. (a) About 53 days remain until Dec 31, 2026. (b) The status quo is No: he was re-elected May 25, 2026 with 235 of 271 votes, the next routine presidium vote is late May 2027, and the IPU lists no impeachment path for Speakers. He also has public backing from Supreme Leader Mojtaba Khamenei, the SNSC and senior IRGC command. (c) NO: the shaky MOU holds or the deal talks continue. Paydari hostility stays rhetorical, as it did when challengers drew only 29 votes and their impeachment drive targeted Araghchi instead. Ghalibaf remains Speaker through year-end. (d) YES: the ceasefire collapses after the Nov 6 'minor' US strikes, and Israel acts on its reported target list and kills or incapacitates him, as it did Larijani in March. A less likely route is a Leader- or IRGC-backed purge of the deal-makers, a health event, or detention. The market sits at 12.5% on thin volume ($31k) with a 10/15 spread and has drifted down over the past 30 days. I shade below it because there is no formal mechanism, no motion against him, and post-midterm signals point toward de-escalation. I keep a meaningful tail for wartime violence and for the unexplained Oct 24 cancellation of his BRICS trip.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/6705",
+   "has_trace": true
+  }
+ ],
+ "Will Trump meet with Xi Jinping by November 30, 2026?": [
+  {
+   "id": 6805,
+   "scanned_at": "2026-11-09T23:11:37.462124",
+   "date": "2026-11-09",
+   "agent": 91,
+   "market_price_t0": 91.5,
+   "edge": -0.0044999999999999485,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.91, 0.91). {\"probabilities\": [{\"market\": \"Yes\", \"probability\": 0.91}, {\"market\": \"No\", \"probability\": 0.09}], \"rationale\": \"(0) Not yet resolved. No source reports a Trump–Xi in-person encounter since the market opened on Oct 31; the last one was the late-September Washington state visit. (a) About 21 days remain until Nov 30, and the only scheduled in-window occasion is the APEC leaders' summit in Shenzhen on Nov 18–19. G20 Miami (Dec 14–15) falls after the deadline. (b) Status quo points to YES. On Sept 25 both leaders publicly committed to meeting in China in November, and on Nov 8 Trump said \\\"I'm going to be going to China\\\" and expects to meet Xi there. Preparation is visible on both sides: Bessent, Greer and He Lifeng held a call to finalise preparations, China extended the truce on Nov 9, and Shenzhen has security restrictions in place for Nov 11–21. Xi is the host, so if Trump attends, the retreat, welcome or group photo would almost certainly count as an in-person interaction even without a formal bilateral. (c) NO path: an Iran-war escalation (strikes on Qeshm happened around Nov 8), a post-midterm domestic crisis, or a blow-up over the trilateral or Taiwan leads Trump to cancel or postpone. The April Beijing trip already slipped over Iran, and with nothing else before Nov 30 there is no fallback. (d) YES path: Trump goes from Manila to Shenzhen around Nov 16–19 and holds a bilateral or trilateral with Xi. I anchor on the Polymarket mid of 91.45%. The research found no cancellation signal and no information the market hasn't priced. The single-point-of-failure risk and the lack of a formal White House itinerary roughly balance the strong commitments, so I stay near the market.\", \"confidence\": 0.72, \"unverified_claims\": [\"The White House has confirmed Trump's attendance at APEC Shenzhen on Nov 18-19; only Trump's own statements and Radio Free Asia secondhand reporting support this\"]}",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6805",
+   "has_trace": true
+  }
+ ],
+ "Will Ra'am be in the next Israeli government?": [
+  {
+   "id": 6802,
+   "scanned_at": "2026-11-09T22:21:48.457467",
+   "date": "2026-11-09",
+   "agent": 16.5,
+   "market_price_t0": 23.5,
+   "edge": -0.06999999999999998,
+   "confidence": 0.525,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.17, 0.16). (0) Not resolved. No government exists yet. Eisenkot received the mandate on Nov 8 and has until about Dec 6, extendable to about Dec 20. No ministry has been offered to Ra'am or signed with it.\n(a) About 7.5 months remain until June 30, 2027. Related Polymarket markets put any government forming by that date at about 79%.\n(b) Status quo: Ra'am backs Eisenkot from outside. Every leading formation route leaves Ra'am without a minister, and outside support does not count:\n- a minority government relying on outside Arab votes;\n- Eisenkot plus Lieberman plus the haredim;\n- a unity government with Likud;\n- a Netanyahu government.\n(c) NO scenario: Lieberman's veto holds and talks with the haredim produce 61 seats. Or a minority government forms with Ra'am supporting from outside, or holding at most a deputy-minister post. Or formation fails and repeat elections push past June 30.\n(d) YES scenario: haredi talks stall over the draft law and Lieberman relents. Eisenkot fudges the Hamas-label condition, which is easier because Abbas already endorses Hamas disarmament. Ra'am then gets a minister, possibly its Jewish No. 2 Segalovitz or Abbas without portfolio, in a coalition that may include UTJ. The 2021 last-minute deal is the precedent.\nThe arithmetic works against Ra'am: Ra'am plus the four Zionist opposition parties is only 56 seats, so Ra'am's entry still needs Lieberman's consent or haredi seats. Leaders have explicitly ruled out Arab ministers. The market sits at 23.5% with a wide 20–27% spread. Because every reported path points to outside support, I shade it down to about 17%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6802",
+   "has_trace": true
+  }
+ ],
+ "Will there be 3 US aircraft carriers in CENTCOM on November 30, 2026?": [
+  {
+   "id": 6800,
+   "scanned_at": "2026-11-09T21:30:05.956712",
+   "date": "2026-11-09",
+   "agent": 46,
+   "market_price_t0": 50,
+   "edge": -0.03999999999999998,
+   "confidence": 0.42,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.46, 0.46). (0) The condition is not met yet. As of Nov 9, USNI, INSS and TWZ reporting puts two CVNs in CENTCOM: George Washington and George H.W. Bush. Theodore Roosevelt left Singapore around Nov 8 and is transiting west.\n\n(a) About 21 days remain until noon ET on Nov 30. The Roosevelt's estimated arrival is roughly Nov 15–20 (Axios: \"not before mid-November\"; Maritime Executive: about Nov 16). That leaves a window of about 10–14 days in which an overlap would have to persist.\n\n(b) If nothing changes from today, the count is two. A YES needs the Roosevelt to arrive and both George Washington and Bush to still be in the area at noon on Nov 30.\n\n(c) NO path: the Roosevelt relieves George Washington, as USNI and Stripes describe. George Washington then heads east toward Japan and leaves the area within days. The Lincoln precedent supports this: it was out of the area about 10–14 days after George Washington arrived in August. Alternatively, Bush, at 220+ days deployed, goes home, or the Roosevelt's arrival slips.\n\n(d) YES path: Iran talks stall and renewed strikes are ordered between mid-November and Christmas. Hegseth and Cooper are reportedly pushing for this, and Trump is publicly counting \"three carriers locked and loaded.\" CENTCOM then holds all three through Nov 30, consistent with the Jerusalem Post report of a George Washington/Roosevelt overlap lasting \"a few weeks.\"\n\nThe market's 50% anchor is reasonable. I shade it slightly toward NO because of the relief framing, the short Lincoln overlap precedent, and the small risk that a carrier's position is ambiguous on Nov 30.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6800",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic have the best Code Arena | WebDev AI at the end of November 2026?": [
+  {
+   "id": 6790,
+   "scanned_at": "2026-11-09T18:13:54.592616",
+   "date": "2026-11-09",
+   "agent": 87,
+   "market_price_t0": 84.5,
+   "edge": 0.025000000000000022,
+   "confidence": 0.7,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.87, 0.87). (0) The market has not resolved; it is decided by a single check of the Models view on Nov 30 at 12:00 PM ET. The latest data available, a BenchLeader mirror of Arena data dated Nov 6, shows Claude Opus 5.5 (Max) at #1 with 1814. Sonnet 5.5 is at 1772, GPT-6 Astra at 1770 and Gemini 4 Carbon at 1767, so the lead is about 42 points against error bars of roughly ±13. (a) About 3 weeks remain until the Nov 30 snapshot. (b) If nothing changes, Anthropic wins. Opus 5.5 has held #1 since Sep 23. The tie rules favour the model listed higher, which is Anthropic's. Recent challengers did not displace it: Carbon entered at #4, GPT-6.1 Terra at #14 and GPT-6.1 Sol at about #6. (c) The NO path needs an unannounced OpenAI flagship (for example a GPT-6.1 Astra) or a stronger Google Carbon variant to land on WebDev before Nov 30 and gain about 40+ points. A technicality would also do it, such as an AutoEval tag on the top Anthropic model or a sharp score drift. No such release is dated. (d) The YES path is the status quo, and a Fable 5.5 release would only add another Anthropic contender. The anchor is Polymarket at 84.5%, trending up. The Nov 6 data showing the lead slightly widened, plus the weak recent rival entries, justify a small move upward. I am not going higher because frontier releases arrive often and I could not read the live Models view directly.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6790",
+   "has_trace": true
+  }
+ ],
+ "Will Johnny Chiang win the next Taichung Mayor election?": [
+  {
+   "id": 6784,
+   "scanned_at": "2026-11-09T16:33:38.048995",
+   "date": "2026-11-09",
+   "agent": 73.5,
+   "market_price_t0": 77,
+   "edge": -0.03500000000000003,
+   "confidence": 0.51,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.73, 0.74). (0) Not resolved. Voting is on Nov 28, 2026, and the CEC database shows no 2026 results, so Chiang still has to win the plurality that night.\n(a) 19 days remain until the vote, and results are normally known the same evening.\n(b) Status quo: Chiang leads most polls, by 6-12 points in KMT-commissioned Shih Hsin/Fo Guang/TVBS polls. Even green-sponsored polls had him ahead: +6.7 in August and +1.9 on Oct 12. He also leads every poll on expected winner, and term-limited Lu, who has about 67% approval, chairs his campaign. If nothing changes, he is favored.\n(c) NO: the pro-green Tai Li-an poll (Ho +10.7, though its own turnout projection ran from Chiang +1.7 to Ho +4.8) reflects a real trend toward Ho. Lai's rising approval and the 'ocean current' spillover from the Taipei race would then move the 20-28% undecideds toward 'time for change', and Ho would win narrowly.\n(d) YES: pan-blue and TPP voters consolidate, older and inland voters turn out, and the KMT machinery holds. Chiang would then win by a few points, consistent with house-effect-adjusted averages of roughly Chiang +3 to +6.\nThe Polymarket anchor is 77%, after a 30-day slide of 9.5 points from as high as 91%. The narrowing trend, the near-absence of non-partisan polls, and a somewhat DPP-friendly national environment justify shading slightly below the market. Historical KMT outperformance of polls in local races limits how far I shade.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6784",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic have the #1 AI model at the end of November 2026?": [
+  {
+   "id": 6773,
+   "scanned_at": "2026-11-09T12:39:10.567036",
+   "date": "2026-11-09",
+   "agent": 19,
+   "market_price_t0": 20.5,
+   "edge": -0.014999999999999986,
+   "confidence": 0.575,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.19, 0.19). (0) Not resolved. The latest secondary mirror (BenchLeader, Arena data dated Nov 8) shows Google's Gemini 4 Carbon at #1 (1527) and Argon at #2 (1522). Anthropic's best, Claude Opus 5.5, is #4 at 1506, about 20 points back. The arena.ai page itself was blocked, so this is a mirror read rather than the resolution source. (a) About 21 days remain until the Nov 30, 12:00 PM ET check. A new model probably has to be released and listed on Arena by roughly Nov 25–27 to count. (b) If nothing changes, Google stays #1 and this resolves NO. (c) NO path: the rumoured Fable 5.5 / Mythos 5.5 slips again, as three predicted dates already have. It could also launch gated or around Nov 30, too late to be listed. Or it launches but fails to clear both Google models on the chat-preference Text board, where Google leads the broad categories. (d) YES path: Anthropic ships Fable 5.5 or Opus 5.6 by about Nov 24. Leaks support this: partner access, the Azure catalog entry, the Mythos 5.5 page string, and Anthropic's roughly three-week flagship cadence. Arena would then list it above Carbon's ~1528–1540, as Opus 5.5 debuted at #1 on its release day. I put the chance of a timely, listable release at roughly 45% and the chance it beats Carbon at about 45%. That gives about 20%, consistent with the Polymarket mid of 20.5% and the sibling 'best AI model' market at 23%. I shade slightly below because Google or OpenAI releases could also intervene.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6773",
+   "has_trace": true
+  }
+ ],
+ "Will Pete Hegseth leave the Trump administration before 2027?": [
+  {
+   "id": 6770,
+   "scanned_at": "2026-11-09T11:54:18.559400",
+   "date": "2026-11-09",
+   "agent": 43,
+   "market_price_t0": 44.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.5,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.43, 0.43). (0) Not resolved. The war.gov advisory of Nov 8 shows Hegseth still serving as Secretary of War, and none of the sources report a resignation or firing. (a) About 52 days remain until the Dec 31, 2026 11:59 PM ET deadline. (b) If nothing changes, Hegseth stays. Trump has backed him publicly four times since the midterms, the Pentagon says he is \"100% committed,\" and a House impeachment alone does not trigger Yes. (c) No: the House impeaches, but Trump refuses to reward Massie and digs in. No successor is lined up and an acting chief is unattractive, so any decision slides past Jan 1. (d) Yes: the House impeaches with GOP defections, and Vance, White House aides and Senate Republicans press for a scapegoat for the Iran war. The lame-duck Senate confirmation window, which Trump himself raised, pushes him to announce a replacement such as DeSantis before January, as Bush did with Rumsfeld in 2006. Trump's recent pattern of dropping people after defending them (Wiles, Noem) supports this path. I anchor on the 44.5% Polymarket price and the sibling \"out as SecDef by Dec 31\" market at 45.5%. I shade slightly lower because a move to another administration role, such as an envoy post like Noem's, might not count as leaving the administration. Trump's demonstrated resistance to pressure from Massie also weighs against a quick exit.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6770",
    "has_trace": true
   }
  ]

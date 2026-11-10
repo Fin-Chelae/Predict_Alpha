@@ -9405,6 +9405,20 @@
  ],
  "Will the highest score achieved on Humanity’s Last Exam in 2026 be 60% or higher?": [
   {
+   "id": 6849,
+   "scanned_at": "2026-11-10T11:01:31.275058",
+   "date": "2026-11-10",
+   "agent": 83.5,
+   "market_price_t0": 90,
+   "edge": -0.06500000000000006,
+   "confidence": 0.55,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.82, 0.85). (0) Not met on the named source: agi.safe.ai shows a stale 2025 table and a widget that does not render, and the Scale/CAIS main board tops out at GPT-6 Astra 54.8% (Sept 3). Scores at or above 60% exist only as vendor tool-augmented figures (Fable 5.2 74.2%, Opus 5.5 67.7%), Artificial Analysis no-tools runs (Fable 5.2 74.3%, Opus 5.5 61.4%) and Scale's separate HLE-Diamond subset (Astra 60.6%). (a) About 7 weeks remain until Dec 31, 2026. (b) Status quo under a strict reading of the Scale main board is No. (c) No: Scale does not add Fable 5.2 or Opus 5.5 before year-end, or scores them below 60, and the resolver rejects vendor, Artificial Analysis and Diamond numbers. (d) Yes, path one: Scale adds Fable 5.2, and the observed 7–13 point haircut from Artificial Analysis to Scale (Opus 5.5 61.4 vs ~54.6; Fable 5.1 59.1 vs 46.5) implies roughly 61–67, clearing 60. Yes, path two: the resolver accepts widely reported official results or the Diamond page. The market sits at 90% after a +26-point week driven by the Fable 5.2 launch, and the 58% sibling near 97% shows traders expect lenient resolution. I shade down for resolution-source ambiguity and Scale's slow addition of new models.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6849",
+   "has_trace": true
+  },
+  {
    "id": 6180,
    "scanned_at": "2026-11-02T01:03:06.547413",
    "date": "2026-11-02",
@@ -10144,6 +10158,20 @@
   }
  ],
  "Will the highest score achieved by an Anthropic Claude model on Humanity’s Last Exam in 2026 be 60% or higher?": [
+  {
+   "id": 6836,
+   "scanned_at": "2026-11-10T07:09:17.058521",
+   "date": "2026-11-10",
+   "agent": 79.5,
+   "market_price_t0": 83.5,
+   "edge": -0.039999999999999925,
+   "confidence": 0.525,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.80, 0.79). (0) The condition is not documented as met on the named source. The static agi.safe.ai table is stale: its best Claude row is Sonnet 4.5 at 13.7%, and the live 'Loading HLE results' table did not render. Epoch's mirror of the Scale/CAIS board reportedly puts the best Claude, Fable 5.1, at 46.5%. Every other measure already shows a Claude model above 60%: Artificial Analysis independently has Opus 5.5 at 61.4%, Anthropic reports 64.4% for Opus 5.5 without tools, and Anthropic reports 73.2% without tools and 74.2% with tools for Fable 5.2, released Nov 9.\n(a) About 7 weeks remain until Dec 31, 2026.\n(b) If nothing changes, the outcome turns entirely on how the resolver reads 'official leaderboard / clear equivalent / official results published elsewhere'. A strict literal reading gives NO. Any reading that accepts reported scores gives YES.\nThe market anchor is 83.5%, after a +48.5-point jump in the past week driven by Fable 5.2. The sibling all-lab ≥60% market sits at 89%, even though the official board's top score for any lab is reportedly 54.8%. Together these suggest traders expect liberal resolution. An earlier sibling, 'Claude score by June 30', resolved 30%+ while the static page showed only 13.7% for Claude, which is consistent with that reading.\n(c) NO: the resolver insists on CAIS/Scale-run results. Scale either does not add Fable 5.2 or Opus 5.5 by 12/31, or adds them below 60% on the original set or on Diamond (Opus 5.5 is at 55.0% on Diamond).\n(d) YES: the resolver accepts the live agi.safe.ai table or the Wikipedia/Artificial Analysis/vendor figures, or Scale adds a Fable 5.2 row at 60% or higher.\nI shade slightly below the market because of real resolution-source ambiguity and the wide bid/ask spread.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6836",
+   "has_trace": true
+  },
   {
    "id": 5715,
    "scanned_at": "2026-10-27T05:07:20.982482",
@@ -17971,6 +17999,20 @@
  ],
  "Will Trump and Putin not meet?": [
   {
+   "id": 6843,
+   "scanned_at": "2026-11-10T09:27:14.187430",
+   "date": "2026-11-10",
+   "agent": 12.5,
+   "market_price_t0": 9.5,
+   "edge": 0.03,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.12). (0) The condition is not met yet. As of Nov 9–10, credible reporting shows no in-person Trump–Putin meeting since Alaska in August 2025, and Shenzhen is unconfirmed (WaPo/NBC: \"Nothing is set\").\n(a) About 7 weeks remain until Dec 31, 2026. The key windows are APEC Shenzhen on Nov 18–19 and the Miami G20 on Dec 14–15.\n(b) The status quo points to a meeting. Both leaders are expected at APEC, Trump said on Nov 8 that he expects to meet Putin and Xi, and Peskov said they would communicate \"one way or another.\" A handshake or exchange of words qualifies, and the Danang 2017 precedent shows such contact happens even when a formal bilateral is dropped.\n(c) The NO-meeting path runs through the WSJ-reported format and arms-control dispute with Beijing, which derails the trilateral. Trump or Putin then skips or shortens the APEC trip, or their contact at the summit stays incidental. After that, Putin declines Miami; the Kremlin has tied that decision to Shenzhen, and Bloomberg reports he is likely to skip.\n(d) The meeting path is that both leaders attend Shenzhen and interact in a trilateral, a bilateral, or at least a handshake at the gala or family photo.\nThe market prices \"not meet\" at 9.5%, and its sibling market shows China at 91%. I shade slightly higher, to about 13%, because the format dispute is live, travel to China has slipped before, the 2025 Budapest summit was cancelled after being announced, and there is a small risk that summit contact is too thin to count under the rules.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6843",
+   "has_trace": true
+  },
+  {
    "id": 6287,
    "scanned_at": "2026-11-03T08:18:23.417223",
    "date": "2026-11-03",
@@ -18232,6 +18274,20 @@
   }
  ],
  "Trump meets with Putin by December 31?": [
+  {
+   "id": 6833,
+   "scanned_at": "2026-11-10T06:20:39.431432",
+   "date": "2026-11-10",
+   "agent": 86.5,
+   "market_price_t0": 89,
+   "edge": -0.025000000000000022,
+   "confidence": 0.6599999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.86, 0.87). (0) No source shows a Trump–Putin in-person meeting yet in this window. The resolution-source read (Nov 10) says they have not met, so the outcome is still open. (a) About 51 days remain until Dec 31. There are two concrete chances: the APEC leaders' summit in Shenzhen on Nov 18-19 and the Miami G20 on Dec 14-15. (b) If nothing changes, both leaders appear set to be in Shenzhen. Lavrov confirmed Putin's trip, and Trump said on Nov 8 he is \"going to China\" and expects \"one of the meetings\" to be with Putin and Xi. Peskov said the two will \"communicate one way or another,\" so the status quo leans strongly toward YES. The bar is low: a handshake or brief exchange counts, as happened at the Danang APEC in 2017 despite no formal bilateral. (c) NO path: China dilutes the format into separate bilaterals, or the agenda dispute (Xi won't discuss Ukraine) collapses the trilateral, as Budapest collapsed in 2025. Trump or Putin then skips, or the two deliberately avoid interacting. Putin then also skips Miami, since Ushakov tied that trip to Shenzhen. (d) YES path: both attend APEC and meet in a trilateral, a bilateral, or simply at the group photo or gala dinner. Failing that, Putin attends the Miami G20 or a peace-deal summit forms after the Abu Dhabi talks. The market's 89% is reasonable. I shade slightly below it because neither the White House nor Beijing has confirmed anything, announced Trump–Putin meetings have a history of collapsing, and there is some small residual risk that one leader does not attend.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6833",
+   "has_trace": true
+  },
   {
    "id": 6271,
    "scanned_at": "2026-11-03T04:09:14.263786",
@@ -18944,6 +19000,20 @@
   }
  ],
  "Will Hibachi launch a token by December 31, 2026?": [
+  {
+   "id": 6814,
+   "scanned_at": "2026-11-10T01:41:56.600311",
+   "date": "2026-11-10",
+   "agent": 28.5,
+   "market_price_t0": 38,
+   "edge": -0.09499999999999997,
+   "confidence": 0.55,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.28, 0.29) after one crux research pass. (0) The condition is not met. Hibachi's X feed, read directly on Nov 10, shows no token, and DropsTab and Blockworks list \"No Token\". No TGE date, snapshot, tokenomics or listing has been announced. (a) About 7 weeks remain until 11:59 PM ET on Dec 31, 2026. In that time Hibachi would need to announce, run a claim, and get a tradable token listed. (b) If nothing changes, the answer is No: there is no token and no announced plan. (c) No path: the team keeps its focus on the institutional FX venue on Arc, which has no confirmed launch, and runs post-points activity rewards as the Oct 26 post hints. Any TGE then slips to 2027, consistent with its record of missing the Mar 31 and Sep 30 strikes. (d) Yes path: the points ledger closed Nov 8 at roughly 78.5M, a classic pre-snapshot step, and the $HEAT ticker is in public use. A short-notice snapshot in late November could lead to a December TGE and listings. The Polymarket anchor is 38% mid on a wide 34/42 spread, down 19 points over 30 days. I go somewhat lower for three reasons. The primary-source close-out posts deliberately avoid any token language. The Oct 26 post points to continued activity-based rewards rather than conversion. And the institutional KYC FX pivot adds a reason to delay. Short-notice TGEs at season end do happen, so I keep meaningful mass on Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6814",
+   "has_trace": true
+  },
   {
    "id": 3201,
    "scanned_at": "2026-09-19T20:06:11.811892",
@@ -21024,7 +21094,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-09T23:46:46.441Z",
+  "last_sync": "2026-11-10T11:10:26.821Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -23135,6 +23205,20 @@
  ],
  "Will more than 8 tropical cyclones make landfall in China during 2026?": [
   {
+   "id": 6820,
+   "scanned_at": "2026-11-10T03:12:45.107252",
+   "date": "2026-11-10",
+   "agent": 8.5,
+   "market_price_t0": 8,
+   "edge": 0.0049999999999999906,
+   "confidence": 0.56,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.09). {\"rationale\":\"(0) Not resolved. The CMA Landfalling TCs page still ends at 2025 (snapshot published 30 Jun 2026), and its 2026 rows will only appear in the best-track update due by 30 Jun 2027. CMA/NMC statements put the 2026 count at 7 named landfalling storms, with none between 3 Sep and 9 Nov. (a) About seven weeks of the calendar year remain for new landfalls; the resolution data publishes by mid-2027. (b) Status quo is 7 numbered storms. The CMA list may add one unnumbered depression: TD Ester landed near Kaohsiung on 5 Jun. That gives 7 or 8, both NO, which matches the sibling markets pricing exactly 7 at 42.5% and exactly 8 at 56.5%. (c) NO: Chapaka (No. 32) recurves away, a winter-monsoon cold surge suppresses South China Sea development, and the CMA list ends at 7–8. (d) YES: the CMA best track contains two or more unnamed depression landfalls (Ester plus one more on Hainan, Taiwan or the mainland). Alternatively, one extra depression plus a rare late-November or December South China Sea landfall would also get there. The research verified no second extra depression and found no China-bound disturbance in the forecasts. I anchor on the 8% Polymarket mid (wide 3–13% spread) and see no unpriced information to move it materially. The residual risk is concentrated in unknown CMA depression classifications.\",\"confidence\":0.7,\"unverified_claims\":[\"Whether the CMA best-track Landfalling TCs page will list TD Ester (5 Jun, Kaohsiung) or other unnamed depressions as 2026 China landfalls\",\"That no additional unnamed tropical depression made landfall in China/Taiwan/Hainan during 2026 beyond Ester\"]}",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6820",
+   "has_trace": true
+  },
+  {
    "id": 5141,
    "scanned_at": "2026-10-19T21:35:00.802077",
    "date": "2026-10-19",
@@ -24040,6 +24124,20 @@
   }
  ],
  "Will the highest score achieved by an OpenAI model on Humanity’s Last Exam in 2026 be 60% or higher?": [
+  {
+   "id": 6825,
+   "scanned_at": "2026-11-10T03:58:17.203749",
+   "date": "2026-11-10",
+   "agent": 23,
+   "market_price_t0": 23,
+   "edge": -2.7755575615628914e-17,
+   "confidence": 0.51,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.21, 0.25). (0) Not met: on Scale's official original-HLE board and its mirrors, OpenAI's best is GPT-6 Astra at about 54.8%; agi.safe.ai shows no live data, and OpenAI's own 57.2% with-tools figure is also below 60. (a) About 51 days remain until Dec 31, 2026. (b) Status quo is No, since Astra's 54.8% has been unchanged since Sept 3. (c) No: GPT-6.2 slips or is a small point release (6.1 Sol and Terra scored below Astra), or it is not evaluated and listed on the official board in time. (d) Yes, first path: a new Astra-class OpenAI model, widely expected before year-end, adds 5+ points and is listed quickly. (d) Yes, second path: the resolver counts HLE-Diamond as a 'clear equivalent', where Astra is at 60.6% on Scale's board but 59.9% on CAIS's lastexam.ai. The market anchor is 23% after a sharp 30-day decline, which likely prices both the release delay and the strict-reading view. I see no unpriced information, so I stay slightly below it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6825",
+   "has_trace": true
+  },
   {
    "id": 5592,
    "scanned_at": "2026-10-25T16:37:58.126461",
@@ -32493,6 +32591,20 @@
  ],
  "Military action against Saudi Oil Pipeline (East-West) by November 30?": [
   {
+   "id": 6846,
+   "scanned_at": "2026-11-10T10:16:54.382565",
+   "date": "2026-11-10",
+   "agent": 80,
+   "market_price_t0": 78,
+   "edge": 0.020000000000000018,
+   "confidence": 0.59,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.80, 0.80). (0) The resolving condition may already be met. Saudi Arabia's Energy Ministry, via SPA, said the East-West pipeline was \"targeted\" in the Medina region on Nov 9, causing a \"limited fire\". That is inside the window, which opened Oct 7. Al Jazeera/AFP frame it as a \"Houthi attack\" with damage, and Maritime Executive cites satellite imagery of damage at pumping station No. 8. However, no official source names the weapon or confirms impact rather than debris or sabotage, and no group has claimed it, so a strict resolver could still reject it. (a) About 20 days remain until 11:59 PM Riyadh time on Nov 30. (b) Status quo: the Nov 9 event is probably counted as an air or surface-to-surface impact, since war-time drone and missile strikes on this line are routine and a fire on the pipeline argues against an intercept. I put roughly 65% on it counting. (c) NO path: the resolver treats Nov 9 as unproven, and the next 20 days pass without a confirmed hit, as US-Iran de-escalation and Saudi under-reporting keep the line quiet. (d) YES path: Nov 9 is accepted, or the daily Houthi or Iraqi-militia fire produces another confirmed pumping-station hit. The 2026 tempo is roughly one hit every 1–2 months, and the Houthis named the pipeline in their Oct 24/26 claims, so I put about 35% on a new hit if Nov 9 is rejected. Combined, that gives about 0.77–0.80, in line with the Polymarket mid of 78% (bid 75 / ask 81). I nudge slightly above it because the official Saudi confirmation of a fire is the named resolution source.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6846",
+   "has_trace": true
+  },
+  {
    "id": 6290,
    "scanned_at": "2026-11-03T08:59:45.383051",
    "date": "2026-11-03",
@@ -33777,6 +33889,20 @@
  ],
  "Will Anthropic have the #1 AI model at the end of December 2026?": [
   {
+   "id": 6839,
+   "scanned_at": "2026-11-10T07:53:35.063357",
+   "date": "2026-11-10",
+   "agent": 33.5,
+   "market_price_t0": 31.5,
+   "edge": 0.019999999999999962,
+   "confidence": 0.435,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.32, 0.35). (0) Not resolved. arena.ai blocked direct reads, but the BenchLeader mirror (Arena data dated Nov 8) has Google's Gemini 4 Carbon #1 at 1527 and Argon #2 at 1522, with Anthropic's best, Opus 5.5, #4 at 1506, about 21 points back. (a) About 51 days remain until the Dec 31, 12:00 PM ET check. (b) Status quo is Google #1, so NO. (d) YES path: Fable 5.2, released Nov 9, is #1 on Arena WebDev and on the Artificial Analysis index (65 vs Carbon's 60). If Arena lists it on Text in the coming weeks and it scores above about 1528, as Fable 5 debuted at #1 on Text in June, Anthropic leads; a possible Opus 5.6 release before year-end is a second shot. (c) NO path: Fable 5.2's WebDev lead over Opus 5.5 is only 14 points (1832 vs 1818), which applied to Opus 5.5's 1506 Text score implies roughly 1520, short of Carbon. Style control on is relatively less favourable to Claude, and Google's two-model cluster at the top, plus any broader Carbon release or new Gemini, holds the lead. The market (31.5% mid, 33.5% close) has already digested the Fable 5.2 launch with no upward move, and the style-off sibling sits at 27.5%, so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6839",
+   "has_trace": true
+  },
+  {
    "id": 6115,
    "scanned_at": "2026-11-01T06:26:18.767635",
    "date": "2026-11-01",
@@ -34029,6 +34155,20 @@
  ],
  "Will the Fed Hike–Pause–Hike in the next three decisions (Sep–Oct–Dec)?": [
   {
+   "id": 6831,
+   "scanned_at": "2026-11-10T05:31:11.665150",
+   "date": "2026-11-10",
+   "agent": 80,
+   "market_price_t0": 81,
+   "edge": -0.010000000000000009,
+   "confidence": 0.62,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.80, 0.80). (0) The first two legs are already documented. The Fed's open market page shows a 25bp hike on Sep 16 to 3.75–4.00%, which is the Hike. The Oct 28 statement PDF shows a 10–2 hold at that range, which is the Pause, and FRED DFEDTARU still reads 4.00 through Nov 9. The outcome therefore depends only on whether the upper bound rises above 4.00% at the Dec 8–9 meeting.\n(a) About four weeks remain until Dec 9. Before then come the October CPI (today), core PCE on Nov 25 and the Dec 4 jobs report.\n(b) If nothing changes from today the Fed holds, so the status quo is No. But the anchor is a hike. This contract trades at 81%, Polymarket's separate December 25bp-hike market is at 79.5%, and CME FedWatch was about 82–85% on Nov 9–10. A Reuters poll also had 100 of 100 economists calling for a December hike, the September dot plot's median implied one more hike, and Cook and Hammack dissented hawkishly in October.\n(c) No: Warsh has refused forward guidance and pointed to tighter credit conditions. If the Nasdaq slide of about 15% and the VIX spike deepen, or October CPI prints soft, speakers like Logan, Williams and Jefferson could frame another patient hold before the late-November blackout. That would repeat October, when hike odds collapsed from 64% to 7%.\n(d) Yes: CPI comes in near consensus, no further market shock hits, and the hawkish majority delivers the hike that was deferred in October, consistent with the strong +165k payrolls and the hawkish post-jobs remarks.\nI see no unpriced information that justifies moving off the roughly 80% consensus. The October reversal argues for keeping meaningful weight on a hold.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6831",
+   "has_trace": true
+  },
+  {
    "id": 6247,
    "scanned_at": "2026-11-02T20:30:23.587401",
    "date": "2026-11-02",
@@ -34060,6 +34200,20 @@
   }
  ],
  "Pakistan military action against Afghanistan by November 30, 2026?": [
+  {
+   "id": 6811,
+   "scanned_at": "2026-11-10T00:52:40.680013",
+   "date": "2026-11-10",
+   "agent": 33.5,
+   "market_price_t0": 31.5,
+   "edge": 0.020000000000000018,
+   "confidence": 0.5,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.33, 0.34). (0) Not resolved. Neither the resolution-source read nor any research dimension found a Pakistani air, drone or missile strike on Afghanistan since the market opened Oct 30. Post-opening border fire (Nov 5 Kurram) was artillery, which does not qualify, and the last confirmed qualifying strike was Sept 30–Oct 1. (a) About 20 days remain, to Nov 30 AFT. (b) Status quo of artillery-only clashes plus diplomacy resolves NO. (c) NO: PICSS shows militant attacks and deaths in Pakistan falling sharply in October with no mass-casualty trigger, and Pakistan is hosting the ECO meeting Nov 15–16, so the window sits inside a lull like March–June. (d) YES: a big TTP attack or Taliban drone provocation brings Pakistani strikes on Khost, Paktika or Kunar within days, or a Taliban-claimed drone strike is widely carried and adjudicated by consensus. A rough 1.25 episodes/month base rate argues higher, but clustering and the weakening trigger argue lower. I anchor on the market's 31.5% mid and nudge slightly up for the frequent disputed drone claims that could count.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6811",
+   "has_trace": true
+  },
   {
    "id": 6221,
    "scanned_at": "2026-11-02T11:56:19.049987",
@@ -34984,6 +35138,70 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.43, 0.43). (0) Not resolved. The war.gov advisory of Nov 8 shows Hegseth still serving as Secretary of War, and none of the sources report a resignation or firing. (a) About 52 days remain until the Dec 31, 2026 11:59 PM ET deadline. (b) If nothing changes, Hegseth stays. Trump has backed him publicly four times since the midterms, the Pentagon says he is \"100% committed,\" and a House impeachment alone does not trigger Yes. (c) No: the House impeaches, but Trump refuses to reward Massie and digs in. No successor is lined up and an acting chief is unattractive, so any decision slides past Jan 1. (d) Yes: the House impeaches with GOP defections, and Vance, White House aides and Senate Republicans press for a scapegoat for the Iran war. The lame-duck Senate confirmation window, which Trump himself raised, pushes him to announce a replacement such as DeSantis before January, as Bush did with Rumsfeld in 2006. Trump's recent pattern of dropping people after defending them (Wiles, Noem) supports this path. I anchor on the 44.5% Polymarket price and the sibling \"out as SecDef by Dec 31\" market at 45.5%. I shade slightly lower because a move to another administration role, such as an envoy post like Noem's, might not count as leaving the administration. Trump's demonstrated resistance to pressure from Massie also weighs against a quick exit.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/6770",
+   "has_trace": true
+  }
+ ],
+ "Will Google be the second-best Math AI lab at the end of November 2026?": [
+  {
+   "id": 6841,
+   "scanned_at": "2026-11-10T08:39:33.147337",
+   "date": "2026-11-10",
+   "agent": 32,
+   "market_price_t0": 27,
+   "edge": 0.04999999999999999,
+   "confidence": 0.45999999999999996,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.32, 0.32). (0) Not resolved: arena.ai's HF dataset snapshot (2026-11-09) shows Google #1 in Math (Gemini 4 Argon 1538 vs Claude Opus 5 1532); live Lab Rank page was blocked. (a) ~20 days to the Nov 30 noon ET check. (b) Status quo is Google #1 and Anthropic #2, which resolves NO. But the 6-point gap is within overlapping CIs and Argon has only 1,046 votes. (c) NO: Fable 5.2 isn't listed on Text, or lands below Gemini in Math, and Google keeps #1. (d) YES: Fable 5.2 (released Nov 9, #1 on WebDev, Anthropic's Text listing lag ~3-4 days) or score drift puts Anthropic above Argon on Math; Google then almost surely sits #2. Market at 27% (falling); sibling markets (Anthropic #2 49%, Google best Math ~48% snapshot) imply something closer to 35-40%. I land slightly above market, at 0.32, given the thin gap and the imminent Anthropic flagship, while respecting the market's recent move down.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6841",
+   "has_trace": true
+  }
+ ],
+ "Will there be no next Meta Muse Spark model release by November 30, 2026?": [
+  {
+   "id": 6828,
+   "scanned_at": "2026-11-10T04:42:00.398814",
+   "date": "2026-11-10",
+   "agent": 69,
+   "market_price_t0": 62.5,
+   "edge": 0.06499999999999995,
+   "confidence": 0.55,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.68, 0.70). (0) Not resolved: Meta's research blog, API docs (Spark 1.1–1.3 only) and Nov 9 coverage show Muse Spark 1.3 (Sep 2) is still the latest numbered Spark. (a) About 20 days remain to Nov 30 ET, including Thanksgiving. (b) Status quo is Yes. Since 1.3 Meta has released differently named models (Wonder Oct 12, Spark Open Oct 15, Ember Nov 9), the Ember post benchmarks against Spark 1.3 as current, and the OpenCode 1.4-contributor listing has been dormant for ~7 weeks. (c) NO: Meta drops a Spark 1.4 or 2 on short notice, like the 4-week Jul–Sep cadence, possibly a refresh distilled from Wonder Full, or Crouton Alpha is revealed as Spark 1.4. (d) YES: Meta keeps shipping under new tier names or focuses on products, and Spark 1.3 stays current. Anchor is 62.5% and rising. The thin daily markets' 17–18% spikes on Nov 11 and 17 could reflect rumors, so I move only modestly above the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6828",
+   "has_trace": true
+  }
+ ],
+ "Will David Lisnard win the 2027 French presidential election?": [
+  {
+   "id": 6818,
+   "scanned_at": "2026-11-10T02:29:02.246545",
+   "date": "2026-11-10",
+   "agent": 8.5,
+   "market_price_t0": 14,
+   "edge": -0.05450000000000002,
+   "confidence": 0.525,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.08). (0) Nothing is resolved yet. The first round is 18 April 2027 and the runoff 2 May; the Interior Ministry has posted no results, and the resolution-source read confirms only polling exists. (a) About five months remain to round one and almost six to the runoff, which the contract covers since 'Other' applies only if results are unknown by 31 Dec 2027. (b) Under the status quo Lisnard loses. He polls 6–9% (8-pollster average 6.7%, Harris 9% as his best case), 8th of 35 names tested. That puts him far behind Le Pen (~35%), Mélenchon (~17%), Philippe (~13%) and Glucksmann (~12%), and Ifop calls a Le Pen–Mélenchon runoff 'assuré'. (c) NO: the right stays split because Philippe refuses a primary. Lisnard's social-media surge fades, or he stalls near 8%. Le Pen and Mélenchon or Philippe take the runoff slots. (d) YES: a primary in early 2027 crowns Lisnard over Retailleau and Attal. Consolidation lifts him to 15–20%, past a fragmented centre and Mélenchon. He then beats Le Pen or Bardella in the runoff on a republican 'barrage', which is plausible given Le Pen is only ~45% to win on Polymarket. The anchor is 14%. Chaining the steps, I estimate roughly 10–12% to reach the runoff and about 55–60% to win once there, which gives about 6–7%. Pricing in his real upward momentum and broad agreement on a primary, I settle near 9%. I move below the market because these markets have shown enthusiasm-driven spikes (Kalshi at 44.7% in September) above what the polls support.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6818",
+   "has_trace": true
+  }
+ ],
+ "Will Ari Weinstein leave OpenAI by December 31, 2026?": [
+  {
+   "id": 6808,
+   "scanned_at": "2026-11-10T00:06:30.763155",
+   "date": "2026-11-10",
+   "agent": 5.5,
+   "market_price_t0": 10.4,
+   "edge": -0.049499999999999995,
+   "confidence": 0.62,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.05). (0) Resolution check: no source shows a departure. The a16z podcast (Oct 26–27, 2026), the Latent Space DevDay appearance (Sep 30) and his X/Digg bio all still place Weinstein at OpenAI as lead of consumer Computer Use, and searches turned up no departure, leave or suspension report. The condition is neither met nor impossible. (a) About 51 days remain until Dec 31, 2026, and the window includes the slow holiday period. (b) Status quo is NO: he publicly owns a flagship, growing product line, and the one-year acquisition anniversary (Oct 23) passed with no sign of an exit. (c) NO path: he keeps leading Computer Use through year-end, and any eventual move comes in 2027 after bonuses or vesting. (d) YES path: a retention cliff tied to the acquisition has lapsed and he announces a new startup, fitting his serial-founder pattern. Alternatively, a reorg, a sabbatical or ongoing Codex-org turnover (Rohan Varma left on Nov 8) triggers a reported exit, and an announcement alone counts even if the departure takes effect later. The market anchor is a 10.45% mid on a very thin, wide book (bid 4% / ask 17%), down about 25 points in a week, which suggests earlier speculation has faded. The outside view for a ~7-week window is roughly 2–4%, raised somewhat by high OpenAI churn and the broad resolution wording. I sit below the mid at about 6%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6808",
    "has_trace": true
   }
  ]

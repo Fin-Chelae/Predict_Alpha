@@ -5097,6 +5097,20 @@
  ],
  "Will the highest score achieved by a Meta model on Humanity’s Last Exam in 2026 be 55% or higher?": [
   {
+   "id": 6856,
+   "scanned_at": "2026-11-10T13:34:11.411100",
+   "date": "2026-11-10",
+   "agent": 26.5,
+   "market_price_t0": 38.5,
+   "edge": -0.12,
+   "confidence": 0.42,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.27, 0.26) after one crux research pass. (0) Not met: the live agi.safe.ai board did not render and shows no Meta row. Scale/CAIS's full-set board lists Meta's best at 40.56% (Muse Spark), with a board top of 54.8%. Meta's best independent no-tools scores are 53.6% (Wonder Full) and 50.1% (Wonder), per Artificial Analysis. Figures above 55% come from with-tools runs, HLE-Diamond, or loose aggregators. (a) About 7 weeks remain, to 2026-12-31. (b) The status quo is No. (c) No: Meta ships only small or point models (Ember, a possible Spark 1.4), Wonder Full is never scored on the official full set, and Meta's best official entry stays below 55%. (d) Yes: the official board uses AA-like numbers (the overall 58%+ market at 97% hints its top exceeds Scale's 54.8%), and a Wonder Full re-run or new point release clears 55%; or a lenient resolver accepts a with-tools or Diamond figure. The market mid of 38.5% sits in a wide 30/47 spread with a stale last trade at 13%. I respect the recent +23% move but shade lower, given no announced flagship and the strict 'HLE Accuracy' reading.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6856",
+   "has_trace": true
+  },
+  {
    "id": 4143,
    "scanned_at": "2026-10-07T20:52:24.247166",
    "date": "2026-10-07",
@@ -6939,6 +6953,20 @@
  ],
  "Will Waymo operate in 12-15 cities on December 31 2026?": [
   {
+   "id": 6854,
+   "scanned_at": "2026-11-10T12:33:21.938436",
+   "date": "2026-11-10",
+   "agent": 75,
+   "market_price_t0": 70.6,
+   "edge": 0.04400000000000004,
+   "confidence": 0.62,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.76, 0.74). (0) Not resolved yet. Waymo's rides page (fetched 2026-11-10) lists 15 cities serving riders, including Austin and Atlanta via Uber, which is already inside the 12–15 bucket. Waymo's own tallies range from 14 to 15 depending on Las Vegas. (a) About 7 weeks remain to the 2026-12-31 11:59 PM ET deadline. (b) The status quo of 14–15 cities resolves Yes; a stricter 'public' reading only lowers the count to 13–14, still Yes. (c) No requires a 16th public city. Detroit is the main candidate: employee-only rides started Oct 6, and an 8–10 week lag would land in December. Against that, Waymo gave no timeline, Detroit has winter weather, and the separate Detroit market is at about 8%. DC is blocked until 2028, and London (about 4%) still needs DfT/TfL approval. (d) Yes holds if Waymo keeps densifying existing metros through year-end, as all its late-October and November announcements suggest. The market is at 70.6%. The 16–19 bucket at 18.6% looks rich against the individual city-launch markets, so I lean slightly toward Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6854",
+   "has_trace": true
+  },
+  {
    "id": 5677,
    "scanned_at": "2026-10-26T16:26:21.843219",
    "date": "2026-10-26",
@@ -7024,6 +7052,20 @@
   }
  ],
  "Will the upper bound of the target federal funds rate be ≥ 4.5% at the end of 2026?": [
+  {
+   "id": 6858,
+   "scanned_at": "2026-11-10T14:38:35.514439",
+   "date": "2026-11-10",
+   "agent": 11,
+   "market_price_t0": 10.7,
+   "edge": 0.0030000000000000027,
+   "confidence": 0.56,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.11). {\"probabilities\":[{\"market\":\"Yes\",\"probability\":0.11},{\"market\":\"No\",\"probability\":0.89}],\"rationale\":\"(0) Not resolved. The Fed's page, FRED DFEDTARU and the October 28 statement all show the upper bound at 4.00%. Yes requires a 50bp hike at the December 8-9 FOMC, or an unscheduled hike, because a 25bp move only reaches 4.25%. (a) About four weeks remain until the December 9 decision. Before then come the October minutes (Nov 18) and the November jobs report (Dec 4). (b) With no change in the data, the status quo is the consensus 25bp hike to 4.25%, which resolves No. A Reuters poll of 101 economists was unanimous on 25bp, though it was fielded mostly before the CPI release. (c) No path: oil keeps falling from above $100 to below $90 and the headline cools. Hammack's stated preference for gradual steps holds, and Warsh delivers 25bp as in September. (d) Yes path: a strong November jobs report on Dec 4 plus hawkish minutes and speeches lead Logan, Musalem and Cook to back Waller's credibility argument, and the committee front-loads with 50bp. Anchors: this market sits at 10.7%, and the sibling 'three hikes in 2026' market is at 10.55%. CME FedWatch put a 50bp move at about 15% after the hot October core CPI and Waller's speech, up from about 1% before. That futures figure is a one-day reaction, and Waller's own published text keeps 25bp as his base case. No second official has endorsed 50bp, and the Fed has not moved 50bp since 2022. I stay close to the market, slightly above it to give some weight to the futures pricing.\",\"confidence\":0.62,\"unverified_claims\":[\"CME FedWatch priced ~15.3% for a 50bp December hike after the Nov 10 CPI (single-source panews report)\",\"October core CPI +0.3% meeting Waller's 50bp threshold\"]}",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6858",
+   "has_trace": true
+  },
   {
    "id": 5802,
    "scanned_at": "2026-10-28T09:32:26.431566",
@@ -13118,6 +13160,20 @@
   }
  ],
  "China x Philippines military clash before 2027?": [
+  {
+   "id": 6876,
+   "scanned_at": "2026-11-10T20:24:36.079915",
+   "date": "2026-11-10",
+   "agent": 9.3,
+   "market_price_t0": 11.5,
+   "edge": -0.022500000000000006,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.10). (0) Not yet met. The July 20 baton melee between China Coast Guard and Philippine Navy personnel at Second Thomas Shoal predates the market's July 24 open. Every incident since then falls short of the rules: the Sept 18 ramming hit a civilian Bureau of Fisheries vessel, the Oct 8 water cannon was directed at a Philippine Coast Guard ship, and the rest were blocking, intercepts and patrols. (a) About 7 weeks remain, to Dec 31, 2026. (b) If nothing changes, the market resolves No; it has been 109 days without a qualifying event despite an autumn spike in friction. (c) NO path: the ASEAN Summit in Manila (with Trump attending), APEC in Shenzhen and the Code of Conduct push dampen escalation. Manila's foreign ministry has publicly rebuked its own hawkish officials. The next Sierra Madre resupply passes with only shadowing, as the October missions did. (d) YES path: a resupply or a Chinese tow or boarding attempt at Sierra Madre, now that the provisional understanding has collapsed, ends in a China Coast Guard versus Navy melee with weapons, or a hull-breaching ramming of a Navy craft. Another route is a mishap amid the stepped-up PLA patrols at Scarborough. Qualifying events have run at about 1–2 a year at peak, which implies roughly 10–15% over 7 weeks. That falls lower once you account for resolution ambiguity (even the July melee was borderline) and the diplomacy-heavy calendar. The market sits at 11.5% and is trending down, and I shade slightly below it, to 9%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6876",
+   "has_trace": true
+  },
   {
    "id": 6141,
    "scanned_at": "2026-11-01T15:15:05.857431",
@@ -21094,7 +21150,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-10T11:10:26.821Z",
+  "last_sync": "2026-11-10T21:17:21.464Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -34139,6 +34195,20 @@
  ],
  "Major airlines suspend Ben Gurion flights by November 30, 2026?": [
   {
+   "id": 6866,
+   "scanned_at": "2026-11-10T17:37:22.762382",
+   "date": "2026-11-10",
+   "agent": 12,
+   "market_price_t0": 17,
+   "edge": -0.05000000000000002,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.12). (0) Not met: the IAA/data.gov.il flight feed shows Delta, United, Lufthansa, Air France and British Airways all flying their own scheduled LLBG flights on 9-10 Nov, with more listed for 11 Nov. No suspension is running. (a) About 20 days remain for the overlap day (by Nov 30); a 14-day halt can run past that date, so late-November halts could still qualify. (b) Status quo is No: all five are selling forward inventory through late November (Lufthansa about 21 weekly flights; Delta's OAG filing adds a second daily JFK flight from Nov 29). (c) No: Trump's 'quite unlikely' stance on new strikes holds, Brent stays below $90, and friction stays limited (Qeshm, Gulf incidents), or a brief flare-up brings only 1-3 day cancellations, which fail the 14-day test. (d) Yes: a post-midterm US/Israeli strike on Iran (NPR Oct 22, Axios Nov 2), Iranian retaliation and airspace closure lead the basket carriers to cancel together and stay out for months, as on Jun 13, 2025 and Feb 28, 2026. The related ceasefire-through-Nov-30 market implies about 15.5% breakdown, and not every breakdown means three full 14-day halts; the 96% ceasefire-through-Nov-15 price suggests the Qeshm strikes were not counted as a breakdown. That gives roughly 11%, slightly below the 17% Polymarket mid, consistent with the market's sharp 7-day decline.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6866",
+   "has_trace": true
+  },
+  {
    "id": 6249,
    "scanned_at": "2026-11-02T21:29:36.084868",
    "date": "2026-11-02",
@@ -34310,6 +34380,20 @@
   }
  ],
  "Will Iran sabotage undersea internet cables by December 31?": [
+  {
+   "id": 6851,
+   "scanned_at": "2026-11-10T11:49:41.900977",
+   "date": "2026-11-10",
+   "agent": 9,
+   "market_price_t0": 11.5,
+   "edge": -0.02500000000000001,
+   "confidence": 0.6,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) The condition is not met. As of Nov 9–10, credible reporting (bne IntelliNews, Visiontimes, HSToday) confirms no undersea cable has been damaged by Iran or any proxy. What exists is threats, a Reuters-reported conditional plan, and Windward/FT ship-loitering data that Windward itself says is not a 'confirmed survey'.\n(a) About seven weeks remain, to 11:59 PM ET on Dec 31, 2026.\n(b) The status quo is No. Eight months of war, several truce breakdowns, mine and ship attacks, and drone strikes on Gulf data centres have produced no deliberate cable cut. Iran's own FALCON and GBI cables share the seabed, which gives it a reason to hold back.\n(c) No scenario: Qatari mediation keeps the 'no war, no peace' state going. Trump said strikes 'won't be necessary', and Eurasia cut its escalation odds from 60% to 30%. Iran keeps the cable threat as leverage, and any ambiguous fault fails the deliberate-attribution test.\n(d) Yes scenario: talks collapse and the US resumes a large campaign before mid-December, the stated trigger, with hawks acting before the new Congress. Iran then uses pre-positioned vessels to place charges on 2Africa, EIG or TGN-Gulf, and Reuters or the FT attribute it. A lesser path is a Houthi ship strike causing an anchor-drag cut, as with Rubymar.\nI estimate roughly 20–25% for full war resumption, times about 25–30% for follow-through on cables, plus a small Houthi path. That gives about 8–9%, slightly below the 11.5% market anchor. The post-midterm de-escalation news (Nov 9–10) is the main reason I shade down.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6851",
+   "has_trace": true
+  },
   {
    "id": 6298,
    "scanned_at": "2026-11-03T11:05:09.938879",
@@ -35202,6 +35286,102 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.06, 0.05). (0) Resolution check: no source shows a departure. The a16z podcast (Oct 26–27, 2026), the Latent Space DevDay appearance (Sep 30) and his X/Digg bio all still place Weinstein at OpenAI as lead of consumer Computer Use, and searches turned up no departure, leave or suspension report. The condition is neither met nor impossible. (a) About 51 days remain until Dec 31, 2026, and the window includes the slow holiday period. (b) Status quo is NO: he publicly owns a flagship, growing product line, and the one-year acquisition anniversary (Oct 23) passed with no sign of an exit. (c) NO path: he keeps leading Computer Use through year-end, and any eventual move comes in 2027 after bonuses or vesting. (d) YES path: a retention cliff tied to the acquisition has lapsed and he announces a new startup, fitting his serial-founder pattern. Alternatively, a reorg, a sabbatical or ongoing Codex-org turnover (Rohan Varma left on Nov 8) triggers a reported exit, and an announcement alone counts even if the departure takes effect later. The market anchor is a 10.45% mid on a very thin, wide book (bid 4% / ask 17%), down about 25 points in a week, which suggests earlier speculation has faded. The outside view for a ~7-week window is roughly 2–4%, raised somewhat by high OpenAI churn and the broad resolution wording. I sit below the mid at about 6%.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/6808",
+   "has_trace": true
+  }
+ ],
+ "Will there be no next Gemini Flash-Lite model (3.6+) release by November 30, 2026?": [
+  {
+   "id": 6878,
+   "scanned_at": "2026-11-10T21:06:00.825990",
+   "date": "2026-11-10",
+   "agent": 77.5,
+   "market_price_t0": 69,
+   "edge": 0.08500000000000008,
+   "confidence": 0.6,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.80, 0.75) after one crux research pass. (0) No qualifying release has happened as of 2026-11-10. Google's models page, changelog, deprecations page and Cloud lifecycle page all show gemini-3.5-flash-lite (2026-07-21) as the newest general Flash-Lite, and new projects are told to use \"3.5 Flash-Lite or 3.8 Flash.\" The only 3.6+ Flash-Lite is gemini-3.8-flash-lite-tts, a speech-only model. It most likely falls under the excluded \"specialized modality variants,\" and it predates this market's opening. (a) About 20 days remain until November 30, including Thanksgiving week. (b) If nothing changes, the market resolves Yes. Google is building its December 1 routing and its free-tier default on 3.5 Flash-Lite, and is still adding fine-tuning support for it, which signals no imminent successor. (c) NO scenario: no release comes, Google keeps rolling out Gemini 4 top-down (Argon, then Carbon, then perhaps Flash/Hydrogen), and any Lite arrives in December or later. That fits the pattern of 3.7 and 3.8 Flash shipping without a Lite sibling. (d) YES scenario: a Gemini 4 Flash ('Hydrogen', rumoured around Nov 18 by unsourced X accounts) launches with a Gemini 4 Flash-Lite, or Google surprise-ships a standalone 3.6+ Flash-Lite, since past Lite launches came without warning. A smaller risk is a resolver counting the TTS model. The base rate is roughly one Flash-Lite every four months, which puts a 20-day window at about 15%. There is no Lite-specific leak and Lite lags Flash, so I shade that lower, while keeping some weight on the Hydrogen co-launch and on resolution ambiguity. The market sits at 69%, and the daily-date markets sum to about 20% for Nov 10-17 alone, but those are thin. On the absence of any signal I lean somewhat more toward Yes than the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6878",
+   "has_trace": true
+  }
+ ],
+ "Ukraine agrees not to join NATO by December 31, 2026?": [
+  {
+   "id": 6874,
+   "scanned_at": "2026-11-10T19:43:35.218446",
+   "date": "2026-11-10",
+   "agent": 5.8,
+   "market_price_t0": 7.4,
+   "edge": -0.016499999999999994,
+   "confidence": 0.69,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) The condition has not been met. No source shows an official Ukrainian pledge not to join NATO as of Nov 10, 2026. The resolution-source check and all four research reports agree, and the Abu Dhabi round (Nov 10–11) ended day one with no breakthrough (ABC Australia, AP, TASS). (a) About seven weeks remain until 11:59 PM ET on Dec 31, 2026. (b) If nothing changes, the market resolves No. Zelensky publicly insists on keeping the right to choose NATO and calls neutrality 'not up for discussion' (Oct 26). The US–EU–Ukraine statement preserves Ukraine's 'freedom to make its own decisions'. Martial law blocks constitutional change, and Kyiv ties any deal to ratification by the Rada or a referendum. (c) NO: talks drag on, with Rubio saying an agreement 'will take time'. Russia keeps bundling Ukraine into a continent-wide security package aimed at spring 2027, and Zelensky keeps refusing to trade Donbas for guarantees, so the year ends with no pledge. (d) YES: the US forces a 'no NATO accession plus Article 5-like guarantees' principles text. Battlefield and blackout pressure, plus Washington withholding aid, push Kyiv to sign a Dayton-style 'Agreed Basic Principles' framework before year-end that includes a time-limited NATO moratorium. Alternatively, a resolver counts a loose conditional statement, though the Dec 2025 precedent suggests it would not. I anchor on Polymarket's 7.4% mid (bid 6%, ask 9%). The related market on a signed peace deal by Dec 31 also sits at 7.5%. Since day one produced no movement and Washington itself signals a longer timeline, I shade slightly below the anchor to 6%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6874",
+   "has_trace": true
+  }
+ ],
+ "GPT-7 released by June 30, 2027?": [
+  {
+   "id": 6872,
+   "scanned_at": "2026-11-10T19:00:50.363462",
+   "date": "2026-11-10",
+   "agent": 41,
+   "market_price_t0": 50.5,
+   "edge": -0.09499999999999997,
+   "confidence": 0.45,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.42, 0.40) after one crux research pass. (0) The condition is not met. OpenAI's API models page, fetched 2026-11-10, lists only GPT-6 Astra, GPT-6.1 Sol, GPT-6 Luna and Cyber variants, with no GPT-7 or GPT-8, and OpenAI has never officially named GPT-7. (a) About 7.7 months remain until 2027-06-30. (b) If nothing changes, the answer is No: the leaked next release is gpt-6.2-astra, and further 6.x decimals (6.2, 6.3, 6.5) would not qualify. (c) No path: OpenAI keeps climbing the decimal ladder through H1 2027, as it did across the year-long 5.x run, and saves the GPT-7 name for a Bel-based or larger model in H2 2027. That matches Pluralsight's central H2 2027 view and the whole-number gaps of 33, 29 and 13 months. Safety or regulatory slippage, such as the scrapped 6.1 Astra and the government review of GPT-6, adds delay risk. (d) Yes path: competition from Gemini 4 and Claude 5.x, plus heavy new compute at Abilene, pushes OpenAI to ship the post-Bel / Navier-Stokes 'next GPT' as GPT-7 in Q2 2027, with paid-tier access. That fits the shrinking whole-number gap and Pluralsight's 'optimistic' Q2 2027 earliest date. The market anchor is a 50.5% mid on thin volume (about $16K) with a wide 45/56 spread and a 30-day rise of 12 points. Manifold's independent crowd sits around 40-44%, and the sibling Dec 2027 strike at about 86% puts substantial mass in H2 2027. Because the near-term signals (6.2 labels, RL on the existing base, Bel 'months out') point to decimals first, I shade below the market to about 42%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6872",
+   "has_trace": true
+  }
+ ],
+ "Will The Odyssey be the #1 searched movie on Google this year?": [
+  {
+   "id": 6868,
+   "scanned_at": "2026-11-10T18:18:27.637135",
+   "date": "2026-11-10",
+   "agent": 32.5,
+   "market_price_t0": 34.5,
+   "edge": -0.019999999999999962,
+   "confidence": 0.42,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.33, 0.32). (0) Not resolved: the resolution source shows the 2026 Year in Search page returning HTTP 404, with the hub still on the 2025 edition (Anora #1). The 2026 list is expected in early-to-mid December. (a) About 4-5 weeks until publication is likely; the fallback deadline is Mar 31, 2027, after which the market resolves 'Other' (counts as No). (b) The market anchor is 34.5% and has drifted down 5 points in a week and 7 in a month; a Polymarket snapshot about a month ago had Obsession ahead, 42% to 38%. (c) NO: Google ranks by sustained rise versus the prior year. The Odyssey's large 2025 pre-release search base (about 673K monthly searches) shrinks its year-over-year rise. Obsession, a breakout with no 2025 baseline and a long tail, takes #1 Anora-style; it led the Oct 30 FlixPatrol daily Google chart where The Odyssey did not appear. Or Spider-Man, the top grosser with broader international reach, wins. (d) YES: Forbes's 12-month Google Trends read shows The Odyssey as the only title hitting 100, averaging 10 versus 8 for Spider-Man, and the summer spike plus the Nov 17 digital release carry it to #1. That comparison excluded Obsession. With no direct Odyssey-versus-Obsession Trends data and the rise-versus-baseline method slightly favoring Obsession, I stay near the market, shading slightly lower.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6868",
+   "has_trace": true
+  }
+ ],
+ "Will exactly 7 tropical cyclones make landfall in China during 2026?": [
+  {
+   "id": 6863,
+   "scanned_at": "2026-11-10T16:42:31.945924",
+   "date": "2026-11-10",
+   "agent": 41,
+   "market_price_t0": 45.4,
+   "edge": -0.043999999999999984,
+   "confidence": 0.45,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.42, 0.40). (0) Not resolved: the CMA 'Landfalling TCs' page lists landfalls only through 2025, and the 2026 best-track update normally appears around mid-2027. (a) About 51 days of 2026 remain, with resolution data due by June 2027 and the Typhoon Committee report as fallback. (b) Status quo: CMA's 2 Sep briefing and the National Climate Center's 9-10 Nov review both count 7 landfalling typhoons (Maysak, Bavi, Hongxia, Dolphin, Narra, Gaenari, Saudel), with none of the 9 autumn storms landing; Champi skirted Taiwan and Cempaka is moving away. (c) NO: the CMA page counts all intensities and Taiwan landfalls, so TD Ester's 5 June Kaohsiung landfall, the unnamed 9-10 June or 30-31 Aug depressions, or a reanalysed Champi pass could add an 8th entry; the 2025 list includes an unnamed depression, and a rare Nov-Dec south China strike (about 5%) would also mean NO. (d) YES: the best track places Ester offshore or dissipated, records no other depression landfalls, keeps Champi as a non-landfall, and the season ends quietly. Anchor: Polymarket mid 45% (35/56 spread), with sibling markets at 53% for 8 and 7% for more than 8. Traders weight Ester's inclusion slightly above even and I have no evidence to overturn that, so I stay near the normalised market estimate (about 43%), shaded slightly for late-season risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6863",
+   "has_trace": true
+  }
+ ],
+ "Will Iran target Oman by November 30, 2026?": [
+  {
+   "id": 6861,
+   "scanned_at": "2026-11-10T15:41:13.326208",
+   "date": "2026-11-10",
+   "agent": 55,
+   "market_price_t0": 56,
+   "edge": -0.010000000000000009,
+   "confidence": 0.42,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.55, 0.55). (0) No confirmed resolution yet, but Didamar Island (Omani territory) was reportedly struck around Nov 7–10, with an IRGC official confirming navigation aids destroyed (Gulf News, Business Upturn) and Sentinel-2 burn marks. That is inside the Sep 30 window, so it counts if it qualifies. The weapon is unknown (drone or missile qualifies; naval fire or sabotage does not), Oman has made no statement, and the claim is anonymous. (a) About 20 days remain, plus the 3-day dispute rule. (b) Status quo: if Didamar stays ambiguous, likely No, since confirmed Iranian land strikes on Oman have been rare since July 12 and Iran typically denies them. (c) No: Oman stays silent to protect the Hormuz mechanism, the munition is never established or is naval, and talks avert new US strikes. (d) Yes: reporting confirms IRGC drones or missiles hit Didamar, Iran repeats strikes on Omani-side navigation infrastructure, or a US strike wave triggers Gulf-wide retaliation. The market, up from 5% to 56% on this news, already prices about even odds that Didamar counts; drones are the likeliest IRGC tool against such a target, offset by Oman's silence, so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6861",
    "has_trace": true
   }
  ]

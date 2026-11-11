@@ -3239,6 +3239,20 @@
  ],
  "Will Xi meet with Takaichi by December 31, 2026?": [
   {
+   "id": 6959,
+   "scanned_at": "2026-11-11T19:53:00.194936",
+   "date": "2026-11-11",
+   "agent": 89.5,
+   "market_price_t0": 91.5,
+   "edge": -0.020000000000000018,
+   "confidence": 0.64,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.89, 0.90). (0) Not yet resolved. Reporting from Nov 10–11 says Xi and Takaichi have not met since the Oct 2025 Gyeongju summit, which predates this market's creation, so a new encounter is needed. (a) About seven weeks remain until Dec 31. The decisive window is APEC Shenzhen on Nov 18–19, with the Miami G20 on Dec 14–15 as a weaker backup that depends on Xi attending. (b) If nothing changes there is no meeting, so the status quo is No. The structure of the event leans Yes, though: Xi as host is slated to greet each leader at the leaders' dinner, and the rules count a handshake or exchange of words. (c) No path: Kyodo and Bloomberg say a formal bilateral is off and Global Times is hostile. Beijing could choreograph the dinner and photo to avoid a direct greeting, or the greeting could be so brief and unpublicised that credible reporting is ambiguous. Xi might then also skip Miami or snub her there. (d) Yes path: Xi shakes Takaichi's hand in the host greeting line, as he did with Abe in 2014. A Chinese source quoted via Kyodo/World Journal says he will shake her hand 'in accordance with diplomatic protocol', and Japanese media would report it widely. The market sits at 91.5%, and the related 'no handshake at summit' market at 11.5% is consistent with it. That anonymous Chinese-side handshake signal likely drove the recent jump. I shade slightly below the market for snub risk and resolution ambiguity, since there is no official Chinese commitment.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6959",
+   "has_trace": true
+  },
+  {
    "id": 6393,
    "scanned_at": "2026-11-04T19:00:11.144422",
    "date": "2026-11-04",
@@ -21192,7 +21206,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-11T10:55:59.788Z",
+  "last_sync": "2026-11-11T21:56:58.801Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -24473,6 +24487,20 @@
  ],
  "Israeli airspace closed by December 31, 2026?": [
   {
+   "id": 6964,
+   "scanned_at": "2026-11-11T21:38:02.101502",
+   "date": "2026-11-11",
+   "agent": 21.5,
+   "market_price_t0": 24.5,
+   "edge": -0.03,
+   "confidence": 0.535,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.21, 0.22). (0) Resolution check: the condition has not been met. The IAA homepage, the Nov 9 NOTAM snapshot and Nov 11 reporting all show the Tel Aviv FIR open. The Nov 11 Ramon suspension was caused by an earthquake and covered one airport, so it is excluded twice over, and the Feb 28 – Apr 9 closure came before the market opened on Sept 15. (a) About 50 days remain until Dec 31, 11:59 PM ET. (b) If nothing changes, the airspace stays open: carriers are returning (BA, and Air Canada on Nov 30), and Israel has kept the skies open through several flare-ups (June and September) despite advisers recommending closure. (c) NO: Trump's 'hold off for now' turns into a longer pause under Qatari, Turkish and Gulf mediation and the US economic-pressure track (Rubio says major combat is unnecessary 'right now'). Alternatively, limited US strikes like those on Qeshm continue without Iranian fire on Israel, so no general NOTAM is issued. (d) YES: a joint US–Israel strike round, which has been prepared repeatedly since late October and could come as the third carrier group arrives in late November or before the new Congress sits, prompts the planned opening closure of up to ~12 hours. That closure would qualify, since the rules set no minimum duration. The market sits at 24.5%, and the Nov 30 sibling at 9.5% implies roughly 16% for December alone. I shade slightly below the market for three reasons: de-escalatory signals have gained ground in the past week; Israel has shown a deliberate policy of not closing under fire; and even a strike round might not produce a FIR-wide default closure, given the May reports that Ben Gurion would stay open.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6964",
+   "has_trace": true
+  },
+  {
    "id": 3184,
    "scanned_at": "2026-09-19T12:57:39.965543",
    "date": "2026-09-19",
@@ -25858,6 +25886,20 @@
   }
  ],
  "Will Benjamin Netanyahu be the next leader out before 2027?": [
+  {
+   "id": 6956,
+   "scanned_at": "2026-11-11T19:03:11.492330",
+   "date": "2026-11-11",
+   "agent": 36,
+   "market_price_t0": 40,
+   "edge": -0.040000000000000036,
+   "confidence": 0.51,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.36, 0.36). (0) Not resolved: Netanyahu is still PM as of 10-11 Nov (JTA, Al Jazeera), now as caretaker after the inconclusive 27 Oct election, and caretaker status does not count. YES needs a new government sworn in after a Knesset confidence vote by 31 Dec, with no other listed leader leaving first; Macron, Erdogan, Kim and Xi each trade at about 0.3%. (a) About 7 weeks remain: Eisenkot's mandate ends about 6 Dec, or about 20 Dec with the extension, and a confidence vote must follow within 7 days, so a vote by about 27 Dec is possible. (b) Status quo is NO: Netanyahu stays caretaker, and a failed formation process runs past year-end. (c) NO: UTJ's draft-exemption demands clash with Eisenkot's 'service for all', Shas stays with Netanyahu, Liberman and Bennett block a minority or Arab-reliant government, and the mandate lapses. (d) YES: UTJ accepts a transitional draft deal, or abstains with Ra'am giving outside support, letting a minority or 61-seat Eisenkot government pass, much as the 2021 Bennett-Lapid government formed quickly with Ra'am. The market is at 40%, up 25 points in a week on the Haredi outreach. Same-day reports cut against it: Shas refuses talks, the draft positions conflict, Israel Hayom calls the talks preliminary, and Liberman rejects a minority government. Given the arithmetic without Shas (48+7=55) and the tight timeline, I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6956",
+   "has_trace": true
+  },
   {
    "id": 6369,
    "scanned_at": "2026-11-04T13:09:02.762973",
@@ -33109,6 +33151,20 @@
  ],
  "Will the lowest Baton Rouge river level be 6.00 ft or more by November 30?": [
   {
+   "id": 6941,
+   "scanned_at": "2026-11-11T14:04:42.756553",
+   "date": "2026-11-11",
+   "agent": 83.5,
+   "market_price_t0": 77.2,
+   "edge": 0.06299999999999994,
+   "confidence": 0.64,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.84, 0.83). (0) Not resolved: the USGS daily-mean window low is 6.38 ft (Nov 9), latest 6.45 ft (Nov 10), so a single daily mean below 6.00 before Nov 30 would still flip this to No. (a) About 20 days remain. (b) Status quo favors Yes. The river bottomed and turned up, and instantaneous readings were 6.78 ft on Nov 11 morning. Upstream gauges (Cairo, Cape Girardeau, Natchez, Red River Landing) are rising, and the NWS forecasts show a crest near 8.6 ft around Nov 22-24, easing to about 7.0 by Nov 30, with nothing below 6.1 in the window. (c) No path: the pulse is weaker than forecast, the recent ~0.5 ft high bias persists, and drought-starved tributaries plus a dry late November produce a recession that undercuts 6.00 before Nov 30. The 2022-2025 analogs all dipped below 6.0. (d) Yes path: water already upstream arrives and holds Baton Rouge at 7-8.5 ft, and the post-crest recession doesn't reach 6.0 until early December. The market sits at 77%; I lean somewhat higher because the rise is driven by water already in the system, but long-lead forecast error on crest size and recession timing in a drought basin is real.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6941",
+   "has_trace": true
+  },
+  {
    "id": 6309,
    "scanned_at": "2026-11-03T16:14:08.148723",
    "date": "2026-11-03",
@@ -35634,6 +35690,166 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.80, 0.79). (0) Not yet met: Fable 5.2 launched Nov 9 and is #1 only on Code Arena WebDev; the changelog and the Nov 9 Hugging Face dataset show no Text Arena row, so the first-appearance clock has not started. (a) About 7.5 months remain, to June 30, 2027. (b) Status quo: Fable 5.1 reached Text one day after launch and sits about #3-4 at roughly 1513, with the #10 cutoff near 1500, so an upgraded 5.2 should very likely debut top 10. (c) No: Text stays in AutoEval or preliminary limbo, only Mythos 5.2 is listed, a weak first variant lands below #10, or the entry is pulled before the next-day check. (d) Yes: a Max or xHigh entry lands on Text around Nov 10-12 at about 1505+ and shows a rank around #1-6. The 73% mid fell 18 points this week, and sibling markets imply roughly 20-25% on a failure mode my research could not identify. I shade only modestly above the mid, to 0.80.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/6883",
+   "has_trace": true
+  }
+ ],
+ "Spain General Election: PP + Vox Majority?": [
+  {
+   "id": 6962,
+   "scanned_at": "2026-11-11T20:47:12.150797",
+   "date": "2026-11-11",
+   "agent": 88.5,
+   "market_price_t0": 90,
+   "edge": -0.015000000000000013,
+   "confidence": 0.705,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.88, 0.89). (0) Not resolved: the vote is on 29 Nov and infoelectoral has no results, so YES needs PP and Vox to win 176+ strictly attributed seats. (a) 18 days remain, with the poll publication ban starting 24 Nov. (b) Status quo is YES: every seat-publishing poll has PP+Vox at 176 or more, mostly 190-205 (GAD3 199, Sigma Dos 199, SocioMétrica ~200, 40dB 190), with SW Demoscopia lowest at 178; aggregator simulations give ~91-96%. (c) NO: post-Puente left consolidation behind the PSOE, a polling miss larger than 2023's 12 seats (Vox overstated), a hidden late swing and 1-2 seats of UPN leakage push the strict count below 176. (d) YES: PP ~130, Vox ~65, PSOE stalls near 105-115 and the fragmented left is punished by D'Hondt. I anchor on the 90% market, which matches the models and the related PP/Feijóo markets, and shade slightly for the PSOE trend, 2023-style herding risk and the UPN technicality.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6962",
+   "has_trace": true
+  }
+ ],
+ "Next GPT Sol (6.2+) released by November 30, 2026?": [
+  {
+   "id": 6954,
+   "scanned_at": "2026-11-11T18:17:22.141010",
+   "date": "2026-11-11",
+   "agent": 88,
+   "market_price_t0": 90.5,
+   "edge": -0.025000000000000022,
+   "confidence": 0.62,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.87, 0.89). (0) Not yet met. OpenAI's Model Release Notes, rendered today, show no Sol model at 6.2 or higher; the newest entries are GPT-6.1 Terra (Oct 26) and a GPT-6 update (Oct 29). Secondary trackers (cellcog, Releasebot, both Nov 11) confirm nothing has been announced. To resolve Yes, OpenAI must officially launch a 6.2+ Sol to the public, paid tiers likely counting, by Nov 30. (a) About 19 days remain, and Thanksgiving week shortens the practical window. (b) Status quo is No, but the pre-launch signals are strong. A gpt-6.2-sol ID was reportedly seen in Google Cloud quotas, a live gpt-6.2-astra ID appeared in Codex telemetry, users report gray routing to 6.2 Sol from Nov 8, The Information reported a new Sol was imminent, and a Codex lead posted 'Thursday is feeling codexy' on Nov 11. (c) No scenario: a safety hold like the cancelled GPT-6.1 Astra delays a bundled Astra+Sol release past Thanksgiving, or OpenAI names the model differently (a 6.1 snapshot or rename), or the release stays a gray test. (d) Yes scenario: OpenAI launches GPT-6.2 Sol on Nov 12 or the following week in Codex, Work and the API for paid users, with a blog post. The anchor is 90.5% on Polymarket. Sibling markets sit at 72.5% for Nov 15 and 98% for Dec 31, which is consistent with roughly 88–90% for Nov 30. I shade slightly below the market for naming and announcement risk and the history of missed rumour dates.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6954",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic raise between $85B and $95B in its IPO?": [
+  {
+   "id": 6952,
+   "scanned_at": "2026-11-11T17:20:27.548424",
+   "date": "2026-11-11",
+   "agent": 7,
+   "market_price_t0": 10.1,
+   "edge": -0.031,
+   "confidence": 0.7,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.06). (0) Not resolved: the S-1/A No. 2 (Nov 10, SEC EDGAR) offers 825M Class A shares at $70–78, or $57.75B–$64.35B gross before the greenshoe; pricing is expected Nov 18. (a) The deadline is Dec 31, 2027, but the outcome will effectively be set within about a week. (b) Status quo is NO: in-range or modestly above-range pricing stays under $85B, since the FT's '$1.5T+' talk implies about $83 a share, or roughly $68.5B on 825M shares. (c) NO: pricing at $78–90 on roughly 825–900M shares gives $64–80B, and the $26B Class N placement and the greenshoe are excluded by the rules. (d) YES needs either a large combined upsize (about 990M shares at about $86, or about $103 at 825M, near the ~$1.8T secondary-market implied value) as the company seeks to 'raise as much as possible', or a resolver counting the 'up to $90.4B' combined headline, which the rules exclude. The market anchor is about 10% with a wide 5/15 spread; I land slightly below it, at roughly 5% for a genuine upsize plus about 3% for misread risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6952",
+   "has_trace": true
+  }
+ ],
+ "Will the 2026–27 El Niño be the strongest on record?": [
+  {
+   "id": 6949,
+   "scanned_at": "2026-11-11T16:27:49.678348",
+   "date": "2026-11-11",
+   "agent": 44,
+   "market_price_t0": 64,
+   "edge": -0.2,
+   "confidence": 0.435,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.43, 0.45) after one crux research pass. (0) Not resolved: the CPC RONI page shows ASO 2026 at 2.0 (about 1.97), below 2.40. SON, OND, NDJ and DJF are unpublished, and Yes needs one first-published above 2.40 (a tie resolves No). (a) About 4.5 months remain; SON posts around 5 Dec, OND around 5 Jan, NDJ around 5 Feb, DJF around 5 Mar. (b) Status quo: NOAA's Rosencrans gives monthly RONI of 2.1 for September and 2.16 for October, so holding there gives 3-month values of about 2.2–2.3, which is No. SON would need a November near 2.95, OND needs Nov+Dec to average about 2.52, and NDJ needs 2.4 or more sustained. (c) No: the event peaks now. CPC weekly relative Niño-3.4 slipped 2.5 to 2.3, BoM weekly 2.88 to 2.75, and subsurface anomalies are easing. Climate Impact Company expects a November peak, and a 1997-style gain from ASO gives about 2.18. (d) Yes: BoM says all models peak in Nov–Dec and CPC's October outlook (OND median 2.74, 83% for 2.5 or more) is borne out, with monthly RONI climbing to about 2.6 by December so OND or NDJ clears 2.40. CPC's outlook already overshot (its SON median of 2.47 implied an October far above the 2.16 observed), and the market's slide from 89% to 64% looks partly anchored on those stale odds. The rally needed is +0.3–0.4°C in monthly RONI against flattening weekly data, so I sit below the 0.64 market anchor. I give partial weight to the market and land near the other forecasters' 0.42 mean.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6949",
+   "has_trace": true
+  }
+ ],
+ "Will Alphabet be the third-largest company in the world by market cap on December 31?": [
+  {
+   "id": 6945,
+   "scanned_at": "2026-11-11T15:40:09.958274",
+   "date": "2026-11-11",
+   "agent": 21,
+   "market_price_t0": 23,
+   "edge": -0.020000000000000018,
+   "confidence": 0.61,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.21, 0.21). (0) Not resolved: CompaniesMarketCap (Nov 11) ranks Apple $5.13T, Nvidia $4.23T, Microsoft $3.87T, Alphabet 4th at $3.55T; other trackers agree. On Nov 11 prices (MSFT $521.7, GOOGL $291) the gap to Microsoft is roughly 9-12%. (a) About 7 weeks remain until the Dec 31 close. (b) Status quo is Alphabet #4, so No. (c) No: Microsoft holds its cash-flow premium in a risk-off, hot-CPI tape, and Alphabet stays pressured by negative FCF and the 2027 capex overhang with no catalyst before year-end. (d) Yes: Alphabet mean-reverts toward its pre-earnings $325 (+12%) after the record one-day drop, aided by TPU news and a cheap ~13x multiple, while Microsoft slides on Anthropic/Office disruption fears as in its 14% June drawdown; a weaker route is an Nvidia collapse after Nov 17 earnings or the CEO probe. GOOGL/MSFT relative volatility this year is very high (~28-35% annualized, ~10-13% over 7 weeks), putting the gap at about 0.75-1 sigma and implying roughly 16-23%, with a small add for the Nvidia route. The thin Polymarket mid of 23% is consistent; I sit slightly below it given the 'consensus reporting' ambiguity in a near-tie.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6945",
+   "has_trace": true
+  }
+ ],
+ "Will Google have the best Math AI model at the end of November 2026?": [
+  {
+   "id": 6943,
+   "scanned_at": "2026-11-11T14:54:26.020393",
+   "date": "2026-11-11",
+   "agent": 60,
+   "market_price_t0": 65,
+   "edge": -0.050000000000000044,
+   "confidence": 0.42,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.60, 0.60). (0) Not resolved. The resolving page (Math, style control off) could not be read because Cloudflare blocked it. On the style-controlled Math view as of Nov 9, Google's Gemini 4 Argon (High) is #1 at 1531±19, only 4 points ahead of Anthropic's Claude Fable 5.1 (Max). The last readable style-off snapshot (Aug 27) had Anthropic #1 and #2, but it predates Gemini 4. (a) About 19 days remain until the single snapshot check on Nov 30 at noon ET. (b) Status quo: Google probably leads, given the default view, third-party trackers naming Argon as Math leader, and Google leading the style-off overall board. Polymarket traders can see the live board, and the price jumped about 21 points in 7 days to 65%. That suggests the style-off view also currently favours Google, possibly helped by Carbon going GA on Nov 10. (c) NO: Claude Fable 5.2, released Nov 9 and already #1 on WebDev, gets rated on Text and debuts above Argon on Math. Alternatively, vote drift flips the 4-point statistical tie, or the style-off view keeps its historical Anthropic tilt. (d) YES: Argon holds its narrow lead, or Gemini 4 Carbon accumulates Math votes after GA and climbs to #1, while Fable 5.2 lands below or stays unrated. I anchor on the 65% mid but shade down slightly. The unrated Fable 5.2 entry, the thin margin, and the unverified style-off table are real risks. Sibling markets that favour Anthropic for December also hint at expected Anthropic entries.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6943",
+   "has_trace": true
+  }
+ ],
+ "Will the U.S. lift CAATSA sanctions on Turkey by December 31, 2026?": [
+  {
+   "id": 6939,
+   "scanned_at": "2026-11-11T13:19:41.783038",
+   "date": "2026-11-11",
+   "agent": 15,
+   "market_price_t0": 22.5,
+   "edge": -0.07500000000000001,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.15, 0.15). (0) The condition is not met. OFAC's SDN list published 2026-11-09 still names all four SSB officials under \"CAATSA - RUSSIA\". OFAC's Recent Actions page shows no Turkey or CAATSA entry, and no source reports a waiver, termination or congressional notification. (a) About seven weeks remain until 11:59 PM ET on December 31, 2026. (b) If nothing changes, this resolves No. The sanctions have stood for nearly six years, and Trump's pledges in Sept 2025 and July 2026, plus Fidan's \"before the midterms\" target, all passed without legal action. (c) NO: the S-400 disposition stays unresolved, since resale needs Russian approval and possibly a 90-day review. The administration also files no §216 notice, which would need to reach Congress by about Dec 1 to clear the 30-day clock, and Trump keeps praising Erdoğan without signing anything. (d) YES: Trump uses the lame-duck Republican Congress before Democrats are seated on Jan 3. He signs a §231 modified waiver, which CRS says is not subject to congressional review, or a narrow partial waiver such as F-16 parts licensing for SSB, which would qualify under the 'in part' language. The trigger could be December C-130J or F-35 diplomacy. The market sits at 22.5% (bid 20, ask 25) and has fallen 10.5 points in a week as the window narrows. Absent any signal of a drafted certification or notice, and given repeated unfulfilled pledges and bipartisan resistance including from Risch, I shade below the market to about 15%. The real but unscheduled lame-duck executive path keeps it well above zero.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6939",
+   "has_trace": true
+  }
+ ],
+ "Will Putin and Zelenskyy not meet by December 31, 2027?": [
+  {
+   "id": 6936,
+   "scanned_at": "2026-11-11T12:31:30.266576",
+   "date": "2026-11-11",
+   "agent": 77.5,
+   "market_price_t0": 75,
+   "edge": 0.025000000000000022,
+   "confidence": 0.575,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.77, 0.78). (0) No source shows a qualifying meeting; credible reporting through Nov 11, 2026 confirms none since Paris 2019 and none scheduled. (a) About 13.5 months remain to Dec 31, 2027. (b) The status quo is Yes: the Kremlin offers only Moscow and only to sign a finished deal, while Zelenskyy refuses Moscow. Abu Dhabi produced only a prisoner swap and envoy shuttle diplomacy, with no Donbas convergence. (c) Talks stall on Donbas and Putin keeps questioning Zelenskyy's legitimacy. Any ceasefire is formalized via envoys or signed separately, and G20 co-presence without interaction does not count. (d) A Trump-brokered framework closes the territorial gap by mid-2027, followed by a trilateral signing summit in a third country; ceasefire markets at ~56% by June 2027 make this non-trivial. Anchoring on Polymarket's 75% Yes (down 9 points in 30 days), the strong base rate of zero meetings in 57 months of war and repeated failed predictions justifies a slight lean above market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6936",
+   "has_trace": true
+  }
+ ],
+ "Russia x Ukraine energy ceasefire agreement by November 30, 2026?": [
+  {
+   "id": 6933,
+   "scanned_at": "2026-11-11T11:47:06.901207",
+   "date": "2026-11-11",
+   "agent": 11,
+   "market_price_t0": 16.5,
+   "edge": -0.05500000000000001,
+   "confidence": 0.565,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.11). (0) Resolution check: the condition is not met. No source shows Russia and Ukraine jointly announcing, or credible reporting confirming, a mutual energy-strike suspension. Trump's Oct 11 'ENERGY CEASEFIRE' claim is a third-party claim, which the rules exclude. The Kremlin never confirmed it, and Zelensky said on Oct 28 that 'the energy ceasefire doesn't work.' The Oleshky truce was a single-town humanitarian pause and ended around Nov 1.\n\n(a) About 19 days remain until 23:59 Kyiv time on Nov 30.\n\n(b) Status quo is No. Both sides are escalating energy strikes: Russia hit substations in 6–10 regions during the talks, and Ukraine has cut roughly 30% of Russian refining capacity.\n\n(c) NO scenario: Abu Dhabi ends with only a prisoner swap, as the Nov 11 Medinsky briefing indicates. Lavrov keeps his 'security architecture before any ceasefire' sequencing, and the floated leaders' meeting slips to around the December G20.\n\n(d) YES scenario: Witkoff and Kushner carry the grid-for-refineries swap to Moscow. The INSS outline and Zelensky's 'concrete steps' list put this on the agenda. Putin accepts it as a concession to Trump in exchange for sanctions or diesel relief, and both capitals confirm before Nov 30, much like the March 2025 precedent.\n\nThe market sits at 16.5%. The Nov 15 contract trades at 6.5% and the Dec 31 contract at 31.5%. The post-talks readout shows no energy item and Russia rejected a truce, so I shade the price down. I keep meaningful mass on a sudden Trump–Putin call that Moscow confirms, given Russia's refinery and deficit pain and the strong US push.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6933",
+   "has_trace": true
+  }
+ ],
+ "Will Apple be the largest company in the world by market cap on November 30, 2026?": [
+  {
+   "id": 6930,
+   "scanned_at": "2026-11-11T10:58:47.565099",
+   "date": "2026-11-11",
+   "agent": 89,
+   "market_price_t0": 89.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.72,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.89, 0.89). (0) The question is not resolved yet. It settles on the ranking at the Nov 30 close. CompaniesMarketCap (fetched Nov 11) shows Apple #1 at $5.064T, Nvidia #2 at $4.078T and Microsoft #3 at $3.959T. Yahoo and FinanceCharts confirm Apple's roughly $1T lead at the Nov 10 close.\n\n(a) About 13 trading days remain. Nvidia's Nov 17 earnings is the only major scheduled catalyst.\n\n(b) Status quo: Apple stays #1 and Yes resolves.\n\n(c) NO scenario: Nvidia beats and raises on Nov 17 and the Huang affair/spy scandal fades. Nvidia then rebounds about 20–25% toward its pre-selloff ~$207, while a stretched Apple (margin guide cut, above analyst targets) slips on rotation back to AI. That would flip the order by Nov 30, as happened from much smaller gaps in early November.\n\n(d) YES scenario: the CEO-scandal and congressional-oversight overhangs persist through Nov 18 and beyond. An in-line print gives only a partial bounce, so Apple's lead of about $1T (about 24%) holds.\n\nThe odds of a flip are modest. Nvidia's relative volatility versus Apple over 13 sessions plus an earnings move of roughly ±7–9% gives a standard deviation of about 13–15% for the log ratio. A 24% gap therefore implies roughly a 7–10% chance of a flip, with fat tails from the scandal working in both directions. That agrees with the Polymarket anchor of 89.5%, so I stay essentially at the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6930",
    "has_trace": true
   }
  ]

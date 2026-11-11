@@ -1497,6 +1497,20 @@
  ],
  "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?": [
   {
+   "id": 6922,
+   "scanned_at": "2026-11-11T08:40:01.420235",
+   "date": "2026-11-11",
+   "agent": 84,
+   "market_price_t0": 85.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.69,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.84, 0.84). (0) Not resolved. FRED DFEDTARU and the Oct 28 statement put the upper bound at 4.00% after the September 25 bp hike and the October hold, which had two dissents in favour of a hike. Only the Dec 9 statement can resolve this market. (a) About four weeks remain. The key inputs before the decision are October PPI (11/13), the October minutes (11/18), November payrolls (~12/4) and a round of Fed speakers; November CPI comes out after the decision. (b) The status quo path is a 25 bp hike. CME FedWatch shows about 88–91% for 25 bp, about 9–11% for 50 bp and roughly 0% for a hold. Kalshi independently shows 86% for 25 bp, 12% for more than 25 bp and 5% for a hold. A Reuters poll had all 101 economists expecting a hike to 4.00–4.25%, and Goldman, JPMorgan and TD all call for 25 bp. (c) NO mainly runs through a 50 bp hike. Waller said 50 should be considered once core CPI hit his 0.3% trigger, Yardeni forecasts 50, and Logan wants a faster pace; a strong November jobs report or hot PPI would feed this. A smaller NO route is a hold if oil keeps falling, financial conditions tighten sharply, or Warsh surprises again. (d) YES is the committee hiking 25 bp with guidance toward January/March hikes. That fits Warsh's gradualism, Waller's own base case of 25, Paulson's call for 'gradual' hikes, and falling oil. I anchor on Polymarket's 85.5%, which agrees with CME and Kalshi. I shade slightly lower because a month of data could still widen the 50 bp tail, and the market has jumped 21 points in a week on one CPI print.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6922",
+   "has_trace": true
+  },
+  {
    "id": 6344,
    "scanned_at": "2026-11-04T05:00:00.831556",
    "date": "2026-11-04",
@@ -7210,6 +7224,20 @@
   }
  ],
  "Dutch House of Representatives dissolved in 2026?": [
+  {
+   "id": 6891,
+   "scanned_at": "2026-11-11T00:54:15.538351",
+   "date": "2026-11-11",
+   "agent": 7.5,
+   "market_price_t0": 22.7,
+   "edge": -0.152,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.07) after one crux research pass. (0) Not met: tweedekamer.nl shows normal sittings on 10–11 Nov 2026, Jetten is still PM, and no resignation, dissolution request or decree has been reported. (a) About 7 weeks remain until 31 Dec 2026. (b) The status quo is NO. (c) NO: the tax plan passes the Tweede Kamer on 12 Nov (NOS sees a majority with CU/50Plus/Markuszower) and the Senate around 15 Dec via BBB or PRO+Volt, given strong incentives to avoid a €2.5bn hole. Even a failure meets the 10 Nov motion favouring formation first, Kiesraad's usual fall-to-decree lag, little opposition appetite for elections, and the Art. 64(3) effective-date reading. (d) YES: the House vote fails or the coalition splits, the cabinet resigns in November, the government quickly requests dissolution, a decree is signed in December, and Polymarket counts the decree date. The chain is roughly 20–25% fall × 30–40% decree before 31 Dec × ~80% decree counts, about 6–8%. The 22.7% mid comes from a thin market with an 11/35 spread and a last trade of 9%, so I fade it toward the last trade.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6891",
+   "has_trace": true
+  },
   {
    "id": 5938,
    "scanned_at": "2026-10-30T02:27:09.925318",
@@ -20839,6 +20867,20 @@
  ],
  "Will Euphoria be the #1 searched TV show on Google this year?": [
   {
+   "id": 6909,
+   "scanned_at": "2026-11-11T04:49:25.880104",
+   "date": "2026-11-11",
+   "agent": 36.5,
+   "market_price_t0": 35.6,
+   "edge": 0.009000000000000008,
+   "confidence": 0.41000000000000003,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.35, 0.38). (0) Not resolved: the 2026 Year in Search page returns 404 as of Nov 11, 2026; past lists came out in early December, well before the Mar 31, 2027 cutoff. (a) The list is about 3-4 weeks away, and the data window probably closes in late November. (b) The list ranks year-over-year search spikes, not raw volume; Euphoria S3 (Apr 12-May 31) and its series finale fall fully inside the window, which is why Polymarket (35.6%) and Myriad (36%) make it a slight favourite over Stranger Things (~31%). (c) NO: Stranger Things' Dec 31 finale aftermath (Trends index 54 the week of Jan 4, 2026, decaying slowly) plus its much larger global audience wins, or Monster: Lizzie Borden repeats Ed Gein's 2025 late-release upset. In 2025 a 73% favourite lost. (d) YES: Euphoria's first season in four years, with 25M global viewers per episode (up 17%), finale buzz and Emmy attention, gives the biggest 2026 spike, as in 2022. With no head-to-head Trends data and nothing unpriced, I stay near the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6909",
+   "has_trace": true
+  },
+  {
    "id": 3098,
    "scanned_at": "2026-09-17T23:17:47.350762",
    "date": "2026-09-17",
@@ -21150,7 +21192,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-10T21:17:21.464Z",
+  "last_sync": "2026-11-11T10:55:59.788Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -21570,6 +21612,20 @@
   }
  ],
  "Will Clavicular wear a Yarmulke in 2026?": [
+  {
+   "id": 6914,
+   "scanned_at": "2026-11-11T06:20:39.179326",
+   "date": "2026-11-11",
+   "agent": 25.5,
+   "market_price_t0": 40.5,
+   "edge": -0.15000000000000002,
+   "confidence": 0.5,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.25, 0.26) after one crux research pass. (0) The condition has not been met. Neither the resolution-source read (last updated Nov 9) nor four research passes found any credible photo or video of Peters in a kippah. The only kippah references are fan memes, a deepfake, and companions such as his manager Nate Kest and a friend at the Orleans court. Farro's July 9 'Tefillin & Clavicular' post also predates the market's July 10 creation, so it would not count even if it showed one. (a) About seven weeks remain, to Dec 31, 2026. (b) Status quo is No: four months of an unresolved market after his one obvious opportunity, the Tel Aviv-only Israel trip, produced no reported kippah. (c) No path: he stays tied up in his Massachusetts rape case, and his passport is surrendered per the Boston Globe and ABC on Oct 22. His content stays on looksmaxxing, the college tour and crypto, and no Jewish-site visit happens. (d) Yes path: a Farro or Chabad stunt during Hanukkah (starting early December) in New York or Miami, or a borrowed kippah on stream with kippah-wearing associates, picked up by credible media. A less likely route is newly surfaced post-July-10 livestream footage. The market sits at 40.5%, which seems rich given the absence of evidence and the travel ban. I can't rule out that traders are pricing some unreported teaser or a Hanukkah plan, so I shade toward the market rather than fully to my ~0.18 independent estimate.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6914",
+   "has_trace": true
+  },
   {
    "id": 6330,
    "scanned_at": "2026-11-04T01:04:51.118661",
@@ -24282,6 +24338,20 @@
   }
  ],
  "Will any state enact a data center moratorium by December 31?": [
+  {
+   "id": 6911,
+   "scanned_at": "2026-11-11T05:33:33.792361",
+   "date": "2026-11-11",
+   "agent": 30.5,
+   "market_price_t0": 30,
+   "edge": 0.0050000000000000044,
+   "confidence": 0.5,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.30, 0.31). (0) The condition is not met yet. Official NY Senate records (page dated Nov 9) still show June 4 passage as the last action on S10642/A11560. Maine's LD 307 was vetoed and the veto sustained. Hochul's EO 62 is an executive order, not legislation, and it predates the window. Trackers in October and November confirm no state has enacted a statutory moratorium.\n\n(a) About seven weeks remain until Dec 31. Nearly every other legislature is out of session. Incoming governors such as Hinojosa in Texas take office in January, so the only live path is Hochul calling up and signing the New York bill in December.\n\n(b) If nothing changes, the bill stays undelivered or is vetoed or deferred, and the market resolves No.\n\n(c) NO: Hochul treats EO 62 as the moratorium she already delivered and ran on. She vetoes the bill over its 90% renewable and labor terms, or lets it slide into the January carryover and a pocket veto.\n\n(d) YES: She follows her RAISE Act playbook. She signs in mid-to-late December with agreed chapter amendments, perhaps aligning the 20 MW threshold toward her 50 MW. Heastie said the EO did not signal a veto, she cooperates with sponsor Gonzalez, and a poll shows 63% support.\n\nWith no new information on delivery or a negotiated deal, I stay near the 30% market mid. Hochul's frequent sign-with-amendments behavior offsets her lukewarm statements, and there is a small risk the resolver loosely counts executive action.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6911",
+   "has_trace": true
+  },
   {
    "id": 4126,
    "scanned_at": "2026-10-07T15:12:44.462264",
@@ -27041,6 +27111,20 @@
  ],
  "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?": [
   {
+   "id": 6924,
+   "scanned_at": "2026-11-11T09:25:40.964489",
+   "date": "2026-11-11",
+   "agent": 45.5,
+   "market_price_t0": 50.5,
+   "edge": -0.04999999999999999,
+   "confidence": 0.45999999999999996,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.45, 0.46). (0) Not resolved: FRED and the Fed's open-market page show the upper bound at 4.00% after the September 25bp hike and the October 28 hold; the January 26-27, 2027 meeting is still ahead. YES needs that statement to raise the upper bound by exactly 25bp from its post-December level. (a) About 11 weeks remain, covering the December 8-9 FOMC with projections and the November and December jobs and CPI data. (b) Status quo is a January hold: the Fed skipped October after September, Waller says hikes need not be consecutive, Goldman and BofA centre on December then March, and the September dots were flat for 2027. (c) NO: a 25bp or 50bp December hike (50bp roughly 10-14% priced) and easing energy lead to a January pause; small tails are January being the strategy-only meeting (resolves No change) or a January 50bp move. (d) YES: core CPI stays near 0.3%, the December dots signal a third hike, and hawks (Hammack and Cook dissented for a hike; Logan wants more, 'possibly rapidly') pull March forward to January, as Goldman flags and Deutsche Bank forecasts. Anchor: market 50.5%, up 33 points in a week on one CPI print plus Waller; Kalshi and sibling contracts are around 46-50%. I shade slightly below the market for the skip pattern, the sell-side March tilt and the NO-resolving tails.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6924",
+   "has_trace": true
+  },
+  {
    "id": 6355,
    "scanned_at": "2026-11-04T08:59:37.210496",
    "date": "2026-11-04",
@@ -28145,6 +28229,20 @@
  ],
  "Will Anthropic have the best AI model at the end of November 2026?": [
   {
+   "id": 6881,
+   "scanned_at": "2026-11-10T21:47:33.403618",
+   "date": "2026-11-10",
+   "agent": 22,
+   "market_price_t0": 21,
+   "edge": 0.010000000000000009,
+   "confidence": 0.55,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.22, 0.22). (0) Not resolved. Arena's official HF dataset (no style control, published Nov 9) has Google's Gemini 4 Carbon (High) at #1 with 1538 and Argon at #2 with 1530. Anthropic's best is Claude Opus 5.5 at #3 with 1513, about 25 points back. (a) About 20 days remain until the Nov 30, 12:00 PM ET check. (b) If nothing changes, Google wins and this resolves No. (c) No scenario: Fable 5.2 stays AutoEval or unlisted in Text, or it is listed below Carbon. Coding gains often fail to carry over into raw, no-style-control prose votes, and reviewers rate Fable 5.2's writing as sub-frontier. Google could also ship the teased Gemini update. (d) Yes scenario: Arena adds Fable 5.2 or Mythos 5.2 to Text within days, as it did on Fable 5's launch day. Its large generational gain, already shown in WebDev (+87, beating Carbon by 64), pushes it more than 25 points above Opus 5.5. Carbon's thin vote count (about 4.3k) could also drift down. The Polymarket anchor is 21% (Manifold has 30%, a different crowd), and that price already reflects the Nov 9 Fable 5.2 launch. I see no unpriced information that justifies a large move, so I stay near the market with a slight lean up for Fable 5.2's strong independent benchmark showing.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6881",
+   "has_trace": true
+  },
+  {
    "id": 4827,
    "scanned_at": "2026-10-16T00:54:23.452090",
    "date": "2026-10-16",
@@ -29163,6 +29261,20 @@
  ],
  "Will the peak RONI for the 2026–27 El Niño be at least 2.25 but below 2.5?": [
   {
+   "id": 6905,
+   "scanned_at": "2026-11-11T04:01:50.105643",
+   "date": "2026-11-11",
+   "agent": 41.5,
+   "market_price_t0": 34,
+   "edge": 0.07499999999999996,
+   "confidence": 0.44499999999999995,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.41, 0.42). (0) Not resolved. The CPC RONI table shows only ASO 2026 among qualifying seasons, at +2.0 (+1.97). SON, OND, NDJ and DJF are due ~Dec 5, Jan 5, Feb 5 and Mar 5, and the first-published value governs. (a) About 4.5 months remain to the Apr 1, 2027 close, with four prints to come. (b) Status quo: CPC's Rosencrans gave monthly RONI of 2.1 (Sep) and 2.16 (Oct). SON needs November at about 2.49+ to reach 2.25, while CPC weekly relative Niño-3.4 has softened from +2.5 to +2.3, so SON is likely ~2.2-2.3. OND reaching 2.5 needs Nov-Dec to average ~2.67, which requires a December surge. A plateau near 2.3-2.5 into a December peak yields OND/NDJ of ~2.3-2.45, inside the band. One-decimal printing means YES effectively needs a 2.3 or 2.4 print. (c) NO: the model-predicted December peak arrives (CPC Oct outlook 83% ≥2.5 for OND, median 2.74; BoM and WMO back a record December peak) and NDJ or OND prints ≥2.5. Alternatively, a 1997-like +0.2 rise or a Climate Impact-style stall keeps every season at 2.2 or lower. (d) YES: a plateau near 2.3-2.5 monthly through Dec-Jan gives a peak print of 2.3-2.4, matching historical peaks of 2.25/2.28/2.40. Market anchor is 34% (64.5% on ≥2.5). I shift moderately toward YES because the October monthly value and November weekly softening make the official outlook look too high. The Nov 12 CPC update is a key risk either way.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6905",
+   "has_trace": true
+  },
+  {
    "id": 6104,
    "scanned_at": "2026-11-01T03:31:25.012362",
    "date": "2026-11-01",
@@ -29268,6 +29380,20 @@
   }
  ],
  "Will the 10-year Treasury yield hit 5.5% before 2027?": [
+  {
+   "id": 6888,
+   "scanned_at": "2026-11-11T00:05:37.484398",
+   "date": "2026-11-11",
+   "agent": 8,
+   "market_price_t0": 7.1,
+   "edge": 0.008500000000000008,
+   "confidence": 0.7,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.08). (0) Treasury's par curve CSV shows no daily 10 Yr value at or above 5.5% from Nov 12, 2025 to Nov 10, 2026; the period high is 5.31% (Oct 5) and the Nov 10 reading is 4.98%, so the condition is not met and intraday highs of 5.34-5.36% do not count. (a) About 34 trading days remain until Dec 31, 2026. (b) The status quo is No: a close about 52bp above today and about 19bp above the 2026 peak close is required. (c) No path: the December hike is largely priced, oil is easing, Goldman sees 4.75-5.0%, survey medians are 5.0-5.1%, and post-October rallies keep making lower highs, so yields range-trade into year-end. (d) Yes path: hot November CPI or jobs data, a 50bp hike or hawkish dots on Dec 8-9, weak auctions and an oil rebound combine into a real-yield surge of about 50bp, comparable to this cycle's late-July-to-October move. With the MOVE index near 93 (about 6bp daily), a driftless model gives roughly a 10-13% touch probability on daily closes, trimmed toward 8% by slightly downward-leaning forecasts and the absence of any 5.5% year-end call. Anchoring on the Polymarket mid of 7.15%, I see only a slight upward nudge for post-CPI hawkish momentum.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6888",
+   "has_trace": true
+  },
   {
    "id": 6092,
    "scanned_at": "2026-11-01T00:34:09.680029",
@@ -33029,6 +33155,20 @@
  ],
  "Saudi-Houthi ceasefire agreement announced by December 31?": [
   {
+   "id": 6920,
+   "scanned_at": "2026-11-11T07:53:44.491155",
+   "date": "2026-11-11",
+   "agent": 21,
+   "market_price_t0": 26,
+   "edge": -0.05000000000000002,
+   "confidence": 0.51,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.21, 0.21). (0) The condition has not been met. Credible reporting from Nov 8–11 (CFR tracker, Al Jazeera, The National) shows intensifying fighting and no Saudi or Houthi statement accepting any ceasefire. The circulating 'Sana'a-Riyadh Agreement' was judged fabricated, and the 'Geneva signing' page is fake. (a) About 50 days remain until 11:59 PM ET on Dec 31, 2026, including the holiday period, and no talks, signing or UNSC session is known to be scheduled. (b) If nothing changes, the war continues and the market resolves No. The Houthis are striking Riyadh, Abqaiq and the airport, Saudi strikes on Sanaa killed 44 or more, Riyadh is building a coalition (Syria, the Mecca pact) and publicly rejects a new ceasefire, and the Houthis reportedly demand $51bn plus recognition. (c) NO: back-channel talks through Iran, Qatar, Pakistan and Oman drag on without result, or produce only an informal de-escalation, a unilateral pause, or a partial deal (airports, energy sites). None of these qualify under the strict 'both announce, general, dated' wording. (d) YES: mounting Saudi costs (airport closures, Brent near $114, Vision 2030 disruption) plus a US–Iran or Pakistan/Qatar regional settlement lead Iran to press the Houthis into a UN- or Oman-announced dated truce that SPA and Saba both confirm. The fast March–April 2022 truce after the Jeddah attack is the template. The market sits at 26%, and the related 'effective ceasefire by Dec 31' market is at 30.5%. I shade slightly below the market because escalation has continued since the market opened, the base rate of formal announced Saudi-Houthi ceasefires is low, and the criteria exclude the informal-understanding pattern that followed 2022. Active multi-track mediation and Saudi economic pain keep a meaningful tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6920",
+   "has_trace": true
+  },
+  {
    "id": 6350,
    "scanned_at": "2026-11-04T07:48:55.325188",
    "date": "2026-11-04",
@@ -35382,6 +35522,118 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.55, 0.55). (0) No confirmed resolution yet, but Didamar Island (Omani territory) was reportedly struck around Nov 7–10, with an IRGC official confirming navigation aids destroyed (Gulf News, Business Upturn) and Sentinel-2 burn marks. That is inside the Sep 30 window, so it counts if it qualifies. The weapon is unknown (drone or missile qualifies; naval fire or sabotage does not), Oman has made no statement, and the claim is anonymous. (a) About 20 days remain, plus the 3-day dispute rule. (b) Status quo: if Didamar stays ambiguous, likely No, since confirmed Iranian land strikes on Oman have been rare since July 12 and Iran typically denies them. (c) No: Oman stays silent to protect the Hormuz mechanism, the munition is never established or is naval, and talks avert new US strikes. (d) Yes: reporting confirms IRGC drones or missiles hit Didamar, Iran repeats strikes on Omani-side navigation infrastructure, or a US strike wave triggers Gulf-wide retaliation. The market, up from 5% to 56% on this news, already prices about even odds that Didamar counts; drones are the likeliest IRGC tool against such a target, offset by Oman's silence, so I stay near the anchor.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/6861",
+   "has_trace": true
+  }
+ ],
+ "Russia x Ukraine energy ceasefire agreement by December 31, 2026?": [
+  {
+   "id": 6928,
+   "scanned_at": "2026-11-11T10:14:49.507770",
+   "date": "2026-11-11",
+   "agent": 30,
+   "market_price_t0": 34.5,
+   "edge": -0.044999999999999984,
+   "confidence": 0.45999999999999996,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.29, 0.31). (0) No qualifying agreement exists as of Nov 10–11. Trump's Oct 11 claim was never confirmed by Moscow, and Peskov said Putin is 'not considering' an energy ceasefire. YES requires both governments to announce, or credible reporting to confirm, a mutual suspension covering at least one energy category, or a general strike pause, by Dec 31. (a) About 50 days remain. (b) The status quo is escalating mutual energy strikes: 128 Russian strikes on Ukraine's energy sector in a week, substations hit during the talks, and the Kirishi refinery struck. If nothing changes, this resolves NO. (c) NO: Abu Dhabi produces only a POW swap and 'de-escalation' language, Putin keeps his winter grid campaign as leverage, and any US-announced truce again lacks Kremlin confirmation. (d) YES: post-Abu Dhabi Witkoff/Kushner shuttle diplomacy yields a narrow reciprocal pause (refineries vs grid), perhaps with sanctions or export relief, confirmed by Peskov as in the late-January 2026 pause, with Kyiv confirming reciprocity it has already offered. Two Kremlin-confirmed, Trump-requested pauses in about 14 months, live talks with energy on the agenda, and Russian refinery losses support a non-trivial YES. Russia's explicit refusal, the FT-reported winter strike strategy, and the Kremlin's non-confirmation habit argue against. I shade slightly below the 34.5% market anchor, while staying above the 13.5% general-ceasefire market because an energy-only deal is easier.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6928",
+   "has_trace": true
+  }
+ ],
+ "Will Trump speak to Volodymyr Zelenskyy by November 30?": [
+  {
+   "id": 6917,
+   "scanned_at": "2026-11-11T07:07:36.584439",
+   "date": "2026-11-11",
+   "agent": 58.5,
+   "market_price_t0": 69,
+   "edge": -0.10499999999999998,
+   "confidence": 0.46499999999999997,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.60, 0.57) after one crux research pass. (0) Not resolved yet. The resolution-source read and all three research passes find no reported Trump–Zelensky call or meeting since the market opened on Oct 31. Trump's Oct 31 'had spoken with Zelenskyy' remark could not be located or dated. The last confirmed leader contact was the Sept 20 call and the UNGA meeting around Sept 22.\n(a) About 19 days remain, to Nov 30 at 11:59 PM ET.\n(b) The status quo is No. Since the Oct 10 diesel-deal rupture, every Zelensky contact with the US has gone through Witkoff and Kushner: Oct 18, Oct 21 in Oslo, and Nov 4. Zelensky remains publicly prickly ('my job is not to make Trump happy').\n(c) NO scenario: the Abu Dhabi round ends without a breakthrough. The envoys shuttle to Moscow and Kyiv themselves, and the G20 invitation goes out by letter or envoy. Leader contact then slips to early December or to the Dec 14–15 G20.\n(d) YES scenario: day 2 in Abu Dhabi or the envoys' Kyiv trip produces something concrete, such as a prisoner swap or partial truce. That would prompt a debrief or deal-closing call, or a G20-invitation call. Trump keeps saying a deal is 'very close', and Zelensky is actively seeking access. Their 2026 pattern of contact every 3–8 weeks also says a contact is overdue.\nThe market's 69% looks a bit rich given the month-long envoy-only channel and nothing scheduled. Even so, an active US-brokered process and a 19-day window make a call more likely than not. I shade the anchor down to about 60%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6917",
+   "has_trace": true
+  }
+ ],
+ "Will Trump meet with Vladimir Putin by November 30, 2026?": [
+  {
+   "id": 6901,
+   "scanned_at": "2026-11-11T03:15:21.402861",
+   "date": "2026-11-11",
+   "agent": 87,
+   "market_price_t0": 91,
+   "edge": -0.040000000000000036,
+   "confidence": 0.6599999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.87, 0.87). (0) Not yet resolved: credible reporting through Nov 9–11 shows no in-person Trump–Putin meeting since Alaska in August 2025, and Trump's Nov 5–6 meeting with envoy Dmitriev does not count. (a) About 19 days remain, and the only realistic venue is the Shenzhen APEC summit on Nov 18–19. (b) The status quo is favourable: Lavrov confirmed Putin's attendance, Trump said on record on Nov 8–9 he is going to China and expects to meet Putin and Xi, a Manila stop is confirmed by the Philippine palace, Beijing and the Kremlin confirm three-way contacts, and the bar is only in-person interaction, as at Danang 2017 when a cancelled sit-down still produced a handshake and group photo. (c) NO: the Iran war or another crisis forces Trump to cut the China leg, Putin pulls out, or the WSJ-reported format and nuclear-agenda dispute collapses the trilateral and the White House avoids any encounter Budapest-style, with no fallback event before Nov 30. (d) YES: Trump flies Manila to Shenzhen and Beijing stages a trilateral or bilaterals, or at minimum a leaders' photo or dinner handshake that outlets report. Decomposing gives roughly 0.92 x 0.95 x 0.96, about 0.84–0.87, slightly under the 91% market anchor and the 92% related-market price, because official itineraries are still unconfirmed, the WSJ says the meeting is at risk, and a fleeting encounter carries small resolver-interpretation risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6901",
+   "has_trace": true
+  }
+ ],
+ "Syrian troops enter Yemen by December 31, 2026?": [
+  {
+   "id": 6897,
+   "scanned_at": "2026-11-11T02:24:39.694606",
+   "date": "2026-11-11",
+   "agent": 14.5,
+   "market_price_t0": 20,
+   "edge": -0.05499999999999999,
+   "confidence": 0.525,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.15, 0.14). (0) Not resolved. On Nov 9 Syria's Foreign Minister said via SANA that Syria has no troops in Yemen. AP's three sources (Nov 9) and Reuters (Nov 6) place Syrian advisers and trainers only on Saudi soil. The lone contrary claim is AFP's Nov 7 report, sourced to Yemeni officials, of hundreds of Syrians on both sides of the border running drone operations. Syrian and senior Yemeni defence sources (Alhurra) dismissed it, so it falls short of a consensus of credible reporting.\n(a) About 50 days remain, to Dec 31, with a possible 3-day extension.\n(b) If nothing changes, Syrian personnel stay in Saudi Arabia in a training and border role, and the market resolves No.\n(c) No path: the roughly 600 special forces deploy on the Saudi side of the border, and Damascus keeps any role advisory to limit retaliation from Iran and Iraqi militias and political risk at home. US–Iran de-escalation talks also lower Saudi urgency, and any cross-border activity stays covert or disputed.\n(d) Yes path: Houthi attacks on Riyadh keep escalating and the Saudi-backed offensive needs ground help. Syrian regular special forces or drone teams then cross into Yemen and are confirmed by Damascus, which has pledged to announce any deployment publicly, or by converging Reuters/AP reporting. Casualties or captured soldiers could also reveal them.\nThe market anchor is a 20% mid, with a recent close of 29.5% and a range of 4.5–30.5%. I shade below it for three reasons: the official denials are firm, the next scheduled step is Saudi visits to Syria in December, and the criteria require established regular-army entry rather than claims. I keep meaningful weight on Yes because the build-up is real, escalation drivers are strong, and AFP-style reporting may firm up.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6897",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic be the second-best AI lab at the end of December 2026?": [
+  {
+   "id": 6895,
+   "scanned_at": "2026-11-11T01:38:40.937563",
+   "date": "2026-11-11",
+   "agent": 62,
+   "market_price_t0": 59.5,
+   "edge": 0.025000000000000022,
+   "confidence": 0.475,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.64, 0.60). (0) Not resolved. The check is the Dec 31, 2026 snapshot. The key conflict is which view shows what. Arena's own Hugging Face 'text' dataset (no style control, published Nov 9) has Claude Opus 5.5 at 1513.00 against Meta's Muse Wonder at 1503.05, which makes Anthropic lab #2 behind Google (1538). BenchLM's table agrees (1513 vs 1504). The research snippets that put Meta #2 (1512 vs 1506) appear to be the style-control-on default page, which is not the resolving view. (a) About 7 weeks remain, so new releases can reshuffle the order. (b) Status quo on the resolving no-style-control view most likely resolves YES. The lead is only about 10 points, close to the confidence intervals, and I could not verify the exact page or its Lab Rank column. (c) NO scenario: Meta's Muse Wonder Full gets a Text score and passes Anthropic, or vote drift flips the narrow gap. Alternatively, Fable 5.2 scores above Gemini 4 Carbon (about 1538), which would make Anthropic #1, not #2. (d) YES scenario: the current no-style-control order holds, or Fable 5.2 gets a non-AutoEval Text score between about 1515 and 1535, padding the lead without taking #1. The market sits at 59.5% and is rising. I lean slightly above it because the dataset read on the resolving view's settings shows Anthropic already #2. I discount for the possibility that the dataset differs from the rendered page and for the double-sided Fable 5.2 risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6895",
+   "has_trace": true
+  }
+ ],
+ "Next Claude Opus (5.6+) released by November 30, 2026?": [
+  {
+   "id": 6886,
+   "scanned_at": "2026-11-10T23:20:56.558904",
+   "date": "2026-11-10",
+   "agent": 33.5,
+   "market_price_t0": 41,
+   "edge": -0.07499999999999996,
+   "confidence": 0.45999999999999996,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.34, 0.33). (0) The condition is not met yet. Anthropic's newsroom and models overview, both fetched Nov 10, list Claude Opus 5.5 (Sep 22) as the newest Opus. The Nov 9 Fable 5.2 and Mythos 5.2 releases fail the \"Opus\" name test.\n(a) About 20 days remain until Nov 30. Thanksgiving week (Nov 23–27) and the IPO listing window, reportedly the week of Nov 16, sit inside that period.\n(b) If nothing changes, Opus 5.5 remains the top Opus and the market resolves No.\n(c) No path: Anthropic's own Nov 9 launch post calls Opus 5.5 its \"strongest daily driver\" and does not mention a coming Opus. The company focuses on the IPO and product launches, so an Opus 5.6 or 6 slips into December, consistent with the 70–73 day gaps seen before.\n(d) Yes path: the old cadence repeats. Opus gaps have run 42–73 days with a mean of about 60, and Nov 30 is day 69. In past cycles an Opus followed a Fable release within about 3 weeks (Fable 5.1 on Sep 1, then Opus 5.5 on Sep 22). The X leak claiming Opus 5.6 at ~90% SWE turns out right, and Anthropic launches the model, API ID and system card on the same day in late November.\nThe market sits at 41% mid and has fallen about 22 points this week after the Fable 5.2 launch. The related Dec 31 market (thin, 90%) shows the crowd expects a release soon but not necessarily by November. I shade a bit below the market because there is no leaked model ID or system card, Anthropic has just re-endorsed Opus 5.5, and the pre-IPO model announcement has already been spent on Fable and Mythos. The cadence argument and the leak hit rate keep the probability well above a token level.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6886",
+   "has_trace": true
+  }
+ ],
+ "Will the next Fable model (5.2+) debut in the top 10 of the Text Arena leaderboard by June 30, 2027?": [
+  {
+   "id": 6883,
+   "scanned_at": "2026-11-10T22:33:08.595374",
+   "date": "2026-11-10",
+   "agent": 79.5,
+   "market_price_t0": 73.4,
+   "edge": 0.0615,
+   "confidence": 0.565,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.80, 0.79). (0) Not yet met: Fable 5.2 launched Nov 9 and is #1 only on Code Arena WebDev; the changelog and the Nov 9 Hugging Face dataset show no Text Arena row, so the first-appearance clock has not started. (a) About 7.5 months remain, to June 30, 2027. (b) Status quo: Fable 5.1 reached Text one day after launch and sits about #3-4 at roughly 1513, with the #10 cutoff near 1500, so an upgraded 5.2 should very likely debut top 10. (c) No: Text stays in AutoEval or preliminary limbo, only Mythos 5.2 is listed, a weak first variant lands below #10, or the entry is pulled before the next-day check. (d) Yes: a Max or xHigh entry lands on Text around Nov 10-12 at about 1505+ and shows a rank around #1-6. The 73% mid fell 18 points this week, and sibling markets imply roughly 20-25% on a failure mode my research could not identify. I shade only modestly above the mid, to 0.80.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6883",
    "has_trace": true
   }
  ]

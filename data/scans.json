@@ -1081,6 +1081,20 @@
  ],
  "Will CATL be removed from Chinese Military Companies list by June 30, 2027?": [
   {
+   "id": 6968,
+   "scanned_at": "2026-11-11T23:14:37.147364",
+   "date": "2026-11-11",
+   "agent": 11,
+   "market_price_t0": 16.5,
+   "edge": -0.05500000000000001,
+   "confidence": 0.585,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.10). (0) The condition is not met. The resolution-source read confirms CATL is on the June 8, 2026 list (Federal Register 2026-11571). The only later delisting notice, 2026-22840 on Nov 10, removes WuXi AppTec alone. (a) About 7.5 months remain, to June 30, 2027. (b) If nothing changes, CATL stays listed and the market resolves No. The last update gap was about 17 months (Jan 2025 to June 2026), so the next annual list may slip past the deadline. Even if it comes on time, earlier batches have not removed flagship lobbying firms. (c) No: CATL keeps relying on an administrative reconsideration request that has produced nothing since 2025. It files no suit, or files too late for WuXi's roughly 5-month path from suit to removal notice. Meanwhile Congress tightens the regime ahead of the 2027 procurement bans. (d) Yes: CATL sues soon on its thin MIIT/SASAC-affiliation-only basis and wins a quick injunction like WuXi's, followed by a DoD removal notice before the deadline. Alternatively, a Trump–Xi deal leads DoD to drop CATL in an update or ad hoc notice. The withdrawn February list shows diplomacy can move the list, but that version dropped CXMT and YMTC, not CATL. The market sits at 16.5%, and sibling markets (Alibaba, BYD, Tencent) trade at 12–14%. Since there is no CATL lawsuit and no reported deal covering CATL, I shade slightly below the market to about 12%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6968",
+   "has_trace": true
+  },
+  {
    "id": 5734,
    "scanned_at": "2026-10-27T10:49:24.182031",
    "date": "2026-10-27",
@@ -11161,6 +11175,20 @@
  ],
  "Will Strait of Hormuz traffic not return to normal in 2026?": [
   {
+   "id": 7003,
+   "scanned_at": "2026-11-12T07:44:04.180148",
+   "date": "2026-11-12",
+   "agent": 95,
+   "market_price_t0": 92.5,
+   "edge": 0.02499999999999991,
+   "confidence": 0.8200000000000001,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.95, 0.95). (0) Not yet resolved, and no qualifying print exists. PortWatch's ArcGIS feed, which is the resolution source's own data, runs through Nov 8. The latest 7-day average is about 3.9 against a threshold of 60, and no post-February 7-day average has come near 60. The best was about 27–30 in late June, right after the Islamabad deal. (a) About 7 weeks of data remain, to Dec 31. Publication lag of several days is backstopped by the Jan 31, 2027 cutoff. (b) Status quo is Yes: the blockade, mines, attacks and 6–10% war-risk premiums keep AIS-visible transits in single digits. (c) The NO-return path, which resolves this market Yes, is the default. Iran holds to its seven conditions, the US keeps the blockade, and any interim deal lets only a few dozen tankers through. US-escorted convoys stay largely dark and invisible to PortWatch. (d) The return path, which resolves No, needs a comprehensive US–Iran deal by roughly early December. Insurers would then have to return quickly and the stranded fleet surge out, giving a 7-day AIS-visible average above 60, more than double June's best post-deal week. The 'US ends blockade by Dec 31' market at 33% bounds the deal odds, and even a deal is unlikely to produce a 60+ print within weeks. The anchor is 92.5%, and the sibling 'returns to normal by Dec 31' market sits at 7.5%. I lean slightly above the anchor because June's best-case recovery peaked at half the threshold. A small residual covers a sudden deal plus a stranded-ship surge, or an ambiguity over whether the pre-war Jan/Feb ≥60 prints could count; trading history suggests they do not.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7003",
+   "has_trace": true
+  },
+  {
    "id": 6284,
    "scanned_at": "2026-11-03T07:34:42.840573",
    "date": "2026-11-03",
@@ -16157,6 +16185,20 @@
  ],
  "Will Tesla sell a Cybercab for 30k or less in 2026?": [
   {
+   "id": 6995,
+   "scanned_at": "2026-11-12T05:25:01.498120",
+   "date": "2026-11-12",
+   "agent": 17,
+   "market_price_t0": 24,
+   "edge": -0.06999999999999998,
+   "confidence": 0.585,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.17, 0.17). (0) Not resolved: as of Nov 11-12 reporting Tesla has published no Cybercab price, configurator or retail order page, and every unit is in Tesla's own Robotaxi fleet. (a) About seven weeks remain until Dec 31, 2026. (b) Status quo is No: Musk says the vast majority stay Tesla-owned, and the only external channel is a fleet/commercial interest form, which does not meet the qualifying-retail-customer test. (c) No path: Moravy's 'trying to get Cybercabs to customers' becomes fleet/commercial deliveries or slips into 2027 (private-owner autonomy is targeted around Q2 2027); the open NHTSA FMVSS audit (AQ26002) makes a title transfer to the public legally risky; or a handover happens without public terms or a listed price. (d) Yes path: Musk is publicly committed to this exact outcome via the MKBHD bet, capacity is ample, and self-certification has no unit cap, so Tesla could list a price at or below $30k and stage a symbolic retail delivery around the Dec 3 shareholder meeting; a lenient resolver might also count an individual buying through the commercial form. The market's rise to 24% was driven by the Cybertruck wind-down headline rather than new Cybercab sales facts. The strict multi-condition criteria and short window justify shading below the 24% anchor, while Musk's bet motivation keeps a meaningful tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6995",
+   "has_trace": true
+  },
+  {
    "id": 6278,
    "scanned_at": "2026-11-03T05:34:34.242217",
    "date": "2026-11-03",
@@ -17454,6 +17496,20 @@
   }
  ],
  "Nothing Ever Happens: 2026": [
+  {
+   "id": 6966,
+   "scanned_at": "2026-11-11T22:27:00.591040",
+   "date": "2026-11-11",
+   "agent": 93.3,
+   "market_price_t0": 93,
+   "edge": 0.0025000000000000577,
+   "confidence": 0.73,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.94, 0.93). (0) None of the 13 triggers has been met. The Polymarket API shows the market active with no UMA resolution filed. USGS lists no M8+ quake in 2026, and NASA JPL's largest fireball this year is 1.1 kt. The Senate supermajority trigger became impossible after Democrats won about 54 seats on Nov 3. Bitcoin is near $74k, far from both bounds. Greenland's security deal keeps Danish sovereignty. (a) About 7 weeks remain, to Dec 31, 2026. (b) If nothing changes, the market resolves Yes.\n\nThe anchor is the market's 93% Yes (bid 92 / ask 94), which has risen with time decay. Sibling markets give context: Trump out at 2.3%, Iranian regime falls at 2.55%, Greenland acquisition at about 1.5%. These long-shot prices typically carry upward bias and overlap with each other. A rough 7-week tally of the remaining risks:\n- US ground or island seizure in Iran: about 2–3%. The war is ongoing, with Qeshm strikes and island-seizure options on the table since March, but Trump and Rubio signal de-escalation.\n- Iranian regime collapse: about 1–1.5%.\n- Trump death or incapacity: about 1%.\n- Taiwan, Xi, Russia–NATO, natural hazards and Greenland combined: about 1.5%. APEC diplomacy and the Abu Dhabi talks lower the Taiwan and Russia risks.\n- Resolution-ambiguity risk: about 0.5%.\nThat totals roughly 6–7%, consistent with the market.\n\n(c) The No path is a breakdown in Iran talks that leads the US to seize Kharg or Abu Musa, or a sudden Trump health event. (d) The Yes path is the Iran standoff staying at blockade and limited strikes, with summit diplomacy holding through December.\n\nI stay essentially at the market price, slightly above it, because the sibling long-shot markets likely overstate the tails.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6966",
+   "has_trace": true
+  },
   {
    "id": 6358,
    "scanned_at": "2026-11-04T09:46:16.077377",
@@ -21206,7 +21262,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-11T21:56:58.801Z",
+  "last_sync": "2026-11-12T11:07:15.818Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -29025,6 +29081,20 @@
  ],
  "Will OpenAI have the best Text-to-Image AI at the end of November 2026?": [
   {
+   "id": 6989,
+   "scanned_at": "2026-11-12T03:57:36.099607",
+   "date": "2026-11-12",
+   "agent": 91.5,
+   "market_price_t0": 90,
+   "edge": 0.015000000000000013,
+   "confidence": 0.72,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.91, 0.92). (0) Not yet resolved. A search-cached copy of the arena.ai Text-to-Image Overall board dated Nov 8 shows OpenAI at ranks 1–5. GPT-Image-2.5 Sunburst leads at 1429±5 with a 1–1 rank spread, about 100 points ahead of the best non-OpenAI model, Microsoft's MAI-Image-2.6 at 1329. A secondary source confirms OpenAI was also #1 on the Nov 6 update. (a) About 18 days remain until the Nov 30, 12:00 PM ET check. (b) If nothing changes, OpenAI resolves YES. Its #1 position has held since April 2026, and the new GPT Image 2.6 variants give it extra depth. Artificial Analysis, DesignArena and BudgetPixel all independently show OpenAI on top. (c) The NO path is a surprise flagship launch, most plausibly Google's rumored Nano Banana 3 Pro. Google's previous Pro image model shipped Nov 20, 2025 and took #1, so a late-November launch is not far-fetched. That model would have to debut roughly 100 points above Google's current best and shed any AutoEval flag before the check. Minor technical risks are a URL or UI change or a permanent outage, which would resolve 'Other'. (d) YES is the status quo holding with no rival release, or a rival launching below roughly 1430. The market anchor is 90% (bid 89 / ask 91), and sibling markets put every other company at 5% or less. I found nothing unpriced that would move far from that, so I sit slightly above it at 91% given the size of the cushion and the AutoEval barrier for very late launches.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6989",
+   "has_trace": true
+  },
+  {
    "id": 3975,
    "scanned_at": "2026-10-05T17:25:20.377108",
    "date": "2026-10-05",
@@ -32095,6 +32165,20 @@
  ],
  "Will the Iranian regime fall by June 30, 2027?": [
   {
+   "id": 6997,
+   "scanned_at": "2026-11-12T06:12:13.891021",
+   "date": "2026-11-12",
+   "agent": 8.8,
+   "market_price_t0": 11.5,
+   "edge": -0.02750000000000001,
+   "confidence": 0.595,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) Not resolved. ISW/CTP's Nov 10, 2026 Iran Update shows the Islamic Republic still governing. Mojtaba Khamenei is Supreme Leader after the Feb 28 decapitation, the IRGC acts on his directives, and the regime is mobilising the Basij and carrying out executions. The leadership succession explicitly does not count. (a) About 7.5 months remain, to June 30, 2027. (b) If nothing changes, the battered but cohesive regime persists, which resolves No. (c) No scenario: Qatar-mediated talks ease the blockade, or the squeeze continues and the IRGC simply consolidates a more militarised Islamic Republic. Either way the core structures stay intact, as they did through the 2025 war, the January 2026 uprising and the decapitation. (d) Yes scenario: zero oil receipts from around December leave the state unable to pay salaries, pensions and the IRGC/Basij. A bazaar-led nationwide uprising recurs, perhaps in the summer blackout season. Security units split, possibly helped by unilateral Israeli strikes, and a provisional authority emerges. I anchor on the market's 11.5%, which is on thin volume ($58K) and has been falling (-4% over 30 days). The research points somewhat lower. No defections or IRGC fracture have been reported, the opposition is fragmented, and the US and Gulf states favour containment. Generic regime-failure base rates are roughly 2-6% per year. The criteria also exclude the most likely stress outcomes (IRGC takeover, succession, peripheral insurgency). Against that, the open-ended blockade and zero-oil budget are a genuine, unusual stressor that keeps the probability above base rate. The liquid sibling contract for the next 1.5 months sits at about 2.5%, which fits a total in the high single digits for this horizon.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6997",
+   "has_trace": true
+  },
+  {
    "id": 6387,
    "scanned_at": "2026-11-04T17:45:05.402504",
    "date": "2026-11-04",
@@ -33515,6 +33599,20 @@
  ],
  "Next US-Iran senior diplomatic meeting by December 31, 2026?": [
   {
+   "id": 7012,
+   "scanned_at": "2026-11-12T10:05:18.929846",
+   "date": "2026-11-12",
+   "agent": 38,
+   "market_price_t0": 40.5,
+   "edge": -0.025000000000000022,
+   "confidence": 0.5,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.38, 0.38). (0) The condition is not met. The resolution-source read and November 9–12 reporting (Al Jazeera, Iran International, the WSJ via Israel Hayom) show no qualifying senior US–Iran meeting since the September 22 UNGA round, and no date or venue has been set for a next one. (a) About seven weeks remain, to December 31, 2026 at 11:59 PM ET. (b) Status quo is No. Contact runs only through Qatari and Pakistani intermediaries, and phone calls, letters and shuttles by mediators to Tehran or Washington do not meet the same-city, same-day test. (c) No path: Iran keeps its precondition that the US answer its seven demands before any talks. Rezaei called the Doha meeting reports a \"pure lie\" and Araghchi said there are \"absolutely no plans.\" The US stays with its \"status quo\" economic-pressure strategy, possibly with renewed strikes, and the year ends without a convened round. That would repeat the 2–3 month stalls seen earlier in 2026, when Trump's \"soon\" statements slipped. (d) Yes path: Qatar's framework document moves forward and the US gives a formal reply Iran can call responsive. Vance, now leading the diplomacy per the WSJ, then meets Rezaei or Araghchi in Doha or Istanbul by mid-December, or the two delegations hold an indirect same-city round. The market sits at 40.5%, down from about 54% on November 9 after the Iranian denials. The sibling markets are consistent with that: Vance attending is priced at about 31.5% and a meeting by November 30 at about 17.5%. The Iranian denials may be tactical (oil-price signalling), but the sequencing dispute is real and the US is showing little urgency. I therefore shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7012",
+   "has_trace": true
+  },
+  {
    "id": 6436,
    "scanned_at": "2026-11-05T09:16:02.750098",
    "date": "2026-11-05",
@@ -34751,6 +34849,20 @@
  ],
  "Next Gemini Flash Model (3.9+) released by November 30, 2026?": [
   {
+   "id": 7006,
+   "scanned_at": "2026-11-12T08:29:23.538791",
+   "date": "2026-11-12",
+   "agent": 25.5,
+   "market_price_t0": 28,
+   "edge": -0.025000000000000022,
+   "confidence": 0.485,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.25, 0.26). (0) Not resolved yet. The resolution-source check of Google's Gemini API changelog, rendered Nov 12 with entries to Nov 11, and the live models page both list gemini-3.8-flash as the newest core Flash, with no 3.9 or 4 Flash. (a) About 18 days remain to Nov 30, and Thanksgiving week falls inside that window. (b) Status quo is No: nothing official exists, only leaks about \"Hydrogen\" (A/B checkpoints, a Business Insider report of internal Jetski testing, and Andrew Curran calling a launch \"imminent\"). (c) NO happens if Hydrogen slips into December, launches gated first (as Carbon did, about 13 days of gated access before public release), or ships under the element naming Google used this generation as \"Gemini 4 Hydrogen\" without \"Flash\" in its name. The naming risk is substantial given Argon and Carbon. (d) YES happens if Google drops a public gemini-4-flash(-preview) in AI Studio or the API in mid-to-late November, matching the roughly 4-week Pro-to-Flash gap of the last generation and the consolidation of model routing and pricing around Dec 1. The Polymarket anchor is 28% mid (bid 24 / ask 32), down sharply over the week. The sibling Dec 31 market at only 37.5% suggests traders see naming or gating risk, not just timing. I shade slightly below the mid because of that naming risk and the lack of any official tease.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7006",
+   "has_trace": true
+  },
+  {
    "id": 6432,
    "scanned_at": "2026-11-05T07:59:55.639416",
    "date": "2026-11-05",
@@ -35850,6 +35962,150 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.89, 0.89). (0) The question is not resolved yet. It settles on the ranking at the Nov 30 close. CompaniesMarketCap (fetched Nov 11) shows Apple #1 at $5.064T, Nvidia #2 at $4.078T and Microsoft #3 at $3.959T. Yahoo and FinanceCharts confirm Apple's roughly $1T lead at the Nov 10 close.\n\n(a) About 13 trading days remain. Nvidia's Nov 17 earnings is the only major scheduled catalyst.\n\n(b) Status quo: Apple stays #1 and Yes resolves.\n\n(c) NO scenario: Nvidia beats and raises on Nov 17 and the Huang affair/spy scandal fades. Nvidia then rebounds about 20–25% toward its pre-selloff ~$207, while a stretched Apple (margin guide cut, above analyst targets) slips on rotation back to AI. That would flip the order by Nov 30, as happened from much smaller gaps in early November.\n\n(d) YES scenario: the CEO-scandal and congressional-oversight overhangs persist through Nov 18 and beyond. An in-line print gives only a partial bounce, so Apple's lead of about $1T (about 24%) holds.\n\nThe odds of a flip are modest. Nvidia's relative volatility versus Apple over 13 sessions plus an earnings move of roughly ±7–9% gives a standard deviation of about 13–15% for the log ratio. A 24% gap therefore implies roughly a 7–10% chance of a flip, with fat tails from the scandal working in both directions. That agrees with the Polymarket anchor of 89.5%, so I stay essentially at the market.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/6930",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic be the #2 AI lab at the end of November 2026?": [
+  {
+   "id": 7015,
+   "scanned_at": "2026-11-12T10:51:14.491742",
+   "date": "2026-11-12",
+   "agent": 46,
+   "market_price_t0": 48.5,
+   "edge": -0.025000000000000022,
+   "confidence": 0.45,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.47, 0.45). (0) Not met: LMArena's style-control dataset (Nov 9) and the Nov 8 Labs snapshot show Google #1 (~1526), Meta #2 (~1511) and Anthropic #3 (~1506), with overlapping intervals; the best-model tiebreak also favours Meta. (a) About 18 days remain to the Nov 30 noon ET check. (b) Status quo is Meta #2, which resolves No. (c) No if Fable 5.2 is not added to the text board in time (changelog shows Agent/WebDev only as of Nov 11), debuts at or below ~1511, Meta adds Muse Wonder Full, or Fable 5.2 overshoots Gemini 4 Carbon so Anthropic is #1 and Google #2; Arena's '#1 in Chat' post and the 19% sibling best-model price make that tail real. (d) Yes if Fable 5.2 is added within days (Opus 5.5 took ~4) and lands between ~1512 and ~1525, or Opus 5.5 drifts back above Muse Wonder, whose lead looks narrow and driven by technical sub-boards. Sibling markets imply ~19% Anthropic #1, 24.5% #3 and ~48% #2, consistent with the 48.5% mid; I lack unpriced information and stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7015",
+   "has_trace": true
+  }
+ ],
+ "Will there be no new be CEO of NVIDIA by December 31, 2028?": [
+  {
+   "id": 7009,
+   "scanned_at": "2026-11-12T09:18:39.707956",
+   "date": "2026-11-12",
+   "agent": 19,
+   "market_price_t0": 20,
+   "edge": -0.010000000000000009,
+   "confidence": 0.5449999999999999,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.19, 0.19). (0) Resolution check: neither outcome is settled. NVIDIA's newsroom shows no announced successor as of Nov 12, 2026. The latest release is the Nov 10 board statement about the Wachtell/Joon Kim probe. Reports say the board met Nov 11 to decide whether to oust Huang, but no decision has been announced. (a) About 25.5 months remain until Dec 31, 2028. (b) Status quo: Huang stays CEO, or any removal is followed only by an interim CEO such as Colette Kress, who would not count. That path resolves Yes ('No Change'). (c) Scenario for No: the board removes Huang, or he moves to chairman, and names a permanent CEO (Ian Buck, Srouji, Kress made permanent, etc.) within months. Given the 25-month window and an outside search firm already engaged, a named successor is very likely once he is out. (d) Scenario for Yes: the board backs off after the probe, helped by Trump's support, investor views that 'Jensen is Nvidia', and a clean finding. Alternatively, an interim or co-CEO arrangement drags past 2028. Related Polymarket departure markets put Huang out at about 76% by end-2026 and about 83% by end-2027, which implies roughly 15-17% that he stays through 2028. Adding a few points for a prolonged interim-only period gives about 18-21%. That matches this market's 20% mid, so I stay close to the anchor at 19%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7009",
+   "has_trace": true
+  }
+ ],
+ "Will Ian Buck be the next CEO of NVIDIA?": [
+  {
+   "id": 7000,
+   "scanned_at": "2026-11-12T06:57:34.508595",
+   "date": "2026-11-12",
+   "agent": 23.5,
+   "market_price_t0": 24.5,
+   "edge": -0.010000000000000009,
+   "confidence": 0.47,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.24, 0.23). (0) Not resolved. As of Nov 12, 2026, NVIDIA's newsroom and EDGAR show no 8-K or statement naming a successor. The latest board items are the Nov 8 investigation statement and the Nov 10 Wachtell hiring. The outcome of the Nov 11 board meeting has not been reported. (a) About 25.5 months remain until Dec 31, 2028. (b) If nothing changes, Huang stays and the market resolves \"No Change\". Related markets put that at about 28% for this window, and Huang's exit by year-end at 80–88%. (c) NO paths: the board stops at leave or reprimand and Huang stays; or it installs an interim (Kress or Neal, which don't count) and then the outside search firm picks an external name (Srouji, Haas, Su) or confirms Kress as permanent. (d) YES path: Huang is removed or resigns, and the board names CUDA architect Buck permanent CEO, either at removal or after an interim period. Huang has said he hopes the next leader is already inside NVIDIA, and analysts (Reuters, Time/Yale, 24/7 Wall St) call Buck the strongest long-term internal pick. My decomposition is about 0.85 for an exit, times about 0.9 that a permanent successor is announced in the window, times about 0.3 that it is Buck. That gives roughly 0.23, in line with the Polymarket anchor of 24.5%. The adjacent Polymarket markets (Kress 19%, no change 28%, unlisted field about 15%) are coherent with it. Nothing in the research shows the board itself favoring Buck, and the outside search firm and the Kress-interim reports argue against a premium, so I stay near the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7000",
+   "has_trace": true
+  }
+ ],
+ "Will any Uranium Enrichment % Cap (1+ Year) be in a US-Iran deal in 2026?": [
+  {
+   "id": 6992,
+   "scanned_at": "2026-11-12T04:41:53.403217",
+   "date": "2026-11-12",
+   "agent": 8.8,
+   "market_price_t0": 11.5,
+   "edge": -0.02750000000000001,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) Resolution check: the condition is not met. As of Nov 11–12 no signed or formally adopted US-Iran instrument contains a percentage enrichment cap. The June 2026 Islamabad MOU only committed the parties to \"discuss\" enrichment, which the rules exclude.\n\n(a) About 49 days remain until the Dec 31, 2026 deadline.\n\n(b) Status quo is No. Iran's SNSC chief Rezaei calls reports of talks \"a pure lie\" and insists the nuclear phase comes only after blockade, sanctions and Lebanon conditions are met. The proposed Vance–Rezaei meeting is preliminary and unscheduled.\n\n(c) NO scenario: mediators produce at most an interim Hormuz/blockade step (tankers for a carrier pullback). Alternatively, strikes or escalation resume. Any nuclear language that emerges stays \"to be agreed later\" or provisional.\n\n(d) YES scenario: the Qatar–Pakistan draft becomes a short signed or jointly adopted framework committing Iran to no more than 3.67% (JCPOA-level) with no end date, in exchange for asset release and blockade relief. The draft reportedly circulates with tacit US approval and partial Iranian state-TV acknowledgement. Vance and Trump have post-midterm incentives to close it.\n\nThe market anchor is 11.5%, and the sibling \"final nuclear deal by Dec 31\" market sits at 10.5%. I shade slightly below the anchor for three reasons. The resolution bar is strict (mutual signature or adoption, a present obligation, non-temporary). The 3.67% term is unconfirmed by either government. Iran's stockpile and sequencing disputes remain unresolved with little time left.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6992",
+   "has_trace": true
+  }
+ ],
+ "Will CXMT be removed from Chinese Military Companies list by June 30, 2027?": [
+  {
+   "id": 6985,
+   "scanned_at": "2026-11-12T03:12:44.125981",
+   "date": "2026-11-12",
+   "agent": 24,
+   "market_price_t0": 27.5,
+   "edge": -0.03500000000000003,
+   "confidence": 0.485,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.24, 0.24). (0) Resolution check: the condition is not met. CXMT is on the June 2026 Federal Register list (2026-11571). The only DoD Section 1260H notice since then, dated Nov 10, 2026 (2026-22840), delists only WuXi AppTec. The February 2026 notice that removed CXMT predates the baseline list and does not count.\n(a) About 7.5 months remain, to June 30, 2027.\n(b) If nothing changes, CXMT stays listed. The next routine annual update likely lands around or after mid-2027, and routine updates rarely drop parent companies.\n(c) NO: CXMT's suit (filed Aug 28, 2026) proceeds slowly on a merits-only track with no visible preliminary-injunction motion. Courts defer on its affiliation-only rationale (MIIT/SASAC), as in the DJI and Hesai partial outcomes. Or relief arrives too late, given that WuXi's injunction took about 3 months to become a delisting notice.\n(d) YES: CXMT wins an injunction or merits ruling in Q1 2027 on the WuXi template and DoD publishes a compliance delisting notice before the deadline. Alternatively, a Trump–Xi trade deal revives the February removal that was published and withdrawn the same day.\nThe market's 27.5% has risen 12 points in a month, likely on the WuXi precedent. I shade slightly lower: no injunction motion is visible after 2.5 months, the timing is tight, and the administration actively re-listed CXMT in June. The political-reversal path and the possibility of an off-cycle list keep meaningful YES probability.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6985",
+   "has_trace": true
+  }
+ ],
+ "Government shutdown by December 12?": [
+  {
+   "id": 6981,
+   "scanned_at": "2026-11-12T02:26:57.825648",
+   "date": "2026-11-12",
+   "agent": 32.5,
+   "market_price_t0": 35,
+   "edge": -0.024999999999999967,
+   "confidence": 0.5,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.33, 0.32). (0) Not resolved. OPM showed normal \"Open\" operations as of Nov 11–12, and no OMB shutdown directive exists. The stopgap P.L. 119-103 funds all agencies through Friday, Dec 11, so any lapse would begin Saturday, Dec 12, 12:01 AM ET, inside the window.\n\n(a) There are about 30 days left, with a Thanksgiving recess in between. Effectively, the weeks of Nov 30 and Dec 7 remain to pass a continuing resolution (CR).\n\n(b) If nothing changes, funding lapses on Dec 12. In practice, though, mainstream reporting expects another short CR: NPR, KOTA, Fox citing a House Republican, Thune, and ASA. The lame-duck base rate is about 15% lapses.\n\n(c) NO: Schumer and Murray deliver 7+ Democratic votes for a clean CR into February or March. Alternatively, a one-week patch pushes the deadline past Dec 12. Democrats gain leverage anyway in January, so they have reason to punt.\n\n(d) YES: Democrats, pushed by their base and 2028 hopefuls (Van Hollen, Khanna, DeLauro), insist on Iran-war funding limits. Trump and Senate Republicans refuse, and Vought orders an orderly shutdown on Dec 12, as he promptly did in the Jan 31 Saturday lapse.\n\nThis Congress's record pushes me above the historical base rate: 3 of the last 4 deadlines lapsed, some for procedural timing reasons. Bloomberg and Politico report shutdown risk rising, while leadership remains uncommitted.\n\nI anchor on Polymarket's 35%, close to Kalshi's 37% for a near-identical contract. I shade slightly down for the strong \"CR is expected\" consensus and the history of late collapses toward No when a bipartisan vehicle appears.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6981",
+   "has_trace": true
+  }
+ ],
+ "Will Meta be the #3 AI Lab at the end of November 2026 (Style Control On)?": [
+  {
+   "id": 6977,
+   "scanned_at": "2026-11-12T01:43:19.042663",
+   "date": "2026-11-12",
+   "agent": 51,
+   "market_price_t0": 55,
+   "edge": -0.040000000000000036,
+   "confidence": 0.4,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.52, 0.50). (0) The condition is not met. The latest readable snapshots of the resolution source (cached Arena Labs view, Nov 8; Models view, Nov 9) put Google #1 (1527), Meta #2 (Muse Wonder Max, 1511–1512 ±6) and Anthropic #3 (Opus 5.5, 1506 ±6). Meta is #2, not #3. (a) About 18 days remain until the Nov 30 12:00 PM ET check. (b) If nothing changes, Meta stays #2 and the market resolves NO. (c) NO path: Fable 5.2 follows the Fable 5 and 5.1 pattern of landing at or below Opus 5.5 (~1503–1506) on the overall board, or is still unlisted or marked AutoEval by Nov 30. Meanwhile Muse Wonder holds or extends its roughly 5-point lead. (d) YES path: Claude Fable 5.2 or Mythos 5.2 (launched Nov 9) appears on Arena above about 1512. Alternatively, Muse Wonder's thin 12k-vote score regresses toward the 1506 band, as the order flipped once already between Oct 28 and Nov 9. Either way Anthropic becomes #2 and Meta #3, with Google #1 and OpenAI/Moonshot about 25 points back. Market anchor: Polymarket mid is 55%, up 9.5 points in 7 days, and the sibling Anthropic-#3 market is at about 25%. That suggests traders with live views of the Cloudflare-blocked page may already see Anthropic ahead or expect Fable 5.2 to land high, which I cannot verify. I weigh that possible information edge against the stale but concrete status-quo evidence favouring NO and the mixed Arena record of Fable models. I shade only slightly below the market, to 52%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6977",
+   "has_trace": true
+  }
+ ],
+ "Will SpaceX Starship Flight Test 15 launch by November 30, 2026?": [
+  {
+   "id": 6975,
+   "scanned_at": "2026-11-12T00:58:49.250904",
+   "date": "2026-11-12",
+   "agent": 88.5,
+   "market_price_t0": 89.9,
+   "edge": -0.014000000000000012,
+   "confidence": 0.67,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.88, 0.89). (0) Not yet resolved. As of Nov 11–12, Next Spaceflight, Wikipedia, Space.com and The Week all list Flight 15 (B22/S42, Pad 2) for NET Nov 13 22:45 UTC, and no source reports a liftoff or a scrub. What remains is an FAA licence modification for the ship-return-over-land profile, followed by an actual liftoff. (a) About 18 days remain until the Nov 30, 11:59 PM ET deadline. (b) Status quo: the vehicles are stacked and both stages completed static fires (Oct 25–27). NOTAMs cover Nov 13–19 for launch and Nov 13–20 for reentry, and weather looks favourable. If the licence arrives on time, the flight very likely launches within days. (c) NO: the FAA takes weeks on the first-ever populated-area overflight approval, as Flight 5's licence lagged in 2024. Alternatively, a hardware issue (such as a repeat of the Ship 42 engine problems) or a scrub chain pushes the flight past the NOTAM windows and Thanksgiving week into December. (d) YES: the licence is issued on or near Nov 13, and liftoff happens on Nov 13 or a backup day within the Nov 14–19 window; a slip of up to about two weeks still counts. The Polymarket anchor is about 0.90 (bid 0.88 / ask 0.92). The Nov 15 market at about 0.56 shows the crowd already prices a meaningful chance of a short licence or scrub delay, which mostly does not threaten this deadline. The research surfaced nothing new beyond the unissued licence, which the market already knows about. I shade slightly below the mid because the licence approval is novel and was unconfirmed three days before launch.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6975",
+   "has_trace": true
+  }
+ ],
+ "Will NVIDIA be the second-largest company in the world by market cap on December 31?": [
+  {
+   "id": 6971,
+   "scanned_at": "2026-11-12T00:06:51.125953",
+   "date": "2026-11-12",
+   "agent": 43.5,
+   "market_price_t0": 47,
+   "edge": -0.034999999999999976,
+   "confidence": 0.47,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.43, 0.44). (0) The question is not resolved. At the Nov 11 close CompaniesMarketCap had NVIDIA #2 at $4.195T, behind Apple ($5.168T) and ahead of Microsoft ($3.869T) and Alphabet ($3.57T). But the WSJ report that the board is preparing to oust Huang knocked NVDA about 8% lower after hours, to roughly $3.85T. That is level with or just below Microsoft. (a) About seven weeks remain until the Dec 31 close. The scheduled catalysts are Nov 17 earnings (implied move about ±9–10%), the House briefing and the board/Wachtell probe. (b) Status quo is roughly a coin flip between NVDA and MSFT for #2. Alphabet sits about 7–8% below the after-hours NVDA level, and Apple holds a roughly $1.3T lead for #1. The related Kalshi market on Huang leaving before 2027 jumped to 88%, which suggests his ouster is now widely expected and largely priced. (c) NO: Huang is removed with no successor, and NVDA sells off toward $3.0–3.5T, falling below Microsoft and possibly Alphabet. Alternatively, NVDA rallies more than 30% and retakes #1 from Apple; the related market prices that at about 12%, but that looks stale and high. (d) YES: a Q3 beat with strong Rubin guidance and an orderly leadership transition lift NVDA back above $4T. Meanwhile Microsoft stays pressured by the Anthropic Office threat and Apple stays #1. NVDA's higher beta raises the variance on both sides, and NO wins in three directions: Microsoft above, Alphabet above, or NVDA #1. So I shade slightly below the 47% market mid.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/6971",
    "has_trace": true
   }
  ]

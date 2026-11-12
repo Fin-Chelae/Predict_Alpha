@@ -17937,6 +17937,20 @@
  ],
  "Will Iran withdraw from the NPT before 2027?": [
   {
+   "id": 7022,
+   "scanned_at": "2026-11-12T13:16:51.183752",
+   "date": "2026-11-12",
+   "agent": 6.5,
+   "market_price_t0": 7.8,
+   "edge": -0.012999999999999998,
+   "confidence": 0.68,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.06). (0) Resolution check: the condition is not met. Multiple Nov 1–12, 2026 reports (Clash Report, IranWire, Al Jazeera) say no Article X notice has been given. On Nov 2 and Nov 10 the Foreign Ministry restated that Iran remains bound by the NPT, and on Nov 11 Araghchi wrote to the UN citing Article IV as an NPT party. (a) About seven weeks remain before the Dec 31, 2026 deadline. Only a written notice is required, not completion of the 90-day period, so a fast leadership decision could still qualify. (b) If nothing changes, the result is No. The bill has sat unscheduled since March, and neither the SNSC, the Supreme Leader nor the Pezeshkian government has endorsed exit. (c) No scenario: Qatar-mediated talks continue or limp along, and Rubio's stated 'no need' for major combat holds. Iran keeps the 'grey zone' of restricting IAEA access while keeping NPT legal cover, so rhetoric peaks without a letter, as it has for 16 months and through two wars. (d) Yes scenario: talks collapse and the US resumes large-scale strikes after the midterms, on top of the Qeshm strikes already carried out on Nov 2 and Nov 6. That would trigger Rezaei's conditional threat, and Mojtaba Khamenei, covered by the Assembly of Experts statement, would sign off on a quick Article X letter to the UNSC. The Assembly statement and Mottaki's 'unanimous if the Leader agrees' raise the tail risk somewhat. Trump's Nov 9 remark that renewed war is 'highly unlikely' and the very low base rate (only North Korea has ever withdrawn) offset it. I see no specific unpriced information, so I stay close to the market's 7.8%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7022",
+   "has_trace": true
+  },
+  {
    "id": 6413,
    "scanned_at": "2026-11-05T01:47:47.838820",
    "date": "2026-11-05",
@@ -21262,7 +21276,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-12T11:07:15.818Z",
+  "last_sync": "2026-11-12T21:50:36.390Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -31305,6 +31319,20 @@
  ],
  "Will the 5-year Treasury yield hit 5.10% before 2027?": [
   {
+   "id": 7033,
+   "scanned_at": "2026-11-12T17:21:58.907525",
+   "date": "2026-11-12",
+   "agent": 38,
+   "market_price_t0": 41.1,
+   "edge": -0.03149999999999997,
+   "confidence": 0.555,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.37, 0.39). (0) Not resolved yet. Treasury's par-curve CSV shows the highest 5 Yr print in the window was 5.09% on 9/30, one basis point short of 5.10%. The latest print is 4.81% on 11/10, and intraday quotes put it near 4.84% on 11/12. Yahoo's intraday highs above 5.10% do not count; only the end-of-day Treasury print does.\n(a) About 7 weeks remain, roughly 33 trading-day prints through 12/31.\n(b) If nothing changes, the yield stays around 4.8%, about 26bp below the strike, and the market resolves No.\n(c) No scenario: the December hike is already priced (about 90% for 25bp) and the oil–yield link has broken. Growth scares (Nvidia's CEO exit, AI-capex worries), peace headlines and fiscal relief after the midterms then keep the 5Y in the 4.6–4.95% range. Forecasters' consensus also points to a flat or lower 10Y by year-end.\n(d) Yes scenario: inflation is broadening (October CPI +0.4%, core 0.3%) and Waller and Logan are openly hawkish. A strong 12/4 jobs report, a 50bp hike or hawkish dots on 12/9, a hot CPI on 12/10, or weak demand at the 11/24 or 12/28 5Y auctions could add 26bp+. The 5Y has moved 20–40bp within a week or two several times this autumn.\nA rough barrier model gives about 0.35–0.45: daily vol of 5–6bp over 33 sessions is about 30–34bp, the strike is roughly 0.8–0.9 standard deviations away, and the touch probability falls a little because only daily closes count. The ladder of related markets (5.05% at 58%, 5.15% at 28%) is consistent with this.\nThe market mid is 41% but the spread is wide (30/52). I shade slightly below it because 5.10% has never been printed, the 9/30 peak looks like resistance, and the hike is mostly priced in.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7033",
+   "has_trace": true
+  },
+  {
    "id": 6459,
    "scanned_at": "2026-11-05T16:44:18.224737",
    "date": "2026-11-05",
@@ -32104,6 +32132,20 @@
   }
  ],
  "Will the US economy be in a soft landing at the end of 2026?": [
+  {
+   "id": 7044,
+   "scanned_at": "2026-11-12T21:34:26.767351",
+   "date": "2026-11-12",
+   "agent": 20,
+   "market_price_t0": 27.6,
+   "edge": -0.07600000000000001,
+   "confidence": 0.595,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.20). (0) Not resolved: Oct U-3 is 4.1% (BLS), well under 5.0%, but the last published 12-month CPI-U is September's 3.7%, above 3.5%, so today's reading is Overheating. (a) About 2.5 months remain; December CPI (Jan 13) and jobs (Jan 8) are scheduled before the Jan 31 deadline, and any fallback would land on a CPI reading of 3.5% or higher. (b) Status quo: the Oct 2026 NSA index (337.511) is about 4.15% above the Dec 2025 base (324.054), so December needs a roughly 0.7% NSA decline over Nov–Dec to print 3.4% or lower. Core is running about +0.3% a month, and the Cleveland Fed nowcast, which already includes falling gas prices, has November at 3.94%. Kiplinger, Turnleaf and Longforecast all sit above 3.5%. (c) NO: gasoline settles near $3.8–3.9, core keeps rising, and December prints 3.7–4.0% (Overheating). (d) YES: a US–Iran deal pushes Brent into the $70s and gasoline to about $3.4–3.5 by December, which together with seasonal NSA weakness pulls the 12-month rate to 3.4%. The market's 27.6% already jumped about 11 points this week on the oil slide; I shade below it because the arithmetic and gasoline-sensitive nowcasts still sit clearly above the cutoff. Unemployment reaching 5.0% is remote, so NO rests almost entirely on Overheating.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7044",
+   "has_trace": true
+  },
   {
    "id": 6469,
    "scanned_at": "2026-11-05T19:42:48.706639",
@@ -33875,6 +33917,20 @@
  ],
  "Will Google have the best AI model at the end of December 2026?": [
   {
+   "id": 7020,
+   "scanned_at": "2026-11-12T12:29:26.472865",
+   "date": "2026-11-12",
+   "agent": 70,
+   "market_price_t0": 71.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.55,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.69, 0.71). (0) Not resolved yet. Arena's official Hugging Face dataset is the 'text' config with no style control, published 9 Nov. It shows Google's Gemini 4 Carbon at #1 (1538) and Gemini 4 Argon at #2 (1530). Claude Opus 5.5 is third at 1513, about 25 points behind. The status quo therefore favours Google, but the check is a single snapshot on 31 Dec. (a) About 7 weeks remain until the noon ET check on 31 Dec 2026. (b) If nothing changes, Google wins: it holds two models above every rival, and the alphabetical tiebreak also favours Google. (c) NO path: Claude Fable 5.2, released 9 Nov and not yet on the Text table, posts a big jump. It already leads WebDev and the Agent boards, and a third-party Elo puts it at 1538. Alternatively, a further Anthropic or Meta release before year-end overtakes Carbon on the style-control-off board. Leadership changed hands 3–4 times in the past year. (d) YES path: Fable 5.2 lands below Carbon, as Fable 5.1 sat about 23 points back, and no other frontier release beats Google. Google might also add another Gemini 4 variant, such as the rumoured Flash, a Pro or Deep Think. The market anchor is 71.5% and has been rising, which suggests traders have partly priced in the Fable 5.2 release. I shade slightly below the market because Fable 5.2's Text score is a large pending unknown and the window allows one more release cycle.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7020",
+   "has_trace": true
+  },
+  {
    "id": 6444,
    "scanned_at": "2026-11-05T11:34:16.352209",
    "date": "2026-11-05",
@@ -34610,6 +34666,20 @@
   }
  ],
  "Carles Puigdemont back in Spain in 2026?": [
+  {
+   "id": 7039,
+   "scanned_at": "2026-11-12T19:55:04.129521",
+   "date": "2026-11-12",
+   "agent": 76,
+   "market_price_t0": 76.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.61,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.76, 0.76). (0) Not resolved yet. As of 9–12 November 2026, credible reporting (EFE/Infobae, El Independiente, Canal Sur) places Puigdemont in Belgium or France; his closest approach was Prats de Molló, about 13 km from the border. YES still requires him to cross into Spain before 31 December. (a) About 49 days remain. His camp has said he will not return before the 29 November election, so the effective window is roughly 30 November to 31 December. (b) The status quo is that he remains abroad, which resolves NO, but momentum points strongly toward a return. The national arrest warrant was lifted on 6 October and confirmed on 16 October. Llarena annulled the indictment on 3 November and sent the case to the Criminal Chamber for dismissal. The Mossos are reportedly negotiating return logistics, and Lluís Puig has already returned. (c) NO path: the Criminal Chamber's definitive dismissal slips past mid-December, since it must first hear prosecutors and Vox and has no deadline. Puigdemont, cautious and insisting on 'precautions' and full closure, then pushes the staged return to January. Supreme Court timelines have slipped repeatedly this year. (d) YES path: the chamber rules in late November or early December, as it did quickly for Junqueras after the Constitutional Court ruling. He returns via La Jonquera with a Mossos escort and appears at the Parlament around 12 December, the date ABC reports he is finalising with Speaker Rull promising a solemn reception. Even without the formal ruling, no warrant is active, so a crossing carries little legal risk. The market sits at 76.5% after a +21.5% move over 30 days. The research mostly confirms what the market has already priced: the 12 December report is single-source and unconfirmed, while the judicial delay risk is real. So I stay close to the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7039",
+   "has_trace": true
+  },
   {
    "id": 6279,
    "scanned_at": "2026-11-03T06:15:03.057624",
@@ -36106,6 +36176,134 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.43, 0.44). (0) The question is not resolved. At the Nov 11 close CompaniesMarketCap had NVIDIA #2 at $4.195T, behind Apple ($5.168T) and ahead of Microsoft ($3.869T) and Alphabet ($3.57T). But the WSJ report that the board is preparing to oust Huang knocked NVDA about 8% lower after hours, to roughly $3.85T. That is level with or just below Microsoft. (a) About seven weeks remain until the Dec 31 close. The scheduled catalysts are Nov 17 earnings (implied move about ±9–10%), the House briefing and the board/Wachtell probe. (b) Status quo is roughly a coin flip between NVDA and MSFT for #2. Alphabet sits about 7–8% below the after-hours NVDA level, and Apple holds a roughly $1.3T lead for #1. The related Kalshi market on Huang leaving before 2027 jumped to 88%, which suggests his ouster is now widely expected and largely priced. (c) NO: Huang is removed with no successor, and NVDA sells off toward $3.0–3.5T, falling below Microsoft and possibly Alphabet. Alternatively, NVDA rallies more than 30% and retakes #1 from Apple; the related market prices that at about 12%, but that looks stale and high. (d) YES: a Q3 beat with strong Rubin guidance and an orderly leadership transition lift NVDA back above $4T. Meanwhile Microsoft stays pressured by the Anthropic Office threat and Apple stays #1. NVDA's higher beta raises the variance on both sides, and NO wins in three directions: Microsoft above, Alphabet above, or NVDA #1. So I shade slightly below the 47% market mid.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/6971",
+   "has_trace": true
+  }
+ ],
+ "Marco Rubio out as Secretary of State by March 31, 2027?": [
+  {
+   "id": 7042,
+   "scanned_at": "2026-11-12T20:44:23.618183",
+   "date": "2026-11-12",
+   "agent": 16.5,
+   "market_price_t0": 21.5,
+   "edge": -0.04999999999999999,
+   "confidence": 0.55,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.16, 0.17). (0) The condition is not met. The state.gov biography lists Rubio as Secretary of State \"January 21, 2025 – Present,\" no resignation or removal has been announced, and on Nov 11 he was still conducting diplomacy, including APEC calls with Wang Yi. (a) About 4.6 months remain until 11:59 PM ET on March 31, 2027. An announcement alone would resolve Yes. (b) If nothing changes, the market resolves No: Rubio, State and the White House all deny he is leaving, Trump said \"I think so\" when asked if Rubio would stay, and Rubio was made permanent national security adviser in September. (c) No path: Rubio works through APEC and the G20 in December, defers to Vance on 2028 as he has said he would, and any campaign-driven exit comes later in 2027 or never. Politico reports that people close to him say he is not interested in a 2028 bid. (d) Yes path: the anonymous Bloomberg and Independent reports prove right. Rubio announces a lame-duck exit to distance himself from the Iran war and the midterm rout before Democrats take the Senate, or Trump folds him into the post-midterm shakeup. The market sits at 21.5%, and Polymarket's own term structure (7% by Dec 31) implies roughly 14% for January to March alone. That looks rich given the on-record denials, the historical rarity of a Secretary of State leaving within such a window, and the 2028 timeline, which favors a later exit. Still, Bloomberg's report that he discussed stepping down with the White House and this administration's high turnover justify well above base rate. I shade below the market, to 16%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7042",
+   "has_trace": true
+  }
+ ],
+ "Howard Lutnick out as Secretary of Commerce by December 31?": [
+  {
+   "id": 7037,
+   "scanned_at": "2026-11-12T19:00:47.291654",
+   "date": "2026-11-12",
+   "agent": 38.5,
+   "market_price_t0": 45.5,
+   "edge": -0.07,
+   "confidence": 0.47,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.39, 0.38). (0) Not resolved: as of Nov 12, 2026, Bloomberg, Axios, CNN, Reuters and Wikipedia all show Lutnick still Commerce Secretary with no resignation or removal announced; YES requires Trump to announce or accept his exit by Dec 31. (a) About 7 weeks remain. (b) Status quo is NO: the White House said on record Nov 12 that Trump 'maintains complete confidence' in him, and Axios headlined 'Trump sticks by' him. (c) NO: Trump treats the chip-export fight as his own policy call (Axios calls him 'the ultimate decider'), personal loyalty holds as it did through the February and May Epstein episodes and the April 'imminent' firing reports, the post-midterm reshuffle stays on staff roles like Wiles and Bauer, and Democratic subpoenas only arrive in January. (d) YES: unlike his earlier survivals, the pressure now comes from inside the administration (Reuters: senior White House officials discussing a push-out; Bessent, Rubio, Hegseth and Greer reportedly pressed him on Megaspeed), and the charge is defying a Trump order three times plus a classified memo warning him about Huang; if the curbs stay stalled, Trump could announce a face-saving resignation before the new Congress, and an announcement alone resolves YES. I anchor on Polymarket's 45.5% mid, which jumped 24 points in a week on this news, but shade down: base rates for one secretary leaving in a 7-week window are low, Lutnick has survived repeated 'thin ice' reporting, and the White House defended him within hours rather than following the fast-firing pattern seen with Bondi.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7037",
+   "has_trace": true
+  }
+ ],
+ "Over $10M committed to the Mori Finance public sale?": [
+  {
+   "id": 7035,
+   "scanned_at": "2026-11-12T18:08:42.622408",
+   "date": "2026-11-12",
+   "agent": 38.5,
+   "market_price_t0": 42,
+   "edge": -0.034999999999999976,
+   "confidence": 0.5,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.37, 0.40). (0) Not resolved. The resolution page's committed widget would not load. The last indexed raise-page figure was $6.65M, and MetaDAO's companies index showed 'Raised $7.3M' on Nov 12. Both are below $10M, and the index is not the named resolution figure.\n(a) The raise opened Nov 9 at 11am PT and runs 4 days. The index showed about 1 day left, so the close is around Nov 13. That is well inside the Nov 30 cutoff, so effectively about a day remains.\n(b) Status quo is NO. The total has been growing slowly, roughly $6.65M to $7.1M to $7.3M across snapshots (a few hundred thousand per day). At that pace it finishes around $7.5–8M.\n(c) NO path: time-weighted pro-rata allocation (escrow time, early-fill boost) discourages late top-ups. Mori's fundamentals are thin, and Solana is down 23% over 30 days. So inflows stall and the raise closes at roughly $8M, short of the 40x needed.\n(d) YES path: the typical MetaDAO last-day surge plus one or two whales add about $2.7M+. Rip Cars grew about 50% late, and 1609SAT had a single $1.31M wallet.\nThe market's fall from 88% to 42% already prices in the slow mid-window pace. I shade slightly below the 42% anchor because the allocation mechanics weaken the late-surge precedent and recent momentum is modest. I don't move far, because last-day spikes in comparable raises are real.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7035",
+   "has_trace": true
+  }
+ ],
+ "US-Iran Final Nuclear Deal by December 31, 2026?": [
+  {
+   "id": 7030,
+   "scanned_at": "2026-11-12T16:34:35.478176",
+   "date": "2026-11-12",
+   "agent": 5,
+   "market_price_t0": 7.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.745,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.05). (0) Resolution check: the condition is not met. Neither the State Department nor Iran's foreign ministry shows any signed or adopted final deal. Bloomberg (Nov 6, Nov 12), CNN (Nov 9) and the Washington Post (Nov 12) confirm talks are stalled, and the June MoU's 60-day window lapsed in August. (a) About 49 days remain until 11:59 PM ET on Dec 31, 2026. (b) If nothing changes, the answer is No. On Nov 12 Trump said the US 'doesn't need a deal', pulled Vance off the file, and leaned on the blockade and economic pressure. Iran's leadership refuses to engage on nuclear talks until its preconditions are met, and it rejects sending enriched uranium abroad. (c) NO path: the talks drift. At most a Qatar-mediated interim Hormuz-and-funds paper is signed, which defers the nuclear file and fails the 'final deal' test and the exclusion of deferred obligations. Renewed strikes or NPT-exit moves are another way to No. (d) YES path: Trump reverses course, the reported Qatar-Pakistan text with a 3.67% enrichment cap and stockpile dilution is finalized, and both sides sign it as the comprehensive or final deal under the MoU in December. The 3.67% reporting is single-source and unconfirmed, and it is framed as interim. The market sits at 7.5% and has fallen from roughly 12-14% in early November. The precedent of about 20 months from JPOA to JCPOA, Trump's Nov 12 retreat, and the strict qualification criteria justify shading slightly below the market, to 5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7030",
+   "has_trace": true
+  }
+ ],
+ "Will Jensen Huang be arrested by December 31, 2026?": [
+  {
+   "id": 7028,
+   "scanned_at": "2026-11-12T15:45:09.987886",
+   "date": "2026-11-12",
+   "agent": 4.3,
+   "market_price_t0": 9.8,
+   "edge": -0.05500000000000001,
+   "confidence": 0.64,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.04). (0) Nothing has resolved. AP, NBC, Al Jazeera and TechCrunch all report no charge, warrant or custody as of 2026-11-12; Huang resigned as Nvidia CEO that day amid the Alice Huang spy-affair scandal. (a) About 7 weeks remain until 11:59 PM ET on 2026-12-31, and that window includes the Thanksgiving and Christmas slowdowns. (b) If nothing changes, the market resolves No. The live tracks all lead to non-custodial outcomes: the board's internal probe, congressional testimony that he has agreed to give, and civil securities suits. (c) NO scenario: Huang testifies as a witness and the FBI inquiry continues quietly. The DOJ's Megaspeed probe, about two years old with no charges even against Megaspeed or Alice Huang, does not reach him before year-end. Trump's public backing ('honorable guy', 'will be in good shape') further dampens fast executive-branch action. (d) YES scenario: prosecutors obtain a fast sealed indictment against Huang personally on export-control evasion, obstruction or false-statement theories tied to Megaspeed and Nvidia's disputed denials, and he is booked on a negotiated surrender before Dec 31. Alternatively, a foreign jurisdiction such as Taiwan acts. No source names him as a subject or target, and legal experts note no reported evidence of the required knowledge or intent. The market prices Yes at 9.75% on a thin, one-day-old book with a wide 8/12 spread, which likely carries a novelty premium. Given the short window and the lack of any target indication, I shade below it to about 4.5%, keeping tail weight for a fast-moving scandal with an active FBI and DOJ national-security role.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7028",
+   "has_trace": true
+  }
+ ],
+ "Will François Hollande be on the ballot for the 2027 French presidential election?": [
+  {
+   "id": 7026,
+   "scanned_at": "2026-11-12T14:51:19.372690",
+   "date": "2026-11-12",
+   "agent": 27.5,
+   "market_price_t0": 36,
+   "edge": -0.08499999999999996,
+   "confidence": 0.53,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.27, 0.28). (0) Nothing has resolved yet. The Constitutional Council has published no candidate list, and none is due until about 16–26 March 2027, after sponsorships close on 12 March. Hollande has not declared.\n(a) There are about 5 months to the 18 April 2027 first round. The real deadline is about 4 months away: he would need to declare by around January and file 500 sponsorships by 12 March.\n(b) If nothing changes, the answer is No. Hollande is undeclared and has slipped his decision from December to January. His own conditions currently all point away from running: only one social-democratic candidacy, no run against Glucksmann, and running only with a realistic path to the runoff. Glucksmann won the primary with 66%.\n(c) No scenario: Glucksmann stays around 12% as the clear social-democratic standard-bearer. Hollande, stuck at 7–8% with 72% of voters viewing his candidacy negatively, stands aside in January, as he did in 2016.\n(d) Yes scenario: Glucksmann stalls well behind Mélenchon and Philippe. Public figures call for a 'recours', and Hollande declares in January using his existing infrastructure (financing association, Paris office, book). A former president and sitting deputy would very likely clear 500 sponsorships.\nThe market is at 36% (last trade 40%, up 10 points in a week), likely reacting to AFP's 4 Nov 'Hollande ne lâche rien' report. I shade below the market because his explicit statement that he will not run against Glucksmann makes Yes depend on a reversal of his own stated position.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7026",
+   "has_trace": true
+  }
+ ],
+ "Will Jensen Huang join SpaceX by December 31, 2026?": [
+  {
+   "id": 7024,
+   "scanned_at": "2026-11-12T14:02:14.400266",
+   "date": "2026-11-12",
+   "agent": 5.8,
+   "market_price_t0": 8.3,
+   "edge": -0.026000000000000002,
+   "confidence": 0.61,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) Resolution check: the condition is not met. As of Nov 12, no source shows an offer, an acceptance or a SpaceX filing naming Huang. Musk's \"That would be an honor\" was a reply to a ZeroHedge post, named no company or role, and does not qualify under the rules.\n\n(a) About 49 days remain until 11:59 PM ET on Dec 31, 2026, and the window includes the holidays.\n\n(b) Status quo is NO. Huang has just resigned from Nvidia amid a national-security and FBI probe and a Nov 18 congressional briefing, and he has given no statement about future plans.\n\n(c) NO scenario: Huang stays quiet while the Wachtell probe and congressional scrutiny play out. His exit terms, possible non-compete or consulting arrangements with Nvidia, also keep him off SpaceX's board. SpaceX is a defense and NRO contractor and has recently removed directors over conflicts, so it would avoid appointing someone tied to alleged Chinese intelligence contacts and to its largest chip supplier and ~$18B shareholder.\n\n(d) YES scenario: Musk acts impulsively and fills the open Harrison seat, or names Huang a formal adviser at SpaceXAI, by 8-K or an X post. Musk controls about 85% of the votes, so an appointment can be made within days. The pair have shown mutual affinity, and the criteria are broad: any formal advisory or subsidiary role counts.\n\nAnchor: Polymarket is at 8.35% on thin volume ($19k); sibling and Kalshi quotes were about 4–6%. I shade slightly below the market. The national-security taint is especially toxic for a newly public defense contractor, and the short timeline argues against a formal announcement this year, though Musk's unpredictability keeps a real tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7024",
+   "has_trace": true
+  }
+ ],
+ "Will Jensen Huang join a new company by December 31, 2026?": [
+  {
+   "id": 7017,
+   "scanned_at": "2026-11-12T11:42:03.294243",
+   "date": "2026-11-12",
+   "agent": 8,
+   "market_price_t0": 10.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.585,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.08). (0) Resolution check: no source shows a qualifying role. The resolution-source search and all four research dimensions found no announcement, offer or reported talks as of Nov 12, 2026. The Tsinghua advisory seat and his PCAST seat are excluded, as a university and a government body, and both predate the market anyway. (a) There are about seven weeks to the Dec 31, 2026 deadline, including Thanksgiving and the year-end holidays. (b) If nothing changes, Huang stays tied to Nvidia as CEO, chair or director, and Nvidia roles do not count, so the status quo is No. (c) NO scenario: the board removes him or keeps him with reduced authority, possibly as chair. The Wachtell investigation, the FBI interest, congressional subpoena threats and a shareholder class action make any counterparty unwilling to formally appoint him before year-end. (d) YES scenario: a quick ouster, then Musk turns his \"would be an honor\" reply into an announced SpaceX/xAI board or advisory role before Dec 31. The rules count announced formal advisory seats even if service starts later. The market anchor is 10.5% on thin volume ($15.8k) and only one day old. Sibling destination markets, which may be stale, sit at about 6% for SpaceX/xAI and about 5% for Anthropic/OpenAI. The removal-by-year-end market is at 76.5%, but removal does not equal a new role. Given the multi-step chain, the political toxicity, and Huang's record of no outside corporate seats since 1993, I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7017",
    "has_trace": true
   }
  ]

@@ -3515,6 +3515,20 @@
  ],
  "Will the highest score achieved by a Moonshot Kimi model on Humanity’s Last Exam in 2026 be 50% or higher?": [
   {
+   "id": 7086,
+   "scanned_at": "2026-11-13T08:40:59.522711",
+   "date": "2026-11-13",
+   "agent": 17.5,
+   "market_price_t0": 30,
+   "edge": -0.125,
+   "confidence": 0.5349999999999999,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.15) after one crux research pass. (0) Not met on the named source: agi.safe.ai shows no Kimi row; Scale board has only K2.5 at 24.4%. (a) ~48 days left. (b) Status quo = No. (c) Official board stays stale or adds K3.1 Pro via a Scale no-tools run (Scale runs ~5 pts below AA, implying ~45-48%), or CAIS shifts to HLE-Diamond (Kimi 22-39%). (d) Official board adds K3.1 Pro at >=50% (AA 52.5%, Moonshot no-tools 51.1%), or resolver leniently accepts HF/vendor 70%. Market mid 30% with wide spread and last trade 19%; sibling markets (overall 70%+ at 32% despite vendor 74%, Kimi 55%+ at 15.5%) imply traders don't count vendor numbers. I shade below the mid to ~20%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7086",
+   "has_trace": true
+  },
+  {
    "id": 6199,
    "scanned_at": "2026-11-02T05:34:45.077625",
    "date": "2026-11-02",
@@ -17879,6 +17893,20 @@
  ],
  "Will a new country join the Abraham Accords before 2027?": [
   {
+   "id": 7091,
+   "scanned_at": "2026-11-13T10:12:48.423564",
+   "date": "2026-11-13",
+   "agent": 8,
+   "market_price_t0": 11.5,
+   "edge": -0.0345,
+   "confidence": 0.5800000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.08). {\"probabilities\":[{\"market\":\"Yes\",\"probability\":0.08},{\"market\":\"No\",\"probability\":0.92}],\"rationale\":\"(0) The condition is not met. The State Department page, Britannica (Nov 8, 2026) and recent reporting show no new formal signing since Kazakhstan's November 2025 announcement, and Kazakhstan's own ceremony is still pending. (a) About 48 days remain until Dec 31, 2026, 11:59 PM ET. (b) If nothing changes, the market resolves No: no signing is scheduled and there are no pre-announcement leaks of the kind Witkoff gave before Kazakhstan. (c) The No path is the most likely one. Israel spends late November and December in coalition talks after Netanyahu lost his majority, with Eisenkot's mandate running to Dec 6–20. Saudi Arabia says normalization is off the agenda. Azerbaijan stays blocked by the Armenia treaty sequencing, and the Syria and Lebanon tracks stay stalled. (d) The Yes path is a surprise White House-staged symbolic accession around the Dec 14–15 Miami G20. Candidates are Uzbekistan or Azerbaijan, a formal Somaliland signing, or a Kazakhstan ceremony that a lenient resolver counts. This fits the reported post-election, post-midterm expansion plan. Related Polymarket single-country markets sit at about 2–4.5% each, Saudi Arabia at 2% and Syria at 3%. Israel's lack of a settled government and the absence of any signals argue for slightly under the 11.45% anchor, though the Kazakhstan-ceremony ambiguity and the Somaliland tail keep a real residual.\",\"confidence\":0.62,\"unverified_claims\":[\"Israel has no settled government, with Eisenkot given first try at forming one until Dec 6–20 (JTA, single source)\",\"No Accords ceremony is planned at the Dec 14–15 Miami G20\",\"A Kazakhstan signing ceremony would not be counted as a new country joining\"]}",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7091",
+   "has_trace": true
+  },
+  {
    "id": 5966,
    "scanned_at": "2026-10-30T09:25:59.321889",
    "date": "2026-10-30",
@@ -21276,7 +21304,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-12T21:50:36.390Z",
+  "last_sync": "2026-11-13T10:57:39.294Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -23191,6 +23219,20 @@
  ],
  "US x Cuba military clash in 2026?": [
   {
+   "id": 7050,
+   "scanned_at": "2026-11-12T23:19:59.167214",
+   "date": "2026-11-12",
+   "agent": 9,
+   "market_price_t0": 8.5,
+   "edge": 0.0049999999999999906,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) Resolution check: no source reports a qualifying exchange of force between US and Cuban military or Coast Guard/Border Guard forces since the market opened on 2026-02-26. The only armed incident, the 25 Feb speedboat shootout, involved private exiles on a stolen civilian boat, not US forces, and it happened a day before the market opened. (a) About 49 days remain until the 31 Dec 2026 deadline. (b) If nothing changes, this resolves No: the 10.5 months so far have produced sanctions, Coast Guard seizures of tankers, surveillance flights and rhetoric, but no kinetic clash. (c) NO path: Trump's 12 Nov 'would certainly consider' remark stays pressure messaging, the Iran war keeps assets tied up, and the Army Reserve '90-120 days' window from late September lands at or after the deadline. Quincy, CBS and Axios reporting all point to 'not yet'. (d) YES path: a sudden Venezuela-style strike on Cuban military targets before Congress flips on 3 Jan, timed with ships returning from Iran. A secondary path is a Coast Guard interdiction that turns violent with the Cuban Border Guard. I anchor on the market's 8.5% mid. The sibling 'US strike on Cuba' market sits at 11.5%, and a strike would almost certainly count here, which argues for a slight upward nudge. However, no reported force buildup near Cuba in November keeps me close to the market, at about 9%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7050",
+   "has_trace": true
+  },
+  {
    "id": 6390,
    "scanned_at": "2026-11-04T18:14:49.209516",
    "date": "2026-11-04",
@@ -23582,6 +23624,20 @@
   }
  ],
  "Will Russia capture Orikhiv by December 31, 2026?": [
+  {
+   "id": 7065,
+   "scanned_at": "2026-11-13T03:11:28.132290",
+   "date": "2026-11-13",
+   "agent": 5.5,
+   "market_price_t0": 12.8,
+   "edge": -0.07350000000000001,
+   "confidence": 0.72,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.05). (0) Resolution check: the condition is not met. ISW's 12 Nov 2026 assessment says Russian forces in western Zaporizhia \"did not advance\". It mentions Orikhiv only for rising glide-bomb strikes, and no source shows assessed-control or assessed-advance shading anywhere inside the city, let alone at the central train station. (a) About 7 weeks remain, to 31 Dec 2026. (b) The status quo is NO: Ukraine holds Orikhiv. Russian forces are mostly 10–15 km out on the east and northeast flanks, with at most a five-to-six-man infiltration group on the southeastern outskirts. Ukraine has recently retaken most of Mala Tokmachka, and ISW assessed net Russian territorial losses in September and October. (c) NO scenario: glide-bomb preparation and infiltration continue without breaking the defence. Winter conditions and drone kill zones keep the fight at the outskirts, and any presence appears only as infiltration shading, which does not qualify. (d) YES scenario: a December push with Akhmat reinforcements turns the outskirts foothold into a sustained presence. ISW then draws an assessed-advance polygon over the city centre on a Mashovets report or geolocated footage, and it persists through the next update. A settlement handover is negligible given the ~8% ceasefire pricing and the requirement for actual control. Market anchor: the mid is 12.85%, but the spread is wide (9/17) and the last trade was 5%. The evidence, including repeated missed Russian deadlines (April and end of October) and the Kostiantynivka precedent of a year-plus infiltration without capture, supports pricing below the mid, at about 6%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7065",
+   "has_trace": true
+  },
   {
    "id": 2951,
    "scanned_at": "2026-09-15T02:41:48.949363",
@@ -25516,6 +25572,20 @@
   }
  ],
  "Will Russia capture Dobropillia by December 31, 2026?": [
+  {
+   "id": 7054,
+   "scanned_at": "2026-11-13T00:50:12.548086",
+   "date": "2026-11-13",
+   "agent": 8.5,
+   "market_price_t0": 11.5,
+   "edge": -0.030000000000000013,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.09). (0) Not met. ISW's Nov 11 assessment calls the Russian MoD's Oct 16 claim to have taken Dobropillya false and says Russia does not hold the settlement. The Nov 1 assessment says Russia has \"not established positions anywhere in the city.\" Russian presence is infiltration in the south and southwest, which does not qualify, plus a geolocated advance into Bilytske southeast of the town. Nothing places qualifying shading near the north-central intersection. (a) About 48 days remain until Dec 31, 2026. (b) If nothing changes, the market resolves No. ISW has kept refusing to upgrade infiltration to assessed advances inside the city, and Russia has had a net territorial loss in four of the last eight months. (c) No path: Ukraine's drone kill zone and counterattacks hold the infiltration to the southern outskirts. ISW keeps rejecting flag-raising and AI-altered footage, and the Abu Dhabi talks produce no handover. (d) Yes path: foggy winter weather lets infiltration groups consolidate, and geolocated footage leads ISW to draw an assessed-advance polygon that pushes north across the city and covers the intersection, persisting one update cycle. That would require a step-change from the current marginal pace. The market anchor is 11.5% and has been drifting down; the sibling markets price Nov 30 at 5.2% and Mar 31 at 42.5%. I shade slightly below the market because the target is the north-central point, not the contested southern edge, and because the broader front trend is unfavourable to Russia. I keep a real tail for a sudden collapse or an unread ISW map polygon.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7054",
+   "has_trace": true
+  },
   {
    "id": 6461,
    "scanned_at": "2026-11-05T17:25:31.464493",
@@ -33809,6 +33879,20 @@
  ],
  "Houthis capture Taiz city by December 31?": [
   {
+   "id": 7047,
+   "scanned_at": "2026-11-12T22:23:06.139632",
+   "date": "2026-11-12",
+   "agent": 12.5,
+   "market_price_t0": 18.5,
+   "edge": -0.06,
+   "confidence": 0.6,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.12). (0) The condition is not met. As of Nov 6–12, Al Jazeera, Anadolu, Asharq Al-Awsat and the Soufan Center all describe Taiz city as government-held and under siege. No source puts Houthi forces at Al-Qahira Castle, and the rules explicitly exclude a siege or encirclement. (a) About 7 weeks remain until the Dec 31, 11:59 PM ET deadline. (b) If nothing changes, the siege continues and the market resolves No. The defenders have held the outskirts fronts (Al-Aqroud, Al-Shaqab, Kahlan) for 61+ days, and the Houthis have never held all of Taiz city since 2015. (c) NO path: the Houthis keep a costly siege while stretched by Saudi airstrikes and the Dawn of Yemen counteroffensive. They may prioritise softer Lahj/Aden targets, which the Telegraph calls the 'easier prize', or a truce freezes the lines. (d) YES path: wheat, fuel and ammunition run out, the defenders lose cohesion, Houthi drone-supported assaults break the outer fronts, and video shows the castle hill taken before Dec 31. The single-sourced Telegraph claim that the Houthis seized the central prison is the main tail risk. I anchor on the 18.5% market price, which has fallen 28 points in 30 days, and the Nov 30 market at 11.5%. I shade slightly lower because the research finds no breach of the city, gives strong historical base rates against a fall, and the rules require clearly evidenced, uncontested control.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7047",
+   "has_trace": true
+  },
+  {
    "id": 6465,
    "scanned_at": "2026-11-05T18:18:33.056179",
    "date": "2026-11-05",
@@ -34775,6 +34859,20 @@
  ],
  "Ukraine signs peace deal with Russia by December 31, 2026?": [
   {
+   "id": 7058,
+   "scanned_at": "2026-11-13T01:37:49.389762",
+   "date": "2026-11-13",
+   "agent": 5.5,
+   "market_price_t0": 7.5,
+   "edge": -0.019999999999999997,
+   "confidence": 0.715,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.06). (0) No qualifying document has been signed. Consensus reporting through Nov 12-13 shows the Abu Dhabi round (Nov 10-11) produced only a prisoner-exchange agreement in principle, which the rules explicitly exclude. (a) About 7 weeks remain until 11:59 PM ET on Dec 31, 2026. (b) If nothing changes, the answer is No: there is no draft text, no signing date and no scheduled next trilateral round. Russia refuses a general ceasefire without a comprehensive deal, Putin reiterated his Donbas demands and offered only a Kostiantynivka-local truce (excluded), and Ukraine rejects ceding Donbas. Kyiv also extended martial law to Jan 2027. (c) NO scenario: the Trump-Putin meeting in Shenzhen on Nov 18-19 yields only rhetoric. A December trilateral round, if it happens, produces at most an energy truce, a humanitarian arrangement or memoranda, none of which qualify. (d) YES scenario: US pressure after Shenzhen produces a short trilateral framework or roadmap text in December that commits both sides to a defined peace process, and Ukraine signs it. Ukraine has repeatedly said it will sign any real ceasefire, and the broad 'framework/roadmap' language lowers the bar. The market anchor is 7.5% (bid 7, ask 8), flat on the week. The research adds Putin's post-Abu Dhabi intransigence and repeated failed 'close to a deal' claims, so I shade slightly below the market. I keep some tail for a Trump-driven surprise framework signing and for loose resolution interpretation.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7058",
+   "has_trace": true
+  },
+  {
    "id": 6394,
    "scanned_at": "2026-11-04T19:33:32.005656",
    "date": "2026-11-04",
@@ -35109,6 +35207,20 @@
  ],
  "Will Russia enter Druzkhivka by December 31, 2026?": [
   {
+   "id": 7088,
+   "scanned_at": "2026-11-13T09:26:08.394379",
+   "date": "2026-11-13",
+   "agent": 13,
+   "market_price_t0": 14,
+   "edge": -0.010000000000000009,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.14). (0) Resolution check: the condition is not met. ISW's Nov 8, 11 and 12 assessments name Druzhkivka only as a Russian objective. The nearest assessed activity is an infiltration mission in eastern Novohryhorivka, southwest of the city. No source confirms qualifying shading inside the settlement polygon, though the live map itself could not be rendered.\n(a) About 7 weeks remain, to Dec 31, 2026.\n(b) Status quo is No. ISW reports no Russian advances in the Kostyantynivka and Druzhkivka sectors over recent days. DeepState says Kostiantynivka remains almost entirely under Ukrainian control. Russian claims of fighting inside Druzhkivka (Gerasimov, Pushilin, the MoD) have repeatedly been rejected by ISW.\n(c) No scenario: Russia stays bogged down at Kostiantynivka and along the Kazennyi Torets. Ukrainian counterattacks southwest of Druzhkivka hold, and the Abu Dhabi talks produce no ceasefire or handover.\n(d) Yes scenario: infiltration groups move north from Novohryhorivka, or from the Sofiivka–Rayske line, or from the east via Virolyubivka. ISW then geolocates footage inside the city edge and shades a small infiltration polygon that persists one update cycle. ISW's naming of Druzhkivka as an objective on two axes and its view that Russia is building up for a northward drive keep this plausible.\nThe market anchor is 14%, down sharply from 54.5%, which reflects traders absorbing the stalled front. I find nothing the market hasn't priced. I shade slightly lower given ISW's conservatism and the short window, but keep meaningful tail weight because infiltration shading can appear quickly and Novohryhorivka is close.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7088",
+   "has_trace": true
+  },
+  {
    "id": 6512,
    "scanned_at": "2026-11-06T07:09:06.226240",
    "date": "2026-11-06",
@@ -35124,6 +35236,20 @@
   }
  ],
  "Will Steve Witkoff attend a US x Iran diplomatic meeting by December 31, 2026?": [
+  {
+   "id": 7074,
+   "scanned_at": "2026-11-13T05:32:53.012660",
+   "date": "2026-11-13",
+   "agent": 23.5,
+   "market_price_t0": 29,
+   "edge": -0.05499999999999999,
+   "confidence": 0.5349999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.22, 0.25). (0) The market opened 2026-10-01, consistent with its ~40 days of price history, so Witkoff's Sept 22 UNGA round does not count; no qualifying round since then is reported. (a) About seven weeks remain until Dec 31. (b) Status quo is No: Iran's Rezaei calls Doha-meeting reports lies, Tehran demands its seven conditions first, Trump posted 11-12 that the US doesn't need a deal and told Vance to refocus on domestic issues, and Witkoff is tied up on the Ukraine track while Vance leads on Iran. (c) No scenario: the stalemate and economic pressure persist, or a Vance–Rezaei meeting happens without Witkoff, or only technical or mediator contacts take place. (d) Yes scenario: Qatar's mediation yields a convened Doha round (Kalin predicted one) with Vance leading and Witkoff and Kushner attending, as at Islamabad and UNGA. Short-notice dispatches and denials before actual rounds both have precedent. Anchoring on the 29% market, the sibling 'where' market implies ~40% for any meeting, times ~60-70% for Witkoff attending gives ~25-28%. The latest Trump post and Iranian denials push me slightly below that.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7074",
+   "has_trace": true
+  },
   {
    "id": 6504,
    "scanned_at": "2026-11-06T04:54:03.892938",
@@ -36304,6 +36430,118 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.08, 0.08). (0) Resolution check: no source shows a qualifying role. The resolution-source search and all four research dimensions found no announcement, offer or reported talks as of Nov 12, 2026. The Tsinghua advisory seat and his PCAST seat are excluded, as a university and a government body, and both predate the market anyway. (a) There are about seven weeks to the Dec 31, 2026 deadline, including Thanksgiving and the year-end holidays. (b) If nothing changes, Huang stays tied to Nvidia as CEO, chair or director, and Nvidia roles do not count, so the status quo is No. (c) NO scenario: the board removes him or keeps him with reduced authority, possibly as chair. The Wachtell investigation, the FBI interest, congressional subpoena threats and a shareholder class action make any counterparty unwilling to formally appoint him before year-end. (d) YES scenario: a quick ouster, then Musk turns his \"would be an honor\" reply into an announced SpaceX/xAI board or advisory role before Dec 31. The rules count announced formal advisory seats even if service starts later. The market anchor is 10.5% on thin volume ($15.8k) and only one day old. Sibling destination markets, which may be stale, sit at about 6% for SpaceX/xAI and about 5% for Anthropic/OpenAI. The removal-by-year-end market is at 76.5%, but removal does not equal a new role. Given the multi-step chain, the political toxicity, and Huang's record of no outside corporate seats since 1993, I shade slightly below the market.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/7017",
+   "has_trace": true
+  }
+ ],
+ "Fourth Jensen Huang affair reported by December 31?": [
+  {
+   "id": 7082,
+   "scanned_at": "2026-11-13T07:51:34.441138",
+   "date": "2026-11-13",
+   "agent": 39,
+   "market_price_t0": 43.5,
+   "edge": -0.044999999999999984,
+   "confidence": 0.42,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.38, 0.40). (0) The condition has not been met. As of Nov 13, the qualifying outlets and the secondary tallies (TechCrunch, Newsweek, Yahoo live blog) list only Alice Huang, Kimberly Powell and the unnamed employee Reuters reported. No fourth, distinguishable person has been reported.\n\n(a) About seven weeks remain until the Dec 31, 11:59 PM ET deadline.\n\n(b) If nothing changes, the market resolves NO.\n\n(c) NO path: the resignation removes the board-fight leak incentive, and coverage pivots to Megaspeed, DOJ, succession and chips. The Wachtell probe has no public timeline, and congressional testimony stays closed-door. Any further reporting identifies the Reuters employee or only re-hashes the known three. That would be excluded under (i) and (ii).\n\n(d) YES path: the NYT, WSJ, Reuters or Bloomberg, drawing on employee sources made talkative by the Wachtell interviews or ahead of Huang's congressional appearance, reports a 'third employee' or a non-Nvidia partner, framed as separate from the Reuters employee. Bloomberg's line about 'multiple women now romantically linked' and Huang's long period of denial hint that more may exist.\n\nI anchor on the 43.5% Polymarket mid. I shade down modestly for three reasons:\n- The secondhand Bloomberg summary has Huang admitting to the board 'two female employees and another individual', which suggests a bounded list of three.\n- The rules require an explicit distinction from the unnamed Reuters employee.\n- Base rates for executive-affair scandals rarely reach a fourth partner reported by a top-tier outlet.\n\nThe pace of three disclosures in 15 days, with heavy multi-outlet digging, keeps YES well above the base rate.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7082",
+   "has_trace": true
+  }
+ ],
+ "Will Alice Huang be federally charged by March 31, 2027?": [
+  {
+   "id": 7080,
+   "scanned_at": "2026-11-13T07:04:07.790460",
+   "date": "2026-11-13",
+   "agent": 15.5,
+   "market_price_t0": 16.5,
+   "edge": -0.010000000000000009,
+   "confidence": 0.535,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.15, 0.16). (0) Resolution check: the condition is not met. As of Nov 13, 2026, news reports and a profile page say Huang is uncharged. The DOJ site could not be read, and no complaint, indictment or unsealed charge naming her has surfaced. (a) About 4.5 months (roughly 138 days) remain until the Mar 31, 2027 deadline. (b) Status quo is No: the DOJ probes (NSD on Megaspeed, SDNY on Supermicro-linked smuggling) are described as early-stage and DOJ is not commenting. AG Blanche publicly said \"no conclusions\" have been reached about her. (c) No scenario: export-control cases typically take 1–2 years from probe to indictment, and Huang is in Beijing or Hong Kong, so arrest is out of reach. Any sealed indictment stays sealed pending arrest, or the DOJ's output is Megaspeed-only charges, charges against intermediaries, or an Entity List designation, none of which count. (d) Yes scenario: amid extreme political pressure, SDNY or NSD uses the existing Supermicro case template and the pre-existing BIS evidence. It indicts Huang as a fugitive alongside Megaspeed-linked co-defendants and unseals the case with a press release before March, as was done with the fugitive Chang. The market sits at 16.5% (a related Dec 31 market is at 7.5%). The research adds two reports that the probes focus on Huang personally, which the market has likely already priced. Against that, Blanche's hedging and the slow export-control timelines argue for a small discount, so I land slightly below the anchor at about 15%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7080",
+   "has_trace": true
+  }
+ ],
+ "U.S. agrees to give Ukraine security guarantee by December 31, 2026?": [
+  {
+   "id": 7078,
+   "scanned_at": "2026-11-13T06:17:47.925364",
+   "date": "2026-11-13",
+   "agent": 4.5,
+   "market_price_t0": 7,
+   "edge": -0.025499999999999995,
+   "confidence": 0.72,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.04). (0) Nothing has resolved yet. As of Nov 11–13, 2026, Xinhua, the Kyiv Independent, Time and CNBC all report that no US–Ukraine guarantee has been signed or finalized, and the Abu Dhabi talks produced only a prisoner exchange. (a) About seven weeks remain until the Dec 31, 2026 deadline. (b) If nothing changes, the outcome is No: the January '100% ready' document has sat unsigned for ten months. (c) The No path is the most likely one. Talks keep stalling on Donbas and Russia's demand to approve the guarantee terms, and the next round has no date and now includes Europe, which slows it further. Even if something is announced, it is likely to be the 'Article 5-like' but non-binding framework that leaked in December 2025, which the strict 'binding obligation' rule excludes. (d) The Yes path: Trump forces a deal at the Dec 14–15 Miami G20 (reported by The Atlantic, not confirmed) and signs a guarantee with explicitly binding military-response language, possibly as a treaty to send to the new Congress. The market sits at about 7% (6–8% bid/ask), close to the ceasefire-by-year-end contract at 7.4%. Since a guarantee is sequenced after a territorial settlement and must also clear the binding-language test, I shade slightly below the market to about 5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7078",
+   "has_trace": true
+  }
+ ],
+ "Will Ann Kao win the next Hsinchu City Mayor election?": [
+  {
+   "id": 7071,
+   "scanned_at": "2026-11-13T04:44:29.496008",
+   "date": "2026-11-13",
+   "agent": 85.5,
+   "market_price_t0": 88,
+   "edge": -0.025000000000000022,
+   "confidence": 0.63,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.85, 0.86). (0) Not resolved. The election is on 28 Nov 2026, and the CEC database shows no results. Nothing makes the outcome impossible: Kao is registered and on the ballot, and no Supreme Court ruling has been reported. (a) About 15 days remain until the vote, and the result will be known the same night. (b) Status quo: Kao has led every published poll since January. The latest are TVBS (Oct 27–31) at 46–31 and Newtalk/CATI (Oct 28–29) at 38–36. KMT and TPP identifiers back her heavily, at 81% and 95%. She held off the 2025 recall with about 59% voting against removal. Election analyst Kharis Templeman rates the race 'leans IND' for Kao. (c) NO: Chuang's rise from 21% to 31–36% continues. The 20–24% undecided break toward the DPP after late rallies by Lai and Tsai, and the Newtalk finding that Chuang leads among 'definitely vote' respondents proves accurate. Kao, as an independent, loses narrowly. A surprise Supreme Court ruling before the vote would also hurt her, but that looks very unlikely. (d) YES: blue-white consolidation holds, turnout looks like the TVBS sample, and Kao wins by mid-to-high single digits or more, as she did in 2022. The Polymarket anchor is 88%. I shade slightly below it, to 85%, because the Newtalk poll shows a tightening race with momentum toward Chuang, polls in single-district Taiwanese races can carry large error, and there are no polls after Nov 5. Even so, a lead in every poll plus a consolidated opposition base supports a clear favourite.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7071",
+   "has_trace": true
+  }
+ ],
+ "Will Bitcoin dip to $57,500 in November?": [
+  {
+   "id": 7067,
+   "scanned_at": "2026-11-13T03:56:37.427248",
+   "date": "2026-11-13",
+   "agent": 9,
+   "market_price_t0": 10,
+   "edge": -0.009500000000000008,
+   "confidence": 0.63,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) The condition is not met. Binance's own kline mirror shows the November low so far at 68,527.89 USDT on Nov 13, about 16% above the $57,500 strike. (a) About 17.5 days remain, through 11:59 PM ET on Nov 30. (b) If nothing changes, the market resolves NO, since BTC is near $68.7K. (c) NO path: the $67–68K support cluster (the 200-week MA) holds, oversold readings (Fear & Greed 20, price below the lower Bollinger Band) produce a bounce, and BTC chops between $65K and $75K. Reaching the strike would also require a new 52-week low below the June–July lows of roughly $57.7–58.3K, which no analyst target reaches. (d) YES path: a break of $67K sets off a liquidation cascade like June's, when BTC fell about $8K in 48 hours. Continued ETF outflows, Nvidia earnings on Nov 17, a hot PCE on Nov 25 and MSCI-related selling around Nov 30 would carry it through the $60K put wall to a retest of the June low. Driftless barrier arithmetic gives about 4% at 40% vol and about 10% at 50% vol; post-drop vol is likely elevated and tails are fat. The Deribit-derived ~20% chance of touching $60K implies roughly 10–12% for $57.5K. The Polymarket anchor of 9.95% sits consistently in that range. I shade slightly below it because the strike lies under the cycle low, which should act as support, and no research justifies a move above market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7067",
+   "has_trace": true
+  }
+ ],
+ "Jensen Huang admits to another affair with a woman by December 31?": [
+  {
+   "id": 7061,
+   "scanned_at": "2026-11-13T02:25:30.001695",
+   "date": "2026-11-13",
+   "agent": 39,
+   "market_price_t0": 52,
+   "edge": -0.13,
+   "confidence": 0.42,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.40, 0.38) after one crux research pass. (0) Not yet met. NVIDIA's newsroom and the resolution-source read show only the Nov 8 unnamed \"I was unfaithful\" memo and the Nov 12 resignation release. The NYT report on Powell and the Reuters report on a third woman are reports, not admissions, and Huang deflected the NYT (\"I don't think you should be talking to me directly\").\n\n(a) About 7 weeks remain, to Dec 31, 2026.\n\n(b) Status quo is No. Huang has resigned, so NVIDIA's channels no longer speak for him. He has retained Paul Weiss and faces securities suits and possible SEC or criminal exposure, all of which push him toward silence.\n\n(c) NO scenario:\n- He sits for the closed-door House interview around late Nov or Dec 1.\n- Counsel keeps answers to Alice Huang and security protocols, which is the letter's stated scope.\n- He declines personal questions about Powell.\n- The committees publish nothing before year-end; release is discretionary, and the Oversight precedent shows about a two-week lag.\n\n(d) YES scenario:\n- Hostile GOP chairs ask about Powell as a security or direct-report issue.\n- Lying to Congress carries 18 U.S.C. §1001 risk, so he concedes rather than denies.\n- A transcript or leak then emerges, which credible reporting can carry by Dec 31.\n- Alternatively, a Senate Banking public hearing (requested for Dec 3) forces a sworn answer.\n- Other routes: a divorce filing, or a voluntary fuller statement once he has left NVIDIA.\n\nAnchor and adjustment: the market sits at 52% on thin volume (about $58k). Each link in the YES chain (questioned, answers affirmatively, made public in time) is uncertain. Lawyered witnesses usually decline rather than admit, so I shade below the market to 40%. I keep meaningful weight on leaks and on the hostile-committee dynamic.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7061",
+   "has_trace": true
+  }
+ ],
+ "Will Chang San-cheng win the next Taoyuan Mayor election?": [
+  {
+   "id": 7052,
+   "scanned_at": "2026-11-13T00:05:16.504985",
+   "date": "2026-11-13",
+   "agent": 89,
+   "market_price_t0": 92.5,
+   "edge": -0.03500000000000003,
+   "confidence": 0.63,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.88, 0.90). (0) The race is not resolved. The CEC database has no 2026 results, since voting is on Nov 28, and no candidate has withdrawn or been disqualified. (a) About 15 days remain until the vote, and results normally come out the same night. (b) Status quo: incumbent KMT mayor Chang San-cheng leads DPP challenger Huang Shih-chieh in every public poll found. ETtoday has him ahead 47.4–36.0 and the 信民協會/Tai Li-an poll 36.9–32.8. The September poll from a green-leaning think tank had him up 47–26. His approval is around 53–62%, and Taoyuan leans about 4 points bluer than the national electorate (T-PVI B+4). (c) NO path: the national DPP swing visible in Taipei and Taichung carries into Taoyuan, and Huang's more motivated base turns out. In the Tai Li-an poll Huang already leads among definite voters (42.7–41.4). Soft, complacent pan-blue voters stay home, and late-campaign issues such as the Micron labour dispute and the 'Xindian mayor' jibe add to Huang's momentum. That would be a Taoyuan upset echoing 2014, when the KMT lost the city despite leading the polls. (d) YES path: a normal incumbent hold. The closest pollster himself projects a 7.6–15 point Chang win and sees no 2014-style signal, and Huang's low name recognition caps his gains. The market anchor is 92.5% and has been flat for 30 days. I shade it down to about 88% because the lead has narrowed sharply from the 2025 polls, the likely-voter cut is tied, and Taiwanese local polls have a history of misses, Taoyuan 2014 included.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7052",
    "has_trace": true
   }
  ]

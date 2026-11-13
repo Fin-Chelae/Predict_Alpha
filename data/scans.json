@@ -4809,6 +4809,20 @@
  ],
  "Will Trump's approval rating hit 35% in 2026?": [
   {
+   "id": 7096,
+   "scanned_at": "2026-11-13T11:54:00.927424",
+   "date": "2026-11-13",
+   "agent": 12.5,
+   "market_price_t0": 16,
+   "edge": -0.035,
+   "confidence": 0.61,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.12). (0) Not met: Silver Bulletin shows 37.6% (Nov 12) with a 2026 low of 36.3%, above 35.0. (a) About seven weeks of data remain (Nov 13–Dec 31); finalization means effectively through about Dec 30. (b) Status quo: the average sits near 37–38% and pooled aggregators are flat to slightly up since the late-October low, so No. (c) No: Silver's adjusted average absorbs the 32% Reuters/Ipsos and YouGov prints but only drifts to about 36–37%. Higher polls (Zogby 43, Big Data 40) offset them and the holiday polling lull keeps it sticky; the year-long decline ran about 3.4 points in 7 months, so 2.6 points in 7 weeks is unusually fast. (d) Yes: pre-election RV/LV polls roll off and a cluster of 31–34% adult-sample polls (Ipsos, YouGov, AP-NORC, Pew, CNN) drags the average through 36.3 to 35.0. A new shock would make this more likely; the October slide moved it about a point in a week. Market anchor is 16%, and sibling contracts (36% at 50%, 34% at 12%) are coherent with it. A rough random-walk estimate with modest downward drift gives about 8–15%, so I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7096",
+   "has_trace": true
+  },
+  {
    "id": 6525,
    "scanned_at": "2026-11-06T11:03:35.446184",
    "date": "2026-11-06",
@@ -11061,6 +11075,20 @@
  ],
  "Extended FDV above $300M one day after launch?": [
   {
+   "id": 7120,
+   "scanned_at": "2026-11-13T19:00:27.388094",
+   "date": "2026-11-13",
+   "agent": 21.5,
+   "market_price_t0": 27,
+   "edge": -0.05499999999999999,
+   "confidence": 0.5349999999999999,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.23). (0) The condition is not met yet. Extended's X account shows XTEN untraded, with the TGE date \"announced separately\" as of Nov 11, so there is no FDV to check. (a) About seven weeks remain: XTEN must launch by Dec 31, 2026 at 11:59 PM ET, and FDV is read at 4 PM ET the next day, with the $300M strike equal to $0.30 on a 1B supply. (b) If nothing changes, this resolves No. Either the TGE slips past Dec 31, or the token lists near its pre-market price of about $0.20 (Coinglass, Nov 13, roughly $200M FDV), about a third below the strike. (c) No scenario: XTEN launches in late Nov or Dec into an extreme-fear market (BTC below $69K, Fear & Greed 21). The fully unlocked 300M airdrop, about $60–90M in no-cost-basis tokens, meets selling, and the price holds at $0.15–0.25. Alternatively, the TGE slips into 2027, since the signing window to Dec 31 leaves room for that. (d) Yes scenario: the TGE comes with major CEX listings. The low 30% float, heavy short positioning on thin perps and market-maker support produce a squeeze, and the price stays above $0.30 at 4 PM ET the next day. That needs a roughly 50% premium over pre-market, a level pre-market has never closed above (ATH $0.299). The Polymarket anchor is 27%, and the sibling launch-by-Dec-31 market sits at 96%. The newest data, pre-market down to about $0.20 on Nov 13, down 16% in 24h, plus a worsening macro tape, look only partly priced in. I shade below the market to about 20%, since a day-one premium of that size in a risk-off market is not the base case.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7120",
+   "has_trace": true
+  },
+  {
    "id": 6546,
    "scanned_at": "2026-11-06T17:26:56.791705",
    "date": "2026-11-06",
@@ -13444,6 +13472,20 @@
   }
  ],
  "Will FISA Section 702 reauthorization become law this year?": [
+  {
+   "id": 7094,
+   "scanned_at": "2026-11-13T10:57:50.425680",
+   "date": "2026-11-13",
+   "agent": 8,
+   "market_price_t0": 9.5,
+   "edge": -0.015,
+   "confidence": 0.64,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.08). (0) The condition is not met. The resolution source names H.R.22, which is actually the SAVE Act and does not track FISA. Credible reporting through Nov 12 shows Section 702 lapsed on June 12, 2026, and nothing has been enacted since; only 10-day and 45-day stopgaps passed in April. (a) About seven weeks remain until Dec 31, 2026. The lame duck has perhaps five legislative weeks, a Thanksgiving break, a target adjournment around Dec 18, and a Dec 11 funding cliff. (b) Status quo is NO. No Senate floor vote or rider text is scheduled, and Himes says the administration is \"deprioritizing\" 702. Because the FISC certifications run to March 2027, there is no hard deadline, and Himes openly names Q1 2027 as the fallback. (c) NO path: the floor fills with the CR, NDAA and nominations. Wyden and the reform groups resist any must-pass rider, and leaders defer to the Democratic-controlled 120th Congress, which wants a \"very different 702.\" (d) YES path: a 3-year Cotton-Warner-style reauthorization rides the NDAA (floor around the week of Dec 7) or the CR. It would get 60 votes with Warner, Kelly and other Democrats now that Pulte is gone and Clayton is confirmed, and Trump would sign it. Even then, the contract's \"for two years\" wording adds some resolver risk for a 3-year law. I anchor on the 9.5% mid, which has drifted down over 30 days, and shade slightly lower. The reasons are the absent deadline, no scheduled action, the open Q1 fallback, and the term-length wording risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7094",
+   "has_trace": true
+  },
   {
    "id": 6523,
    "scanned_at": "2026-11-06T10:16:55.228552",
@@ -15982,6 +16024,20 @@
   }
  ],
  "Will the U.S. invade Iran before 2027?": [
+  {
+   "id": 7113,
+   "scanned_at": "2026-11-13T16:38:24.802815",
+   "date": "2026-11-13",
+   "agent": 6,
+   "market_price_t0": 7.5,
+   "edge": -0.015,
+   "confidence": 0.715,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) Resolution check: the condition is not met. The resolution-source read and all four research reports agree that, as of Nov 11–13, 2026, no U.S. offensive meant to seize and hold Iranian territory has occurred. The war consists of a blockade, limited strikes such as those on Qeshm on Nov 6, and a brief rescue raid in April, and none of these qualify under the 'intended to establish control' test.\n\n(a) About 48 days remain until the Dec 31, 2026 11:59 PM ET deadline.\n\n(b) Status quo: if nothing changes, this resolves No. Rubio says there is 'no need' for major combat, Trump calls it 'status quo' and says he does not 'see' ground troops, and the posture is a blockade plus air pressure.\n\n(c) NO path: the blockade and stalled Qatar talks continue, and any renewed escalation stays an air campaign against bridges, nuclear and energy sites. Midterm backlash, the Dec 11 funding fight, Gulf-state pressure and 71% public support for ending the war all deter a landing.\n\n(d) YES path: the drift toward escalation continues. Trump says 'no deal needed', a third carrier is arriving, Israel's cabinet is preparing, and the IRGC has attacked Bahrain. That could lead to an Israeli strike or a lethal Iranian attack, then a major U.S. campaign, then a Marine or 82nd Airborne seizure of Abu Musa, Larak or Kharg. The forces for that are already staged.\n\nThe market anchor is 7.5% and trending down. Nine months of war, including the March peak with Marines in theater, produced no seizure, which implies a low per-month hazard. I shade slightly below the market because of the narrow 'control' wording and the short window. The broad 'any portion' language and the visible escalation signals keep a meaningful tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7113",
+   "has_trace": true
+  },
   {
    "id": 6538,
    "scanned_at": "2026-11-06T14:58:58.823614",
@@ -21304,7 +21360,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-13T10:57:39.294Z",
+  "last_sync": "2026-11-13T21:25:38.969Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -26773,6 +26829,20 @@
  ],
  "Iran blockade lifted before Iran-Oman Hormuz agreement?": [
   {
+   "id": 7122,
+   "scanned_at": "2026-11-13T19:53:46.750355",
+   "date": "2026-11-13",
+   "agent": 17,
+   "market_price_t0": 19.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.61,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.17, 0.17). (0) Nothing has resolved yet. CENTCOM was still enforcing the blockade on Nov 7, Nov 11 and Nov 13, and it launched Task Force Iron Gate to extend it. No qualifying Iran–Oman agreement exists either: Oman's foreign ministry said on Nov 5 that talks were still aimed at 'reaching understandings', and the August and October announcements were treated as interim steps. (a) About 48 days remain until Dec 31. (b) If nothing changes, the blockade continues, no Oman deal is announced, and the market resolves No. Trump's Nov 12 'we don't need a deal' post, Rubio's line that pressure 'will get worse', and the Iron Gate expansion all point to the status quo. (c) A No could come several ways: the 'forever blockade' persists; easing is quiet or partial (for example the 25-tanker idea), which does not qualify; or Iran and Oman formalize their 'understanding' first or in the same announcement. (d) A Yes most plausibly comes from Trump accepting Qatar's two-day package, where the US lifts the blockade on day one and Hormuz reopens with the Iran–Oman route on day two. That would mirror the June 18 CENTCOM lift and would likely come before any final Oman text, since Iran ties implementation to the US move. Trump's 'I could end it immediately' and post-midterm pressure keep this alive. Anchors: this market is at 19.5%, and the broader 'US announces end of blockade by Dec 31' market is at 23.45%, which caps this one because it also needs the right ordering. Trump's Nov 12–13 stance appears largely priced in, so I shade slightly below the market to about 17%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7122",
+   "has_trace": true
+  },
+  {
    "id": 5570,
    "scanned_at": "2026-10-25T09:03:54.786871",
    "date": "2026-10-25",
@@ -27770,6 +27840,20 @@
   }
  ],
  "Will no qualifying US-Iran senior diplomatic meeting take place by December 31, 2026?": [
+  {
+   "id": 7107,
+   "scanned_at": "2026-11-13T15:04:10.726803",
+   "date": "2026-11-13",
+   "agent": 70,
+   "market_price_t0": 68.5,
+   "edge": 0.014999999999999902,
+   "confidence": 0.5700000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.70, 0.70). (0) Resolution check: nothing shows the condition already settled. No qualifying senior US–Iran meeting has been reported since the June 22 Bürgenstock round. The Sept 22 UNGA contact was mediator-based and evidently not treated as qualifying, since the market is still open. (a) About seven weeks remain until Dec 31, 11:59 PM ET. (b) Status quo is YES (no meeting): Iran has repeatedly made US implementation of its seven conditions a precondition even for indirect talks. Araghchi, Rezaei (\"Absolutely not\"), Ghalibaf's office and a security official all denied the Kalın-reported Doha meeting. US officials told the WSJ the Vance–Rezaei idea is preliminary with no date set. (c) NO path: Qatar brokers a face-saving partial US concession, such as easing the blockade or a reply to the seven conditions. Vance, or Witkoff/Kushner, then meets Rezaei, Ghalibaf or Araghchi in Doha, or both delegations sit in the same city with mediators shuttling messages, before year-end. (d) YES path: the stalemate continues with remote message-passing and at most a technical-level round, or renewed strikes and tanker incidents freeze scheduling again, as happened after the July collapse. I anchor on the 68.5% Polymarket price, which has risen 14.5 points this week as Iranian denials piled up. The base rate also supports it: about five months without a senior round, and repeated last-minute postponements. I nudge only slightly toward YES. Trump's unpredictability, active Qatari mediation, Vance's authorised push and Khamenei's reported order to end \"no war, no peace\" keep a meaningful chance of a quick Doha round.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7107",
+   "has_trace": true
+  },
   {
    "id": 6528,
    "scanned_at": "2026-11-06T11:50:41.769343",
@@ -33483,6 +33567,20 @@
  ],
  "Will the 30-year Treasury yield hit 5.70% before 2027?": [
   {
+   "id": 7105,
+   "scanned_at": "2026-11-13T14:12:03.519068",
+   "date": "2026-11-13",
+   "agent": 27.5,
+   "market_price_t0": 24.5,
+   "edge": 0.030000000000000027,
+   "confidence": 0.565,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.29, 0.26). (0) Not resolved. Treasury's own par-curve CSV shows the 30 Yr column peaked at 5.67% on 10/07. No date since 09/03 has reached 5.70%, and the latest value is 5.43% on 11/12; intraday quotes on 11/13 are about 5.46%. (a) About 7 weeks remain, roughly 33 daily prints through 12/31. (b) Status quo is No: the yield needs another 24–27 bp to set a new 2026 closing high above a level the market has already turned back from once. (c) No path: the December hike is already fully priced and the selloff stays a bear-flattener led by the front end. Oil eases as the IEA expects supply to exceed demand, the refunding hints at long-end supply relief in 2027, and AI-equity or housing weakness pulls long yields lower. That would leave the 30-year in a 5.25–5.55% range. (d) Yes path: November CPI on 12/10 prints hot again, the 12/9 FOMC delivers a hawkish dot plot or a 50 bp hike, and oil goes back above $100 on Iran/Hormuz. Term premium then reprices and the 30-year repeats the mid-September-to-October climb of about 37 bp. A simple barrier model using recent realized volatility (about 6–8 bp a day, and 38 bp moves within two weeks) gives roughly 40%. Resistance near 5.67%, the daily-close-only rule and bear-flattening dynamics argue for less. The market's 24.5% (bid 21 / ask 28), consistent with the sibling 5.60% strike at 44.5%, is my anchor. Upward momentum and high volatility justify leaning slightly above it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7105",
+   "has_trace": true
+  },
+  {
    "id": 6510,
    "scanned_at": "2026-11-06T06:22:38.575322",
    "date": "2026-11-06",
@@ -33832,6 +33930,20 @@
   }
  ],
  "Will the Fed Pause-Hike-Pause in the next three decisions (Oct-Dec-Jan)?": [
+  {
+   "id": 7110,
+   "scanned_at": "2026-11-13T15:48:54.188571",
+   "date": "2026-11-13",
+   "agent": 37.5,
+   "market_price_t0": 41,
+   "edge": -0.034999999999999976,
+   "confidence": 0.56,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.37, 0.38). (0) The first leg is met: the official Oct 28, 2026 statement held the range at 3.75–4.00% by a 10–2 vote, and FRED DFEDTARU shows the upper bound at 4.00. December and January are still undecided. (a) About 2.5 months remain: the Dec 8–9 FOMC and the Jan 26–27 FOMC, with the market closing Jan 27. (b) If nothing changes from today, the most likely path is a December hike, near-certain at roughly 95–100% on CME and about 97% across prediction markets. That makes January the binding leg. (c) NO: a third hot inflation print, plus hawks (Waller, Logan, Williams, Hammack) and forecasters (Deutsche, BofA) pulling the next hike forward, produces a December hike and then a January hike, which resolves 'Other'. Futures price a January hike at about 60–70%, and one newsletter puts two or more hikes by January at about 77%. (d) YES: the committee keeps the quarterly cadence it showed with September's hike and October's skip. Goldman, Vanguard and Paulson favour this, with softer Nov/Dec data giving December and then March, which leaves a January hold. The market anchor is 41%, falling from 72% a week ago. Prediction markets put a January hold at about 42–46%, while futures put it at about 30%. Multiplying the near-certain December hike by a January-hold probability of about 38% gives roughly 0.37, slightly below market. That reflects the hawkish drift in data and Fed speakers, plus some futures weight.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7110",
+   "has_trace": true
+  },
   {
    "id": 6468,
    "scanned_at": "2026-11-05T19:15:48.274694",
@@ -35283,6 +35395,20 @@
  ],
  "Will Alibaba have the best Chinese AI model at the end of November 2026?": [
   {
+   "id": 7126,
+   "scanned_at": "2026-11-13T20:44:12.961658",
+   "date": "2026-11-13",
+   "agent": 38,
+   "market_price_t0": 37,
+   "edge": 0.010000000000000009,
+   "confidence": 0.37,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.38, 0.38). (0) Not resolved, and the live board is unreadable. The resolution page returned 403/Cloudflare. A ~36-day-old snapshot and an undated, unlabelled fetch show Qwen3.8-Max as the top Chinese model on the no-style-control view, but only by 6-9 points, inside the error bars. (a) About 17 days remain until the single Nov 30 12:00 PM ET check. (b) The market prices Alibaba at 37%, Xiaomi at ~55% and Moonshot at ~2%. Moonshot's low price despite leading the default view suggests traders read the correct no-style-control board. The October sibling market resolved Xiaomi against a 69% Alibaba favourite, so Xiaomi may lead the live board and I discount the research's partial read. (c) NO: Xiaomi's MiMo holds or takes the top spot, or Kimi K3.1 Pro (added Nov 9) or GLM-5.3 drifts above Qwen3.8-Max, and the preview-only Qwen4 never gets a stable rank. (d) YES: Qwen4 (teased, preview Nov 11-25, possibly tested anonymously as 'Kalmia') is listed and debuts high as Qwen3.8-Max did at #5, or Qwen3.8-Max simply holds its lead. These factors roughly offset, so I stay near the 37% anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7126",
+   "has_trace": true
+  },
+  {
    "id": 6480,
    "scanned_at": "2026-11-05T23:15:18.695902",
    "date": "2026-11-05",
@@ -36542,6 +36668,70 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.88, 0.90). (0) The race is not resolved. The CEC database has no 2026 results, since voting is on Nov 28, and no candidate has withdrawn or been disqualified. (a) About 15 days remain until the vote, and results normally come out the same night. (b) Status quo: incumbent KMT mayor Chang San-cheng leads DPP challenger Huang Shih-chieh in every public poll found. ETtoday has him ahead 47.4–36.0 and the 信民協會/Tai Li-an poll 36.9–32.8. The September poll from a green-leaning think tank had him up 47–26. His approval is around 53–62%, and Taoyuan leans about 4 points bluer than the national electorate (T-PVI B+4). (c) NO path: the national DPP swing visible in Taipei and Taichung carries into Taoyuan, and Huang's more motivated base turns out. In the Tai Li-an poll Huang already leads among definite voters (42.7–41.4). Soft, complacent pan-blue voters stay home, and late-campaign issues such as the Micron labour dispute and the 'Xindian mayor' jibe add to Huang's momentum. That would be a Taoyuan upset echoing 2014, when the KMT lost the city despite leading the polls. (d) YES path: a normal incumbent hold. The closest pollster himself projects a 7.6–15 point Chang win and sees no 2014-style signal, and Huang's low name recognition caps his gains. The market anchor is 92.5% and has been flat for 30 days. I shade it down to about 88% because the lead has narrowed sharply from the 2025 polls, the likely-voter cut is tied, and Taiwanese local polls have a history of misses, Taoyuan 2014 included.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/7052",
+   "has_trace": true
+  }
+ ],
+ "Will Nvidia’s market capitalization be less than $4.00T at the end of 2026?": [
+  {
+   "id": 7117,
+   "scanned_at": "2026-11-13T18:13:50.397133",
+   "date": "2026-11-13",
+   "agent": 52.5,
+   "market_price_t0": 44.7,
+   "edge": 0.07800000000000001,
+   "confidence": 0.485,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.52, 0.53). (0) Not resolved. The deciding value is the Dec 31, 2026 regular-session close times the filed share count, about 24.1B shares. That puts the $4.00T line near $165.6–166 per share. NVDA is trading around $160.8 on Nov 13 (Yahoo dataset, CNBC), roughly 3–4% below the line, so YES is the current state. (a) About seven weeks (~33 trading days) remain, including the Nov 17 earnings report (implied move about ±8%), the board probe, Senate hearings and the CEO search. (b) Status quo: if the price holds near $160, the market cap is about $3.87T and YES resolves. (c) NO path: earnings beat and raise, the 'clearing event' story and oversold bounces (RSI ~25, retail dip-buying, $235B buyback) carry the stock back above about $166 and it holds through year-end. (d) YES path: in-line earnings with a China/H200 write-down, adverse probe and hearing headlines, a sector-wide chip sell-off (AMD down about 10% today) and rate-hike pressure keep the stock capped below $166. With realized volatility around 55–65% annualized, a 1-sigma move by year-end is about ±20%. Since the stock sits only about 0.15 sigma below the line, the pure random-walk estimate gives YES about 55%. Strong downward momentum offsets mean-reversion and positive drift. The Polymarket mid of 44.7% (thin, $50k volume, wide spread) looks slightly low given that the spot price is already on the YES side, so I lean modestly above it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7117",
+   "has_trace": true
+  }
+ ],
+ "New NVIDIA CEO named by December 31, 2026?": [
+  {
+   "id": 7115,
+   "scanned_at": "2026-11-13T17:26:36.359266",
+   "date": "2026-11-13",
+   "agent": 23.5,
+   "market_price_t0": 29.5,
+   "edge": -0.06,
+   "confidence": 0.53,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.26, 0.21). (0) The condition is not met. NVIDIA's Nov 12 release and 8-K name Colette Kress only as Interim CEO and say the board \"is initiating a search\" with no timeline. Interim CEOs explicitly do not count, so a permanent successor must still be named. (a) About 48 days remain until Dec 31, 2026, and they include the Thanksgiving and Christmas holidays. (b) If nothing changes, Kress stays interim through year-end and the market resolves No. (c) No path: the recruiter-led search runs its usual 3–6 months, possibly lengthened by the Wachtell investigation, the congressional summons and the shareholder suit, and a successor is named in Feb–May 2027. Every timing source supports this: the 194-day academic average, the 90-day self-reported board estimate, Rao's \"three or four months\" and Ives's view of a year-long interim. (d) Yes path: Bloomberg reports a search firm was engaged around Nov 11, and the board has moved fast at every step so far. Heavy investor and political pressure could push it to pick a trusted insider such as Buck, or a ready outside candidate, and announce in mid-to-late December with a 2027 start date. I anchor on Polymarket's 29.5%. Kalshi's stale post-8-K snapshot (13% before Dec 16, 63% before Feb 1) interpolates to roughly 25–35% by Dec 31, which is consistent with the anchor. I shade slightly below the market because the academic and industry reference class almost uniformly points past year-end, and the holiday slowdown is real.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7115",
+   "has_trace": true
+  }
+ ],
+ "Will Teddy Riner be on the ballot for the 2027 French presidential election?": [
+  {
+   "id": 7102,
+   "scanned_at": "2026-11-13T13:26:45.117732",
+   "date": "2026-11-13",
+   "agent": 37,
+   "market_price_t0": 36.8,
+   "edge": 0.0020000000000000018,
+   "confidence": 0.44,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.41, 0.33). (0) Not resolved: the Constitutional Council site shows no 2027 list. The list is due by about 26 March 2027 after sponsorships close on 12 March, and Riner still needs 500 valid sponsorships from at least 30 departments. (a) About 4 months remain to the sponsorship deadline and about 5 months to the 18 April close. (b) Status quo: declared on 9 Nov with a funded team but no party, and only one named sponsorship promise (MP Bellay). (c) No: mayors avoid publicly backing a partyless 4%-polling outsider, rivals including Lisnard compete for the same officials, and promises fail to convert as Taubira's did in 2022 (274 signatures). (d) Yes: high fame and cross-party goodwill plus a possible Macron/Horizons mayor network yield about 500 of the 13k+ sponsorships typically filed. Anchor is the Polymarket mid of about 37%; the sibling ballot market shows about 44% and seems to price qualification conservatively (Lassalle 42%). Riner's assets justify a small move up, but the partyless base rate and the short public collection window keep me near the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7102",
+   "has_trace": true
+  }
+ ],
+ "Will the next governing coalition of Sweden include M + KD + L + C?": [
+  {
+   "id": 7099,
+   "scanned_at": "2026-11-13T12:37:44.354487",
+   "date": "2026-11-13",
+   "agent": 44,
+   "market_price_t0": 45.6,
+   "edge": -0.016500000000000015,
+   "confidence": 0.45999999999999996,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.45, 0.43). (0) Not resolved. The Riksdag homepage still shows a caretaker government as of 12–13 Nov, and two PM votes have failed: Andersson on 15 Oct and Thand Ringqvist on 3 Nov. (a) The deadline is 31 July 2027, about 8.5 months away. That leaves ample time, but the four-vote rule means a snap election could intervene, and only two attempts remain. (b) If nothing changes, the caretaker M+KD+L government continues. That is not a formed government, so it does not count, and the market hinges on the Centre Party's choice expected after Kristersson reports on 17 Nov.\n\nThe case for this outcome has real support. SD has offered to tolerate exactly a \"borgerlig fyrpartiregering\" of M+KD+L+C. Kristersson says he is explicitly aiming for a four-party cabinet. The red-green package has publicly collapsed over V's demand for ministerial posts. C voters prefer an SD-tolerated M+KD+L+C government over one with V ministers, 54% in the three-way choice. 44% of C voters expect this coalition.\n\n(c) NO: C's split districts block the Kristersson route and C picks Andersson's S+C+MP with V outside cabinet. Alternatively, C merely abstains, leaving an M+KD+L cabinet, or the votes fail and Sweden heads to a snap election.\n\n(d) YES: C's board accepts Kristersson's 13 Nov package and takes ministries. SD abstains in the third PM vote and the cabinet is named, as in the 2006 Alliance precedent.\n\nI estimate roughly a 55% chance that C sides with Kristersson and about an 80% chance it then takes cabinet seats. There is also a small path to YES after a snap election. Together these land near the market's 45.65%, so I see no unpriced information that justifies a deviation.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7099",
    "has_trace": true
   }
  ]

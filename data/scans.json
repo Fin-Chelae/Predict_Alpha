@@ -2863,6 +2863,20 @@
  ],
  "Will the next Google Gemini Pro model debut with a Humanity’s Last Exam score of 50% or higher?": [
   {
+   "id": 7142,
+   "scanned_at": "2026-11-14T01:39:54.054946",
+   "date": "2026-11-14",
+   "agent": 5,
+   "market_price_t0": 7,
+   "edge": -0.020000000000000004,
+   "confidence": 0.76,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.05). (0) Not resolved. I could not load the agi.safe.ai chart, so I cannot confirm whether any qualifying Pro model has been added. No source reports a new Pro-labelled Gemini on the site. (a) About 47 days remain until the 2026-12-31 deadline. (b) Status quo is NO. Google's Gemini 4 line is element-named (Argon, Carbon, Hydrogen) with no 'Pro' label. Several sources, including securities-class-action notices quoting Reuters, report that Gemini 3.5 Pro was cancelled. No Pro launch or GA promotion is scheduled before year-end. (c) NO: no Pro-labelled Gemini is added by December 31. Alternatively, an existing Pro such as 3.1 Pro gets added and scores about 44–47%. (d) YES: Google ships a surprise Gemini 4-class 'Pro' model, or the resolver treats Argon or Carbon (53–57% on Scale/CAIS) as Pro. The sibling Argon-specific Polymarket market and the rules' '-pro' examples both point against that reading. The market sits at 7% and the sibling 40%-threshold market at about 6.85%. Their agreement says traders see the bottleneck as whether any qualifying model appears, not its score. I agree and shade slightly lower given the short window and the cancelled 3.5 Pro.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7142",
+   "has_trace": true
+  },
+  {
    "id": 6138,
    "scanned_at": "2026-11-01T14:46:38.375146",
    "date": "2026-11-01",
@@ -3080,6 +3094,20 @@
   }
  ],
  "Russia x Ukraine ceasefire agreement by December 31, 2026?": [
+  {
+   "id": 7156,
+   "scanned_at": "2026-11-14T04:51:32.286395",
+   "date": "2026-11-14",
+   "agent": 8,
+   "market_price_t0": 10.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.71,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.08). (0) Resolution check: no source shows a qualifying ceasefire. The Nov 10–11 Abu Dhabi talks produced only an in-principle prisoner swap. Zelensky said afterwards \"there will be no ceasefire\", and RBC-Ukraine/Meduza report that Russia refused even to discuss a ceasefire. The Oleshky pause (local) and Trump's \"energy ceasefire\" (partial and not mutually announced) both fail the general-pause test. (a) About 47 days remain until 11:59 PM ET on Dec 31, 2026. No date has been set for the next trilateral round, and the APEC and G20 summit windows are unconfirmed. (b) Status quo is No: Russia still insists on security architecture and a comprehensive settlement before any ceasefire (Lavrov, Nebenzya, Peskov) and has added NATO-rollback and anti-peacekeeper conditions. (c) NO: talks drift, the POW swap happens, and any December contact yields only partial or local pauses or vague frameworks. (d) YES: a US-pressured Donbas-for-ceasefire trade signed at a December summit, using the 20-point plan's ceasefire-on-signing clause. A more plausible tail is a mutually announced, dated, general holiday truce for New Year or Orthodox Christmas agreed before Dec 31. The May 9–11 truce precedent suggests such a truce could count, which keeps the tail non-trivial. I anchor on the 10.5% market, which is falling, and shade slightly toward the 7% sibling contract given Russia's explicit rejection of ceasefire-first sequencing in the latest round.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7156",
+   "has_trace": true
+  },
   {
    "id": 6584,
    "scanned_at": "2026-11-07T04:48:16.311160",
@@ -8177,6 +8205,20 @@
  ],
  "Will Oliver Tree be the #1 searched passing on Google in the US this year?": [
   {
+   "id": 7166,
+   "scanned_at": "2026-11-14T07:54:08.529414",
+   "date": "2026-11-14",
+   "agent": 8,
+   "market_price_t0": 10,
+   "edge": -0.020000000000000004,
+   "confidence": 0.56,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.07). (0) Not resolved. Google's 2026 Year in Search pages return HTTP 404. The list is expected in early December, well before the March 31, 2027 deadline, so the 'Other' path is negligible.\n(a) About 2.5 weeks remain until the likely publication. The hard deadline is 4.5 months away.\n(b) Status quo: Oliver Tree's June 14 death is one of several big 2026 passings, but the evidence points to Dolly Parton as the favourite. Her Aug 25 death was the #1 trending search for over a week, Google itself highlighted it, and Glimpse ranked her August's top person. Hayden Panettiere is the second rival: Ahrefs puts her at 2.33M monthly searches against Tree's 1.3M, and her death had a drawn-out investigation arc.\n(c) NO: Google's trending-growth ranking puts Parton or Panettiere first, or a late-year death outscores everyone. Tree lands in the top 5 but not #1.\n(d) YES: Tree's near-zero pre-death baseline gives him the steepest growth ratio. He would be helped by his helicopter-crash virality, the youth-driven fan surge (the Liam Payne 2024 analog), his #6 Frightgeist costume ranking and recurring hoax searches.\nThe Polymarket anchor is 10%, and another venue independently prices Tree at about 10% (Parton 62%, Panettiere 18%). The research has no Google Trends head-to-head data that would justify departing from that consensus. Parton's late news cycle (her posthumous U2 duet) slightly favours her, so I shade marginally below the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7166",
+   "has_trace": true
+  },
+  {
    "id": 6174,
    "scanned_at": "2026-11-01T23:33:56.197755",
    "date": "2026-11-01",
@@ -10947,6 +10989,20 @@
  ],
  "Will Hyperliquid reach $100 by December 31, 2026?": [
   {
+   "id": 7145,
+   "scanned_at": "2026-11-14T02:30:52.041085",
+   "date": "2026-11-14",
+   "agent": 15.5,
+   "market_price_t0": 17.5,
+   "edge": -0.01999999999999999,
+   "confidence": 0.64,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.16, 0.15). (0) Not yet resolved. The Binance futures weekly klines that the resolution source read show a highest high of 98.057 (week of Sep 21, 2026) and no print at or above $100 since Nov 24, 2025. The current price is about $70, with this week's high at 76.7. (a) About 47 days remain until 23:59 ET on Dec 31, 2026. (b) If nothing changes, HYPE stays near $70, below its falling EMAs, and the market resolves No. (c) NO path: HYPE grinds lower or sideways through the Nov 29 and Dec 6 unlocks while Bitcoin stays under $70K in a risk-off tape. It never reclaims $85, let alone sets a new all-time high above $98. (d) YES path: a US-access headline, such as an ICE/Trade[XYZ] launch date or CFTC approval, triggers a squeeze of crowded shorts. Headlines produced +15–17% days on Aug 19 and Oct 29, and the token touched $93.7 only about 16 days ago. A one-minute wick then reaches $100. Getting there needs about +43% from $70. A driftless barrier model with 80–100% annualised vol gives roughly 20–27%. The current downtrend, the unlock supply and weak macro argue for shading that down. That puts me slightly under the Polymarket anchor of 17.5%, but I have no strong new information to move far from it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7145",
+   "has_trace": true
+  },
+  {
    "id": 6572,
    "scanned_at": "2026-11-07T01:40:55.400571",
    "date": "2026-11-07",
@@ -13646,6 +13702,20 @@
   }
  ],
  "Will no company have an AI model hit 1550 on Chatbot Arena in 2026?": [
+  {
+   "id": 7128,
+   "scanned_at": "2026-11-13T21:33:26.637218",
+   "date": "2026-11-13",
+   "agent": 52.5,
+   "market_price_t0": 35.5,
+   "edge": 0.17000000000000004,
+   "confidence": 0.42,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.52, 0.53) after one crux research pass. (0) No source shows a 1550+ score on the overall no-style-control board; LMArena's HF dataset (2026-11-11) has Gemini 4 Carbon at 1538.38 (CI to 1547.9, ~4.3k votes, preliminary), so the market is unresolved. (a) About seven weeks remain, to Dec 31, 2026. (b) Status quo is 'None in 2026', with the leader 12 points short. (c) NO path: Carbon's preliminary score keeps rising or swings briefly to 1550 (a transient print counts), Fable 5.2 debuts high, or a December release (Opus 5.6, a new Gemini variant, GPT-6.1) beats Carbon by 12+ points, larger than the usual 4–9 point leader steps. (d) YES path: Carbon reverts down like Argon did, Fable 5.2 lands near Anthropic's usual 1512–1514, and any December model scores lower or lacks settled votes by Dec 31. The market mid is 35.5% on a very wide 24/47 spread (last trade 43%), while the sibling company markets sum to about 44% for some company getting there, implying about 56% for None. My estimate (about 15% Carbon drift plus 20–30% from new releases) puts Yes slightly above even.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7128",
+   "has_trace": true
+  },
   {
    "id": 5860,
    "scanned_at": "2026-10-29T03:37:18.371762",
@@ -21360,7 +21430,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-13T21:25:38.969Z",
+  "last_sync": "2026-11-14T10:24:34.305Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -24579,6 +24649,20 @@
  ],
  "Will Revolut launch a USD stablecoin in 2026?": [
   {
+   "id": 7132,
+   "scanned_at": "2026-11-13T23:20:44.966282",
+   "date": "2026-11-13",
+   "agent": 11,
+   "market_price_t0": 19,
+   "edge": -0.08,
+   "confidence": 0.63,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.11). (0) The condition is not met. As of the latest checks (Pharos on 1 Nov, ESMA register on 30 Oct, Eco MiCA list on 2 Nov, Bridge reserves page on 13 Nov), Revolut has no live USD stablecoin. Its only live token is the euro-pegged EURR, and the euro peg does not qualify. USDR, the planned USD token, is named in Revolut's 15 Sep EEA terms but has no white paper, chain or date. (a) About 7 weeks remain until 31 Dec 2026. (b) If nothing changes, this resolves No. (c) NO: USDR waits for a later MiCA filing and the US bank, which targets H1 2027 with GENIUS rules effective 18 Jan 2027, so any USD launch slips into 2027. Pharos already retired its 2026 target. (d) YES: Bridge quietly notifies a USDR MiCA white paper in early or mid November, possibly not yet visible on the register. Revolut then does a phased rollout in December, copying EURR, which went live about 4 weeks after notification without a newsroom announcement. That fits the 'later this year' wording on other currencies. The market's 19% (falling, -7.5% over 30 days) is the anchor. I shade it down because the MiCA notice window is nearly closed with no visible filing, and Revolut's stated 2026 priority is the EURR EEA rollout. Some tail remains for quiet launches, register lag, and a non-EEA route.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7132",
+   "has_trace": true
+  },
+  {
    "id": 6292,
    "scanned_at": "2026-11-03T09:40:50.981787",
    "date": "2026-11-03",
@@ -26418,6 +26502,20 @@
   }
  ],
  "Will Russia capture all of Bilytske by December 31?": [
+  {
+   "id": 7152,
+   "scanned_at": "2026-11-14T04:05:55.462092",
+   "date": "2026-11-14",
+   "agent": 64,
+   "market_price_t0": 66,
+   "edge": -0.020000000000000018,
+   "confidence": 0.5,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.64, 0.64). (0) Not resolved. ISW's Nov 11 text confirms only a Russian advance in central Bilytske, and nothing shows the whole municipality shaded under a qualifying layer. I could not read the ArcGIS layers directly. The Wikipedia line saying the town was captured on 23 July repeats a false Russian MoD claim. (a) About 7 weeks remain until Dec 31, and any shading must also survive the next ISW daily update. (b) If nothing changes, the answer is No, because the town is still partly contested on ISW. (c) NO path: Ukrainian drone-covered positions in the northwest grey zone hold out. Russian effort shifts to Dobropillya or Druzhkivka, ISW keeps the remaining area as infiltration or unshaded, and its stricter geolocation standard lags DeepState past Dec 31. (d) YES path: DeepState already showed about 90% Russian control on Nov 13, rising quickly from about two-thirds, with the remainder grey rather than Ukrainian-held. Clearing the last sector plus ISW's 'Assessed Russian Advances' layer, which is often drawn generously once geolocations come in, could plausibly fill the municipality within 6 weeks. The market sits at 66% and is consistent with this. The sister contract on the same deadline trades at 88.5%, but it may use different criteria. The Nov 30 'all of' contract at 31.5% implies the crowd expects completion in December. I see no unpriced information strong enough to move far from the anchor. I shade slightly toward No for ISW's lag and the slowing Russian tempo that Ukrainian commanders report.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7152",
+   "has_trace": true
+  },
   {
    "id": 6568,
    "scanned_at": "2026-11-07T00:54:28.205665",
@@ -28946,6 +29044,20 @@
   }
  ],
  "Trump, Putin, and Xi seen together before 2027?": [
+  {
+   "id": 7130,
+   "scanned_at": "2026-11-13T22:24:34.117408",
+   "date": "2026-11-13",
+   "agent": 91.5,
+   "market_price_t0": 93,
+   "edge": -0.015000000000000013,
+   "confidence": 0.69,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.92, 0.91). (0) No source shows the condition met yet. The resolution-source read and all reports as of Nov 13 describe a Trump–Putin–Xi meeting as planned but not held, with Ushakov calling it the first in that format. (a) About 7 weeks remain until Dec 31, 2026. The decisive window is the APEC Leaders' Meeting in Shenzhen on Nov 18–19, with the Dec 14–15 G20 in Miami as a weak fallback. (b) Status quo: all three are expected in Shenzhen. TASS says Putin leads Russia's delegation, Trump has said he will meet Putin and Xi there, and a sibling market puts Trump leaving China on Nov 19 at 94.5%. The literal 'same frame' test can therefore be met by the APEC family photo even if the formal trilateral collapses into separate bilaterals, as in the 2017 Danang precedent where Trump and Putin shared only the group photo. (c) NO: Beijing refuses the unscripted format and stages back-to-back bilaterals, as it did with the May visits a week apart. In addition, Trump or Putin skips Shenzhen or the family photo because of Ukraine or Iran-war events, and Putin then declines Miami. (d) YES: the NY Post/Reuters-reported Nov 19 trilateral goes ahead, or simply the APEC leaders' photo or gala puts all three in one frame. I anchor on the Polymarket mid of 93%, which matches my estimate: roughly 90%+ that all three attend and over 95% that they share a frame given attendance. That leaves residual risk mainly from attendance and the unconfirmed group-photo arrangements, so 92%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7130",
+   "has_trace": true
+  },
   {
    "id": 6363,
    "scanned_at": "2026-11-04T11:28:47.149826",
@@ -32419,6 +32531,20 @@
  ],
  "Will Polymarket mindshare hit 75% by December 31?": [
   {
+   "id": 7158,
+   "scanned_at": "2026-11-14T05:37:57.625265",
+   "date": "2026-11-14",
+   "agent": 27.5,
+   "market_price_t0": 37.1,
+   "edge": -0.09649999999999997,
+   "confidence": 0.45999999999999996,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.27, 0.28) after one crux research pass. **(0) Resolution check.** The Kaito page could not be read; it was behind a Cloudflare block. Polymarket shows the original 65% and 70% strikes as settled, but the 75% strike is still open. So no finalized 75.00% day appears to have occurred since Jun 30, though this is inferred from Polymarket pages, not Kaito data.\n\n**(a) Time left.** About 47 days remain, to Dec 31 ET, and a spike on Dec 31 would also need the Jan 1 value published to count as final.\n\n**(b) Status quo.** If nothing changes, this resolves No. In about 137 days the series topped out somewhere between 70% and 75%. Newly added 65% and 70% strikes trade at about 76–80% and 52%, which suggests the current level is around or below 65%. The midterm election night of Nov 4 likely produced the biggest attention spike and still did not clear 75%.\n\n**(c) No scenario.** The post-midterm lull continues. Kalshi keeps gaining attention and search share; it overtook Polymarket in US search in October. Kaito's input base has also been broader since the Yaps sunset in January, and with no token launch or election left, no single day reaches 75.00%.\n\n**(d) Yes scenario.** A Polymarket-specific news shock pushes one daily reading up 10+ points in a single day. Candidates are a $1B funding round or IPO news, a POLY token announcement, a scandal or layoffs drama, or legal action. Spikes of 20+ points have happened before, including 80% days in the window ending Jun 30.\n\n**Weighing it.** The market mid is 37%, but the book is thin and wide (26/49), and the price fell 13 points this week. The strike structure (70% new at 52%, 80% at 25%) looks generous to longshots. Given the negative 137-day track record and the lack of a scheduled catalyst, I shade below the market to about 27%.\n\n**Confidence: 0.42.** I have no direct Kaito data, and the reading of the current level depends on how the new strikes are defined.\n\n**Unverified claims this forecast depends on:**\n- No finalized Kaito daily value ≥75.00% occurred between Jun 30 and Nov 14, 2026. This is inferred only from the 75% strike remaining open.\n- Kaito's current daily Polymarket mindshare is around or below 65%. This is inferred from the newly added 65% and 70% strikes, whose start dates were not confirmed.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7158",
+   "has_trace": true
+  },
+  {
    "id": 6050,
    "scanned_at": "2026-10-31T10:14:19.907049",
    "date": "2026-10-31",
@@ -33154,6 +33280,20 @@
   }
  ],
  "Will GPT Astra 6.1+ debut with an HLE-Diamond score of 70% or higher?": [
+  {
+   "id": 7171,
+   "scanned_at": "2026-11-14T09:27:00.158533",
+   "date": "2026-11-14",
+   "agent": 63.5,
+   "market_price_t0": 68,
+   "edge": -0.04500000000000004,
+   "confidence": 0.42,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.63, 0.64). (0) Not resolved. GPT-6.1 Astra was cancelled on Sept 28 and GPT-6.2 Astra is only leaked as of Nov 13-14, so no qualifying model is on the CAIS chart. One must be listed at 'high' reasoning, no tools, showing at least 70.0% the day after it first appears. (a) About 7.5 months remain until June 30, 2027, and release markets price an Astra 6.1+ launch by Dec 31 at about 98%. (b) The status quo is no qualifying model, which would resolve No, but that is unlikely given the release-timing markets. (c) No: 6.2 Astra is a post-trained refresh of the existing base and barely moves its weak knowledge partition (45.6%), debuting at about 63-68% at 'high' versus GPT-6 Astra's 59.9%; or CAIS never charts it in time. (d) Yes: the large version-to-version jumps seen on this benchmark (Sol +20, Fable +23) repeat. Competition from Fable 5.2 (74.3% on CAIS) pushes OpenAI to ship a stronger knowledge model, and since Astra already scores about 66% at max effort, a modest gain clears 70% at high. Anchor: Polymarket 68%, up about 47 points in a week, likely on information (possibly leaked benchmarks) the research did not surface. Sibling strikes (65% at 86.5%, 60% at 97%) imply a median debut in the low 70s. I shade slightly down because the needed +10 points at 'high' is unverified.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7171",
+   "has_trace": true
+  },
   {
    "id": 5640,
    "scanned_at": "2026-10-26T04:54:37.331334",
@@ -34445,6 +34585,20 @@
  ],
  "Will Russia capture all of Chasiv Yar by December 31?": [
   {
+   "id": 7174,
+   "scanned_at": "2026-11-14T10:15:07.293166",
+   "date": "2026-11-14",
+   "agent": 42,
+   "market_price_t0": 41.5,
+   "edge": 0.00500000000000006,
+   "confidence": 0.44,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.44, 0.40). (0) Resolution check: no source shows the ISW map with all of the Chasiv Yar municipality shaded as Assessed Russian-Controlled Terrain or Advances. The resolution-source read could not render the layer shading. ISW's November 10–13 reports do not mention a full-town call, so the condition is not shown as met. (a) About 47 days remain until December 31, 11:59 PM ET. (b) Status quo: as of November 1, DeepState showed about 95% Russian control, with the western outskirts in the grey zone (by its 2026 definition, areas of Russian infiltration). ISW's own shading is unknown but has apparently not completed. If nothing changes, the market resolves NO. (c) NO path: the western remnant stays contested or shaded only as infiltration. ISW stays conservative because Mashovets's November 7 withdrawal claim was never geolocated. The Russian 3rd Combined Arms Army's recent lack of momentum, and Ukraine clearing infiltrators from Mykolaivka, keep the last pocket from being formally shaded before year-end. That would fit this 31-month battle's history of premature claims. (d) YES path: the reported Ukrainian withdrawal is real. Russian forces occupy the western outskirts unopposed. Geolocated footage or Ukrainian confirmation leads ISW to shade the rest of the municipality, and the shading persists through one update, which the generous 'Assessed Russian Advances' layer makes easier. I anchor on the Polymarket price of 41.5%, which traders who can see the map have set. Its 6.5-point drop over the past week suggests ISW did not act on the November 7 claim. I nudge slightly upward because the withdrawal report plus DeepState's 95% figure make the final step short, but I have no direct read of the map.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7174",
+   "has_trace": true
+  },
+  {
    "id": 6581,
    "scanned_at": "2026-11-07T04:01:53.530759",
    "date": "2026-11-07",
@@ -35287,6 +35441,20 @@
  ],
  "Will the Fed increase interest rates by 25 bps after the March 2027 meeting?": [
   {
+   "id": 7161,
+   "scanned_at": "2026-11-14T06:21:01.116444",
+   "date": "2026-11-14",
+   "agent": 56,
+   "market_price_t0": 57,
+   "edge": -0.009999999999999898,
+   "confidence": 0.485,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.55, 0.57). (0) Not resolved: the upper bound is 4.00% after the Sept 2026 hike, and secondary reports say Oct 28 held with two hawkish dissents. The March 16–17, 2027 meeting is a normal decision meeting, with the statement due 2027-03-17. (a) About four months remain, with the Dec 8–9 and Jan 26–27 meetings and three CPI prints first. (b) Anchor: Polymarket 57% (bid 56 / ask 58), with the same event's 'no change' leg at 37%. Kalshi's March ladder independently shows about 60% for a 25 bp hike and 36% for a hold, and roughly 60 bp of cumulative tightening is priced through March. (c) NO: a 50 bp December hike, or Dec+Jan hikes followed by a pause (Goldman's terminal is 4.25–4.50%), or core CPI cooling to about 0.2% as Goldman expects for Nov/Dec. A 50 bp March move would also resolve NO. (d) YES: core stays at 0.3%+ and the Fed hikes Dec–Jan–Mar (Deutsche Bank, BofA) or Dec–hold–Mar (Goldman, UBS), with March's projections update and press conference making it a natural move point. Dealer calls and hawkish Fed speak appear already priced after this week's 21-pt jump, so I shade only slightly below market for path dependence and CPI-driven volatility.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7161",
+   "has_trace": true
+  },
+  {
    "id": 6450,
    "scanned_at": "2026-11-05T13:28:32.848159",
    "date": "2026-11-05",
@@ -35456,6 +35624,20 @@
   }
  ],
  "Will Elon Musk post 1000+ tweets in November 2026?": [
+  {
+   "id": 7148,
+   "scanned_at": "2026-11-14T03:16:22.494169",
+   "date": "2026-11-14",
+   "agent": 65,
+   "market_price_t0": 68,
+   "edge": -0.030000000000000027,
+   "confidence": 0.585,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.63, 0.67). (0) Not resolved. XTracker, the named resolution source, read 462 November posts at its 2026-11-14T03:10Z sync. That leaves 538 to reach 1000. (a) The window ends 2026-12-01 04:59:59 UTC, about 17.1 days after the sync, so about 31.5 posts/day are needed. The research's 33–34/day figure understates the time remaining. (b) Status quo: the month-to-date pace of 35.6/day projects to about 1,070. More recent windows run slower: Nov 6–13 was 32.1/day, Nov 12–14 was about 31/day, and the Nov 10–17 weekly ladder implies about 29–31/day. At that recent rate the month lands roughly 990–1,010, close to a coin flip with a slight lean to YES. (c) NO: after the midterms Musk settles into a September-like stretch (Sept missed at about 840–879), and a quiet week near 200 posts leaves the month in the 950s. (d) YES: Starship Flight 15, the Tesla/robotaxi news and the Nvidia/Huang story produce a burst week like Oct 6–13 (52/day), which clears 1,000 by about Nov 27. His trailing 12-month average of 38–45/day also gives upside skew. The market sits at 68% after falling 13.5 points in a week. Given that recent pace is only at the line and a 17-day total has a spread of roughly ±100, I shade slightly below the market to about 63%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7148",
+   "has_trace": true
+  },
   {
    "id": 6578,
    "scanned_at": "2026-11-07T03:12:59.869765",
@@ -36732,6 +36914,70 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.45, 0.43). (0) Not resolved. The Riksdag homepage still shows a caretaker government as of 12–13 Nov, and two PM votes have failed: Andersson on 15 Oct and Thand Ringqvist on 3 Nov. (a) The deadline is 31 July 2027, about 8.5 months away. That leaves ample time, but the four-vote rule means a snap election could intervene, and only two attempts remain. (b) If nothing changes, the caretaker M+KD+L government continues. That is not a formed government, so it does not count, and the market hinges on the Centre Party's choice expected after Kristersson reports on 17 Nov.\n\nThe case for this outcome has real support. SD has offered to tolerate exactly a \"borgerlig fyrpartiregering\" of M+KD+L+C. Kristersson says he is explicitly aiming for a four-party cabinet. The red-green package has publicly collapsed over V's demand for ministerial posts. C voters prefer an SD-tolerated M+KD+L+C government over one with V ministers, 54% in the three-way choice. 44% of C voters expect this coalition.\n\n(c) NO: C's split districts block the Kristersson route and C picks Andersson's S+C+MP with V outside cabinet. Alternatively, C merely abstains, leaving an M+KD+L cabinet, or the votes fail and Sweden heads to a snap election.\n\n(d) YES: C's board accepts Kristersson's 13 Nov package and takes ministries. SD abstains in the third PM vote and the cabinet is named, as in the 2006 Alliance precedent.\n\nI estimate roughly a 55% chance that C sides with Kristersson and about an 80% chance it then takes cabinet seats. There is also a small path to YES after a snap election. Together these land near the market's 45.65%, so I see no unpriced information that justifies a deviation.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/7099",
+   "has_trace": true
+  }
+ ],
+ "Will Jensen Huang rejoin NVIDIA by December 31, 2026?": [
+  {
+   "id": 7168,
+   "scanned_at": "2026-11-14T08:39:04.392051",
+   "date": "2026-11-14",
+   "agent": 8.3,
+   "market_price_t0": 11.3,
+   "edge": -0.031,
+   "confidence": 0.61,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.08). (0) The condition is not met. NVIDIA's EDGAR 8-K list and newsroom show only the Nov 12 resignation, which installs Kress as interim CEO and Jones as chair and names no role for Huang. NBC reports, from a search snippet, that a spokesperson said he will not work with NVIDIA in any capacity.\n(a) About 47 days remain until 11:59 PM ET on Dec 31, 2026, and Thanksgiving, congressional testimony and the holidays fall inside that window.\n(b) If nothing changes, the answer is No. The board is selecting a search firm, has reportedly approached Rene Haas, and has an open Wachtell investigation with no timeline. No separation, consulting or advisory arrangement was disclosed.\n(c) No scenario: the investigation runs into 2027, Huang testifies before Congress on Chinese espionage links, and further affair reports stall any reversal while the external search continues.\n(d) Yes scenario: the Wachtell inquiry quickly finds no security compromise. Altimeter and Atreides pressure, the Musk-backed petition and an employee revolt then push a board of longtime confidants to reinstate Huang, or give him a formal advisory or board seat, announced by 8-K before year-end.\nThe market anchor is 11.35%, up from about 4.6% as the pressure campaign grew. The Nov 30 sibling market trades at 3.55% and the 2027 market at 30.5%, so the curve is consistent. I shade slightly below the market because the national-security dimension, the misleading-general-counsel report and the Dec congressional calendar make a reversal by Dec 31 especially awkward. The board has given no response to the pressure.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7168",
+   "has_trace": true
+  }
+ ],
+ "Will OpenAI be the second-best AI Agent Lab at the end of November 2026?": [
+  {
+   "id": 7164,
+   "scanned_at": "2026-11-14T07:08:05.066007",
+   "date": "2026-11-14",
+   "agent": 30.5,
+   "market_price_t0": 35,
+   "edge": -0.044999999999999984,
+   "confidence": 0.51,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.30, 0.31). (0) Not resolved. The Nov 11 indexed Labs view shows Anthropic #1, Google #2 (Gemini 4 Carbon 16.90% ±0.68, ~61k sessions) and OpenAI #3 (GPT-6 Astra 14.56% ±2.03). The live page was blocked. (a) About 16 days remain until the Nov 30 noon ET check. (b) The status quo resolves NO: Carbon's score held as its sessions tripled, Google has a second model (Hydrogen 14.80%) above Astra, and Google wins ties. (c) NO path: OpenAI's twice-slipped GPT-6.2/Astra release misses the window, debuts below 16.9% as 6.1 Sol did, or is still AutoEval-flagged and excluded at the check. (d) YES path: a new Astra-tier model ships by about Nov 20–24, accumulates human votes and tops Carbon's agent score; a smaller path is Carbon regressing. My estimate is roughly 0.6 × 0.45 × 0.8 ≈ 22%, plus about 5% for noise or recalibration. That puts me slightly below the 35% market anchor, consistent with the sibling December OpenAI market at 31%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7164",
+   "has_trace": true
+  }
+ ],
+ "Will Bitcoin dip to $67,500 in November?": [
+  {
+   "id": 7138,
+   "scanned_at": "2026-11-14T00:54:13.097272",
+   "date": "2026-11-14",
+   "agent": 84,
+   "market_price_t0": 83.5,
+   "edge": 0.0050000000000000044,
+   "confidence": 0.6799999999999999,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.84, 0.84). (0) Not yet resolved: Binance kline data (data-api.binance.vision) shows the November low at 67,568 on Nov 13 UTC, $68 above the strike, and the Nov 14 low so far is 68,122. Reports of $67,555, $67,468 or '$67,500' come from other venues and do not count, and a daily low bounds every 1m low that day. (a) About 16.5 days remain until Nov 30, 11:59 PM ET. (b) Status quo: spot is about $68.3–68.8k, only 1.2–1.9% above the strike, and a single 1m wick resolves Yes. With implied vol of 35–40% (~2% per day, ~8% sigma over 16 days), a barrier-touch estimate gives roughly 0.80–0.86, consistent with the market's 83.5%. Bearish momentum tilts slightly toward Yes: five losing weeks, ETF outflows, Fed hike odds, thin books, no technical support between $67.5k and $58k, and catalysts on Nov 17, 18 and 25. (c) No: the first 200-week MA test (~$67.9k) holds as a bottom, negative funding fuels a squeeze, and benign Nvidia or Fed news lifts BTC toward $72k so it drifts above $68k all month. (d) Yes: a thin weekend book or another tech/macro shock causes a further long flush, Binance wicks 1–2% lower and sweeps the liquidations stacked below $67k. I hold slightly back because longs are flushed and oversold signals could produce a bounce.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7138",
+   "has_trace": true
+  }
+ ],
+ "FAA outage attributed to hack?": [
+  {
+   "id": 7136,
+   "scanned_at": "2026-11-14T00:08:55.706802",
+   "date": "2026-11-14",
+   "agent": 6,
+   "market_price_t0": 13.5,
+   "edge": -0.07500000000000001,
+   "confidence": 0.69,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.05). (0) Resolution check: the condition is not met. No named US official has said the outage was caused by a hack, and no federal charges have been filed. The FAA and DOT newsrooms show nothing, and on-record statements point the other way: Mullin said \"no indication… of a nefarious act,\" and Fox reported the FAA saying it does not believe it was a cyberattack. (a) About 16 days remain until the Nov 30, 11:59 PM ET deadline. (b) If nothing changes, the market resolves No. The leading account, from several anonymous-source reports (CBS, Bloomberg, CNN, MS NOW), is an L3Harris network update or a router cascade, and the FBI reportedly does not believe it was an attack. (c) NO scenario: the FAA or DOT's preliminary review names a vendor update or configuration fault, much like the 2023 NOTAM contractor file-deletion finding within about a week. (d) YES scenario: CISA or FBI forensics find unauthorized access, a compromised update, or an insider sabotage act, and Duffy, Mullin or the FBI states flatly on the record that it was a hack, or DOJ charges someone, before Nov 30. An insider sabotage case is the most plausible fast route to charges. The market anchor is 13.5%. The sister market for a confirmed equipment, software or telecom failure trades at 88%, and the foreign-actor market at 5.5%, which brackets a plausible hack range. The strict wording (hedged language and anonymous sources excluded) and the short window justify going below the market, to about 7%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7136",
    "has_trace": true
   }
  ]

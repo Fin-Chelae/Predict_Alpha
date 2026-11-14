@@ -5009,6 +5009,20 @@
  ],
  "Will Ethereum dip to $1,500 by December 31, 2026?": [
   {
+   "id": 7185,
+   "scanned_at": "2026-11-14T13:24:28.366862",
+   "date": "2026-11-14",
+   "agent": 26.5,
+   "market_price_t0": 25.1,
+   "edge": 0.013500000000000012,
+   "confidence": 0.585,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.27, 0.26). (0) Not met yet: the resolution-source read of Binance weekly and monthly klines shows the lowest ETH/USDT price since Nov 24, 2025 is $1,505.68 (June 2026), and November's low so far is $1,878. Yes needs a new 1m low at or below $1,500 before Dec 31, 2026, 23:59 ET. (a) About 47 days remain, and spot near $1,890 needs a further ~21% drop. (b) Status quo is No. (c) No: the oversold bounce (RSI ~24, slowing liquidations, near-zero funding) holds at $1,800–1,830 support, consistent with Kalshi's ~$1,760 November-low projection, and a fully priced Dec 9 hike adds little damage, so ETH ranges $1,800–2,100 into year-end as after August. (d) Yes: ETH loses $1,800 on ETF outflows, a hawkish Dec 9 FOMC (or a 50bp surprise, ~11%) hits risk assets, and a liquidation cascade wicks one 1-minute candle a few dollars under the June low. I anchor on Polymarket's 25.15%. A no-drift barrier-touch model gives ~26% at vol 57 and ~36% at vol 70; elevated realized vol argues up, while the sibling $1,750 strike at 63% (implying lower vol), support levels and deleveraging argue down. Net: a slight nudge to 27%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7185",
+   "has_trace": true
+  },
+  {
    "id": 6613,
    "scanned_at": "2026-11-07T12:33:35.299334",
    "date": "2026-11-07",
@@ -7985,6 +7999,20 @@
  ],
  "Skin cancer vaccine BLA submitted by June 30, 2027?": [
   {
+   "id": 7199,
+   "scanned_at": "2026-11-14T17:23:30.262747",
+   "date": "2026-11-14",
+   "agent": 88.5,
+   "market_price_t0": 86.5,
+   "edge": 0.020000000000000018,
+   "confidence": 0.7,
+   "category": "Health",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.88, 0.89). (0) The condition is not met yet. Merck's news page through Nov 13, 2026 and reporting dated Nov 13 show no BLA submitted or accepted, only a plan to file by year-end 2026. A stated plan does not count under the rules. (a) There are about 7.5 months left before the June 30, 2027 deadline, which leaves roughly 6 months of buffer past the stated year-end 2026 filing goal. (b) Status quo: Moderna guided on its Nov 6 Q3 call to a BLA submission in 2026 with hoped-for approval in 2027. Merck's Q3 materials list an 'anticipated regulatory filing' and active FDA engagement. Moderna is committing about $4B to 2027 spending that includes the launch, and the filing is a closely watched investor milestone, so Moderna would very likely announce it promptly. (c) NO scenario: the FDA has no precedent for licensing an individualized product, so CMC review, pre-approval inspection readiness, or FDA requests on the interim data with immature overall survival could push the filing past mid-2027. Alternatively, a late spring 2027 submission might be disclosed only at FDA acceptance, which would fall after the deadline. (d) YES scenario: the BLA is completed in December 2026 or Q1 2027 on the strength of the positive Phase 3 results (RFS HR 0.58, published in NEJM) and Breakthrough designation, then announced by press release or at Q4 earnings in February 2027. The market's 86.5% already reflects this. I lean slightly above it because two companies guide to the filing date and a slip of more than 6 months would be needed for NO.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7199",
+   "has_trace": true
+  },
+  {
    "id": 6494,
    "scanned_at": "2026-11-06T02:30:43.335165",
    "date": "2026-11-06",
@@ -8276,6 +8304,20 @@
   }
  ],
  "Pete Hegseth out as Secretary of Defense by December 31?": [
+  {
+   "id": 7196,
+   "scanned_at": "2026-11-14T16:37:25.950681",
+   "date": "2026-11-14",
+   "agent": 15,
+   "market_price_t0": 17.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.6,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.15, 0.15). (0) Not resolved. Wikipedia and Pentagon releases from Nov 10–13 still show Hegseth as the serving secretary, and no resignation or removal has been announced. (a) About 6.5 weeks remain, to Dec 31 ET. (b) If nothing changes, the answer is No. Trump has publicly backed Hegseth at least three times since the midterms (\"every intention to keep him,\" \"A plus,\" \"exonerated\"), and the House tabled Massie's impeachment articles 211-204 on Nov 10. That closes the only forced-exit route until the new Congress sits on Jan 3. (c) NO scenario: Trump holds firm, and Hegseth keeps working normally, as with the OSS memo and the medal award. The crowded lame-duck Senate calendar makes a successor impractical, and DeSantis denies any talks. The fight then moves to the Democratic House in 2027, after the deadline. (d) YES scenario: Trump brokers a Rumsfeld-style \"mutual decision\" or a firing in December. The motives would be to confirm a successor before the Senate flips, to dodge a 2027 impeachment and oversight fight, or to trade the exit for NDAA cooperation. The Atlantic's leaks of private doubts and Trump's history of firing Esper after an election and losing Mattis in December make this plausible. I anchor on Polymarket's 17.5%, which fell 15 points in the past week as the impeachment threat faded. The Nov 30 contract at 5% implies roughly 12% for December alone. Since Trump keeps reaffirming support and the reported doubts are thinly sourced, I shade slightly below the market to 15%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7196",
+   "has_trace": true
+  },
   {
    "id": 6555,
    "scanned_at": "2026-11-06T20:43:23.139296",
@@ -9096,6 +9138,20 @@
   }
  ],
  "Will NVIDIA be the largest company in the world by market cap on December 31?": [
+  {
+   "id": 7177,
+   "scanned_at": "2026-11-14T10:59:43.413503",
+   "date": "2026-11-14",
+   "agent": 8.5,
+   "market_price_t0": 8.5,
+   "edge": -1.3877787807814457e-17,
+   "confidence": 0.69,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.08). (0) Not resolved. CompaniesMarketCap and several secondary sources (Nov 12–13, 2026) rank Apple #1 at about $5.18T and NVIDIA #2 at about $3.93T. NVIDIA must overtake Apple at the Dec 31 close as judged by a consensus of credible reporting. (a) About 6.5 weeks remain, roughly 33 trading days. (b) If nothing changes, Apple stays #1 and the market resolves NO. NVIDIA needs to outperform Apple by about 30–32%, and Apple is at record highs. (c) NO scenario: NVIDIA's Nov 17 earnings only stabilise the stock and the CEO search drags past year-end. Downgrades and the possible Huang-stock overhang cap any rebound, while Apple holds near $5T or more. (d) YES scenario: a strong beat and raised guidance land on a stock at about 12x forward earnings. A credible permanent CEO is named or the board probe clears, NVIDIA re-rates toward $215 or more, and AI-hedge money rotates out of an expensive Apple. Using the cited ~81% implied volatility (likely inflated by the shock), the relative move is about one sigma, roughly 15%. With more normal longer-dated volatility of about 55–60%, it falls to about 8%. The Polymarket mid of 8.5% sits within that range. I find no unpriced information that justifies a large deviation, so I stay close to the anchor at 9%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7177",
+   "has_trace": true
+  },
   {
    "id": 6607,
    "scanned_at": "2026-11-07T10:55:09.502481",
@@ -10785,6 +10841,20 @@
  ],
  "Will Bitcoin dip to $45,000 by December 31, 2026?": [
   {
+   "id": 7190,
+   "scanned_at": "2026-11-14T15:02:10.908185",
+   "date": "2026-11-14",
+   "agent": 5.5,
+   "market_price_t0": 7.1,
+   "edge": -0.015999999999999993,
+   "confidence": 0.64,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) Not resolved. Binance kline data from the data-api.binance.vision mirror puts the window low at 57,800.19 USDT (week of June 29, 2026), well above $45,000. The November low so far is about $65.8k. (a) About 47 days remain, until Dec 31, 2026 23:59 ET. (b) If the status quo holds, the market resolves No: BTC would need a further drop of about 32% to touch $45k. (c) NO: BTC stalls in the $55–65k realized-price zone, and the Dec 8–9 FOMC hike, largely priced in, does not set off a cascade. (d) YES: a hawkish FOMC and continued ETF outflows break the $57.7k low and the roughly $52–54k realized price, and a leveraged long liquidation (perp open interest near multi-year highs) wicks Binance BTC/USDT to $45k. A $45k touch also fits the halving-cycle and head-and-shoulders targets that some analysts have named. The anchor is Polymarket at 7.1%. The sibling strikes ($55k at 25.5%, $60k at 54.5%) imply roughly 45–50% volatility with fat tails. A barrier model at those vols gives about 3–5% for $45k, while the momentum, extreme fear, falling stablecoin supply and cycle-timing analogues argue for some tail premium. Long-shot Yes contracts on Polymarket tend to be slightly overpriced, so I shade a little below the market to about 5.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7190",
+   "has_trace": true
+  },
+  {
    "id": 2197,
    "scanned_at": "2026-08-29T20:51:41.121323",
    "date": "2026-08-29",
@@ -11816,6 +11886,20 @@
   }
  ],
  "Will Solana dip to $60 by December 31, 2026?": [
+  {
+   "id": 7182,
+   "scanned_at": "2026-11-14T12:38:22.988314",
+   "date": "2026-11-14",
+   "agent": 30.5,
+   "market_price_t0": 34.4,
+   "edge": -0.038500000000000034,
+   "confidence": 0.585,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.31, 0.30). (0) Not resolved. Binance's own kline mirror (data-api.binance.vision) puts the window low at $60.13, set in the week of June 1, 2026. A separate settlement record for a June contract cites $60.41. Both sit just above the $60.00 strike, and the market is still live, so the condition has not been met. (a) About 47 days remain until Dec 31, 2026, 23:59 ET. (b) If nothing changes, SOL sits near $75.8 and stays above $60, so the market resolves No. (c) No case: SOL is oversold (RSI about 21), bounces off the $70–77 supports, and drifts sideways or higher through year-end, as it did after the June low. (d) Yes case: the hot-CPI and Fed-hike risk-off continues, ETF outflows persist and BTC breaks below $67k. A liquidation wick then takes SOL through $70, $64.6 and $61.7 into the June-low zone, and a single 1-minute print at or below $60 is enough. The pricing arithmetic is a driftless barrier-touch estimate: a ~21% drop at 55–65% annualized volatility over 47 days gives roughly 25–32%. Downtrend momentum and fat tails push that up somewhat, while implied vol near 50–55% shows options are not pricing a crash. The Polymarket anchor of 34% (bid 33 / ask 36) already reflects the recent momentum move of +20 points in a week. I land slightly below it, at about 31%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7182",
+   "has_trace": true
+  },
   {
    "id": 6599,
    "scanned_at": "2026-11-07T08:41:02.026850",
@@ -14977,6 +15061,20 @@
  ],
  "Russia x Ukraine ceasefire by December 31, 2026?": [
   {
+   "id": 7180,
+   "scanned_at": "2026-11-14T11:49:52.171048",
+   "date": "2026-11-14",
+   "agent": 4.8,
+   "market_price_t0": 7.1,
+   "edge": -0.023999999999999987,
+   "confidence": 0.76,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.04). (0) No qualifying ceasefire is in effect as of Nov 13–14, 2026. The resolution-source read and AP, Kyiv Post and Critical Threats all show strikes continuing, and the Abu Dhabi talks on Nov 10–11 produced only a prisoner-swap agreement. (a) About 47 days remain. The rules let a general ceasefire start as late as 11:59 PM EET on Dec 31 and keep the market open while the 10-day count runs, so the window is slightly wider than the 'start by Dec 22' framing in the research. (b) If nothing changes, this resolves No. Russia's delegation had no mandate even for a narrow energy truce, Putin then refused it through Witkoff and Kushner, and Zelensky says a ceasefire is 'not supported personally by Putin.' Lavrov and Medinsky restated maximalist terms, Moscow rejects a ceasefire-first sequence, and there is a zero base rate of 10-day mutual general truces in about 57 months of war. (c) The likely No path: talks drift, Russia presses its winter campaign, and any holiday pause is short or one-sided. Russia rejected a Christmas truce in 2025 and the 2026 holiday truces lasted 32 hours and 3 days. (d) The Yes path: Trump uses the Shenzhen meeting on Nov 18–19 or a follow-up call to win a general freeze from Putin in exchange for sanctions relief or oil access, Kyiv accepts it along the current line, and it starts before year-end and holds 10 days. No source shows a draft text or any softening. The Polymarket anchor is 7.15% and already fell 3.35 points this week. The sharper evidence of Putin's explicit refusal after Abu Dhabi supports shading slightly below the market to about 5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7180",
+   "has_trace": true
+  },
+  {
    "id": 6603,
    "scanned_at": "2026-11-07T10:10:08.451788",
    "date": "2026-11-07",
@@ -16546,6 +16644,20 @@
   }
  ],
  "Will Bitcoin outperform Gold in 2026?": [
+  {
+   "id": 7204,
+   "scanned_at": "2026-11-14T19:02:04.329493",
+   "date": "2026-11-14",
+   "agent": 19,
+   "market_price_t0": 26.5,
+   "edge": -0.07500000000000001,
+   "confidence": 0.61,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.19, 0.19). (0) Resolution check: the market has not resolved. Both 2026 12M candles stay open until Dec 31, and the resolution-source read of TradingView's symbol pages shows BTCUSDT at −23.2% YTD and XAUUSD at −10.2% YTD as of Nov 14. Bitcoin therefore trails gold by about 13 points. Since then BTC has slipped further to about $65.6k, roughly −25% from its ~$87.5k open, while gold sits near $3,884, about −10% from ~$4,320. (a) About 47 days remain until the candles close on Dec 31. (b) Status quo is No: if prices stay where they are, gold wins by about 13–15 points. (c) A NO path: BTC keeps sliding toward $57–60k on ETF outflows and a priced-in Dec 9 Fed hike, while gold holds the $3,850–3,900 support, and the gap widens. (d) A YES path: a dovish or cooler-CPI surprise sparks a BTC short squeeze toward the $80k call strikes while gold breaks support toward the $3,300–3,500 analyst targets. The Sept 2026 precedent shows a ~15-point relative swing like this can happen in two weeks. On ratio terms, BTC/gold is about 16.9 oz against a starting value of about 20.25, so the ratio must rise roughly 20%, not the 30% the NO report claimed. With ~46% relative volatility (BTC 44%, gold 29%, correlation 0.25), that move is about 1.1 sigma over seven weeks, which implies roughly 13–17%. Adding fat tails and possibly elevated current BTC volatility puts it near 18–20%. The Polymarket anchor of 26.5% looks somewhat rich, possibly lagging today's drop below $66k, and both the Tokenist 'leader on Nov 10 stays ahead' pattern and the bearish momentum argue against Yes, so I shade below the market to about 19%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7204",
+   "has_trace": true
+  },
   {
    "id": 3199,
    "scanned_at": "2026-09-19T19:17:40.433739",
@@ -21430,7 +21542,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-14T10:24:34.305Z",
+  "last_sync": "2026-11-14T19:55:42.642Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -34463,6 +34575,20 @@
  ],
  "Will the Democratic Progressive Party (DPP) win the most head of local government elections in the 2026 Taiwan local elections?": [
   {
+   "id": 7188,
+   "scanned_at": "2026-11-14T14:13:29.063536",
+   "date": "2026-11-14",
+   "agent": 30,
+   "market_price_t0": 30.1,
+   "edge": -0.0010000000000000009,
+   "confidence": 0.51,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.29, 0.31). (0) Not resolved. The vote is on 28 Nov 2026, and the CEC database shows no 2026 results. (a) The election is 14 days away, and polls cannot be published after 18 Nov. (b) Status quo: the KMT holds 14 seats to the DPP's 5, and the KMT has finished first in every cycle except 2014, so NO is the default. (c) NO scenario: the DPP holds its 5 and adds Changhua, Yilan and Chiayi City to reach about 8, possibly 9 with New Taipei. The KMT keeps Taoyuan, Miaoli, Nantou, Yunlin, Kinmen, Lienchiang, Taichung, Taitung and Taipei, plus Keelung or Hsinchu County, for about 10–12. (d) YES scenario: the late-October/November shift toward the DPP becomes a correlated wave. The DPP takes New Taipei plus Keelung and/or Hsinchu County, and KMT-leaning Hualien or Hsinchu City go to independents. That produces a tie or DPP lead, and a tie resolves YES alphabetically. My seat-by-seat count from Templeman's ratings and recent polls puts the DPP at about 8–9 and the KMT at about 11–12. A YES therefore needs 2–3 lean-KMT seats to flip. That is plausible given the momentum, KMT infighting around Cheng Li-wun and Lai's decent approval, but it is not the central case. I anchor on Polymarket at 30% (KMT sibling at 68.5%) and shade slightly lower, because every published seat-count forecast has the KMT first and the pro-DPP polls are partisan and conflicting.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7188",
+   "has_trace": true
+  },
+  {
    "id": 6553,
    "scanned_at": "2026-11-06T19:53:47.929391",
    "date": "2026-11-06",
@@ -34524,6 +34650,20 @@
   }
  ],
  "Will Ko Chih-en win the next Kaohsiung Mayor election?": [
+  {
+   "id": 7193,
+   "scanned_at": "2026-11-14T15:47:36.957757",
+   "date": "2026-11-14",
+   "agent": 14.5,
+   "market_price_t0": 15.1,
+   "edge": -0.005999999999999978,
+   "confidence": 0.61,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.15, 0.14). (0) Resolution check: the vote is on Nov 28, 2026. The CEC database shows no results, so nothing is resolved. Ko must win the vote and be certified.\n(a) About two weeks remain. The CEC poll-publication blackout starts Nov 18, so no new public polls can shift perceptions before voting.\n(b) Status quo favors No. Every scientific, independently sponsored poll since October shows Lai ahead: UDN +7 with 26% undecided, and Fengcan/Storm +20.4. Lai also led 49–21 on expected winner. The DPP has held Kaohsiung in 6 of the last 7 contests, Ko lost by 18 points in 2022, and outgoing mayor Chen's approval is around 68%.\n(c) No scenario: DPP identifiers consolidate behind Lai, undecided voters split roughly evenly, and Lai wins by mid-to-high single digits or more.\n(d) Yes scenario: a 2018-style upset. TPP voters and neutrals, who lean to Ko in UDN, break heavily her way, and the narrow DPP primary leaves a soft DPP base (only 82% loyal to Lai). She also benefits from a KMT-favorable national mood and from post-debate momentum the polls missed.\nOn the Yes side there are hints of tightening: an ETtoday poll reportedly at a 0.1-point gap, unscientific street and online polls, and Ko's internal polls. These are weak or partisan evidence, and phone polls consistently show Lai ahead.\nThe Polymarket anchor of about 15% (Lai's market at about 84.5%) looks reasonably calibrated, so I stay near it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7193",
+   "has_trace": true
+  },
   {
    "id": 6610,
    "scanned_at": "2026-11-07T11:44:31.181108",
@@ -35670,6 +35810,20 @@
   }
  ],
  "Next White House Press Secretary announced by November 30, 2026?": [
+  {
+   "id": 7206,
+   "scanned_at": "2026-11-14T19:52:42.322100",
+   "date": "2026-11-14",
+   "agent": 27,
+   "market_price_t0": 30,
+   "edge": -0.02999999999999997,
+   "confidence": 0.575,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.27, 0.27). (0) Not resolved. As of Nov 13–14, whitehouse.gov briefings, Wikipedia (post \"vacant since October 16\"; Zacharia's successor listed as \"TBD\") and Barrett Media all show no replacement announced. Trump's Nov 7 Dana White \"offer\" was withdrawn as a joke by Nov 9, so it should not count.\n\n(a) About 16 days remain until 11:59 PM ET on Nov 30, and the window includes Thanksgiving week.\n\n(b) If nothing changes, this resolves NO. The White House has run with rotating briefers for most of the last 11 weeks, which lowers the urgency to name someone.\n\n(c) NO path: Miller, chief of staff since Nov 9, spends his early weeks on midterm fallout and the Huang scandal, while Trump stays \"not sold\" on Ferguson. The pick slips into December, or an in-house name is labelled acting or interim, which does not count.\n\n(d) YES path: Fox reported Nov 10 that Trump is \"closing in\" and intends to choose \"soon,\" from a concrete shortlist of Ferguson, Jennings, Cheung, Boyle and Fleischer. Trump could post a permanent pick abruptly on Truth Social before Nov 30.\n\nThe Polymarket anchor is 30% and falling (-8.5% over 7 days), consistent with time decay and no new signals. The Dec 31 market at about 68.5% implies a real but back-loaded hazard. Past first-term successors were named quickly, but the second-term search took about 8 weeks. I shade slightly below the market for the holiday and decay, with no imminent-announcement report since Nov 10.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7206",
+   "has_trace": true
+  },
   {
    "id": 6633,
    "scanned_at": "2026-11-07T19:17:27.445022",
@@ -36978,6 +37132,22 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.07, 0.05). (0) Resolution check: the condition is not met. No named US official has said the outage was caused by a hack, and no federal charges have been filed. The FAA and DOT newsrooms show nothing, and on-record statements point the other way: Mullin said \"no indication… of a nefarious act,\" and Fox reported the FAA saying it does not believe it was a cyberattack. (a) About 16 days remain until the Nov 30, 11:59 PM ET deadline. (b) If nothing changes, the market resolves No. The leading account, from several anonymous-source reports (CBS, Bloomberg, CNN, MS NOW), is an L3Harris network update or a router cascade, and the FBI reportedly does not believe it was an attack. (c) NO scenario: the FAA or DOT's preliminary review names a vendor update or configuration fault, much like the 2023 NOTAM contractor file-deletion finding within about a week. (d) YES scenario: CISA or FBI forensics find unauthorized access, a compromised update, or an insider sabotage act, and Duffy, Mullin or the FBI states flatly on the record that it was a hack, or DOJ charges someone, before Nov 30. An insider sabotage case is the most plausible fast route to charges. The market anchor is 13.5%. The sister market for a confirmed equipment, software or telecom failure trades at 88%, and the foreign-actor market at 5.5%, which brackets a plausible hack range. The strict wording (hedged language and anonymous sources excluded) and the short window justify going below the market, to about 7%.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/7136",
+   "has_trace": true
+  }
+ ],
+ "Will Ethereum dip to $1,800 in November?": [
+  {
+   "id": 7201,
+   "scanned_at": "2026-11-14T18:13:18.713988",
+   "date": "2026-11-14",
+   "agent": 86,
+   "market_price_t0": 83,
+   "edge": 0.030000000000000027,
+   "confidence": 0.72,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.86, 0.86). (0) Not yet resolved. The resolution-source read of Binance ETHUSDT daily klines, fetched from Binance's own data mirror, puts the November low at 1811.29 on Nov 14. That is only about $11 above the $1,800 strike, with spot near $1,838 in the still-open candle. No source shows a print at or below $1,800 yet. (a) About 16.5 days remain, to 23:59 ET on Nov 30, and YES can trigger on any single 1-minute wick. (b) If nothing changes, price stays above $1,800 and the market resolves No. But the strike is only about 2% below spot and 0.6% below today's low. With ETH volatility around 52–55% annualized, the reflection-principle touch probability over 16 days is roughly 85%. (c) NO: oversold readings (Fear & Greed at 13, daily RSI around 24), neutral funding and a small ETF inflow produce a capitulation bounce from about $1,811. ETH then holds above $1,800 for the rest of the month as macro fears ease. (d) YES: BTC keeps making lower lows below its 200-week average, alongside hawkish yields and roughly 90% odds of a December hike. Negative dealer gamma and liquidation clusters around $1,800–1,860 then push ETH through $1,800 in a single wick, perhaps over this weekend. The market anchor is 83% (82/84 bid/ask). I lean slightly above it because the Binance low is already closer to the strike (1811) than most web reports suggested, and momentum is still downward.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7201",
    "has_trace": true
   }
  ]

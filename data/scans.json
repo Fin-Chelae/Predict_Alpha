@@ -1699,6 +1699,20 @@
  ],
  "Will no listed leader be out before 2027?": [
   {
+   "id": 7275,
+   "scanned_at": "2026-11-15T14:49:50.608750",
+   "date": "2026-11-15",
+   "agent": 62,
+   "market_price_t0": 59.5,
+   "edge": 0.025000000000000022,
+   "confidence": 0.56,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.62, 0.62). (0) Not resolved. The Polymarket event (653446) is still active and closed:false, and no source reports any listed leader permanently out as of 2026-11-15. (a) About 46 days remain until 2026-12-31 11:59 PM ET. (b) If nothing changes, Netanyahu stays caretaker, Sánchez stays acting PM, and the market resolves 'None before 2027' (Yes). (c) The main path to No is Eisenkot closing a deal with UTJ plus Ra'am abstention or outside support (Israeli confidence votes need only more votes for than against), getting Ohana replaced as speaker, and swearing in a government before Dec 31. The mandate runs to Dec 6, extendable to Dec 20. (d) The path to Yes is talks stalling over draft exemptions, with Liberman vetoing reliance on Ra'am. That leaves Netanyahu caretaker through a second mandate or new elections, none of which counts. Spain cannot invest a new PM before the Cortes reconvene on Dec 23, and Lecornu has repeatedly survived censure; a censured PM would stay on as caretaker anyway. I anchor on the 59.5% market and its trend toward None. I nudge slightly higher because the procedural lags (speaker vote, seven-day swearing-in scheduling, extension to Dec 20) leave little room. Netanyahu stays the main risk at roughly 30%, with about 5-7% in tail risks from the other leaders, including the ten unseen names.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7275",
+   "has_trace": true
+  },
+  {
    "id": 4306,
    "scanned_at": "2026-10-09T21:37:51.235263",
    "date": "2026-10-09",
@@ -5280,6 +5294,20 @@
   }
  ],
  "Will OpenAI announce earbuds or headphones in 2026?": [
+  {
+   "id": 7261,
+   "scanned_at": "2026-11-15T10:54:55.649574",
+   "date": "2026-11-15",
+   "agent": 5,
+   "market_price_t0": 7,
+   "edge": -0.020000000000000004,
+   "confidence": 0.73,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.05). (0) Not resolved. OpenAI's news page, rendered Nov 15, shows no hardware or audio announcement among its latest posts, and no secondary source reports an official earbud or headphone reveal. (a) About 6.5 weeks remain until the Dec 31, 2026 deadline. (b) The status quo is No: there is no scheduled hardware event, no FCC trail for an audio device, and no official statement naming a form factor. (c) No scenario: OpenAI either delays any reveal into 2027 because of the Apple trade-secret case (discovery underway, injunction 'highly likely'), or unveils only the reported doughnut-shaped speaker. Bloomberg's reporting and OpenAI's own court filing say the first product is not in-ear or wearable. (d) Yes scenario: a December 'family of devices' reveal shows Dime/Sweetpea earbuds alongside the speaker, or a partner-built Codex-branded headset appears on Supply Co. Neither is reported. The market sits at 7% (bid 5 / ask 9), falling steadily. The September earbud leak date passed with no announcement, and the litigation risk adds to the downside. I shade slightly below the market at about 5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7261",
+   "has_trace": true
+  },
   {
    "id": 6680,
    "scanned_at": "2026-11-08T09:31:43.596224",
@@ -10122,6 +10150,20 @@
   }
  ],
  "AI bubble burst in 2026?": [
+  {
+   "id": 7267,
+   "scanned_at": "2026-11-15T12:25:25.816115",
+   "date": "2026-11-15",
+   "agent": 7.5,
+   "market_price_t0": 8,
+   "edge": -0.00449999999999999,
+   "confidence": 0.665,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.07). (0) Not met: NVDA is about 32% below its all-time-high close ($162.85 vs $239.24; trigger about $119.6), SOXX is about 32% below its high ($149.30 vs $218.34; trigger about $131), the H100 index is $3.13 and rising, and there are no lab bankruptcy or OpenAI acquisition signals. SMCI is about 77% below its split-adjusted 2024 all-time-high close of $118.81, so the supplier trigger is plausibly already met literally, leaving YES needing both NVDA and SOXX. (a) About 6.5 weeks remain until Dec 31, 2026. (b) Status quo resolves No. (c) No: Nvidia's Nov 17 earnings and the Nov 19 Anthropic IPO steady the sector and NVDA holds above $130. (d) Yes: a guide-down plus fears of 2027 capex cuts drive NVDA down another ~27% to about $120, which mechanically pushes SOXX below $131, giving three triggers with SMCI. A barrier-hit estimate at the current elevated volatility gives roughly 8-18%, discounted for the lack of precedent for drawdowns this fast and for the within-AI rotation seen this week. That keeps me near the market's 7.95% anchor; I have no unpriced information to move off it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7267",
+   "has_trace": true
+  },
   {
    "id": 6644,
    "scanned_at": "2026-11-07T22:48:58.679978",
@@ -21598,7 +21640,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-15T10:52:18.921Z",
+  "last_sync": "2026-11-15T20:23:40.504Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -23721,6 +23763,20 @@
  ],
  "U.S. enacts AI safety bill before 2027?": [
   {
+   "id": 7270,
+   "scanned_at": "2026-11-15T13:14:56.159263",
+   "date": "2026-11-15",
+   "agent": 8.5,
+   "market_price_t0": 10,
+   "edge": -0.015000000000000013,
+   "confidence": 0.64,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.08). (0) No qualifying bill has been signed: the 11 Nov 2026 tracker and Congress.gov listings show all AI safety bills at Introduced or committee stage only. (a) About 6.5 weeks remain, roughly 20 legislative days, crowded by the Dec 11 funding deadline, a likely CR and the unconferenced FY27 NDAA. (b) Status quo is No: BGR rates AI and kids' safety legislation 'unlikely to pass', KOSA, GUARD and CHATBOT have no floor time amid a House-Senate split, and preemption talks have no agreed text despite Trump's reported year-end wish. (c) NO: a clean CR passes, and the NDAA is either signed late December with only DoD-internal autonomous-weapons oversight that the resolver does not count, or slips past Dec 31. (d) YES: the NDAA keeps the human-judgment and human-oversight sections, is signed by Dec 31, and the resolver reads them literally as human-in-the-loop requirements; or a GUARD/KOSA chatbot restriction rides on must-pass legislation. The 2025 version of this market resolved No despite the AI-laden FY26 NDAA being signed in December 2025, which suggests NDAA provisions are not treated as qualifying. That limits the main YES path, so I stay near the 10% market mid at 9%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7270",
+   "has_trace": true
+  },
+  {
    "id": 5352,
    "scanned_at": "2026-10-22T11:03:26.304687",
    "date": "2026-10-22",
@@ -25240,6 +25296,20 @@
   }
  ],
  "SBF released from custody in 2026?": [
+  {
+   "id": 7277,
+   "scanned_at": "2026-11-15T15:39:48.708617",
+   "date": "2026-11-15",
+   "agent": 2.5,
+   "market_price_t0": 6.2,
+   "edge": -0.0365,
+   "confidence": 0.8300000000000001,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.03, 0.03). (0) The condition has not been met. The live BOP Inmate Locator, fetched 2026-11-15, lists Bankman-Fried (37244-510) at FCI Lompoc I with no actual release date and a projected release in 2043-44, and November 14 coverage still describes him as jailed. (a) About 46 days remain until the December 31, 2026 deadline. (b) If nothing changes he stays in BOP custody and the market resolves NO. (c) The NO path is the default: the direct appeal is exhausted (affirmed June 12, mandate issued August 4), and the Rule 33 motion was denied. The Supreme Court cert petition cannot reach conference before the government's December 16 response, and a grant would not free him anyway. Compassionate release or home confinement is implausible for a healthy 34-year-old who has served about 2.6 years. (d) The only YES path is an out-of-process Trump commutation, perhaps in a year-end clemency batch. That would run against Trump's January 2026 statement, repeated by the White House in February and June, against the unanimous Senate S.Res. 772, and against crypto-industry hostility. His pending DOJ application asks only for a post-sentence pardon. The venue mid is 6.15%, but the spread is wide (bid 2%, ask 10%) and the last trade was 2%. The sibling 'Trump pardon SBF before 2027' market sits at 2.25%. I found no news explaining the recent upward drift, so I price below the mid, near the pardon market, leaving a small tail for Trump's unpredictable clemency habits.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7277",
+   "has_trace": true
+  },
   {
    "id": 3249,
    "scanned_at": "2026-09-20T16:58:45.766638",
@@ -27332,6 +27402,20 @@
   }
  ],
  "Will AI solve 0 more Millennium Prize Problems in 2026?": [
+  {
+   "id": 7279,
+   "scanned_at": "2026-11-15T16:25:31.457832",
+   "date": "2026-11-15",
+   "agent": 87.5,
+   "market_price_t0": 86,
+   "edge": 0.015000000000000013,
+   "confidence": 0.62,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.88, 0.87). (0) The condition is not met and cannot yet be locked in. The resolution-source read and every tracker (Papex as of Nov 11, felloai, explainx) show no eligible lab announcing a full solution to BSD, Hodge, P vs NP, Riemann or Yang-Mills with mass gap, so the count is 0. Navier-Stokes, OpenAI's only full claim (Sept 8), is excluded. (a) About 46 days remain, to Dec 31, 2026 11:59 PM ET. (b) If nothing changes, this resolves Yes (0 more). Every lab statement on a qualifying problem carries an explicit limiter: Yang-Mills is existence-only, with the Gross panel calling the mass gap untouched; the Riemann result is quasi-RH at 7/8; the ETH refutations are not P vs NP; the Hodge and BSD papers cover special cases, and some were withdrawn. (c) NO would need something like OpenAI's in-progress Nov 4 Yang-Mills submission turning out to claim the mass gap, or a surprise full Riemann, Hodge or BSD announcement from OpenAI or Anthropic in December, worded as 'solved'. (d) YES needs labs to keep their scoped, review-first posture through year-end, which is the default. The pace of AI math claims this autumn is unusually fast, and the open Yang-Mills submission adds real tail risk. Still, nothing is signalled, and the recent Yang-Mills cycle took about 7 weeks from internal result to announcement, which is longer than the window left. I anchor on the 86% market; sibling markets (1 more at 7.5%, 2 more at 2.7%, 'another solution by 2026' at 16%) imply roughly 10-14% for NO. I nudge slightly toward Yes because no candidate full claim has been signalled.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7279",
+   "has_trace": true
+  },
   {
    "id": 6616,
    "scanned_at": "2026-11-07T13:25:33.982571",
@@ -29646,6 +29730,20 @@
   }
  ],
  "Will the USS George Washington depart CENTCOM by November 30, 2026?": [
+  {
+   "id": 7264,
+   "scanned_at": "2026-11-15T11:39:25.682785",
+   "date": "2026-11-15",
+   "agent": 29.5,
+   "market_price_t0": 37,
+   "edge": -0.07499999999999996,
+   "confidence": 0.5,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.28, 0.31). (0) Nothing shows the condition already met. The Nov 9 USNI tracker puts George Washington in the Arabian Sea, and reports through Nov 13 still place it in theater. No Navy, CENTCOM or INDOPACOM statement reports a departure.\n(a) There are about 15 days left until Nov 30, 11:59 PM ET, plus a 7-day confirmation window in which ambiguity resolves No.\n(b) If nothing changes, the ship stays in CENTCOM, which resolves No.\n(c) NO scenario: Roosevelt enters CENTCOM around Nov 17–22. CENTCOM then runs the reported \"few weeks\" three-carrier overlap while Iran strike decisions are pending, or simply repeats the Lincoln pattern of leaving about three weeks after the relief arrived. Either way the Washington exits in December. A quiet exit that goes unconfirmed in time would also resolve No.\n(d) YES scenario: Roosevelt arrives mid-November and turnover is quick, helped by Trump's de-escalation signals and the Navy wanting its only forward-deployed carrier back in the Pacific. The Washington then clears the Indian Ocean boundary by about Nov 28, and USNI or INDOPACOM confirms it.\nThe anchor is the Polymarket price of 37%, which is falling (-9.5% over 7 days). A related market prices three carriers in CENTCOM on Nov 30 at 77.5%. Bush has been told to plan for 12 months, so a third carrier on Nov 30 most plausibly means the Washington is still there. That implies roughly 20–25% for a Washington departure.\nCombining the anchor, the Lincoln precedent, the tight timing and the confirmation lag, I shade below the market to 28%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7264",
+   "has_trace": true
+  },
   {
    "id": 3965,
    "scanned_at": "2026-10-05T14:15:30.651701",
@@ -37410,6 +37508,86 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.35, 0.36). (0) The event is not resolved: the 2026 Year in Search page returns 404 and the hub still shows the 2025 list, where d4vd was #1 and Huang does not appear. (a) Google has released the list in early-to-mid December in recent years, so it should arrive in about 3–4 weeks, well before the March 31, 2027 fallback. (b) There is no running ranking, so the status quo rests on the markets: Polymarket at 38.5% (up 20 points this week) and Kalshi's same-question market at about 30%, with Huang ahead of Clancy at 18%. (c) NO: Google's methodology compares Jan 1–~Nov 25 against the prior year, and Huang's high 2025 baseline plus a scandal concentrated in about four weeks may lose to a full-year breakout such as Clancy, Haaland, Bad Bunny or an unknown name. Search volume could also split toward 'Nvidia' or 'Alice Huang'. (d) YES: the resignation over affairs with an alleged Chinese spy is a global story with multiple search peaks (Oct 29 NYT, Nov 8 admission, Nov 12 resignation) and possible further catalysts in the window: Nov 17 earnings and Congress requests for Nov 26–Dec 3. Trump's 2024 #1 shows a high baseline does not rule out #1, and d4vd's late-2025 scandal fits the template. Weighing the Kalshi crowd and the baseline-ratio concern, I shade slightly below Polymarket.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/7216",
+   "has_trace": true
+  }
+ ],
+ "Will 3 Jensen Huang affairs be reported by December 31?": [
+  {
+   "id": 7289,
+   "scanned_at": "2026-11-15T19:44:28.249838",
+   "date": "2026-11-15",
+   "agent": 63,
+   "market_price_t0": 64.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.51,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.63, 0.63). (0) Not resolved. This contract is the \"exactly 3\" bucket of a ladder, so it resolves Yes only if no qualifying outlet reports a fourth, clearly distinguished person. The resolution-source check and all three research dimensions find no such report as of Nov 15; the only fourth-affair chatter comes from a low-quality aggregator that itself says no credible reporting exists. (a) About 6.5 weeks remain, to Dec 31, 11:59 PM ET. (b) Status quo is Yes, because the count already stands at 3. (c) No path: insiders who fed the NYT and Reuters keep talking, or the Dec 1 House interview or Dec 3 Senate testimony leaks. A qualifying outlet then reports a \"third employee\" or another named woman. Three people surfaced in five days, which shows sources are willing to talk. (d) Yes path: the story's centre of gravity has moved to espionage, Congress and succession, as with the WSJ's Nov 14 Singapore piece. The trigger for leaks (the board's decision to oust him) has passed. Testimony is closed-door and focused on national security. The Wachtell-led board probe is unlikely to publish before year-end. The rules' strict \"clearly distinguish\" requirement defaults ambiguous reports to the lower count. The anchor is 64.5%, consistent with the sibling \"Fourth affair by Dec 31\" market at 39.5% (implying about 60.5% here) and a ladder summing to roughly 1. I see no unpriced information, so I stay near the anchor, shaded slightly toward the independent fourth-affair market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7289",
+   "has_trace": true
+  }
+ ],
+ "1 megaton meteor strike in 2026?": [
+  {
+   "id": 7286,
+   "scanned_at": "2026-11-15T18:51:44.228328",
+   "date": "2026-11-15",
+   "agent": 2.5,
+   "market_price_t0": 10.9,
+   "edge": -0.08399999999999999,
+   "confidence": 0.915,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.03, 0.03). (0) The condition is not met. The CNEOS fireball API, which is the resolution source, lists 24 events in 2026 through Oct 4, and the largest is 1.1 kt (Cape Cod Bay, May 30). That is about 1,000 times below the 1,000 kt threshold. I found no news of any large airburst through Nov 15, and a 1 Mt event would be detected and reported worldwide immediately. The October 5 to November 15 gap in the data is therefore effectively observed and clean. (a) About 6.5 weeks remain until Dec 31, 2026, and CNEOS has until Feb 28, 2027 to update. (b) If nothing changes, this resolves No. (c) No: the rest of 2026 passes with only routine sub-kt to few-kt fireballs, which is the normal case. (d) Yes: an undiscovered object of roughly 25–40 m airbursts in the last weeks of December and is logged at 1 Mt or more. CNEOS has never recorded such an event in 38 years, and power-law rates of about 0.2–1% per year give about 0.05–0.2% for the remaining window. The Polymarket mid of 10.9% is not meaningful: the book is 2% bid / 20% ask and the last trade was at 1%. The mid's rise is spread noise, not news, so I anchor near the bid and last trade and the base rate. I put about 1% on Yes to allow for tail and resolution oddities.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7286",
+   "has_trace": true
+  }
+ ],
+ "Will Russia capture the Royal Café Alex in Kostyantynivka by March 31, 2027?": [
+  {
+   "id": 7284,
+   "scanned_at": "2026-11-15T18:05:51.366957",
+   "date": "2026-11-15",
+   "agent": 55,
+   "market_price_t0": 61.5,
+   "edge": -0.06499999999999995,
+   "confidence": 0.4,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.54, 0.56). (0) Resolution check: the condition is not met. The resolution-source read could not do a point-in-polygon check on the ISW map dated Nov 14. ISW's text still calls Kostyantynivka contested, with no advances on Nov 12–13 and Russian and Ukrainian forces intermingled, so I assume the café is not yet shaded under a qualifying layer.\n(a) About 4.5 months remain until March 31, 2027.\n(b) Status quo is NO. The café sits roughly 1.4 km west and 1.1 km north of the city reference point, in the northwest/west sector. That is where ISW assessed Russian consolidation on Nov 4 and where DeepState shows mostly grey zone. DeepState says Russia firmly holds only about 5–8% of the city, while Ukraine holds the centre and north.\n(c) NO path: the tempo stays slow, as it has for over a year. ISW keeps marking the contested blocks as infiltration, which does not qualify. Russia's effort goes into enveloping the city rather than clearing northwest blocks, and no handover happens because Ukraine rejects the humanitarian-mission ploy.\n(d) YES path: the northwest lodgement near Illinivka expands over winter. A pause or troop build-up lets Russia push, and ISW shades even part of the building's footprint as an assessed advance, which is a much lower bar than full-city capture.\nAnchor: the market is at 61.5%, up 10 points in a week, likely on Putin's control claims and the humanitarian-mission push. The full-city sibling for the same date is at 34%, which makes a higher building-level price plausible. However, the same café priced at 14% by Dec 31 implies a very steep hazard rate in Jan–Mar that slow ISW shading rarely delivers. Repeated Russian claims have also run ahead of ISW maps, as with the railway-station market. I therefore shade modestly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7284",
+   "has_trace": true
+  }
+ ],
+ "Will NVIDIA's next CEO be an external candidate?": [
+  {
+   "id": 7281,
+   "scanned_at": "2026-11-15T17:15:21.193427",
+   "date": "2026-11-15",
+   "agent": 50.5,
+   "market_price_t0": 55,
+   "edge": -0.04500000000000004,
+   "confidence": 0.4,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.50, 0.51). (0) Not resolved. NVIDIA's Nov 12, 2026 release and 8-K show Huang resigned and CFO Colette Kress was named interim CEO. Interim CEOs do not count, and no permanent successor has been named as of the newsroom's Nov 13 items. (a) About 25.5 months remain until the Dec 31, 2028 deadline, which is ample time for a search that experts expect to take a few months to a year. (b) If nothing changes, nobody is announced; any announcement that does come is external or internal. (c) NO paths: the board elevates Ian Buck, Kress or an all-insider co-CEO pair, as Intel did with interim CFO Bob Swan after Krzanich's 2018 scandal exit. Alternatively, the reinstatement campaign succeeds (135k-signature petition, Musk, Gerstner and Baker letters), Huang returns before a successor is named, and the market resolves 'No new permanent CEO'. (d) YES path: Chair Harvey Jones and the search firm land a proven outsider, most plausibly Rene Haas, whom the FT reports was approached. The board faces a governance scandal and a thin internal bench, and it publicly opened the search to external candidates. I anchor on Polymarket's 55% (bid 54 / ask 56). The sister markets are consistent with it: internal at 35.5% and no new CEO at 8.3%. I shade down slightly because the Huang-return and long-delay risk looks underpriced at 8%; the related 'rejoin by end-2027' market is at 32.5%. The Haas report is also unconfirmed and could fade, as his earlier Polymarket swing from 25% to 5% showed. The tech-sector external base rate of about 45% plus the scandal premium keeps external roughly a coin flip.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7281",
+   "has_trace": true
+  }
+ ],
+ "Will Iran target the United Arab Emirates by November 30, 2026?": [
+  {
+   "id": 7272,
+   "scanned_at": "2026-11-15T14:01:57.348999",
+   "date": "2026-11-15",
+   "agent": 26.5,
+   "market_price_t0": 32,
+   "edge": -0.05499999999999999,
+   "confidence": 0.5,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.25, 0.28). (0) Not resolved. The resolution-source read and all research find no UAE Ministry of Defence report and no Iranian claim of a strike on UAE land or internal waters since the window opened Sep 30; the last confirmed Iran-to-UAE launch was a drone on Aug 31. The sibling 'by Nov 15' market trading at about 3% agrees. The Nov 10 ADNOC vessel attack has no attacker named and involved a ship, so it is unlikely to qualify. (a) About 15 days remain, to Nov 30 GST. (b) Status quo is No: the UAE has had an 11-week lull, its airspace is open, there were no UAE alerts on Nov 13-15, and Iran's November resumption has targeted US assets in Bahrain, framed as not violating regional states' sovereignty. (c) No: talks via Qatar continue, Trump holds off on major strikes after Gulf lobbying, and Iran keeps its tit-for-tat limited to Bahrain and shipping in Hormuz. (d) Yes: the US-Iran stalemate breaks (third carrier arrives, Trump says 'we don't need a deal'), the US strikes Iran, and Iran retaliates against US-linked UAE sites such as Al Dhafra or Al Minhad, as it did within a day on Aug 31. IRGC officials named the UAE explicitly on Nov 4, and the UAE MoD's usual 'from Iran' wording would satisfy attribution. The market sits at 32% and is up 3.5% this week. The related ceasefire market prices only about 15% for a breakdown by Nov 30, and Iran choosing the UAE over Bahrain or Iraq is not assured. I therefore shade slightly below the market, to 25%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7272",
    "has_trace": true
   }
  ]

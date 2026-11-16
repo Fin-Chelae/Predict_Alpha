@@ -12961,6 +12961,20 @@
  ],
  "Ink FDV above $500M one day after launch?": [
   {
+   "id": 7301,
+   "scanned_at": "2026-11-16T00:06:24.367041",
+   "date": "2026-11-16",
+   "agent": 4,
+   "market_price_t0": 8.5,
+   "edge": -0.045000000000000005,
+   "confidence": 0.76,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.03). (0) Not resolved. The resolution-source read of inkonchain.com, inkfnd.com and CoinGecko finds no INK token and no TGE announcement, and trackers through October show no scheduled date. (a) About 6.5 weeks remain until the Dec 31, 2026 11:59 PM ET launch deadline. (b) If nothing changes, no token launches and the market resolves No. (c) NO case: the silence from Kraken and the Ink Foundation that has run since July 2025 continues. Even a surprise late-December launch could come in below $0.50 per token. The token is non-governance, the airdrop float is heavy, ETH sits near $1.8K, and OP and ARB fell 25–37% over the last 30 days. (d) YES case: a surprise TGE is announced at short notice. The Nado `ink_airdrop` endpoint and Merkle claim contract suggest one could be staged quickly. A Kraken-backed listing with low float then opens near the community's $1B FDV anchor. The market anchor is 8.5%, but this outcome is logically bounded by the sibling 'Ink launches token by Dec 31, 2026' market at about 8%. The $100M and $250M strikes at 9–10% show the whole ladder is mostly launch-timing risk plus some illiquidity premium. With launch probability around 6–8% and roughly 55–65% odds of clearing $500M given a launch, I estimate about 4–5%, somewhat below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7301",
+   "has_trace": true
+  },
+  {
    "id": 6718,
    "scanned_at": "2026-11-08T23:26:13.938025",
    "date": "2026-11-08",
@@ -21640,7 +21654,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-15T20:23:40.504Z",
+  "last_sync": "2026-11-16T11:16:06.277Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -22586,6 +22600,20 @@
   }
  ],
  "Will an AI lab announce another Millennium Prize solution by December 31, 2026?": [
+  {
+   "id": 7335,
+   "scanned_at": "2026-11-16T07:48:45.230463",
+   "date": "2026-11-16",
+   "agent": 12.5,
+   "market_price_t0": 13.5,
+   "edge": -0.010000000000000009,
+   "confidence": 0.61,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.13). (0) Not resolved. Clay still lists all five qualifying problems as unsolved. OpenAI's only full claim (Navier–Stokes, Sept 8) is excluded by the rules. Its other qualifying-problem releases are explicitly partial: the Yang–Mills existence half with the mass gap open (Gross committee, Nov 10), quasi-Riemann, Hodge for CM abelian varieties, BSD for Selmer corank 0/1, and ETH refutations. (a) About 45 days remain until Dec 31, 2026. (b) If nothing changes, the market resolves NO. (c) NO scenario: OpenAI sticks with the slow, Lean-first, committee-gated approach it adopted after the backlash, with roughly 6.5 weeks from Yang–Mills proof to announcement. Under that approach, nothing not already in the pipeline reaches a 'solved' announcement by year end, and the Sept Hodge 'soon' rumor stays unfulfilled after 60 days. (d) YES scenario: OpenAI's internal model, which has produced a major claim every 2–3 weeks, closes Hodge beyond the CM case or the Yang–Mills mass gap. OpenAI then posts a Navier–Stokes-style 'solution' announcement before Dec 31; the lab's own claim is enough. Alternatively, Anthropic or another eligible lab makes a surprise claim. Anchor: Polymarket mid is 13.5%, consistent with the sibling '0 more in 2026' market at 87.5%. The research surfaces no unpriced signal of an imminent qualifying claim. I lean slightly below market because of the long proof-to-announcement lag and the absence of any Lean or committee artifacts for Hodge or BSD.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7335",
+   "has_trace": true
+  },
   {
    "id": 6728,
    "scanned_at": "2026-11-09T01:12:12.708196",
@@ -29853,6 +29881,20 @@
  ],
  "Will Pedro Sánchez be the next Prime Minister of Spain?": [
   {
+   "id": 7294,
+   "scanned_at": "2026-11-15T21:32:19.528038",
+   "date": "2026-11-15",
+   "agent": 11.5,
+   "market_price_t0": 13.1,
+   "edge": -0.016000000000000014,
+   "confidence": 0.5800000000000001,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.11). {\"rationale\":\"(0) The question is not resolved. La Moncloa lists Sánchez only as acting PM, the general election is on 29 Nov 2026, and no investiture has been held. (a) The rules' deadline is 31 Mar 2028, about 16 months away. That leaves room for the Cortes to convene on 23 Dec, an investiture in early 2027, and even a repeat election. (b) If polls hold, PP+Vox win roughly 190–200 seats and Feijóo is invested, so the status quo is NO. Sánchez staying on as caretaker does not count. (c) NO path: private polls (Sigma Dos, Sondaxe, DYM, SocioMétrica, 40dB), averaging PP 31 / PSOE 27 / Vox 19, prove roughly right. Feijóo is invested with Vox, either by absolute majority or by simple majority on the second vote. (d) YES path: a 2023-style miss in which Vox is overestimated, in line with the SW Demoscopia and CIS outliers, leaves PP+Vox short of 176. Feijóo then fails as he did in 2023, and Sánchez wins a second-vote simple majority with ERC, Bildu and the PNV while Junts abstains. Junts' explicit refusal and a left bloc much smaller than in 2023 (about 141–155 seats in most averages) make that hard. I anchor on the Polymarket price of 13.1%, consistent with Kalshi at about 15%, and shade slightly down. The right's vote share (~50%) is a wider margin than in 2023, and Junts' refusal limits Sánchez's coalition paths. Model risk from 2023-type polling errors keeps a real tail.\",\"confidence\":0.62,\"unverified_claims\":[\"Junts will not abstain to allow a Sánchez investiture if the right falls short\",\"Private polls showing PP+Vox above 176 are not systematically biased the way they were in 2023\"]}",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7294",
+   "has_trace": true
+  },
+  {
    "id": 6491,
    "scanned_at": "2026-11-06T01:40:15.710717",
    "date": "2026-11-06",
@@ -32525,6 +32567,20 @@
  ],
  "Will the next Fable model (5.2+) debut at a score of at least 1510 by June 30, 2027?": [
   {
+   "id": 7309,
+   "scanned_at": "2026-11-16T01:39:52.030999",
+   "date": "2026-11-16",
+   "agent": 52,
+   "market_price_t0": 51,
+   "edge": 0.010000000000000009,
+   "confidence": 0.42,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.50, 0.54). (0) The condition has not been met. Arena's changelog through Nov 12 and third-party rosters through Nov 15 show Claude Fable 5.2 (released Nov 9) on WebDev and Agent Arena only, with no Text Arena row. I could not read the resolution page directly because of a bot block, so a Nov 15–16 addition can't be ruled out.\n\n(a) About 7.5 months remain until Jun 30, 2027. Timing risk is small: Fable models have reached the Text board within days, and a later Fable 5.3 or 6 could serve as a fallback.\n\n(b) The status quo is a NO, since no qualifying row exists. Realistically, though, the question is whether Fable 5.2's first-day no-style-control score clears 1510.\n\n(c) NO scenario: Fable 5.2 debuts on Text at a High effort tier, or on few votes, and lands around 1500–1509. That would match Anthropic's apparent Text ceiling (Fable 5 at about 1508 at debut on this view; Fable 5.1 at 1510–1512 after maturing; Opus 5.5 at about 1506–1509). Alternatively, Arena keeps delaying a Text listing.\n\n(d) YES scenario: the raw/no-style-control view runs about 10 points above the default view. Fable 5.1 already sits at 1510–1512 there, so 5.2 only needs to match or modestly beat 5.1. Its #1 placings in WebDev (1838 on voted scores) and in Agent Arena's Chat category support a debut at 1515 or higher.\n\nThe market anchor is 51%, consistent with siblings at 74% for 1500+ and 34% for 1520+. The sharp 7-day drop from about 76% likely reflects the Text listing delay and thresholds sitting at the Anthropic ceiling. I found no specific unpriced information, so I stay at the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7309",
+   "has_trace": true
+  },
+  {
    "id": 6261,
    "scanned_at": "2026-11-03T01:44:52.037347",
    "date": "2026-11-03",
@@ -33080,6 +33136,20 @@
   }
  ],
  "SpaceX becomes a US mobile carrier by June 30, 2027?": [
+  {
+   "id": 7305,
+   "scanned_at": "2026-11-16T00:53:17.337271",
+   "date": "2026-11-16",
+   "agent": 19.5,
+   "market_price_t0": 27,
+   "edge": -0.07500000000000001,
+   "confidence": 0.555,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.19). (0) Not met: no source shows a purchasable SpaceX phone plan as of Nov 16, 2026, and the only US offering, T-Satellite, is an excluded add-on. (a) About 7.5 months remain until June 30, 2027. (b) Status quo is NO: SpaceX guides own-network service to early or H1 2028 (slipped from end-2027), the EchoStar spectrum closes around Nov 2027, and the Grain 800 MHz deal is only accepted for filing with a close expected around June 2027. (c) NO: the unconfirmed Boost talks stall, host carriers block lease transfers or review drags, and SpaceX keeps its 2028 timeline. (d) YES: SpaceX signs and closes a Boost (or EchoStar wireless) acquisition by mid-2027; Boost's existing retail plans would then count immediately under the acquired-carrier clause. A limited one-state own-network launch is a remote alternative. The market is at 27% on thin volume; my decomposition (roughly 35-40% deal signed times about 40% timely close, plus small other paths) gives about 20%, so I shade modestly below the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7305",
+   "has_trace": true
+  },
   {
    "id": 6251,
    "scanned_at": "2026-11-02T22:03:54.837136",
@@ -34647,6 +34717,20 @@
  ],
  "Ilhan Omar arrested by December 31, 2026?": [
   {
+   "id": 7319,
+   "scanned_at": "2026-11-16T04:01:25.926843",
+   "date": "2026-11-16",
+   "agent": 6.8,
+   "market_price_t0": 8,
+   "edge": -0.012499999999999997,
+   "confidence": 0.64,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) The condition has not been met. The resolution-source read and all reporting through Nov 15 say Omar is uncharged and has not been arrested; the only court dockets are the search-warrant and unsealing matters. (a) About 6.5 weeks remain until 11:59 PM ET on Dec 31, 2026. (b) If nothing changes, the market resolves No. A Yes requires a grand jury indictment or complaint, followed by custody and booking (including a negotiated surrender with Marshals processing), all within that window. (c) No path: DOJ keeps reviewing the seized phone, laptop and records for months, as CNN expects (\"weeks or months\"). The statute of limitations on the 2000-era paperwork pushes prosecutors toward slower theories or civil denaturalization, which is not an arrest, so nothing is charged before year-end. (d) Yes path: the DC or Minnesota grand jury quickly returns an indictment on recent false statements, conspiracy or bribery. The post-election quiet period no longer applies, and the administration has been aggressive (the bodyguard indictment, McIver, the unusual search). Omar then surrenders and is processed by Marshals, which counts. The market sits at 8% and has fallen from a 29% peak with no new catalyst. Emmer's \"finalizing\" claim is partisan, the Nov 17 hearing concerns only unsealing, and no sources show a sealed charge or a timeline. I therefore sit slightly below the market at 7%, leaving tail risk for a politically driven December indictment.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7319",
+   "has_trace": true
+  },
+  {
    "id": 6501,
    "scanned_at": "2026-11-06T04:02:19.772636",
    "date": "2026-11-06",
@@ -35813,6 +35897,20 @@
  ],
  "JD Vance 2028 presidential odds leader on November 30?": [
   {
+   "id": 7338,
+   "scanned_at": "2026-11-16T08:32:47.584004",
+   "date": "2026-11-16",
+   "agent": 17,
+   "market_price_t0": 21,
+   "edge": -0.03999999999999998,
+   "confidence": 0.61,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.17, 0.17). (0) Resolution check: the condition is not met. On the resolution source (PredictionMarketOdds.com, 2–3 AM ET print on Nov 16), Jon Ossoff leads at 18.1% and Vance is second at 14.1%. Ossoff is ahead on every component venue: Kalshi 17.5 vs 13.5, Polymarket 18.8 vs 15.4, and Betfair, PredictIt and Smarkets likewise. (a) There are about 14 days until the single 11 AM–12 PM ET print on Nov 30. (b) Status quo is NO: Ossoff stays on top, and ties break toward the most recent earlier leader, also Ossoff. (c) NO scenario: no catalyst arrives. Axios reports Vance's decision is pushed past the new year, and the structural gap holds: Democrats sit near 68% and Ossoff alone tops that side, while Vance shares a roughly 32% GOP side with Rubio and DeSantis. (d) YES scenario: Ossoff's price, which has climbed on a candidacy he denies, mean-reverts. Alternatively, Vance's nomination price keeps rebounding (31%→37%) or Trump endorses him, closing a 4-point gap across several venues. These markets are volatile: Ossoff gained about 8 points in a month, and Vance led as recently as Nov 7 on Polymarket. So a reversal is plausible, but recent 7-day data show Vance falling slightly more than Ossoff. I anchor on the 21% Polymarket mid and shade modestly lower given no scheduled catalyst and the tie-break advantage to Ossoff.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7338",
+   "has_trace": true
+  },
+  {
    "id": 6462,
    "scanned_at": "2026-11-05T17:52:16.312099",
    "date": "2026-11-05",
@@ -36137,6 +36235,20 @@
  ],
  "Will OpenAI have the best Text-to-Image AI at the end of December 2026?": [
   {
+   "id": 7332,
+   "scanned_at": "2026-11-16T07:04:26.821081",
+   "date": "2026-11-16",
+   "agent": 82,
+   "market_price_t0": 65,
+   "edge": 0.17000000000000004,
+   "confidence": 0.5900000000000001,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.79, 0.85) after one crux research pass. The JSON object is below.\n\n{\"probabilities\": [{\"market\": \"Yes\", \"probability\": 0.79}, {\"market\": \"No\", \"probability\": 0.21}], \"rationale\": \"(0) The market has not resolved. A search-indexed copy of the arena.ai Text-to-Image Overall board dated Nov 12 shows OpenAI in ranks 1–5. GPT-Image-2.5 Sunburst is #1 at 1429±5 on 63.8k votes with a rank spread of 1–1. The best non-OpenAI models are MAI-Image-2.6 at 1330 and Nano Banana 2.1 at 1327, about 100 points back. Resolution depends on the Dec 31 check. (a) About 6.5 weeks remain until the Dec 31, 2026 12:00 PM ET check. (b) If nothing changes, YES: OpenAI has held #1 since April. Artificial Analysis and BudgetPixel corroborate the lead, and every recent challenger (Grok Imagine 2.0, MAI-Image-2.6, Nano Banana 2.1) debuted well behind. (c) The NO path is Google shipping a Gemini 4-based 'Nano Banana 3 Pro' (Gempix 3 Pro, a single TestingCatalog leak with no confirmed date, reportedly still in training). It would need to debut above roughly 1429 and be ranked without an AutoEval flag by Dec 31. Nov 2025 precedent shows Google can take #1 on launch. A surprise from ByteDance or xAI is also possible. (d) The YES path is the status quo, or a stronger OpenAI configuration that widens the lead. The market mid is 65%, but the book is thin and wide (48/82) and the last trade was 81%. The 7-day drop of 17.5 points has no explanation in the research; it could reflect unpriced information such as a Google sighting, so I hold some extra NO weight. Historical #1 turnover is roughly once every 4–5 months, and the large current gap lowers that risk for this window. I land near 0.79, above the mid and close to the last trade.\", \"confidence\": 0.6, \"unverified_claims\": [\"No Google Nano Banana 3 Pro / Gemini 4 image model has been released or appeared anonymously on Arena as of mid-November 2026\", \"The Nov 12 Arena snapshot (OpenAI #1 at 1429, ~100-point lead) still reflects the live board\", \"The recent 17.5-point price drop was not caused by a specific new challenger development\"]}",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7332",
+   "has_trace": true
+  },
+  {
    "id": 6642,
    "scanned_at": "2026-11-07T22:11:45.282469",
    "date": "2026-11-07",
@@ -36328,6 +36440,20 @@
   }
  ],
  "US imports Russian diesel by November 30?": [
+  {
+   "id": 7313,
+   "scanned_at": "2026-11-16T02:25:39.767323",
+   "date": "2026-11-16",
+   "agent": 6,
+   "market_price_t0": 7.1,
+   "edge": -0.011499999999999996,
+   "confidence": 0.775,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) Not resolved. CNN (Nov 15) and RFE/RL (Nov 12) both say no Russian diesel has reached a US port. The only candidate cargo, the Agioi Fanendes, is idling hundreds of miles off the East Coast showing 'FOR ORDERS', and its manager says no discharge port is confirmed. (a) About 14 days remain, to Nov 30, 11:59 PM ET. That is physically enough time, since the ship is roughly 1.5–2 days from New York, but a new Russian cargo loaded now could not arrive in time. (b) Status quo is No. Talisman went to Egypt, Leruo to Brazil, the Beast is reportedly headed to Brazil, and Energy Secretary Wright plus a White House official now describe the cargo going to 'another port' or 'global markets'. Buyers, ports and CBP face exposure under the 2022 import ban, with five-year customs penalties and a Democratic Congress arriving in January. (c) NO: the Agioi Fanendes is sold to Brazil, Turkey or another foreign buyer, or keeps drifting, and the unverified Iblea/Corpus Christi lead comes to nothing. (d) YES: the White House talks with the owner (FT, Nov 12) produce a symbolic US buyer, perhaps a government-linked or politically motivated small terminal outside New Jersey. The cargo discharges and CBP admits it under GL 135 before Nov 30. The market anchor of about 7% looks right to slightly high given the administration's own messaging shift. I shade slightly lower but keep tail risk for a politically engineered landing.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7313",
+   "has_trace": true
+  },
   {
    "id": 6711,
    "scanned_at": "2026-11-08T21:46:50.149618",
@@ -37588,6 +37714,166 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.25, 0.28). (0) Not resolved. The resolution-source read and all research find no UAE Ministry of Defence report and no Iranian claim of a strike on UAE land or internal waters since the window opened Sep 30; the last confirmed Iran-to-UAE launch was a drone on Aug 31. The sibling 'by Nov 15' market trading at about 3% agrees. The Nov 10 ADNOC vessel attack has no attacker named and involved a ship, so it is unlikely to qualify. (a) About 15 days remain, to Nov 30 GST. (b) Status quo is No: the UAE has had an 11-week lull, its airspace is open, there were no UAE alerts on Nov 13-15, and Iran's November resumption has targeted US assets in Bahrain, framed as not violating regional states' sovereignty. (c) No: talks via Qatar continue, Trump holds off on major strikes after Gulf lobbying, and Iran keeps its tit-for-tat limited to Bahrain and shipping in Hormuz. (d) Yes: the US-Iran stalemate breaks (third carrier arrives, Trump says 'we don't need a deal'), the US strikes Iran, and Iran retaliates against US-linked UAE sites such as Al Dhafra or Al Minhad, as it did within a day on Aug 31. IRGC officials named the UAE explicitly on Nov 4, and the UAE MoD's usual 'from Iran' wording would satisfy attribution. The market sits at 32% and is up 3.5% this week. The related ceasefire market prices only about 15% for a breakdown by Nov 30, and Iran choosing the UAE over Bahrain or Iraq is not assured. I therefore shade slightly below the market, to 25%.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/7272",
+   "has_trace": true
+  }
+ ],
+ "Will Xi and Takaichi not shake hands during the summit?": [
+  {
+   "id": 7346,
+   "scanned_at": "2026-11-16T10:55:25.121028",
+   "date": "2026-11-16",
+   "agent": 9.5,
+   "market_price_t0": 9.5,
+   "edge": 0,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.09). (0) Not resolved: the summit (Nov 18-19) hasn't begun; Takaichi is in Manila with Shenzhen attendance confirmed by both governments. (a) 2-3 days to the event; entry deadline Nov 30. (b) Status quo: Xi hosts a filmed welcome banquet and formal sessions; Japanese officials, AFP analysts, SCMP sources, and a Chinese source via Kyodo all frame a perfunctory protocol handshake as the floor, with Abe 2014 and Takaichi 2025 as precedents. (c) Path to No handshake: Beijing deliberately snubs her, citing personal grievances (the Taiwan remarks and the Lin Hsin-i photo) and its refusal to commit; greetings are kept to group format or off-camera, aided by a crowded Trump/Putin schedule. A photographed-only handshake goes to a separate bucket. (d) Path to a handshake: a standard receiving-line or arrival handshake filmed by CCTV or the Japanese pool. The market prices No-handshake at 9.5% and the duration buckets imply a short handshake is the base case. No new information justifies moving far from that anchor, so I put snub risk at about 10%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7346",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic's market cap be less than $1.25T at market close on IPO day?": [
+  {
+   "id": 7343,
+   "scanned_at": "2026-11-16T10:09:42.184625",
+   "date": "2026-11-16",
+   "agent": 28.5,
+   "market_price_t0": 23.6,
+   "edge": 0.04850000000000004,
+   "confidence": 0.475,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.29, 0.28). (0) Not resolved: TradingView and multiple November reports show the IPO pending, pricing Nov 18 and first trade Nov 19 on Nasdaq as ANT. (a) About three days to the decisive close; the formal deadline is Dec 31, 2027, and 'No IPO' is a separate outcome priced near zero. (b) Status quo: pricing in the $70-78 range with no pop gives about $0.92-1.02T on the 13.09B Class A plus Class N count from the S-1/A-2, which is YES; a fully diluted count gives $1.26-1.40T, which is NO. (c) NO: the 6x-oversubscribed book plus reported pressure to price above the range lead to pricing at or above $78 and a pop into the high $90s or $100s (perp near $102), clearing the ~$95.5 basic-share threshold; or the resolver uses a fully diluted figure. (d) YES: pricing within range, a weak AI tape (Nvidia -32% in six weeks, earnings Nov 17), and day-one resale and retail supply hold the pop under ~22%, so the close is below $95; a Class-A-only Nasdaq display is a further YES tail. The market anchor is 23.65%, rising sharply, with siblings putting the mode at $1.25-1.5T, consistent with traders expecting a ~$100 close on the basic count. The perp at ~$102 is only ~7% above the threshold, and first-day dispersion for mega-IPOs (Facebook flat, SpaceX +19%) plus the weak backdrop make a sub-$95.5 close quite plausible, so I lean modestly above the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7343",
+   "has_trace": true
+  }
+ ],
+ "Will Jared Kushner join Trump at APEC in China?": [
+  {
+   "id": 7341,
+   "scanned_at": "2026-11-16T09:21:44.735657",
+   "date": "2026-11-16",
+   "agent": 21.5,
+   "market_price_t0": 30.5,
+   "edge": -0.09,
+   "confidence": 0.5,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.19, 0.24). (0) Not resolved; Shenzhen visit Nov 18-19 is confirmed by both governments, and no source places Kushner in the delegation. (a) About 2-3 days remain until the qualifying events: the Nov 18 dinner and the Nov 19 bilateral, working lunch and trilateral. (b) Status quo is No: pre-trip coverage (ABC, CNN, AP, Reuters) names only Musk (plus Lutnick late); Kushner was last on the Moscow/Dublin Ukraine shuttle around Nov 12 with a new round flagged for the coming week; officials say China is not part of the Ukraine track; no evidence he joined the May Beijing trip. (c) No: Kushner stays on the Ukraine/Russia shuttle and feeds the Putin contact remotely. (d) Yes: a late addition, as with Huang in May, to advise on the Iran/Putin trilateral, sitting in the bilateral or trilateral. The market is 30.5%, falling from ~51%, and the Witkoff market is similar at 33.5%. With no positive signal and specific negative evidence, I shade below the market but keep a tail for late delegation changes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7341",
+   "has_trace": true
+  }
+ ],
+ "Will the next Qwen Max model (3.9+) debut at a score of at least 1460 by June 30, 2027?": [
+  {
+   "id": 7329,
+   "scanned_at": "2026-11-16T06:17:52.123184",
+   "date": "2026-11-16",
+   "agent": 85,
+   "market_price_t0": 80,
+   "edge": 0.04999999999999993,
+   "confidence": 0.62,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.86, 0.84). (0) Not yet met: Arena's HF text snapshot (2026-11-11) has no Qwen Max 3.9+ row; Qwen4-Max went stable Nov 16 and already appears on WebDev (1750 prelim), Image-to-WebDev (1674) and Agent boards. EFE reports a preliminary #5 overall without naming the board. A non-AutoEval Text row scoring at least 1460 at next-day noon ET is still needed. (a) About 7.5 months remain until June 30, 2027, and a Text debut is likely within days to weeks. (b) Status quo: nothing qualifies yet, but on the no-style-control view Qwen3.8-Max is at about 1483-1485 and Qwen3.7-Max-Preview at about 1476. Recent Max debuts ran 1464-1496, and Qwen4-Max beats its predecessor by 74 points on WebDev and 9 points on Artificial Analysis. (c) NO: a general-chat regression (one independent preview test showed weaker general intelligence, and the model looks tuned for agent cost-efficiency), AutoEval or naming technicalities, or a crowded top pushing it below 1460. (d) YES: Qwen4-Max (xHigh) is added to Text at roughly 1480-1500 and stays listed at the next-day check; if the '#5 overall' report is the Text board, that implies about 1500. The market is at 80% and the related threshold ladder (1480 at 70%, 1500 at 39%) implies a center near 1490. I go modestly above the market because a sub-1460 debut would need a regression of more than 20 points, but stay cautious given the unexplained 10-point drop this week.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7329",
+   "has_trace": true
+  }
+ ],
+ "Jensen Huang divorce by December 31, 2026?": [
+  {
+   "id": 7326,
+   "scanned_at": "2026-11-16T05:32:47.219584",
+   "date": "2026-11-16",
+   "agent": 9,
+   "market_price_t0": 10.5,
+   "edge": -0.015,
+   "confidence": 0.585,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) Resolution check: the condition has not been met. As of Nov 14–16, Fortune, Forbes, American Bazaar, ReadTheProfile and NewsNation all report no filing, no announcement and no statement from Lori Huang. The 'Lori files' story from The Rambutan is satire, and the X post claiming she is set to file is unsourced. (a) About 6.5 weeks remain until the Dec 31, 2026 11:59 PM ET deadline, and that window includes the holidays. (b) The status quo resolves No. Jensen's only statement is reconciliation language ('hope my family will heal'), and Lori has stayed silent through his resignation and three reported affairs. (c) No path: both matrimonial attorneys quoted (Newman, Ziegler) expect a private separation agreement or a quiet negotiation, with any filing delayed until the scandal subsides. That fits the couple's deep financial ties: co-trustees of trusts holding about 669M shares, Lori as president of the $9B family foundation, and no known prenup. (d) Yes path: further revelations, such as the House testimony, the investigation findings or a fourth affair, push Lori to file in Santa Clara County or announce a split. Her motives could include fixing the separation date while Nvidia's valuation is low, or a deadlock over the trust shares. The market anchor is 10.5% (bid 10 / ask 11). It is down from about 20% around Nov 14 and a range high of 27%, which suggests traders are already pricing in the quiet-path view. The outside view, a fraction of a percent per six weeks raised substantially by a severe public scandal, plus attorney commentary favoring delay, supports a figure slightly below the market, about 9%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7326",
+   "has_trace": true
+  }
+ ],
+ "Will Finland be 1st in the World Happiness Report 2027?": [
+  {
+   "id": 7323,
+   "scanned_at": "2026-11-16T04:45:43.526039",
+   "date": "2026-11-16",
+   "agent": 93.8,
+   "market_price_t0": 91.5,
+   "edge": 0.022499999999999964,
+   "confidence": 0.745,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.94, 0.94). (0) Not resolved: the WHR site still shows the 2026 edition as latest, and WHR 2027 is scheduled for 20 March 2027. (a) About 4.5 months remain to the 1 April 2027 close; the publication fallback deadline is 30 June 2027. (b) Status quo is Finland #1 for nine straight editions, with a 0.22 lead (7.764 vs Iceland 7.540 and Denmark 7.539) and a 1–1 rank interval. The 2027 ranking likely uses 2024–2026 data, so two of three years overlap with 2026. (c) NO: a weak 2026 Gallup sample for Finland, or a strong dropped 2023 year, combined with a strong 2026 for a small-sample rival like Iceland, a Gallup mode or method change, or publication slipping past 30 June. (d) YES: release around 20 March with Finland near 7.7 and rivals near 7.4–7.5, consistent with the stable margins of about 0.21–0.22 in 2025 and 2026. Sampling noise from swapping one year implies roughly a 0.05 SD relative shift, so a 0.22 reversal is a tail event. Allowing a few percent for method and data surprises and timing, I put Yes slightly above the 91.5% market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7323",
+   "has_trace": true
+  }
+ ],
+ "Will the Xi and Takaichi handshake last 2–6 seconds during the summit?": [
+  {
+   "id": 7315,
+   "scanned_at": "2026-11-16T03:13:10.827441",
+   "date": "2026-11-16",
+   "agent": 50.5,
+   "market_price_t0": 53.5,
+   "edge": -0.030000000000000027,
+   "confidence": 0.42,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.50, 0.51). (0) Not met: the summit has not started and no handshake footage exists; Takaichi's Nov 16–19 trip with APEC in Shenzhen Nov 18–19 is confirmed. (a) About 2–3 days remain until the Nov 18–19 handshake window, and video must be released on those calendar days. (b) Status quo: Kyodo, Bloomberg and Global Times agree there will be no bilateral, leaving a protocol greeting (likely Xi greeting each leader at the Nov 18 welcome banquet; China says it will 'fulfill its obligations as host'), which as a cold host greeting typically lasts about 3–5s, inside the bracket. (c) NO: Xi avoids a handshake or keeps her out of frame (~10% priced); only stills, partial or late footage appear (Kyodo says Beijing may restrict the images); or a posed handshake runs 6s or more like Gyeongju's ~10s, with exactly 6.0s also resolving to the higher bracket. (d) YES: a stiff, quick banquet or arrival-line shake, cleanly filmed by Japanese pool or CCTV cameras, measuring about 3–5s. Anchor is the 53.5% mid; sibling brackets (6–10s 26.5%, none 10%, photo-only plus under-2s ~5%) are coherent, and the research adds no clear unpriced information. I shade slightly lower for the 6s boundary and footage-quality risks.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7315",
+   "has_trace": true
+  }
+ ],
+ "Will Waymo launch in Denver, CO by December 31 2026?": [
+  {
+   "id": 7298,
+   "scanned_at": "2026-11-15T23:15:45.871602",
+   "date": "2026-11-15",
+   "agent": 48.5,
+   "market_price_t0": 53.5,
+   "edge": -0.05049999999999999,
+   "confidence": 0.42,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.48, 0.49). (0) Not clearly met: Waymo's Help Center (Nov 9) still marks Denver 'Gradually adding riders', and several trackers plus the Denver Gazette (Nov 5) describe waitlist-gated access, while the rules exclude invite-only service. (a) About 46 days remain, including holidays. (b) Status quo is a waitlisted service: NO under a strict reading, though Sept 1 'official launch' reporting and the 'regardless of membership' clause leave a lenient-YES path. (c) NO: Waymo holds the waitlist through its first Denver winter, as the slipped Las Vegas '1-2 month' estimate suggests, and the resolver is strict. (d) YES: Waymo opens Denver and Las Vegas to all before year-end, following the Oct 14 template and pre-launch 'by end of 2026' reports; Denver at 10.5 weeks sits within the 6-week-to-6-month historical gap. The market's ~54% mid after a sharp 7-day drop may reflect news I cannot see, so I shade slightly below it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7298",
+   "has_trace": true
+  }
+ ],
+ "Jensen Huang rejoins NVIDIA before divorce?": [
+  {
+   "id": 7296,
+   "scanned_at": "2026-11-15T22:21:33.830725",
+   "date": "2026-11-15",
+   "agent": 28.5,
+   "market_price_t0": 35,
+   "edge": -0.06499999999999995,
+   "confidence": 0.42,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.28, 0.29). (0) Not resolved: NVIDIA's latest 8-K (2026-11-12) documents only the resignation, and reporting through Nov 15 shows no divorce filing or announcement. (a) About 13.5 months remain, to 2027-12-31. (b) Status quo is No: Huang holds no role, and a spokesperson reportedly said he won't work with Nvidia 'in any capacity.' (c) No: the Wachtell review, December congressional appearances and Bessent's push for an outsider keep the board on its clean break; an outside CEO (Haas, Cook) is named in 2027, or Lori files first after more affair revelations. (d) Yes: the review finds no security compromise, the outside search stalls, and Trump, Musk, the 150k+ petition and investors push six directors to give Huang a CEO, interim or formal advisory role while the couple, who co-control the family trusts, delays filing. Anchor is 35%, down from 57%; the related 'rejoin by Dec 2027' market is 42% and caps this one, which needs rejoin before divorce. I shade below the market because the comeback evidence is anonymous FT sourcing and lobbying, not board action; allegations have widened to a third employee affair; conduct-based founder ousters rarely reverse; and divorce odds of about 25% by March 2027 add a real chance the No trigger fires first, partly offset by reconciliation and comeback being correlated.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7296",
+   "has_trace": true
+  }
+ ],
+ "Houthis enter Aden by December 31, 2026?": [
+  {
+   "id": 7291,
+   "scanned_at": "2026-11-15T20:42:43.592600",
+   "date": "2026-11-15",
+   "agent": 18,
+   "market_price_t0": 17.5,
+   "edge": 0.0050000000000000044,
+   "confidence": 0.51,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.18, 0.18). (0) Not met: AFP via France 24 (Nov 15) places Houthis about 60 km from Aden at Al-Kharaz in Lahj; no credible report of ground forces in a qualifying district, and missile strikes on the airport, palace and al-Buraiqa are excluded. (a) About 46 days remain until Dec 31. (b) Status quo is No: Houthis must still cross the Lahj lowland corridor and enter Dar Sad, Sheikh Othman or another named district, with credible confirmation. (c) No: attrition in Lahj (Nov 10-14 seesaw), Saudi air support and redeployed Giants/Homeland Shield forces hold prepared lines, a Marib 2021-22-style stall at the gates, or an Oman-brokered truce freezes lines. (d) Yes: coastal and highland axes merge after the Bab el-Mandeb withdrawal, the fractured STC/Saudi-supervised defence collapses per Xinhua's 'unexpectedly rapid defeats', and a brief raid reaches an outer district, as in 2015 when entry followed within days of reaching the outskirts. The ~1.5 km/day pace (80 km Nov 2 to 60 km Nov 15) barely reaches the outskirts by the deadline, and urban defence slows advances. Anchoring on the 17.5% market (Nov 30 contract 3.9%, implying ~14% for December); the Nov 15 setbacks appear priced by the +4% weekly move, so I stay near the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7291",
    "has_trace": true
   }
  ]

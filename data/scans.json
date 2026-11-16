@@ -21654,7 +21654,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-16T11:16:06.277Z",
+  "last_sync": "2026-11-16T23:44:23.604Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -26883,6 +26883,20 @@
  ],
  "Will Trump meet with Kim Jong Un in 2026?": [
   {
+   "id": 7371,
+   "scanned_at": "2026-11-16T18:18:02.532603",
+   "date": "2026-11-16",
+   "agent": 7,
+   "market_price_t0": 9,
+   "edge": -0.02049999999999999,
+   "confidence": 0.71,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) No source shows a 2026 Trump–Kim meeting. As of Nov 16, credible reporting (Reuters/US News, WaPo, Washington Times) confirms none has happened, so the market is unresolved. (a) About 6.5 weeks remain until Dec 31, and the only live window is the Shenzhen APEC stop on Nov 17–19, where Trump said Kim 'may come' if Xi arranges it. (b) The status quo is NO. A senior White House official said on Nov 13 there were no plans, and Yonhap and a US official said Kim is not on the schedule. China's Foreign Ministry framed Shenzhen purely as a Trump–Xi–Putin trilateral, and Kim Yo Jong said on Nov 4 there is 'no need' for talks, alongside missile launches. (c) NO path: the Shenzhen trilateral goes ahead without Kim. Xi has incentives to keep him away and reportedly refused to broker an encounter in October. With no envoy, groundwork or scheduled event afterward, the year ends without a meeting. (d) YES path: Xi invites Kim on short notice for a cameo or handshake, like the 2019 DMZ meeting, which formed in about 32 hours. Alternatively, a surprise December trip follows post-midterm overtures, which Victor Cha thinks Pyongyang might welcome. Trump's repeated previewed-but-unrealized meetings and the united scepticism of Seoul officials and analysts put me slightly below the market mid of ~9% (last close 12%). The sibling market at 13.5% is thinly traded.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7371",
+   "has_trace": true
+  },
+  {
    "id": 6753,
    "scanned_at": "2026-11-09T07:32:49.171327",
    "date": "2026-11-09",
@@ -30329,6 +30343,20 @@
  ],
  "Will the US federal government take a stake in Anduril Industries, Inc.?": [
   {
+   "id": 7365,
+   "scanned_at": "2026-11-16T16:36:27.520156",
+   "date": "2026-11-16",
+   "agent": 6,
+   "market_price_t0": 7.3,
+   "edge": -0.013499999999999998,
+   "confidence": 0.71,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.06). (0) Not yet resolved. On Oct 6, Trump announced a 40% federal stake in a new Anduril subsidiary that will run the Arsenal-2 shipyard. Defense One, ENR and Fox all report that Anduril said the government is not taking equity in Anduril itself. No binding agreement or agency document has been published, and the equity-stakes tracker (updated Nov 16) lists the deal only as 'Pipeline'. The market price has fallen since the announcement, so traders are not treating it as a resolving event.\n\n(a) About 45 days remain until Dec 31, 2026.\n\n(b) If nothing changes, the market resolves No. A subsidiary stake is neither a stake in the listed company nor in 'a legal vehicle that primarily owns' it, and no talks about a parent-level stake have been reported.\n\n(c) NO scenario: the Arsenal-2 paperwork slips into 2027. Or it gets signed, but the resolver reads the rules literally and does not count a child entity.\n\n(d) YES scenario: DoD publishes a binding Industrial Base Fund/DPA agreement before Dec 31, and the resolver leans on headlines like 'equity stake in Anduril's Arsenal-2' to count it. A direct stake in Anduril, for example in its 2027 round, is very unlikely on this timeline.\n\nI anchor on Polymarket's 7.35% mid. The research adds nothing new that the market lacks, so I shade only slightly lower given the explicit disclaimer and the short window.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7365",
+   "has_trace": true
+  },
+  {
    "id": 6557,
    "scanned_at": "2026-11-06T21:29:52.226045",
    "date": "2026-11-06",
@@ -33419,6 +33447,20 @@
  ],
  "Ilhan Omar federally charged by December 31?": [
   {
+   "id": 7362,
+   "scanned_at": "2026-11-16T15:48:21.573002",
+   "date": "2026-11-16",
+   "agent": 17,
+   "market_price_t0": 22,
+   "edge": -0.04999999999999999,
+   "confidence": 0.535,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.17, 0.17). (0) Not resolved. The resolution-source read and several outlets dated Nov 10–16 (a fact-check, the Star Tribune, Struggle-La Lucha) agree Omar has not been charged. Only her ex-bodyguard was indicted, and that case is being dismissed. (a) About 6.5 weeks remain until 11:59 PM ET on Dec 31, 2026. (b) If nothing changes, the market resolves No. DOJ's Oct 27 filing said the warrant was not yet fully executed and no charging decision had been made, and no target letter or grand jury vote has been reported. (c) NO path: evidence review drags into 2027, the statute of limitations blocks the 2000 naturalization and 2009 marriage theories, or DOJ chooses civil denaturalization (no limitations period, and the stated WSJ goal), which does not count. A D.C. grand jury may also refuse, as happened with the Seditious Six attempt and Letitia James. (d) YES path: Pirro's office indicts on a limitations-safe theory, such as a recent passport false statement, a financial-disclosure count, or the $10k bribery angle. The push would come from post-election freedom, Miller's elevation, DNA evidence and the sister's cooperation, and DOJ's own statement that it 'anticipates a public charging decision.' The market sits at 22% and is rising, which may reflect political-pressure momentum. Against that, the base rate is about 2 of 13 targeted Democratic members indicted, the window is short, the limitations hurdles are documented, and the civil route is the stated aim. I shade below the market to 17%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7362",
+   "has_trace": true
+  },
+  {
    "id": 6782,
    "scanned_at": "2026-11-09T15:44:36.915262",
    "date": "2026-11-09",
@@ -33704,6 +33746,20 @@
   }
  ],
  "Viktor Orbán arrested by...?": [
+  {
+   "id": 7349,
+   "scanned_at": "2026-11-16T11:45:28.413238",
+   "date": "2026-11-16",
+   "agent": 9.5,
+   "market_price_t0": 15.1,
+   "edge": -0.055999999999999994,
+   "confidence": 0.56,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.10). (0) Not resolved: no source through Nov 14–16 reports Viktor Orbán himself arrested, detained, charged or even formally named a suspect. His brother Áron, several ex-ministers and Matolcsy are in custody, but he is not. (a) About 45 days remain until Dec 31, 2026, including the Christmas and New Year slowdown. (b) If nothing changes, the market resolves No. For Yes, he would first need a suspect notice, which has not happened, and then custody or a court-ordered restrictive measure. (c) No scenario: the new prosecutor general Fejes, in office only since Nov 3, takes weeks to review files. Even if the motion to question Orbán as a suspect in the Ukrainian convoy case is granted, the likely outcome is questioning, which does not count, not custody. Hajdu, the most senior suspect in that case, remains free. (d) Yes scenario: with no parliamentary immunity (he declined his seat), prosecutors name Orbán a suspect in the convoy case or a new corruption case tied to the cash seizures. Investigators then use the 'őrizet' custody pattern seen with Áron, or a court imposes electronic monitoring; a flight-risk trigger such as a US trip would make this likelier. The market is at 15% after a +4.5% weekly jump driven by his brother's arrest, which is not a legal step toward Viktor. The related June 2027 market at 37% implies a much lower hazard for just the next six weeks. I therefore shade below the market to about 9%, keeping a real tail for how fast and aggressive this purge has been.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7349",
+   "has_trace": true
+  },
   {
    "id": 6761,
    "scanned_at": "2026-11-09T09:40:08.771188",
@@ -36583,6 +36639,20 @@
  ],
  "Will Pete Hegseth leave the Trump administration before 2027?": [
   {
+   "id": 7359,
+   "scanned_at": "2026-11-16T14:56:41.336657",
+   "date": "2026-11-16",
+   "agent": 13,
+   "market_price_t0": 13.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.61,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.13). (0) Not resolved. As of Nov 14–16, war.gov releases and news reports show Hegseth still serving as Secretary of War, with no resignation or removal announced. A YES now requires an announced exit by Dec 31, 2026, 11:59 PM ET.\n\n(a) About 6.5 weeks remain. Thanksgiving, the holiday recess and Trump's Asia/APEC trip fall inside that window.\n\n(b) The status quo is No. Trump has publicly doubled down several times: \"I'll stand by him,\" \"A PLUS, PLUS, PLUS,\" no plans to fire him on 60 Minutes. The House killed Massie's impeachment on Nov 10, and Senate Armed Services Chair Wicker praised Hegseth's briefing.\n\n(c) NO path: Trump keeps him through the lame duck. Democrats then take up impeachment or investigations in January, which falls after this market's deadline.\n\n(d) YES path: Trump reverses and announces a successor or Hegseth's exit in December. The motive would be to use the GOP-held Senate and pre-empt a January impeachment, as Bush did with Rumsfeld in 2006. CBS and NBC anonymous-source reports of Trump canvassing advisers, the \"dead man walking\" staff quotes, Vance blaming the Iran war, and the ongoing post-midterm turnover (Wiles resigned Nov 6) keep this path live.\n\nThe Polymarket anchor is 13.5%, and the closely related \"out as SecDef by Dec 31\" market sits at 15.5% on $3M volume. The price fell 22 points in a week after the impeachment vote failed and Trump re-endorsed him. I see no unpriced information that justifies departing from the market, so I stay near 13%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7359",
+   "has_trace": true
+  },
+  {
    "id": 6770,
    "scanned_at": "2026-11-09T11:54:18.559400",
    "date": "2026-11-09",
@@ -37874,6 +37944,166 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.18, 0.18). (0) Not met: AFP via France 24 (Nov 15) places Houthis about 60 km from Aden at Al-Kharaz in Lahj; no credible report of ground forces in a qualifying district, and missile strikes on the airport, palace and al-Buraiqa are excluded. (a) About 46 days remain until Dec 31. (b) Status quo is No: Houthis must still cross the Lahj lowland corridor and enter Dar Sad, Sheikh Othman or another named district, with credible confirmation. (c) No: attrition in Lahj (Nov 10-14 seesaw), Saudi air support and redeployed Giants/Homeland Shield forces hold prepared lines, a Marib 2021-22-style stall at the gates, or an Oman-brokered truce freezes lines. (d) Yes: coastal and highland axes merge after the Bab el-Mandeb withdrawal, the fractured STC/Saudi-supervised defence collapses per Xinhua's 'unexpectedly rapid defeats', and a brief raid reaches an outer district, as in 2015 when entry followed within days of reaching the outskirts. The ~1.5 km/day pace (80 km Nov 2 to 60 km Nov 15) barely reaches the outskirts by the deadline, and urban defence slows advances. Anchoring on the 17.5% market (Nov 30 contract 3.9%, implying ~14% for December); the Nov 15 setbacks appear priced by the +4% weekly move, so I stay near the market.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/7291",
+   "has_trace": true
+  }
+ ],
+ "Will Mark Rutte visit Ukraine by December 31, 2026?": [
+  {
+   "id": 7383,
+   "scanned_at": "2026-11-16T23:16:01.255061",
+   "date": "2026-11-16",
+   "agent": 24.5,
+   "market_price_t0": 32,
+   "edge": -0.07500000000000001,
+   "confidence": 0.555,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.24, 0.25). (0) No source shows a qualifying visit since the market opened on 2026-07-29. The resolution-source read and all four research reports find Rutte's last Ukraine trips on 3 Feb and 3–4 Jun 2026, both before the window, and his November contacts with Ukrainian leaders took place in Dublin (12 Nov) and Brussels (16–17 Nov). (a) About 6.5 weeks remain until 31 Dec 2026. The 2 Dec foreign ministers' meeting in Brussels and the Christmas recess reduce the usable slots. (b) If nothing changes, the market resolves No: no trip is announced, and Ukrainian officials are coming to Rutte rather than the reverse. (c) No scenario: Rutte stays in Brussels and Washington-led diplomacy through the ministerial and the holidays, as in December 2025 when he made no Ukraine trip. (d) Yes scenario: a mass Russian winter strike on Kyiv, or a peace or security-guarantee milestone from the Abu Dhabi talks, prompts an unannounced night-train trip in early to mid December, matching his escalation-driven pattern. The base rate of about two visits a year (Oct 2024, Apr 2025, Feb 2026, Jun 2026) implies roughly 20% for a 6.5-week window, nudged up slightly for active peace talks and the winter strike season. The market mid of 32% (bid 30/ask 34, last trade 24%, down 17.5 points in a week) sits above that base rate. I found no specific information supporting the premium, so I shade below the market to about 24%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7383",
+   "has_trace": true
+  }
+ ],
+ "Will Larry Page be 2nd richest person on December 31?": [
+  {
+   "id": 7381,
+   "scanned_at": "2026-11-16T22:26:21.291417",
+   "date": "2026-11-16",
+   "agent": 3.3,
+   "market_price_t0": 10.1,
+   "edge": -0.0685,
+   "confidence": 0.8400000000000001,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.03). (0) The condition is not met. The Bloomberg index, rendered and dated Nov 16, 2026, has Bezos #2 at $368B and Page #3 at $247B, a gap of about $121B. Forbes, the fallback source, shows the same order (Bezos $384.6B, Page $244.5B). (a) About six weeks remain until the Dec 31, 2026 5:30 PM ET snapshot. (b) If nothing changes, Bezos stays #2 and the market resolves NO. Roughly $150B of Bezos's fortune is private Blue Origin and Prometheus value marked at the September $140B round, so an equity selloff does not hit him much. Page's wealth is almost all Alphabet, so a broad AI selloff hurts Page more than Bezos. (c) NO scenario: Alphabet drifts in the $280–320 range, Amazon stays flat, and Bezos keeps #2 by more than $80B. (d) YES scenario: Alphabet rallies about 40–50% back toward its May high near $400 (perhaps on Gemini or TPU news) while Amazon drops 15–20%, or Bloomberg marks down Blue Origin. Either path is roughly a 3-sigma move in six weeks, and no Blue Origin markdown has been reported. The Polymarket anchor is a 10% mid, but the book is bid 0.4% / ask 20%, has about $22k of volume and a stale last trade, and has fallen 48 points in 30 days. That mid is not an informative consensus, so I price below it at about 4%. I keep some tail weight for the possibility that the Bloomberg figures are misread and for volatile AI-stock swings.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7381",
+   "has_trace": true
+  }
+ ],
+ "Will OpenAI be the third-best AI Agent Lab at the end of November 2026?": [
+  {
+   "id": 7379,
+   "scanned_at": "2026-11-16T21:36:56.169191",
+   "date": "2026-11-16",
+   "agent": 53,
+   "market_price_t0": 45.5,
+   "edge": 0.07500000000000001,
+   "confidence": 0.45999999999999996,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.56, 0.50). (0) Not resolved yet. The most recent read of the resolution source is a search-engine cache of the arena.ai Labs view dated Nov 13. It shows Anthropic #1 (28.61%), Google #2 (16.45%), OpenAI #3 (13.91%±2.03) and Meta #4 (8.00%). An Arena post around Nov 16 on Qwen4-Max gives the same order: Anthropic, Google, OpenAI, Meta. (a) About 14 days remain until the Nov 30 12:00 PM ET check. (b) If nothing changes, the status quo is YES. Even if the lab ranking were judged ambiguous, the model-view fallback has Google's best model well above OpenAI's, so OpenAI would still sit third. (c) NO: OpenAI ships GPT-6.2 Astra (reportedly about 91% likely by Nov 30), or a GPT-6.1 variant gains with more sessions, and passes Google's 16.45%. The rank spread already overlaps (OpenAI 3/2/3), and that would push Google to third. A methodology change or a late Meta Muse Ember surge are smaller NO paths. (d) YES: Google's Carbon stays tighter and ahead, any new OpenAI model lands between Meta and Google, and the order holds. The market is at 45.5% and the sibling 'OpenAI second-best' market is at 36%. Together these leave about 18% for OpenAI finishing fourth or lower, which looks too high given the 5.9-point cushion over Meta. I lean slightly above the market for YES, while respecting the real chance of an upward OpenAI flip.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7379",
+   "has_trace": true
+  }
+ ],
+ "Will Jensen Huang's resignation or removal be announced and Nvidia's market cap be below $4T at the end of 2026?": [
+  {
+   "id": 7377,
+   "scanned_at": "2026-11-16T20:43:16.220961",
+   "date": "2026-11-16",
+   "agent": 57.5,
+   "market_price_t0": 52,
+   "edge": 0.05499999999999994,
+   "confidence": 0.525,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.57, 0.58). (0) Resolution check: the first component is already met. Nvidia's official press release and 8-K of 2026-11-12 state that Huang \"has resigned as President, CEO, and a member of the Board, effective immediately.\" Under the rules a later return would not undo that announcement. The contract therefore hinges only on whether the 2026-12-31 closing market cap is under $4T. (a) About 6.5 weeks, roughly 32 trading days, remain. Q3 earnings land on 11/17 with an options-implied move of about ±8–9%, plus a December Fed meeting. (b) Status quo: NVDA closed at $155.51 on 11/16, about $3.75–3.78T on 24.1–24.3B shares. The $4T line is roughly $164.6–166, so if nothing changes the outcome is Yes. (c) NO scenario: a strong guide on 11/17, an exculpatory export-probe outcome, a national-champion designation, or mean reversion after a 35% drawdown lifts the stock about 6–7% to above ~$166 by year-end. (d) YES scenario: an in-line print or soft guide, a hawkish Fed with 5%+ yields, continuing DOJ, Bessent and congressional probe headlines, and an outside-CEO search keep the stock below $165. A lognormal estimate with about 60–65% annualized volatility puts roughly a 39–41% chance on closing above the threshold, implying about 59–61% for Yes. I shade that slightly for analyst targets sitting above the line and possible bounce dynamics. The market mid of 52% appears to reflect a slightly higher intraday price than the $155.51 close, so I lean modestly above it at 0.57.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7377",
+   "has_trace": true
+  }
+ ],
+ "Will Claude go down fewer than 5 times in November 2026?": [
+  {
+   "id": 7375,
+   "scanned_at": "2026-11-16T19:57:06.679519",
+   "date": "2026-11-16",
+   "agent": 60.5,
+   "market_price_t0": 78.5,
+   "edge": -0.18000000000000005,
+   "confidence": 0.39,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.63, 0.58) after one crux research pass. (0) Not resolved. The resolution page rendered only monthly claude.ai uptime (98.72% Nov 1–16), not the daily box colours, so the non-green count to date is unknown. Statuspage colours days by partial/major outage minutes, so degraded-only days likely stay green. Nov 13 (major outage) is near-certain non-green, Nov 16 (partial outage) is very likely, Nov 14 is uncertain, and Nov 8/10/12 are doubtful. Uptime arithmetic fits about 2–3 days. The market (YES 78.5%, 5-7 at 17.5%, 8-10 at 5%) implies traders who can see the bars count roughly 2–3 so far. (a) 14 days remain (Nov 17–30). (b) Status quo, with no more outages, gives YES. (c) NO: 2–3 more short partial outages in the remaining fortnight, plausible given incident starts on about 37% of days, post-launch overloads, and October reaching 5-7 days despite 99.85% uptime. (d) YES: the count is about 2 and the rest of the month adds at most 2 outage days, as in the quiet Nov 1–7 stretch. Expected extra days of about 2–3 and every month from April to October ending at 5+ make me shade below the market, while partly deferring to traders' view of the bars.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7375",
+   "has_trace": true
+  }
+ ],
+ "Will there be no next Claude Opus model (5.6+) release by November 30, 2026?": [
+  {
+   "id": 7373,
+   "scanned_at": "2026-11-16T19:08:27.950069",
+   "date": "2026-11-16",
+   "agent": 69.5,
+   "market_price_t0": 68,
+   "edge": 0.014999999999999902,
+   "confidence": 0.555,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.70, 0.69). (0) Not resolved yet. Anthropic's newsroom and models overview, read Nov 16, list Opus 5.5 (Sep 22) as the newest Opus. The latest launches are Fable 5.2 and Mythos 5.2 (Nov 9), which do not count because they are not named Opus. (a) About 14 days remain, until Nov 30 ET. (b) If nothing changes, Opus 5.5 stays the latest Opus and the market resolves Yes. (c) No scenario: Anthropic focuses on the IPO pricing and listing (Nov 18–19) after spending its launch slot on Fable 5.2. Under its post-September 'pace the frontier' safety gating, it ships Opus 5.6 or Opus 6 in December, which trackers put around mid-December. (d) Yes-to-release scenario: the recent ~58–60 day Opus cadence (day 69 falls on Nov 30) and the ~3-week Fable→Opus lag both point to a late-November launch. The unconfirmed Oct 29 report of an Opus checkpoint in testing adds some support, as does a possible post-IPO launch to ride the attention. The market anchor is 68% (bid 65 / ask 71), and the sibling 'released by Nov 30' market sits at 32%. Research shows no model ID, no codename leak and no event hook, and repeated rumours have failed. On the other side, the cadence argument is real and Anthropic launches with little warning. I nudge slightly above the market, to 70%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7373",
+   "has_trace": true
+  }
+ ],
+ "Will Meta be the third-best AI lab at the end of November 2026?": [
+  {
+   "id": 7368,
+   "scanned_at": "2026-11-16T17:28:39.551532",
+   "date": "2026-11-16",
+   "agent": 82,
+   "market_price_t0": 79.5,
+   "edge": 0.02499999999999991,
+   "confidence": 0.61,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.82, 0.82). (0) Not yet resolved: the live resolution page returned 403/bot-check, but indexed raw-scoring (no style control) snapshots from Nov 11 and the llmbenchmark.ai tracker on Nov 16 both show Google (1538), then Anthropic (Opus 5.5 1514), then Meta (Muse Wonder 1503), with the next labs around 1475-1487. The Meta-#2 ordering comes from the style-control-on board, which the rules exclude. (a) About 14 days remain until the Nov 30 12:00 PM ET check. (b) If nothing changes, Meta is lab #3 and the market resolves Yes. (c) NO would need Meta to gain 11+ points on Anthropic (unlikely, since its score is drifting down as votes accrue), or a new Moonshot/Alibaba/OpenAI/DeepSeek/xAI model to debut above about 1503 raw, or Lab Rank tie or display quirks, or a resolver misreading the style-controlled table. (d) YES follows from sticky rankings: Anthropic has several models above Meta and Fable 5.2 as further upside, while outsiders trail by more than 15 points. The anchor is Polymarket at 79.5%. I lean slightly higher on the raw-view evidence but discount for not seeing the actual Lab Rank column and for an unexplained 7-point dip over the past week.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7368",
+   "has_trace": true
+  }
+ ],
+ "Houthis capture Taiz city by November 30?": [
+  {
+   "id": 7356,
+   "scanned_at": "2026-11-16T14:07:14.457640",
+   "date": "2026-11-16",
+   "agent": 6.5,
+   "market_price_t0": 9.5,
+   "edge": -0.03,
+   "confidence": 0.665,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.06). (0) The condition has not been met. Al Jazeera (Nov 6 and Nov 16) and Reuters/AFP (Nov 16) all describe Taiz city as government-held but encircled. Government forces repelled Houthi assaults on the Al-Aqroud and Kahlan fronts outside the city on Nov 9-13. No source places Houthi forces inside the city or at Al-Qahira Castle, which sits on government-held Mount Saber.\n\n(a) About 14 days remain until 11:59 PM ET on Nov 30. The three-day grace window only covers control established by that date.\n\n(b) If nothing changes, the siege continues and the market resolves No. Siege and encirclement explicitly do not qualify.\n\n(c) NO scenario: the defenders keep holding the outer fronts. Houthi effort shifts toward Aden after the Bab al-Mandeb and Lahj gains. Saudi airstrikes and UN pressure (resolution 2837) help sustain a stalemate.\n\n(d) YES scenario: food and fuel run out, and government reserves are diverted to Aden. A southern or eastern front (Saber, Habashi) collapses, and the Houthis storm or negotiate entry into the Al-Qahira district within two weeks, confirmed by video. The fast coastal collapse at Mocha and Bab al-Mandeb shows lines can fail abruptly.\n\nThe market sits at 9.5% and has been trending down. The Dec 31 contract at 21% implies a modest hazard rate. History weighs against a fall: Taiz has held for 11+ years, the terrain is rugged and the population is hostile. Six weeks of siege have produced no urban entry, and the resolution requires clearly demonstrated, uncontested control. I shade slightly below the market to about 7%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7356",
+   "has_trace": true
+  }
+ ],
+ "No change in Bank of England’s interest rates after December 2026 meeting?": [
+  {
+   "id": 7354,
+   "scanned_at": "2026-11-16T13:17:08.223842",
+   "date": "2026-11-16",
+   "agent": 24.5,
+   "market_price_t0": 22.5,
+   "edge": 0.01999999999999999,
+   "confidence": 0.555,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.22, 0.27). (0) The question is not resolved. The BoE Bank Rate page shows Bank Rate at 4.00% after the 5 November 8–1 hike, with Mann voting for 50bp, and the next decision due 17 December 2026. (a) About one month remains, with October labour data (17 Nov), October CPI (18 Nov) and November CPI still to come before the meeting. (b) Status quo: the momentum is toward a hike. Pill told the FT that rates will likely rise again in December, Bailey said November was unlikely to be the last hike, and the GDP beat pushed OIS/futures pricing for a 25bp move to about 78–91% depending on source. Polymarket prices a hold at 22.5% and a 25bp hike at 76.5%, consistent with the lower end of that OIS range. (c) NO: October CPI comes in at or above the BoE staff forecast of 3.7%, services inflation is firm, and Brent stays in the $90s or rises on Iran escalation. Bailey, Breeden or Ramsden then join the four hawks and the MPC hikes to 4.25%. (d) YES: soft October and November CPI, unemployment rising, and Brent falling toward $90. The committee then treats November as an insurance hike and holds 5–4, as ING and Deutsche Bank's Raja expected, and as the 13 November Reuters poll found (64 of 65 economists for a hold). That poll predates Pill's interview and Pantheon's switch to a December hike, so it carries less weight. I stay close to the market anchor, slightly below it, because pricing has moved steadily toward a hike and data surprises could go either way.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7354",
+   "has_trace": true
+  }
+ ],
+ "Anthropic IPO closing market cap above $1.5T?": [
+  {
+   "id": 7351,
+   "scanned_at": "2026-11-16T12:30:15.668742",
+   "date": "2026-11-16",
+   "agent": 31,
+   "market_price_t0": 33.5,
+   "edge": -0.025000000000000022,
+   "confidence": 0.485,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.32, 0.30). (0) Not resolved: TradingView and news show the IPO pending, pricing Nov 18 and first trade on Nasdaq as ANT on Nov 19, 2026. (a) The deadline is Dec 31, 2027, but the outcome effectively depends on one closing price about three days away; no-IPO risk is about 0.15% per the sibling market. (b) At the filed $70–78 range, the cap on about 13.09B all-class shares outstanding is about $0.92–1.02T, or about $1.26–1.40T fully diluted, so an unchanged pricing with no pop resolves NO. (c) NO: the deal prices near the top and pops a typical 10–30%, and a resolver using the literal 'shares outstanding' count gets about $1.1–1.35T (the perp near $102 is about $1.34T basic); a Class A-only count would make $1.5T unreachable. (d) YES: a roughly 7x-oversubscribed book and FT-reported above-range pricing lead to a close of about $83 or more, and the resolver or a 'reliable source' uses the fully diluted cap above $1.5T; or a Snowflake-style pop takes the close past about $115, clearing even the basic count. Weighting about 40–45% on a fully diluted count (about a 75% chance of clearing) against the basic count (about 15–20%) gives roughly 0.30–0.35. That matches the direct market at 33.5% and the sibling buckets above $1.5T (about 34%), and the research surfaces no unpriced information strong enough to move away from it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7351",
    "has_trace": true
   }
  ]

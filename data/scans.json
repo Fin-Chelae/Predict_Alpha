@@ -1411,6 +1411,20 @@
  ],
  "Will Anthropic flip BTC by December 31?": [
   {
+   "id": 7413,
+   "scanned_at": "2026-11-17T06:22:46.525010",
+   "date": "2026-11-17",
+   "agent": 80,
+   "market_price_t0": 80.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.585,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.80, 0.80). (0) The condition is not yet met. The last confirmed Anthropic valuation is the $965B Series H from May, and CoinGecko puts BTC at about $1.30T on Nov 17. The decisive catalyst is IPO pricing on the evening of Nov 18, with ANT trading from Nov 19. (a) About six weeks remain until the Dec 31, 11:59 PM ET deadline, and the 'at any point' wording gives repeated chances after the debut. (b) If nothing changes, the $965B figure stays below BTC and the market resolves NO, but an IPO this week almost certainly changes that. (c) NO path: one of the following happens. The IPO slips or prices in the lower half of the $70–78 range in a risk-off tape after Nvidia earnings. The resolver reads 'valuation' as the basic share count, which gives $0.92–1.02T in range. ANT trades flat or down while BTC rebounds above about $70k, a cap of $1.4T+. (d) YES path: demand of about 7x and FT/Bloomberg reports of above-range pricing point to a price of $78 or higher. That would bring widely reported fully diluted valuations of $1.4–1.5T+ from CNBC, Reuters and Breakingviews, which should satisfy 'any public valuation… consensus of credible reporting'. The Hyperliquid pre-IPO perp near $100 also implies a first-day market cap near or above BTC even on a basic count. Polymarket's IPO-day market-cap brackets put about 65% on $1.25T or more. That market is related context rather than the same question. I anchor on the 80.5% mid, which has a wide 76/85 spread, and stay roughly there. Basis ambiguity and macro risk offset the strong demand signals.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7413",
+   "has_trace": true
+  },
+  {
    "id": 6535,
    "scanned_at": "2026-11-06T14:13:09.668830",
    "date": "2026-11-06",
@@ -2474,6 +2488,20 @@
   }
  ],
  "US strike on Cuba by December 31?": [
+  {
+   "id": 7408,
+   "scanned_at": "2026-11-17T04:50:39.801333",
+   "date": "2026-11-17",
+   "agent": 7.5,
+   "market_price_t0": 10,
+   "edge": -0.024999999999999994,
+   "confidence": 0.64,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.07). (0) Not resolved. The resolution-source read and every November article (Yahoo on Nov 16, Latin Times, Rio Times and UNN on Nov 14) report no US bomb, drone or missile impact on Cuban soil. They also report no announced order. (a) About 44 days remain until December 31, 2026 ET. (b) If nothing changes, the market resolves No. Pressure has stayed economic for more than 10 months since the January Venezuela raid: a fuel blockade, a new sanctions wave on Nov 5, and CIA recruitment appeals, with no kinetic action. (c) No scenario: Trump keeps the 'get Cuba done before I leave' horizon, which runs to 2029. Cuba stays queued behind the Iran and Ukraine files with Rubio stretched across both. The Army Reserve 90–120 day planning window points mostly past year-end, and talks continue at limited pace. (d) Yes scenario: talks collapse or an incident occurs, such as a Cuban drone or air-defence action near Guantánamo. Trump then orders a short Venezuela-style precision strike package from Caribbean naval assets or Guantánamo drones. That could happen in the lame-duck window before Democrats take Congress on Jan 3. The Polymarket anchor is 10% (bid 9, ask 11), up 2.5 points this week on Trump's Hewitt remarks. Related markets price lower: 'military clash' at 6.5% and 'invade' at 2.5%. Given no observed force movements and a narrow strike definition, I shade slightly below the market to 8%, keeping real tail weight for a surprise strike like the Venezuela precedent.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7408",
+   "has_trace": true
+  },
   {
    "id": 6795,
    "scanned_at": "2026-11-09T19:50:31.561780",
@@ -14605,6 +14633,20 @@
  ],
  "OpenAI announces it has achieved AGI before 2027?": [
   {
+   "id": 7430,
+   "scanned_at": "2026-11-17T11:03:14.466848",
+   "date": "2026-11-17",
+   "agent": 7,
+   "market_price_t0": 9,
+   "edge": -0.01999999999999999,
+   "confidence": 0.67,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Resolution check: OpenAI's news page, rendered Nov 17, 2026, has no AGI declaration. The closest moment was Brockman's \"Welcome to the AGI era\" at the GPT-6 Astra launch on Sep 3, which fact-checks and the market did not treat as a resolving announcement. Altman's viral Semafor clip on Nov 16 was explicitly denied as an AGI claim (\"Certainly not\"). (a) About 44 days remain until Dec 31, 2026 ET. (b) Status quo is No: OpenAI keeps using hedged, definition-dependent language (\"gray, fuzzy\", \"no clean moment\", AGI as an \"irrelevant marketing term\"). (c) No path: OpenAI ships Astra 6.1 or other releases with \"very AGI-like\" framing but never says it has created AGI, and the year ends. (d) Yes path: Altman follows through on his August TIME remark (an internal system he'd call AGI by year-end) with a blog post or launch statement. Removing the Microsoft AGI clause took away a contractual brake, and a rumored Astra 6.1 launch this week offers a hook. Anchoring on Polymarket's 9% mid (bid 8 / ask 10), I shade slightly lower for three reasons: Altman's fresh public denial on Nov 16–17, the precedent that the bigger September moment didn't resolve Yes, and Kalshi's \"any company achieves AGI before 2027\" at 6%. I keep a few points for ambiguity, since a strong statement could be judged a declaration by \"consensus of credible reporting\".",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7430",
+   "has_trace": true
+  },
+  {
    "id": 6548,
    "scanned_at": "2026-11-06T18:14:25.058984",
    "date": "2026-11-06",
@@ -15944,6 +15986,20 @@
   }
  ],
  "Will Mojtaba Khamenei be head of state in Iran end of 2026?": [
+  {
+   "id": 7400,
+   "scanned_at": "2026-11-17T03:16:01.967943",
+   "date": "2026-11-17",
+   "agent": 91.8,
+   "market_price_t0": 92.3,
+   "edge": -0.006000000000000005,
+   "confidence": 0.715,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.91, 0.93). (0) The condition is not yet resolved. The market settles on who holds de facto head-of-state power on 2026-12-31 at 12:00 PM ET. As of 2026-11-17, Wikipedia, Al Jazeera (4 Nov), IRNA (2 Nov) and ISW (16 Nov) all treat Mojtaba Khamenei as the sitting Supreme Leader. Decrees, military appointments and a letter to Putin (5–6 Nov) are issued in his name. (a) About six weeks remain. (b) If nothing changes, he keeps the title and the consensus of reporting names him, so the market resolves Yes. No Assembly of Experts move, rival claimant, or death report has surfaced. (c) NO would come from three paths. Renewed US/Israeli strikes after the 15 Nov resumption of hostilities could kill him, and Katz has threatened him explicitly. A hidden death or incapacity could be disclosed, given he has had no verified public appearance since February. Or the resolver could read the de facto clause as favouring the IRGC/Vahidi or 'No Head of State'. (d) YES is simply continuity: officials keep governing in his name through 31 Dec, and resolvers default to the formal leader, as even the 'IRGC dominates' analyses keep him at the apex. I anchor on the 92.35% mid. The sibling markets are consistent with it: 'leadership change by Dec 31' is at 7.5% and 'no head of state' at 2.4%. Renewed hostilities and the de facto wording justify a slight shade below the market, not a large move.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7400",
+   "has_trace": true
+  },
   {
    "id": 6591,
    "scanned_at": "2026-11-07T06:19:23.819103",
@@ -19939,6 +19995,20 @@
  ],
  "Theo FDV above $100M one day after launch?": [
   {
+   "id": 7424,
+   "scanned_at": "2026-11-17T09:29:13.664100",
+   "date": "2026-11-17",
+   "agent": 6.5,
+   "market_price_t0": 10,
+   "edge": -0.035,
+   "confidence": 0.6699999999999999,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.06). (0) Not resolved yet. Every source checked (the resolution-source read of @Theo_Network, which now redirects to @theo_xyz, plus theo.xyz, airdrops.io and FinanceFeeds) shows no Theo Network token, TGE date or tokenomics as of 2026-11-17. Autheo's THEO and thBILL are different assets: one is an unrelated project and the other an excluded RWA token. (a) About six weeks remain until the 2026-12-31 11:59 PM ET launch cutoff, and the FDV is read at 4 PM ET the next day. (b) If nothing changes, there is no launch and the market resolves No. (c) NO: Theo keeps building TVL through its thUSD points campaign, which started in June with 3- and 6-month lock-ups, and pushes the TGE into 2027. That fits a TGE once 'expected Q1/Q2 2026' that has already slipped. (d) YES: a surprise December TGE with a one-to-two-week notice period lists a token backed by a $20M raise and about $145M TVL, and it trades above $100M FDV on day one. (e) The market anchor is 10%, and the sibling 'launch by Dec 31' market sits at about 16%. Putting conditional P(FDV>$100M | launch) at roughly 65-75%, I put P(launch) at about 10%, slightly below the sibling given the silence, the holiday timing and weak crypto conditions. That gives about 7%, a touch under the market, which is also consistent with its steady downward drift from 22% on 11/03.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7424",
+   "has_trace": true
+  },
+  {
    "id": 4931,
    "scanned_at": "2026-10-17T06:22:11.564751",
    "date": "2026-10-17",
@@ -20260,6 +20330,20 @@
   }
  ],
  "Edi Rama out as Albania PM in 2026?": [
+  {
+   "id": 7393,
+   "scanned_at": "2026-11-17T01:43:04.984336",
+   "date": "2026-11-17",
+   "agent": 5.8,
+   "market_price_t0": 7,
+   "edge": -0.012500000000000004,
+   "confidence": 0.715,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) The condition has not been met. Credible reports from 15–17 Nov 2026 show Rama acting as PM: he spoke at the EU Enlargement Forum in Brussels, met Costa and Metsola, and chaired the Socialist Party (PS) National Assembly. No resignation or removal has been reported or announced, so Yes would need a resignation or removal announcement before 31 Dec 2026. (a) About six weeks remain. (b) The status quo is No: Rama has an 83-seat PS majority in a 140-seat parliament, the opposition is boycotting and partly suspended, and he has repeatedly and explicitly refused to resign through more than five months of protests, including the violent October escalation. (c) No scenario: the Nov 28–29 diaspora protests come and go, the SPAK file naming Rama stays at the investigation stage, PS discipline holds as Rama purges dissenters like Veliaj and Spiropali, and he finishes 2026 in office while preparing for the May 2027 local elections. (d) Yes scenario: SPAK escalates against Rama or the protests surge, PS MPs begin defecting under EU or US pressure, and Rama announces a caretaker government or his own departure, as in the 2017 technical-government deal. That announcement alone would resolve Yes. The real new pressures are the first SPAK proceeding naming Rama, Veliaj's call for a party no-confidence procedure, and some MEP calls for a caretaker government. None of these is a mechanism, and a party-chair challenge or an early-election call would not by itself end his premiership. The market sits at 7% (bid 6, ask 8) and has drifted down. I shade slightly below it given the short window and a fully intact majority, while keeping tail risk for a sudden negotiated exit.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7393",
+   "has_trace": true
+  },
   {
    "id": 6340,
    "scanned_at": "2026-11-04T04:21:51.852007",
@@ -21654,7 +21738,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-16T23:44:23.604Z",
+  "last_sync": "2026-11-17T11:50:51.620Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -27161,6 +27245,20 @@
  ],
  "Will the UK’s 2026 inflation be between 3.5% and 3.9%?": [
   {
+   "id": 7396,
+   "scanned_at": "2026-11-17T02:27:30.186904",
+   "date": "2026-11-17",
+   "agent": 63.5,
+   "market_price_t0": 66.3,
+   "edge": -0.02849999999999997,
+   "confidence": 0.56,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.64, 0.63). (0) The condition is not met: ONS shows September 2026 CPI at 3.5%, and the December print resolving the market is due on 20 January 2027. (a) About two months remain, with October released 18 November and November on 16 December. (b) Status quo: the rate sits at the band's lower edge. Repeating last year's roughly +0.6% September-to-December index rise would leave December near 3.5%, while forecasts lean slightly higher (October market about 60% on 3.7–3.9%, Deutsche Bank 3.8%, Treasury Q4 average 3.6% with range 3.3–3.9%, Bank of England Q4 about 3.75%). Falling petrol in November and the January timing of the Ofgem cap rise argue against breaching 3.9% by December. (c) NO: October at 3.8–3.9% plus a weak November 2025 base (−0.2% m/m) and food or indirect energy effects push December to 4.0% or more (about 18–20%). Alternatively, the oil slump drags it to 3.4% or lower (about 15%, matching the 3.0–3.4% sibling market at 13.5%). (d) YES: October prints 3.6–3.8% and the fuel decline holds December at 3.6–3.9%. I anchor on the market's 66% and trim slightly for upside risk from the Bank of England's and Reuters poll's 4%-plus early-2027 paths.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7396",
+   "has_trace": true
+  },
+  {
    "id": 6638,
    "scanned_at": "2026-11-07T21:06:54.343731",
    "date": "2026-11-07",
@@ -29130,6 +29228,20 @@
   }
  ],
  "Iran leadership change by December 31?": [
+  {
+   "id": 7404,
+   "scanned_at": "2026-11-17T04:04:01.706256",
+   "date": "2026-11-17",
+   "agent": 6.3,
+   "market_price_t0": 7.5,
+   "edge": -0.012499999999999997,
+   "confidence": 0.64,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.06). (0) The condition has not been met. The resolution-source read for Nov 16 (ISW/CTP and IranWire) still calls Mojtaba Khamenei Supreme Leader, and none of the research reports a removal, detention, resignation or confirmed death. (a) About 44 days remain until Dec 31. (b) If nothing changes, this resolves No. The regime keeps issuing written directives in his name (Oct 31, Nov 2, Nov 4), senior officials repeatedly say he is healthy, and credible outlets still treat him as leader. (c) The No path is that the 'no war, no peace' stalemate and the Qatar-mediated talks carry on. Trump has called renewed strikes 'highly unlikely' and said they 'won't be necessary', and after Republican midterm losses that Vance linked to the war, escalation looks politically costly. The opaque arrangement would then simply persist to year-end. (d) The Yes path is that talks collapse, the US or Israel resumes major strikes and kills him (Israel has named him a target), or a concealed death or incapacity is confirmed by an official admission or corroborated mainstream reporting. A less likely route is the IRGC or Assembly formally replacing him. The anchor is the Polymarket price of 7.5% (bid 7, ask 8), which has fallen 4 points over 30 days. Related Polymarket contracts imply a consistent hazard rate: 2.3% for removal by Nov 30 and 22% by June 2027. Nothing in the research is new enough to beat that consensus. The modest tail from his unverified health and the 'prevented from acting' wording is offset by the US de-escalation signals, so I sit slightly below market at 6.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7404",
+   "has_trace": true
+  },
   {
    "id": 6594,
    "scanned_at": "2026-11-07T07:05:40.771999",
@@ -32409,6 +32521,20 @@
  ],
  "Will Lake Powell's minimum elevation stay above 3,510 ft?": [
   {
+   "id": 7410,
+   "scanned_at": "2026-11-17T05:36:31.045196",
+   "date": "2026-11-17",
+   "agent": 96,
+   "market_price_t0": 87.7,
+   "edge": 0.08299999999999996,
+   "confidence": 0.84,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.95, 0.97). (0) The outcome is not settled yet. The named USBR RISE series (item 508) reads 3,539.99 ft on Nov 15, 2026. The lowest reading since the market opened on Aug 17 is the record low of 3,516.62 ft on Sep 15, which is above 3,510, so nothing has resolved No. (a) About 4.5 months remain, until March 31, 2027, and the April 15 data snapshot governs settlement. (b) Status quo: the lake is about 30 ft above the line and still rising. Inflow is about 9–11k cfs against releases of about 6.6k cfs, Flaming Gorge supplemental releases run through April 2027, and Reclamation's November 24-Month Study Probable Minimum (dry, 90%-exceedance) case holds Powell at about 3,533–3,535 ft from November through April. (c) No would need a net loss of roughly 1.5+ maf in the dead of winter. That would take a much drier-than-90th-percentile trace plus an unexpected increase in Glen Canyon releases. The 2027–28 guidelines explicitly cut releases when Powell is projected below 3,510, which makes this very unlikely; a residual risk is an erroneous USBR data point. (d) Yes: releases stay at the 6.0 maf pace, winter baseflow and Flaming Gorge water keep the lake roughly flat or rising, and the window low remains 3,516.62 ft. The market's 87.7% (down 8 pts this week, on thin volume) looks too low relative to the documented 30 ft cushion and the dry-case projections. I move to about 95%, keeping some margin in case the November study figures, which came via the research reports, are wrong and for data or operational surprises.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7410",
+   "has_trace": true
+  },
+  {
    "id": 5036,
    "scanned_at": "2026-10-18T14:06:34.539827",
    "date": "2026-10-18",
@@ -33313,6 +33439,20 @@
  ],
  "Will Extended launch a token by December 31 2026?": [
   {
+   "id": 7421,
+   "scanned_at": "2026-11-17T08:41:30.028862",
+   "date": "2026-11-17",
+   "agent": 89,
+   "market_price_t0": 91.5,
+   "edge": -0.025499999999999967,
+   "confidence": 0.62,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.88, 0.90). (0) Not resolved. Extended's X page (last checked Nov 11), Tokenomist (Nov 13, $0 price and 100% locked) and Bitrue (TGE \"Not set\") all show no transferable or tradable XTEN yet. The pre-market perps on Hyperliquid, Lighter and others do not count. (a) About six weeks remain until the 11:59 PM ET deadline on Dec 31, 2026. (b) Status quo: if nothing changes, the market resolves NO. But almost every prerequisite is already done: tokenomics are published, the MiCA/CySEC whitepaper is notified, points are closed, the Arc migration is complete, the allocation checker and terms signing are live, and pre-market price discovery puts FDV near $250M. Only the TGE date is missing. (c) NO path: further compliance review, the five unpublished pre-launch items (staking emissions, validators, buyback and others), or a deliberate wait until the Dec 31 signing window closes push the TGE into January. That would be a third slip after Q3 and Nov 2. (d) YES path: Extended announces a late-November or early-December TGE about 1–2 weeks ahead, and XTEN trades on Extended spot and CEXs before year-end, consistent with its public \"November\" commitment. I anchor on the Polymarket mid of 91.5%. I shade it slightly down because of the team's repeated slippage, the absence of any date as of Nov 12–17, the -2.75% move over 7 days, and the Dec 31 terms deadline, which is compatible with a January TGE.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7421",
+   "has_trace": true
+  },
+  {
    "id": 6212,
    "scanned_at": "2026-11-02T09:53:04.659848",
    "date": "2026-11-02",
@@ -34002,6 +34142,20 @@
   }
  ],
  "Will any AI model reach 1575 Math Arena Score by December 31, 2026?": [
+  {
+   "id": 7427,
+   "scanned_at": "2026-11-17T10:17:04.261516",
+   "date": "2026-11-17",
+   "agent": 19,
+   "market_price_t0": 21.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.42,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.19, 0.19). (0) Not met as far as the sources show. The resolution tab (math-no-style-control) was blocked by Cloudflare. The best undated snapshot of that tab puts the top at about 1541±22, and the style-on Math board on Nov 11 had Gemini 4 Argon at 1536, so no source shows any model at or above 1575. (a) About 44 days remain, until Dec 31, 2026, 11:59 PM ET. (b) Status quo is No: the Math top has stayed in a 1530–1542 band across several model generations, and the tracker data shows it flat over the last week. (c) No: Fable 5.2, Carbon and Qwen4 Max enter the Math board around 1535–1555, any December release lands similarly, and the top stays well short of 1575. (d) Yes: Fable 5.2, which Arena's Nov 13 summary says 'takes #1' and which leads the Agent Arena by a wide margin, posts a preliminary no-style-control Math score near 1575 on few votes with a ±25 interval; a surprise GPT-6.x or Gemini release could do the same. The Polymarket price of 21.5% rose 13 points in 7 days, which probably reflects Fable 5.2 information traders can see on the live board and I cannot. I therefore stay close to the anchor, shading slightly down because a jump of about 34 points would be roughly twice the largest recent launch jump and the 1600 strike trades at only 7%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7427",
+   "has_trace": true
+  },
   {
    "id": 5751,
    "scanned_at": "2026-10-27T16:39:52.198985",
@@ -36575,6 +36729,20 @@
  ],
  "Will there be 3 US aircraft carriers in CENTCOM on November 30, 2026?": [
   {
+   "id": 7385,
+   "scanned_at": "2026-11-17T00:08:37.504807",
+   "date": "2026-11-17",
+   "agent": 73.5,
+   "market_price_t0": 78.5,
+   "edge": -0.050000000000000044,
+   "confidence": 0.55,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.74, 0.73). (0) The condition is not resolved, because it is measured at noon ET on Nov 30. As of Nov 15–16, USNI, CENTCOM's X post, AP, Al Jazeera and JPost all show three CVNs in CENTCOM: Bush, George Washington and Theodore Roosevelt. So the status quo already satisfies YES. (a) About 13 days remain until the snapshot. (b) If nothing changes, YES: Bush has been extended and its relief (Eisenhower) is still in Norfolk, and TR has just arrived. (c) NO path: TR's role is the originally stated one-for-one relief of George Washington. After a handover of about 1–2 weeks, GW leaves the Arabian Sea for Yokosuka and crosses into INDOPACOM before Nov 30. Lincoln's quick exit to Thailand after GW arrived in August is the precedent, and Indo-Pacific pressure plus a possible Oman/Qatar diplomatic track would add to it. (d) YES path: Iran attacked Bahrain on Nov 15, the blockade is ongoing, and US officials said all three carriers 'could remain if necessary', so GW is held on station through month-end. I anchor on the 78.5% Polymarket price, which has risen sharply as TR arrived. I shade it slightly down because the explicit 'relief' framing and the Lincoln precedent make a GW exit inside roughly 15 days of TR's arrival a real possibility. There is also residual risk from ambiguity in how carrier positions get reported.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7385",
+   "has_trace": true
+  },
+  {
    "id": 6800,
    "scanned_at": "2026-11-09T21:30:05.956712",
    "date": "2026-11-09",
@@ -38104,6 +38272,54 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.32, 0.30). (0) Not resolved: TradingView and news show the IPO pending, pricing Nov 18 and first trade on Nasdaq as ANT on Nov 19, 2026. (a) The deadline is Dec 31, 2027, but the outcome effectively depends on one closing price about three days away; no-IPO risk is about 0.15% per the sibling market. (b) At the filed $70–78 range, the cap on about 13.09B all-class shares outstanding is about $0.92–1.02T, or about $1.26–1.40T fully diluted, so an unchanged pricing with no pop resolves NO. (c) NO: the deal prices near the top and pops a typical 10–30%, and a resolver using the literal 'shares outstanding' count gets about $1.1–1.35T (the perp near $102 is about $1.34T basic); a Class A-only count would make $1.5T unreachable. (d) YES: a roughly 7x-oversubscribed book and FT-reported above-range pricing lead to a close of about $83 or more, and the resolver or a 'reliable source' uses the fully diluted cap above $1.5T; or a Snowflake-style pop takes the close past about $115, clearing even the basic count. Weighting about 40–45% on a fully diluted count (about a 75% chance of clearing) against the basic count (about 15–20%) gives roughly 0.30–0.35. That matches the direct market at 33.5% and the sibling buckets above $1.5T (about 34%), and the research surfaces no unpriced information strong enough to move away from it.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/7351",
+   "has_trace": true
+  }
+ ],
+ "Will Jensen Huang rank in Google’s Top 5 Most Searched People of 2026?": [
+  {
+   "id": 7419,
+   "scanned_at": "2026-11-17T07:55:48.971781",
+   "date": "2026-11-17",
+   "agent": 67.5,
+   "market_price_t0": 71,
+   "edge": -0.03499999999999992,
+   "confidence": 0.45999999999999996,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.66, 0.69). (0) Not resolved yet. Google's 2026 Year in Search page returns a 404, and the 2025 list (d4vd, Kendrick Lamar, Kimmel, Tyler Robinson, Pope Leo XIV) is only a reference. Huang still has to place top 5 on the Global Trending People list, which is expected in early December.\n(a) The list will probably appear within about 3–4 weeks. The hard deadline is 2027-03-31, and failure to release by then looks very unlikely.\n(b) Status quo is undetermined. The question is whether Huang's spike, from late October to mid-November 2026, is big enough on a year-over-year breakout basis. The spike follows his affair with an alleged Chinese intelligence asset, his resignation as Nvidia CEO, a DOJ probe and Senate testimony requests.\n(c) NO scenario: Google's window ends around Nov 25, as in 2025. That gives Huang only about 3–4 weeks of elevated interest, while his high 2025 baseline as a well-known CEO shrinks his year-over-year multiple. Year-long names such as Clancy, Haaland and Bad Bunny, or a non-US figure (World Cup, cricket), fill the slots, consistent with no executive in the 2023–2025 global top 5s.\n(d) YES scenario: the story is among the biggest global breakouts of 2026, spanning the US, Taiwan and China, with 500k+ trending queries and continuing news around the Nov 17 earnings and early-December hearings. In a field that is weak apart from Clancy, that is enough to take a slot. Late spikes like Mike Tyson's in 2024 have made the list before.\nAnchor: Polymarket at 71% (bid 70 / ask 72). Sibling #1 markets put Huang second, at 12% on Kalshi and 19% on Polymarket, which is consistent with a top-5 probability around 60–70%. Sibling top-5 prices (Clancy 85, Haaland 51, Bad Bunny 46.5) leave room for him. I shade slightly below the market for the executive base rate, the late timing within the data window, and possible recency bias in a thin, fast-moving market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7419",
+   "has_trace": true
+  }
+ ],
+ "Will there be no next Gemini Carbon model (4.1+) release by December 31, 2026?": [
+  {
+   "id": 7416,
+   "scanned_at": "2026-11-17T07:07:06.116788",
+   "date": "2026-11-17",
+   "agent": 85.5,
+   "market_price_t0": 77.5,
+   "edge": 0.07999999999999996,
+   "confidence": 0.61,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.84, 0.87). (0) Not resolved. The AI Studio changelog and the DeepMind Gemini page, both read on Nov 17, show Gemini 4 Carbon (GA Nov 10) as the newest Carbon model. Neither shows any 4.1+ Carbon or Gemini 5 Carbon. Gemini 4 Hydrogen does not qualify because its name lacks \"Carbon\".\n\n(a) About 6 weeks remain, from Nov 17 to Dec 31, 2026.\n\n(b) The status quo is Yes, meaning no qualifying release. Google's December calendar has 4 Carbon as a fixed commercial product: its price rises on Dec 1 and its rollout to more users is still unfinished.\n\n(c) In the No-release path, Google keeps widening 4 Carbon access and ships non-Carbon tiers. Leaks name Oxygen, Krypton and Helix as next models. Any Carbon improvement arrives as a checkpoint or snapshot, which the rules exclude.\n\n(d) A Yes-flip would need Google to ship a labelled \"Gemini 4.1 Carbon\" within about 7 weeks of 4 Carbon going public. That is faster than any observed flagship point-update; the closest precedent is 3 Pro to 3.1 Pro at about 93 days. It could happen under competitive pressure, for example a December launch push.\n\nThe market sits at 77.5%, down from 92.5% within 3 days. That drop could reflect information I can't see, so I don't move fully to my outside-view estimate of roughly 90%. No research found any leak, model ID or statement about a 4.1 Carbon, and the element-based naming scheme makes a point bump less likely. I lean somewhat above the market, at 0.84.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7416",
+   "has_trace": true
+  }
+ ],
+ "Trump meets with Kim Jong Un by December 31, 2026?": [
+  {
+   "id": 7389,
+   "scanned_at": "2026-11-17T00:54:41.383148",
+   "date": "2026-11-17",
+   "agent": 10,
+   "market_price_t0": 15.5,
+   "edge": -0.05499999999999999,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.11). (0) Not resolved. Every source, including the Korea Herald on Nov 17 and Reuters on Nov 16, shows no Trump–Kim meeting since Panmunjom in June 2019. Nothing makes a meeting impossible either.\n(a) About 44 days remain until Dec 31, 2026. The only identified window is the Shenzhen APEC/trilateral on Nov 18–19, one to two days away.\n(b) Status quo is No. Trump's \"may meet\" is conditional on Xi inviting Kim. Neither Beijing nor Pyongyang has confirmed anything. On Nov 4 Kim Yo Jong said there is \"no need to sit face-to-face\" with the US. A White House official said Nov 13 there were \"no plans at all\" for engagement. Seoul's presidential office saw \"little possibility\" of contact at APEC.\n(c) NO: Kim stays home or sends his envoy diplomacy through Moscow (Jo Yong Won met Putin). Shenzhen passes with only the US–China–Russia trilateral. No new Asia trip or venue appears before year-end, extending Trump's run of teased meetings that never happen.\n(d) YES: Xi invites Kim and he flies in on short notice for a sideline handshake in Shenzhen. Less likely, a 2019-DMZ-style improvised meeting is arranged in December.\nThere are no reported signs of Kim travelling, no logistical build-up, and North Korea refused face-to-face talks outright. I shade below the thin-volume (~$15k) market's 15.5%, whose recent jump looks driven by Trump's remark rather than by any confirmation, to about 9%. I keep a real tail for short-notice surprises, which Trump–Kim history shows are possible.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7389",
    "has_trace": true
   }
  ]

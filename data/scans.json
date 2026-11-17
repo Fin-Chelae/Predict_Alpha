@@ -7121,6 +7121,20 @@
  ],
  "Will Waymo operate in 12-15 cities on December 31 2026?": [
   {
+   "id": 7441,
+   "scanned_at": "2026-11-17T14:15:07.005391",
+   "date": "2026-11-17",
+   "agent": 85,
+   "market_price_t0": 84.7,
+   "edge": 0.0034999999999999476,
+   "confidence": 0.71,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.85, 0.85). (0) Not yet resolved. Waymo's rides page (Nov 17) lists 15 places under 'Serving Riders In' (13 in app plus Austin and Atlanta via Uber), and the FAQ shows at least 14 open to anyone with Las Vegas waitlisted, so every reading gives 13-15, inside the band. (a) About 6 weeks remain, to Dec 31, 2026 11:59 PM ET. (b) Status quo: the count stays at 15 and resolves Yes; recent blog activity (Oct 27 service-area expansions, Las Vegas airport, Fairbanks testing) adds no new city. (c) No path: Detroit, employee-only since Oct 6, opens to the general public before Dec 31, consistent with the roughly 8-week lag seen July 8 to Sept 1 and an analyst's 'limited basis by end of year' call; but a waitlist launch may be excluded as invite-only, winter weather could delay it, and the related Detroit-launch market is only 8%. DC is stalled after the Nov 12 deadlock and other cities are further out. A minor risk is a resolver splitting regions, which the rules guard against. (d) Yes path: the status quo holds while Waymo widens Las Vegas and Denver access. Anchored on Polymarket's 84.65%, consistent with sibling buckets (16-19 at 6.8%); no unpriced information found, so I stay near the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7441",
+   "has_trace": true
+  },
+  {
    "id": 6854,
    "scanned_at": "2026-11-10T12:33:21.938436",
    "date": "2026-11-10",
@@ -9541,6 +9555,20 @@
  ],
  "Will Gavin Newsom announce a Presidential run before 2027?": [
   {
+   "id": 7462,
+   "scanned_at": "2026-11-17T21:40:05.426292",
+   "date": "2026-11-17",
+   "agent": 4.8,
+   "market_price_t0": 7.2,
+   "edge": -0.024999999999999988,
+   "confidence": 0.76,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.04). (0) Not resolved. Every source through Nov 15–17 (Fox, Sac Bee via Yahoo, Election Central, 2028tracker) says Newsom has not announced. He has no FEC committee, no exploratory committee and no campaign site. (a) About six weeks remain, to Dec 31, 2026 11:59 PM ET. (b) Status quo is No. On Nov 12 at COP31 Newsom said he would spend 'the next few weeks with the family and make a decision early January.' That date is after the deadline and lines up with the end of his term in early January. (c) NO scenario: he keeps to his own timeline, decides in January and announces after leaving office. Or he waits on Harris, whom he has pledged not to run against and who has set no decision timeline. (d) YES scenario: the family talks finish over the holidays and he launches in late December to pre-empt the Denver field. His PAC's 'commit to volunteer in 2028' email and $14M war chest mean the infrastructure is ready. Base rates also weigh against YES: Democrats usually announce months after the midterms, with Warren's Dec 31, 2018 exploratory committee as the rare early case. The Polymarket mid is about 7.25%, and the sibling market for the same question sits at 8.6%. With no new information beyond what the market has already absorbed from his timeline remark, I shade slightly below the market to about 5%, given that he has stated his own schedule and is tied to Harris.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7462",
+   "has_trace": true
+  },
+  {
    "id": 6698,
    "scanned_at": "2026-11-08T17:41:53.672509",
    "date": "2026-11-08",
@@ -10336,6 +10364,20 @@
   }
  ],
  "Will OpenAI have a #1 AI model by December 31, 2026?": [
+  {
+   "id": 7439,
+   "scanned_at": "2026-11-17T13:30:04.490170",
+   "date": "2026-11-17",
+   "agent": 5.5,
+   "market_price_t0": 8,
+   "edge": -0.025,
+   "confidence": 0.605,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.05). **(0) Resolution check.** Nothing shows the condition met.\n- Secondary snapshots of the Arena Text Overall board dated Nov 6–16 put Google's Gemini 4 Carbon and Argon at #1 and #2, with rank spreads of 1–3.\n- OpenAI's best text entries, GPT-5.6 Sol and GPT-6.1 Sol, sit around rank 22–30. That is roughly 40–47 points behind #1.\n- These reads are style-control-on views taken from aggregators. The live style-off table could not be read, which is a residual uncertainty, though it is unlikely to close a gap of about 40 points.\n\n**(a) Time left.** About six weeks, until 11:59 PM ET on Dec 31, 2026.\n\n**(b) Status quo.** Google holds #1 and OpenAI is far down the board, so the market resolves No.\n\n**(c) Path to No.** OpenAI ships nothing new for text, or ships an agent- or coding-tuned model like GPT-6.1 Sol or Terra that again misses text #1. Google or Anthropic keeps the top spot.\n\n**(d) Path to Yes.** OpenAI launches the \"next GPT\" Altman called \"soon\" (possibly gpt-6.2-astra, guessed for around Dec 10) in time to be scored. It would need to jump about 45 points to reach or tie Gemini 4 Carbon's rank-1 interval. The Dec 2025 \"code red\" precedent shows OpenAI can compress a release into this window, but no codenamed Arena test or dated announcement has been found.\n\n**Market anchor.** This market trades at 8% mid (bid 6%, ask 10%). The \"by\" wording plausibly covers any time up to Dec 31, which explains why it sits above the sibling end-of-December markets at 2–3%. Kalshi's \"at any point in 2026\" market for OpenAI is at 10%.\n\nGiven the large deficit, OpenAI's absence from text #1 all year, and no confirmed release, I shade slightly below the mid to 6%.\n\nConfidence: 0.70\n\nUnverified claims:\n- The style-control-off Text Overall ordering looks like the style-on view, with OpenAI far from #1.\n- No OpenAI frontier text model (e.g. gpt-6.2-astra) is scheduled to launch and be scored on Arena before Dec 31.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7439",
+   "has_trace": true
+  },
   {
    "id": 6778,
    "scanned_at": "2026-11-09T14:12:49.757359",
@@ -21738,7 +21780,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-17T11:50:51.620Z",
+  "last_sync": "2026-11-17T22:52:19.847Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -24852,6 +24894,20 @@
   }
  ],
  "Will the highest score achieved by an OpenAI model on Humanity’s Last Exam in 2026 be 60% or higher?": [
+  {
+   "id": 7457,
+   "scanned_at": "2026-11-17T20:10:31.545895",
+   "date": "2026-11-17",
+   "agent": 60.5,
+   "market_price_t0": 63.5,
+   "edge": -0.030000000000000027,
+   "confidence": 0.39,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.62, 0.59). (0) Not clearly met. The readable agi.safe.ai table is stale (GPT-5 at 25.3%) and the live table did not render. Scale/CAIS mirrors show OpenAI's best main-HLE score at 54.8% (GPT-6 Astra). Only HLE-Diamond shows OpenAI at 60.6-63.8%, and whether Diamond counts as 'HLE Accuracy' is ambiguous. (a) About 6 weeks remain until Dec 31, 2026. (b) Status quo is NO on the main set unless the board's headline figure has shifted to Diamond. (c) NO: Scale/CAIS does not list GPT-6.2 Astra (Pro) in time, given past listing lags of days to weeks, or lists it below 60% (it needs +5.2 points), and Diamond is not treated as equivalent. (d) YES: GPT-6.2 Astra and Astra Pro shipped Nov 17, scoring 5 index points above GPT-6 Astra and second only to Fable 5.2 on Diamond; a listing about 60% on the main set is plausible, or agi.safe.ai presents Diamond as the headline, where OpenAI already exceeds 60%. The market mid is 63.5% (wide 49/78 spread, last trade 90%). The sibling 55% market at 94.5% implies traders see a resolution-relevant figure above 54.8%. I stay near the market, trimmed slightly for listing-lag risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7457",
+   "has_trace": true
+  },
   {
    "id": 6825,
    "scanned_at": "2026-11-10T03:58:17.203749",
@@ -30307,6 +30363,20 @@
  ],
  "Pedro Sánchez out as PM of Spain by December 31, 2026?": [
   {
+   "id": 7452,
+   "scanned_at": "2026-11-17T18:13:57.372331",
+   "date": "2026-11-17",
+   "agent": 9.5,
+   "market_price_t0": 11.5,
+   "edge": -0.020000000000000004,
+   "confidence": 0.7,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.09). (0) The condition has not been met. Moncloa still listed Sánchez as presidente del Gobierno on 17 Nov, and no source reports a resignation or removal announcement. (a) About 6 weeks remain until 31 Dec. The general election on 29 Nov sits inside that window. (b) If nothing changes, Sánchez becomes acting PM ('en funciones') from 30 Nov under Art. 101 and stays acting PM until a successor is sworn in. The new Cortes meet only on 23 Dec, and EFE, Infobae and El Debate put the earliest investiture around 4–5 Jan, calling a new government before 2027 'practically impossible.' Censure motions and confidence votes are also unavailable while the Cortes are dissolved, so the status quo resolves No. (c) No: PP+Vox wins, but Sánchez stays as acting PM and opposition-leader-in-waiting through the holidays, as he did after the 2015/16 losses. A PP–Vox deal plus investiture then lands in January. (d) Yes: PSOE falls well below ~110 seats and Sánchez announces he is stepping down, either explicitly as PM or as PSOE leader with a handover, which a lenient resolver might count. A second Yes route is a resolver treating the Art. 101 'cese' as ceasing to be PM. The related PSOE-leader resignation market sits at ~30%, but quitting as party leader is not resigning as PM. Only a fraction of those cases would plausibly resolve this market Yes. I anchor on the 11.5% market price and shade slightly down, because the research confirms the calendar blocks any actual change of PM before 31 Dec, leaving only announcement and interpretation risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7452",
+   "has_trace": true
+  },
+  {
    "id": 6704,
    "scanned_at": "2026-11-08T19:34:19.028375",
    "date": "2026-11-08",
@@ -32367,6 +32437,20 @@
  ],
  "Will the OpenAI spy be accused of working for Saudi Arabia by December 31?": [
   {
+   "id": 7433,
+   "scanned_at": "2026-11-17T11:56:06.484887",
+   "date": "2026-11-17",
+   "agent": 8,
+   "market_price_t0": 11,
+   "edge": -0.03,
+   "confidence": 0.68,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.08). (0) Not resolved. The DOJ release, updated 10/19, and the 10/27 single-count Wiretap indictment do not allege Saudi direction. The detention filings describe only contact, recruitment and support, which the rules exclude, and CNBC explicitly says the filing does not allege direction. No OpenAI statement attributes the conduct to Saudi Arabia. (a) About 6 weeks remain until Dec 31, 2026. (b) If nothing changes, the answer is No: the case is proceeding on a plain wiretap count. Defense filings on 11/16 say discovery has produced nothing tying him to the Saudi government. (c) No path: the case continues on the single count, with possible plea talks or trial scheduling, and no superseding indictment before year end. Diplomatic and commercial sensitivities with Saudi Arabia (the Trump relationship, OpenAI–PIF talks) also discourage attribution. (d) Yes path: the FBI's reported economic-espionage probe (WSJ, ~10/26) produces a superseding indictment or government brief by late December stating he acted for or at the direction of the Saudi government or a state-linked royal. Even then, the reported 'without being formally recruited' theory might not meet the 'on behalf of' standard. The market sits at 11% and has drifted down from 40%. Given the narrow time window, the slow pace typical of counterintelligence cases, and the strict wording, I shade slightly below the market to about 8%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7433",
+   "has_trace": true
+  },
+  {
    "id": 6764,
    "scanned_at": "2026-11-09T10:24:20.185894",
    "date": "2026-11-09",
@@ -33674,6 +33758,20 @@
   }
  ],
  "Another critical PHP security flaw in 2026?": [
+  {
+   "id": 7445,
+   "scanned_at": "2026-11-17T15:52:48.082260",
+   "date": "2026-11-17",
+   "agent": 27,
+   "market_price_t0": 25.5,
+   "edge": 0.015000000000000013,
+   "confidence": 0.5,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.27, 0.27). (0) Not met yet: the php-src advisories and the NVD API show only the excluded PHP2Shell CVEs as critical. The sole live candidate is CVE-2026-115560 (disclosed Oct 23), which has no PHP score and no NVD record. Tenable's '9.8 NVD' looks Tenable-derived: the NVD API and page are empty, it carries an anomalous v2 score, and NIST's 2026 enrichment limits apply. (a) About 44 days remain until Dec 31. (b) Status quo is No. PHP promised the full advisory with the next regular release, likely late Nov or Dec given the monthly cadence, so a PHP score will probably appear in time. But PHP calls the bug 'unlikely in practice' with unusual preconditions, implying AT:P or AC:H that could put a v4 score near or below 9.0; Amazon rated it 8.1. (c) No: PHP scores it 8.x or the release slips past Dec 31, NVD defers to the CNA, and no new php-src critical bug emerges. (d) Yes: PHP's GHSA scores it 9.0+ (PHP2Shell got 9.2), NIST scores it 9.8, or a new AI-found core bug appears amid heavy scrutiny. A resolver could also exclude CVE-2026-115560 as part of PHP2Shell. I anchor on the market's 25.5% and nudge slightly up for the Tenable data point and the likely before-deadline scoring release.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7445",
+   "has_trace": true
+  },
   {
    "id": 6204,
    "scanned_at": "2026-11-02T07:26:16.755364",
@@ -35331,6 +35429,20 @@
  ],
  "Will Anthropic have the #1 AI model at the end of December 2026?": [
   {
+   "id": 7447,
+   "scanned_at": "2026-11-17T16:41:58.283145",
+   "date": "2026-11-17",
+   "agent": 25,
+   "market_price_t0": 29,
+   "edge": -0.03999999999999998,
+   "confidence": 0.485,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.25, 0.25). (0) The condition is not met. Arena-derived snapshots from Nov 6–17 (Developers Digest, infosdivers, BenchLeader, vandatateam) put Google's Gemini 4 Carbon at #1 (~1526, Preliminary) and Argon at #2. Anthropic's best is Opus 5.5 at #4 (~1505–1507), about 19 points back. I could not read the live board, so this rests on mirrors about a week old.\n\n(a) About 44 days remain until the Dec 31, 12:00 PM ET check.\n\n(b) If nothing changes, Google is #1 and this resolves No.\n\n(c) NO scenario: Fable 5.2 either never gets a Text rank, stays AutoEval-tagged, or debuts below ~1526. Alternatively, Google or OpenAI ships an update in December that holds or extends the lead. Exact score ties also break toward Google.\n\n(d) YES scenario: Arena adds Fable 5.2, which was released Nov 9, to the Text board. It debuts at roughly 1525–1540, carrying over its #1 standing on Agent, WebDev, Code and Chat (64 points over Carbon on WebDev) and its lead on the Epoch and Artificial Analysis indices. It then holds #1 through Dec 31. Anthropic's 2026 record (#1 at most month-ends from Feb to Sep) makes this credible.\n\nAnchor: this market trades at 29%, but liquidity is thin ($20K). The near-identical, far more liquid sibling, 'Anthropic best AI model end of December' ($588K), prices Anthropic at 17.5% against Google at 78.5%. Blending the two, and giving weight to the pending Fable 5.2 Text debut as a real catalyst, I land at about 25%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7447",
+   "has_trace": true
+  },
+  {
    "id": 6839,
    "scanned_at": "2026-11-10T07:53:35.063357",
    "date": "2026-11-10",
@@ -35795,6 +35907,20 @@
  ],
  "Will Iran sabotage undersea internet cables by December 31?": [
   {
+   "id": 7436,
+   "scanned_at": "2026-11-17T12:40:16.279761",
+   "date": "2026-11-17",
+   "agent": 8,
+   "market_price_t0": 9.5,
+   "edge": -0.015,
+   "confidence": 0.6,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.08). (0) Resolution check: the condition is not met. Credible reporting through mid-November 2026 shows threats, contingency plans and Iran-linked ships loitering over Gulf of Oman cable corridors (FT/Windward, Nov 6). It also includes explicit statements that no cable has been cut. Nothing in the sources shows cable damage attributed to Iran or a proxy since the market opened on Oct 12.\n\n(a) About 44 days remain until Dec 31, 11:59 PM ET.\n\n(b) Status quo is No. Through roughly 8.5 months of open war, including high-intensity phases, Iran has relied on mines, missiles and drones against ships and radars and has never cut a cable. Its cable threats are explicitly conditional on renewed major US or Israeli strikes. Rubio and Trump are currently signalling restraint.\n\n(c) No scenario: the 'no war, no peace' standoff continues with only limited US strikes and Iranian attacks on tankers. The cable threat stays rhetorical, and any fault that does occur is ambiguous, like the September 2025 cuts. That would likely fail the attribution consensus.\n\n(d) Yes scenario: the US or Israel resumes a major campaign. The related Polymarket market prices about a 35% chance the Israel-Iran ceasefire breaks by year-end. Iran then follows through on its pre-announced plan using vessels already positioned over the 2Africa, Falcon and EIG corridors. Alternatively, a Houthi strike near Bab el-Mandeb causes Rubymar-style anchor-drag damage.\n\nEven given escalation, a physical cut that is credibly attributed within the window seems perhaps 15–20% likely. Adding the small Houthi path gives about 7–9%. I anchor on the market's 9.5% mid and its drifting-down trend, and shade slightly lower for attribution difficulty and the short window.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7436",
+   "has_trace": true
+  },
+  {
    "id": 6851,
    "scanned_at": "2026-11-10T11:49:41.900977",
    "date": "2026-11-10",
@@ -35935,6 +36061,20 @@
  ],
  "Will Gavin Newsom announce a Presidential run by December 31, 2026?": [
   {
+   "id": 7459,
+   "scanned_at": "2026-11-17T20:54:43.003495",
+   "date": "2026-11-17",
+   "agent": 5.5,
+   "market_price_t0": 8.6,
+   "edge": -0.030999999999999993,
+   "confidence": 0.76,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.05). (0) Not resolved. As of Nov 15–17, 2026, Fox, Yahoo, Breitbart, the 2028tracker and CNN all show no announcement, exploratory committee or FEC presidential filing. (a) About six weeks remain until 11:59 PM ET on Dec 31, 2026. (b) Status quo is No. On Nov 12 at COP31, Newsom said he would \"spend the next few weeks with the family and make a decision early January,\" which falls after the deadline. Even a January yes would not count. (c) NO path: he deliberates with family through the holidays, finishes his term, and announces or declines in January or later. He has also said he won't run if Harris does, and Harris hasn't decided. (d) YES path: he gets family buy-in quickly and launches with a late-December video before leaving office, as Warren did with her Dec 31, 2018 exploratory step. Pointing that way are the PAC's \"commit to volunteer in 2028\" email, the Ukraine credentials trip, and slipping polls that might push him to reset the narrative early. Base rates are also against Yes: under 6% of serious candidacies since 1972 launched in the midterm year. The market at 8.6% (bid 8/ask 9, trending down) already reflects this. Given his explicit January timeline, I shade slightly below it to about 6%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7459",
+   "has_trace": true
+  },
+  {
    "id": 6353,
    "scanned_at": "2026-11-04T08:23:37.409333",
    "date": "2026-11-04",
@@ -35950,6 +36090,20 @@
   }
  ],
  "Will GPT Astra 6.1+ debut in the top 20 of the Text Arena leaderboard by June 30, 2027?": [
+  {
+   "id": 7450,
+   "scanned_at": "2026-11-17T17:27:54.864141",
+   "date": "2026-11-17",
+   "agent": 28,
+   "market_price_t0": 32,
+   "edge": -0.03999999999999998,
+   "confidence": 0.475,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.28, 0.28). (0) Not resolved: no Astra 6.1+ model appears in any Arena snapshot or in OpenAI's docs as of mid-Nov 2026. The live resolving page was blocked (403), so a very recent addition can't be fully excluded. (a) About 7.5 months remain until June 30, 2027. (b) Status quo: release looks likely (the Nov 17 release contract is at 76%, release-by-Dec-31 at ~97-99%), so the binding issue is the debut rank. GPT-6 Astra sits at #74 on the resolving no-style-control board (snapshot ~40 days old) and #42 on the default board. No OpenAI model is in the top 20 of the no-style-control view, and GPT-6.1 Sol ranks ~#66 in what appears to be a raw view. (c) No: GPT-6.2 Astra ships and is added but debuts around #30-70 because Arena voters don't reward its coding/agentic profile, or safety audits (METR/Apollo) delay it, or it appears only as AutoEval. (d) Yes: a substantially improved Astra ships (possibly today) and debuts on the flat score band near rank 20 with a +40-60 point gain over Astra 6.0, helped by early-vote volatility, as GPT-5.5's #7 default-board debut showed is possible. The market's 32% (up 15.5 points in a week) may reflect release-imminence information, so I only shade slightly below it, given the large rank jump required and earlier sibling top-20/top-10 prices of ~16-19% and 12%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7450",
+   "has_trace": true
+  },
   {
    "id": 6439,
    "scanned_at": "2026-11-05T09:53:34.721997",
@@ -36948,6 +37102,20 @@
   }
  ],
  "Will The Odyssey be the #1 searched movie on Google this year?": [
+  {
+   "id": 7455,
+   "scanned_at": "2026-11-17T19:12:20.701445",
+   "date": "2026-11-17",
+   "agent": 35.5,
+   "market_price_t0": 38.5,
+   "edge": -0.030000000000000027,
+   "confidence": 0.42,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.35, 0.36). (0) Nothing has resolved: the 2026 Year in Search page returns HTTP 404 and the hub still shows 2025 (Anora #1). Google must still publish its 2026 Global Movies list, most likely early-to-mid December, with The Odyssey at #1. (a) About six weeks remain to the Dec 31 close; the rules allow until Mar 31, 2027 for publication. (b) Status quo is the market: Odyssey 38.5% live, behind Obsession (~41%) and ahead of Spider-Man: BND (~13.5%). (c) NO: Google ranks by spike versus the prior year, which favours Obsession, a breakout micro-budget film with a Netflix debut on Nov 17. 'The Odyssey' starts from a high baseline because it shares a name with Homer's poem. FlixPatrol's Oct 30 daily Google chart had Obsession #1, Spider-Man #2 and Odyssey outside the top 10. Spider-Man, the top grosser at $2.5B, is a third path. (d) YES: Odyssey had the largest pre-release search volume, a $1.8B gross and a global July spike including a Google Easter egg. It also gets late catalysts (digital/disc Nov 17, December IMAX re-release), in a Barbie-2023-style pattern. Without head-to-head Trends data I shade slightly below the market, given the spike methodology and current daily signals.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7455",
+   "has_trace": true
+  },
   {
    "id": 6868,
    "scanned_at": "2026-11-10T18:18:27.637135",
@@ -38320,6 +38488,38 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.09, 0.11). (0) Not resolved. Every source, including the Korea Herald on Nov 17 and Reuters on Nov 16, shows no Trump–Kim meeting since Panmunjom in June 2019. Nothing makes a meeting impossible either.\n(a) About 44 days remain until Dec 31, 2026. The only identified window is the Shenzhen APEC/trilateral on Nov 18–19, one to two days away.\n(b) Status quo is No. Trump's \"may meet\" is conditional on Xi inviting Kim. Neither Beijing nor Pyongyang has confirmed anything. On Nov 4 Kim Yo Jong said there is \"no need to sit face-to-face\" with the US. A White House official said Nov 13 there were \"no plans at all\" for engagement. Seoul's presidential office saw \"little possibility\" of contact at APEC.\n(c) NO: Kim stays home or sends his envoy diplomacy through Moscow (Jo Yong Won met Putin). Shenzhen passes with only the US–China–Russia trilateral. No new Asia trip or venue appears before year-end, extending Trump's run of teased meetings that never happen.\n(d) YES: Xi invites Kim and he flies in on short notice for a sideline handshake in Shenzhen. Less likely, a 2019-DMZ-style improvised meeting is arranged in December.\nThere are no reported signs of Kim travelling, no logistical build-up, and North Korea refused face-to-face talks outright. I shade below the thin-volume (~$15k) market's 15.5%, whose recent jump looks driven by Trump's remark rather than by any confirmation, to about 9%. I keep a real tail for short-notice surprises, which Trump–Kim history shows are possible.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/7389",
+   "has_trace": true
+  }
+ ],
+ "Will Jensen Huang's resignation or removal be announced and Nvidia's market cap be above $4T at the end of 2026?": [
+  {
+   "id": 7464,
+   "scanned_at": "2026-11-17T22:27:51.645848",
+   "date": "2026-11-17",
+   "agent": 43.5,
+   "market_price_t0": 48,
+   "edge": -0.044999999999999984,
+   "confidence": 0.555,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.45, 0.42). (0) The first leg is already met. NVIDIA's Nov 12 press release and 8-K announced that Huang resigned as CEO, effective immediately. That came after the market opened on Nov 11 and is definitive. The board has also ruled out reinstatement, and a later return would not undo the announcement anyway. So the outcome reduces to whether NVDA's market cap is at least $4T at the Dec 31, 2026 close. That needs a close of roughly $166 per share on about 24.1B shares. (a) About six weeks, or roughly 30 trading days, remain until the single Dec 31 close. (b) Status quo is NO: the stock closed at $155.46 on Nov 17 (about $3.75T), roughly 6.5–7% short. After-hours trading following the earnings beat lifted it to about $158–161, which narrows the gap to 3–5%. (c) NO path: the SEC probe, Huang's Dec 1 congressional testimony, export-control headlines and a drawn-out CEO search keep extending the six-week losing streak, and the stock ends December around $140–160. (d) YES path: the strong Q3 print ($115.8B revenue, about $130B guide), a roughly 12x forward P/E, a large buyback and near-unanimous Buy ratings drive a rerating, possibly helped by naming a credible CEO, and the stock closes at $166 or higher. With implied volatility of roughly 50–60%, a six-week one-sigma move is about ±17–20%, so a 3–5% gap gives roughly a 40–45% chance. I land slightly below the 48% market mid because the trend and overhangs are negative, while the cheap valuation and buyback partly offset them.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7464",
+   "has_trace": true
+  }
+ ],
+ "Will the Fed increase interest rates by 25 bps after the April 2027 meeting?": [
+  {
+   "id": 7443,
+   "scanned_at": "2026-11-17T15:02:14.381791",
+   "date": "2026-11-17",
+   "agent": 29.5,
+   "market_price_t0": 28,
+   "edge": 0.015000000000000013,
+   "confidence": 0.5,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.27, 0.32). (0) Not resolved. The April 27–28, 2027 FOMC has not happened. FRED and the Fed site show the upper bound at 4.00% after the September 2026 hike and the October 28 hold, which drew two dissents in favour of a hike. (a) There are about five months left, with three meetings before April: December, January and March. Those set the starting level, and April must then add exactly +25 bp. (b) The status quo for any single meeting is a hold. Polymarket's own ladder puts no change at about 59–64%, and Kalshi's same-meeting ladder has a 25 bp hike at about 23%, an independent crowd slightly below Polymarket's 28%. (c) NO: the Fed hikes in December, January and March as BofA and Deutsche Bank forecast, then pauses in April. Alternatively, Warsh's quarterly cadence puts hikes in December, March and June, or softer data end the cycle earlier, consistent with the September dots showing no 2027 hikes. (d) YES: inflation stays hot and oil stays elevated, and Musalem's call for a real rate of 2–2.5% by spring leads to a fourth consecutive hike. Or one of the January or March hikes slips, making April the natural slot. Hawkish momentum is real: three upside CPI surprises, bank forecasts repeatedly revised up, and the market up 11.5 points in a week. But the main sell-side paths still end hikes in March, so I stay near the anchor, slightly below the 28% Polymarket price and between it and Kalshi.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7443",
    "has_trace": true
   }
  ]

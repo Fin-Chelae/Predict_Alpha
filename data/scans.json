@@ -861,6 +861,20 @@
  ],
  "Zhang Youxia sentenced to prison before 2027?": [
   {
+   "id": 7490,
+   "scanned_at": "2026-11-18T04:45:30.848108",
+   "date": "2026-11-18",
+   "agent": 3.5,
+   "market_price_t0": 7.5,
+   "edge": -0.039999999999999994,
+   "confidence": 0.76,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.03). (0) Resolution check: the condition is not met. Official sources reposted on the Supreme People's Court site show Zhang was expelled on 2026-09-21 and his case sent to military prosecutors, and the 5th Plenum ratified the expulsion on 2026-10-29. No source through mid-November reports an indictment, trial or verdict. (a) About six weeks remain until the 2026-12-31 deadline. In that time prosecutors would need to indict, a closed military court would need to try him, Xi would need to sign off, and the verdict would have to be publicly announced. (b) If nothing changes, this resolves NO, since the case is only about two months into the procuratorate stage. (c) NO scenario: the case follows precedent. Wei Fenghe and Li Shangfu took about 23 months from referral to sentence. He Weidong and Miao Hua, referred in October 2025, still have no verdict after 13 months, and Zhang's more sensitive case is unlikely to jump ahead of them. Most PLA verdicts are also never made public. (d) YES scenario: a politically fixed, Politburo Standing Committee-supervised process is fast-tracked, and Xinhua announces a year-end verdict of life or a suspended death sentence with no advance notice. Military verdicts do come unannounced, so silence now is only weak evidence against this. The market sits at 7.5% and has drifted down 4 points in 30 days. The outside-view reference class has no case anywhere near a 3.5-month referral-to-sentence lag; the fastest comparable is about 9 months. That pushes me somewhat below the market, while leaving room for an unannounced political fast-track.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7490",
+   "has_trace": true
+  },
+  {
    "id": 6210,
    "scanned_at": "2026-11-02T08:50:32.140199",
    "date": "2026-11-02",
@@ -21780,7 +21794,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-17T22:52:19.847Z",
+  "last_sync": "2026-11-18T11:40:49.135Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -22200,6 +22214,20 @@
   }
  ],
  "Will Clavicular wear a Yarmulke in 2026?": [
+  {
+   "id": 7513,
+   "scanned_at": "2026-11-18T10:59:27.418986",
+   "date": "2026-11-18",
+   "agent": 46.5,
+   "market_price_t0": 57,
+   "edge": -0.10499999999999998,
+   "confidence": 0.32499999999999996,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.44, 0.49) after one crux research pass. (0) Nothing shows the condition met. Polymarket's Nov 16 summary and every outlet checked (JTA, Forward, JPost, The Free Press, the Decoding Antisemitism study) report no credible photo or video of Peters in a kippah. The only kippah images are fan memes and AI or parody fakes. (a) About 6 weeks remain until Dec 31, 2026, and Hanukkah (roughly Dec 4–12) falls inside that window. (b) If nothing changes, this resolves No. The best natural occasion, the July Israel and Western Wall trip, passed without credible kippah footage, and the market sat at 22% on July 31, after traders had watched those streams. (c) NO: he stays absorbed in the Massachusetts rape case (passport surrendered, Nov 24 hearing, bail revocation risk) and avoids feeding his audience's 'sellout' taunts, so no kippah appears by Dec 31. (d) YES: through his Chabad ties (Rabbi Farro, a manager tied to a Chabad community), he does a Hanukkah menorah-lighting or tefillin stunt on stream wearing a kippah, and outlets report it. Alternatively, older footage surfaces. The anchor is the Polymarket price of 57%, up 17 points in a week, a move none of the research could explain. That could reflect stream-level information or an announced appearance the web searches missed, so I don't discount it fully. Given zero documented evidence, travel restrictions and his audience incentives against it, I shade below the market to about 44%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7513",
+   "has_trace": true
+  },
   {
    "id": 6914,
    "scanned_at": "2026-11-11T06:20:39.179326",
@@ -26689,6 +26717,20 @@
  ],
  "Will the next Google Gemini Pro model added to the Arena Leaderboard debut at a score of at least 1490?": [
   {
+   "id": 7497,
+   "scanned_at": "2026-11-18T07:05:21.252209",
+   "date": "2026-11-18",
+   "agent": 5.5,
+   "market_price_t0": 7.3,
+   "edge": -0.017999999999999995,
+   "confidence": 0.76,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.05). (0) Not yet resolved. Arena's changelog and Nov 11 snapshots show no Pro-labeled Gemini added since 3.1 Pro Preview in February 2026. The newest Gemini 4 models (Argon, Carbon, Hydrogen) carry element names, not 'Pro', so under the rules' labeling requirement they likely do not qualify. (a) About 43 days remain until the Dec 31, 2026 deadline for a qualifying model to appear. (b) Status quo: no Pro-labeled model is added, and the market resolves No. (c) NO: Google keeps using element names for Gemini 4, 3.5 Pro stays shelved (a Reuters-relayed report says it was cancelled), and nothing Pro-labeled reaches the text board by year-end. (d) YES: Google drops a 'Gemini 4 Pro' or 3.5 Pro in December and Arena lists it on day one. Given Gemini 4 scores of 1490–1526 and prior Pro debuts at 1500–1501, it would very likely score at least 1490 (roughly 80–85% conditional). The sibling Polymarket market for a 'Next Gemini Pro release by Dec 31' sits near 6%, consistent with this market's 7.3% mid. I see no unpriced information, so I stay slightly below the anchor: about 7% chance of release times about 85% chance of clearing 1490.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7497",
+   "has_trace": true
+  },
+  {
    "id": 6422,
    "scanned_at": "2026-11-05T04:01:56.759287",
    "date": "2026-11-05",
@@ -30290,6 +30332,20 @@
   }
  ],
  "Will the 10-year Treasury yield hit 5.5% before 2027?": [
+  {
+   "id": 7468,
+   "scanned_at": "2026-11-18T00:08:17.857018",
+   "date": "2026-11-18",
+   "agent": 12.5,
+   "market_price_t0": 10.4,
+   "edge": 0.021000000000000005,
+   "confidence": 0.64,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.13). (0) Not resolved: Treasury's par-curve data show the 2026 high close at 5.31% (Oct 5) and the latest at 5.10% (Nov 17); intraday highs do not count. (a) About 29–30 trading days remain to Dec 31. (b) Status quo leaves yields near 5.1% and resolves No. (c) No: a fully priced 25 bp hike on Dec 9 plus equity-selloff haven bids keep yields around 4.9–5.2%. (d) Yes: a 50 bp hike or hawkish dots, then a hot Nov CPI on Dec 10, weak auctions and an oil rebound add ~40 bp. A random-walk barrier estimate gives ~14–27% depending on vol; resistance and the Nov ladder/30-yr markets imply the low end. Small lean above the 10.4% anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7468",
+   "has_trace": true
+  },
   {
    "id": 6888,
    "scanned_at": "2026-11-11T00:05:37.484398",
@@ -34331,6 +34387,20 @@
  ],
  "Saudi-Houthi ceasefire agreement announced by December 31?": [
   {
+   "id": 7503,
+   "scanned_at": "2026-11-18T08:39:22.640436",
+   "date": "2026-11-18",
+   "agent": 7.5,
+   "market_price_t0": 9.5,
+   "edge": -0.01999999999999999,
+   "confidence": 0.6599999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.07). (0) Not met. CTP-ISW (Nov 17) reports Houthi strikes on Saudi infrastructure and a Saudi drone interception near Riyadh. The Soufan Center (Nov 12) says no agreement appears imminent, and neither government has announced acceptance of anything. (a) About 43 days remain until 11:59 PM ET on Dec 31, 2026. (b) If nothing changes, the result is NO: the fighting is escalating, the Houthis are about 60 km from Aden, Saudi Arabia has replaced its coalition commander and is lobbying for an EU terror designation, and both sides are publicly blaming each other. (c) NO path: fighting continues or freezes informally, or any de-escalation comes as a unilateral pause, an Omani or UN statement, or a partial or humanitarian arrangement. The strict rules exclude all of these. (d) YES path: a US-Iran interim deal, mediated by Qatar or Oman, lets Iran press the Houthis. Oman or the UN then announces a dated truce in exchange for lifting the air and port blockade, and Riyadh and Sanaa each confirm acceptance. The 2022 truce came about 10 days after the Saudi offer, and the Houthis said on Oct 18 they had accepted an Omani five-day truce conditionally, so a fast turn is possible. The Polymarket anchor is 9.5%, down sharply from 31.5%, and related 'effective ceasefire' markets sit near 6.5%. I see nothing unpriced pointing up. The Houthis' battlefield momentum, Riyadh's 'no ceasefire under blackmail' stance and the stalled US-Iran track (no deal in Muscat on Nov 17) justify a slight shade below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7503",
+   "has_trace": true
+  },
+  {
    "id": 6920,
    "scanned_at": "2026-11-11T07:53:44.491155",
    "date": "2026-11-11",
@@ -36677,6 +36747,20 @@
  ],
  "Aryeh Deri out as Shas Leader by December 31?": [
   {
+   "id": 7466,
+   "scanned_at": "2026-11-17T23:18:42.966454",
+   "date": "2026-11-17",
+   "agent": 6.3,
+   "market_price_t0": 7,
+   "edge": -0.007500000000000007,
+   "confidence": 0.71,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.05). (0) The condition is not met. On Nov 4 Deri asked the Council of Torah Sages to let him resign as chairman. The council refused, forbade him from leaving, and he accepted. On Nov 8 he gave up only his Knesset seat. Reporting through Nov 15-16 (ToI, JPost) still describes him as acting chairman, saying \"We are going with Netanyahu.\" The market's fall from a 42.5% high to 7% suggests the Nov 4 request is not being treated as a qualifying announcement, though a disputed resolution is a small tail risk. (a) About six weeks remain, until Dec 31, 2026. (b) If nothing changes, Deri stays chairman and the market resolves No. (c) No path: the council's religious-legal ban holds, and the Knesset exit absorbs the blame. Shas either stays in Netanyahu's bloc or follows rabbinic direction into a coalition while Deri remains chair. (d) Yes path: coalition turmoil, such as UTJ joining Eisenkot or talk of repeat elections, reopens the split with Rabbi Yitzhak Yosef's camp. The council would then reverse itself or Deri would announce he is stepping down. A sudden health or legal event could also do it. Any announcement counts immediately. The internal hostility is real (Margi, Ze'ev, the Yosef-Maya meeting push), but I found nothing since Nov 9 showing a renewed ouster effort. I stay close to the 7% anchor and add slightly for the ongoing coalition volatility and the announcement-based resolution rule.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7466",
+   "has_trace": true
+  },
+  {
    "id": 6691,
    "scanned_at": "2026-11-08T15:17:25.459129",
    "date": "2026-11-08",
@@ -37133,6 +37217,20 @@
  ],
  "Will exactly 7 tropical cyclones make landfall in China during 2026?": [
   {
+   "id": 7506,
+   "scanned_at": "2026-11-18T09:25:54.225185",
+   "date": "2026-11-18",
+   "agent": 11.5,
+   "market_price_t0": 9.5,
+   "edge": 0.01999999999999999,
+   "confidence": 0.5,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.11). (0) Not met: the CMA page renders but its table ends at 2025, with no 2026 rows until the Best Track update (likely mid-2027; fallback deadline June 30, 2027). (a) Six weeks of 2026 remain for landfalls; resolution waits up to about seven more months. (b) Status quo: CMA (Sept 1), NMC (Oct 13), the Emergency Ministry (through September) and CMA again (0 landfalls Sept 1 to Nov 9) all give 7, and nothing threatened China after mid-November. (c) NO: the page counts all intensities and Taiwan/island landfalls, so a depression-strength landfall (Wikipedia notes Zitan landed in Wuchuan at TD strength), a Taiwan-only strike or an unnamed TD could make it 8+; dropping a marginal entry like Narra would give 6; a late landfall is rare. (d) YES: Best Track matches NMC's seven and nothing lands before Dec 31. The market (9.5% for 7, 73.5% for 8, down 26 points in a week) appears to price this definitional gap; researchers named only six of the seven storms. I lean slightly above the market because three official channels still say 7.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7506",
+   "has_trace": true
+  },
+  {
    "id": 6863,
    "scanned_at": "2026-11-10T16:42:31.945924",
    "date": "2026-11-10",
@@ -37213,6 +37311,20 @@
  ],
  "Syrian troops enter Yemen by December 31, 2026?": [
   {
+   "id": 7486,
+   "scanned_at": "2026-11-18T03:57:08.364682",
+   "date": "2026-11-18",
+   "agent": 18.5,
+   "market_price_t0": 27.5,
+   "edge": -0.09000000000000002,
+   "confidence": 0.525,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.18, 0.19). (0) Not resolved. SANA and Foreign Minister al-Shaibani (Nov 9, repeated about Nov 16) deny that any Syrian troops are in Yemen, and no consensus of credible reporting confirms entry. AP's three officials said no fighters had gone into Yemen as of Nov 9, which contradicts AFP's anonymous Yemeni sources, and a senior Yemeni defence source called the reports unfounded. (a) About six weeks remain until Dec 31, plus a three-day grace period only for unclear cases. (b) If nothing changes, the market resolves NO. Every credible account places Syrian advisers and the planned 600 special forces in Saudi Arabia, and Saudi coordination visits to Syria only begin in December. (c) NO: Syria keeps to training and border security on Saudi soil, following the Qatar 2015 and Pakistan 2018 pattern. The US warning to Damascus and fear of Houthi retaliation keep units out of Yemen, and AFP's claim stays uncorroborated. (d) YES: the 600 special forces deploy to the border and run cross-border drone or special operations. This could be confirmed by Saudi or Yemeni officials, Houthi capture or casualty claims, or a Mecca Pact accession announced by Damascus, which has said any deployment would be public. The market sits at 27.5%, likely buoyed by the AFP report and Axios's 'highly likely' leak. I shade it down because nothing new has surfaced in about 10 days, the official denials are consistent, the US is acting as a brake, and resolution needs a consensus that regular-army personnel are inside Yemen. Real Saudi leverage and the time-limited wording of the denials keep a meaningful tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7486",
+   "has_trace": true
+  },
+  {
    "id": 6897,
    "scanned_at": "2026-11-11T02:24:39.694606",
    "date": "2026-11-11",
@@ -37228,6 +37340,20 @@
   }
  ],
  "Will Anthropic be the second-best AI lab at the end of December 2026?": [
+  {
+   "id": 7501,
+   "scanned_at": "2026-11-18T07:50:11.314542",
+   "date": "2026-11-18",
+   "agent": 63.5,
+   "market_price_t0": 64.5,
+   "edge": -0.010000000000000009,
+   "confidence": 0.485,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.63, 0.64). (0) Not resolved; the resolution page was blocked, and mirrors suggest Google #1 with Anthropic the likely #2 on the no-style-control board, though the default labs view had Meta 4 points ahead on Nov 11. (a) About six weeks remain to the Dec 31 noon ET check. (b) Status quo is Google #1 and Anthropic probably #2, matching the 64.5% market. (c) NO comes from Fable 5.2 debuting above Gemini 4 Carbon (Anthropic #1; Google-as-#2 sibling at ~16.5%) or from Meta overtaking Anthropic (Meta-as-#2 at ~12.5%). (d) YES comes from Fable 5.2 landing between Meta and Google, or Opus 5.5 holding its no-style-control lead over Meta. Sibling prices are consistent with this market and research adds nothing unpriced, so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7501",
+   "has_trace": true
+  },
   {
    "id": 6895,
    "scanned_at": "2026-11-11T01:38:40.937563",
@@ -37260,6 +37386,20 @@
   }
  ],
  "Will the next Fable model (5.2+) debut in the top 10 of the Text Arena leaderboard by June 30, 2027?": [
+  {
+   "id": 7495,
+   "scanned_at": "2026-11-18T06:22:29.469228",
+   "date": "2026-11-18",
+   "agent": 74,
+   "market_price_t0": 73,
+   "edge": 0.009499999999999953,
+   "confidence": 0.51,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.72, 0.76). (0) Not met: Fable 5.2 (Nov 9) is on WebDev and Agent Arena but has no ranked Text row through Nov 17–18, and the live page was unreadable. (a) About 7.5 months remain to June 30, 2027, enough for a Fable 5.2 listing or a later 5.3/6. (b) Status quo is no listing, but Arena has added every recent Anthropic flagship to Text within 1–3 days at #1–#3 (Fable 5, Fable 5.1, Opus 5.5), and Fable 5 and 5.1 still sit at #5 and #7. (c) No: Fable 5.2's edge is agentic, it debuts near 1490 on a crowded board with wide rank spreads, and the single next-day snapshot shows rank 11+; or Arena keeps skipping Text listings. (d) Yes: Arena adds it after the AutoEval-to-ranked step it followed on WebDev, it scores at or above 5.1's level and debuts top-7, consistent with its Agent Arena Chat #1 and writing benchmarks. The market's 73%, down from ~97%, reflects the unexplained Text delay; the related score markets (≥1500 at 58%, ≥1510 at 55%) imply some mass on no or late debut, consistent with ~70–75% for top 10. I stay near the anchor, shading slightly for snapshot and technicality risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7495",
+   "has_trace": true
+  },
   {
    "id": 6883,
    "scanned_at": "2026-11-10T22:33:08.595374",
@@ -38520,6 +38660,102 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.27, 0.32). (0) Not resolved. The April 27–28, 2027 FOMC has not happened. FRED and the Fed site show the upper bound at 4.00% after the September 2026 hike and the October 28 hold, which drew two dissents in favour of a hike. (a) There are about five months left, with three meetings before April: December, January and March. Those set the starting level, and April must then add exactly +25 bp. (b) The status quo for any single meeting is a hold. Polymarket's own ladder puts no change at about 59–64%, and Kalshi's same-meeting ladder has a 25 bp hike at about 23%, an independent crowd slightly below Polymarket's 28%. (c) NO: the Fed hikes in December, January and March as BofA and Deutsche Bank forecast, then pauses in April. Alternatively, Warsh's quarterly cadence puts hikes in December, March and June, or softer data end the cycle earlier, consistent with the September dots showing no 2027 hikes. (d) YES: inflation stays hot and oil stays elevated, and Musalem's call for a real rate of 2–2.5% by spring leads to a fourth consecutive hike. Or one of the January or March hikes slips, making April the natural slot. Hawkish momentum is real: three upside CPI surprises, bank forecasts repeatedly revised up, and the market up 11.5 points in a week. But the main sell-side paths still end hikes in March, so I stay near the anchor, slightly below the 28% Polymarket price and between it and Kalshi.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/7443",
+   "has_trace": true
+  }
+ ],
+ "Will the US rank 19th or higher in the World Happiness Report 2027?": [
+  {
+   "id": 7509,
+   "scanned_at": "2026-11-18T10:12:27.573289",
+   "date": "2026-11-18",
+   "agent": 61.5,
+   "market_price_t0": 56,
+   "edge": 0.05499999999999994,
+   "confidence": 0.45999999999999996,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.60, 0.63). (0) Not resolved: WHR 2027 is due 20 March 2027. The US was 23rd in WHR 2026 at 6.816, 0.029 behind 19th-place Austria, with three countries within 0.005 above it. (a) About four months remain, and the outcome hinges on unpublished Gallup 2026 World Poll data. (b) Status quo: the 2027 window drops 2023 and adds 2026. Back-solving the published averages (6.725, 6.724, 6.816) with my recalled yearly values implies 2023 was a low year for the US, around 6.5–6.6. Replacing it with a typical 2024/25-level year (~6.9) would push the average near 6.9, enough for roughly 15th–18th. This likely explains the market's recent rise. (c) No: the US panel indicators (flat or record-low wellbeing, youth decline) translate into a weak 2026 World Poll wave and rivals hold, so the US stays at 20th–24th. (d) Yes: a normal 2026 wave plus dropping the weak 2023 lifts the US past Austria, Czechia, UAE and Saudi Arabia. Anchoring on the 56% mid, I nudge up slightly for the window arithmetic. I keep substantial No weight because the yearly-value reconstruction is unverified and rival countries move too.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7509",
+   "has_trace": true
+  }
+ ],
+ "Will Gemini Hydrogen debut with an HLE-Diamond score of 50% or higher?": [
+  {
+   "id": 7493,
+   "scanned_at": "2026-11-18T05:37:22.180986",
+   "date": "2026-11-18",
+   "agent": 49,
+   "market_price_t0": 50.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.42,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.47, 0.51). (0) Not yet resolved. Gemini 4 Hydrogen went GA on 2026-11-12 under the Hydrogen name, so the naming condition is met. However, no source shows a CAIS chart entry or qualifying CAIS score for it, and the agi.safe.ai chart could not be rendered. (a) There are about 7.5 months until the 2027-06-30 deadline, which is ample time for CAIS to add it. (b) If nothing changes, CAIS never lists Hydrogen and the market resolves No. The listing risk is real: CAIS appears not to list Gemini 3.8 Flash and shows only about 12 models, though it added Argon within about two weeks and has kept adding frontier models. (c) NO path: CAIS skips the Flash-tier model. Or CAIS runs it at 'high', no tools, and gets the high 40s. Google's comparison table runs well above CAIS for other models: Sonnet 5.5 is 53.3 vs 33.1 at CAIS, Terra is 47.3 vs about 35 elsewhere, and Carbon is 69.1 vs 63.6. Google's 58.8% may also reflect a more generous setting. (d) YES path: CAIS lists Hydrogen and scores it near Argon's 56.9%. Support for this: it is adapted from Carbon, its Artificial Analysis index of 51 at high slightly exceeds Argon's 50, and Google's Argon number matched CAIS almost exactly. I put the chance of a listing at roughly 75% and P(score ≥50 | listed) at roughly 60–65%. That gives about 0.47, slightly below the 50.5% market mid. The sibling-strike markets are thin and internally inconsistent (30% at 0.61, 35% at 0.85), so I give them little weight.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7493",
+   "has_trace": true
+  }
+ ],
+ "Will Gemini Krypton debut in the top 10 of the Text Arena leaderboard by June 30, 2027?": [
+  {
+   "id": 7483,
+   "scanned_at": "2026-11-18T03:13:02.866763",
+   "date": "2026-11-18",
+   "agent": 83.5,
+   "market_price_t0": 86.5,
+   "edge": -0.030000000000000027,
+   "confidence": 0.56,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.83, 0.84). (0) Not resolved. No source shows a ranked, non-AutoEval \"Krypton\" entry on the Text Arena board. Krypton is still an unconfirmed internal checkpoint (OfficeChai Nov 9; sumus and kie.ai Nov 14–18), and the Arena sightings were disputed and partly retracted.\n\n(a) About 7.4 months remain, to June 30, 2027.\n\n(b) If nothing changes, nothing gets listed and the market resolves No. But Google's Gemini 4 cadence is roughly one tier a month (Argon, Carbon, Hydrogen), and each shipped under its elemental codename as the public name. That makes a \"Gemini 4 Krypton\" launch and Arena listing in Dec 2026–Q1 2027 the likely path.\n\n(c) NO: Krypton is retrained and ships as \"Gemini 4.1\" or \"Ultra\" without explicit confirmation that it is the same model. Or it never ships, or it only appears via silent checkpoint swaps under existing labels, which do not count as newly added.\n\n(d) YES: Google announces Krypton, and Arena lists it at launch as \"Gemini 4 Krypton (High)\" with a preliminary tag, as it did for Argon and Carbon at #1. It then ranks top 3 at the next-day check, well inside the top 10, since #10 sits about 30 points below the leader.\n\nConditional on a qualifying listing, top 10 is about 95%. The naming and launch risk is the binding constraint, at roughly 85–88% for a qualifying listing. I land slightly below the 86.5% market anchor because of the single-source leak and the misattribution noise.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7483",
+   "has_trace": true
+  }
+ ],
+ "Democratic trifecta odds dip to 50% by December 31?": [
+  {
+   "id": 7479,
+   "scanned_at": "2026-11-18T02:28:33.277995",
+   "date": "2026-11-18",
+   "agent": 11.5,
+   "market_price_t0": 14.5,
+   "edge": -0.029999999999999985,
+   "confidence": 0.64,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.10). (0) Resolution check: the condition is not met. The resolution source's latest print is 66.7% (8–9PM ET, Nov 17), a blend of Kalshi 65.8% and Polymarket 67.4%. Only the latest print was read, not the hourly history. The sibling ↑60%/↑65% strikes at 99%+ suggest the index rose from below 60 to the mid-60s around market creation, so an earlier 4-hour run at or below 50% looks unlikely. (a) About 6 weeks remain, to Jan 1, 2027 12:00 AM ET. (b) Status quo: the index sits about 17 points above the line. It is a median-smoothed, two-venue, liquidity-weighted blend, so brief wicks don't count, and if nothing changes this resolves No. (c) No: the Democratic presidency price holds at 65–68% after the midterm wave, the House and Senate legs stay at 80–87%, and the trifecta drifts at most into the high 50s. (d) Yes: the thin Polymarket trifecta book (55.6% weight) reprices toward a more coherent level, around 0.67 × 0.9 ≈ 60%. On top of that, a midterm-bounce fade or a Republican-favorable catalyst, such as an Iran ceasefire or falling gas prices, pulls both venues into the low 50s and a dip holds for 4 hours. The recent swings (mid-50s before the midterm, an apparent 52–53% early read) and Kalshi's sweep at 62% and slipping make this possible but unlikely. I anchor on the market's 14.5% mid (bid 12, ask 17). I shade slightly lower because no catalyst is scheduled and the smoothing plus the 4-hour run requirement both favour No.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7479",
+   "has_trace": true
+  }
+ ],
+ "Will Jensen Huang not join any company by December 31, 2027?": [
+  {
+   "id": 7476,
+   "scanned_at": "2026-11-18T01:43:07.487568",
+   "date": "2026-11-18",
+   "agent": 16,
+   "market_price_t0": 7.5,
+   "edge": 0.085,
+   "confidence": 0.355,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.12). (0) No qualifying announcement of a new role or company exists as of 2026-11-18. Nvidia's 8-K confirms Huang resigned all roles on Nov 12, he has only said he would be 'honored' to return, and chair Harvey Jones says the board 'does not intend to reinstate' him. (a) About 13.5 months remain, to Dec 31, 2027. (b) If nothing changes, the market resolves Yes: he holds about $140B in Nvidia stock, faces House interviews on Dec 1 plus DOJ and Wachtell probes, and his likely quiet paths (investing, informal advising, philanthropy) are excluded by the rules. (c) No happens if Nvidia reinstates him (sibling rejoin-by-2027 market about 30%, likely counting since he held no role at market creation), if Musk gives him a SpaceX/xAI role, if he definitively announces a startup as ousted founders like Kalanick and Jobs did within a year or two, or if he takes any formal board or advisory seat. (d) Yes happens if legal and congressional exposure dominates 2027, outside boards shy away, the Nvidia board holds firm, and he invests quietly without formal announcements. The live price is 7.5% on only about $15K of volume and fell from 47% in six days, while research saw this outcome at about 34–35% in the grouped market. My own decomposition suggests 25–40% for no qualifying event. I weight the thin market somewhat and land near 20%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7476",
+   "has_trace": true
+  }
+ ],
+ "Will Marine Le Pen win the most votes in the first round of the 2027 French presidential election?": [
+  {
+   "id": 7473,
+   "scanned_at": "2026-11-18T00:53:44.267288",
+   "date": "2026-11-18",
+   "agent": 85.5,
+   "market_price_t0": 84.5,
+   "edge": 0.010000000000000009,
+   "confidence": 0.64,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.85, 0.86). (0) The question is not resolved. The first round is on 18 April 2027, and the Interior Ministry has no results yet. For YES, Le Pen must stay on the ballot through the Cour de cassation and Conseil constitutionnel process and then win the plurality on 18 April. (a) About five months remain. The key legal dates are the 16 Dec 2026 hearing on her constitutional challenges (QPCs), a possible Conseil constitutionnel ruling by mid-March, final validation of the candidate list around 26 March, and a Cassation ruling on the merits possibly by early April. (b) If nothing changes, she wins comfortably. Aggregates put her at about 33–34% (France-Vote 34.0%, L'Hémicycle 34%, Votons 33%) against Mélenchon at about 17%. She is first in every poll from every pollster, and even her worst reading, Cluster17 at 27%, leads Mélenchon's 19% by 8 points. (c) The main NO path is a technicality. Cassation quashes the appeal ruling or the disputed Guérin thesis is adopted, and the March 2025 ineligibility revives. Bardella would replace her and win the first round, which still resolves NO. Smaller NO paths are her withdrawing over the ankle-tag sentence or health, and a large polling shift where the centre consolidates or Mélenchon surges by 15 or more points. (d) The YES path is that the QPCs are referred or the ruling comes late or in her favour, so she keeps her eligibility, and her 15-point lead holds through April. The market anchor of 84.5% (bid 84, ask 85) looks well calibrated: I put the legal and withdrawal risk at about 9–11% and an electoral upset at about 4–5%. I hold close to the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7473",
    "has_trace": true
   }
  ]

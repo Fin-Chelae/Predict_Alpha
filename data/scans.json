@@ -1539,6 +1539,20 @@
  ],
  "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?": [
   {
+   "id": 7521,
+   "scanned_at": "2026-11-18T13:18:29.098963",
+   "date": "2026-11-18",
+   "agent": 91.3,
+   "market_price_t0": 92.5,
+   "edge": -0.012499999999999956,
+   "confidence": 0.72,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.92, 0.91). (0) Not resolved yet. FRED DFEDTARU shows the upper bound at 4.00% as of Nov 18, after the September 25bp hike and the October 28 hold, when Cook and Hammack dissented in favour of a hike. YES needs the Dec 9 FOMC statement to raise the upper bound to exactly 4.25%. (a) About 3 weeks remain until the Dec 8-9 meeting, with October PCE (Nov 25) and the November jobs report (Dec 4) still to come. (b) The status quo path is a 25bp hike: CME futures show about 96.7% for 25bp and 3.3% for 50bp, a Reuters poll of 101 economists was unanimous for 25bp, Polymarket trades at 92.5%, and Kalshi prices 25bp at about 91%. (c) NO would most likely come from a 50bp hike. Waller escalated on Nov 18 to saying 50bp is \"probably\" needed unless the Fed signals a January hike, and a hot PCE or jobs print could swing the committee. Prediction markets price that tail at about 5-10%. A hold or cut after a market accident is a remote tail of a few percent, given the equity and yield stress. (d) YES comes from the Williams-led center holding firm: Williams said the situation does not call for \"dramatic action\", Hammack prefers gradual steps, and the Fed delivers 25bp with hawkish guidance toward January. I sit slightly below the market anchor because Waller's push has strengthened and data remains before the meeting, but the CME futures price and the economist consensus keep YES above 90%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7521",
+   "has_trace": true
+  },
+  {
    "id": 6922,
    "scanned_at": "2026-11-11T08:40:01.420235",
    "date": "2026-11-11",
@@ -11727,6 +11741,20 @@
  ],
  "Will Anthropic's valuation hit (HIGH) $3.0T by December 31?": [
   {
+   "id": 7516,
+   "scanned_at": "2026-11-18T11:44:53.935369",
+   "date": "2026-11-18",
+   "agent": 4.5,
+   "market_price_t0": 7.5,
+   "edge": -0.03,
+   "confidence": 0.715,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.04). (0) The condition is not met. The latest NPM price is $88.55 per share as of Nov 3. Polymarket's NPM-linked header shows about $1.44T. The IPO range of $70–78 implies about $1.02T on basic shares and about $1.4T fully diluted. No source shows anything near $3.0T. (a) About six weeks remain, roughly 30 trading days after the Nov 19 Nasdaq debut, with no other scheduled catalyst before Dec 31. (b) If nothing changes, the answer is No. Every marker sits at $1.0–1.7T: the IPO range, WSJ talk of $1.5–1.6T if priced above $80, the Hyperliquid perp at about $96.6 (about $1.27T on 13.09B shares), and Morningstar's base case of $1.7T. (c) No scenario: ANT prices at or above the range, pops 15–40% as Galloway and others forecast, then fades as recent mega-IPOs like SpaceX and Cerebras did. Day-one unlock supply and a fragile macro backdrop (VIX 24, 10-year yield at 5.1%) cap any squeeze, leaving the peak around $1.5–2.2T. (d) Yes scenario: a 6% float, 20% retail allocation and a 6–7x oversubscribed book trigger a Figma-style multi-week melt-up. The resolver also uses a larger share count of about 16–18B, which lowers the required price to about $167–184. That is still roughly 1.8–1.9x the perp level. The market's 7.5% is consistent with its own strike ladder ($2.5T at 12¢, $4T at 3¢). Longshot bias plus the literal 13.09B share count, which needs about $229 a share, push me slightly below the market, to about 5%. The share-count ambiguity and the small-float squeeze risk keep it from going lower.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7516",
+   "has_trace": true
+  },
+  {
    "id": 6533,
    "scanned_at": "2026-11-06T13:25:05.293099",
    "date": "2026-11-06",
@@ -21469,6 +21497,20 @@
  ],
  "Will Euphoria be the #1 searched TV show on Google this year?": [
   {
+   "id": 7524,
+   "scanned_at": "2026-11-18T14:05:17.368813",
+   "date": "2026-11-18",
+   "agent": 30,
+   "market_price_t0": 31,
+   "edge": -0.010000000000000009,
+   "confidence": 0.41000000000000003,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.30, 0.30). (0) Not resolved: Google's 2026 Year in Search page returns a 404 as of Nov 18, 2026; Google must publish its Global TV Shows list with Euphoria at #1. (a) About 4.5 months remain before the Mar 31, 2027 deadline, and the list has come out in early to mid December every year from 2022 to 2025, so timing risk is small. (b) Status quo: the outcome rests on Google's spike-based ranking, where Euphoria and Stranger Things are roughly tied favourites; the market prices Euphoria at 31%. (c) NO: Stranger Things' January 2026 post-finale tail counts in the 2026 window and its global reach dwarfs Euphoria's (about 32.9M vs 7.6M on Nielsen's 35-day ranker); the last two global winners were Netflix shows; Monster: Lizzie Borden or a global title could also outspike HBO. (d) YES: ranking by year-over-year spike favours a final season returning after a 4-year gap, aired weekly April 12 to May 31 with record HBO viewership, matching Euphoria's 2022 #1; Stranger Things' biggest peaks (Nov 26 to Dec 31, 2025) likely fell between the two data windows. With no Google Trends comparison data available, I stay near the 31% market and shade slightly toward the global and Netflix pattern and possible late-year surprises.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7524",
+   "has_trace": true
+  },
+  {
    "id": 6909,
    "scanned_at": "2026-11-11T04:49:25.880104",
    "date": "2026-11-11",
@@ -21794,7 +21836,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-18T11:40:49.135Z",
+  "last_sync": "2026-11-18T22:35:42.180Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -22604,6 +22646,20 @@
   }
  ],
  "Will OpenAI’s market cap be $1.5T or greater at market close on IPO day by December 31, 2027?": [
+  {
+   "id": 7548,
+   "scanned_at": "2026-11-18T21:28:48.058006",
+   "date": "2026-11-18",
+   "agent": 25,
+   "market_price_t0": 26.7,
+   "edge": -0.017000000000000015,
+   "confidence": 0.455,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.25, 0.25). (0) Nothing has resolved. OpenAI has not listed: there is only a confidential S-1 from June 2026, with no public S-1, ticker or exchange, so the resolution source does not yet exist. (a) About 13.5 months remain until the Dec 31, 2027 deadline. A public S-1 must appear at least about 3 weeks before any listing. (b) If nothing changes, the market resolves No. OpenAI stays private, its last private mark of $1.25T sits below $1.5T, and it has said \"it may be a while.\" (c) No scenario: the AI selloff persists (Nvidia down about 30%, valuation targets shrinking), so OpenAI either delays into 2028 or prices near $1.1–1.3T. Alternatively, the exchange or data source counts basic shares rather than fully diluted ones, putting the close well under $1.5T. (d) Yes scenario: Anthropic's above-range debut holds and reopens the window, and OpenAI's run rate reaches about $70B by year-end. A public S-1 then lands in Q1 2027, the deal prices at $1.3–1.4T in H1 2027, and a 10–20% day-one pop carries the close past $1.5T. FutureSearch's conditional median of $1.70T supports this path. I put the chance of an IPO by end-2027 at about 60–65%, given the CFO and Brockman 2027 statements against Altman's lack of a timeline and FutureSearch's March 2028 median. I put the chance of a close at or above $1.5T, conditional on listing, at about 40%. That gives roughly 25%, close to the 26.7% Polymarket anchor, which I shade slightly lower for the basic-versus-diluted share ambiguity and the weak AI tape.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7548",
+   "has_trace": true
+  },
   {
    "id": 2741,
    "scanned_at": "2026-09-08T08:12:43.449671",
@@ -25187,6 +25243,20 @@
  ],
  "Israeli airspace closed by December 31, 2026?": [
   {
+   "id": 7550,
+   "scanned_at": "2026-11-18T22:18:42.818720",
+   "date": "2026-11-18",
+   "agent": 20,
+   "market_price_t0": 22.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.51,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.19, 0.21). (0) Not met: as of Nov 18, 2026, Safe Airspace, IBTimes and the IAA homepage all show the Tel Aviv FIR open, and no qualifying closure has been reported since the April reopening. (a) About 43 days remain, to Dec 31, 11:59 PM ET. (b) If nothing changes, this resolves No. (c) No path: US–Iran exchanges stay Gulf-centred and Qatar-mediated talks drag on. Israel's caretaker government, with the IDF reluctant, does not launch a first strike. Any Iranian fire is absorbed under the keep-open policy Israel used in June and July 2026, with sirens-driven pauses and capacity limits that are excluded under the rules. (d) Yes path: after the midterms, the US and/or Israel strike Iran in December, in the window before the new Congress sits. As in June 2025 and Feb 2026, the Transport Minister orders the CAA to close the FIR at H-hour. Even the planned 12-hour full closure would likely count as a general NOTAM with exceptions. Anchoring on the 22.5% market: the sibling Polymarket market prices Israel–Iran ceasefire breakdown by Dec 31 at about 29.5%. Breakdown triggered by a first strike would very likely bring a closure, but Iranian-initiated or limited exchanges often would not (June 2026 precedent). That puts conditional closure at roughly 55–65%, or about 17–19% overall, plus a small Hezbollah path, minus some resolution ambiguity for very short closures. I shade slightly below the market at 19%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7550",
+   "has_trace": true
+  },
+  {
    "id": 6964,
    "scanned_at": "2026-11-11T21:38:02.101502",
    "date": "2026-11-11",
@@ -26615,6 +26685,20 @@
  ],
  "Will Benjamin Netanyahu be the next leader out before 2027?": [
   {
+   "id": 7542,
+   "scanned_at": "2026-11-18T19:45:49.241424",
+   "date": "2026-11-18",
+   "agent": 30,
+   "market_price_t0": 34.5,
+   "edge": -0.044999999999999984,
+   "confidence": 0.53,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.29, 0.31). (0) Not resolved. As of Nov 17–18, Netanyahu remains caretaker PM, which the rules say does not count as leaving office. Polymarket shows the event still open, and every other listed leader trades at 0.2–0.35%. YES therefore effectively requires a successor government to win a Knesset confidence vote and be sworn in by Dec 31.\n(a) About 43 days remain. Eisenkot's mandate runs to Dec 6, extendable to Dec 20, and a confidence vote must follow within 7 days of notifying the president. A deal at the deadline could still be sworn in around Dec 27.\n(b) Status quo is NO. If nothing changes, Netanyahu stays caretaker, and every failure branch keeps him in office into 2027: the mandate lapses, Netanyahu or another MK gets a turn, or the Knesset dissolves for a new election.\n(c) NO scenario: Likud–Yashar unity talks stay deadlocked over the premiership. Shas holds with Netanyahu, UTJ will not join without a conscription law that cannot pass before swearing-in, and Liberman and Golan veto relying on Arab parties. Eisenkot's mandate then lapses and the process drags into 2027, the outcome Brookings judged most likely.\n(d) YES scenario: the 66–52 speaker vote shows the anti-Netanyahu bloc can coordinate. Eisenkot then secures UTJ, or a minority government with Ra'am abstaining, or Bennett's rotation idea with Eisenkot first is accepted, and a confidence vote passes before Dec 31.\nHistorical lags argue against speed: 58 days in 2022 with a cohesive bloc, about 82 days in 2021. The fragmented opposition makes about 65 days a stretch.\nI anchor on the 34.5% market but shade down modestly, because the concrete reporting shows no signed deal and vetoes inside the bloc on each arithmetic path.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7542",
+   "has_trace": true
+  },
+  {
    "id": 6956,
    "scanned_at": "2026-11-11T19:03:11.492330",
    "date": "2026-11-11",
@@ -27254,6 +27338,20 @@
   }
  ],
  "Will Jumper launch a token by December 31, 2026?": [
+  {
+   "id": 7539,
+   "scanned_at": "2026-11-18T18:56:03.553609",
+   "date": "2026-11-18",
+   "agent": 48.5,
+   "market_price_t0": 52.5,
+   "edge": -0.040000000000000036,
+   "confidence": 0.42,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.47, 0.50). (0) Not resolved yet. The @jumperapp profile fetched on Nov 18 shows no JUMP TGE, contract address or listing. Third-party aggregators from early-to-mid November still list the TGE as \"Q4 2026, no date\". The Aspecta pre-market does not count.\n(a) About 43 days remain until Dec 31, 11:59 PM ET, and that window includes the holiday period.\n(b) If nothing changes, the outcome is No. JUMP must actually become publicly tradable, and no date, contract or venue has been announced roughly 7 weeks after the Legion sale closed.\n(c) No path: Jumper keeps running perps and partner campaigns, some of which run to Dec 2. The airdrop checker and claim rules then need several weeks after a snapshot, and the TGE slips into Q1 2027. Several rumoured October dates already passed without a launch.\n(d) Yes path: the snapshot teased in the bio (📸⏳🔜) happens in late November. Jumper then announces the TGE with a contract address and DEX or CEX pools in mid-to-late December, keeping its own Q4 guidance. A heavily oversubscribed sale ($48.6M against a $3M cap), a 50% unlock at TGE and its own \"see you at tge\" post give it the incentive to do so.\nOn the market: Polymarket sits at a 52.5% mid (46/59 spread), down 29 points in 7 days and with a low of 33%. That suggests traders are pricing slippage risk, or possibly a signal I can't see. The later strikes (about 94% by June 2027) confirm that only timing is uncertain.\nI shade slightly below the mid. No date has been firmed up by mid-November for a Q4 guide, the holidays compress the window, and a snapshot-then-claim sequence usually needs several weeks. The bio teaser is the main reason I don't go lower.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7539",
+   "has_trace": true
+  },
   {
    "id": 5847,
    "scanned_at": "2026-10-29T00:31:59.008992",
@@ -27964,6 +28062,20 @@
   }
  ],
  "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?": [
+  {
+   "id": 7532,
+   "scanned_at": "2026-11-18T16:29:49.163850",
+   "date": "2026-11-18",
+   "agent": 62,
+   "market_price_t0": 62.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.53,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.62, 0.62). (0) Not resolved. FRED DFEDTARU shows the upper bound at 4.00% after the September hike and the October hold, and the January 26–27, 2027 meeting has not happened. (a) About 10 weeks remain. The December 8–9 meeting comes first and sets the baseline that January's change is measured from, and December CPI and jobs data will land before January. (b) If nothing changes, the Fed is a gradualist committee under Warsh, who avoids forward guidance, after a December hike that is close to fully priced. Market pricing for a January move sits around 59–72% (Polymarket 62.5%, Kalshi 59%, CME FedWatch about 67–72%, OIS about 17 bp), so I anchor near 62%. (c) Routes to NO: a 50 bp December hike, which Waller is floating, front-loads the tightening and January holds. A December 25 bp hike is followed by a quarterly 'measured pace' that skips to March, as RSM and UBS expect. Or softer November headline CPI and oil prices give the Fed reason to pause, and the Fed has rarely hiked in January. (d) Routes to YES: the Fed hikes 25 bp in December with a hawkish dot plot, core inflation keeps running at 0.3% a month, and the committee follows the BofA, Deutsche and Goldman path of back-to-back hikes. That path is also the market's central case. The strong upward momentum (+27 points in 30 days) is offset by a less hawkish voter rotation in 2027 and Warsh's dislike of guidance, so I stay roughly at market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7532",
+   "has_trace": true
+  },
   {
    "id": 6924,
    "scanned_at": "2026-11-11T09:25:40.964489",
@@ -33011,6 +33123,20 @@
  ],
  "Zelenskyy out as Ukraine president by June 30, 2027?": [
   {
+   "id": 7518,
+   "scanned_at": "2026-11-18T12:31:13.725724",
+   "date": "2026-11-18",
+   "agent": 13,
+   "market_price_t0": 20.5,
+   "edge": -0.07499999999999998,
+   "confidence": 0.585,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.13). (0) The condition has not been met. Reporting dated Nov 17, 2026 and president.gov.ua posts from Nov 6 show Zelenskyy still acting as president, with no resignation or removal announced. (a) About 7.5 months remain until June 30, 2027. (b) If nothing changes, the answer is No. Martial law, which bars elections, is extended to Jan 29, 2027 and will likely be extended again. Article 108 keeps him in office until a successor is sworn in, and he told Piers Morgan in October he will not resign. (c) NO path: the Abu Dhabi and Berlin talks stall on Donbas and Russia keeps rejecting a ceasefire. Even if a ceasefire comes in spring, the 90-day to six-month election prep means no successor takes office before June 30. (d) YES path: a US-brokered deal produces a ceasefire of 60+ days in early 2027 and Zelenskyy announces his resignation or a handover tied to security guarantees. Alternatively, a shock event occurs (death, assassination, coup), or US pressure forces him out. The Polymarket anchor is 20.5%, but on only about $54k of volume. The sibling contracts (out by March 2026, June 2026, end of 2026) were all priced at 1–14% and are resolving No. The related 'election called by June 30, 2027' market sits at 21.5% on negligible volume, and even a called election would rarely remove him by the deadline. The ceasefire-by-June-2027 market at 57.5% is context for the deal path, but the election timing arithmetic mostly falls after June. I shade below the thin market to about 13%, leaving room for a resignation announcement within a deal and for tail shocks.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7518",
+   "has_trace": true
+  },
+  {
    "id": 5188,
    "scanned_at": "2026-10-20T10:51:52.046166",
    "date": "2026-10-20",
@@ -34098,6 +34224,20 @@
   }
  ],
  "Will GPT Astra 6.1+ debut at a score of at least 1440 by June 30, 2027?": [
+  {
+   "id": 7529,
+   "scanned_at": "2026-11-18T15:40:40.756794",
+   "date": "2026-11-18",
+   "agent": 58,
+   "market_price_t0": 59.5,
+   "edge": -0.014999999999999902,
+   "confidence": 0.435,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.56, 0.60). (0) Not yet resolved. GPT-6.2 Astra, which qualifies under the rules, was released Nov 17, 2026. Arena's changelog, last updated Nov 17, shows no Text Arena entry for it, and Fello AI says Arena has not rated it yet. The Fello '1490, 15th' figure matches Gemini 4 Hydrogen's debut on the same page, so I treat it as misattributed. (a) About 7.5 months remain until June 30, 2027. Arena is already testing the model (its X post), and the previous Astra reached Text roughly a week after launch, so timing risk is small. (b) If nothing changes, the market resolves on 6.2 Astra's first no-style-control score. Its predecessor GPT-6 Astra settled at a mature 1440±7 on that exact board, so the strike sits right at the predecessor's level. (c) NO: 6.2's gains are agentic rather than chat-preference, and power users panned it ('essentially unusable'). It debuts at 1430s on the no-style board, or it lands late, carries an AutoEval label or is listed under a non-qualifying name. (d) YES: benchmark improvements (AA 62 vs 57, better than 6.0 on all nine of OpenAI's charts) and its creative and design polish lift it a few points above its predecessor. New entries also often debut slightly above their eventual mature score. On that path it prints 1445–1465. The Polymarket anchor is 59.5% (wide 52/67 spread), down 16 points after the poor reception. I shade slightly below it for the small listing and AutoEval risk and the near coin-flip placement of the strike.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7529",
+   "has_trace": true
+  },
   {
    "id": 6245,
    "scanned_at": "2026-11-02T19:44:46.222393",
@@ -38756,6 +38896,70 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.85, 0.86). (0) The question is not resolved. The first round is on 18 April 2027, and the Interior Ministry has no results yet. For YES, Le Pen must stay on the ballot through the Cour de cassation and Conseil constitutionnel process and then win the plurality on 18 April. (a) About five months remain. The key legal dates are the 16 Dec 2026 hearing on her constitutional challenges (QPCs), a possible Conseil constitutionnel ruling by mid-March, final validation of the candidate list around 26 March, and a Cassation ruling on the merits possibly by early April. (b) If nothing changes, she wins comfortably. Aggregates put her at about 33–34% (France-Vote 34.0%, L'Hémicycle 34%, Votons 33%) against Mélenchon at about 17%. She is first in every poll from every pollster, and even her worst reading, Cluster17 at 27%, leads Mélenchon's 19% by 8 points. (c) The main NO path is a technicality. Cassation quashes the appeal ruling or the disputed Guérin thesis is adopted, and the March 2025 ineligibility revives. Bardella would replace her and win the first round, which still resolves NO. Smaller NO paths are her withdrawing over the ankle-tag sentence or health, and a large polling shift where the centre consolidates or Mélenchon surges by 15 or more points. (d) The YES path is that the QPCs are referred or the ruling comes late or in her favour, so she keeps her eligibility, and her 15-point lead holds through April. The market anchor of 84.5% (bid 84, ask 85) looks well calibrated: I put the legal and withdrawal risk at about 9–11% and an electoral upset at about 4–5%. I hold close to the market.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/7473",
+   "has_trace": true
+  }
+ ],
+ "Variational FDV above $1B one day after launch?": [
+  {
+   "id": 7545,
+   "scanned_at": "2026-11-18T20:37:49.887021",
+   "date": "2026-11-18",
+   "agent": 63.5,
+   "market_price_t0": 65.5,
+   "edge": -0.020000000000000018,
+   "confidence": 0.525,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.62, 0.65). (0) Not resolved. CoinGecko shows VAR only as a preview listing, with null price, FDV and supply, and Nov 16–18 reports confirm no token has launched; the TGE is still targeted for Q4 2026 with no date set. (a) Roughly 13.5 months remain until the 2027-12-31 deadline. The team says it is on track for a 2026 TGE, the public mainnet opened about Nov 11–13, and the sibling Polymarket market puts a launch by Dec 31, 2026 at ~56%. A launch before end-2027 looks very likely (~90%+), so the real question is day-1 FDV relative to $1B. (b) If nothing changes, the token simply has not launched yet. The default is a probable Dec 2026 or early-2027 TGE, with pricing anchored on OTC points at ~$1.3–1.55B, a fresh $1.5B Series B led by Bain (Nov 18), and the Polymarket ladder (>$800M at 76.5%, >$1B at 65.5%, >$2B at 22%), which implies a median around $1.3–1.4B. (c) NO: the 32% airdrop is fully unlocked and lands into an extreme-fear market (BTC below its 200-week average; Lighter −43% and HYPE −28% over 60 days). Thin revenue (~$30M annualized treasury) invites a dump, so the price at 4 PM ET the next day sits below $1B; EDGE launching at ~$656M is a recent sub-$1B precedent. Alternatively, the TGE slips beyond 2027, or an ambiguous supply figure produces a close-call miss. (d) YES: a December TGE with major CEX listings, where the thin float and the large locked share counted in FDV let the price hold near the pre-market and Series B anchors. Every large perp-DEX launch so far has cleared $1B on day one. I anchor on the 65.5% market and shade slightly lower because the risk-off backdrop has worsened since the OTC anchors were set, and because the strike is only ~1.4x below the median, leaving little margin for a day-1 haircut.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7545",
+   "has_trace": true
+  }
+ ],
+ "Kimberly Powell announced resignation or removal by December 31, 2026?": [
+  {
+   "id": 7536,
+   "scanned_at": "2026-11-18T18:07:14.091526",
+   "date": "2026-11-18",
+   "agent": 25,
+   "market_price_t0": 29.5,
+   "edge": -0.044999999999999984,
+   "confidence": 0.475,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.24, 0.26). (0) Not resolved yet. As of Nov 18, the NVIDIA newsroom shows nothing on Powell, her blog author page still lists her as VP of Healthcare, and coverage says no employment action has been announced. (a) About 43 days remain until Dec 31, 2026, and the window includes the Thanksgiving and year-end holidays. (b) If nothing changes, the market resolves No: she stays in role and Nvidia stays silent, consistent with its practice of formally announcing only executive-officer departures. (c) No scenario: the board treats the issue as closed by Huang's exit, since the reporting-line conflict ended when he left. The Wachtell probe stays focused on the foreign-intelligence allegations, and interim CEO Kress, focused on retention and 'business as usual,' defers any reshuffle until a permanent CEO is named. (d) Yes scenario: the probe or an HR review widens to Powell, or new disclosures (the 'third affair' reporting, the Dec 1 House interview of Huang) raise pressure. She then resigns or is pushed out, and an Nvidia spokesperson confirms her departure to the press. A spokesperson confirmation or a consensus of credible reporting would count. Anchor: the market mid is 29.5%, down sharply from 70.5%, and the Nov 30 contract trades at 14.5%. The Nov 18 all-hands passed with no Powell action, and the stabilization posture argues against a move, so I shade slightly below the market. The scandal still makes a quiet but confirmed exit materially more likely than the base rate.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7536",
+   "has_trace": true
+  }
+ ],
+ "Will Moonshot AI be added to the Chinese Military Companies list by June 30, 2027?": [
+  {
+   "id": 7534,
+   "scanned_at": "2026-11-18T17:16:14.867509",
+   "date": "2026-11-18",
+   "agent": 12,
+   "market_price_t0": 16.5,
+   "edge": -0.04500000000000001,
+   "confidence": 0.56,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.13). (0) Not resolved. The resolution-source read searched the June 8, 2026 1260H PDF and found no Moonshot, Kimi or Yuezhi Anmian entry. The only 1260H action since then is the November 10, 2026 removal of WuXi AppTec, so no addition has occurred. (a) About 7.5 months remain until June 30, 2027. (b) The status quo is No: there is no reported Pentagon plan, letter or pre-signal naming Moonshot for 1260H. (c) The likely NO path is either of two things. First, the next statutory update may slip past mid-2027; gaps have run 9–17 months, the last list came June 8, 2026, and trade-truce politics already delayed and withdrew a version. Second, an update may arrive without Moonshot, because US pressure on it runs through Commerce Entity List probes, sanctions talk, chip rules and NDAA §1532/§1651 naming, not 1260H. Litigation losses also raise the evidentiary bar for listing a private startup with no clear SASAC, MIIT or PLA ties. (d) The YES path is a mid-2027 update timed to the June 30, 2027 procurement ban that sweeps in AI labs. Moonshot's hooks would be the CISA distillation advisory naming it, the Commerce chip-access probe, and its state-linked Series D investors. The market sits at 16.5% after trading as high as 54%. I shade below it: I put roughly 45% on an update inside the window and about 20–25% on Moonshot being included given an update. DeepSeek and Xiaomi were explicitly requested and still left off in June.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7534",
+   "has_trace": true
+  }
+ ],
+ "Will S&P 500 (SPX) hit $6,200 (LOW) in December?": [
+  {
+   "id": 7527,
+   "scanned_at": "2026-11-18T14:54:30.085332",
+   "date": "2026-11-18",
+   "agent": 5.3,
+   "market_price_t0": 7.8,
+   "edge": -0.025999999999999995,
+   "confidence": 0.64,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.06). (0) Not met: Yahoo's 52-week low is 6,316.91 (Mar 30), above 6,200, so the strike has not been touched since the market opened. (a) About 30 trading sessions remain to the Dec 31 close. (b) Status quo: SPX near 7,332, about 15.5% above the strike, which resolves No. (c) No path: the Dec 9 hike is absorbed, 7,000-7,300 support holds, December seasonality helps, and strategist bear cases stop near 7,000-7,100; the earlier oil-shock warnings of 6,000 only produced a 6,344 close low. (d) Yes path: a 50bp hike or tech capitulation breaks 7,300 then 7,000, negative gamma accelerates the fall, and a crash-class leg reaches 6,200, a roughly 15.5% drop in six weeks seen only in 1987/1998/2008/2020-type episodes. With the VIX near 25, the one-sigma move to year-end is about 8.7%, so 6,200 is about 1.9 sigma away and a barrier-touch estimate gives about 5%; implied vol usually overstates realized vol, partly offset by fat tails and the hiking-into-weakness regime. The market mid of 7.85% looks slightly rich, especially since the $6,000 strike trades at 7.75%, which is inconsistent; I shade to 5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7527",
    "has_trace": true
   }
  ]

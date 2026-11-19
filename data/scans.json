@@ -505,6 +505,20 @@
  ],
  "Will Javier Milei win the 2027 Argentina presidential election?": [
   {
+   "id": 7587,
+   "scanned_at": "2026-11-19T07:51:58.229942",
+   "date": "2026-11-19",
+   "agent": 43,
+   "market_price_t0": 43.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.49,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.44, 0.42). (0) Not resolved. The CNE and DINE pages show only the 2025 elections, and the vote is scheduled for 24 Oct 2027, with a possible runoff around 21 Nov 2027. (a) About 11 months remain until the first round, plus any runoff; the 31 Oct 2028 backstop adds no real timing risk. (b) If today's picture simply holds, Milei leads the first round at roughly 34–35% and the runoff is a coin flip: the aggregator average is 41.2–40.6, with OPSA tied, Proyección +1.6 Milei and Equipo Mide/Tendencias showing Kicillof ahead. (c) NO: the technical recession is confirmed in December and unemployment keeps rising. Peronism unifies behind Kicillof once the PASO is suspended, and Milei's 54–58% 'never vote' ceiling decides a runoff he loses. (d) YES: Peronism stays split between Kicillof and Massa, and PRO and Bullrich consolidate behind Milei (the monitor's simulation goes to 68% with an LLA–PRO ticket). Wages and country risk recover before October 2027, and he wins a polarised plebiscite against 'Orcolandia'. The Polymarket anchor is 43.5%, down from the mid-50s in early October. Independent estimates bracket it: the Olivero models give 48–55%, the bond-implied estimate about 45%, and traders call it 'fifty-fifty'. Approval near 35% and worsening macro data argue below 50%. I see no unpriced information strong enough to move off the market, so I stay roughly at it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7587",
+   "has_trace": true
+  },
+  {
    "id": 6667,
    "scanned_at": "2026-11-08T05:00:45.170082",
    "date": "2026-11-08",
@@ -8861,6 +8875,20 @@
  ],
  "OpenAI IPO closing market cap above $1T?": [
   {
+   "id": 7566,
+   "scanned_at": "2026-11-19T02:23:39.239056",
+   "date": "2026-11-19",
+   "agent": 55,
+   "market_price_t0": 58.5,
+   "edge": -0.03499999999999992,
+   "confidence": 0.45999999999999996,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.55, 0.55). (0) Not resolved. OpenAI is still private, with only a confidential draft S-1 filed in June 2026. There is no public S-1, ticker or date, so this hinges on an IPO by 2027-12-31 and a first-day close above $1T. (a) About 13.5 months remain. Anthropic's public flip to pricing took under a month, so a 2027 listing is mechanically easy if OpenAI chooses it. (b) If nothing changes, OpenAI stays private and the market resolves No. (c) NO path: Altman's open-ended safety framing, his stated refusal to list below $1T, a Nasdaq more than 10% off its highs, plentiful private money, and a possibly weak Anthropic comp push the listing into 2028. FutureSearch's median listing date is March 2028. A smaller NO path is a close at or below $1T on a basic (not diluted) share count. (d) YES path: Anthropic's strong pricing at $83, above its range, reopens the window. Revenue keeps compounding (Q3 about $10B, roughly 50% quarter on quarter). The Amazon contingency and SoftBank refinancing add pressure. OpenAI lists in H1 or H2 2027 near or above its $1.25T private mark, and a typical mega-IPO first-day pop puts the close comfortably above $1T. I decompose it as P(IPO in 2027) ≈ 0.63–0.65 times P(above $1T | IPO) ≈ 0.85–0.88, giving about 0.55. Polymarket's sibling bucket markets imply a conditional distribution above $1T of roughly 90% if it lists, so the market is pricing listing odds of about 65%. I sit slightly below the 58.5% anchor because of the recent 'postponed' language, the weak tape, and share-count ambiguity.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7566",
+   "has_trace": true
+  },
+  {
    "id": 2330,
    "scanned_at": "2026-08-31T11:16:22.892687",
    "date": "2026-08-31",
@@ -14499,6 +14527,20 @@
  ],
  "Anthropic vs OpenAI - higher valuation on December 31?": [
   {
+   "id": 7589,
+   "scanned_at": "2026-11-19T08:37:57.069949",
+   "date": "2026-11-19",
+   "agent": 69.5,
+   "market_price_t0": 73,
+   "edge": -0.03500000000000003,
+   "confidence": 0.435,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.70, 0.69). Not resolved; resolution is the Dec 31, 2026 value, published Jan 1. Anthropic priced its IPO at $83 on Nov 18 and lists as ANT on Nov 19, so it resolves on public market cap. OpenAI stays on NPM (about $1,021/share, implying roughly $1.25-1.29T). At $83, Anthropic's basic cap is about $1.1T and fully diluted about $1.5T, so on the literal 'outstanding shares' basis ANT needs about $95-100 at the Dec 31 close; pre-open indications of $97-104 sit right at that line. NO path: the post-IPO premium fades as in the SpaceX precedent amid the AI sell-off, OpenAI's mark ticks up on its closed $15B round, or (unlikely) a Class A-only share count is used. YES path: ANT trades above about $100 on 6x oversubscribed demand and a limited float; MSCI already had Anthropic at about $1.54T vs OpenAI at $1.17T on Nov 9, fundamentals favour Anthropic, and the related Polymarket line puts 78% on Anthropic reaching $1.5T vs 12% for OpenAI. I anchor near the 73% mid but trim slightly because the first-day close and the share-count basis are unconfirmed and six weeks of volatility remain.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7589",
+   "has_trace": true
+  },
+  {
    "id": 6265,
    "scanned_at": "2026-11-03T02:46:57.480210",
    "date": "2026-11-03",
@@ -16660,6 +16702,20 @@
   }
  ],
  "Will Tesla sell a Cybercab for 30k or less in 2026?": [
+  {
+   "id": 7579,
+   "scanned_at": "2026-11-19T05:30:25.294593",
+   "date": "2026-11-19",
+   "agent": 76.5,
+   "market_price_t0": 81,
+   "edge": -0.04500000000000004,
+   "confidence": 0.61,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.76, 0.77). (0) Not yet met. On Nov 13, 2026 Tesla opened invite-only Cybercab orders at $29,990 before taxes, with a $1,000 deposit and an estimated December delivery in Austin. Deposits and preorders do not count, and no completed delivery or sale has been reported as of Nov 17–19. A real handover to an outside buyer must still happen. (a) About six weeks remain, to Dec 31, 2026 at 11:59 PM ET. (b) If nothing changes, the answer is No: there is no sale yet. Momentum points strongly toward a December handover, though. Production capacity is ample, with about 570 units in Texas. Musk has publicly committed to the MKBHD bet, and Tesla has said 'trying to get Cybercabs to customers by end of year' consistently since September. (c) No: the NHTSA FMVSS certification audit (AQ26002) makes Tesla counsel delay title transfers. Or the 'estimated' price or terms are revised above $30k. Or delivery slips into January. Or the resolver judges an invite-only, Texas-only, restricted-resale sale not to be 'publicly available terms', or a staged influencer handover to be 'promotional'. (d) Yes: Tesla stages a symbolic December Austin delivery to invited outside buyers, possibly including MKBHD, at $29,990, as it did with Semi (Dec 2022) and Cybertruck (Nov 2023) year-end milestone handovers. Credible outlets report it. I anchor on the 81% market but shade slightly lower. The interpretation ambiguity, NHTSA risk and Tesla's 'estimated' wording are real and not fully priced, though Polymarket resolvers generally treat sales to paying members of the public as qualifying.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7579",
+   "has_trace": true
+  },
   {
    "id": 6995,
    "scanned_at": "2026-11-12T05:25:01.498120",
@@ -21836,7 +21892,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-18T22:35:42.180Z",
+  "last_sync": "2026-11-19T11:38:29.183Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -27991,6 +28047,20 @@
  ],
  "Will David Lisnard advance to the second round of the next French presidential election?": [
   {
+   "id": 7552,
+   "scanned_at": "2026-11-18T23:14:50.392090",
+   "date": "2026-11-18",
+   "agent": 16,
+   "market_price_t0": 22.3,
+   "edge": -0.063,
+   "confidence": 0.51,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.15, 0.17). (0) Not resolved: the first round is on 18 April 2027 and no Interior Ministry results exist. (a) About five months remain. (b) Status quo is No: the RN candidate polls 31-36%, Mélenchon 17-19.5% and Lisnard 8-12% (average about 8%); he is in the top two in 0 of about 31 recent scenarios, roughly 6-10 points short. (c) No: the primary stalls or excludes Philippe, the bloc stays split, Lisnard's soft surge regresses, and Mélenchon's firm base holds second, as Ifop and Public Sénat already frame Le Pen-Mélenchon as near-assured. (d) Yes: the January primary happens, Lisnard wins it (Ifop primary poll 29 vs Philippe 28, 48% of Horizons sympathisers), Attal and Retailleau stand down, Philippe fades, and Lisnard consolidates 18-20% to pass Mélenchon. The market at 22.3% looks momentum-inflated next to the poll-based PrésiTracker estimate of about 2% and a 17.65% sibling win contract. History is also against candidates at 8-10% five months out. I shade below the market while keeping real weight on the primary consolidation path.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7552",
+   "has_trace": true
+  },
+  {
    "id": 6701,
    "scanned_at": "2026-11-08T18:19:46.642978",
    "date": "2026-11-08",
@@ -29630,6 +29700,20 @@
   }
  ],
  "Will Predict.fun launch a token by December 31, 2026?": [
+  {
+   "id": 7585,
+   "scanned_at": "2026-11-19T07:03:29.135105",
+   "date": "2026-11-19",
+   "agent": 70.5,
+   "market_price_t0": 75.3,
+   "edge": -0.04800000000000004,
+   "confidence": 0.555,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.70, 0.71). (0) Not resolved. Reports from TokenPost, CoinInsider, TechFlow and rg.org dated Nov 17–19 agree that the PREDICT TGE and claims were postponed one day before the Nov 18 opening, and that no token is publicly transferable or tradable yet. (a) About six weeks remain to Dec 31, 11:59 PM ET; the year-end holiday week is a likely dead zone for coordinated exchange launches. (b) If nothing changes, the outcome is No, but the team's guidance is a launch \"2–4 weeks\" from Nov 17, roughly Dec 1–15, which leaves about two weeks of slack before the deadline. (c) No path: the vague \"not the right decision\" reason points to a project-level choice, possibly about market conditions. Binance Wallet's \"coming weeks\" wording and the refund option for Prime Sale buyers hint at a long wait. A third 2–3 week slip, matching the 0-for-2 track record, would push the launch into January. (d) Yes path: the commitments are heavy, including published tokenomics, a Binance Prime Sale, Binance pre-market perpetuals, allocation tooling kept open, and backing from YZi Labs and Binance. The team then picks a date in early-to-mid December and Binance Alpha/Spot trading goes live. Anchoring on the market's 75%, I shade slightly lower because the latest delay was self-imposed with no external fix to wait for, and the sibling Dec 15 contract sits near 50%. The roughly 25-point gap between Dec 15 and Dec 31 looks a bit generous given the holiday period and the slip pattern.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7585",
+   "has_trace": true
+  },
   {
    "id": 5583,
    "scanned_at": "2026-10-25T13:47:11.420796",
@@ -33243,6 +33327,20 @@
  ],
  "Will the Iranian regime fall by June 30, 2027?": [
   {
+   "id": 7582,
+   "scanned_at": "2026-11-19T06:16:47.314157",
+   "date": "2026-11-19",
+   "agent": 8,
+   "market_price_t0": 10.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.07). (0) Not resolved: the CTP-ISW updates of Nov 17-18, 2026 show the regime governing and deploying security forces, with no provisional government, defections or loss of population control reported. (a) About 7.4 months remain until June 30, 2027. (b) The status quo is No: the regime survived Khamenei's killing, the crushed January 2026 uprising and a blockade that has halted crude loadings since late August, and it rebuilt its IRGC command with trusted old-guard figures. (c) No: the blockade and limited strike exchanges continue, Abdanan-style local protests are contained, and any IRGC-dominant shift counts as an internal power change, which the rules exclude. (d) Yes: Trump approves joint US-Israeli strikes on IRGC command and leadership targets, and with economic collapse this triggers a January-scale nationwide uprising with security-force defections and a provisional authority. The market is 10.5% on thin volume; base rates of about 2-5%, adjusted up for stress, plus the sibling 'before 2027' contract at about 2.6% for six weeks, support a value near or slightly below the market. Opposition fragmentation, no confirmed defections and the strict resolution wording lead me to shade down slightly.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7582",
+   "has_trace": true
+  },
+  {
    "id": 6997,
    "scanned_at": "2026-11-12T06:12:13.891021",
    "date": "2026-11-12",
@@ -34886,6 +34984,20 @@
   }
  ],
  "Next US-Iran senior diplomatic meeting by December 31, 2026?": [
+  {
+   "id": 7592,
+   "scanned_at": "2026-11-19T10:09:58.986796",
+   "date": "2026-11-19",
+   "agent": 19,
+   "market_price_t0": 22.5,
+   "edge": -0.035,
+   "confidence": 0.5700000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.19, 0.19). (0) Resolution check: no source reports a qualifying senior meeting after the September 22 UNGA session. The resolution-source read and all four research dimensions found nothing between Sept 23 and Nov 19, so the market is unresolved. (a) About six weeks remain until Dec 31, 2026 at 11:59 PM ET, and the holiday period cuts into that. (b) The status quo points to No. Contact is shuttle diplomacy through Qatar, Pakistan and Oman with the US and Iran never in the same city on the same day, and that fails the indirect-meeting test. Trump pulled Vance off the track on Nov 12 saying \"we don't need a deal.\" Araghchi, Ghalibaf and Rezaei all publicly deny any planned meeting until Iran's seven conditions are met. (c) NO scenario: fighting continues (Qeshm strike, Iranian fire on Kuwait, Hormuz mines), the sequencing dispute over the two-day plan stays unresolved, and Witkoff and Kushner stay focused on Ukraine, so no round is convened before year end. (d) YES scenario: the Shenzhen summit or Qatari mediation gets Trump to accept a version of the 48-hour framework. Iran has said talks resume right after Hormuz reopens, so a Doha or Muscat round with Witkoff/Kushner or Vance and Araghchi/Rezaei could follow within days. Trump's stance has reversed within days before, and Iranian denials preceded meetings in April. Anchoring on the 22.5% Polymarket price, which has fallen steadily (down 9 points over 7 days and 14 over 30), I shade slightly lower. The recent news has all been negative: Vance sidelined, escalation, and Axios reporting that even the likeliest next step is working-level talks that would not qualify. I keep meaningful weight on Trump's volatility and the existing framework.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7592",
+   "has_trace": true
+  },
   {
    "id": 7012,
    "scanned_at": "2026-11-12T10:05:18.929846",
@@ -37091,6 +37203,20 @@
  ],
  "Will Ra'am be in the next Israeli government?": [
   {
+   "id": 7554,
+   "scanned_at": "2026-11-19T00:05:23.224377",
+   "date": "2026-11-19",
+   "agent": 15.5,
+   "market_price_t0": 19,
+   "edge": -0.035,
+   "confidence": 0.56,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.15, 0.16). (0) Not resolved. As of 19 Nov no government has been formed: Eisenkot holds the mandate from 8 Nov, Netanyahu's 37th government continues as caretaker, and Ra'am holds no ministry. (a) There are about 7 months left until the 30 Jun 2027 deadline. Eisenkot's mandate runs out around 6 Dec, or around 20 Dec with the extension, and a second mandate round or a repeat election could follow. (b) If nothing changes, Ra'am stays outside government. It has pledged to vote for Eisenkot even without a coalition deal, which suggests outside support (resolves No) is the default role offered to it. (c) No scenarios: Eisenkot builds a Haredi-backed or abstention-reliant government with Ra'am only as outside support; Bennett's talks with Netanyahu lead to a unity government; or deadlock forces an early-2027 election, with no government by June or a first government without Ra'am. Reports dated 18 Nov say Eisenkot is prioritising the Haredi track and that Bennett prefers unity with Likud over relying on Arab parties. Liberman explicitly vetoes dependence on Ra'am, and Brookings sees a new election as most likely. (d) Yes scenario: unity talks and Haredi talks fail, and Eisenkot then forms a minority or broad coalition with one Ra'am minister, possibly Segalovitz, with the Joint List abstaining. Golan's Democrats back this, Abbas appears willing to meet Eisenkot's conditions, and the 66–52 speaker vote shows the bloc can work with Arab votes. The market sits at 19% (bid 16% / ask 22%). The most recent reporting, on Eisenkot's Haredi priority and Bennett's meeting with Netanyahu, tilts slightly toward No, so I price Yes a bit below the market at 15%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7554",
+   "has_trace": true
+  },
+  {
    "id": 6802,
    "scanned_at": "2026-11-09T22:21:48.457467",
    "date": "2026-11-09",
@@ -37246,6 +37372,20 @@
   }
  ],
  "Will David Lisnard win the 2027 French presidential election?": [
+  {
+   "id": 7572,
+   "scanned_at": "2026-11-19T03:57:13.178810",
+   "date": "2026-11-19",
+   "agent": 9.5,
+   "market_price_t0": 17.6,
+   "edge": -0.08149999999999999,
+   "confidence": 0.555,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.11). (0) Not resolved: the election has not been held, and the Interior Ministry has no results to show. The first round is 18 Apr 2027 and the runoff 2 May.\n(a) About 5 months remain until the first round, with a 31 Dec 2027 backstop for a result.\n(b) Status quo is No. Lisnard polls about 8–10% (6-pollster average 8.6%; Ifop about 7% on 18 Nov). sondages2027.fr shows him in the top two in 0 of 31 recent scenarios, about 10 points short of the runoff, behind Le Pen/Bardella (~33%), Mélenchon (~18%) and usually Philippe.\n(c) No scenario: Philippe boycotts the right-centre primary or the primary collapses. Lisnard's November surge fades, he finishes 4th–6th, and a Le Pen–Mélenchon or Le Pen–Philippe runoff follows.\n(d) Yes scenario: he wins the January primary and consolidates the Attal and Retailleau vote, Philippe fades, and he edges past Mélenchon into the runoff. He then beats the RN candidate on anti-RN transfers. Each link is unproven and no runoff poll with him exists.\n\nThe Polymarket anchor is 17.65%. I discount it heavily for three reasons. The same venue prices Philippe, who polls well ahead of Lisnard, at only 5.5%. A Journal du Coin audit found his earlier rise driven by concentrated buying from a handful of accounts in a thin market. And no modern Fifth Republic winner polled this low this late. Chaining roughly 40% primary × 25% runoff qualification × 55% runoff win gives about 5–6%. I add tail room for a Macron-2017-style surge and stop at 8% rather than fully abandoning the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7572",
+   "has_trace": true
+  },
   {
    "id": 6818,
    "scanned_at": "2026-11-10T02:29:02.246545",
@@ -37765,6 +37905,20 @@
  ],
  "Will any Uranium Enrichment % Cap (1+ Year) be in a US-Iran deal in 2026?": [
   {
+   "id": 7576,
+   "scanned_at": "2026-11-19T04:43:37.322222",
+   "date": "2026-11-19",
+   "agent": 5.3,
+   "market_price_t0": 7.5,
+   "edge": -0.022499999999999992,
+   "confidence": 0.71,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.05). (0) No source shows the condition met. The only signed US-Iran text is the June 2026 Islamabad MoU, which defers enrichment and keeps the 'status quo', so it does not qualify. The 3.67% cap rests on a single unconfirmed Al-Arabiya report from Nov 9-10, and Iranian officials (Rezaei, Nov 13-17) have since denied any nuclear discussion. (a) About six weeks remain until Dec 31, 2026. (b) Status quo is No. Talks are stalled, the sides are trading strikes around Qeshm and Bahrain, and Iran insists on its seven preconditions and a ceasefire before any nuclear talks. Trump calls the MoU 'a waste of time', is weighing a post-January offensive, and has said 'we don't need a deal'. (c) No scenario: stalemate and escalation continue, or any interim ceasefire or Hormuz MoU again defers enrichment or frames the cap as temporary or preliminary, which the rules exclude. (d) Yes scenario: Qatar and Pakistan push through a signed interim text with a 3.67% (JCPOA-level) cap and no end date, traded for $6-9bn in unfrozen assets and lifting the blockade. Washington would need to accept it under midterm and energy-price pressure, and Iran would need to drop its precondition-first sequencing. The market sits at 7.5% and has drifted down 7 points over 30 days, while the sibling 'final nuclear deal by Dec 31' market is at about 4.5%. The extra rule hurdles (one year or more, not provisional, a present obligation) argue for slightly below market, so I put Yes at about 5.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7576",
+   "has_trace": true
+  },
+  {
    "id": 6992,
    "scanned_at": "2026-11-12T04:41:53.403217",
    "date": "2026-11-12",
@@ -37796,6 +37950,20 @@
   }
  ],
  "Government shutdown by December 12?": [
+  {
+   "id": 7569,
+   "scanned_at": "2026-11-19T03:10:29.397229",
+   "date": "2026-11-19",
+   "agent": 31.5,
+   "market_price_t0": 35,
+   "edge": -0.034999999999999976,
+   "confidence": 0.5,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.31, 0.32). (0) Not yet resolved. The OPM status page for Nov 19 shows agencies open. H.R. 6500 (P.L. 119-103) funds the government through 11:59 PM ET Dec 11, so a lapse would begin 12:01 AM Sat Dec 12, inside the window. (a) About 23 days remain, but Congress is away for Thanksgiving until Nov 30. That leaves roughly 9 legislative days, with the House sitting Nov 30–Dec 3 and Dec 8–11. (b) The status quo is a lapse: if no CR is signed, the market resolves Yes. In practice, though, last-minute CRs are the norm, and all six midterm lame ducks since 2002 extended their first deadline. (c) NO scenario: Democratic leaders follow Murray, DeLauro and Neal in backing a CR into early 2027, pairing it with some limited war-money language or a separate Iran vote. Alternatively, a short bridge CR into the week of Dec 14–18 clears the window. Either way, it passes with large bipartisan margins like September's 90–6 and 370–48. (d) YES scenario: the Iran-war rider deadlock holds, with Trump and Thune refusing any limits. Van Hollen's leadership challenge pushes Schumer to deny the 8–9 Democratic votes needed, and funding lapses Saturday Dec 12. OMB would issue its directive and OPM post a lapse status, as in the 2018 Saturday shutdown. I anchor on Polymarket's 35% and Kalshi's ~34%, the latter down from 44% on Nov 14. I shade slightly lower for three reasons: Democrats have a strong incentive to defer the fight to a Congress they will control, the hardline bloc is a minority, and the reconciliation poison pill is fading. Against that, this Congress has had three lapses in 13 months, and as of Nov 19 there is no CR text and no visible progress.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7569",
+   "has_trace": true
+  },
   {
    "id": 6981,
    "scanned_at": "2026-11-12T02:26:57.825648",
@@ -37844,6 +38012,20 @@
   }
  ],
  "Will NVIDIA be the second-largest company in the world by market cap on December 31?": [
+  {
+   "id": 7559,
+   "scanned_at": "2026-11-19T00:51:27.854042",
+   "date": "2026-11-19",
+   "agent": 36,
+   "market_price_t0": 34,
+   "edge": 0.019999999999999962,
+   "confidence": 0.56,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.37, 0.35). (0) The condition is not met. CompaniesMarketCap (about Nov 18-19) ranks Apple #1 at $5.121T, Microsoft #2 at $3.774T, NVIDIA #3 at $3.645T and Alphabet #4 at $3.432T; StockAnalysis and Dividend Channel also show Microsoft ahead of NVIDIA. (a) About six weeks remain until the Dec 31, 2026 close, a normal trading day. (b) Status quo is NVIDIA third, so NO; it needs roughly 3.5% relative outperformance versus Microsoft. (c) NO: CEO-search drag, congressional testimony or probe headlines and AI-capex worries keep NVIDIA below Microsoft, or Alphabet (about 6% behind) rebounds and displaces it. (d) YES: strong Q3 results and the raised FY28 outlook reassert themselves, a credible permanent CEO is named, and Microsoft keeps sliding on AI-capex, outage and Anthropic-disruption worries, flipping a gap that has already flipped several times this month. With NVIDIA's high current volatility, a 3.5% relative gap over six weeks implies roughly 40-43% odds of passing Microsoft; the Alphabet risk and negative momentum trim this. Against the 34% market anchor (bid 32 / ask 36), and broadly consistent with the related $4.0T-plus market cap market at about 42%, I land slightly above at 0.37.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7559",
+   "has_trace": true
+  },
   {
    "id": 6971,
    "scanned_at": "2026-11-12T00:06:51.125953",
@@ -38960,6 +39142,22 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.05, 0.06). (0) Not met: Yahoo's 52-week low is 6,316.91 (Mar 30), above 6,200, so the strike has not been touched since the market opened. (a) About 30 trading sessions remain to the Dec 31 close. (b) Status quo: SPX near 7,332, about 15.5% above the strike, which resolves No. (c) No path: the Dec 9 hike is absorbed, 7,000-7,300 support holds, December seasonality helps, and strategist bear cases stop near 7,000-7,100; the earlier oil-shock warnings of 6,000 only produced a 6,344 close low. (d) Yes path: a 50bp hike or tech capitulation breaks 7,300 then 7,000, negative gamma accelerates the fall, and a crash-class leg reaches 6,200, a roughly 15.5% drop in six weeks seen only in 1987/1998/2008/2020-type episodes. With the VIX near 25, the one-sigma move to year-end is about 8.7%, so 6,200 is about 1.9 sigma away and a barrier-touch estimate gives about 5%; implied vol usually overstates realized vol, partly offset by fat tails and the hiking-into-weakness regime. The market mid of 7.85% looks slightly rich, especially since the $6,000 strike trades at 7.75%, which is inconsistent; I shade to 5%.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/7527",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic's IPO valuation be between $1.25T and $1.50T?": [
+  {
+   "id": 7562,
+   "scanned_at": "2026-11-19T01:38:43.618305",
+   "date": "2026-11-19",
+   "agent": 36,
+   "market_price_t0": 29.1,
+   "edge": 0.0685,
+   "confidence": 0.395,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.35, 0.37). (0) The IPO priced 2026-11-18 at $83, above the $70–78 range, with 980M shares (CNBC/Fortune/Axios/AP). No 424B4 is on EDGAR yet, and Anthropic's announcement reportedly states no valuation, so rule (1) likely does not apply. (a) The 424B4 is due within about two business days, so resolution should come soon, well ahead of the 2027-12-31 deadline. (b) Reporting clusters at ~$1.49T (FT) to ~$1.5T (most outlets) to $1.51T (CBC). Those headline figures include ~2.05B unissued plan/ESPP reserve shares, and an exact $1.50T resolves to the higher range. (c) NO: the resolver follows consensus '$1.5T' (rule 3) or counts reserves plus Amazon note shares, landing at or above $1.50T; the sibling Polymarket IPO-valuation market has $1.50–1.75T at ~70%. (d) YES: a literal rule (2) count (outstanding ~13.2B + options 1.77B + RSUs ~1.05B + Amazon convertible 1.56B, excluding unissued reserves) gives ~17.6B × $83 ≈ $1.46T, or ~$1.37T without the notes; an FT $1.49T consensus would also land inside. The literal rule leans YES, but UMA-style resolution often follows headline consensus and the figures sit on the boundary, so I move only modestly above the 29% market mid (last trade 40%).",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7562",
    "has_trace": true
   }
  ]

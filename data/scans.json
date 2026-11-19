@@ -20211,6 +20211,20 @@
  ],
  "Will there be between 11 and 13 earthquakes of magnitude 7.0 or higher worldwide in 2026?": [
   {
+   "id": 7628,
+   "scanned_at": "2026-11-19T22:03:02.705435",
+   "date": "2026-11-19",
+   "agent": 18,
+   "market_price_t0": 10.8,
+   "edge": 0.072,
+   "confidence": 0.6699999999999999,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.17, 0.19). (0) Not resolved yet: USGS ComCat lists exactly 13 reviewed M7.0+ events for 2026 as of Nov 19, the top of the 11–13 bucket, with none since the Oct 22 Tibet M7.0. The Nov 16 Banda Sea quake is M6.6 per USGS despite BMKG's M7.1–7.4. (a) About 42 days remain to Dec 31, 11:59 PM ET. (b) Status quo is YES: the count stays at 13. (c) NO needs one new USGS M7.0+ event, or an upgrade of a reviewed M6.9, before year-end. At 13–15 events per year about 1.5–1.7 are expected, giving roughly 78–82% for at least one, and recent years had late Nov–Dec M7+ events. (d) YES needs a quiet six weeks; clustering overdispersion slightly raises that chance, and a downgrade of the borderline Tibet 7.0 to 12 would add a small extra path. The market mid of 10.8% (wide 2/20 spread) and sibling buckets implying about 4–10% sit below the Poisson estimate of about 18–22%, so I blend to 0.17.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7628",
+   "has_trace": true
+  },
+  {
    "id": 5767,
    "scanned_at": "2026-10-27T23:42:21.639659",
    "date": "2026-10-27",
@@ -21892,7 +21906,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-19T11:38:29.183Z",
+  "last_sync": "2026-11-19T22:39:49.232Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -23266,6 +23280,20 @@
   }
  ],
  "Will the peak RONI for the 2026–27 El Niño be 2.5 or above?": [
+  {
+   "id": 7627,
+   "scanned_at": "2026-11-19T21:36:01.116229",
+   "date": "2026-11-19",
+   "agent": 44.5,
+   "market_price_t0": 52.5,
+   "edge": -0.08000000000000002,
+   "confidence": 0.45999999999999996,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.47, 0.42). (0) The condition is not met yet. The CPC RONI table's only listed season so far is ASO 2026 at +2.0 (1.97 unrounded), below the +2.5 line. SON, OND, NDJ and DJF are still to be published. (a) There are about 3.5 months of releases left: SON around Dec 5, OND around Jan 5, NDJ around Feb 5 and DJF around Mar 5, all before the Apr 1 close. (b) Status quo: the event plateaus near current relative values and OND/NDJ print around 2.3–2.4, which resolves No. The market sits at 52.5% and has been falling: down 18 points in 30 days and 6 in 7 days. (c) NO path: weekly relative Niño-3.4 keeps easing. CPC's own weekly relative reading was +2.3 on Nov 4, and BoM's relative series fell from 2.88 to 2.6. With no further westerly wind bursts, OND averages around 2.3–2.4 and the event peaks below the never-reached 2.5, as 1997 and 2015 did with ASO-to-peak gains of +0.2 to +0.45. (d) YES path: December strengthens as CPC expects and 10 of 14 models peak in December. OND or NDJ then prints at 2.45 or more, which the one-decimal table rounds to 2.5, and two correlated seasons give two chances. CPC's Nov 12 discussion puts about 60% on reaching 2.5 or more for OND and for NDJ. That supports Yes, but the outlook was cut from 83%, its medians reportedly sit right on the threshold (OND 2.50, NDJ 2.53), and the forecasts have run too high since August. A gain of about +0.5 above ASO is needed, which only the 1982–83 analog achieved. I shade slightly below the market and CPC because weekly readings are easing and forecasts have been biased high.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7627",
+   "has_trace": true
+  },
   {
    "id": 5137,
    "scanned_at": "2026-10-19T20:43:17.779551",
@@ -31983,6 +32011,20 @@
  ],
  "Will the AfD be part of a German state government in 2026?": [
   {
+   "id": 7616,
+   "scanned_at": "2026-11-19T18:10:42.817118",
+   "date": "2026-11-19",
+   "agent": 60.5,
+   "market_price_t0": 61,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.5,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.60, 0.61). (0) Not resolved: no AfD minister or senator in any state; Saxony-Anhalt's 8 Dec Minister-President vote is the only path. (a) About six weeks remain. The sequence is ballot 1 (42 votes), ballot 2 within 7 days, a dissolution vote within up to 14 days, then a plurality third ballot, which leaves limited slack before 31 Dec. The AfD-held Landtag presidency and its power to force sessions help compress this. (b) Status quo is the Schulze caretaker government, i.e. NO. (c) NO: with the CDU walking out and the BSW abstaining, Siegmund stays at 39 in ballots 1 and 2. In ballot 3 the non-AfD bloc unites behind one candidate for a 39-39 tie, or procedure slips into January. (d) YES: three secret defections in ballot 1 (Rausch drew 4 unexplained extra votes; Heuer refuses to leave the chamber), or a pre-Christmas ballot 3 where one absence or abstention, or the CDU refusing to back the Left's von Angern, hands Siegmund the plurality. The MP alone counts. The market is at 0.61 and rising; I stay close to it, discounting for timeline and tie risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7616",
+   "has_trace": true
+  },
+  {
    "id": 4617,
    "scanned_at": "2026-10-13T16:41:25.623319",
    "date": "2026-10-13",
@@ -32382,6 +32424,20 @@
   }
  ],
  "Will the 5-year Treasury yield hit 5.10% before 2027?": [
+  {
+   "id": 7615,
+   "scanned_at": "2026-11-19T17:43:30.051081",
+   "date": "2026-11-19",
+   "agent": 43.5,
+   "market_price_t0": 42.7,
+   "edge": 0.008000000000000007,
+   "confidence": 0.535,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.42, 0.45). (0) Treasury par curve shows no 5 Yr close >=5.10% since Sep 3; the peak was 5.09% on 9/30 and the latest print is 4.89% on 11/18, so YES needs a ~21 bp rise to one daily close. (a) About 29 trading days remain until Dec 31. (b) Status quo of yields near 4.9% resolves NO. (c) NO path: a 25 bp hike on Dec 9 (already priced at 90-95%), other officials favouring quarter-point steps over Waller's 50 bp, easing oil and haven flows, and model December averages near 4.97-4.98% keep the 5-year below the 5.0-5.1% resistance that held twice. (d) YES path: a 50 bp hike or hawkish dots on Dec 9 plus a hot November CPI on Dec 10 bear-flattens the curve; BofA's 2-year-at-5% call implies similar 5-year upside, and a 32 bp weekly move already occurred in November. A driftless barrier estimate with 6-8 bp daily volatility gives ~50-60%, discounted for close-only monitoring, mean reversion and resistance. That lands near the market mid of 42.7%, consistent with the 5.05% (55.5%) and 5.15% (36%) sibling strikes, so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7615",
+   "has_trace": true
+  },
   {
    "id": 7033,
    "scanned_at": "2026-11-12T17:21:58.907525",
@@ -35303,6 +35359,20 @@
  ],
  "Will Google have the best AI model at the end of December 2026?": [
   {
+   "id": 7598,
+   "scanned_at": "2026-11-19T12:34:19.526044",
+   "date": "2026-11-19",
+   "agent": 83.5,
+   "market_price_t0": 84,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.67,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.83, 0.84). (0) Not resolved yet. The publisher's own Hugging Face dataset (text, no style control, 2026-11-18) is the closest read of the resolving view. It shows Google at ranks 1-3: Gemini 4 Carbon 1538, Neon 1530, Argon 1529. The best non-Google model is Claude Opus 5.5 at 1514, and Carbon's lower bound sits above Opus's upper bound. (a) About six weeks remain until the Dec 31, 12:00 PM ET check. (b) Status quo is YES: Google has led the text board since Carbon debuted Oct 28, and Argon and Neon are mature fallbacks if Carbon's preliminary score drifts. (c) NO path: Anthropic's Fable 5.2 (released Nov 9) gets an official text row above about 1538, as an unofficial openlm mirror claims, though the official board shows no row after 10 days. A rumoured late-December release such as Opus 5.6 could also debut above Google. OpenAI's GPT-6.2 is a weaker path, its predecessor sitting near 1474 with poor reviews. Minor resolution-source risk comes from the arena.ai rename and from tie-breaks by unrounded score. (d) YES path: the three Gemini 4 models hold, Fable 5.2 stays mainly agentic or lands below about 1530, and no December release overtakes Google. Anchoring on Polymarket's 84% (December 15 sibling at 87.5%), I see no unpriced information strong enough to move far, so I hold about 0.83.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7598",
+   "has_trace": true
+  },
+  {
    "id": 7020,
    "scanned_at": "2026-11-12T12:29:26.472865",
    "date": "2026-11-12",
@@ -37093,6 +37163,20 @@
  ],
  "Will there be Houthi military action against Israel by December 31, 2026?": [
   {
+   "id": 7613,
+   "scanned_at": "2026-11-19T17:13:59.043603",
+   "date": "2026-11-19",
+   "agent": 12.5,
+   "market_price_t0": 25.5,
+   "edge": -0.13,
+   "confidence": 0.585,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.12) after one crux research pass. (0) Resolution check: no source shows a qualifying impact. The last Houthi launches at Israel were on 8–9 June 2026, before this market opened on 30 Sept, and all were intercepted or fell short; the Wikipedia tracker and recent news show nothing at Israel since then. (a) About 42 days remain, to 31 Dec 23:59 IDT. (b) Status quo is No: Houthi fire is going almost entirely at Saudi Arabia and the Aden front, and coalition strikes are degrading their missile and drone sites. (c) No scenario: Trump holds any Iran strike until after 1 January, as his \"after January 1\" remark to Axios on 19 Nov signals, and the Gaza truce stays battered but intact. The Houthis then stay focused on Saudi Arabia, and any stray launch at Israel is intercepted. (d) Yes scenario: a joint US–Israeli 4–7 day campaign on Iran in December, which Netanyahu is pressing for and Bloomberg calls increasingly likely. The Houthis respond within a day, as they did in June. An Eilat-area drone or missile then evades interception and lands in Israel, as happened in Sept 2025 or with the 4 April 2026 open-area fall. Roughly: P(strike before 31 Dec) ~25% × P(Houthis fire at Israel) ~60% × P(at least one qualifying impact) ~35% gives about 5%. Other triggers (Gaza collapse, Israel striking Yemen, unprompted fire) add a few points. The market sits at 25.5% mid, but with a very wide 14/37 spread and thin volume, and the research supports pricing below the bid; I shade toward it somewhat for strike-timing uncertainty.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7613",
+   "has_trace": true
+  },
+  {
    "id": 6742,
    "scanned_at": "2026-11-09T04:30:58.740924",
    "date": "2026-11-09",
@@ -37761,6 +37845,20 @@
  ],
  "Will Alphabet be the third-largest company in the world by market cap on December 31?": [
   {
+   "id": 7601,
+   "scanned_at": "2026-11-19T13:20:54.651682",
+   "date": "2026-11-19",
+   "agent": 32.5,
+   "market_price_t0": 32.5,
+   "edge": 0,
+   "confidence": 0.51,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.34, 0.31). (0) Not resolved. CompaniesMarketCap and other aggregators at the Nov 18 close rank Alphabet 4th at about $3.43T. Apple is at $5.12T, Microsoft at $3.77T and Nvidia at $3.65T, so Alphabet trails third place by about 6%. (a) About six weeks remain until the Dec 31 close, and no scheduled earnings fall inside that window. (b) If nothing changes, Alphabet stays 4th and the market resolves NO. (c) NO scenario: Nvidia stabilises after strong Q3 numbers and the CEO-transition shock fades, recovering toward the ~$170 that one analyst predicts for year-end. Meanwhile Alphabet keeps sagging on capex, negative free cash flow and falling EPS estimates. (d) YES scenario: Nvidia keeps sliding on the CEO search, the reported SEC probe and new export rules. Alphabet rebounds as the Anthropic IPO revalues its stake; the premarket bounce on Nov 19 to about $293 already narrowed the gap to roughly 1–2%. Alphabet then finishes between Nvidia and Microsoft. Gaps of ±15–20% have opened within a month in 2026, so a 6% relative move over six weeks is roughly a coin flip. That is offset by the chance Alphabet overshoots both rivals and lands 2nd, or that Nvidia and Microsoft end at levels where Alphabet beats neither. My estimate lands close to the Polymarket mid of 32.5%. I nudge it up slightly for the Nov 19 Anthropic-driven bounce, which the stale market may only partly reflect.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7601",
+   "has_trace": true
+  },
+  {
    "id": 6945,
    "scanned_at": "2026-11-11T15:40:09.958274",
    "date": "2026-11-11",
@@ -38043,6 +38141,20 @@
  ],
  "Marco Rubio out as Secretary of State by March 31, 2027?": [
   {
+   "id": 7625,
+   "scanned_at": "2026-11-19T21:11:13.818109",
+   "date": "2026-11-19",
+   "agent": 20.5,
+   "market_price_t0": 26.5,
+   "edge": -0.06,
+   "confidence": 0.51,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.21). (0) Not resolved. The state.gov bio still lists Rubio as Secretary \"January 21, 2025 - Present\", he was travelling as Secretary with Trump through Nov 19, and no resignation or removal has been announced. (a) About 4.4 months remain until 11:59 PM ET on March 31, 2027. An announced resignation counts as Yes even if it takes effect later. (b) The status quo is No: Rubio told the NYT that serving to the end of Trump's term \"has always been my plan.\" Trump said on Nov 8 he expects Rubio to stay, State called the exit reports a hoax, and Rubio is consolidating control at State and is reportedly allied with new chief of staff Stephen Miller. (c) NO scenario: the post-midterm turnover falls on Hegseth, Lutnick and Wiles. Rubio stays as Secretary and national security adviser and defers any 2028 decision, which does not require leaving by spring 2027, especially since he says he won't run against Vance. (d) YES scenario: Bloomberg's report that he discussed stepping down and was asked to stay proves true. He announces an exit, either in the lame-duck window or in early 2027 as the 2028 field forms and Iran-war blame and Democratic oversight grow. The private-sector money motive also points this way. The market anchor is 26.5%, but the venue's own term structure is 1.5% by Nov 30 and 6.5% by Dec 31. That implies roughly 20 points of hazard in Jan–Mar 2027, even though the confirmation logic favours a pre-January exit and Rubio is publicly digging in. The historical base rate for a Secretary of State leaving in a window this short is low single digits. I therefore shade below the market, to about 20%, while keeping meaningful weight on the credible Bloomberg sourcing and 2028 dynamics.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7625",
+   "has_trace": true
+  },
+  {
    "id": 7042,
    "scanned_at": "2026-11-12T20:44:23.618183",
    "date": "2026-11-12",
@@ -38058,6 +38170,20 @@
   }
  ],
  "Howard Lutnick out as Secretary of Commerce by December 31?": [
+  {
+   "id": 7620,
+   "scanned_at": "2026-11-19T19:28:02.735206",
+   "date": "2026-11-19",
+   "agent": 18,
+   "market_price_t0": 18.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.59,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.19, 0.17). (0) The condition has not been met. The commerce.gov page was blocked, but credible reporting through Nov 18 still calls Lutnick the sitting Commerce Secretary, and he was at APEC in Shenzhen that day. No resignation or removal has been announced. (a) About 42 days remain until Dec 31, 11:59 PM ET, and an announcement alone would resolve Yes. (b) If nothing changes, he stays: Trump publicly rejected replacing him on Nov 12 and twice on Nov 16, and personally owned the Megaspeed delay as a China-relations call. (c) No path: he gets through the Dec 10 Senate Banking hearing run by Republican chair Tim Scott, Trump stays on his China-détente track, and the Democratic subpoena threat only arrives in January, after the deadline. That mirrors his survival of the Epstein resignation push. (d) Yes path: a new revelation, such as the Cantor/Nvidia conflict probe or proof he defied Trump's directive to blacklist Megaspeed, or a bad Dec 10 hearing, leads Trump to 'make a move' before January. The Wiles firing three weeks after a 'zero chance' denial shows such a reversal can happen, and the Bessent feud plus Reuters' report of White House talks on pushing him out make it plausible. I anchor on the Polymarket mid of 18.5%, down from about 51% at the scandal's peak. I see no unpriced information strong enough to move far, so I nudge slightly up to 19% for the hearing catalyst and the incentive to exit before January.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7620",
+   "has_trace": true
+  },
   {
    "id": 7037,
    "scanned_at": "2026-11-12T19:00:47.291654",
@@ -38154,6 +38280,20 @@
   }
  ],
  "Will Jensen Huang join a new company by December 31, 2026?": [
+  {
+   "id": 7624,
+   "scanned_at": "2026-11-19T20:44:39.554967",
+   "date": "2026-11-19",
+   "agent": 5.5,
+   "market_price_t0": 8,
+   "edge": -0.025,
+   "confidence": 0.6699999999999999,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.05). (0) The resolving condition has not been met. No source as of Nov 18–19 reports an official announcement or credible report of Huang accepting a qualifying non-NVIDIA role. The Tsinghua seat is excluded because Tsinghua is a university, and the PCAST seat is excluded because it is a government body. (a) About six weeks remain until the Dec 31, 2026 11:59 PM ET deadline. (b) If nothing changes, this resolves No. Huang's only stated direction is a return to NVIDIA, which is excluded. NVIDIA's board has said it will not reinstate him. He faces House interviews on Dec 1 and an ongoing Wachtell investigation. (c) No path: he keeps pressing for an NVIDIA return, waits out the congressional and board inquiries, and maybe invests or founds something (both excluded), with no outside formal role announced before year-end. (d) Yes path: Musk, who controls the SpaceX board, unilaterally announces Huang as a board member or special adviser at SpaceX/xAI. Another route would be a surprise board or trust seat at an AI lab or partner firm. Either would happen while he is locked out of NVIDIA. The market anchor is 8% (bid 7 / ask 9), down from about 11.5%. Musk's DealBook remark of Nov 18 that Huang \"was not looking for a job\" is secondary-sourced but new. Together with the scandal and security friction that any hiring company would face, it justifies shading slightly below the market, to about 6%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7624",
+   "has_trace": true
+  },
   {
    "id": 7017,
    "scanned_at": "2026-11-12T11:42:03.294243",
@@ -39158,6 +39298,70 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.35, 0.37). (0) The IPO priced 2026-11-18 at $83, above the $70–78 range, with 980M shares (CNBC/Fortune/Axios/AP). No 424B4 is on EDGAR yet, and Anthropic's announcement reportedly states no valuation, so rule (1) likely does not apply. (a) The 424B4 is due within about two business days, so resolution should come soon, well ahead of the 2027-12-31 deadline. (b) Reporting clusters at ~$1.49T (FT) to ~$1.5T (most outlets) to $1.51T (CBC). Those headline figures include ~2.05B unissued plan/ESPP reserve shares, and an exact $1.50T resolves to the higher range. (c) NO: the resolver follows consensus '$1.5T' (rule 3) or counts reserves plus Amazon note shares, landing at or above $1.50T; the sibling Polymarket IPO-valuation market has $1.50–1.75T at ~70%. (d) YES: a literal rule (2) count (outstanding ~13.2B + options 1.77B + RSUs ~1.05B + Amazon convertible 1.56B, excluding unissued reserves) gives ~17.6B × $83 ≈ $1.46T, or ~$1.37T without the notes; an FT $1.49T consensus would also land inside. The literal rule leans YES, but UMA-style resolution often follows headline consensus and the figures sit on the boundary, so I move only modestly above the 29% market mid (last trade 40%).",
    "url": "https://forecast.agenticlearning.ai/scans/v2/7562",
+   "has_trace": true
+  }
+ ],
+ "Will Denmark be 2nd in the World Happiness Report 2027?": [
+  {
+   "id": 7622,
+   "scanned_at": "2026-11-19T19:57:05.454181",
+   "date": "2026-11-19",
+   "agent": 54,
+   "market_price_t0": 55.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.47500000000000003,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.52, 0.56). (0) WHR 2027 is unpublished and the WHR schedule targets 20 March 2027, so nothing is resolved and the 'Other' fallback is very unlikely. (a) About four months remain, with no public interim 2026 Gallup data expected before release. (b) Status quo is NO: WHR 2026 had Iceland 2nd (7.540) and Denmark 3rd (7.539), a 0.001 gap, with Costa Rica 4th (7.439) and overlapping confidence intervals among all three. (c) NO: Iceland's longer-run upward drift or Costa Rica's rapid rise continues, or Denmark's youth weakness deepens, keeping Denmark 3rd or lower. (d) YES: the rolling window drops 2023 and adds 2026, Denmark's average edges above Iceland's by a few thousandths, and it regains the 2nd place it reportedly held in every edition from 2019 to 2025 (a recalled, unverified run); Costa Rica's roughly 0.10 deficit is sizeable for one window shift. The Polymarket anchor is 55.5% Denmark, 31.5% Iceland and 13% Costa Rica, and the 9-point rise may reflect traders reading single-year data the research could not find. With no information that beats the market, I shade slightly below it, since Denmark trails a statistical tie and Costa Rica is a genuine tail risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7622",
+   "has_trace": true
+  }
+ ],
+ "Will Solana dip to $40 by December 31, 2026?": [
+  {
+   "id": 7618,
+   "scanned_at": "2026-11-19T19:00:14.434136",
+   "date": "2026-11-19",
+   "agent": 6.3,
+   "market_price_t0": 9.3,
+   "edge": -0.031,
+   "confidence": 0.63,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.06). (0) The condition has not been met. Binance kline data, the named resolution source, shows the lowest SOL/USDT price since Nov 24, 2025 was $60.13 in June 2026, and the November 2026 low so far is $67.41. It has not been made impossible either. (a) About 6 weeks remain, to Dec 31, 2026 23:59 ET. (b) If nothing changes, the answer is No: SOL is at about $74, roughly 45% above the strike. (c) No path: the $60–66 floor, which held in February and June, holds again. The Dec 9 Fed hike is about 91% priced, so a 25bp move lands without a shock, and SOL drifts or bounces into year-end. (d) Yes path: a 50bp hike or hawkish guidance (about 7% priced) pushes BTC below $60k. SOL then closes under $60.13 and a liquidation cascade wicks to $40 on a Binance 1-minute candle, the level chartist Altcoin Sherpa names if $60–66 is lost. Pricing: a barrier-touch calculation at implied vol of about 55–70% gives roughly 1–3%. Fattening the tails for the current extreme-fear downtrend and possible vol spikes gives about 4–7%. The sibling November ↓40 contract trades at 2–3¢. The market mid is 9.35% (bid 7%, ask 12%) after a +5.5% weekly jump, which looks partly like longshot premium and reaction to recent momentum. I shade below the mid to about 6.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7618",
+   "has_trace": true
+  }
+ ],
+ "Will Putin meet with Zelenskyy by December 31, 2027?": [
+  {
+   "id": 7612,
+   "scanned_at": "2026-11-19T16:46:46.060701",
+   "date": "2026-11-19",
+   "agent": 19.5,
+   "market_price_t0": 21,
+   "edge": -0.014999999999999986,
+   "confidence": 0.575,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.19). (0) The condition is not met. Al Jazeera, the Kyiv Independent and Nov 12 reports all confirm Putin and Zelensky have not met in person since Paris in December 2019, and no leaders' meeting is scheduled. (a) About 13.5 months remain, until 11:59 PM ET on Dec 31, 2027. (b) The status quo is NO. Talks continue at delegation level (Abu Dhabi) and through US shuttle envoys (Witkoff and Kushner seeing each leader separately). The Kremlin insists on a Moscow venue, offers a phone call instead, and says a leaders' meeting comes only at the final signing stage. Kyiv rejects Moscow, and the ICC warrant and Russia's challenge to Zelensky's legitimacy add friction. (c) NO scenario: Putin skips the Dec 14–15 Miami G20, which Bloomberg reported he likely would. Talks then grind on through 2027 with prisoner swaps and envoy visits. Any ceasefire is concluded through intermediaries or a Trump–Putin channel without a face-to-face meeting, as happened with the Alaska, Istanbul 2025 and early-2026 Abu Dhabi pushes. (d) YES scenario: the post-Shenzhen Trump–Putin talks produce a near-final text. Trump stages a signing ceremony in Miami, Türkiye or elsewhere in 2027, and Putin accepts a neutral venue because the event is a signing rather than a negotiation, so he and Zelensky shake hands. The Polymarket anchor is 21% (bid 20 / ask 22, thin volume of about $15K). Related ceasefire-by-end-2027 markets at about 67% imply a meaningful chance of a deal. Even so, I estimate only about 30% that a deal includes an in-person leaders' meeting, which is consistent with roughly 20%. Recent escalation over the Crimean Bridge and the absence of any G20 confirmation nudge me slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7612",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic open between $110 and $120 on its first trading day?": [
+  {
+   "id": 7610,
+   "scanned_at": "2026-11-19T16:17:52.523106",
+   "date": "2026-11-19",
+   "agent": 18,
+   "market_price_t0": 16.9,
+   "edge": 0.011499999999999982,
+   "confidence": 0.56,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.16). (0) Not yet resolved: the IPO priced at $83 on 2026-11-18 and lists on Nasdaq as ANT, but Nasdaq's page showed no official opening print as of about 11:13 ET Nov 19. (a) The cross should print today, so the deadline is effectively hours away. (b) Status quo: the latest indications are $105–107 (CNBC, Yahoo, Newsquawk), so a cross near the indication resolves No; the perp (~$104), Hyperliquid (~$98.67), analyst anchors ($92, $103) and SpaceX's +11% open also sit below $110. (c) No: the indication stalls or fades as the tape turns lower and the cross clears around $103–109. (d) Yes: the ratchet from $100 to $107 in about 70 minutes continues, driven by record retail demand, unfilled institutions and a 7.4% float, and the cross clears at $110–119. Anchoring on the Polymarket live mid of 16.85%, I lean slightly higher because indications were still rising and the auction has no fixed end time, but $110 needs a further move of about 3% beyond the last indication.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7610",
    "has_trace": true
   }
  ]

@@ -8731,6 +8731,20 @@
  ],
  "Will Bola Tinubu win the 2027 Nigerian Presidential Election?": [
   {
+   "id": 7657,
+   "scanned_at": "2026-11-20T06:57:34.033605",
+   "date": "2026-11-20",
+   "agent": 71.5,
+   "market_price_t0": 70.5,
+   "edge": 0.010000000000000009,
+   "confidence": 0.555,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.71, 0.72). (0) Not resolved. INEC's homepage, last updated 19 Nov 2026, shows the presidential election still upcoming on 16 Jan 2027 with no results posted. (a) The vote is about 57 days away. Market trading closes 17 Jan, but a definitive result can come any time up to 31 Oct 2027, which also covers a possible runoff. (b) If nothing changes, Tinubu is the incumbent APC nominee with a resourced machine and about 31 governors behind him. He faces an opposition split three ways (Atiku/ADC, Obi–Kwankwaso/NDC, Makinde/APM). The 90-day withdrawal window has reportedly closed, which hinders a formal merger. Under these conditions he likely repeats his 2023 plurality win, and most models put him at 55–80%. (c) NO: Atiku's candidacy is voided on appeal or the 23 Nov covenant produces tactical consolidation behind Obi. Northern defections and roughly 30% approval then deny Tinubu 25% in 24 jurisdictions. A runoff against a single opponent goes against him, or litigation pushes the result past the backstop. (d) YES: the opposition stays split and Tinubu wins about 35–40% while carrying the SW, NW and NC. He clears the spread rule, as both Strata-AF and the Oxford-Metro state breakdown suggest is feasible, and INEC declares him within days. I anchor on Polymarket's 70.5%. The mild downtrend reflects the unity-summit news and Atiku's legal uncertainty, which could cut either way. The historical base rate for incumbents (one loss in recent re-election bids) and the structural plurality advantage roughly offset the runoff and consolidation risks. So I stay essentially at market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7657",
+   "has_trace": true
+  },
+  {
    "id": 6466,
    "scanned_at": "2026-11-05T18:45:54.689291",
    "date": "2026-11-05",
@@ -13622,6 +13636,20 @@
   }
  ],
  "China x Philippines military clash before 2027?": [
+  {
+   "id": 7632,
+   "scanned_at": "2026-11-19T23:46:37.872881",
+   "date": "2026-11-19",
+   "agent": 5.5,
+   "market_price_t0": 7.5,
+   "edge": -0.019999999999999997,
+   "confidence": 0.72,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.06). (0) No qualifying event has been reported since this market opened on 2026-07-24. The July 20 baton clash at Second Thomas Shoal predates the window. The Sept 18 ram hit a civilian BFAR vessel and caused railing and deck damage, not a hull breach. Everything since has been intercepts, a blocked resupply, water cannon and rhetoric. (a) About six weeks remain, to Dec 31, 2026. (b) If nothing changes, this resolves No. (c) No scenario: Trump's Manila and China trip, the ASEAN Code of Conduct momentum (85–90% done) and the Wang Yi–Lazaro channel keep friction in the gray zone. Resupplies like the Oct 21 one pass under CCG 'monitoring', and the year ends with no gunfire, melee or hull breach. (d) Yes scenario: Beijing re-enforces its 'permission' demand on a Navy resupply to Second Thomas Shoal. That produces another boat-to-boat melee with CCG personnel, or a ram that holes a Navy vessel, and credible outlets report it consistently. The base rate is very low: about 3.5 years of near-constant friction produced roughly one melee-grade event and no gunfire or sinking. The 2025 sibling markets resolved No despite collisions. Against that, the provisional understanding has broken down and incident tempo rose in October. I anchor on the 7.5% market price, which has been falling as time decays, and shade slightly lower because there has been no recent incident and the diplomatic calendar discourages escalation.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7632",
+   "has_trace": true
+  },
   {
    "id": 6876,
    "scanned_at": "2026-11-10T20:24:36.079915",
@@ -21906,7 +21934,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-19T22:39:49.232Z",
+  "last_sync": "2026-11-20T11:38:37.453Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -25574,6 +25602,20 @@
   }
  ],
  "Russia military action against an EU country by December 31, 2026?": [
+  {
+   "id": 7670,
+   "scanned_at": "2026-11-20T11:37:41.512535",
+   "date": "2026-11-20",
+   "agent": 6.8,
+   "market_price_t0": 8.8,
+   "edge": -0.01999999999999999,
+   "confidence": 0.65,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.06). (0) Not met yet. On Nov 20, 2026, two Russian missiles (one a Kh-101) and a suspected jet drone landed in fields in southeastern Poland during a mass strike on Ukraine, with no injuries. The rules count such spillover only if a consensus says the munitions were aimed at a target inside Poland. Hromadske reports no evidence of that, and a search snippet quotes Tusk saying there are \"absolutely no reasons to believe that Poland was the target.\" The defence minister's \"provocation\" and \"timing not accidental\" remarks are the only counterweight. (a) About 41 days remain until Dec 31, 2026, plus a possible 3-day adjudication window. (b) If nothing changes (continued spillover, Russian denial, officials calling it unintended), this resolves No. That is how Galați in May, Poland's Kh-101 in July and the Romanian incidents were all treated. (c) No: impacts keep falling as strays or are intercepted, Russia denies responsibility, and no official finding of targeting emerges by year-end. (d) Yes: the resolver reads the Nov 20 deep-penetration Kh-101 as \"directed\" given Polish rhetoric; or another mass strike near the border causes casualties and Poland calls it deliberate; or a Kaliningrad crisis produces a Russian-claimed strike. The market sits at 8.75% (bid 6, ask 12), up about 6 points on the Nov 20 news. I trim slightly below that: the head of government explicitly denied Poland was the target, and the base rate for deliberate or claimed strikes on EU soil is zero, though the frequency of spillover keeps a real tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7670",
+   "has_trace": true
+  },
   {
    "id": 5927,
    "scanned_at": "2026-10-30T00:08:17.483777",
@@ -36791,6 +36833,20 @@
  ],
  "Will Steve Witkoff attend a US x Iran diplomatic meeting by December 31, 2026?": [
   {
+   "id": 7654,
+   "scanned_at": "2026-11-20T05:39:11.316174",
+   "date": "2026-11-20",
+   "agent": 13,
+   "market_price_t0": 15,
+   "edge": -0.01999999999999999,
+   "confidence": 0.63,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.13). (0) Not resolved. The market opened 2026-10-01, so the Sept 22 UNGA indirect round with Witkoff does not count. No newer senior round is documented as of Nov 18–20. The June 30 Doha visit and the Nov Iran–Qatar and Iran–Oman contacts do not qualify. (a) About six weeks remain, to Dec 31, 2026. (b) Status quo is No. Iran publicly ties any US meeting to its seven preconditions, Araghchi and Rezaei have denied planned meetings, and Trump says he is 'not rushing', is weighing strikes, and will 'see what happens' after Jan 1. Strikes are escalating in Qeshm, Kuwait and Bahrain. (c) NO scenario: Trump authorizes a new strike campaign or the tit-for-tat continues, and mediators keep only relaying proposals through Qatar and Oman with no formal convening before year-end. (d) YES scenario: the Qatar/Pakistan restart framework matures and an interim de-escalation is reached. Witkoff and Kushner, again the primary US negotiators after Vance was pulled Nov 12, fly to Doha or Islamabad for a mediator-shuttled round with Araghchi. Witkoff has attended every prior senior round, so attendance conditional on a round is about 85–90%. I anchor on the Polymarket mid of 15%, which has fallen steadily from 55%, and shade slightly lower for the active escalation and the record of 'imminent meeting' reports that never materialised. The live mediator channels and short-notice convenings, as at UNGA, keep a real tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7654",
+   "has_trace": true
+  },
+  {
    "id": 7074,
    "scanned_at": "2026-11-13T05:32:53.012660",
    "date": "2026-11-13",
@@ -37891,6 +37947,20 @@
  ],
  "Will the U.S. lift CAATSA sanctions on Turkey by December 31, 2026?": [
   {
+   "id": 7638,
+   "scanned_at": "2026-11-20T01:17:49.912235",
+   "date": "2026-11-20",
+   "agent": 9.5,
+   "market_price_t0": 14.5,
+   "edge": -0.04999999999999999,
+   "confidence": 0.67,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.09). (0) The condition has not been met. OFAC's SDN list dated 2026-11-18 still lists SSB's four officials under CAATSA-RUSSIA, and OFAC Recent Actions through Nov 19 shows no waiver, license or delisting. Turkey's defense minister said on Nov 19 that Ankara still \"expects\" removal. (a) About 6 weeks remain until 11:59 PM ET on Dec 31, 2026. (b) The status quo is NO. The July 7 pledge has produced no formal instrument in 4.5 months. Officials on both sides keep calling it \"a process,\" and the S-400s remain in Turkey with no confirmed buyer. (c) NO scenario: the S-400 transfer talks drag on, Rubio and State keep the line that the sanctions stay, and Trump issues no §231 certification before the Democratic Congress is seated. That fits the pattern of slipped targets: December 2025, before the midterms, July, and September. (d) YES scenario: Trump uses the §231 modified-waiver authority, which has no congressional review, during the lame-duck window. This could be a partial or temporary waiver for SSB, possibly paired with a Russian-approved S-400 transfer announcement. It would resolve YES under the rules' broad partial-relief language. The market sits at 14.5% and has fallen 21.5 points in 30 days, so the crowd is already pricing the slippage. I shade slightly lower because there is no §216 notice, no scheduled summit, and no news in the last two weeks of an imminent waiver. I keep some weight on Trump's unpredictability and the lame-duck incentive.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7638",
+   "has_trace": true
+  },
+  {
    "id": 6939,
    "scanned_at": "2026-11-11T13:19:41.783038",
    "date": "2026-11-11",
@@ -38311,6 +38381,20 @@
  ],
  "Fourth Jensen Huang affair reported by December 31?": [
   {
+   "id": 7662,
+   "scanned_at": "2026-11-20T08:13:26.017799",
+   "date": "2026-11-20",
+   "agent": 28,
+   "market_price_t0": 32.5,
+   "edge": -0.044999999999999984,
+   "confidence": 0.5,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.26, 0.30). (0) Resolution check: no qualifying outlet has reported a fourth affair. CNBC on Nov 19, TechCrunch on Nov 19 and Forbes on Nov 17 all still count three women: Alice Huang, Kimberly Powell and the unnamed employee Reuters reported. The condition is not met. (a) About 41 days remain until Dec 31, and that window includes Thanksgiving and the holidays. (b) Status quo is NO. The scoops came in a burst from Oct 29 to Nov 12, and nothing new has appeared in the 8 days since as coverage moved to fallout: Congress, the reinstatement fight, the California AG subpoena and litigation. (c) NO path: the Dec 1 closed-door House interview stays focused on Alice Huang, Megaspeed and chip controls. Huang likely invokes the Fifth, the Wachtell probe reports nothing publicly before year-end, and any follow-up reporting only identifies or adds detail about the Reuters employee, which is excluded. (d) YES path: NYT, Reuters, WSJ or Bloomberg, drawing on active Nvidia insider sources, publishes a scoop about another employee or outside partner and explicitly calls her a distinct person. Alternatively, a leaked transcript or a legal filing names someone new, which would qualify under criterion 3 if that person is clearly not the Reuters employee. I anchor on the Polymarket price of 32.5%, which has been falling steadily. The sibling market for a fourth affair reported by Nov 30 sits at 11%, implying a hazard that is decaying as the news cycle cools. Together with the strict rule that a new person must be distinguished from the Reuters employee, this supports shading somewhat below the market, to about 26%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7662",
+   "has_trace": true
+  },
+  {
    "id": 7082,
    "scanned_at": "2026-11-13T07:51:34.441138",
    "date": "2026-11-13",
@@ -38326,6 +38410,20 @@
   }
  ],
  "Will Alice Huang be federally charged by March 31, 2027?": [
+  {
+   "id": 7660,
+   "scanned_at": "2026-11-20T07:35:36.734403",
+   "date": "2026-11-20",
+   "agent": 11,
+   "market_price_t0": 11,
+   "edge": 0,
+   "confidence": 0.585,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.10). (0) The condition has not been met. The DOJ news search shows nothing on Megaspeed or Huang, and Reuters, CNBC, the Singapore Ministry of Home Affairs and Fortune all describe her as uncharged as of mid-to-late November 2026. Singapore's decision not to charge her does not count toward this market. (a) About 4.3 months remain until 11:59 PM ET on March 31, 2027. (b) If nothing changes, the market resolves NO. The 16 November Commerce/DOJ statement names Megaspeed the company as the target, not Huang. AG Blanche says DOJ has reached 'no conclusions' about her. She reportedly lives in Beijing, outside US reach. Typical export-control probes take 18–36 months to reach indictment, and any sealed charges would count only if unsealed within the window. (c) NO scenario: DOJ keeps building the Megaspeed and SDNY Supermicro cases slowly. The government acts through an Entity List designation or a charge against the entity, and any indictment of Huang stays sealed or comes after March. US–China summit diplomacy adds a reason to delay. (d) YES scenario: under heavy political pressure (Trump, Bessent, Congress), SDNY or the DOJ-led Megaspeed team files a complaint or indictment naming her for diversion conspiracy or false statements. They make it public for leverage or a Red Notice, as DOJ often does with Chinese nationals abroad, possibly alongside charges against Megaspeed. The market sits at 11%. The related market on charging Megaspeed by March is 38.5% but thinly traded, and charging her personally is a further step beyond that. I see no unpriced information that justifies moving much, so I hold roughly at the anchor with a slight upward lean for the political pressure.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7660",
+   "has_trace": true
+  },
   {
    "id": 7080,
    "scanned_at": "2026-11-13T07:04:07.790460",
@@ -38390,6 +38488,20 @@
   }
  ],
  "Jensen Huang admits to another affair with a woman by December 31?": [
+  {
+   "id": 7643,
+   "scanned_at": "2026-11-20T02:31:05.801681",
+   "date": "2026-11-20",
+   "agent": 16,
+   "market_price_t0": 22.5,
+   "edge": -0.065,
+   "confidence": 0.555,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.16, 0.16). (0) Resolution check: the condition is not met. Per the resolution-source read and the research as of Nov 19-20, Huang's only acknowledgments are the Nov 8 memo, which names no one, and the Nov 17 X post about \"serious mistakes,\" which is too general. The Powell and third-employee affairs are reported by the NYT and Reuters but neither has been confirmed by Huang, NVIDIA or his representatives. (a) About six weeks remain, to Dec 31. (b) If nothing changes, this resolves NO. Huang has stayed silent and deflected for about nine days, he reportedly told executives Alice Huang was his only infidelity, and he is advised by Paul Weiss with heavy legal exposure and a bid to return as CEO. (c) NO scenario: the Dec 1 House interview stays closed, and its transcripts are not released within 30 days, which is the usual pattern. The Senate Banking hearing slips to January or is scoped to national security, and Huang deflects or invokes privacy or the Fifth on personal questions. (d) YES scenario: at a public Senate Banking hearing before Christmas, a senator such as Warren asks directly about Kimberly Powell, and Huang answers yes under oath rather than risk a false statement. A Wachtell finding or a leaked transcript quoting his admission is another route. I chain the Senate path roughly as: hearing held in the window (~55%), asked about Powell (~60%), explicit admission (~25%). That gives about 8%, and other routes add about 5-8%. I sit somewhat below the market's 22.5%, which is itself falling (-10.5% over 7 days) as days pass without an admission.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7643",
+   "has_trace": true
+  },
   {
    "id": 7061,
    "scanned_at": "2026-11-13T02:25:30.001695",
@@ -39362,6 +39474,54 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.20, 0.16). (0) Not yet resolved: the IPO priced at $83 on 2026-11-18 and lists on Nasdaq as ANT, but Nasdaq's page showed no official opening print as of about 11:13 ET Nov 19. (a) The cross should print today, so the deadline is effectively hours away. (b) Status quo: the latest indications are $105–107 (CNBC, Yahoo, Newsquawk), so a cross near the indication resolves No; the perp (~$104), Hyperliquid (~$98.67), analyst anchors ($92, $103) and SpaceX's +11% open also sit below $110. (c) No: the indication stalls or fades as the tape turns lower and the cross clears around $103–109. (d) Yes: the ratchet from $100 to $107 in about 70 minutes continues, driven by record retail demand, unfilled institutions and a 7.4% float, and the cross clears at $110–119. Anchoring on the Polymarket live mid of 16.85%, I lean slightly higher because indications were still rising and the auction has no fixed end time, but $110 needs a further move of about 3% beyond the last indication.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/7610",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic be the second-best Math AI lab at the end of December 2026?": [
+  {
+   "id": 7655,
+   "scanned_at": "2026-11-20T06:16:06.090412",
+   "date": "2026-11-20",
+   "agent": 71.5,
+   "market_price_t0": 74.5,
+   "edge": -0.030000000000000027,
+   "confidence": 0.585,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.72, 0.71). (0) Not resolved yet. The publisher's own Hugging Face dataset (math category, snapshot of 2026-11-19, no style control) has Google 1st with Gemini 4 Neon at 1547.6 and Anthropic 2nd by best model, with Fable 5.1 Max at 1532.9. Anthropic sits about 15 points behind Google and about 25 points ahead of the third lab, Z.ai at 1507.7; OpenAI's best is 1487.6. (a) About 41 days remain until the Dec 31, 12:00 PM ET check. (b) If nothing changes, Anthropic is 2nd and the market resolves YES. A Google–Anthropic tie on lab rank due to overlapping confidence intervals would still be broken by score, and Google currently leads on score. (c) NO most likely comes from Anthropic's newly added Fable 5.2 Max scoring above Gemini 4 Neon on Math, which would make Anthropic #1. Fable 5.2 leads the Agent and WebDev boards, and one proxy puts it 8 points above Neon overall, so I put this at roughly 15-20%. A smaller NO path is GPT-6.2 Astra/Sol or a new Meta model jumping about 45 points to pass Anthropic, plus some risk from AutoEval flags or how the labs view orders labs. (d) YES happens if Google's Neon/Argon lead holds while Anthropic's depth keeps it clear of OpenAI, Meta and Z.ai. The market anchor of 74.5% (bid 71 / ask 78) already reflects this. The Hugging Face data confirms the status quo but shows the Google gap is narrow enough that a Fable 5.2 surge is a real risk, so I sit slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7655",
+   "has_trace": true
+  }
+ ],
+ "Will Gemini Krypton debut with an HLE-Diamond score of 50% or higher?": [
+  {
+   "id": 7647,
+   "scanned_at": "2026-11-20T03:58:44.116031",
+   "date": "2026-11-20",
+   "agent": 77.5,
+   "market_price_t0": 85.8,
+   "edge": -0.08299999999999996,
+   "confidence": 0.51,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.76, 0.79). (0) Not resolved. Krypton is absent from agi.safe.ai, the CAIS dashboard and the Scale HLE-Diamond board as of Nov 20, and Google has not confirmed it exists. (a) About 7.3 months remain until the June 30, 2027 deadline. (b) Status quo: if nothing changes and Krypton never appears on the site, the market resolves No. (c) No scenario: the krypton-a checkpoint is shelved or folded into another model. Or it ships under a name Google never ties back to Krypton. Or it stays in restricted access and CAIS never lists it; CAIS has so far skipped Hydrogen and Neon. (d) Yes scenario: Google ships 'Gemini 4 Krypton' as a Carbon successor in December to Q1, and CAIS adds it within days, as it did for Fable 5.2. Given Carbon's CAIS score of 63.6% and Argon's 56.9%, a Krypton score at 'high' would very likely clear 50%. I anchor on the 85.8% market price. The sibling strikes (55% at 85%, 60% at 83%) show traders treat the score as near-automatic, so this market is really pricing appearance. I shade down to 76% for three reasons the market seems to underweight. The related 'released by Mar 31' market sits at only 73.5%. CAIS listing is selective. Codename confirmation is required if Google brands the model differently, though the element naming scheme (Argon, Carbon, Hydrogen, Neon) makes a literal 'Krypton' brand plausible.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7647",
+   "has_trace": true
+  }
+ ],
+ "Will Japan's core CPI increase by less than or equal to 1.9% in 2026?": [
+  {
+   "id": 7634,
+   "scanned_at": "2026-11-20T00:33:19.280090",
+   "date": "2026-11-20",
+   "agent": 91,
+   "market_price_t0": 76.5,
+   "edge": 0.14450000000000007,
+   "confidence": 0.76,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.92, 0.90) after one crux research pass. (0) Not resolved: the SBJ 2026 annual report is due 22 Jan 2027, and only November and December remain unpublished. Jan–Oct core CPI averages about 1.73% y/y on the 2025 base. Because 2025=100, the 2026 annual change is the average index minus 100. Aggregator index levels (Jan–Oct sum about 1015.3) imply November and December must average about 104.05, i.e. roughly +3% y/y and about 1.1 points above October's 102.9, to round to 2.0%. (a) About two months remain, with two monthly prints outstanding. (b) Status quo: November and December around 2.2–2.8% give an annual figure of about 1.8%, which resolves Yes. (c) No would need an energy or yen shock pushing both months to about 3%+. That is unlikely given October's miss (2.2% vs 2.3% consensus), core-core easing, the confirmed December electricity/gas subsidy, and forecasters placing the >3% move in early 2027. (d) Yes is the default path, and rounding, rebasing revisions and the non-release clause all favour it. The market mid of 76.5% sits in a thin, wide-spread market. I move above it on the arithmetic, keeping some weight on data-source errors and tail shocks.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7634",
    "has_trace": true
   }
  ]

@@ -4921,6 +4921,20 @@
  ],
  "Will Trump's approval rating hit 35% in 2026?": [
   {
+   "id": 7673,
+   "scanned_at": "2026-11-20T12:08:28.972418",
+   "date": "2026-11-20",
+   "agent": 16,
+   "market_price_t0": 16.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.61,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.15, 0.17). (0) The condition is not met. Silver Bulletin's green line has not printed 35.0% or lower at any point in 2026. Its record low is about 36.3% in late October, and secondary reports put it at 36.5% on Nov 18–19, with the landing page showing 37% and \"back on the downswing.\" (a) About six weeks remain until Dec 31, and Dec 31 counts only if it is published and finalized by Jan 4. (b) If nothing changes, the average drifts in its 36.3–38.4% range and resolves NO. The Sept–Nov pace (about 0.1 points a week) projects to roughly 36% by year-end. (c) NO scenario: mean reversion after the post-midterm dip, sparse holiday polling, and Silver's house-effect adjustments keep the line above 36%. (d) YES scenario: post-midterm low readings keep arriving and get weighted in (Verasight 31, Reuters/Ipsos 32, Economist/YouGov 32), prices and the Iran war stay sour, and the average slides 1.5 points to 35.0% by late December. The Polymarket anchor is 16.5% (bid 15, ask 18), down 10 points over 30 days. The research surfaces nothing the market has clearly missed. The downward pull of fresh low polls roughly offsets the slow recent pace and the bounce pattern, so I shade only slightly below the mid.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7673",
+   "has_trace": true
+  },
+  {
    "id": 7096,
    "scanned_at": "2026-11-13T11:54:00.927424",
    "date": "2026-11-13",
@@ -8197,6 +8211,20 @@
  ],
  "NYSE marketwide circuit breaker before 2027?": [
   {
+   "id": 7677,
+   "scanned_at": "2026-11-20T13:13:55.158263",
+   "date": "2026-11-20",
+   "agent": 5.8,
+   "market_price_t0": 7,
+   "edge": -0.01299999999999999,
+   "confidence": 0.6499999999999999,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.07). (0) Resolution check: no source shows a marketwide halt in the window. Yahoo and CNBC coverage, the Nasdaq Trader breach table (blank) and the near-miss reporting on Nov 5, 2026 all point to no Level 1, 2 or 3 halt since Nov 7, 2025. The last triggers were in March 2020. The NYSE publishes no halt log, so this absence comes from news coverage rather than an official statement.\n(a) About 28 regular sessions remain until Dec 31, 2026, including the half-day and holidays.\n(b) Status quo is NO. The 7% trigger resets from each prior close; for Nov 20 it sits about 6,673 against the 7,175.83 close. The worst days this month were about -3.9% intraday on Nov 5 and -2% on Nov 19, both well short.\n(c) NO scenario: the AI/rate-driven selloff keeps grinding lower through slow multi-day losses, or rebounds. The Dec 9 Fed hike is about 96% priced, and no single session reaches -7% before 3:25pm ET.\n(d) YES scenario: a further leg down plus a shock causes a gap-down open, and dealer short-gamma selling pushes the cash S&P through -7% before 3:25pm. Possible shocks are a hawkish surprise on Dec 9 (a 50bp hike or hawkish dots), an AI credit event, or a weekend Asia crash.\nThe regime is genuinely stressed: VIX near 31, an inverted VIX curve, Taiex down 6% and KOSPI breakers firing. Still, the April 2025 rout with VIX above 50 never hit 7%, and only a few such days have occurred in roughly 38 years. Against that backdrop I shade slightly below the Polymarket anchor of 7.05% (bid 6.5%) to about 5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7677",
+   "has_trace": true
+  },
+  {
    "id": 6507,
    "scanned_at": "2026-11-06T05:39:48.795166",
    "date": "2026-11-06",
@@ -11382,6 +11410,20 @@
   }
  ],
  "Extended FDV above $300M one day after launch?": [
+  {
+   "id": 7710,
+   "scanned_at": "2026-11-20T22:05:28.405128",
+   "date": "2026-11-20",
+   "agent": 15.5,
+   "market_price_t0": 17.5,
+   "edge": -0.019999999999999962,
+   "confidence": 0.62,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.17, 0.14). (0) Not resolved. Extended's pinned X post, read from the resolution-source check on Nov 20, says \"XTEN launches on 30 November.\" That puts the snapshot at 4 PM ET on Dec 1, and no price exists for it yet. (a) About 11 days remain to the snapshot, well inside the Dec 31 deadline, so timing risk is now small; the sibling launch-by-year-end market is at 98%. (b) Status quo is No. Supply is fixed at 1B, so Yes needs a price above $0.30. The only price discovery, the Hyperliquid hyperp and other pre-market venues, shows about $0.19–0.24 (FDV $188–237M). Its all-time high of $0.2998 never crossed the strike, and the macro tape is weak (HYPE -35% and Lighter -50% over 60 days). (c) No: a fully unlocked 30% airdrop with no cost basis meets risk-off markets, and day-1 trades at $0.15–0.27, in line with or below pre-market. (d) Yes: a Binance, OKX or Bybit spot listing with market-maker support squeezes the thin float, and the price gaps 30–60% above the hyperp to above $0.30 by the Dec 1 snapshot. That is plausible given 10–25% daily moves, but it is not the base case. The market anchor is 17.5% (bid 16 / ask 19), consistent with the sibling ladder ($150M at 57.5%, $500M at 5%), and a lognormal around a ~$0.21 median with roughly 40% volatility gives about 18%. I have no unpriced information, so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7710",
+   "has_trace": true
+  },
   {
    "id": 7120,
    "scanned_at": "2026-11-13T19:00:27.388094",
@@ -16501,6 +16543,20 @@
  ],
  "Will the U.S. invade Iran before 2027?": [
   {
+   "id": 7696,
+   "scanned_at": "2026-11-20T18:04:02.216024",
+   "date": "2026-11-20",
+   "agent": 5.5,
+   "market_price_t0": 7.5,
+   "edge": -0.019999999999999997,
+   "confidence": 0.7,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.05). (0) Resolution check: the condition has not been met. The resolution-source read (INSS Nov 8–15, the iranwarlive tracker, Middle East Eye Nov 19) reports no US offensive to establish control over Iranian territory. The fighting so far has been air and naval strikes, including on Qeshm and Hengam, plus a blockade, and none of that meets the 'establish control' test. (a) About 41 days remain before the Dec 31, 2026 11:59 PM ET deadline. (b) Status quo is No. Trump says he is 'not rushing' and will decide 'after the beginning of the year'. The options reported in November (Axios via Time/CBS) are a 4–7 day air campaign, and a post-midterm Democratic Congress plus 31% war support make a ground operation hard to sell. (c) NO scenario: tit-for-tat strikes and the blockade continue, or a short air campaign happens, with no landing on Iranian soil before January. (d) YES scenario: a new US-Israeli air campaign provokes Iranian attacks on Gulf energy or shipping. The US then uses the Boxer/Makin Island MEUs to seize Larak, Abu Musa or Kharg to reopen Hormuz before the new Congress sits. The shelf plans from March and three carriers in theatre keep this possible. Anchor: Polymarket mid is 7.5%, down 8 points over 30 days. The base rate argues against a seizure: one was floated in March with troops deployed and was never executed, and every price spike reversed. Trump's explicit January timing and the air-only menu justify shading slightly below market, to about 6%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7696",
+   "has_trace": true
+  },
+  {
    "id": 7113,
    "scanned_at": "2026-11-13T16:38:24.802815",
    "date": "2026-11-13",
@@ -18070,6 +18126,20 @@
   }
  ],
  "Nothing Ever Happens: 2026": [
+  {
+   "id": 7709,
+   "scanned_at": "2026-11-20T21:26:38.347596",
+   "date": "2026-11-20",
+   "agent": 92,
+   "market_price_t0": 91.5,
+   "edge": 0.0050000000000000044,
+   "confidence": 0.69,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.92, 0.92). (0) No source shows any of the 13 triggers met as of Nov 20, 2026. USGS lists no M8.5+ quake in 2026, and NASA's CNEOS fireball data peaks at 1.1 kt. Trump and Xi are in office, Iran's regime survives under Mojtaba Khamenei, Bitcoin is about $58k, and Denmark's Greenland deal keeps Danish sovereignty. Democrats won the Senate 56-44, so the supermajority trigger is dead. (a) About 41 days remain until Dec 31, 2026. (b) If nothing changes, the market resolves Yes. (c) A No path: the US expands the Qeshm strikes into seizing an Iranian island, which counts because the rules cover 'any portion' of Iran. Other No paths are Iran's regime collapsing under a renewed strike campaign, or a Russia–Poland escalation turning into a territorial move. UMA could also misread the Nov 20 Kh-101 missiles landing in Poland, but that fails the 'offensive intended to establish control' test. (d) The Yes path: the US stays with air and naval pressure and Qatar-mediated talks, the Trump–Xi détente holds, and the Poland incident stays an airspace violation. The market's 91.5% is the anchor. Related Polymarket prices (Trump out 2.45%, Taiwan 1.8%, Xi 1.75%, Iran regime 2.65%, Greenland 1.45%) include longshot bias and overlap, while an Iran ground seizure is the largest single tail at roughly 3-5%. I find nothing the market hasn't priced, so I stay near it at 92%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7709",
+   "has_trace": true
+  },
   {
    "id": 6966,
    "scanned_at": "2026-11-11T22:27:00.591040",
@@ -21934,7 +22004,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-20T11:38:37.453Z",
+  "last_sync": "2026-11-20T22:14:30.511Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -28695,6 +28765,20 @@
  ],
  "Will no qualifying US-Iran senior diplomatic meeting take place by December 31, 2026?": [
   {
+   "id": 7695,
+   "scanned_at": "2026-11-20T17:32:01.217101",
+   "date": "2026-11-20",
+   "agent": 86.5,
+   "market_price_t0": 85,
+   "edge": 0.015000000000000013,
+   "confidence": 0.6799999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.86, 0.87). (0) No source shows a qualifying meeting since the June 21–22 Bürgenstock round. The resolution-source read through Nov 18 and all four research dimensions agree that current diplomacy is Qatari, Pakistani and Omani shuttle mediation. That fails the same-city, same-day, senior-level test unless a US principal is physically present, and none is reported. (a) About 41 days remain until Dec 31, 11:59 PM ET, and no meeting is scheduled or announced. (b) If nothing changes, Yes (no meeting) wins. Iran (Araghchi on Oct 31, Nov 1 and Nov 10; Rezaei) says it will not meet until its seven conditions are met. The US calls those conditions outrageous, and Trump on Nov 19–20 said he is \"in no hurry\" and will see \"after the start of the new year.\" (c) No case: the stalemate continues, with blockade pressure, tit-for-tat strikes and possibly a US-Israeli strike campaign that hardens Iran's no-talks stance through year-end. (d) Yes-for-a-meeting case: Vance's standing offer of a Doha or Istanbul meeting with Rezaei, which the WSJ reported Trump authorized, is suddenly accepted. Alternatively, an escalation produces an urgent ceasefire round with Witkoff or Vance and Araghchi in the same city; Trump-era diplomacy has convened rounds on short notice before. The market sits at 85% and has risen sharply as the talks stalled. I find nothing the market has missed, so I stay close to it, nudging slightly up for Trump's explicit new-year framing.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7695",
+   "has_trace": true
+  },
+  {
    "id": 7107,
    "scanned_at": "2026-11-13T15:04:10.726803",
    "date": "2026-11-13",
@@ -30582,6 +30666,34 @@
   }
  ],
  "Will AI solve the Hodge Conjecture in 2026?": [
+  {
+   "id": 7686,
+   "scanned_at": "2026-11-20T15:18:49.289880",
+   "date": "2026-11-20",
+   "agent": 9,
+   "market_price_t0": 67,
+   "edge": -0.5800000000000001,
+   "confidence": 0.64,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09) after one crux research pass. (0) No source shows the condition met: Clay, MathWorld and OpenAI's math repo show no full-Hodge claim. OpenAI's only standing Hodge item is the October CM-abelian-variety special case, which the rules exclude as partial, and its broader K3-products claim was withdrawn on Oct 7. (a) About 41 days remain until Dec 31, 2026, including the holidays. (b) The status quo is No. The live 67% mid conflicts with the 13% last trade, the 41% daily close and thin $18.7k volume. The 7-day spike coincides with a Riemann surge (Kalshi Riemann before 2027 went from 1% to 72%; Polymarket 'Riemann next' is at 81.5%), which suggests spillover rather than Hodge news. Higher-volume related markets price Hodge low: 'Hodge next solved by AI' is at 5.5% on $94k, 'AI solves 2 more Millennium problems in 2026' is at 4.4%, and Kalshi's Hodge-before-2027 is at about 6%. (c) NO: OpenAI keeps its scoped, panel-reviewed releases (as with Yang–Mills existence only), Hodge output stays at special cases, and the single-sourced Sept–Oct 'solution soon' rumours prove to have meant the CM case. (d) YES: OpenAI, with GPT-6.2-Astra, extends the CM result and announces 'Hodge solved' in its Navier–Stokes style, or a lab announces a counterexample, before Dec 31. Given OpenAI's aggressive cadence I keep about 9% on a surprise, including some weight on unseen recent news behind the spike.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7686",
+   "has_trace": true
+  },
+  {
+   "id": 7683,
+   "scanned_at": "2026-11-20T14:48:20.012793",
+   "date": "2026-11-20",
+   "agent": 11.5,
+   "market_price_t0": 30.5,
+   "edge": -0.19,
+   "confidence": 0.585,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.11) after one crux research pass. (0) Not met. As of Nov 20, OpenAI's GitHub changelog, Wikipedia and MathWorld all show only the CM-abelian-varieties special case, which the rules exclude as a partial result. The K3-products, Kuga–Satake and Weil-eightfold extensions were withdrawn on Oct 7 after a sign error. No lab has claimed a full Hodge proof or counterexample. (a) About 6 weeks remain until Dec 31, 2026. (b) If nothing changes, the market resolves No. (c) No path: OpenAI's Hodge work stays at the CM case, the September 'relatively soon' rumour (single anonymous source) turns out to have referred to the Oct 6 special case, and reputational pressure after the bulk-release backlash keeps any lab from claiming the full conjecture. (d) Yes path: OpenAI (GPT-6.2-Astra or an internal successor) or Anthropic repairs the withdrawn argument or finds a new route and declares Hodge solved before year-end. The rules require no verification, and OpenAI has announced contested Millennium-level claims before (Navier–Stokes, Yang–Mills). The anchor is the thin Polymarket mid of about 30% (bid 25 / ask 36, roughly $19k volume), up 17 points in a week with no Hodge-specific news I could find. Related markets with more volume price Hodge as the next AI-solved Millennium problem at only 8.5%, and 'exactly 1 more' at about 32%, with Riemann the favourite. That implies a Hodge-in-2026 probability well below 30%; Kalshi's 'Hodge resolved before 2027' sits at about 6%, though it uses a stricter bar. I weight this toward No, but keep a tail for OpenAI's demonstrated willingness to make aggressive claims and for unseen news behind the recent price jump.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7683",
+   "has_trace": true
+  },
   {
    "id": 4077,
    "scanned_at": "2026-10-07T00:07:17.897427",
@@ -33093,6 +33205,20 @@
  ],
  "Will there be no change in Fed interest rates after the December 2026 meeting?": [
   {
+   "id": 7706,
+   "scanned_at": "2026-11-20T20:50:37.855352",
+   "date": "2026-11-20",
+   "agent": 7,
+   "market_price_t0": 8.6,
+   "edge": -0.016499999999999987,
+   "confidence": 0.72,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) The question is not resolved. The FOMC statement for the Dec 8–9 meeting is due Dec 9. FRED DFEDTARU shows the upper bound at 4.00% as of Nov 20, after the September +25 bp hike and the October 28 hold.\n\n(a) About 19 days remain. October PCE (Nov 25) and November payrolls (Dec 4) are the only major releases before the decision.\n\n(b) The status quo points to a hike, not a hold:\n- The October minutes say nearly all participants judged a December hike appropriate.\n- Waller is pushing for 50 bp; Cook and Paulson are hawkish.\n- Even Bessent is arguing only against 50 bp.\n- CME FedWatch is reported at roughly 96–99% for a hike.\n\n(c) NO scenario: PCE and payrolls come in firm or neutral, and Warsh delivers the widely telegraphed 25 bp hike, as the Fed did in December 2018 despite an equity selloff.\n\n(d) YES scenario: the AI-led equity selloff (VIX above 30, S&P at a six-month low) turns disorderly and payrolls disappoint. Warsh, who already held once in October against his own committee's projections, repeats a 'wait and see' pause. Citi notes officials have 'little appetite to hike into an equity sell-off.'\n\nThe Polymarket anchor is 8.65% and up about 6 points this week, likely reflecting selloff risk. Futures imply less than 5%. I shade slightly below the market to about 7%, keeping a tail for Warsh's demonstrated willingness to defy expectations and for a market shock.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7706",
+   "has_trace": true
+  },
+  {
    "id": 5874,
    "scanned_at": "2026-10-29T07:41:18.003637",
    "date": "2026-10-29",
@@ -34813,6 +34939,20 @@
  ],
  "Will the 30-year Treasury yield hit 5.70% before 2027?": [
   {
+   "id": 7704,
+   "scanned_at": "2026-11-20T20:17:04.985739",
+   "date": "2026-11-20",
+   "agent": 11,
+   "market_price_t0": 12.5,
+   "edge": -0.015,
+   "confidence": 0.64,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.11). (0) Not resolved. Treasury's Daily Par Yield Curve '30 Yr' column peaked at 5.67 on 10/07 and was 5.40 on 11/19. The 5.70 seen on 10/05 is in the 20 Yr column, not the 30 Yr. ^TYX closed at 5.303 on 11/20, so a Yes needs about +40bp to a new record on the official end-of-day series. (a) About six weeks, or roughly 28 trading days, remain until Dec 31. (b) Status quo is No: yields are falling as an equity correction drives a flight to safety. (c) No path: the Dec 9 FOMC delivers the 25bp hike already about 95% priced, the curve keeps flattening, and the risk-off bid holds yields at 5.2–5.5% through year-end. (d) Yes path: a 50bp hike or a hawkish dot plot, a hot Dec 10 CPI, an oil or Iran shock, and weak demand for long bonds combine to retrace the October peak and add 3bp. The 50bp move is currently priced at only about 5–14%. With realised volatility of about 5–7bp a day, a simple barrier estimate gives roughly 10–25% before any drift. The current downtrend, flattening, and forecasts clustering at 5.0–5.5% argue for the low end of that range. The market sits at 12.5% after dropping 15 points in a week, and I land slightly below it at 11%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7704",
+   "has_trace": true
+  },
+  {
    "id": 7105,
    "scanned_at": "2026-11-13T14:12:03.519068",
    "date": "2026-11-13",
@@ -35218,6 +35358,20 @@
   }
  ],
  "Will the Fed Pause-Hike-Pause in the next three decisions (Oct-Dec-Jan)?": [
+  {
+   "id": 7702,
+   "scanned_at": "2026-11-20T19:44:50.031778",
+   "date": "2026-11-20",
+   "agent": 37,
+   "market_price_t0": 42,
+   "edge": -0.04999999999999999,
+   "confidence": 0.54,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.37, 0.37). (0) Not resolved: the Oct 28 statement and openmarket.htm confirm October was a pause at 3.75-4.00%; December and January are still pending. (a) About 10 weeks remain, and the Jan 27 decision lands on the close date. (b) Status quo is a December hike (~96-97% priced, either size counts); January is the open leg, with CME implying a ~68-75% hike, Polymarket's January market ~56% hike, and this market at 42%, consistent with sibling combo prices (PHH 55%, PPH 3%, PPP 0.75%). (c) NO: 25bp in December and again in January, the JPM/DB/BofA consensus; Goldman has moved toward it, and the minutes say nearly all participants see further hikes. (d) YES: a December 50bp hike or a 25bp hike with no commitment, since Warsh avoids forward guidance, followed by an 'observational pause' like October's, aided by falling oil, equity/credit stress, or softer CPI. CME-implied hold odds (~25-32%) sit below Polymarket's, and bank forecasts have been moving toward a January hike, so I shade modestly below the 42% anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7702",
+   "has_trace": true
+  },
   {
    "id": 7110,
    "scanned_at": "2026-11-13T15:48:54.188571",
@@ -38535,6 +38689,20 @@
  ],
  "Will Nvidia’s market capitalization be less than $4.00T at the end of 2026?": [
   {
+   "id": 7701,
+   "scanned_at": "2026-11-20T19:13:07.382825",
+   "date": "2026-11-20",
+   "agent": 83,
+   "market_price_t0": 77.1,
+   "edge": 0.058499999999999996,
+   "confidence": 0.64,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.84, 0.82). (0) Not yet resolved. The market resolves on the Dec 31, 2026 regular-session close. As of Nov 20, NVDA trades at about $134 (Yahoo/FMP), a cap of about $3.23T on about 24.1B shares, so the market is currently below $4.00T. The line is about $166 per share. (a) About six weeks, or roughly 28 trading days, remain. (b) The status quo is YES: the stock just needs to stay under about $166, roughly 24% above today's price. (c) NO path: an oversold snap-back, with RSI near 17 and a high-beta, sector-wide selloff that can reverse quickly, plus a quick credible permanent CEO, the buyback and the strong Q3 beat-and-raise, pushes the stock back above $166 by Dec 31. (d) YES path: the Dec 1–3 congressional hearings, the SEC and California probes, the unresolved CEO search, AI/memory capex worries and a VIX near 31 keep the stock in roughly $120–160 through year-end. A lognormal estimate with 55–65% implied vol over 0.11 years puts the required +24% move at about 1–1.2σ, giving roughly 12–16% for NO. I add a little for fat tails and mean reversion after a 43% crash. The Polymarket mid of 77% looks somewhat too high on NO, likely lagging the Nov 20 drop to $134, so I lean to about 84% YES.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7701",
+   "has_trace": true
+  },
+  {
    "id": 7117,
    "scanned_at": "2026-11-13T18:13:50.397133",
    "date": "2026-11-13",
@@ -38550,6 +38718,20 @@
   }
  ],
  "New NVIDIA CEO named by December 31, 2026?": [
+  {
+   "id": 7698,
+   "scanned_at": "2026-11-20T18:38:14.387126",
+   "date": "2026-11-20",
+   "agent": 14,
+   "market_price_t0": 16.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.63,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.14, 0.14). (0) Not resolved. NVIDIA's newsroom (checked through Nov 19) and the Nov 12 8-K name only Colette Kress as Interim CEO, and interim CEOs are excluded. Huang resigned Nov 12, and no permanent successor has been announced. (a) About 41 days remain until Dec 31, 11:59 PM ET, and that span includes Thanksgiving and the December holidays. (b) Status quo is No: Kress stays interim while Heidrick & Struggles, reportedly retained around Nov 17, runs a search. The chair, Jones, said the board 'won't expedite' and gave no timeline. (c) No path: the search runs a normal course of 3 months or more, like Intel's roughly 3-month interim period or the board-survey norm of about 90 days. National-security vetting, the December congressional testimony and pressure to bring Huang back slow things further, so an announcement comes in Q1 2027. (d) Yes path: under heavy political, shareholder and staff pressure, with the stock down about 30%, the board confirms Kress as permanent. Alternatively it closes a quick deal with Rene Haas, a former NVIDIA executive whom the board reportedly approached, and files an 8-K in mid-to-late December. The market sits at 16.5% and has fallen 8 points in a week, consistent with no finalist emerging. Base rates for sub-7-week permanent naming at a company with no succession plan are low, but the crisis pressure is unusual. I shade slightly below the market to about 14%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7698",
+   "has_trace": true
+  },
   {
    "id": 7115,
    "scanned_at": "2026-11-13T17:26:36.359266",
@@ -38567,6 +38749,20 @@
  ],
  "Will Teddy Riner be on the ballot for the 2027 French presidential election?": [
   {
+   "id": 7680,
+   "scanned_at": "2026-11-20T13:47:26.858328",
+   "date": "2026-11-20",
+   "agent": 27,
+   "market_price_t0": 29.4,
+   "edge": -0.024499999999999966,
+   "confidence": 0.485,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.30, 0.24). (0) Not resolved: the Conseil constitutionnel site (20 Nov 2026) shows no 2027 list; Riner declared 9 Nov but must file 500 public sponsorships from 30+ departments by 12 March 2027, with the list due 16-26 March. (a) About 3.5 months remain to the sponsorship deadline and about 5 months to the 18 April first round; collection opens only after the decree due by about 7 Feb. (b) Status quo is No: one standing pledge (Serva), Bellay's pledge reversed 19 Nov, no published pledge total. (c) No: no-label mainland mayors stay wary of public naming (AMF calls anonymity reform very unlikely before 2027), centrist rivals (Philippe, Attal, Villepin, Lagarde, Lisnard) absorb officials, sponsor backlash grows (Saxo, Unicef), and Riner falls short or withdraws behind a better-placed centrist, as Costa suggests. (d) Yes: he holds 3-5% in polls (OpinionWay 4%, Elabe 4.5%), above several past qualifiers who polled about 2%, and his dedicated team (Viau, Véran) converts pluralism-minded mayors; he needs only about 1.2% of the eligible pool. I estimate roughly 60% that he stays in and 50-55% that he qualifies if so, about 30-33% overall, matching the 29.5% market mid; no unpriced information justifies moving away.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7680",
+   "has_trace": true
+  },
+  {
    "id": 7102,
    "scanned_at": "2026-11-13T13:26:45.117732",
    "date": "2026-11-13",
@@ -38582,6 +38778,20 @@
   }
  ],
  "Will the next governing coalition of Sweden include M + KD + L + C?": [
+  {
+   "id": 7676,
+   "scanned_at": "2026-11-20T12:42:13.470244",
+   "date": "2026-11-20",
+   "agent": 24,
+   "market_price_t0": 24.6,
+   "edge": -0.005500000000000005,
+   "confidence": 0.5,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.25, 0.23). (0) Not resolved. The Riksdag site still lists the M+KD+L cabinet as caretaker, and no new PM vote has passed; two of the four permitted votes have already failed (Andersson, then Thand Ringqvist). (a) The rules allow until 31 July 2027, about eight months. In practice the Speaker wants either a government or a snap-election decision before Christmas, with a third PM vote likely in late November or early December. (b) If nothing changes, Centre stays on the S track: it chose Andersson's S+C+MP package on 15 November, and S, V, MP and C leaders are now negotiating round the clock. That route produces a government without M, KD and L, so the market resolves NO. (c) NO scenario: V settles for a support role without ministers, or gets some face-saving arrangement, and an S+C+MP cabinet passes. Other NO routes are a snap election that reshuffles the arithmetic, or C merely abstaining so that an M+KD+L-only cabinet forms. (d) YES scenario: V keeps its demand for ministers and the red-green talks collapse. Norlén then sends Kristersson to a vote, C's right-leaning leadership takes ministerial posts in an Alliance cabinet, and SD abstains as Åkesson promised on 6 November. I anchor on the Polymarket mid of about 24.5%, which already reflects the sharp drop after C's 15 November choice. My rough split is S-track success about 55%, a Kristersson four-party government about 22%, and a snap election about 20%, of which perhaps a fifth ends in M+KD+L+C. That comes out close to the market, so I stay near 25%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7676",
+   "has_trace": true
+  },
   {
    "id": 7099,
    "scanned_at": "2026-11-13T12:37:44.354487",
@@ -39522,6 +39732,54 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.92, 0.90) after one crux research pass. (0) Not resolved: the SBJ 2026 annual report is due 22 Jan 2027, and only November and December remain unpublished. Jan–Oct core CPI averages about 1.73% y/y on the 2025 base. Because 2025=100, the 2026 annual change is the average index minus 100. Aggregator index levels (Jan–Oct sum about 1015.3) imply November and December must average about 104.05, i.e. roughly +3% y/y and about 1.1 points above October's 102.9, to round to 2.0%. (a) About two months remain, with two monthly prints outstanding. (b) Status quo: November and December around 2.2–2.8% give an annual figure of about 1.8%, which resolves Yes. (c) No would need an energy or yen shock pushing both months to about 3%+. That is unlikely given October's miss (2.2% vs 2.3% consensus), core-core easing, the confirmed December electricity/gas subsidy, and forecasters placing the >3% move in early 2027. (d) Yes is the default path, and rounding, rebasing revisions and the non-release clause all favour it. The market mid of 76.5% sits in a thin, wide-spread market. I move above it on the arithmetic, keeping some weight on data-source errors and tail shocks.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/7634",
+   "has_trace": true
+  }
+ ],
+ "Will AI solve the Riemann Hypothesis in 2026?": [
+  {
+   "id": 7692,
+   "scanned_at": "2026-11-20T17:02:15.117545",
+   "date": "2026-11-20",
+   "agent": 68,
+   "market_price_t0": 67,
+   "edge": 0.009999999999999898,
+   "confidence": 0.45999999999999996,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.66, 0.70). (0) Not yet met: on 2026-11-20 Anthropic mathematician Levent Alpöge posted a hedged personal-site note ('I believe I have, working with Claude, discovered a proof') with a Lean 4 archive claiming RH/GRH, but Anthropic's newsroom and X accounts are silent, so no official lab/representative announcement exists yet. (a) About 41 days remain until the 2026-12-31 11:59 PM ET deadline. (b) Status quo: the resolver would need to count an employee's personal-site note as an 'official representative' announcement, which is untested and leans NO. (c) NO: the 175k-file Lean build reveals an axiom, statement or bug issue, or Anthropic's post-IPO caution and restrained house style (August 2026 post) keep it waiting for a readable paper and expert sign-off past Dec 31. (d) YES: community builds compile cleanly against Mathlib's RiemannHypothesis (Glazer already says the statement is GRH and puts the bug chance below 1%). Anthropic, which the note says coordinated with leadership ('Dario', 'a constraint to respect', possibly the IPO quiet period), then issues a blog or executive statement crediting Claude and Alpöge; or the resolver accepts the researcher's claim plus consensus reporting. I estimate roughly 75-85% for clean verification and about 75% for endorsement before the deadline given verification, plus some lenient-resolution path. That lands near the market's 67%. Related markets (Kalshi RH resolved before 2027 at 93%, the Polymarket 'which math problems' market at 70-78%) support the level but use different criteria; I find no unpriced information to justify moving off the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7692",
+   "has_trace": true
+  }
+ ],
+ "Will Inde Navarrette be the #1 searched actor on Google this year?": [
+  {
+   "id": 7690,
+   "scanned_at": "2026-11-20T16:27:39.865315",
+   "date": "2026-11-20",
+   "agent": 52,
+   "market_price_t0": 51.5,
+   "edge": 0.0050000000000000044,
+   "confidence": 0.42500000000000004,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.52, 0.52). (0) Not resolved: the 2026 Year in Search page returns a 404 and the hub still shows 2025, so Navarrette still has to be ranked #1 when Google publishes the 2026 Global Actors list. (a) Google typically publishes around December 8–12, so the answer is about three weeks away, well inside the March 31, 2027 deadline; non-release risk is small. (b) Status quo: Navarrette is the clearest breakout actor of 2026. Obsession grossed about $523M on a budget under $1M, she hosted SNL and drew the season's top ratings, the film hit #1 on Netflix in November, and she has an Oscar campaign. Google's spike-versus-prior-year method rewards that kind of profile, as with Mikey Madison in 2025, and Polymarket prices her at about 51.5%. (c) NO: Jaafar Jackson, also coming from a near-zero base with a $1B-plus debut in Michael, out-spikes her globally. Other routes are an unexplained Pattinson catalyst (Bond rumours), a non-Western actor with a large global spike, or a late news or scandal shock, which decided several past years (Renner, Williams, Depp, Baldwin). (d) YES: her sustained May-to-November search surge outranks Jackson, whose searches may be split across 'Michael Jackson' and the film, and nothing new happens before the data cutoff. Without Google Trends head-to-head data I cannot beat the market's read, so I stay near the 51.5% anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7690",
+   "has_trace": true
+  }
+ ],
+ "Further substantive progress on the Riemann Hypothesis by December 31, 2026?": [
+  {
+   "id": 7689,
+   "scanned_at": "2026-11-20T15:55:36.084582",
+   "date": "2026-11-20",
+   "agent": 80.5,
+   "market_price_t0": 87,
+   "edge": -0.06499999999999995,
+   "confidence": 0.525,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.81, 0.80). (0) The condition is not met yet. The best expert-backed bound is about 67.25–67.35% (arXiv 2609.02882, 2610.08965), below 70%, and the unvetted 79.62% Zenodo claim does not qualify. Everything now rides on Levent Alpöge's Nov 20 Lean-formalized claimed proof of RH/GRH, produced with Claude. That proof would qualify only once it gets credible independent validation from experts.\n(a) About 41 days remain, to Dec 31, 2026, and they include the holidays.\n(b) Status quo is No. Today the claim is unverified, there is no human-readable paper, and no named analytic number theorist has endorsed it.\n(c) No: the 14-part archive fails to build, uses custom axioms or `sorry`, or turns out to encode a mis-stated zeta function or GRH. Alternatively it checks out, but reporting keeps the 'unverified' framing because number theorists like Sarnak decline to accept an unreadable 250k-page argument within six weeks; Sarnak took exactly that stance on quasi-RH.\n(d) Yes: Lean experts on the Zulip (Glazer already reads the final theorem as GRH and puts a Lean-bug explanation under 1%) confirm a clean build on the standard axioms within days. A statement audit follows, and number theorists publicly acknowledge it, so credible reporting treats RH as proved.\nThe market's own text accepts validation from the 'broader mathematical community' and does not require peer review. That makes a verified Lean proof of GRH a strong Yes path. Alpöge's credibility and Anthropic's track record of Lean results that held up also support it.\nI anchor on the 87% mid, but its spread is wide (80/94) and volume is thin. I shade slightly lower for build or fidelity risk and for ambiguity in how the resolver reads 'expert acceptance'.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7689",
    "has_trace": true
   }
  ]

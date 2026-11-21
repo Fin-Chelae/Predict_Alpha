@@ -3179,6 +3179,20 @@
  ],
  "Russia x Ukraine ceasefire agreement by December 31, 2026?": [
   {
+   "id": 7749,
+   "scanned_at": "2026-11-21T07:12:40.805023",
+   "date": "2026-11-21",
+   "agent": 6.8,
+   "market_price_t0": 8.5,
+   "edge": -0.0175,
+   "confidence": 0.71,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) No source shows the condition met. The resolution-source read (Nov 19) and all four research reports agree that no general, dated, mutually agreed ceasefire exists. The Oct 23 Oleshky truce is local, so it is excluded. Trump's October 'energy ceasefire' was never confirmed by Moscow and is single-category anyway. (a) About 40 days remain until 11:59 PM ET on Dec 31, 2026. An agreement reached by then counts even if it takes effect later, so a deal struck in late December for an Orthodox Christmas (Jan 7) truce would still count. (b) The status quo is NO: Putin refused even limited ceasefires on Nov 13 and Nov 19. Peskov said Russia wants a lasting peace, not a temporary truce, and will keep fighting during talks. Russia escalated with strikes on Kyiv on Nov 20, and no next round is dated. (c) NO scenario: talks drift toward a package deal covering territory and guarantees, a fourth round slips or yields only prisoner swaps or local humanitarian pauses, and Russia rejects a holiday truce as it did in Dec 2025. (d) YES scenario: a Europe-inclusive round in early December, plus heavy Trump or Melania Trump pressure for a 'Christmas ceasefire', produces a short, dated, mutually announced general truce. The May 2026 three-day truce is a precedent that such a deal can happen and count under the humanitarian-pause clause. Alternatively, a Kushner framework with a 'ceasefire first' step gets signed. I anchor on Polymarket's 8.5%, which has been trending down. I shade slightly lower given Putin's explicit refusals and the retaliation cycle, but keep mass on a short holiday or New Year truce and on ambiguous Trump-announced deals.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7749",
+   "has_trace": true
+  },
+  {
    "id": 7156,
    "scanned_at": "2026-11-14T04:51:32.286395",
    "date": "2026-11-14",
@@ -11269,6 +11283,20 @@
  ],
  "Will Hyperliquid reach $100 by December 31, 2026?": [
   {
+   "id": 7734,
+   "scanned_at": "2026-11-21T03:14:59.670872",
+   "date": "2026-11-21",
+   "agent": 5.3,
+   "market_price_t0": 8,
+   "edge": -0.027499999999999997,
+   "confidence": 0.7,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.06). (0) Resolution check: the condition is not yet met. CoinGlass, using Binance HYPEUSDT data, shows an all-time high of $97.978 on 2026-09-23. Coinbase, OKX and CryptoRank agree on roughly $97.8–98.04, so no source shows a $100 print. To resolve Yes, a Binance 1-minute high would have to reach $100 or more by Dec 31. (a) About 40 days remain. (b) Status quo: HYPE is around $59 on the rendered Binance futures page, down about 10% in 24h. It is in a downtrend with Fear & Greed at 11 and BTC near $58K, so if nothing changes this resolves No. (c) No scenario: the Fed hikes as expected on Dec 8–9, the risk-off continues, HYPE tests $50 support (the $50-dip market is at 50%), and contributor unlocks keep adding supply. (d) Yes scenario: a surprise CFTC approval of the ICE/Trade[XYZ] venue or the PURR FCM filing coincides with a sharp crypto relief rally. A short squeeze then wicks Binance through the $98 ceiling, though this needs about +69%. With 75% annualized volatility, a 40-day sigma is about 0.25, and ln(100/59) is about 0.53, roughly 2.1 sigma. That gives a driftless touch probability near 3–4%; fat tails and the wick-only requirement push it to about 5%. The market's 8% mid (7/9) likely reflects longshot bias and was set partly before the latest drop to $59, so I shade a little below it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7734",
+   "has_trace": true
+  },
+  {
    "id": 7145,
    "scanned_at": "2026-11-14T02:30:52.041085",
    "date": "2026-11-14",
@@ -13402,6 +13430,20 @@
   }
  ],
  "Will Ethereum hit $1,000 or $3,000 first?": [
+  {
+   "id": 7713,
+   "scanned_at": "2026-11-20T22:42:54.273579",
+   "date": "2026-11-20",
+   "agent": 52.5,
+   "market_price_t0": 51,
+   "edge": 0.015000000000000013,
+   "confidence": 0.73,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.53, 0.52). (0) Binance klines show ETH/USDT ranged $1,505.68-$2,807.34 since February and last printed $3,000+ in January, before the 2026-03-11 market open, so it is unresolved. (a) About 41 days remain to Dec 31, 2026. (b) The status quo is neither level hit, which pays 50-50, so fair value sits near 0.50 plus a tail skew. At ~$1,622, $1,000 is 38% below and $3,000 is 85% above; assuming 70-80% vol, a $1,000 touch is roughly 7-9% (wicks and leverage add to it) and a $3,000 touch about 1-2%. (c) NO: $1,500-1,650 support holds after the long flush and the priced-in Dec 9 hike, giving a 50-50 payout; a squeeze to $3,000 is negligible. (d) YES: a hawkish FOMC and AI-equity risk-off break the June low, and ETF outflows plus stressed treasuries drive a cascade to a $1,000 Binance 1m wick. Expected value Yes is about 0.08 + 0.5 x 0.905 = 0.53, consistent with the 51% mid (48/54) and tilted slightly up for the latest drop.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7713",
+   "has_trace": true
+  },
   {
    "id": 6767,
    "scanned_at": "2026-11-09T11:09:29.753580",
@@ -19841,6 +19883,20 @@
  ],
  "Will Hibachi launch a token by December 31, 2026?": [
   {
+   "id": 7725,
+   "scanned_at": "2026-11-21T01:40:00.352693",
+   "date": "2026-11-21",
+   "agent": 13,
+   "market_price_t0": 16.5,
+   "edge": -0.035,
+   "confidence": 0.61,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.13). (0) Not resolved. Hibachi's X feed, the resolution source, shows no token, TGE date, tokenomics or claim as of its Nov 19 post, and aggregators such as Dropstab confirm no contract or listing. (a) About 40 days remain until 11:59 PM ET on Dec 31, 2026. A token would have to be announced, distributed and freely tradable in that window. (b) If nothing changes, this resolves No. The Polymarket mid is 16.5% (bid 12, ask 21, last trade 12%), down 41.5 points over 30 days from roughly 59% in early October, so the crowd has already priced in the team's silence. (c) NO: Hibachi keeps up its institutional-FX messaging, avoids launching into a sharp drawdown (BTC around $58.8k, ETH around $1.6k), and slips the TGE into 2027. That fits its record of slipping deadlines: the Sep 30 contract failed, the Nov 1 estimate passed, and the 'short' season ran 25+ weeks. (d) YES: points closed and capped on Nov 8–9, the stated roadmap was FX perps, then Arc, then TGE, Arc is live, and a $HEAT pre-market exists. A surprise TGE announcement in early December, followed by a listing before year-end, is plausible. The absence of any $HEAT mention since points ended, together with the FX pivot, makes this unlikely within the window. I sit slightly below the mid, near the last trade, because no new positive signal has appeared and each passing week cuts the remaining time.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7725",
+   "has_trace": true
+  },
+  {
    "id": 6814,
    "scanned_at": "2026-11-10T01:41:56.600311",
    "date": "2026-11-10",
@@ -22004,7 +22060,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-20T22:14:30.511Z",
+  "last_sync": "2026-11-21T10:59:44.543Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -23989,6 +24045,20 @@
  ],
  "US x Cuba military clash in 2026?": [
   {
+   "id": 7737,
+   "scanned_at": "2026-11-21T04:01:44.324760",
+   "date": "2026-11-21",
+   "agent": 6.8,
+   "market_price_t0": 9.5,
+   "edge": -0.027499999999999997,
+   "confidence": 0.64,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Resolution check: no source reports a qualifying US-Cuban military exchange of force in 2026. The only armed clash, on Feb 25, was the Cuban Border Guard against a civilian Florida-registered speedboat, a day before the market opened, and it does not count. (a) About 40 days remain until the Dec 31, 2026 deadline. (b) If nothing changes, the market resolves No. US pressure is economic sanctions plus Coast Guard seizures of third-country tankers in international waters, with no Cuban military contact; Coast Guard-Border Guard channels stay cooperative; Rubio's push runs through CIA and diplomatic channels. (c) NO scenario: rhetoric continues (Trump's 'certainly consider' and 'done before I leave' remarks, which point to a January 2029 horizon), Iran and Ukraine stay ahead in the queue, and the Army Reserve 90-120 day support window matures after Dec 31. (d) YES scenario: Trump orders a sudden, Venezuela-style short strike on Cuban military targets using Guantánamo and Puerto Rico assets, or a Coast Guard boarding near Cuba draws Border Guard fire. The market anchor is 9.5%, and the sibling 'US strike on Cuba by Dec 31' market sits at about 8.5% with much deeper volume. This contract needs military-versus-military force, which is roughly a subset of strike scenarios plus a small chance of an at-sea incident. Reporting also shows the naval force near Cuba has shrunk and no surge has been confirmed. I shade slightly below the market to about 6.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7737",
+   "has_trace": true
+  },
+  {
    "id": 7050,
    "scanned_at": "2026-11-12T23:19:59.167214",
    "date": "2026-11-12",
@@ -25573,6 +25643,20 @@
  ],
  "Another Fed rate hike in 2026?": [
   {
+   "id": 7757,
+   "scanned_at": "2026-11-21T09:32:30.437991",
+   "date": "2026-11-21",
+   "agent": 92,
+   "market_price_t0": 90.4,
+   "edge": 0.016000000000000014,
+   "confidence": 0.72,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.92, 0.92). (0) Not yet resolved. The Fed's page and FRED's DFEDTARU still show 3.75–4.00% (upper bound 4.00) as of Nov 20. The Sept 16 hike is excluded by the rules, and the Oct 28 meeting held. What remains is a hike at the Dec 8–9 FOMC, or an emergency hike before it.\n(a) About 18 days remain until the December decision on Dec 9, the only scheduled meeting left in the window.\n(b) If nothing changes from today, the market resolves No. But nothing changing is not the expected path. Futures (CME ~96–100% for at least 25bp), sell-side forecasts (nine major banks plus BofA) and the October minutes all point to a hike. The minutes say \"nearly all\" participants judged further hikes likely appropriate.\n(c) No scenario: the AI-led equity selloff deepens (Nvidia -35%, S&P at six-month lows), and the Nov 25 PCE or Dec 4 jobs data come in soft. Warsh, who skipped in October and reportedly has \"no appetite\" for hikes into falling equities (Citi snippet), engineers a hawkish hold. That would require officials to talk expectations down before the blackout, which has not happened so far.\n(d) Yes scenario: the hawks (Waller, Cook, Logan, Musalem, Paulson) carry a 25bp or 50bp hike to 4.00–4.25% on Dec 9. Core PCE drifting to 3.2% and a 2-year yield near 4.75% support that. The only live debate is size, and either size resolves Yes.\nThe Polymarket anchor is 90.4%, down 5.8 points this week, which likely reflects the equity stress. The October precedent cuts against overconfidence, but that hold was explicitly talked down beforehand, with futures at 7% just before the decision; no such signal has appeared now. CME is near-certain and Fed communication is unanimous on direction, so I lean slightly above the market at 0.92.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7757",
+   "has_trace": true
+  },
+  {
    "id": 6621,
    "scanned_at": "2026-11-07T15:23:32.425246",
    "date": "2026-11-07",
@@ -25852,6 +25936,20 @@
   }
  ],
  "Will 1 Fed rate hike happen in 2026?": [
+  {
+   "id": 7760,
+   "scanned_at": "2026-11-21T10:21:18.495125",
+   "date": "2026-11-21",
+   "agent": 7,
+   "market_price_t0": 9,
+   "edge": -0.01999999999999999,
+   "confidence": 0.72,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Not yet resolved. The Fed's openmarket.htm and FRED's DFEDTARU/DFEDTARL series show exactly one 2026 hike, the 25 bp move on Sept 16–17 to 3.75–4.00%, and the Oct 28 hold is confirmed. The count is therefore 1, and \"1 hike\" resolves Yes only if the Fed holds on Dec 9 and makes no emergency hike before Dec 31. (a) About 40 days remain. The only scheduled decision is Dec 8–9, after the Dec 4 jobs report. (b) If nothing changes, the Fed hikes 25 bp in December. CME FedWatch prices that at roughly 96–99%, Kalshi at about 90–91%, and Polymarket's own 2-hike strike at 89.5%. The October minutes say \"almost all participants\" saw further hikes as appropriate, and every major bank (Goldman, Deutsche, Citi, Wells) forecasts a December hike. (c) NO: hot October CPI and solid payrolls hold up, and the Fed delivers 25 bp (or 50 bp), making the total 2 or more. (d) YES: a weak Dec 4 jobs print combined with a deepening equity, crypto or AI-linked sell-off leads Warsh, who has no forward guidance and skipped a roughly 80%-priced hike in October, to hold again on financial-conditions grounds. The anchor is Polymarket at 9%, up about 5 points this week on the market sell-off. Futures-implied hold odds are only 1–4%, but the October surprise and Citi's \"little appetite to hike into an equity sell-off\" comment justify a fatter tail than futures show. I shade slightly below the market, to 7%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7760",
+   "has_trace": true
+  },
   {
    "id": 6531,
    "scanned_at": "2026-11-06T12:36:46.811937",
@@ -26426,6 +26524,20 @@
   }
  ],
  "Will Russia capture Dobropillia by December 31, 2026?": [
+  {
+   "id": 7722,
+   "scanned_at": "2026-11-21T00:55:01.966656",
+   "date": "2026-11-21",
+   "agent": 7,
+   "market_price_t0": 9,
+   "edge": -0.01999999999999999,
+   "confidence": 0.63,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Not resolved. I could not read the ISW layers directly, but ISW texts through Nov 18–19 show only infiltration in and around Dobropillia, marginal advances on the southern outskirts and no confirmed gains on the latest cycles. ISW also explicitly rejected Russia's Oct 16 capture claim. (a) About 40 days remain until 11:59 PM ET on Dec 31, 2026. (b) Status quo is NO. The target coordinates (48.4759N, 37.0826E) appear to sit slightly north of the city centre, roughly 0.7 km from the Google Maps centroid. Any foothold on the southern or southwestern edge therefore probably does not cover it, and Russian forces would need to push through much of the town. (c) NO path: Russia keeps infiltrating under fog, Ukraine clears the infiltrators, and ISW keeps the area under the non-qualifying infiltration layer through year-end. This matches the static pattern of Nov 14–19 ('did not advance', no advances by either side). (d) YES path: fog-covered mechanized and infiltration assaults consolidate inside the town, and ISW geolocates footage that upgrades shading to 'Assessed Russian Advances' over the intersection, persisting one cycle. Alternatively, a sudden Ukrainian withdrawal could produce the same result. The settlement route is effectively closed, with the ceasefire-by-Dec-31 market at about 8.5% and no handover of actual control plausible in time. Reference classes (Pokrovsk, Siversk) suggest 1–3 months from confirmed entry to ISW-assessed control, and ISW has not confirmed entry here. I anchor on the 9% market, which has a falling trend, and the 29.5% Mar-31 market. I shade slightly lower because the intersection likely lies beyond the current southern foothold.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7722",
+   "has_trace": true
+  },
   {
    "id": 7054,
    "scanned_at": "2026-11-13T00:50:12.548086",
@@ -27710,6 +27822,20 @@
   }
  ],
  "Iran blockade lifted before Iran-Oman Hormuz agreement?": [
+  {
+   "id": 7716,
+   "scanned_at": "2026-11-20T23:23:37.629036",
+   "date": "2026-11-20",
+   "agent": 8.8,
+   "market_price_t0": 10,
+   "edge": -0.012500000000000011,
+   "confidence": 0.665,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) Not resolved yet. The CENTCOM page shows the blockade still being enforced as of Nov 7, and Nov 11–20 reports say it is ongoing and was tightened on Nov 18 to cover ship-to-ship transfers. The White House list through Nov 20 shows no lifting announcement. On the other side, Iran–Oman talks are advanced but no final agreement has been formally announced; Gulf News and UAE Vartha say Nov 17–18 produced no final deal. (a) About 41 days remain until Dec 31, including the holidays. (b) If nothing changes, neither event happens and the market resolves No. (c) No: Trump keeps his stated stance of \"not rushing\" and deciding after the start of the year, or Iran and Oman formalize their nearly finished corridor deal first. (d) Yes: the Qatar/Pakistan package (blockade lifted, inspectors admitted, Hormuz reopened) is accepted, and Trump or CENTCOM issues a June-18-style declaration ending enforcement before any Iran–Oman announcement. I anchor on the 10% market price. The sibling market for a US end-of-blockade announcement by Dec 31 is at 13.5%. That has to be discounted for the chance that an Iran–Oman deal is announced first; its own market is about 12% by Dec 31, and the two events are partly linked. Trump's explicit statements pointing to 2027 and the recent escalations justify a slight shade below the market. The unconfirmed Substack rumor of a Nov 20 lifting is not reflected in the official sources, so I place no weight on it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7716",
+   "has_trace": true
+  },
   {
    "id": 7122,
    "scanned_at": "2026-11-13T19:53:46.750355",
@@ -33369,6 +33495,20 @@
  ],
  "Will the Doge-1 Lunar Mission launch by December 31, 2026?": [
   {
+   "id": 7730,
+   "scanned_at": "2026-11-21T02:27:23.592001",
+   "date": "2026-11-21",
+   "agent": 2.5,
+   "market_price_t0": 7.1,
+   "edge": -0.04649999999999999,
+   "confidence": 0.875,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.03, 0.03). (0) Not resolved yet. DOGE-1 has not launched as of Nov 21, 2026, and the Sept 14 and Nov 7 dates both passed without a launch. Its only documented ride is the IM-3 Falcon 9. Intuitive Machines' Q3 call (Nov 12) puts IM-3 in March–April 2027, with end-to-end testing still to come in Q1, and NASA says all three CLPS missions expected this year have slipped to 2027. (a) About 40 days remain until the Dec 31, 2026 deadline. (b) Status quo is No: IM-3 does not appear on any December 2026 SpaceX manifest (SpaceNexus, SpaceXNow), and no alternative lunar ride exists. (c) NO path: IM-3 holds its 2027 schedule, DOGE-1 stays manifested on it, and nothing flies in 2026. (d) YES path: GEC uses its 'open manifest' rebooking to get DOGE-1 onto some other Falcon 9 before year end, or IM-3 is pulled forward by about 3 months. Neither has any supporting evidence, and a 12U lunar cubesat needs a TLI-capable ride. The market mid of 7% sits on a wide spread (bid 2.5%, ask 12%, last trade 3%). The dated primary sources showing the IM-3 slip justify pricing below the mid, close to the last trade. I keep a small residual for an unknown rideshare or a resolution quirk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7730",
+   "has_trace": true
+  },
+  {
    "id": 5901,
    "scanned_at": "2026-10-29T16:20:43.026244",
    "date": "2026-10-29",
@@ -33520,6 +33660,20 @@
   }
  ],
  "Will the Fed Hike–Pause–Pause in the next three decisions (Sep–Oct–Dec)?": [
+  {
+   "id": 7752,
+   "scanned_at": "2026-11-21T07:57:27.011137",
+   "date": "2026-11-21",
+   "agent": 6.8,
+   "market_price_t0": 7.9,
+   "edge": -0.011499999999999996,
+   "confidence": 0.75,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Two of the three legs are already met. The Fed's open market page and the Oct 28 statement confirm a 25bp hike in September (upper bound to 4.00%) and a hold in October, and FRED DFEDTARU still shows 4.00 on Nov 20. The market now resolves YES only if the FOMC holds again on Dec 9. (a) The decision is about 18 days away, and the blackout starts Nov 28. The remaining data before it are the Nov 25 PCE/Beige Book and the Dec 4 jobs report. (b) The status quo path is a hike. CME FedWatch puts a 25bp hike at roughly 92–100%. October minutes show almost all participants favoring further increases, Waller is floating 50bp, and no bank or FOMC voter was found calling for a hold. A hike makes the sequence Hike–Pause–Hike, which resolves 'Other'/No. (c) NO: November payrolls are solid, the equity selloff stabilizes, and the Fed hikes 25bp (or 50bp) on Dec 9. (d) YES: the Nasdaq/S&P rout (VIX near 36, 10-year yields falling) deepens into a financial-conditions shock or a weak jobs print. Warsh and the centrists then repeat October's 'wait' approach, with Cook and Hammack dissenting. On the anchors, this contract trades at 7.9%, and the sibling Polymarket December 'no change' market sits at about 8.35%. FedWatch readings run from about 0% to 8% for a hold. I shade slightly below the market because most futures readings and every sell-side forecast point to a hike, while keeping a real tail for the market-stress channel.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7752",
+   "has_trace": true
+  },
   {
    "id": 5815,
    "scanned_at": "2026-10-28T13:45:55.550004",
@@ -35657,6 +35811,20 @@
  ],
  "Will Ukraine re-enter Uspenivka by December 31?": [
   {
+   "id": 7743,
+   "scanned_at": "2026-11-21T05:37:58.074834",
+   "date": "2026-11-21",
+   "agent": 43,
+   "market_price_t0": 49.5,
+   "edge": -0.065,
+   "confidence": 0.33,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.42, 0.44). (0) Not resolved as far as I can tell. The resolution-source read reached the ISW web map dated Nov 20, 2026 but could not test whether the 'Claimed Ukrainian Counteroffensives' polygons overlap the Uspenivka boundary. No source places Ukrainian shading inside the village. (a) About 40 days remain until 11:59 PM ET on Dec 31, 2026. Any qualifying shading must also persist through one more ISW update cycle. (b) Status quo is No. ISW on Oct 28 had Ukrainian forces 'near' Uspenivka, consolidating on the east bank of the Yanchur, separated from the village outskirts only by the river. ISW's Nov 11, 17, 18 and 20 entries show no advances in the Hulyaipole direction, and the village is not mentioned. (c) No path: winter fog favours Russian infiltration, which is already active on the west bank northwest of the village. Russian assaults near Uspenivka have reportedly tripled. Mashovets cautions against a premature river crossing, so the line stays on the Yanchur through December. (d) Yes path: Ukraine secures the Solodke heights and pushes a small foothold across the Yanchur. ISW then shades even a sliver of the polygon under the claimed layer, which its generous February 2026 precedent makes plausible. A borderline polygon edge could also suffice. Anchor: the Polymarket mid is 49.5% with a very wide 32/67 spread, and the last trade was 58%. The price jumped about 35 points in seven days, which suggests traders watching the live map or Telegram claims saw something my research did not surface. I respect that move but shade below the mid, because the documented ISW text shows no November follow-up and the base rate for flipping this village over the last nine months is poor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7743",
+   "has_trace": true
+  },
+  {
    "id": 5942,
    "scanned_at": "2026-10-30T03:12:36.909309",
    "date": "2026-10-30",
@@ -36957,6 +37125,20 @@
  ],
  "Will Russia enter Druzkhivka by December 31, 2026?": [
   {
+   "id": 7746,
+   "scanned_at": "2026-11-21T06:24:54.592123",
+   "date": "2026-11-21",
+   "agent": 12,
+   "market_price_t0": 15,
+   "edge": -0.03,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.12). (0) The condition is not met. ISW's November 19–20 assessments, read via the Critical Threats mirror, list Druzhkivka only as a Russian objective and report no advance or infiltration inside the city. I could not render the live ArcGIS map, so the actual shading is unchecked. (a) About 40 days remain until 11:59 PM ET on December 31, 2026, and they fall in winter. (b) If nothing changes, the market resolves No: no qualifying ISW layer overlaps Druzhkivka's boundary today. (c) NO: Russia stays stuck in Kostiantynivka. Its attacks there have not advanced in recent ISW reports, it has been net-negative on ISW's map in September and October, and the Kostiantynivka ceasefire idea stalls. ISW keeps rejecting milblogger and Pushilin claims, as it did with the AI-doctored Druzhkivka clip. (d) YES: a small Russian group penetrates from the southwest, via Novohryhorivka (infiltrated on November 18) or Osykove. Geolocated footage then leads ISW to draw an infiltration polygon touching the city boundary, which persists through the next update. A thin infiltration polygon is a low bar, and CIT claims groups have been infiltrating Druzhkivka since August. The market sits at 15%, down 17 points in 30 days. Given that ISW has confirmed nothing, Russia's momentum is negative, and the deadline is short, I shade slightly below the market. I keep meaningful weight on the low infiltration bar and on the unseen map possibly showing nearby shading.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7746",
+   "has_trace": true
+  },
+  {
    "id": 7088,
    "scanned_at": "2026-11-13T09:26:08.394379",
    "date": "2026-11-13",
@@ -37138,6 +37320,20 @@
   }
  ],
  "Exponential Time Hypothesis disproof confirmed by December 31, 2026?": [
+  {
+   "id": 7720,
+   "scanned_at": "2026-11-21T00:07:34.201442",
+   "date": "2026-11-21",
+   "agent": 51.5,
+   "market_price_t0": 54.5,
+   "edge": -0.030000000000000027,
+   "confidence": 0.435,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.48, 0.55). (0) No source shows the condition met. The review group's blog has no verdict (newest post Nov 12, comments to Nov 16). UCSD's Nov 19 item still frames the group as \"facilitating\" the review. Impagliazzo has said \"not 100% certain\", and there is no peer-reviewed acceptance. The Lean compiles and Toledo's formal audit do not qualify on their own. (a) About 40 days remain until 11:59 PM ET on Dec 31, 2026. Peer-review route (i) is effectively closed: STOC notifications come by Feb 1, 2027. That leaves route (ii), an unqualified public confirmation by a non-OpenAI researcher. (b) If nothing changes, this resolves No; the group's charter and pace favour careful, slow certification. (c) NO: the group keeps hedging, any virtual conference happens late or yields only \"looks right\" language, and borderline items (O'Donnell's course, Kintali's simplified proof, the arXiv aside that OpenAI \"refuted ETH\") are judged not to be explicit confirmations. (d) YES: Williams, Paturi, Impagliazzo, O'Donnell, Kintali or another outside theorist posts a flat \"checked, correct, ETH is false\". The underlying math looks very likely sound: two independent lab proofs, outside re-derivations, a course taught on it, and the weaker Lean bound already suffices. That makes a sign-off before year-end plausible, possibly via the reported end-of-year virtual conference. The market sits at 54.5% after a 17.5-point weekly drop, and the June 2027 market trades at 84%, which implies a timing discount. Given the group's silence and the strict wording, I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7720",
+   "has_trace": true
+  },
   {
    "id": 6575,
    "scanned_at": "2026-11-07T02:26:16.564811",
@@ -39780,6 +39976,38 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.81, 0.80). (0) The condition is not met yet. The best expert-backed bound is about 67.25–67.35% (arXiv 2609.02882, 2610.08965), below 70%, and the unvetted 79.62% Zenodo claim does not qualify. Everything now rides on Levent Alpöge's Nov 20 Lean-formalized claimed proof of RH/GRH, produced with Claude. That proof would qualify only once it gets credible independent validation from experts.\n(a) About 41 days remain, to Dec 31, 2026, and they include the holidays.\n(b) Status quo is No. Today the claim is unverified, there is no human-readable paper, and no named analytic number theorist has endorsed it.\n(c) No: the 14-part archive fails to build, uses custom axioms or `sorry`, or turns out to encode a mis-stated zeta function or GRH. Alternatively it checks out, but reporting keeps the 'unverified' framing because number theorists like Sarnak decline to accept an unreadable 250k-page argument within six weeks; Sarnak took exactly that stance on quasi-RH.\n(d) Yes: Lean experts on the Zulip (Glazer already reads the final theorem as GRH and puts a Lean-bug explanation under 1%) confirm a clean build on the standard axioms within days. A statement audit follows, and number theorists publicly acknowledge it, so credible reporting treats RH as proved.\nThe market's own text accepts validation from the 'broader mathematical community' and does not require peer review. That makes a verified Lean proof of GRH a strong Yes path. Alpöge's credibility and Anthropic's track record of Lean results that held up also support it.\nI anchor on the 87% mid, but its spread is wide (80/94) and volume is thin. I shade slightly lower for build or fidelity risk and for ambiguity in how the resolver reads 'expert acceptance'.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/7689",
+   "has_trace": true
+  }
+ ],
+ "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?": [
+  {
+   "id": 7754,
+   "scanned_at": "2026-11-21T08:46:46.327719",
+   "date": "2026-11-21",
+   "agent": 84,
+   "market_price_t0": 84.9,
+   "edge": -0.009000000000000008,
+   "confidence": 0.61,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.82, 0.86). (0) Not clearly resolved: Alpöge's 2026-11-20 personal note claims an RH/GRH proof 'working with Claude', the Lean code reportedly compiles with standard axioms, but Anthropic has issued no official statement and the sibling Polymarket market is still trading. Whether an employee's hedged personal post counts as a qualifying lab announcement is the open question. (a) About 13 months remain until 2027-12-31. (b) Status quo: if the Lean proof holds, Anthropic has strong incentives (post-IPO spotlight, competition with OpenAI's Navier–Stokes claim, its own branded zeta research) to formally claim it within the window. Every other qualifying problem has only partial claims (Yang–Mills without the mass gap, a narrow Hodge result), so RH is very likely first. (c) NO: verification finds a statement mismatch or hidden assumption, or Anthropic stays cautious and never officially claims; meanwhile another lab announces Hodge or the mass gap first, or nothing qualifies by the deadline. (d) YES: the Lean statement check confirms GRH implies RH and Anthropic officially credits Claude and its researchers, or the resolver accepts Alpöge's post plus credible reporting. I anchor on the 84.9% market and shade slightly down for strict-resolver and official-adoption risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7754",
+   "has_trace": true
+  }
+ ],
+ "Will South African inflation be greater than 5.0% in 2026?": [
+  {
+   "id": 7741,
+   "scanned_at": "2026-11-21T04:47:09.021039",
+   "date": "2026-11-21",
+   "agent": 31,
+   "market_price_t0": 27.4,
+   "edge": 0.035999999999999976,
+   "confidence": 0.525,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.32, 0.30). (0) Not resolved: the latest Stats SA print is October 2026 at 5.2%; the market resolves on December 2026, due 20 Jan 2027. (a) About two months remain; November CPI comes out around 15 Dec and the December fuel price takes effect 2 Dec. (b) If the index held at October's 108.9 against December 2025's 103.6, December would print 5.1% (Yes); an index of 108.8 gives 5.0% (No), so December must hold at or above October. (c) No: a petrol cut of about 9% (roughly R2.9-3.1/l) on a fuel share of about 5% takes about 0.3pp off the month, and soft non-fuel inflation (3.8% ex-fuel, food 1.2%) only partly offsets it, so December prints 5.0% or lower. The Reserve Bank's Q4 average of 5.1%, with October at 5.2% and November at about 5.3-5.4%, implies December near 4.7-5.0%, and forecasters have been overestimating lately. (d) Yes: November prints about 5.4%, the final petrol cut is smaller (weak rand, levy relief partly withdrawn, diesel flat or up), and non-fuel prices hold the index at 108.9 or more, matching PSG's 5.1% December call exactly one tick above the line. The market's 27% already reflects the oil collapse; my arithmetic puts the outcome at 5.0-5.1%, so I go slightly above the market at 32%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7741",
    "has_trace": true
   }
  ]

@@ -5121,6 +5121,20 @@
  ],
  "Will Ethereum dip to $1,500 by December 31, 2026?": [
   {
+   "id": 7772,
+   "scanned_at": "2026-11-21T14:16:59.150322",
+   "date": "2026-11-21",
+   "agent": 55.5,
+   "market_price_t0": 54.9,
+   "edge": 0.005499999999999949,
+   "confidence": 0.53,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.54, 0.57). (0) Not met yet: the Binance mirror shows the lowest weekly ETH/USDT low since Nov 24, 2025 is $1,505.68 (Jun 2026), and this week's low is $1,538, so no 1m low has reached $1,500. YES needs a single Binance 1m wick at or below $1,500 by 23:59 ET Dec 31, 2026. (a) About 40 days remain. (b) Status quo: spot is about $1,690, roughly 11% above the strike after bouncing off Saturday's $1,538 wick; if that holds, the market resolves NO. Polymarket's mid is 55%, down from a 68.5% daily close as ETH recovered. My own rough barrier calculation (about 57% implied vol, 40 days, 11% distance) gives roughly 50-55% touch probability, consistent with the market. (c) NO: the June ~$1,505 floor holds a third time; leverage and funding are reset, RSI near 20 signals capitulation, and an already-priced Dec 9 hike sparks a relief rally toward $1,800-2,000. (d) YES: the risk-off slide continues with persistent ETF outflows, BTC below $56k and a hawkish Dec 9 FOMC; Binance-concentrated liquidations and put-hedging flows near the $1,500 strike produce one wick through. Momentum and fat tails slightly offset support-hold mean reversion, so I stay near the market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7772",
+   "has_trace": true
+  },
+  {
    "id": 7185,
    "scanned_at": "2026-11-14T13:24:28.366862",
    "date": "2026-11-14",
@@ -8387,6 +8401,20 @@
  ],
  "Will Oliver Tree be the #1 searched passing on Google in the US this year?": [
   {
+   "id": 7778,
+   "scanned_at": "2026-11-21T15:54:08.874756",
+   "date": "2026-11-21",
+   "agent": 11,
+   "market_price_t0": 11.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.575,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.11). (0) Not resolved. On Nov 21, 2026 the 2026 Year in Search pages return 404, and the hub shows only the 2025 edition. Google typically publishes in early-to-mid December, well before the Mar 31, 2027 deadline. (a) About 2–3 weeks remain until the likely release, and about 4 months until the rules' deadline. (b) Status quo is NO. Dolly Parton's Aug 25 death drew record, cross-demographic search interest, including a Google tribute Easter egg, and the market prices her at roughly 70–75%. Hayden Panettiere is also priced ahead of Tree. (c) NO scenario: Google ranks Parton (or Panettiere) #1, matching the pattern that the dominant mainstream death of the year wins, as Kirk did in 2025. (d) YES scenario: Google's relative-growth ranking favours Tree's low pre-death baseline over Parton's perennially high one. His June spike was mass-scale (#1 on YouTube US music videos, renewed interest through the Halloween costume data), so his year-over-year ratio could top the list. There is no direct Trends comparison showing Tree out-spiked Parton, so I anchor on the Polymarket price of 11.5% and shade it slightly, since nothing new favours Tree.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7778",
+   "has_trace": true
+  },
+  {
    "id": 7166,
    "scanned_at": "2026-11-14T07:54:08.529414",
    "date": "2026-11-14",
@@ -8458,6 +8486,20 @@
   }
  ],
  "Pete Hegseth out as Secretary of Defense by December 31?": [
+  {
+   "id": 7781,
+   "scanned_at": "2026-11-21T16:41:24.920332",
+   "date": "2026-11-21",
+   "agent": 12,
+   "market_price_t0": 13.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.61,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.12). (0) Not resolved. War.gov stories from Nov 18–19 and the WaPo/Defence Blog reports of Nov 20–21 show Hegseth acting as Secretary of War, and no resignation or removal has been announced. (a) About 40 days remain until Dec 31 ET, and an announcement alone would resolve Yes. (b) The status quo is No. Trump has backed him repeatedly (\"A plus\" on Nov 10–11, confidence stated on 60 Minutes), the lame-duck House shelved Massie's impeachment 211–204, and the Pentagon says he is \"100% committed\" to staying through Trump's term. (c) No path: Trump's \"few changes\" stay limited to Wiles and staff, Democrats hold their impeachment and hearings threat until the new Congress is seated on Jan 3, and any Trump decision to pre-empt those hearings slips into January. (d) Yes path: Trump reverses course, as he did on Wiles after saying \"zero chance,\" to get a successor such as DeSantis confirmed by the GOP Senate before January. The trigger could be the promotion-screening scandal, an NDAA or Dec 11 funding deal, or GOP senators such as Wicker or Tillis pushing. That confirmation-timing incentive keeps real tail risk in the window. I anchor on the market's 13.5%, which has fallen from about 44% as the impeachment push failed. I shade slightly lower because no fresh trigger or leak has appeared since Nov 11 and the obvious post-election window has largely passed, but Trump-era Defense turnover and the reversal precedent keep this near the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7781",
+   "has_trace": true
+  },
   {
    "id": 7196,
    "scanned_at": "2026-11-14T16:37:25.950681",
@@ -11065,6 +11107,20 @@
  ],
  "Will Bitcoin dip to $45,000 by December 31, 2026?": [
   {
+   "id": 7775,
+   "scanned_at": "2026-11-21T15:06:57.673556",
+   "date": "2026-11-21",
+   "agent": 13.8,
+   "market_price_t0": 16.6,
+   "edge": -0.027999999999999997,
+   "confidence": 0.61,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.14, 0.14). (0) The condition has not been met. Binance kline data from data-api.binance.vision shows the window low is $55,130, set Nov 21, 2026, about $10k above the $45,000 threshold, and BTC has since rebounded to about $60.2–60.4k. (a) About 40 days remain, until Dec 31, 2026 23:59 ET. (b) If nothing changes, the market resolves No: price sits roughly 25% above $45k. (c) NO scenario: the Nov 21 flush proves to be a leverage-washout capitulation wick. Funding turned negative, open interest fell and price recovered most of the drop within hours. BTC then holds the $54k realized-price and $50k supports through the Dec 8–9 Fed meeting, where a hike is already ~90% priced. (d) YES scenario: an AI/equity crash or a 50bp Fed surprise drives another ETF-outflow and liquidation leg. That breaks $54.5k and the $49k Aug-2024 low, and a 1-minute wick reaches the $45k fair-value gap, a level Galaxy and several technicians had named. My barrier-touch arithmetic from ~$60.3k gives about 8% at 50% vol and about 14% at 60% vol, before allowing for fat tails and the current bear-momentum regime. The Polymarket anchor is 16.5%, and Kalshi showed about 17% for its similar <$45k contract on Nov 20, but that was quoted when BTC was near $58.9k and before the rebound to $60k+. Given the bounce and the vol math, I shade slightly below the market to about 13.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7775",
+   "has_trace": true
+  },
+  {
    "id": 7190,
    "scanned_at": "2026-11-14T15:02:10.908185",
    "date": "2026-11-14",
@@ -12152,6 +12208,20 @@
   }
  ],
  "Will Solana dip to $60 by December 31, 2026?": [
+  {
+   "id": 7767,
+   "scanned_at": "2026-11-21T12:43:08.618511",
+   "date": "2026-11-21",
+   "agent": 59.5,
+   "market_price_t0": 59.6,
+   "edge": -0.0010000000000000009,
+   "confidence": 0.575,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.59, 0.60). (0) Resolution check: the condition has not been met. Binance's own weekly kline API covers the whole window from Nov 24, 2025 through the current week, and its lowest low is 60.13 (week of June 1, 2026), just above $60. This week's low is 64.87, with spot near $69. (a) About 40 days remain, until Dec 31, 2026 23:59 ET. (b) Status quo is No: SOL has to fall another ~13% from $69, or ~7.5% below this week's $64.87 low, and touch $60 on any 1-minute candle. (c) NO scenario: the June $60–61 support holds again. The Dec 9 hike is ~97–99% priced, so it adds little surprise. Oversold RSI (~23) and the recent long flush produce a relief bounce into the $70s. (d) YES scenario: BTC's liquidation cascade toward $55k continues ($2.5B wiped in 24h). Long-heavy Binance futures positioning (~78–80% long) gets flushed, and SOL wicks through the June low on a weekend or around the FOMC. Analysts name $62, $60 and then $55 as the next levels. A barrier-touch model with 70–90% annualized volatility over 0.11 years gives roughly 55–64%, and the persistent downtrend leans to the upper end. That matches the Polymarket mid of 59.6% (bid 55 / ask 65). I found no unpriced information strong enough to move off the anchor, so I stay near it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7767",
+   "has_trace": true
+  },
   {
    "id": 7182,
    "scanned_at": "2026-11-14T12:38:22.988314",
@@ -18637,6 +18707,20 @@
  ],
  "Will Iran withdraw from the NPT before 2027?": [
   {
+   "id": 7769,
+   "scanned_at": "2026-11-21T13:30:49.753423",
+   "date": "2026-11-21",
+   "agent": 5.5,
+   "market_price_t0": 8.5,
+   "edge": -0.029500000000000005,
+   "confidence": 0.71,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.05). (0) Resolution check: no source shows an Article X notice. Reporting through Nov 21 says Iran remains an NPT party. The Foreign Ministry (Baghaei, Nov 10) and Araghchi (Nov 21) say the official position is unchanged, and Qashqavi said on Nov 15 that neither the commission nor parliament has decided.\n(a) About 40 days remain until Dec 31, 2026.\n(b) The status quo is No. Iran has threatened to leave since 2018 and never filed. It stayed in through the 2026 war, the killing of Ali Khamenei, the September IAEA referral to the UNSC and snapback. The triple-urgency bill has sat with the presiding board for months.\n(c) NO scenario: Qatari mediation keeps limping along and Trump defers any strike decision to 2027, as he said on Nov 20. Iran keeps 'one foot near the exit' as leverage, with Russia and China opposing a doctrine change.\n(d) YES scenario: talks collapse and the US or Israel strikes nuclear sites in December. Mojtaba Khamenei approves an SNSC decision, and a short Article X letter citing extraordinary events goes to the UNSC within days.\nThe market sits at 8.45% and has drifted down 4 points over 30 days. The newest information, Trump's signal that strikes may slip past New Year and active Qatari channels, lowers the odds of the most plausible trigger inside the window. The Assembly of Experts statement was a call for review, not a decision. I shade slightly below the market to about 6%, keeping a tail for a sudden escalation.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7769",
+   "has_trace": true
+  },
+  {
    "id": 7022,
    "scanned_at": "2026-11-12T13:16:51.183752",
    "date": "2026-11-12",
@@ -22060,7 +22144,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-21T10:59:44.543Z",
+  "last_sync": "2026-11-21T20:54:27.195Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -27357,6 +27441,20 @@
  ],
  "Will Russia capture all of Bilytske by December 31?": [
   {
+   "id": 7783,
+   "scanned_at": "2026-11-21T17:26:37.429521",
+   "date": "2026-11-21",
+   "agent": 85.5,
+   "market_price_t0": 91,
+   "edge": -0.05500000000000005,
+   "confidence": 0.535,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.84, 0.87). (0) No source shows the condition met: the latest ISW text mentioning Bilytske (Nov 11) only reports an advance into 'central Bilytske', and Ukraine's General Staff still listed repelled attacks there on Nov 20; the ISW map shading itself could not be read. (a) About 40 days remain until 11:59 PM ET Dec 31, 2026. (b) If nothing changes the town stays partly shaded and resolves No, but the trend is steep: DeepState went from ~18% Russian control in mid-September to ~66% and then 90% by Nov 12, with a new Russian foothold west of town and only a small northwestern grey-zone remnant. (c) NO: Ukrainian defenders hold the northwest pocket through winter amid Russian equipment losses and fading fog cover, or ISW's stricter standard leaves part of the municipality as infiltration or unshaded through Dec 31. (d) YES: Russia clears the last ~10%, ISW geolocates footage and extends Advances/Controlled shading over the whole municipality, persisting one update cycle, plausible since this is Russia's one axis with the initiative. The live mid jumped to 91% (bid 90/ask 92) from a 58% close the same day, and the sister non-'all' market is at 89.5%, suggesting fresh information I could not verify; I therefore stay modestly below the market at 84%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7783",
+   "has_trace": true
+  },
+  {
    "id": 7152,
    "scanned_at": "2026-11-14T04:05:55.462092",
    "date": "2026-11-14",
@@ -27586,6 +27684,20 @@
   }
  ],
  "Will Magdalena Andersson be the next Prime Minister of Sweden?": [
+  {
+   "id": 7785,
+   "scanned_at": "2026-11-21T18:16:48.499860",
+   "date": "2026-11-21",
+   "agent": 51.5,
+   "market_price_t0": 52.5,
+   "edge": -0.010000000000000009,
+   "confidence": 0.435,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.50, 0.53). (0) Not resolved: Riksdag pages and Wikipedia show Kristersson only as caretaker PM; Andersson's S-only bid was rejected 248-99 on 15 Oct and Thand Ringqvist's on 3 Nov, leaving two of the Speaker's four proposals. (a) About 7 months remain to 30 June 2027; the Speaker wants clarity by Christmas, with consultations on 24-25 Nov. (b) Status quo is a Left-Centre deadlock (Left insists on cabinet seats, Centre vetoes them), heading either to an extraordinary election in early 2027 or a Centre flip to Kristersson. (c) NO: talks collapse, Andersson loses a third vote, and the Centre abstains to elect Kristersson's M-C-KD-L government, tolerated by SD; Expressen reports a Centre faction considering this. An extraordinary election could also give a right-wing or hung result. (d) YES: under extraordinary-election pressure the Left accepts state secretaries or policy wins, or the Centre concedes a minor ministry, and Andersson's S-C-MP cabinet passes with Left abstention because the 173 Tidö votes fall short of 175. My decomposition: about 38% deal now, about 32% Kristersson, about 28% extraordinary election with Andersson winning about 45% of that, for roughly 50% YES. That is slightly below the 52.5% market, since no Left or Centre concession is documented after 20 Nov.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7785",
+   "has_trace": true
+  },
   {
    "id": 3398,
    "scanned_at": "2026-09-24T19:15:19.398410",
@@ -37079,6 +37191,20 @@
  ],
  "Will the Fed increase interest rates by 25 bps after the March 2027 meeting?": [
   {
+   "id": 7762,
+   "scanned_at": "2026-11-21T11:07:23.689489",
+   "date": "2026-11-21",
+   "agent": 47.5,
+   "market_price_t0": 44,
+   "edge": 0.034999999999999976,
+   "confidence": 0.485,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.48, 0.47). (0) Not resolved: the Fed's open-market page and FRED (DFEDTARU) show the upper bound at 4.00% after the September 2026 hike and the October hold. The March 16–17, 2027 meeting has not happened, so YES still needs exactly a 25 bp hike there. (a) About four months remain, covering the December 8–9 FOMC with its SEP, the Jan 26–27 FOMC, and several CPI and PCE prints. (b) Status quo: the Fed is in an active hiking cycle, a December hike is almost fully priced, and March is the marginal meeting. Per-meeting prices for March are near a coin flip: Kalshi has 46% for a 25 bp hike against 42% for a hold, rateprobability.com has 47.6%, and one FedWatch-derived tracker has a 54.9% hold. The CME 'roughly 100%' figure is cumulative and not relevant on its own. (c) NO: the Fed front-loads with 50 bp in December or hikes in both December and January (Waller's push), or a selloff in equities or AI-related credit leads it to skip March. BofA itself calls March the skippable last hike. A 50 bp March move or a hold also resolves NO. (d) YES: the Dec+Mar path (Goldman, UBS, RSM, NY Fed survey median) or Dec+Jan+Mar (JPM, BofA, DB) holds as inflation stays above 3%, with gradualists like Logan and Hammack keeping steps at 25 bp. Sell-side consensus and the Polymarket Dec–Mar path market (roughly 60% on paths ending in a March hike, if that read is accurate) lean somewhat above the 44% anchor. Per-meeting OIS and Kalshi prices sit near 46–48%. I therefore shade up only slightly, to 0.48.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7762",
+   "has_trace": true
+  },
+  {
    "id": 7161,
    "scanned_at": "2026-11-14T06:21:01.116444",
    "date": "2026-11-14",
@@ -37258,6 +37384,20 @@
   }
  ],
  "Next Israeli government formed by November 30, 2026?": [
+  {
+   "id": 7789,
+   "scanned_at": "2026-11-21T19:55:58.481951",
+   "date": "2026-11-21",
+   "agent": 6,
+   "market_price_t0": 7,
+   "edge": -0.010000000000000002,
+   "confidence": 0.75,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.05). (0) No source shows the condition met. As of Nov 21 no government has been sworn in, no coalition or outside-support agreement is signed, the Knesset has not been notified, and Wikipedia lists the 38th government as prospective. (a) Nine days remain until the Nov 30 11:59 PM ET deadline. Eisenkot's mandate runs to Dec 6, extendable to about Dec 20, so the legal clock does not force action before Nov 30. (b) If nothing changes, Netanyahu stays caretaker, and caretaker governments resolve NO. (c) NO: the Likud 'marathon' talks from Nov 22 and the UTJ talks drag on. Yashar exhausts negotiations as it says it will, then holds any minority-government vote on Dec 1–5 or after an extension, or the vote fails because Liberman objects and the Arab parties abstain. (d) YES: per a paywalled Haaretz/ToI snippet, Eisenkot brings a 48-seat minority government to a confidence vote on Nov 28–29. Ra'am votes in favour while the Joint List and possibly UTJ abstain, the vote carries on a simple majority (as in the 66–52 speaker vote), and ministers are sworn in the same day. The base rate is strongly against: formation has taken at least 50 days for two decades, and Nov 30 is day 34. Yashar's own stated deadline is 'before December 6', and the vote is framed as a fallback only if talks fail. I see no unpriced information that justifies moving away from the 7% market anchor, so I hold near it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7789",
+   "has_trace": true
+  },
   {
    "id": 6477,
    "scanned_at": "2026-11-05T22:13:57.727271",
@@ -38453,6 +38593,20 @@
  ],
  "Will CXMT be removed from Chinese Military Companies list by June 30, 2027?": [
   {
+   "id": 7765,
+   "scanned_at": "2026-11-21T11:58:53.634745",
+   "date": "2026-11-21",
+   "agent": 20.5,
+   "market_price_t0": 24.5,
+   "edge": -0.03999999999999998,
+   "confidence": 0.51,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.20, 0.21). (0) Not resolved: the June 10, 2026 Federal Register list (linked from the June 8 war.gov release) still names CXMT, and the newest 1260H notice (Nov 10, 2026) removes only WuXi AppTec. (a) About 7 months remain until June 30, 2027. (b) If nothing changes, CXMT stays listed and the market resolves No. No CXMT preliminary-injunction motion, hearing or ruling has been reported since the Aug 28 complaint. The next annual list has no date; past gaps of 12-17 months put it near or after June 2027, and the FY2027 NDAA may loosen the annual-update requirement. (c) No: CXMT litigates toward summary judgment, courts defer on national security as in Hesai and DJI, and hawk pressure (Cotton's Nov 12 letter, Moolenaar) keeps DoD from conceding, while any new list comes after June 30 or keeps CXMT. (d) Yes: CXMT wins a fast injunction on the arbitrary-and-capricious claim given its thin MIIT/SASAC affiliation basis, and DoD repeats the WuXi playbook (injunction to delisting in about 3 months, then a joint dismissal). Alternatively, a Trump-Xi trade deal revives the Feb 2026 draft that dropped CXMT, helped by Apple's lobbying and the DRAM shortage. Against the 24.5% market anchor, the WuXi and February precedents are real routes, but the missing injunction motion makes the timeline tight; the market's 30-day slide is consistent with that, so I shade slightly below it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7765",
+   "has_trace": true
+  },
+  {
    "id": 6985,
    "scanned_at": "2026-11-12T03:12:44.125981",
    "date": "2026-11-12",
@@ -39004,6 +39158,20 @@
   }
  ],
  "Will Jensen Huang rejoin NVIDIA by December 31, 2026?": [
+  {
+   "id": 7787,
+   "scanned_at": "2026-11-21T19:05:11.230180",
+   "date": "2026-11-21",
+   "agent": 5.8,
+   "market_price_t0": 7,
+   "edge": -0.01299999999999999,
+   "confidence": 0.715,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) The condition has not been met. The resolution-source read of SEC EDGAR shows no 8-K item 5.02 after the November 12 resignation filing, and no credible outlet reports Huang accepting any NVIDIA role as of November 21. (a) About 40 days remain until 11:59 PM ET on December 31, 2026, and that window includes the holidays and Huang's December 1 closed-door House testimony. (b) The status quo is No. The board unanimously said it 'does not intend to reinstate' Huang, a spokesperson said he will not work with NVIDIA 'in any capacity', Kress gave no sign of a lesser role, and the Wachtell probe, the California AG subpoena, the accounting probe and possible DOJ/SEC exposure all give the board reason to keep its distance. (c) In the No scenario, the board keeps to its position and the Heidrick search runs into 2027, as the study's 146-day median suggests. New affair and FT chip-network revelations keep Huang toxic, and no role is announced. (d) In the Yes scenario, the roughly 40% stock collapse, Trump's lobbying, the employee and investor letters (Altimeter, Atreides) and the threat of a special meeting push the board to announce a narrower formal role such as executive chair, director or adviser, possibly after an early non-damaging investigation finding. The market's 7% anchor (the Nov 30 contract is at 1.85% and the March 2027 contract at 20.5%) already prices this pressure. I shade slightly below the anchor because the late-November news (more affairs, the chip-network story, legal-exposure analysis) has made things harder for Huang and the board's stance has not softened, while still keeping meaningful weight on a pressure-driven reversal given the market-cap loss.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7787",
+   "has_trace": true
+  },
   {
    "id": 7168,
    "scanned_at": "2026-11-14T08:39:04.392051",

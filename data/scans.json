@@ -10487,6 +10487,20 @@
  ],
  "AI bubble burst in 2026?": [
   {
+   "id": 7843,
+   "scanned_at": "2026-11-22T12:26:58.565682",
+   "date": "2026-11-22",
+   "agent": 61,
+   "market_price_t0": 55.9,
+   "edge": 0.05149999999999999,
+   "confidence": 0.525,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.62, 0.60). (0) Not yet resolved. SOXX is met at about -43.5% vs its $218.34 record close, first crossing Nov 20. SMCI is likely met at about -57% vs its 2026 high, first crossing Nov 17, and about -80% vs its 2024 peak. NVDA at $125.53 is -47.5% vs $239.24 and needs a close at or below about $119.6, roughly 4.7% lower. H100 ($3.08 vs $1.00), OpenAI/Anthropic bankruptcy or acquisition, and AVGO (needs ~21% more) are far off. (a) About 27 trading sessions remain to Dec 31, 2026. (b) Status quo: two triggers, resolves No. (c) NO: NVDA rebounds on its earnings beat, $150B buyback, or probe/CEO clarity, and never closes below ~$119.6; or the resolver rejects SMCI's long-standing drawdown as an in-window event. (d) YES: the rout continues (SEC/California probes, likely Dec Fed hike, VIX ~40) and NVDA, after a 14% one-day drop and seven down weeks, closes below ~$119.6. Barrier math with ~80-90% vol gives roughly 70-80% for NVDA touching the line. Discounting ~15% for SMCI not counting, where AVGO or another supplier would rarely substitute, gives ~0.62, modestly above the 0.5585 market mid.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7843",
+   "has_trace": true
+  },
+  {
    "id": 7267,
    "scanned_at": "2026-11-15T12:25:25.816115",
    "date": "2026-11-15",
@@ -22312,7 +22326,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-22T11:23:30.539Z",
+  "last_sync": "2026-11-22T21:03:09.744Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -28368,6 +28382,20 @@
   }
  ],
  "Will AI solve 0 more Millennium Prize Problems in 2026?": [
+  {
+   "id": 7852,
+   "scanned_at": "2026-11-22T16:28:08.955566",
+   "date": "2026-11-22",
+   "agent": 22.5,
+   "market_price_t0": 24.5,
+   "edge": -0.020000000000000018,
+   "confidence": 0.51,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.24, 0.21). (0) Not yet resolved. No source shows an official Anthropic, OpenAI or other eligible-lab statement that any of the five qualifying problems is solved. OpenAI's Navier–Stokes result is excluded by the rules, and its Yang–Mills claim is existence-only; the Gross committee said on 9–10 Nov that the mass gap is still open. The live question is whether Levent Alpöge's 20 Nov personal-site Riemann note, written \"working with Claude\" and certified by Lean FRO/Mathlib, counts as an announcement by an official lab representative, or whether Anthropic ratifies it before Dec 31.\n(a) About 39 days remain until 11:59 PM ET on 31 Dec 2026.\n(b) If nothing changes, the count stays formally 0 and the resolver must decide on Alpöge's post. Nature calls it \"the Anthropic announcement\", and the criteria allow \"its researchers... jointly\" plus a consensus of credible reporting. That makes a No resolution on the existing post plausible even without a corporate statement.\n(c) NO (\"0 more\" fails): Anthropic posts an official blog or X statement once the Lean checks finish, or after any post-IPO quiet period ends in mid-December. Alternatively, the resolver accepts Alpöge's post given the CEO consultation and press framing.\n(d) YES: Anthropic stays silent or hedged because of the IPO, the lack of a human-readable proof, and the rival Masullo claim. The resolver then treats Alpöge's hedged \"I believe\" note as a personal claim, and no other lab claims a full BSD, Hodge, P vs NP or mass-gap solution.\nThe market sits at 24.5%. That is consistent with the same-venue \"AI solve RH in 2026\" market (69.5% Yes) and Kalshi's \"Anthropic announce\" market (~72%). I see no unpriced information that justifies moving far, so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7852",
+   "has_trace": true
+  },
   {
    "id": 7279,
    "scanned_at": "2026-11-15T16:25:31.457832",
@@ -38137,6 +38165,20 @@
  ],
  "Mohammed Ghalibaf out as Speaker of Iran Parliament by December 31, 2026?": [
   {
+   "id": 7861,
+   "scanned_at": "2026-11-22T19:36:19.665588",
+   "date": "2026-11-22",
+   "agent": 6,
+   "market_price_t0": 7.5,
+   "edge": -0.015,
+   "confidence": 0.705,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) Resolution check: the condition is not met. Tasnim (fetched, 18 Nov 2026) and other reports from 15 to 18 Nov still describe Ghalibaf as the sitting Speaker. No source reports a resignation, impeachment or removal, and nothing dated 19 to 22 Nov is found. (a) About 39 days remain until 31 Dec 2026. (b) Status quo is No. He was re-elected on 25 May 2026 with 235 of 271 votes, and the next scheduled presidium vote is late May 2027. Per IPU, Iran's parliament has no no-confidence route to unseat a Speaker, and neither he nor Larijani was ever removed mid-term. (c) NO scenario: the ceasefire holds or any strikes miss him, and hardliner attacks from the Paydari camp and Rezaei rivalry stay aimed at his negotiating role. (d) YES scenario: a renewed Israeli or US campaign, which Netanyahu is pushing and which Israel may launch alone, targets leaders and kills or incapacitates him; he has had at least three near-misses. A less likely path is a sudden forced resignation or promotion. Polymarket's own Dec 31 ceasefire market implies about a 33% chance the ceasefire breaks. Trump's 'not rushing' signal makes a large joint campaign before 2027 less likely. Even if war resumes, the chance it ends his speakership within weeks is perhaps 10-15%. That gives roughly 4-5%, plus about 1% for internal routes. I shade slightly below the 7.5% market mid (bid 6%, ask 9%), since no new removal signal has appeared and part of the market price likely reflects a long-shot premium.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7861",
+   "has_trace": true
+  },
+  {
    "id": 6705,
    "scanned_at": "2026-11-08T19:46:38.064580",
    "date": "2026-11-08",
@@ -38710,6 +38752,20 @@
   }
  ],
  "Will the 2026–27 El Niño be the strongest on record?": [
+  {
+   "id": 7857,
+   "scanned_at": "2026-11-22T17:37:42.448013",
+   "date": "2026-11-22",
+   "agent": 31,
+   "market_price_t0": 61.5,
+   "edge": -0.305,
+   "confidence": 0.45,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.29, 0.33) after one crux research pass. (0) Not resolved: the CPC RONI page shows only ASO 2026 = +2.0 among qualifying seasons, below the 2.40 record, and first prints are final. (a) SON, OND, NDJ and DJF first prints are due ~5 Dec, early Jan, early Feb and early Mar, all before the 1 Apr 2027 close. (b) Status quo: Rosencrans gave monthly RONI Sep 2.1 and Oct 2.16. Multiple trackers put weekly relative Niño-3.4 down from ~2.5 to ~2.2–2.3 by mid-Nov, and that weekly series ran above monthly RONI in October. November RONI is likely ~2.1–2.3, so SON is ~2.1–2.2. OND would need December >~2.9, and NDJ would need Dec–Jan to average ~2.55+; status quo is No. (c) No: the early-Nov dip is the peak (CFSv2 and SNU AI agree) and seasons top out ~2.2–2.35, like 1997. (d) Yes: subsurface heat (>+10°C at depth) drives a December rebound toward 2.7+, matching Skymet's late-Dec peak call and CPC's 'strengthening' language, and NDJ prints ≥2.45. The market at 61.5% and the related ≥2.5 market at 62% track CPC's ~60% outlook from 12 Nov. That outlook implies Nov–Dec averaging ~2.67, which observations contradict, and CPC itself cut from 83% in a month. I discount the market substantially but keep weight on Yes because the weekly figures are secondary-sourced.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7857",
+   "has_trace": true
+  },
   {
    "id": 6949,
    "scanned_at": "2026-11-11T16:27:49.678348",
@@ -39711,6 +39767,20 @@
  ],
  "Will 3 Jensen Huang affairs be reported by December 31?": [
   {
+   "id": 7862,
+   "scanned_at": "2026-11-22T19:47:40.432622",
+   "date": "2026-11-22",
+   "agent": 76.5,
+   "market_price_t0": 76.5,
+   "edge": 0,
+   "confidence": 0.59,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.77, 0.76). (0) Not settled yet. The count is at the base of three (Alice Huang, Powell per NYT, the unnamed Reuters employee), and no qualifying-outlet report of a fourth person exists as of Nov 22, per Wikipedia, the TechCrunch timeline updated Nov 19 and the Daily Beast. '3' wins unless a fourth distinct person is reported. (a) About 39 days remain until Dec 31, 11:59 PM ET. (b) Status quo is YES: 10 days have passed with no new name, and the ambiguity rule counts unclear persons as already counted. (c) NO path: the NYT or Reuters, still sourcing deeply inside Nvidia, runs a sourced story on a distinct new partner, or the Dec 1 House interview, a pre-Christmas Senate hearing, the board probe or litigation leaks a named new person. (d) YES path: coverage stays on spying, SEC accounting and the CEO search, and probes remain private and focused on national security. The market sits at 76.5%, matching the independent sibling 'fourth affair by Dec 31' at 25.5% and the count ladder. Both have trended toward 3 as the lull continues. I see no unpriced information and stay near the market, shading slightly up for the decaying rate of new disclosures.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7862",
+   "has_trace": true
+  },
+  {
    "id": 7289,
    "scanned_at": "2026-11-15T19:44:28.249838",
    "date": "2026-11-15",
@@ -39742,6 +39812,20 @@
   }
  ],
  "Will Russia capture the Royal Café Alex in Kostyantynivka by March 31, 2027?": [
+  {
+   "id": 7858,
+   "scanned_at": "2026-11-22T18:08:29.885561",
+   "date": "2026-11-22",
+   "agent": 45.5,
+   "market_price_t0": 51.5,
+   "edge": -0.06000000000000005,
+   "confidence": 0.435,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.44, 0.47). (0) Nothing shows the condition already met. The ISW map shading at the café's coordinates could not be read. ISW's Nov 13, 16 and 21 texts report no Russian advance in Kostyantynivka and say Russia does not control the city; northern Kostyantynivka shows only an infiltration mission, a layer that does not qualify. (a) About 4.3 months remain until Mar 31, 2027. (b) If nothing changes, the market resolves No: the café sits in the north/northwest, which per DeepState is part of the roughly 20% of the city still under Ukrainian control, and Russia is only infiltrating there. (c) No path: winter attrition continues as it has for 13 months. Russian footholds in the north keep getting struck or reversed, as ISW logged Russian gains on Nov 4 and a Ukrainian advance on Nov 5–6, and no durable shading appears. Kyiv also keeps rejecting the Kremlin's local ceasefire idea. (d) Yes path: weather-aided small-group infiltration turns into geolocated Russian positions near the café, and ISW upgrades them to Assessed Russian Advances for a full update cycle. A less likely route is a deal that actually hands over control. The anchor is the market's 51.5%, and I shade it down for three reasons. The price has fallen 12 points in 30 days, ISW reports stalled Russian momentum (net losses in October), and the sibling Dec 31 café market at 11% implies a weekly hazard that compounds to roughly 35–40% by March. On the other side, the 'all of Kostyantynivka by Mar 31' market at 29% sets a floor, since this building should fall before the whole city does.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7858",
+   "has_trace": true
+  },
   {
    "id": 7284,
    "scanned_at": "2026-11-15T18:05:51.366957",
@@ -39934,6 +40018,20 @@
   }
  ],
  "Houthis enter Aden by December 31, 2026?": [
+  {
+   "id": 7867,
+   "scanned_at": "2026-11-22T20:49:26.656342",
+   "date": "2026-11-22",
+   "agent": 11,
+   "market_price_t0": 13,
+   "edge": -0.020000000000000004,
+   "confidence": 0.585,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.11). (0) Not resolved. Reuters, AFP, Al Jazeera and New Arab reporting from Nov 15–22 places Houthi ground forces 60–110 km from Aden, and nothing credible shows them in any listed district. The missile and drone strikes on Aden count as bombardment and do not qualify. (a) About 39 days remain until 11:59 PM ET on Dec 31, 2026. (b) The status quo is No: the front has been essentially static since the fall of Kharaz on Nov 15, the government says it repelled pushes in Lahj, Abyan and Dhale, and Saudi air power has risen under al-Ruwaili's direct command. (c) No: Houthi forces stall at the Tur al-Baha/Karish and Lahj lines under heavy air attack and casualties. They shift to encirclement through Abyan and economic strangulation as leverage on Riyadh, which is what France 24, New Arab sources and Maritime Executive expect, and the year ends with Aden besieged but not entered. (d) Yes: fragmented STC and government defenders suffer a 2015-style collapse or another sudden withdrawal like the Nov 15 Bab al-Mandeb pull-out. A Houthi column or raiding team then reaches Dar Sad, Sheikh Othman or Al Mansura, or a sleeper-cell operation is credibly attributed to them; even a temporary entry counts. Momentum is real and no ceasefire is in sight, but covering 60+ km and breaching a dug-in urban perimeter in five weeks would require a collapse that has not been reported. The market sits at 13% and has fallen 7 points in a week, consistent with the stalled front. I shade slightly below it to about 11%, given the analyst consensus favouring siege over assault and the need for consensus credible reporting.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7867",
+   "has_trace": true
+  },
   {
    "id": 7291,
    "scanned_at": "2026-11-15T20:42:43.592600",
@@ -40586,6 +40684,22 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.80, 0.82). (0) Not resolved. stat.gov.rs shows no presidential results. Wikipedia says the snap election, triggered by Vučić's 27 Sep resignation, falls on 20 or 27 Dec 2026, and the Student List has not officially named its nominee. (a) The vote is about five weeks away, with any runoff about two weeks later. Both fall well inside the market's 2 May 2027 close, so the 'Other' path is negligible. (b) Status quo: Saičić is the widely reported, unconfirmed favourite to be nominated by a movement that won 53.7% and 140 of 250 seats on 25 Oct with record turnout. Mondo, Serbian Times, Alo and Kurir all name him. Bakić says 'we have a candidate' but won't name them, and SNS says it will boycott. (c) NO: the plenum-driven Student List names Đokić or a surprise third figure, as it did when it left Đokić off the parliamentary list. Or a late SNS entry after its 13 Dec assembly, combined with Saičić's nationalist profile alienating liberal voters, forces a runoff he loses. (d) YES: the list names Saičić once the election is called by 27 Nov, and he files 10,000 signatures by about 7 Dec. He then beats Nestorović, Karić and possibly Dačić (whose SPS took about 2%) in round one or a runoff. I put the chance he is nominated at about 85-88% and his chance of winning if nominated at about 90-93%, which gives roughly 0.78-0.82. The Polymarket mid is 83.5% and has risen sharply (+10.5 points in 7 days), likely reflecting the leaks. I shade slightly below it because the nomination is still unconfirmed.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/7813",
+   "has_trace": true
+  }
+ ],
+ "Will Brazil’s Annual Inflation in 2026 be between 5.00% and 5.49%?": [
+  {
+   "id": 7865,
+   "scanned_at": "2026-11-22T20:27:09.805990",
+   "date": "2026-11-22",
+   "agent": 65.5,
+   "market_price_t0": 66.6,
+   "edge": -0.011499999999999955,
+   "confidence": 0.585,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.64, 0.67). (0) Not resolved: IBGE SIDRA through October shows 4.10% year-to-date and 4.63% over 12 months; the December print is due 12 Jan 2027. (a) About seven weeks remain, with the Nov IPCA-15 (26 Nov), Aneel's December flag (27 Nov), the Nov IPCA (11 Dec) and the Dec IPCA-15 (23 Dec) still to come. (b) Status quo: a YES needs Nov+Dec of about 0.86-1.33%. Focus monthly medians (0.35% and 0.61%) give about 5.10%, and the Central Bank (about 5.2%), 4intelligence (about 5.02%) and Itaú (5.1%) all land in band. A roughly 0.2pp two-month error around 5.10% puts about 30% below 5.00% and only 3-5% above 5.49%. (c) NO: November undershoots like October did (0.14% vs 0.25% expected), the green flag persists and holiday discounts pull December down, ending 4.9x%; less likely, the fuel-tax relief lapses and a red flag plus food push it to 5.50%+. (d) YES: November at 0.30-0.45% and December at 0.6-0.7% on seasonal food and tariffs give 5.05-5.30%. The market anchor is 66.65%; I shade slightly lower because the floor is only about 0.1pp below consensus and the recent surprises were to the downside, partly offset by the upward Focus error in 2025.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7865",
    "has_trace": true
   }
  ]

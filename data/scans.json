@@ -1109,6 +1109,20 @@
  ],
  "Will CATL be removed from Chinese Military Companies list by June 30, 2027?": [
   {
+   "id": 7651,
+   "scanned_at": "2026-11-20T04:57:16.932756",
+   "date": "2026-11-20",
+   "agent": 12,
+   "market_price_t0": 16.5,
+   "edge": -0.04500000000000001,
+   "confidence": 0.585,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.12). (0) Not resolved. The June 8, 2026 list and the June 10 Federal Register notice both include CATL, and reporting from Nov 16–19, 2026 still describes it as listed. The only off-cycle delisting since June is WuXi AppTec, which followed a court injunction.\n(a) About 7 months remain until June 30, 2027.\n(b) If nothing changes, CATL stays listed and the market resolves No. DoD retained CATL in the January 2025 list, the withdrawn February 2026 draft and the final June 2026 list, despite CATL's direct lobbying. The listing rests on status-based SASAC/MIIT affiliation, which is hard to rebut. Congress is hostile, and the indirect procurement ban takes effect June 30, 2027.\n(c) No scenario: CATL keeps 'exploring options' without suing. Trump–Xi diplomacy produces suspensions of trade rules rather than 1260H delistings. The next annual update either slips past June 2027 or retains CATL again.\n(d) Yes scenario: CATL files suit in D.D.C. by early 2027 and wins a WuXi-style preliminary injunction, leading DoD to delist. Alternatively, a Trump–Xi package overrides DoD, as the White House's withdrawal of the February 2026 list for diplomatic reasons shows is possible. A third route is a mid-2027 annual update that drops CATL.\nThe market sits at 16.5% and has drifted down 4.5 points over 30 days. With no lawsuit filed and no reported deal, I shade slightly below the market to about 12%, leaving room for the diplomatic wildcard.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7651",
+   "has_trace": true
+  },
+  {
    "id": 6968,
    "scanned_at": "2026-11-11T23:14:37.147364",
    "date": "2026-11-11",
@@ -1871,6 +1885,20 @@
  ],
  "Will Trump be impeached before his term ends?": [
   {
+   "id": 7731,
+   "scanned_at": "2026-11-21T03:04:23.143829",
+   "date": "2026-11-21",
+   "agent": 72.5,
+   "market_price_t0": 74,
+   "edge": -0.015000000000000013,
+   "confidence": 0.53,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.72, 0.73). (0) Not resolved. Congress.gov and credible reporting show every Trump impeachment resolution this term was tabled. The latest reported vote was Sept 15, 2026 (232-147). Green's planned November vote in the outgoing GOP House would almost certainly be tabled too. (a) About 26 months remain until noon ET on 2029-01-20. Democrats control the House from 2027-01-03 with roughly 257-259 seats, their largest majority since 1990. (b) If nothing changes, the House is a Democratic majority whose leaders (Jeffries saying \"of course not\" a top priority four times, Raskin as gatekeeper) put investigations ahead of impeachment. Inertia alone does not produce a vote. (c) NO: Leadership routes forced privileged resolutions to the Judiciary Committee or tables them. Probes into corruption, 1789 Capital and tariff exemptions run through 2027-28 without articles. With the Senate unwinnable and the 2028 campaign looming, Democrats choose to run against a lame duck. (d) YES: Investigations build a record, or a new trigger occurs (Iran war escalation, defiance of court orders). Then Raskin moves articles, or leadership lets a messaging vote pass. Only a simple majority is needed, and the pro-impeachment bloc already reached 147 under GOP control. This is the 2019 template, with a vote roughly 12 months after taking control. I anchor on Polymarket's 74% mid, which is close to Kalshi's 76.6% for the same question. The research adds caution from leadership and some moderates, but also shows a long window, an unusually large majority, an unpopular president and strong grassroots pressure. I shade only slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7731",
+   "has_trace": true
+  },
+  {
    "id": 6346,
    "scanned_at": "2026-11-04T05:37:24.631928",
    "date": "2026-11-04",
@@ -2300,6 +2328,20 @@
   }
  ],
  "Skin cancer vaccine FDA approved by December 31, 2027?": [
+  {
+   "id": 7717,
+   "scanned_at": "2026-11-21T00:02:57.454476",
+   "date": "2026-11-21",
+   "agent": 58.5,
+   "market_price_t0": 62.5,
+   "edge": -0.040000000000000036,
+   "confidence": 0.5349999999999999,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.56, 0.61). (0) Not resolved. FDA's 2026 BLA approvals list has no intismeran entry, Drugs.com shows 'FDA Approved: No', and as of 11/18–11/20 no BLA had been announced as filed. Moderna is targeting a filing by year-end 2026.\n(a) About 13 months remain until 2027-12-31, and that window must cover filing, the 60-day acceptance period, and the full review.\n(b) The status quo is No; the question is whether one full FDA cycle fits in that window.\n(c) NO path: the filing slips into 2027, or the FDA assigns standard review, which puts the goal date at about end-2027 or early 2028. Another route is that the CMC review of the novel algorithm-driven manufacturing, the pre-approval inspections, or a major amendment adds 3 months. A CRL is also possible if the FDA questions the delayed separation (HR 0.99 in the first 6 months) and immature OS.\n(d) YES path: the BLA is filed in December 2026 and gets priority review (Breakthrough designation, positive Phase 3 with RFS HR 0.58), possibly with RTOR. That gives a goal date around August–October 2027, and approval follows, as companies and analysts guide for 2H 2027.\nThe market anchor is 62.5%. Related markets imply only about 33.5% by September 30 and about 80.5% for a BLA submitted by June 2027, so the market already prices meaningful filing-slip risk. My own chain is about 0.88 filing on time, about 0.8 priority review, about 0.8 first-cycle approval, and about 0.88 on-time action, plus a small chance via standard review. That gives roughly 0.53–0.56, a bit below market, given the CBER friction history and the individualized-product CMC risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7717",
+   "has_trace": true
+  },
   {
    "id": 6230,
    "scanned_at": "2026-11-02T14:45:10.542586",
@@ -2947,6 +2989,20 @@
  ],
  "Will the next Google Gemini Pro model debut with a Humanity’s Last Exam score of 50% or higher?": [
   {
+   "id": 7814,
+   "scanned_at": "2026-11-22T03:11:57.091344",
+   "date": "2026-11-22",
+   "agent": 4.5,
+   "market_price_t0": 6,
+   "edge": -0.015,
+   "confidence": 0.76,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.04). (0) Resolution check: the agi.safe.ai chart shows Gemini 3.1 Pro at 45.9% (about Feb 2026) as the latest Pro-labeled Gemini. The newer Gemini points are non-Pro: Gemini 4 Carbon at about 59% and Neon at about 58.3%. One unlabeled Gemini point at about 52.3% (Nov 2026) is most likely Hydrogen. If it were a Pro model the market would already be pricing near 100%, not 6%. So the condition has not been met. YES still needs Google to ship a Pro-labeled Gemini, CAIS to add it, and that model to show 50% or more. (a) About 39 days remain, to Dec 31, 2026. (b) Status quo is No: Gemini 4 uses element names (Argon, Carbon, Hydrogen, Neon), the API has no gemini-4-pro, and 3.5 Pro is reportedly cancelled. If nothing qualifying is added by the deadline, the market resolves No. (c) NO scenario: Google keeps the element naming through December, so no Pro model appears on the chart. (d) YES scenario: Google launches a surprise 'Gemini 4 Pro' or a revived 3.5 Pro in December, and CAIS adds it promptly. A Gemini 4-class model would very likely score above 50%, since Carbon and Neon sit near 58-59% on the chart. The market anchor is 6% (bid 4 / ask 8), down from a high of 88.5% as the Pro naming disappeared. I see no unpriced information, so I shade slightly below the mid because of the short window and Google's rapid but non-Pro release cadence.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7814",
+   "has_trace": true
+  },
+  {
    "id": 7142,
    "scanned_at": "2026-11-14T01:39:54.054946",
    "date": "2026-11-14",
@@ -3523,6 +3579,20 @@
  ],
  "Lee Jae-myung impeached before 2027?": [
   {
+   "id": 7802,
+   "scanned_at": "2026-11-22T00:10:42.134316",
+   "date": "2026-11-22",
+   "agent": 2.5,
+   "market_price_t0": 5.4,
+   "edge": -0.028999999999999998,
+   "confidence": 0.89,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.03, 0.03). (0) No source shows the condition met. As of Nov 21–22, 2026, news reports (Khan, Sedaily, SBS) say no impeachment motion against Lee has been filed or voted on; the Assembly's bill database could not be checked directly. (a) About 39 days remain until the Dec 31, 2026 deadline. (b) If nothing changes, this resolves No. The DP holds about 161 of 300 seats and the PPP about 110. Passage needs 200 votes, and even filing needs 151 signatures, so the PPP cannot file on its own. (c) NO scenario: the PPP keeps up rallies and the 'impeachment project' rhetoric while the DP spends early December on its own motion to impeach Chief Justice Cho (targeted for about Dec 3). The year ends with no motion against Lee. (d) YES scenario: a sudden explosive scandal or court ruling triggers roughly 39+ defections from the ruling DP or Rebuilding Korea within weeks, which has no precedent. No president has been impeached while his party held a majority. Lee's approval is stable at about 40%, and no DP lawmaker backs impeachment. The market sits at a 5.4% mid on a wide 3/8 spread with thin volume, and the last trade at 3.9% reflects longshot bias rather than real risk. Given the near-deterministic seat arithmetic and the short window, I price Yes at about 1%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7802",
+   "has_trace": true
+  },
+  {
    "id": 1485,
    "url": "https://forecast.agenticlearning.ai/scans/v2/1485",
    "date": "2026-08-18",
@@ -3640,6 +3710,20 @@
   }
  ],
  "Will the highest score achieved by a Moonshot Kimi model on Humanity’s Last Exam in 2026 be 50% or higher?": [
+  {
+   "id": 7810,
+   "scanned_at": "2026-11-22T02:11:48.252046",
+   "date": "2026-11-22",
+   "agent": 9.5,
+   "market_price_t0": 12,
+   "edge": -0.024999999999999994,
+   "confidence": 0.61,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.10). (0) Not met: agi.safe.ai is live (HTTP 200) with a 10-model table stamped April 3, 2025, topped by Gemini 3 Pro at 38.3% and containing no Kimi or Moonshot row. Kimi's 51.1/52.5/70.0 scores are vendor or third-party figures, and the 'published elsewhere' fallback only applies if the source is unavailable, which it is not. (a) About 5.5 weeks remain to Dec 31, 2026. (b) Status quo, with the table unchanged and no Kimi row, resolves No. (c) NO: CAIS keeps the table frozen or refreshes it with HLE-Diamond, where official Kimi scores are about 22-37% (vendor K3.1 Pro 39.4%), and the resolver reads the page literally. (d) YES: CAIS adds a full-HLE Kimi K3.1 Pro row at 50%+, or the resolver leniently accepts vendor or aggregator figures, as some sibling debut markets hint (unverified). Market anchor is 12% (bid 10 / ask 14), down 34 points in 30 days despite K3.1 Pro's October numbers. The sibling 'overall ≥70%' market sits at 28.5% even though vendor scores already exceed 70%, consistent with strict sourcing. I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7810",
+   "has_trace": true
+  },
   {
    "id": 7086,
    "scanned_at": "2026-11-13T08:40:59.522711",
@@ -4862,6 +4946,20 @@
   }
  ],
  "Nigel Farage out as Reform UK leader by December 31, 2026?": [
+  {
+   "id": 7794,
+   "scanned_at": "2026-11-21T22:16:03.730347",
+   "date": "2026-11-21",
+   "agent": 6.3,
+   "market_price_t0": 7.4,
+   "edge": -0.011999999999999997,
+   "confidence": 0.6599999999999999,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.06). (0) Not resolved. Reform's own news page carries pieces bylined \"leader of Reform UK\" through 20 Nov 2026, and Wikipedia still lists Farage as leader. No resignation or removal has been reported.\n(a) About 40 days remain, to 31 Dec 2026. An announcement alone would resolve the market Yes.\n(b) If nothing changes, the market resolves No. Farage told the Sun and Times on 20 Nov that nobody else could do the job and he intends to fight the next election.\n(c) No path: the standards ruling is delayed, or it lands as a seat-level sanction. That sanction then goes through the slow committee and Commons process, Farage rides out the poll slump, and nothing changes before New Year. Reform's constitution makes forced removal near-impossible (Byline Times), so only a voluntary exit can produce Yes.\n(d) Yes path: a harsh standards verdict, a Met Police development in the donations probe, or continued falls to third place push Farage to announce a handover to Jenrick. The Daily Mail succession rumours and the appointment of a Jenrick ally as head of press hint at this, as do the personal-safety and health remarks.\nThe Polymarket anchor is 7.45%, up about 4 points this week, probably on the succession rumours. The March 2027 market sits at 13%, which is consistent. September bookmaker odds of about 40% are stale and sentiment-driven. Given his fresh public commitment and the short window, I sit slightly below the market at about 6.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7794",
+   "has_trace": true
+  },
   {
    "id": 5143,
    "scanned_at": "2026-10-19T22:27:55.808154",
@@ -6610,6 +6708,20 @@
   }
  ],
  "Tyler Robinson convicted of homicide?": [
+  {
+   "id": 7723,
+   "scanned_at": "2026-11-21T01:03:35.243577",
+   "date": "2026-11-21",
+   "agent": 3.8,
+   "market_price_t0": 6.5,
+   "edge": -0.02749999999999999,
+   "confidence": 0.8,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.04). (0) The condition is not met. Robinson pleaded not guilty to all counts on Sept 1, 2026. On Nov 9, 2026 Judge Graf set jury selection for June 21, 2028, with 105 court days reserved, which is about 11 months after the deadline. No outlet reports a conviction, a plea or any talks.\n(a) About 8 months remain until July 31, 2027.\n(b) If nothing changes, there is no judgment before the deadline and the market resolves No. Graf explicitly called even the October 2027 date unworkable, citing conflicts in defense counsel's other trials and expert and venue-survey timelines. The Utah capital comparators run a median of about 40 months from charge to trial.\n(c) NO: the case grinds through discovery fights, ballistics-testing litigation and the venue survey toward the 2028 date, or slips later.\n(d) YES: a Kohberger-style deal is struck in the next few months. Prosecutors would drop the death notice, Robinson would plead guilty with an admission to aggravated murder for life without parole, and judgment would be entered by July 2027. That needs the defense to abandon its 2029 strategy while mitigation and discovery are unfinished. Kohberger's own plea came only on the eve of trial.\nThe market anchor is 6.5%, down 22 points in 30 days after the trial-date ruling. I shade slightly below it because no plea signals exist and the death notice stands. I keep a few points for an unreported negotiation, given how strong the confession and DNA evidence on identity is.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7723",
+   "has_trace": true
+  },
   {
    "id": 5445,
    "scanned_at": "2026-10-23T15:55:52.985977",
@@ -9664,6 +9776,20 @@
   }
  ],
  "Will the U.S. invade a Latin American country in 2026?": [
+  {
+   "id": 7833,
+   "scanned_at": "2026-11-22T08:50:27.600435",
+   "date": "2026-11-22",
+   "agent": 4.8,
+   "market_price_t0": 9.4,
+   "edge": -0.04699999999999999,
+   "confidence": 0.6950000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.04). (0) Resolution check: no source shows the condition met. The Jan 3 Maduro raid came before the market opened on Jan 4. The Ecuador, Venezuela (Apure ELN strike) and Colombia activity is consensual or joint. Mexico captures were Mexican-led, and the Rio Times monitor for Nov 8–14 found no Cuba operation or order. (a) About 39 days remain, until Dec 31, 2026, 11:59 PM ET. (b) Status quo is NO. Cuba pressure consists of sanctions, a blockade, rhetoric and contingency planning. No troop or ship staging toward Cuba has been reported since Trump's Nov 12 'certainly consider' remark. (c) NO scenario: the Iran war keeps absorbing forces and Rubio stays tied up with Ukraine mediation. Trump's own stated sequence (back from Iran, ship show of force, then Rubio 'wraps things up') runs past year-end. Any action stays a strike or blockade that does not meet the 'establish control over land territory' test. (d) YES scenario: Trump orders a Maduro-style or 101st Airborne seizure in Cuba in December, before Army Reserve stabilization units arrive in their 90–120 day window, and credible outlets describe it as an offensive to take territory. Anchor: this market's mid is 9.45%, but the spread is wide (4/15), the last trade was 6%, and the market sat at 6–8% through the autumn. The same-venue 'invade Cuba in 2026' market is at ~4%, Venezuela at ~1%, and Mexico strike at ~2%, which together imply roughly 5–6% across countries. The recent +6.5% bump looks like a reaction to the Cuba rhetoric that hasn't been followed by any reported staging. I price slightly below the mid, at about 5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7833",
+   "has_trace": true
+  },
   {
    "id": 5108,
    "scanned_at": "2026-10-19T10:57:04.798160",
@@ -13603,6 +13729,20 @@
  ],
  "Will Variational launch a token by December 31, 2026?": [
   {
+   "id": 7831,
+   "scanned_at": "2026-11-22T07:52:10.465750",
+   "date": "2026-11-22",
+   "agent": 67,
+   "market_price_t0": 71.4,
+   "edge": -0.04399999999999993,
+   "confidence": 0.53,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.64, 0.70). (0) The condition is not met. Variational's X feed as of Nov 21 shows no $VAR launch, weekly Omni points are still being distributed, and aggregators confirm there is no date, snapshot or claim process yet. (a) About 39 days remain until 11:59 PM ET on Dec 31, 2026. (b) Status quo: if nothing changes, the token is not live and the market resolves No. The project's own guidance, Q4 2026, implies action within the window. (c) NO path: Variational slips again, as it already did from Q3 to Q4, pushing into Q1 2027. Plausible reasons are the risk-off market (BTC around $61.7k, 'extreme fear'), the still-undisclosed strategic partnership, the unpublished buyback, utility and split details, and a Lighter-style seven-week gap after the Nov 18 raise landing around Jan 6. Another No path is a TGE announced for December with trading not starting until January. (d) YES path: mainnet went public Nov 11, the founder reaffirmed 'this year' on Nov 5, and the $110M Series B is closed. Disclosures and a snapshot follow in early December, with a TGE and listing in mid-to-late December, as Lighter did on Dec 30, 2025. I anchor on the Polymarket mid of 71.4%. I shade slightly lower for three reasons: the 'December' timing is only from media, there is still no snapshot or claim notice five weeks out, conditions are bearish, and this team has a record of slipping. A small 'governance token' wording risk adds to the shading.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7831",
+   "has_trace": true
+  },
+  {
    "id": 7251,
    "scanned_at": "2026-11-15T07:48:50.483989",
    "date": "2026-11-15",
@@ -14004,6 +14144,20 @@
   }
  ],
  "Will FISA Section 702 reauthorization become law this year?": [
+  {
+   "id": 7797,
+   "scanned_at": "2026-11-21T22:48:16.092145",
+   "date": "2026-11-21",
+   "agent": 11,
+   "market_price_t0": 12,
+   "edge": -0.009999999999999995,
+   "confidence": 0.5800000000000001,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.10). (0) Resolution check: no source shows a 2026 law reauthorizing Title VII for two years. Section 702 has been lapsed since June 12. The only 2026 laws were short patches that ran to April 30 and June 12. The clause naming P.L. 118-49, a 2024 law, reads as template boilerplate, and the 12% price shows traders are not treating it as an automatic Yes. (a) About 40 days remain, and the lame duck likely ends around Christmas with a Thanksgiving break, so there are roughly 4 working weeks. (b) Status quo is No: the House-passed 3-year bill and the Cotton–Grassley 3-year bill are stalled, and no 2-year vehicle exists. (c) No scenario: the NDAA conference or the Dec 11 funding fight slips or leaves 702 out. Leaders lean on the March 17, 2027 certification runway and Himes's 'first quarter' fallback. Or only a short patch or a 3-year term passes, which does not match 'two years'. Transpartisan reformers (Wyden, Lee, Paul, House Freedom-type Republicans) have little reason to yield before Democrats take control. (d) Yes scenario: Rounds's reported plan succeeds and conferees add a roughly two-year 702 renewal to the NDAA conference report, backed by the administration, Himes, Warner and Kelly. The report then clears both chambers by simple majority in the House and 60 votes in the Senate, and Trump signs before Dec 31, as the 2023 NDAA-rider precedent suggests is possible. A lame-duck rider is genuinely plausible, but it must also be about two years long, and the NDAA itself is contested. Together these keep me close to the market at about 12%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7797",
+   "has_trace": true
+  },
   {
    "id": 7094,
    "scanned_at": "2026-11-13T10:57:50.425680",
@@ -21383,6 +21537,20 @@
  ],
  "NATO x Russia military clash by December 31, 2026?": [
   {
+   "id": 7637,
+   "scanned_at": "2026-11-20T00:56:10.353657",
+   "date": "2026-11-20",
+   "agent": 6.5,
+   "market_price_t0": 10,
+   "edge": -0.035,
+   "confidence": 0.64,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.07). (0) Resolution check: nothing qualifying has happened yet. Every 2026 kinetic incident I found falls outside the rules. The Romanian and Lithuanian shoot-downs were one-way munitions aimed at Ukraine, which are excluded. The Baltic shoot-downs involved drones that were Ukrainian or of unknown origin. The Öresund incident was jamming, the Nov 11 Lithuania shots missed an unattributed drone, and the naval stand-offs involved no fire. Polymarket also kept the series open and added a Nov 30 contract, which is consistent with nothing having qualified.\n\n(a) About 41 days remain, until 11:59 PM ET on Dec 31, 2026.\n\n(b) If nothing changes, the market resolves No. In 4.5 years of war no qualifying NATO–Russia exchange of fire has occurred, and every earlier window in this series resolved No, including 2025 despite the Poland drone shoot-downs.\n\n(c) NO scenario: spillover continues as munition intercepts, sabotage and corvette escorts. The US–Russia talks (Abu Dhabi, Moscow, Shenzhen) keep Moscow below the force threshold through year-end.\n\n(d) YES scenario: a NATO-country jet downs a clearly Russian reconnaissance UAV (Orlan or Gerbera-type surveillance drone) over Romania, Poland or the Baltics. Alternatively, a shadow-fleet boarding in the Baltic escalates to gunfire with a Russian escort. A further minor path is a resolver counting an ambiguous Russian drone shoot-down.\n\nThe market sits at 10% (bid 9%, ask 11%) and has fallen from about 25% in September. The Nov 30 contract trades at only 1.3% with 10 days left, so the December-only window is being priced at roughly 9%. That looks inflated by longshot bias and a premium for resolution ambiguity, given a historical hazard of about 1% per month or less. I fade the market modestly to about 6%, keeping some weight on a liberal reading of a borderline drone incident.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7637",
+   "has_trace": true
+  },
+  {
    "id": 5435,
    "scanned_at": "2026-10-23T12:59:03.282432",
    "date": "2026-10-23",
@@ -22144,7 +22312,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-21T20:54:27.195Z",
+  "last_sync": "2026-11-22T11:23:30.539Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -23667,6 +23835,20 @@
  ],
  "Will the Hodge Conjecture be the next Millennium Prize Problem solved by AI?": [
   {
+   "id": 7806,
+   "scanned_at": "2026-11-22T01:11:03.769713",
+   "date": "2026-11-22",
+   "agent": 6,
+   "market_price_t0": 8.1,
+   "edge": -0.020499999999999997,
+   "confidence": 0.64,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.05). (0) No source shows a full Hodge claim by any eligible lab. OpenAI's 6 Oct 2026 paper covers only the special case of CM abelian varieties, which counts as a partial result and does not qualify. Meanwhile Anthropic mathematician Levent Alpöge's 20 Nov Riemann proof, posted as Lean code and reportedly compiled by independent checkers, is live. The sibling 'Riemann next' market trades at about 86%, so the crowd largely expects it to count as the first qualifying problem. (a) About 13 months remain, to 31 Dec 2027. (b) Status quo: Hodge is not announced. The market resolves to Riemann if Alpöge's post is treated as an official Anthropic announcement or Anthropic adopts it; otherwise it resolves to another problem or 'No solution'. Either way the answer here is No. (c) NO: Anthropic or credible reporting credits Claude/Anthropic with the Riemann proof, which pre-empts Hodge. Alternatively, OpenAI keeps making explicitly partial Hodge claims, as it did on Yang-Mills and CM abelian varieties. (d) YES: the Riemann announcement is ruled not an official lab announcement, or the proof collapses. Then OpenAI, with Hodge reportedly its flagship target and an incentive to answer Anthropic, announces a full Hodge proof before any other qualifying claim. A same-day release would also win, since Hodge beats Riemann alphabetically. Tao and Voisin's view that Hodge needs fundamentally new ideas, plus the Riemann pre-emption, keep this small. I anchor on the 8% market and shade slightly down given the strong Riemann momentum.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7806",
+   "has_trace": true
+  },
+  {
    "id": 2846,
    "scanned_at": "2026-09-12T05:02:50.930139",
    "date": "2026-09-12",
@@ -24562,6 +24744,20 @@
   }
  ],
  "Will Russia capture Orikhiv by December 31, 2026?": [
+  {
+   "id": 7805,
+   "scanned_at": "2026-11-22T00:54:48.265471",
+   "date": "2026-11-22",
+   "agent": 3.8,
+   "market_price_t0": 8.6,
+   "edge": -0.047999999999999994,
+   "confidence": 0.76,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.04). (0) Not resolved. ISW's Nov 13–20 assessments show only infiltration in and around Orikhiv, which the rules exclude, and no Russian advance. Ukrainian South Group statements from Nov 13–19 say the city remains Ukrainian-held. ISW also recorded Ukrainian local gains nearby, at Mala Tokmachka and Novoandriivka. (a) About 39 days remain until Dec 31, and the shading would also have to persist through one more ISW update cycle. (b) Status quo is No: the station is inside the city, and ISW has shaded no part of Orikhiv as Russian-controlled or advanced. (c) No path: Russian small-group infiltration keeps getting attritted and Novodanylivka and the flanks hold. Russian priority stays on the Pokrovsk, Kostiantynivka and Huliaipole axes, and ISW keeps any presence classed as infiltration. (d) Yes path: a flank breakthrough, for example from the Huliaipole side cutting the Orikhiv–Zaporizhzhia road, collapses the defence and leads ISW to shade advances reaching the station by late December. Alternatively, a settlement could hand over actual control, but ISW says US proposals are incompatible with Kremlin positions. The market anchor is a wide-spread mid of 8.5%, with the last close and last trade near 3%. Given a 3-month stalled push and comparable cities taking many months from first infiltration to control, I lean toward the low end, at about 4%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7805",
+   "has_trace": true
+  },
   {
    "id": 7065,
    "scanned_at": "2026-11-13T03:11:28.132290",
@@ -28895,6 +29091,20 @@
  ],
  "Will Indiana enact a data center moratorium by December 31, 2027?": [
   {
+   "id": 7738,
+   "scanned_at": "2026-11-21T04:05:04.532784",
+   "date": "2026-11-21",
+   "agent": 10,
+   "market_price_t0": 19.5,
+   "edge": -0.095,
+   "confidence": 0.61,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.10). (0) Not resolved. The programs.com tracker (about Nov 5, 2026) and Server Country both show Indiana's statewide action as \"None\". The 2026 bills, including HB 1333, died or were not moratoria. Only local moratoriums exist, such as Marion County's and 36–50 counties' restrictions, and those do not qualify. (a) About 13 months remain, but the only realistic vehicle is the 2027 regular session (roughly Jan 25 to Apr 29). A special session would require Braun, who opposes state-imposed pauses. (b) Status quo is No: no statewide moratorium bill has been filed or announced, and no Republican sponsor has been identified. (c) NO path: the 2027 fight is over repealing the sales-tax exemption, which Rep. Culp has flagged and which is explicitly excluded by the rules, plus local-control and tariff measures. Leadership (Garten, Smaltz) is focused on affordability and the budget, Braun backs local decision-making, and no state has ever enacted a statutory statewide moratorium (Maine's was vetoed; New York acted by executive order). (d) YES path: backlash after the 2026 election (Democrats +15–16 House seats, 69% voter opposition, 50+ counties restricting) pushes Republican leaders to fold a mandatory pause of 100 MW or more into a data-center package that Braun signs or that is overridden by simple majorities. Every step of that is currently unevidenced. The market sits at 19.5%, up 7 points in 30 days with heavy volume, and I shade it down to about 10% because the research finds no bill, no sponsor, a hostile governor and committee leadership, and a zero statutory base rate. I keep some weight on post-election momentum and the low simple-majority override bar.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7738",
+   "has_trace": true
+  },
+  {
    "id": 3594,
    "scanned_at": "2026-09-30T09:39:12.337473",
    "date": "2026-09-30",
@@ -29177,6 +29387,20 @@
  ],
  "Will Oklahoma enact a data center moratorium by December 31, 2027?": [
   {
+   "id": 7640,
+   "scanned_at": "2026-11-20T01:55:51.775131",
+   "date": "2026-11-20",
+   "agent": 13,
+   "market_price_t0": 20.5,
+   "edge": -0.07499999999999998,
+   "confidence": 0.585,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.13). (0) Resolution check: the condition is not met. The official oklegislature.gov page shows SB 1488, the only statewide moratorium bill, stalled at referral to committee in February 2026. NCSL and BillTrack50 list it as dead or failed. The data center laws that did pass (HB 2992, SB 259) set conditions on data centers rather than pausing them. (a) About 13 months remain until Dec 31, 2027. In practice the window is the Feb–May 2027 regular session, plus an unlikely special session. (b) Status quo is No: no bill is prefiled or confirmed, and the 'SB 1888' tracker entry is unverified. (c) No scenario: Sacchieri refiles a pause bill and it dies again in committee, or leadership passes only guardrails (siting, ratepayer and water rules, incentive limits), none of which qualify. Governor-elect Mazzei, Speaker Hilbert and Ag chair Murdock all favor guardrails. (d) Yes scenario: strong local pressure (OKC, Edmond, Tulsa, tribal bans) and Stitt's departure let a short 100MW+ pause bill gain GOP rank-and-file support. It then passes both chambers and Mazzei signs it, or a two-thirds override succeeds. The legislature has shown it is willing to override vetoes. Anchor and adjustment: Polymarket trades at 20.5%. I shade down because no state has ever enacted a statutory moratorium, Oklahoma's own bill never got a hearing, and the 2026 election produced a GOP sweep with a pro-guardrails governor-elect. Those points look underweighted in that price.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7640",
+   "has_trace": true
+  },
+  {
    "id": 3619,
    "scanned_at": "2026-10-01T02:27:25.924485",
    "date": "2026-10-01",
@@ -29238,6 +29462,20 @@
   }
  ],
  "Will Missouri enact a data center moratorium by December 31, 2027?": [
+  {
+   "id": 7727,
+   "scanned_at": "2026-11-21T02:03:51.776310",
+   "date": "2026-11-21",
+   "agent": 8.5,
+   "market_price_t0": 16,
+   "edge": -0.07500000000000001,
+   "confidence": 0.62,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.09). (0) Not met. The official House bill list and reporting through 2026-11-20 show no statewide moratorium enacted. The 2026 session passed no data center bill, and the only pause bill (HB 3369) covered St. Louis alone. (a) About 13 months remain. In practice only the 2027 regular session (January to May 30, with a July signing window and a September veto session) can deliver enactment. An initiative cannot reach a ballot before November 2028, and Governor Kehoe has refused a special session. (b) If nothing changes, the answer is No. Kehoe promotes data centers and expects only regulatory \"guardrails\" in 2027. Outgoing Speaker Patterson has said a statewide moratorium is not what he would favor and calls the issue local. Across 20-32 moratorium bills in 11-17 states in 2025-26, none became law, and Maine's passed bill was vetoed. (c) No path: the 2027 session yields a guardrails, siting or transparency bill, or nothing at all. Such bills permit construction subject to conditions, which does not meet the criteria. (d) Yes path: post-midterm backlash leads to a short statewide pause on projects over 100 MW being attached to a guardrails bill. Drivers would be Hawley's national moratorium call, the 16 GOP lawmakers who sought a special session, a 68% local-opposition poll and the activist coalition. Kehoe would then have to sign it, or two-thirds of each chamber would have to override his veto. The market sits at 16%, and the June 2027 market is at 12%. I go below the market because the research shows leadership and the governor opposed, no prefiled bill, a zero-for-many base rate, and strict qualifying criteria.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7727",
+   "has_trace": true
+  },
   {
    "id": 3643,
    "scanned_at": "2026-10-01T19:12:40.095191",
@@ -29328,6 +29566,20 @@
   }
  ],
  "Will Louisiana enact a data center moratorium by December 31, 2027?": [
+  {
+   "id": 7819,
+   "scanned_at": "2026-11-22T04:12:11.621857",
+   "date": "2026-11-22",
+   "agent": 7,
+   "market_price_t0": 13.5,
+   "edge": -0.065,
+   "confidence": 0.67,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Nothing has resolved. ThirstyGrid (Nov 21) and SentiSense (Nov 20) both say Louisiana has no statewide moratorium enacted or pending. The only state-level action is EO 26-058, which deals with incentive conditions and is excluded as an executive order. (a) About 13 months remain until Dec 31, 2027. The only scheduled legislative window is the regular session of Apr 12 to Jun 10, 2027, with no carryover of bills, a Class I prefile deadline of Apr 2 and an introduction deadline of Apr 21. (b) If nothing changes, the answer is No. No bill or sponsor exists, and Gov. Landry says \"we don't need a moratorium\" and \"we need to build more\" (Nov 17) while actively recruiting Texas data center firms. (c) NO scenario: no bill is filed, or only conditions-style bills are, like the failed HB 1206 water-permit bill, which would not meet the \"prohibited by default\" test. The session ends Jun 10 and Landry never calls a special session on the topic. (d) YES scenario: water and ratepayer backlash over Meta's Hyperion builds before the Oct 2027 elections. A legislator files a Virginia-style pause bill for facilities of 100 MW or more, and it passes both chambers. Landry then signs it under political pressure or the Legislature overrides him, which needs two-thirds of each chamber. This Legislature has repeatedly declined to override Landry even on small items. The base rate is zero qualifying statutory moratoria among roughly 11 states that had bills, and Maine's veto was sustained. The market sits at 13.5%, down from an October peak of about 22%, and offers no specific information beyond generic national backlash. I shade below it to about 7%, while keeping some weight on the long horizon and the rapidly shifting national politics of data centers.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7819",
+   "has_trace": true
+  },
   {
    "id": 3633,
    "scanned_at": "2026-10-01T11:57:26.249599",
@@ -30800,6 +31052,34 @@
   }
  ],
  "Will the peak RONI for the 2026–27 El Niño be at least 2.25 but below 2.5?": [
+  {
+   "id": 7799,
+   "scanned_at": "2026-11-21T23:22:52.565249",
+   "date": "2026-11-21",
+   "agent": 29,
+   "market_price_t0": 24.5,
+   "edge": 0.04500000000000004,
+   "confidence": 0.45,
+   "category": "Climate and Weather",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.27, 0.31). (0) Not resolved: the CPC RONI table shows ASO 2026 = +2.0 as the only qualifying season so far; SON, OND, NDJ and DJF are pending. (a) They publish in early Dec, Jan, Feb and Mar, all before the 2027-04-01 close. (b) Status quo is a peak of 2.0 (No), but CPC expects further strengthening. CPC's Nov outlook medians are OND 2.50 and NDJ 2.53, with ~60% odds of >=2.5, so the max over seasons gives ~62-68% for >=2.5 and ~6-10% below 2.25, leaving ~25-30% for this bin. Sibling Polymarket bins (65.5% for >=2.5, 5.9% for 2.0-2.25) match, and this market's mid is 24.5%. (c) No: the very warm traditional weekly anomalies carry OND/NDJ to >=2.5, or recent cooling (Skymet 2.5->2.2, BoM relative 2.88->2.64) stalls RONI near 2.1-2.2. (d) Yes: a Nov-Dec peak with SON ~2.3 and OND/NDJ 2.3-2.45, consistent with past RONI peaks of 2.25-2.40 and CPC's downward drift (83%->60% for >=2.5). Cooling shifts mass both into and below the bin, so I stay near the market, slightly up.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7799",
+   "has_trace": true
+  },
+  {
+   "id": 7644,
+   "scanned_at": "2026-11-20T02:57:21.956211",
+   "date": "2026-11-20",
+   "agent": 43,
+   "market_price_t0": 38.5,
+   "edge": 0.044999999999999984,
+   "confidence": 0.485,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.44, 0.42). (0) Not resolved: the CPC RONI file runs only through ASO 2026 at 1.97, so the highest qualifying value so far is below the band; SON, OND, NDJ and DJF are unpublished. (a) SON is due about 5 Dec, OND about 5 Jan, NDJ about 5 Feb and DJF about 5 Mar, all before the 1 Apr 2027 close. (b) If the index stalled at 1.97 this resolves No, but a three-month average including November's very warm values makes 2.2+ likely. (c) No: subsurface heat and westerly winds push NDJ to 2.5+, which CPC puts at about 60% and the sibling market at 56%; a thin tail below 2.25 also resolves No. (d) Yes: the event follows 1997 and 2015 (peaks 2.28 and 2.25); weekly Nino-3.4 has eased from +3.4 to +3.2, and PSL's unofficial October monthly RONI of about 2.16 implies a three-month peak of roughly 2.25-2.45 unless Dec/Jan exceed 2.5. I sit slightly above the 38.5% market because no event since 1950 has reached 2.5, CPC has been revising its >=2.5 odds down, and the relayed CPC November median for NDJ (about 2.53) sits at the bin edge. CPC still favours >=2.5 and has more information, and its medians reach me only via a secondary source, so I move only modestly.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7644",
+   "has_trace": true
+  },
   {
    "id": 6905,
    "scanned_at": "2026-11-11T04:01:50.105643",
@@ -35055,6 +35335,20 @@
  ],
  "Will the lowest Baton Rouge river level be 6.00 ft or more by November 30?": [
   {
+   "id": 7646,
+   "scanned_at": "2026-11-20T03:57:25.744493",
+   "date": "2026-11-20",
+   "agent": 88.5,
+   "market_price_t0": 84.7,
+   "edge": 0.038000000000000034,
+   "confidence": 0.6950000000000001,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.87, 0.90). (0) USGS daily means through 11-18 show a window minimum of 6.38 ft (11-09), so Yes is currently met but not locked; any daily mean below 6.00 through 11-30 flips it to No. (a) About 11 days remain (11-20 to 11-30). (b) Status quo: the river is rising, 8.12 ft (USGS, 11-18) and 8.36 ft (NOAA, 11-19). The LMRFC forecast holds it at 8.5-8.9 ft through 11-24. The 28-day product (48h rain only) falls to about 6.9 ft on 11-30 and crosses 6.0 only around 12-05, after the deadline. The USGS gauge reads about 0.17 ft above NWS, and early-November NWS forecasts ran 0.3-0.6 ft low, both favoring Yes. (c) No: sharply falling upstream stages (Memphis to -5.9, Vicksburg to 7.1, Red River Landing down about 2 ft), drought and reduced Missouri River releases make the recession run about 1 ft ahead of forecast. That means falling from about 8.9 to below 6.0 in about 6 days (about 0.5 ft/day), faster than this autumn's 0.27 ft/day; the forecast already assumes about 0.33 ft/day. (d) Yes: the plateau lasts to about 11-24, the recession follows or lags the forecast, possibly slowed by Thanksgiving-week rain, and the river ends November around 6.5-7.5 ft. A 10-day forecast error of about 1 ft is plausible, so the No tail is real at roughly 10-15%. Market anchor is 0.847; I lean slightly higher given the forecast path and the gauge offset.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7646",
+   "has_trace": true
+  },
+  {
    "id": 6941,
    "scanned_at": "2026-11-11T14:04:42.756553",
    "date": "2026-11-11",
@@ -35322,6 +35616,20 @@
   }
  ],
  "Will Trump meet with Flávio Bolsonaro in 2026?": [
+  {
+   "id": 7816,
+   "scanned_at": "2026-11-22T03:16:01.531004",
+   "date": "2026-11-22",
+   "agent": 11.5,
+   "market_price_t0": 14.5,
+   "edge": -0.03,
+   "confidence": 0.6,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.12). (0) Not resolved. The Observador fact-check (around Nov 15-16) and a Reuters line (Nov 13) say Trump and Flávio have not met since Oct 27, and nothing I found shows a meeting between Nov 16 and Nov 22. The only known meeting is May 26, which falls outside the window. (a) About 5.5 weeks remain, to Dec 31, 11:59 PM ET. (b) The status quo is No: on Oct 31 Trump said he had \"no plans\" to meet Flávio, and nothing is scheduled. (c) NO scenario: Trump keeps his distance through the Thanksgiving and Christmas Mar-a-Lago stays. He has trade talks with Lula, Rubio is pursuing a reset with Brazil, and the Banco Master, Rockbridge/Vance and passport-evasion stories make a photo with Flávio costly. Trump already skipped the Nov 5 CPAC gala at Mar-a-Lago and did not meet Flávio during two earlier Florida stays. (d) YES scenario: during the Nov 24-29 stay or the late-December season, Flávio, who lives in Florida and has channels through Eduardo and Jason Miller, is brought to a Mar-a-Lago event or dinner. A brief handshake or greeting is photographed and publicised, and the loose criteria count that. The market sits at 14.5%, up 6 points in a week, perhaps on the Thanksgiving-stay reports or Jair's hospitalization. Proximity and Trump's sympathy are real, but the evidence that he is deliberately avoiding Flávio is consistent, so I shade slightly below the market to about 11%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7816",
+   "has_trace": true
+  },
   {
    "id": 7229,
    "scanned_at": "2026-11-15T02:21:15.081216",
@@ -36193,6 +36501,20 @@
  ],
  "Will the Bank of Canada make no change to the target for the overnight rate at the December interest rate announcement?": [
   {
+   "id": 7818,
+   "scanned_at": "2026-11-22T04:01:58.357702",
+   "date": "2026-11-22",
+   "agent": 59,
+   "market_price_t0": 59.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.475,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.59, 0.59). (0) Not resolved. The Bank of Canada's rate page shows the target at 2.50% after the Oct 28 hike, and the Dec 9 announcement is still listed as upcoming. (a) About 17 days remain. Q3 GDP (end of November), Macklem's Nov 24 speech and the Dec 4 jobs report are the remaining inputs before the 9:45 ET decision on Dec 9. (b) Status quo is a hold at 2.50%: absent a hawkish push, the soft run of data since October favours waiting until the Jan 27 MPR. That data includes October CPI at 3.1%, below the Bank's 3.4% projection, core trim and median near 2%, a third straight month of labour weakness with unemployment at 6.7%, and the Q3 flash at 1.3% against the Bank's 2.0%. (c) NO: Macklem sounds hawkish on Nov 24, as Scotiabank expects, Q3 GDP is revised up and November jobs rebound, and the Bank hikes again to 2.75% as RBC, Oxford and Scotia forecast. That would fit National Bank's point that cycles often start with back-to-back hikes. (d) YES: soft GDP and jobs plus lower oil let the Bank treat October as an insurance hike and wait for the January MPR, as CIBC, BMO, TD, Capital Economics and possibly KPMG expect. Market pricing conflicts: OIS readings range from about 54–64% hold (Nov 16–21) to a nesto snippet showing 64% hike. The Polymarket anchor of 59.5% sits mid-range, and I have no unpriced information to move off it materially.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7818",
+   "has_trace": true
+  },
+  {
    "id": 7226,
    "scanned_at": "2026-11-15T01:35:55.192989",
    "date": "2026-11-15",
@@ -36236,6 +36558,20 @@
   }
  ],
  "Will Russia capture all of Chasiv Yar by December 31?": [
+  {
+   "id": 7793,
+   "scanned_at": "2026-11-21T21:44:12.689384",
+   "date": "2026-11-21",
+   "agent": 25,
+   "market_price_t0": 30.5,
+   "edge": -0.05499999999999999,
+   "confidence": 0.45999999999999996,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.24, 0.26). (0) No source shows the condition met. The ISW map itself could not be read. ISW's Nov 20 report still has a Ukrainian brigade operating in the 'Chasiv Yar tactical area' and clearing infiltrators, and ISW has called the Russian hold 'most, not all' for about 15 months. Nothing indicates a settlement handing over actual control. (a) About 40 days remain until Dec 31, 11:59 PM ET. Because shading must persist through the next ISW update, the effective window closes a day or so earlier. (b) Status quo is No: the municipality is not fully shaded, Russian gains across the theater have dwindled (ISW says Russia lost net ground in October), and winter weather is setting in. (c) NO path: Ukrainian holdouts in the western or northwestern parts persist, and Russian small-group pushes stay classed as infiltration, which does not qualify. Earlier 'fallen' calls (the July 2025 MoD claim, AMK in July 2026, Kovalenko's Sept/Oct forecast) have all slipped. (d) YES path: the Nov 7 Mashovets 'withdrew from Chasiv Yar' report reflects a real pullout from a garrison DeepState describes as surrounded and under-manned. ISW would then upgrade the last pockets to assessed control in December. The market anchor is 30.5%, after a 20-point drop this week and a past high of 82.5%. Those swings suggest map-watchers saw it as near-complete, but the recent repricing points the other way. I shade slightly below the market because of the Nov 20 evidence of continued Ukrainian presence, the low tempo, and the strict whole-municipality and persistence rules.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7793",
+   "has_trace": true
+  },
   {
    "id": 7174,
    "scanned_at": "2026-11-14T10:15:07.293166",
@@ -39269,6 +39605,20 @@
  ],
  "Will Inde Navarrette rank in Google’s Top 5 Most Searched Actors of 2026?": [
   {
+   "id": 7836,
+   "scanned_at": "2026-11-22T09:49:15.281768",
+   "date": "2026-11-22",
+   "agent": 84.5,
+   "market_price_t0": 85,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.61,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.85, 0.84). (0) Not yet resolved. The resolution source, trends.withgoogle.com/year-in-search/2026/, returns 404, so Google has not published the 2026 Global Actors list. Google usually releases it in early to mid-December, well before the March 31, 2027 backstop.\n(a) About 5–6 weeks remain to trading close, and the list is likely out within about 3 weeks.\n(b) Status quo: Navarrette has had a clear breakout year, and Google's list ranks search spikes, which rewards breakouts. *Obsession* grossed over $500M on a tiny budget. She was cast as Rogue in X-Men, hosted SNL, is in awards contention, and the film reached Netflix on Nov 17. Her profile matches past top-5 names like Mikey Madison and Ella Purnell.\n(c) NO scenario: the list is global, so a US-centric hit could be diluted. Indian or Korean actors with national-scale spikes have taken top-5 slots before (Pawan Kalyan, Hina Khan, Song Ji Woo). Add Jaafar Jackson (*Michael*, about $977M) and a Pattinson spike tied to Bond casting news, and five others could push her to #6–10, as happened to strong 2025 names like Charlie Hunnam.\n(d) YES scenario: her sustained multi-peak search interest ranks her in the top 5 globally. This is consistent with the sibling #1 market pricing her at 47%, about 2x the next contender.\nI anchor on Polymarket's 85% (bid 84 / ask 86). Her 47% for #1 is coherent with roughly mid-80s for top 5, and the research surfaces nothing the market hasn't priced. The recent -4% drift reflects rival bumps, not new negative information.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7836",
+   "has_trace": true
+  },
+  {
    "id": 7236,
    "scanned_at": "2026-11-15T03:52:03.052452",
    "date": "2026-11-15",
@@ -39301,6 +39651,20 @@
  ],
  "Will Jensen Huang publicly testify before Congress by December 31, 2026?": [
   {
+   "id": 7801,
+   "scanned_at": "2026-11-22T00:09:33.291786",
+   "date": "2026-11-22",
+   "agent": 67,
+   "market_price_t0": 71.5,
+   "edge": -0.04499999999999993,
+   "confidence": 0.555,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.66, 0.68). (0) Not yet resolved. Huang has given no public testimony. The only dated appearance, the Dec 1 House transcribed interview, is closed-door per CNBC, Axios, CBS and Forbes, so it does not qualify despite one conflicting WaPo blurb. The banking.senate.gov hearings page lists no Huang hearing. (a) About 39 days remain to Dec 31. Given the Senate's Dec 21–31 state work period, the practical window is roughly Nov 30–Dec 18, about 2.5 working weeks. (b) Status quo: Scott's office has said repeatedly (Nov 17, 18, 20) that Huang agreed to testify publicly before Senate Banking, with a target of \"before Christmas.\" There is no notice or date yet, so if nothing advances the result is No. (c) NO scenario: Huang's personal counsel faces FBI and espionage questions, an SEC probe and a California AG subpoena. Counsel stalls after the closed Dec 1 session or pushes for a closed or classified format. Lame-duck floor business also crowds the calendar, the hearing slips past Dec 18, and Warren's committee picks it up in January. (d) YES scenario: Scott has a hard Jan 3 deadline before Democrats take the gavel and holds a subpoena threat. He notices a hearing for the week of Dec 7 or Dec 14, possibly paired with Lutnick, and Huang appears on camera, even if he invokes the Fifth. The market anchor of 71.5% reflects the strong chair incentive and Huang's voluntary agreement. I shade slightly lower for the absence of any notice, the short window and the serious legal-exposure reasons for delay, which the CEO-hearing precedents show often cause slippage.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7801",
+   "has_trace": true
+  },
+  {
    "id": 7219,
    "scanned_at": "2026-11-15T00:06:14.478834",
    "date": "2026-11-15",
@@ -39316,6 +39680,20 @@
   }
  ],
  "Will Jensen Huang be the #1 searched person on Google this year?": [
+  {
+   "id": 7808,
+   "scanned_at": "2026-11-22T01:46:50.319343",
+   "date": "2026-11-22",
+   "agent": 10.5,
+   "market_price_t0": 11.5,
+   "edge": -0.009999999999999995,
+   "confidence": 0.51,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.11). (0) Not resolved: the 2026 Year in Search page returns HTTP 404. Google typically publishes in early December, so release before the March 31, 2027 fallback is very likely. (a) About five weeks remain until trading closes on Dec 31. The ranking itself is probably already set by a data cutoff around Nov 25, based on the 2025 methodology. (b) Status quo: Huang's November scandal is a real spike, but the market prices him at 11.5% and falling (-6pts in 7 days, from a high of 30.5%). Kalshi's crowd (Huang ~14% on Nov 17, Lindsay Clancy ~40%) roughly agrees. (c) NO: Google's growth-versus-prior-year metric, with a ~Nov 25 cutoff, captures only about 2.5 weeks of Huang's surge. His 2025 baseline was already high from Nvidia/AI interest, so Clancy (trial since July, mistrial, retrial set), Haaland (World Cup) or another breakout name tops the alive-only People list. (d) YES: the scandal's global, multilingual reach (Weibo virality, finance and politics angles, ongoing new affair reports) produces enough concentrated volume growth that Google ranks him #1. A later cutoff could also capture his Dec 1/Dec 3 congressional appearances. No direct Google Trends comparison of the candidates is available. Daily-trend counters show modest absolute volume for Huang's name (200K+). I shade slightly below the market's 11.5% to about 10%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7808",
+   "has_trace": true
+  },
   {
    "id": 7216,
    "scanned_at": "2026-11-14T23:14:20.714515",
@@ -40176,6 +40554,38 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.32, 0.30). (0) Not resolved: the latest Stats SA print is October 2026 at 5.2%; the market resolves on December 2026, due 20 Jan 2027. (a) About two months remain; November CPI comes out around 15 Dec and the December fuel price takes effect 2 Dec. (b) If the index held at October's 108.9 against December 2025's 103.6, December would print 5.1% (Yes); an index of 108.8 gives 5.0% (No), so December must hold at or above October. (c) No: a petrol cut of about 9% (roughly R2.9-3.1/l) on a fuel share of about 5% takes about 0.3pp off the month, and soft non-fuel inflation (3.8% ex-fuel, food 1.2%) only partly offsets it, so December prints 5.0% or lower. The Reserve Bank's Q4 average of 5.1%, with October at 5.2% and November at about 5.3-5.4%, implies December near 4.7-5.0%, and forecasters have been overestimating lately. (d) Yes: November prints about 5.4%, the final petrol cut is smaller (weak rand, levy relief partly withdrawn, diesel flat or up), and non-fuel prices hold the index at 108.9 or more, matching PSG's 5.1% December call exactly one tick above the line. The market's 27% already reflects the oil collapse; my arithmetic puts the outcome at 5.0-5.1%, so I go slightly above the market at 32%.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/7741",
+   "has_trace": true
+  }
+ ],
+ "Will Israel be top 5 in the World Happiness Report 2027?": [
+  {
+   "id": 7823,
+   "scanned_at": "2026-11-22T04:54:37.378080",
+   "date": "2026-11-22",
+   "agent": 53,
+   "market_price_t0": 40.5,
+   "edge": 0.125,
+   "confidence": 0.435,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.57, 0.49) after one crux research pass. (0) Not resolved: WHR 2027 is scheduled for 20 March 2027. In WHR 2026 Israel was 8th at 7.187, 0.068 behind 5th-place Sweden (7.255), with Norway (7.242) and the Netherlands (7.223) also just ahead. (a) About four months to publication; the 2026 Gallup fieldwork is already done. (b) The 2027 window drops Israel's 2023 trough (about 6.78 per the WHR 2024 chapter). Back-solving from the published averages (7.341, 7.234, 7.187) implies roughly 7.3 for 2024 and 7.45 for 2025, so a 2026 score of 7.0–7.4 gives a 2024–26 average of about 7.26–7.40, at or above the slipping Sweden/Norway/Netherlands cluster. (c) NO: the February 2026 Iran war pushes Israel's 2026 ladder score below about 7.0, or rivals' averages rise as their own 2023 years roll off, leaving Israel 6th–8th. (d) YES: 2026 holds near the 2024 wartime level and Israel passes all three to take 5th. The market at 40.5% seems to underweight the roll-off; I discount for the uncertain 6.78 vintage, unknown rival single-year data and the unmeasured war-year reading.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7823",
+   "has_trace": true
+  }
+ ],
+ "Will Radomir Saičić win the next Serbia presidential election?": [
+  {
+   "id": 7813,
+   "scanned_at": "2026-11-22T02:30:57.585261",
+   "date": "2026-11-22",
+   "agent": 81,
+   "market_price_t0": 83.5,
+   "edge": -0.02499999999999991,
+   "confidence": 0.61,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.80, 0.82). (0) Not resolved. stat.gov.rs shows no presidential results. Wikipedia says the snap election, triggered by Vučić's 27 Sep resignation, falls on 20 or 27 Dec 2026, and the Student List has not officially named its nominee. (a) The vote is about five weeks away, with any runoff about two weeks later. Both fall well inside the market's 2 May 2027 close, so the 'Other' path is negligible. (b) Status quo: Saičić is the widely reported, unconfirmed favourite to be nominated by a movement that won 53.7% and 140 of 250 seats on 25 Oct with record turnout. Mondo, Serbian Times, Alo and Kurir all name him. Bakić says 'we have a candidate' but won't name them, and SNS says it will boycott. (c) NO: the plenum-driven Student List names Đokić or a surprise third figure, as it did when it left Đokić off the parliamentary list. Or a late SNS entry after its 13 Dec assembly, combined with Saičić's nationalist profile alienating liberal voters, forces a runoff he loses. (d) YES: the list names Saičić once the election is called by 27 Nov, and he files 10,000 signatures by about 7 Dec. He then beats Nestorović, Karić and possibly Dačić (whose SPS took about 2%) in round one or a runoff. I put the chance he is nominated at about 85-88% and his chance of winning if nominated at about 90-93%, which gives roughly 0.78-0.82. The Polymarket mid is 83.5% and has risen sharply (+10.5 points in 7 days), likely reflecting the leaks. I shade slightly below it because the nomination is still unconfirmed.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7813",
    "has_trace": true
   }
  ]

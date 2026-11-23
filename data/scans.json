@@ -1065,6 +1065,20 @@
  ],
  "Will Alibaba be removed from Chinese Military Companies list by June 30, 2027?": [
   {
+   "id": 7876,
+   "scanned_at": "2026-11-23T00:17:58.489628",
+   "date": "2026-11-23",
+   "agent": 10.5,
+   "market_price_t0": 12.5,
+   "edge": -0.01999999999999999,
+   "confidence": 0.63,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.10). (0) The condition has not been met. The Federal Register shows the only removal from the June 2026 list is WuXi AppTec (Nov 10, 2026), and Reuters confirms Alibaba's Oct 26 injunction covers only the §4663 lobbying restriction and leaves it on the list. (a) About 7 months remain until the June 30, 2027 deadline. (b) If nothing changes, Alibaba stays listed and the market resolves No. (c) No path: the summary-judgment hearing is set for March 10, 2027. Judge Lee rules in late spring or not at all before the deadline, or rules for DoD, or remands without an order to delist. DoW then takes months to act or appeals, and the annual update around June 2027 keeps a company it deliberately re-added after the February withdrawal. (d) Yes path: Judge Lee rules quickly after the March hearing that the SASAC/MIIT 'regulator as affiliate' theory is arbitrary and capricious. DoW publishes a compliance removal notice, as it did for WuXi (which took about 3 months), before June 30. A removal followed by immediate relisting, as with Hesai, would still count. A US–China deal or the annual update could also delete Alibaba, but I found no evidence of either. Rough chain: about 40% that Alibaba wins on the merits, about 50% that the ruling is timely, and about 40% that DoW publishes in time, giving roughly 8%, plus about 3% for political or administrative removal. That lands slightly below the market's 12.5% anchor, which already seems to price this tight timeline, so I stay close to it.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7876",
+   "has_trace": true
+  },
+  {
    "id": 3086,
    "scanned_at": "2026-09-17T18:30:30.471150",
    "date": "2026-09-17",
@@ -1768,6 +1782,20 @@
   }
  ],
  "Will no listed leader be out before 2027?": [
+  {
+   "id": 7883,
+   "scanned_at": "2026-11-23T02:19:46.870536",
+   "date": "2026-11-23",
+   "agent": 65,
+   "market_price_t0": 61.5,
+   "edge": 0.03500000000000003,
+   "confidence": 0.555,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.64, 0.66). (0) No listed leader has permanently left office as of Nov 23; Polymarket shows the event open and Netanyahu is caretaker PM, which explicitly does not count. (a) About 5.5 weeks remain, to Dec 31, 11:59 PM ET. (b) Status quo is Yes: the market prices None at 61.5% (+8 in 7 days), with Netanyahu 24%, Sánchez 5.2%, Lecornu 2.1% and the rest about 1% or less. (c) No path: Eisenkot wins a confidence vote (planned before the Dec 6 expiry, extendable to about Dec 19) and swears in a government before Dec 31. Liberman opposes an Arab-backed minority, Bennett won't back one 'at this stage', Shas stays with Netanyahu, UTJ refuses formal talks and the Likud-Yashar unity talks are deadlocked, so the votes are not there yet. I put Netanyahu at roughly 26%; a separate looser-rules 'Netanyahu out by Dec 31' contract at 44.5% overstates this contract's risk. (d) Yes path: the vote fails or slips and every fallback branch runs past Dec 31 with Netanyahu caretaker. Spain's Cortes reconvenes Dec 23 with investiture expected in January, so Sánchez's 5.2% looks rich. A Lecornu censure needs an unprecedented PS-RN-LFI alignment and would likely leave him caretaker. Other leaders carry about 3-4% tail risk. I sit slightly above the market given the coalition arithmetic, but keep it modest because the Israeli situation is volatile and roughly 10 listed outcomes were unchecked.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7883",
+   "has_trace": true
+  },
   {
    "id": 7275,
    "scanned_at": "2026-11-15T14:49:50.608750",
@@ -16103,6 +16131,20 @@
  ],
  "Will Russia capture all of Kostyantynivka by December 31, 2026?": [
   {
+   "id": 7879,
+   "scanned_at": "2026-11-23T01:18:21.582169",
+   "date": "2026-11-23",
+   "agent": 4,
+   "market_price_t0": 6.5,
+   "edge": -0.025,
+   "confidence": 0.8,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.04). (0) Resolution check: the condition is not met. ISW's November 21 assessment explicitly says Russian forces \"do not control the city\" and logs only an infiltration mission in the north, which is a non-qualifying layer. On November 13 ISW cited at least 41 Ukrainian positions in and around the town since September 1. DeepState's November 12 map shows Russia holding under 5%, Ukraine about 20% (centre and north) and the rest gray zone.\n(a) About 38 days remain until 11:59 PM ET on December 31, 2026.\n(b) Status quo is NO: progress has been incremental, on the order of 1 km² gains against a roughly 66 km² municipality. ISW has refused to follow Russia's July 3 capture claim for more than four months.\n(c) NO scenario: grinding street fighting continues, the 36th Marine and 93rd Brigades keep holding the centre, north and west, and ISW keeps much of the city as contested or infiltration through year-end.\n(d) YES scenario: Russian flanking via Mykolaivka and the northern approaches forces a Pokrovsk-style Ukrainian withdrawal. ISW then shades the whole municipality quickly, or a ceasefire deal hands over actual control. But ISW's Pokrovsk call lagged weeks after the collapse, and no handover mechanism is agreed.\nThe Polymarket anchor is 6.5% and falling (−4.5% over 30 days). The November 30 contract trades at 0.45%, and the March 2027 contract at 28% is consistent with a back-loaded hazard. I shade slightly below the market because ISW's own November 21 language and the evidentiary lag make a full shading within five weeks very unlikely.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7879",
+   "has_trace": true
+  },
+  {
    "id": 7213,
    "scanned_at": "2026-11-14T22:25:08.756607",
    "date": "2026-11-14",
@@ -16764,6 +16806,20 @@
   }
  ],
  "Will Ricardo Ruiz Velasco be arrested in 2026?": [
+  {
+   "id": 7887,
+   "scanned_at": "2026-11-23T03:10:23.057219",
+   "date": "2026-11-23",
+   "agent": 5.8,
+   "market_price_t0": 7.1,
+   "edge": -0.013499999999999991,
+   "confidence": 0.6699999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) The condition has not been met. The State Department rewards page, last modified 2026-10-19, still lists him as WANTED with a $10M reward, and VOA repeated that notice on 2026-10-30. The March 2026 \"Doble R\" capture in Mexicali was a different man, Ángel Javier \"N\", so I am not counting it. (a) About 38 days remain until 2026-12-31 11:59 PM ET. (b) If nothing changes, he stays a fugitive and the market resolves No. (c) NO scenario: Ruiz Velasco keeps operating in the Guadalajara and Jalisco area. In that time, the next intelligence-led operations go after higher-priority targets, such as Valencia González at $25M or Mendoza Gaytán at $15M, or other regional leaders. (d) YES scenario: a DEA tip passed to the Navy and FGR leads to a raid in the Guadalajara metro area. That would follow the template of the R2 arrest on 8 Nov, made in Zapopan on DEA intelligence. Even a short detention would count under the rules. The 2026 arrest tempo against CJNG is clearly high: Flores Silva, R1, R2 and El Tanque, plus Chapo Isidro on 20 Nov. Even so, the rate for any one named top-tier fugitive works out to roughly 3-5% per month. I found no specific lead, location or surrender signal for him. The market sits at 7.1%. I shade it slightly lower because there is no specific operational signal, and because he carries the lowest $10M reward tier. The small residual risk of a mislabelled arrest report adds a little YES weight.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7887",
+   "has_trace": true
+  },
   {
    "id": 7233,
    "scanned_at": "2026-11-15T03:08:28.099067",
@@ -22326,7 +22382,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-22T21:03:09.744Z",
+  "last_sync": "2026-11-23T12:37:47.414Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -23300,6 +23356,20 @@
   }
  ],
  "Will an AI lab announce another Millennium Prize solution by December 31, 2026?": [
+  {
+   "id": 7909,
+   "scanned_at": "2026-11-23T09:15:12.957797",
+   "date": "2026-11-23",
+   "agent": 68,
+   "market_price_t0": 66,
+   "edge": 0.020000000000000018,
+   "confidence": 0.45999999999999996,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.68, 0.68). (0) The condition is arguably met already. On Nov 20, 2026, Anthropic mathematician Levent Alpöge posted a first-person 'I believe I have, working with Claude, discovered a proof' of the Riemann Hypothesis. Lean and Mathlib checkers report it compiles, and Nature ('Anthropic has now claimed') and AP attribute it to Anthropic. But Anthropic has issued no official statement, and reports conflict on whether Amodei cleared the release, so the 'official representative' reading is unresolved. (a) About 38 days remain, to Dec 31, 2026. (b) If Anthropic stays silent, the outcome turns on resolver interpretation: a lenient reading via 'consensus of credible reporting' gives Yes, a strict reading of the hedged personal-site post gives No. (c) No path: Nielsen's vacuity critique or post-IPO caution keeps Anthropic silent, the resolver requires a company post, and no other lab makes a full claim on P vs NP, Hodge, BSD or the Yang-Mills mass gap (OpenAI's Yang-Mills was partial). (d) Yes path: Anthropic officially adopts the proof (e.g. with the promised write-up), the resolver accepts the Nov 20 post, or OpenAI or Anthropic drops another qualifying claim given the fast pace of 2026 claims. I anchor on the 66% Polymarket price, consistent with sibling markets (AI solves Riemann in 2026 ~70%; Kalshi Riemann resolved before 2027 ~85%), and nudge slightly up because two independent routes to Yes exist and formal certification makes adoption plausible.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7909",
+   "has_trace": true
+  },
   {
    "id": 7335,
    "scanned_at": "2026-11-16T07:48:45.230463",
@@ -34037,6 +34107,34 @@
  ],
  "Will the US economy be in a soft landing at the end of 2026?": [
   {
+   "id": 7911,
+   "scanned_at": "2026-11-23T10:00:57.191745",
+   "date": "2026-11-23",
+   "agent": 49.5,
+   "market_price_t0": 58.9,
+   "edge": -0.09399999999999997,
+   "confidence": 0.435,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.49, 0.50). (0) Not resolved. Unemployment is 4.1% (BLS Oct), far below 5.0%. The last 12-month CPI that can be calculated is 3.7% (Sept), and October has no published year-over-year figure. Soft Landing needs the December 2026 unadjusted index at or below about 335.2, versus 337.51 in October, a drop of about 0.7%. (a) December jobs (Jan 8) and CPI (Jan 13-14) both fall before the Jan 31 cutoff, so about seven weeks of data flow remain. (b) Status quo, with the fallback to September's 3.7%, means Overheating. The Cleveland Fed November nowcast of 3.86% implies an index of about 336.6, already down 0.26% from October. AAA gas has fallen from about $4.25 (Oct) to $3.64 (Nov 22) and is still falling. A further ~10% gasoline drop in December plus seasonally soft late-year core puts December at roughly 335.0-335.5, right on the line. (c) NO: crude rebounds on the Iran-Bahrain escalation, or core keeps running hot, and the year-over-year rate prints 3.5-3.8% (Overheating). (d) YES: pump prices hold in the mid-$3s through December and the year-over-year rate prints 3.4% or lower while unemployment stays near 4.1%. The market is at 58.9% after a 17-point weekly jump on thin volume. Published forecasts (Kiplinger 3.9%, Citi 3.8%) remain above 3.5% but mostly predate the full gasoline slide, so I shade slightly below the market to near a coin flip.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7911",
+   "has_trace": true
+  },
+  {
+   "id": 7892,
+   "scanned_at": "2026-11-23T04:22:30.066248",
+   "date": "2026-11-23",
+   "agent": 34.5,
+   "market_price_t0": 41.9,
+   "edge": -0.07350000000000001,
+   "confidence": 0.53,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.39, 0.30). (0) Not resolved. Unemployment is 4.1% (October, BLS), so that leg is essentially met. December CPI-U y/y must print 3.4% or lower, meaning an index below about 335.24 versus 337.511 in October, a 0.67% non-seasonally-adjusted drop over November and December. The NO research misses seasonality: the gap between adjusted and unadjusted CPI typically swings about -0.6% from October to December on FRED data, so the requirement is roughly flat to slightly negative adjusted headline. Cleveland's November nowcast (+0.07% m/m, 3.86% y/y) leaves December needing about -0.1% adjusted, which requires an 8-10% further gasoline drop against firm 0.3% core. That is plausible given record pump-price declines and an oil surplus, but marginal. (a) About seven weeks remain; December CPI (about Jan 13) and jobs (about Jan 8) both precede the cutoff, and all fallback values exceed 3.5%. (b) Status quo, with nowcasts at 3.8-3.9%, is Overheating, which resolves No. (c) No: core stays at 0.3% and gasoline stabilises, so December prints 3.5-3.7%. (d) Yes: an OPEC+ output increase and gasoline near $3.40 push the print to 3.4%. The market's 42% is roughly fair; I shade slightly lower given the professional forecaster survey at 3.8% and the upward-trending nowcast.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7892",
+   "has_trace": true
+  },
+  {
    "id": 7044,
    "scanned_at": "2026-11-12T21:34:26.767351",
    "date": "2026-11-12",
@@ -34644,6 +34742,20 @@
   }
  ],
  "Will no next Israeli Minister of Foreign Affairs be appointed by February 28, 2027?": [
+  {
+   "id": 7878,
+   "scanned_at": "2026-11-23T00:49:17.975578",
+   "date": "2026-11-23",
+   "agent": 41.5,
+   "market_price_t0": 39,
+   "edge": 0.024999999999999967,
+   "confidence": 0.475,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.42, 0.41). (0) Not resolved: as of Nov 22-23, 2026 no 38th government exists (Wikipedia lists PM TBD); Sa'ar is only caretaker FM, which the rules exclude. A government must win a Knesset confidence vote with an FM by Feb 28, 2027. (a) About 97 days remain. Eisenkot's mandate ends Dec 6 (or about Dec 20 if extended), a second candidate runs to about late January, and the 61-signature and third-candidate stages end around Feb 24 to Mar 1. (b) The status quo is deadlock with Netanyahu as caretaker, which resolves Yes. (c) No path: under the Dec 6 forcing deadline, Likud-Yashar unity or a Haredi deal comes together, or Netanyahu succeeds in the second mandate, seating an FM well before February. (d) Yes path: every route has a named veto player (Liberman and Bennett against Arab-dependent government, Likud insisting on Netanyahu, Haredi draft-law preconditions). Eisenkot's minority vote fails, Netanyahu also fails, and the Knesset dissolves, repeating 2019-20; Brookings rated a new election most likely. The market sits at 39% and is rising, and the related 'formed by Dec 31' market at 35.5% is consistent with a sizable no-government tail. Historical lags of 50-100 days favor formation, but this deadlock is severe, so I lean slightly above the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7878",
+   "has_trace": true
+  },
   {
    "id": 6623,
    "scanned_at": "2026-11-07T16:40:54.617820",
@@ -37399,6 +37511,20 @@
  ],
  "Will Russia enter Bilozerske by December 31, 2026?": [
   {
+   "id": 7885,
+   "scanned_at": "2026-11-23T02:25:39.090594",
+   "date": "2026-11-23",
+   "agent": 12,
+   "market_price_t0": 15.5,
+   "edge": -0.035,
+   "confidence": 0.585,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.12). (0) Nothing shows the condition already met. The resolution-source read could not test Bilozerske's coordinates against the ISW polygons. ISW's text through Nov 22 never assesses Russian presence in the town; only Gerasimov's Oct 16 claim, a Nov 1 milblogger claim and MoD 'near Bilozerske' footage exist, and none produced shading over five-plus weeks. (a) About 38 days remain until Dec 31, 11:59 PM ET. (b) If nothing changes, the market resolves No. DeepState puts the grey zone about 6–7 km from the town as of early November, Suspilne reporters saw no Russian presence inside it in October, and ISW's Nov 20–22 reports describe Ukrainian advances in and around Dobropillya and stalled Russian momentum. (c) No path: Russian effort stays focused on Dobropillya and the Bilytske/Rodynske staging area, winter assaults are repelled, and no geolocated infiltration reaches the town limits that persists through the next update. (d) Yes path: fog-enabled infiltration by small groups north of Dobropillya, where ISW already records infiltrators, produces a geolocated clip at Bilozerske's southern or eastern edge, and ISW shades an infiltration area that sticks. A negotiated handover is also possible but unlikely by year-end. I anchor on the 15.5% Polymarket price, which has fallen from 38%; the Nov 30 sibling sits at 5.5%. I shade slightly lower because of the 6–7 km gap and the local Ukrainian counterattack trend. I keep material weight on Yes because infiltration shading is a low bar and I could not read the live map.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7885",
+   "has_trace": true
+  },
+  {
    "id": 7243,
    "scanned_at": "2026-11-15T05:22:25.000091",
    "date": "2026-11-15",
@@ -38380,6 +38506,20 @@
   }
  ],
  "Will David Lisnard win the 2027 French presidential election?": [
+  {
+   "id": 7889,
+   "scanned_at": "2026-11-23T03:19:42.347123",
+   "date": "2026-11-23",
+   "agent": 12.8,
+   "market_price_t0": 17.8,
+   "edge": -0.05099999999999999,
+   "confidence": 0.5,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.14). (0) Nothing is resolved. The first round is on 18 April 2027 and the runoff on 2 May, and the Interior Ministry has no results; Lisnard would have to qualify for and win the runoff. (a) About 21 weeks remain to round one and about 23 to the runoff. (b) If nothing changes, Lisnard loses in the first round. He averages about 9% (range 8–11%) and sits 6th. He is in the top two in 0 of 42–43 scenarios over the last 60 days, about 9 points short of qualifying. Le Pen is at 31–37% and Mélenchon at about 17–19%. (c) The most likely NO path runs like this. The primary either fails or excludes Philippe, who keeps 9–15%. The centre-right vote stays split, as IFOP shows Lisnard's best numbers appear only when Philippe is removed. RN fire stalls his surge, and he finishes 4th to 6th. (d) For YES, he would have to win a January primary against Attal and Retailleau and ride membership growth (claimed 140k) to consolidate the right. Philippe would have to fade, Lisnard would have to overtake Mélenchon for second place, and he would then have to win the anti-RN runoff vote against Le Pen. The market's 17.85% (+6pts in 30 days) prices Lisnard as the de facto consolidator of the right, well above Philippe at 4.5%, which reflects real momentum. Even so, a four-step conjunctive path from 6th place justifies shading down toward roughly 10%. I don't fade further because thick volume and recent momentum suggest the crowd sees a plausible consolidation story.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7889",
+   "has_trace": true
+  },
   {
    "id": 7572,
    "scanned_at": "2026-11-19T03:57:13.178810",
@@ -39645,6 +39785,20 @@
  ],
  "Will Meta be the third-best AI lab at the end of December 2026?": [
   {
+   "id": 7899,
+   "scanned_at": "2026-11-23T06:21:55.196193",
+   "date": "2026-11-23",
+   "agent": 65,
+   "market_price_t0": 63.5,
+   "edge": 0.015000000000000013,
+   "confidence": 0.555,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.65, 0.65). (0) The question is not resolved. The publisher's Hugging Face dataset (published 2026-11-22, overall, read as no-style-control) orders the labs Google (1538.9), Anthropic (Opus 5.5, 1514.1), Meta (Muse Wonder Max, 1503.7), then Xiaomi (1492.9). Meta is third today, but the live Lab Rank column could not be read. An 11 Nov page copy and a 9 Nov mirror showed Meta second at 1511, so the style-control and view mismatch is a real risk. (a) About 38 days remain until the 31 Dec, 12:00 PM ET check. (b) If nothing changes, the order stays Google, Anthropic, Meta and the market resolves Yes. Muse Wonder's score has settled downward on more votes, which widens Anthropic's 10-point lead, and Anthropic has several models above Meta. (c) The No routes are: a Chinese lab (Xiaomi's thin-vote MiMo with a wide CI, a new Qwen, Kimi or DeepSeek), OpenAI or xAI shipping a model that passes about 1504; a surprise Meta Muse flagship that passes Anthropic; or a re-scoring that differs from the dataset. Year-end release cadence makes the first route the main threat. (d) The Yes path is a quiet five weeks in which the roughly 10-point margins on both sides hold. I anchor on the 63.5% mid price and find no unpriced information strong enough to move far from it, so I stay at about 65%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7899",
+   "has_trace": true
+  },
+  {
    "id": 7247,
    "scanned_at": "2026-11-15T07:00:45.870127",
    "date": "2026-11-15",
@@ -39923,6 +40077,20 @@
  ],
  "Will the next Qwen Max model (3.9+) debut at a score of at least 1460 by June 30, 2027?": [
   {
+   "id": 7914,
+   "scanned_at": "2026-11-23T10:42:35.839133",
+   "date": "2026-11-23",
+   "agent": 85,
+   "market_price_t0": 85,
+   "edge": 0,
+   "confidence": 0.62,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.84, 0.86). (0) Not resolved: the publisher's HF dataset (publish date 2026-11-22) and the changelog through Nov 20 show no Qwen Max 3.9+ entry on the Text board. A qualifying model still needs a non-AutoEval Text listing scoring at least 1460 at noon ET the next day. (a) About 7 months remain to June 30, 2027. (b) Qwen4-Max (released Nov 16) is on the Agent and WebDev boards but not Text; listing lags are common (Kimi K3.1 Pro took 16 days from Agent to Text), and every Max flagship since 3.5 reached Text with debuts of about 1464-1496. (c) No: Qwen4-Max skips Text (as the 3.8-Max-0902 refresh did) or shows only AutoEval, with no later 4.x Max listed in time, or it debuts below 1460 like the 3.6 preview. (d) Yes: Qwen4-Max beat 3.8-Max on every Arena board checked, and a Text debut in late Nov or Dec at about 1480-1510 clears 1460 easily. The market is at 85%, and the sibling markets (1480+ at 62.5%, 1500+ at 29%) imply a median around 1485-1490, consistent with the evidence. With no unpriced information, I stay near the market; the main residual risks are a missed listing, AutoEval or first-appearance ambiguity, and a weak debut.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7914",
+   "has_trace": true
+  },
+  {
    "id": 7329,
    "scanned_at": "2026-11-16T06:17:52.123184",
    "date": "2026-11-16",
@@ -39954,6 +40122,20 @@
   }
  ],
  "Will Finland be 1st in the World Happiness Report 2027?": [
+  {
+   "id": 7895,
+   "scanned_at": "2026-11-23T04:51:24.117786",
+   "date": "2026-11-23",
+   "agent": 94.5,
+   "market_price_t0": 92.5,
+   "edge": 0.019999999999999907,
+   "confidence": 0.74,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.94, 0.95). (0) Not resolved. The archived WHR site from 17 Nov 2026 still shows the 2026 edition as current, and WHR 2027 is scheduled for about 20 March 2027. (a) About four months remain until publication; trading closes 1 April 2027 and the non-publication backstop is 30 June 2027. (b) Status quo strongly favours Finland: it was 1st in WHR 2026 at 7.764, about 0.22 ahead of Iceland (7.540) and Denmark (7.539). The appendix gives its rank interval as 1–1, and it has won nine straight years. Two of the three Gallup years (2024–2025) carry over into the 2027 window. (c) NO path: a rival's 2026 wave jumps and/or Finland's drops, for example from rising unemployment, enough to close 0.22 on a three-year average. That needs a relative single-year swing of about 0.66, roughly 3+ standard errors of sampling noise even allowing for Iceland's small sample. A smaller NO path is a methodology change or delayed publication, which resolves 'Other'. (d) YES path: an on-time release with the unchanged three-year Cantril method and a Finnish 2026 wave near its recent level. The market sits at 92.5%, and sibling markets price Denmark and Iceland at about 3% each. I see slightly less tail risk than the market given the data overlap, so I nudge up modestly to 94%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7895",
+   "has_trace": true
+  },
   {
    "id": 7323,
    "scanned_at": "2026-11-16T04:45:43.526039",
@@ -40700,6 +40882,102 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.64, 0.67). (0) Not resolved: IBGE SIDRA through October shows 4.10% year-to-date and 4.63% over 12 months; the December print is due 12 Jan 2027. (a) About seven weeks remain, with the Nov IPCA-15 (26 Nov), Aneel's December flag (27 Nov), the Nov IPCA (11 Dec) and the Dec IPCA-15 (23 Dec) still to come. (b) Status quo: a YES needs Nov+Dec of about 0.86-1.33%. Focus monthly medians (0.35% and 0.61%) give about 5.10%, and the Central Bank (about 5.2%), 4intelligence (about 5.02%) and Itaú (5.1%) all land in band. A roughly 0.2pp two-month error around 5.10% puts about 30% below 5.00% and only 3-5% above 5.49%. (c) NO: November undershoots like October did (0.14% vs 0.25% expected), the green flag persists and holiday discounts pull December down, ending 4.9x%; less likely, the fuel-tax relief lapses and a red flag plus food push it to 5.50%+. (d) YES: November at 0.30-0.45% and December at 0.6-0.7% on seasonal food and tariffs give 5.05-5.30%. The market anchor is 66.65%; I shade slightly lower because the floor is only about 0.1pp below consensus and the recent surprises were to the downside, partly offset by the upward Focus error in 2025.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/7865",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic announce a Millennium Prize solution by December 31, 2026?": [
+  {
+   "id": 7906,
+   "scanned_at": "2026-11-23T08:32:26.136381",
+   "date": "2026-11-23",
+   "agent": 53,
+   "market_price_t0": 53.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.41000000000000003,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.50, 0.56). (0) Not already resolved. Anthropic's newsroom has no post on any Millennium problem, and several outlets (Dataconomy on Nov 23, the AP, Quartz) say the company has issued no statement. The only claim is Levent Alpöge's personal-site note (\"I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis\"). That note credits Claude and an Anthropic researcher and says leadership was consulted. The Lean FRO and Mathlib reportedly certified its 17M-line Lean proof on Nov 21. Whether that note, or the 'consensus of credible reporting' (Nature: \"Anthropic has now claimed\"), counts as an announcement by an 'official representative' is genuinely ambiguous. (a) About 38 days remain until Dec 31, 2026. (b) If nothing changes, YES depends on the resolver reading a staff member's hedged personal post as an official announcement. A strict reading says no; a generous one says yes. (c) NO: Anthropic stays cautious through year-end because of its recent IPO, the lack of a human-readable proof, Nielsen's vacuity dissent and the competing Masullo claim, and the resolver rules the personal post insufficient. (d) YES: the Lean checks finish clean, Anthropic posts a blog or X statement that Claude and Alpöge proved RH (likely good marketing), or the resolver accepts the existing coverage that attributes the claim to Anthropic. The market sits at 53.5%, down from a 77% high, and the related 'AI solves RH in 2026' market is at 62%. I see no unpriced information that justifies moving materially, so I sit roughly at the market, shaded slightly toward continued corporate silence.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7906",
+   "has_trace": true
+  }
+ ],
+ "Next Russia-Ukraine-EU Trilateral Diplomatic Meeting by December 31, 2026?": [
+  {
+   "id": 7904,
+   "scanned_at": "2026-11-23T07:47:20.557545",
+   "date": "2026-11-23",
+   "agent": 18,
+   "market_price_t0": 24.5,
+   "edge": -0.065,
+   "confidence": 0.5349999999999999,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.19, 0.17). (0) Not yet met. Every source through Nov 23 shows that the Nov 10–11 Abu Dhabi round was US–Russia–Ukraine only. The EU team (Seibert/Boura) met only the US and Ukrainian sides, separately. (a) About 5.5 weeks remain until Dec 31, 2026. (b) Status quo is No: no next round has been dated, and Russia has not agreed to EU institutions joining the same session. (c) NO scenario: a pre-Christmas round happens in the UAE in trilateral form only. This fits Ushakov's Nov 16 view that 'another round, or perhaps more than one' is needed before Europe joins, and Ryabkov's flat denial after the new sanctions. Any European contact with Moscow stays bilateral, through E3 national security advisers, and member-state officials do not count. (d) YES scenario: Peskov's softer 'won't dictate the EU delegation' line holds. The US (Witkoff/Kushner) pushes Europeans into a pre-Christmas Abu Dhabi session. Seibert or Boura sit in the room with Medinsky and Umerov; both are explicitly named as qualifying in the rules, so seniority is not the obstacle. Merz's Nov 23 comment about four-way talks 'soon' in the UAE is mildly supportive. The related Polymarket market for any Russia–Ukraine senior meeting by Dec 31 sits at about 48%. Conditional on such a round, I put EU-in-the-same-session at roughly 35–40% given Russia's repeated format resistance. That gives a probability just below the 24.5% market anchor, which has itself been falling.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7904",
+   "has_trace": true
+  }
+ ],
+ "Will Exponent launch a token by December 31, 2026?": [
+  {
+   "id": 7903,
+   "scanned_at": "2026-11-23T07:04:24.579883",
+   "date": "2026-11-23",
+   "agent": 4.5,
+   "market_price_t0": 8.5,
+   "edge": -0.04000000000000001,
+   "confidence": 0.76,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.04). (0) No source shows the condition met. Exponent's X profile (posts to Nov 19), Messari (\"No Token\") and Avoid.net (checked Nov 19) all show no token. A YES would need an announcement, distribution and live trading within about 5 weeks. (a) About 38 days remain until 11:59 PM ET on Dec 31, 2026. (b) The status quo is No. There is no TGE date, tokenomics, snapshot, airdrop checker or listing news, and the March, June and September strikes all lapsed to No. (c) NO: the team keeps shipping vault products paid out in SOL and partner points. It defers the token into a weak market (SOL about $70, a recent DeFi exploit), which fits the 2027 sibling market at 55%. (d) YES: the token warrants and an \"XPN\" contract that aggregators call finalized (unverified boilerplate) lead to a surprise December announcement with a fast TGE, motivated by falling TVL (about $62M from a $136M high). The market sits at 8.5% mid (bid 7%, last 7%) and fell 7.5 points in a week. The absence of any lead-up signals justifies shading slightly below the mid, to about 5%. I keep some weight on the chance of a short-notice launch, since the research cannot see Discord or private channels.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7903",
+   "has_trace": true
+  }
+ ],
+ "Will Alysa Liu rank in Google’s Top 5 Most Searched Athletes of 2026?": [
+  {
+   "id": 7897,
+   "scanned_at": "2026-11-23T05:36:27.080516",
+   "date": "2026-11-23",
+   "agent": 56.5,
+   "market_price_t0": 55.5,
+   "edge": 0.009999999999999898,
+   "confidence": 0.42,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.56, 0.57). (0) Not resolved: the 2026 Year in Search page 404s and the hub still shows 2025. (a) Google typically publishes in early-to-mid December, well before the Mar 31 2027 fallback, so the outcome turns on the ranking, not timing. (b) The anchor is the Polymarket mid of 55.5% (44/67 spread, last trade 62%, thin ~$15k volume); the price has slid from ~76% in early October without new Liu-specific news. (c) NO: her spike was a single US-centred February event and she is on a competition break. World Cup names (Haaland at 90%, Messi, Mbappe, Yamal, Vozinha), Olympic stories (Vonn, Malinin) or a US breakout fill the slots, echoing 2022, when Eileen Gu missed the global top 10 and Shaun White was only 5th. (d) YES: Google ranks year-over-year growth, and Liu went from a near-zero 2025 base to a record Olympic spike, still ~980k monthly US searches in November (ahead of Haaland). The global list skews US-heavy (4 US names in the 2025 top 5; Olympic breakouts Khelif and Biles in 2024), and perennial stars like Messi often miss it. The arguments roughly balance; I lean marginally above the market on the methodology argument but respect the downtrend as possible informed flow.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7897",
+   "has_trace": true
+  }
+ ],
+ "Will the US Section 232 tariff rate on Canadian primary aluminum be >40-50% on December 31, 2027?": [
+  {
+   "id": 7882,
+   "scanned_at": "2026-11-23T01:36:37.702971",
+   "date": "2026-11-23",
+   "agent": 60,
+   "market_price_t0": 64,
+   "edge": -0.040000000000000036,
+   "confidence": 0.49,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.60, 0.60). (0) The condition is not yet resolved. The resolution-source read shows Canadian unwrought aluminum (7601.10) at 50% ad valorem under Proc. 10947, kept by Proc. 11021. ICPA reports no change as of Nov 15–22, 2026. The one Canada-specific concession, the Annex I-C 25% rate on non-US content, appears to cover machinery, not 7601. The company-specific onshoring rates are excluded by the rules.\n\n(a) About 13 months remain until 12:01 AM ET on Dec 31, 2027. Any change must be legally in effect by then, not just signed.\n\n(b) If nothing changes, the rate stays at 50%, which resolves Yes. The rate has held for about 18 months despite repeated \"close to a deal\" headlines.\n\n(c) No scenario: an interim US–Canada deal is signed in early 2027 and implemented by proclamation. Every reported framework cuts aluminum to about 25% or uses a TRQ, and the in-quota rate counts. Examples are the August 2026 Bloomberg-reported halving and LeBlanc's Nov 19 \"lower rates\" remarks. The president can do this alone, and Greer says the sides are \"fairly close.\" A rate above 50% or a specific-duty (\"Other\") structure would also resolve No, but both are small risks.\n\n(d) Yes scenario: talks keep stalling. The US demands more concessions, Navarro says \"Canada cheats,\" and the August deal collapsed within days. Alternatively, a deal gives relief on autos, Section 338 or derivatives while pure aluminum stays at 50%.\n\nThe market mid is 64% after a jump from a 50.5% close, and the sibling buckets put about 23.5% on 20–40%. I put the chance of a sub-40% general aluminum rate in effect within 13 months at roughly 33–37%, plus a few points for 0%, above-50% or Other outcomes. That gives slightly under the market, around 0.60.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7882",
+   "has_trace": true
+  }
+ ],
+ "Will the Iranian regime fall by March 31, 2027?": [
+  {
+   "id": 7875,
+   "scanned_at": "2026-11-23T00:05:19.179406",
+   "date": "2026-11-23",
+   "agent": 6.3,
+   "market_price_t0": 9.5,
+   "edge": -0.0325,
+   "confidence": 0.63,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.06). (0) The condition is not met. ISW/CTP (Nov 17) and other reporting show the Islamic Republic still governing under Supreme Leader Mojtaba Khamenei, with the IRGC and Guardian Council intact. There is no provisional government, revolutionary council or loss of control over most of the population. (a) About 128 days remain until March 31, 2027. (b) If nothing changes, the market resolves No. Trump says he is not pursuing regime change and may wait until 2027 on a new offensive, and the January uprising and the February decapitation both failed to break the system. (c) A No path: a renewed US-Israeli strike, or the winter fuel, bread and power crisis, produces rally-and-repress dynamics or an IRGC-dominated consolidation. Both are excluded or preserve the core structures. (d) A Yes path: a winter offensive hits internal-security forces, a nationwide strike wave in the bazaars, trucking and oil sector follows, Mojtaba proves incapacitated, and the security forces fracture. A transitional authority would then have to take Tehran, all within four months. Each link is unconfirmed. The anchor is the 9.5% Polymarket price, but this market is thin ($15.7k). The sibling curve (2.55% by end-2026, 11.5% by June 2027, 21.5% by end-2027) leaves only about 2 points of hazard for April–June, which suggests this contract is slightly rich. Generic autocracy base rates are about 2% for a four-month window, and elevated stress (protest incidents rising, power cuts, a possible new offensive) roughly triples that. I shade modestly below the market, to about 6.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7875",
    "has_trace": true
   }
  ]

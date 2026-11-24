@@ -11107,6 +11107,20 @@
  ],
  "Will Putin meet with Zelenskyy by December 31, 2026?": [
   {
+   "id": 7997,
+   "scanned_at": "2026-11-24T10:50:56.966756",
+   "date": "2026-11-24",
+   "agent": 5.8,
+   "market_price_t0": 7.2,
+   "edge": -0.014999999999999993,
+   "confidence": 0.69,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) Nothing shows the condition met. Al Jazeera (Nov 3) and reporting through Nov 23–24 say Putin and Zelensky have had no in-person contact since 2022; their last meeting was Paris in December 2019. (a) About five weeks remain, to 11:59 PM ET on Dec 31, 2026. (b) If nothing changes, the answer is No. The Kremlin's stated position is that Putin meets Zelensky only in Moscow, or only to sign a finished deal. Zelensky rules out Moscow, and no deal text exists; he said on Nov 21 there is no security-guarantee text on paper and Donbas is unresolved. (c) No scenario: Putin skips the Miami G20 on Dec 13–15 or sends a high-level substitute, as at Bali and Rome. The next trilateral round stays at delegation level before Christmas, and the year ends without a leaders' meeting. This mirrors every earlier 'summit soon' signal from Trump and Witkoff that fizzled. (d) Yes scenario: Trump's push for a deal by January compresses talks into a framework agreement. He then stages a signing or trilateral at the Miami G20 with Putin attending and Zelensky invited, or holds a hastily arranged year-end summit. That would satisfy Putin's 'meet only to finalize' condition. The market sits at 7.25% and rose about 3 points this week on talk of a G20 trilateral. However, Putin's attendance is undecided, Zelensky has no invitation, and the Kremlin called a meeting at the G20 'impossible' in September. The related ceasefire-by-year-end market at 10.5% acts as a rough ceiling, since a signing meeting would almost surely come with a ceasefire deal. I shade slightly below the market, to about 5.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7997",
+   "has_trace": true
+  },
+  {
    "id": 5827,
    "scanned_at": "2026-10-28T18:03:27.509964",
    "date": "2026-10-28",
@@ -14431,6 +14445,20 @@
  ],
  "Will no company have an AI model hit 1550 on Chatbot Arena in 2026?": [
   {
+   "id": 7996,
+   "scanned_at": "2026-11-24T10:12:40.547448",
+   "date": "2026-11-24",
+   "agent": 66,
+   "market_price_t0": 56,
+   "edge": 0.09999999999999998,
+   "confidence": 0.5449999999999999,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.63, 0.69) after one crux research pass. (0) Not resolved: LMArena's raw text dataset (2026-11-22 snapshot) has Gemini 4 Carbon on top at 1538.87 (CI up to ~1548); the highest #1 score ever published is 1540.04, so nothing has reached 1550. (a) About 37 days remain until Dec 31, 2026. (b) The status quo is 'None in 2026': Carbon has been flat for four weeks and its access is gated, while Neon (1523), Fable 5.2 (1477 raw) and Argon (1532 to 1528) all sit below it. (c) NO path: a mid-December Gemini 4.1 or higher Carbon tier, given Google's near-monthly cadence, or GPT-6.2 (released 11-17, Arena score unknown) or a surprise Opus debuts at 1550+ with enough votes to be listed by year-end. (d) YES path: no confirmed December flagship lands in time; recent Google steps added only 3-8 points, Grok 4.8 is 'not yet incredible', OpenAI's best listed model is ~1471, and voting lag pushes late launches past the deadline. The market at 56% (bid 52/ask 60) and the sibling first-to-1550 markets (about 45% that some company gets there) price substantial release risk; the research finds no confirmed catalyst, so I lean modestly above the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7996",
+   "has_trace": true
+  },
+  {
    "id": 7128,
    "scanned_at": "2026-11-13T21:33:26.637218",
    "date": "2026-11-13",
@@ -15192,6 +15220,20 @@
   }
  ],
  "OpenAI announces it has achieved AGI before 2027?": [
+  {
+   "id": 7999,
+   "scanned_at": "2026-11-24T11:29:42.591610",
+   "date": "2026-11-24",
+   "agent": 5.8,
+   "market_price_t0": 7.5,
+   "edge": -0.017499999999999995,
+   "confidence": 0.7,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) Resolution check: the resolving condition has not been met. OpenAI's news page and RSS feed through Nov 23, 2026 contain no AGI declaration. Brockman's Sept 3 \"Welcome to the AGI era\" was hedged and has not been treated as a Yes. The Nov 16 Semafor clip was a misquote; Altman's full line said there is no clean point where \"now we do\" have AGI. (a) About 37 days remain until the Dec 31, 2026 ET deadline. (b) Status quo is No: OpenAI passed up a declaration at its two best chances, the GPT-6 Astra launch and the GPT-6.2 release with a perfect ARC-AGI-3 score. No December event or contractual trigger is scheduled, since the Microsoft AGI clause has been removed. (c) NO: OpenAI keeps the year-end milestone internal or hedged. Altman continues to say AGI has no clean line, and the safety caution after the mid-2026 incidents persists. (d) YES: Altman follows through on his TIME comment about an internal system he'd call AGI by year-end, with an explicit year-end post or a December release saying \"we have built AGI.\" A loosely worded Brockman-style statement could also be read as a declaration through \"consensus of credible reporting.\" Anchor: Polymarket mid is 7.5%, and Kalshi's broader \"any company achieves AGI by 2027\" is about 4%. With time decay and Altman's recent de-emphasis of the term, I shade slightly below the market to about 6%. I keep tail weight for Altman's self-imposed deadline and for resolution ambiguity.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7999",
+   "has_trace": true
+  },
   {
    "id": 7430,
    "scanned_at": "2026-11-17T11:03:14.466848",
@@ -21003,6 +21045,20 @@
  ],
  "Edi Rama out as Albania PM in 2026?": [
   {
+   "id": 7967,
+   "scanned_at": "2026-11-24T03:07:28.947291",
+   "date": "2026-11-24",
+   "agent": 6.3,
+   "market_price_t0": 9.5,
+   "edge": -0.0325,
+   "confidence": 0.71,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.07). (0) The resolving condition has not been met. The government site's posts through Nov 19, ATA on Nov 22, and Wikipedia all show Rama as sitting PM, with no resignation or removal announced. (a) About 37 days remain until Dec 31, 2026. A YES needs an announced resignation or removal inside that window. (b) Status quo is NO. Rama has an 82–83 seat majority out of 140, and parliament is passing the 2027 budget. He keeps saying governments change only through elections, and his term runs to 2029. (c) NO scenario: the Nov 28–29 protests come and go like the earlier waves. Rama keeps pushing EU accession and riding out the protests, and the internal Socialist rivalries stay pointed at the May 2027 local elections. (d) YES scenario: turnout on Nov 28–29 is unprecedented and turns deadly, or the Socialist bloc splits. Rama could then announce a handover, or a SPAK probe could suddenly reach him personally; neither path shows any precursor yet. Removal under Art. 105 would need 71 votes, so at least a dozen Socialist MPs would have to defect, which is not plausible in five weeks. The market's 9.5% (up 3 points this week, likely pricing the Nov 28 rally) looks inflated by long-shot bias. I shade below it to about 5.5%, keeping some tail for a shock resignation, health, or an escalation.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7967",
+   "has_trace": true
+  },
+  {
    "id": 7393,
    "scanned_at": "2026-11-17T01:43:04.984336",
    "date": "2026-11-17",
@@ -22452,7 +22508,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-24T02:12:17.654Z",
+  "last_sync": "2026-11-24T13:41:29.653Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -27541,6 +27597,20 @@
  ],
  "Will Ulrich Siegmund be the next Minister-President of Sachsen-Anhalt?": [
   {
+   "id": 7969,
+   "scanned_at": "2026-11-24T03:27:04.187847",
+   "date": "2026-11-24",
+   "agent": 73,
+   "market_price_t0": 75.5,
+   "edge": -0.025000000000000022,
+   "confidence": 0.53,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.73, 0.73). (0) The resolving condition has not been met. The Landtag's Minister-President page still lists only Schulze's January 2026 election, Schulze is caretaker, and the first vote is scheduled for 8 December. The contract's real deadline is 31 May 2027, not the 7 September trading close.\n(a) That leaves about six months for an election and swearing-in.\n(b) If nothing changes, Schulze stays caretaker, which resolves No/Other. Nothing obliges the Landtag to hold a vote by any date.\n(c) NO scenario: all 39 CDU/SPD/Green/Linke members hold their line. Siegmund gets no 42 in rounds 1–2, and in round 3 it ends 39–39 with BSW abstaining. Alternatively, the anti-AfD bloc plus BSW unites behind a nonpartisan candidate, or the deadlock simply runs past May 2027.\n(d) YES scenario: the secret ballot lets three CDU members (Heuer and others rumoured) push Siegmund to 42 on 8 December. Failing that, dissolution fails, since it needs a majority of members and is possibly barred in the first six months, and round 3 follows. There a single absence, abstention or defection among the 39 opponents is enough. A split field (von Angern for the Linke, whom the CDU is unlikely to back) could also give Siegmund a plurality of votes cast.\nThe 6 October election of AfD's Rausch as Landtag president with 48 votes shows the opposition leaks in secret ballots, and Siegmund is visibly confident in moving the vote up.\nAgainst this: no AfD Minister-President has ever been elected, a third-round result could face constitutional challenge, and BSW or the CDU could still coordinate on an alternative candidate.\nThe market's 75.5% (bid 72%, ask 79%) is a reasonable anchor, and I see no unpriced information strong enough to move far from it, so I shade slightly lower to 73%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7969",
+   "has_trace": true
+  },
+  {
    "id": 3363,
    "scanned_at": "2026-09-23T19:17:18.250928",
    "date": "2026-09-23",
@@ -28803,6 +28873,20 @@
  ],
  "Will David Lisnard advance to the second round of the next French presidential election?": [
   {
+   "id": 7973,
+   "scanned_at": "2026-11-24T04:27:54.426493",
+   "date": "2026-11-24",
+   "agent": 23,
+   "market_price_t0": 28.8,
+   "edge": -0.058499999999999996,
+   "confidence": 0.5,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.22, 0.24). (0) Not resolved: first round is 18 Apr 2027; latest polls (Harris 18-19 Nov 11-12%, Ifop/Elabe/YouGov/OpinionWay 8-12%) put Lisnard 6-9 points below Mélenchon's ~18-19% second-place line, top-two in 0 of 46 recent scenarios. (a) ~5 months remain, with a possible right/centre primary in late January as the pivotal event. (b) Status quo — a fragmented right/centre — yields a Le Pen–Mélenchon runoff, i.e. No. (c) No: primary collapses or Attal wins it, Philippe stays in, Lisnard plateaus near 10%, and the left consolidates behind Mélenchon after Ruffin's exit. (d) Yes: Lisnard wins a primary including Zemmour (he led the Ifop primary poll at 29% and gets most Horizons transfers), Philippe fades, and he consolidates a ~30% bloc to pass Mélenchon, who led the single-candidate challenger by only ~1 point in Ifop runs; a cassation ruling on Le Pen is a further tail. Momentum is real (2% to 11% since June), but the reference class for a ~10% candidate without a major party is weak. I estimate ~35% he becomes the consolidated candidate times ~45-50% to beat Mélenchon, plus small other paths, which is about 20%. The Polymarket anchor is 28.85% and rising; I shade below it because the research shows no specific unpriced catalyst justifying ~30%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7973",
+   "has_trace": true
+  },
+  {
    "id": 7552,
    "scanned_at": "2026-11-18T23:14:50.392090",
    "date": "2026-11-18",
@@ -29302,6 +29386,20 @@
   }
  ],
  "Will Missouri enact a data center moratorium by June 30, 2027?": [
+  {
+   "id": 7978,
+   "scanned_at": "2026-11-24T05:28:50.162046",
+   "date": "2026-11-24",
+   "agent": 6.5,
+   "market_price_t0": 11.5,
+   "edge": -0.05,
+   "confidence": 0.67,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.06). (0) Resolution check: nothing is resolved. The House bill list and November 2026 trackers show no statewide Missouri moratorium enacted or even proposed. The only 2026 pause bill covered St. Louis alone and died in committee, and local moratoriums such as Springfield, Jackson County and St. Charles do not count. (a) About seven months remain, but the only realistic window is the 2027 regular session: prefiling opens Dec 1, the session runs Jan 6 to May 14, and a bill must be signed by June 30, before the governor's July 15 deadline. A veto override could only happen at the September veto session, which is too late. (b) If nothing changes, the answer is No: no bill exists, and Speaker Patterson and Gov. Kehoe both frame data centers as a local issue. (c) NO scenario: the Future Caucus rate-class and guardrails bill, or the Byrnes transparency bill, advances or stalls. Either way it fails the 'prohibited by default' test, and the EO 26-02 review produces study recommendations rather than a pause. (d) YES scenario: post-midterm backlash (Hawley's federal call, local ballot wins, GOP candidates backing a pause) leads to a prefiled six-month statewide pause on facilities over 100 MW. It clears both Republican chambers by May 14 and Kehoe signs it or lets it become law before June 30. The base rate is strongly against this: 0 of 11 states with moratorium bills enacted one by statute in 2025–26. I anchor on the Polymarket price of 11.5% and shade down modestly, because the governor's opposition and the absence of any vehicle seem underweighted, though real populist pressure keeps me above the floor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7978",
+   "has_trace": true
+  },
   {
    "id": 3591,
    "scanned_at": "2026-09-30T07:16:07.278773",
@@ -30254,6 +30352,20 @@
   }
  ],
  "Will Indiana enact a data center moratorium by December 31, 2028?": [
+  {
+   "id": 7966,
+   "scanned_at": "2026-11-24T02:28:13.129757",
+   "date": "2026-11-24",
+   "agent": 16,
+   "market_price_t0": 30.5,
+   "edge": -0.145,
+   "confidence": 0.5700000000000001,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.14, 0.18) after one crux research pass. (0) Not met: trackers (ServerCountry, ThirstyGrid, ElectricChoice) show no statewide Indiana moratorium; only local measures exist, which are excluded. YES needs the General Assembly to pass a mandatory statewide pause in 2027 (convenes 2027-01-12) or the 2028 short session, signed by Braun or passed over his veto. (a) About 25 months remain, covering only two sessions; Indiana has no citizen initiative. (b) Status quo is NO: no prefiled bill, no leadership sponsor, Republicans still hold both chambers (House 54-46), and Braun is pro-data-center with a local-control framing. (c) NO: 2027 brings a sales-tax-exemption rollback (GiaQuinta's stated push), tariffs or local control, all excluded by the rules; the base rate is 0 statutory statewide moratoria from 30+ bills in 2025-26, and Maine's was vetoed. (d) YES: backlash (69% oppose new data centers, about 16 GOP House seats flipped, Huston and Soliday ousted) lets a populist coalition pass a 100MW+ pause that Braun accepts. The market's 30.5% looks inflated by a long-dated YES premium seen across similar state markets, so I discount to about 14%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7966",
+   "has_trace": true
+  },
   {
    "id": 3738,
    "scanned_at": "2026-10-02T11:07:38.360727",
@@ -35587,6 +35699,20 @@
  ],
  "Will the lowest Baton Rouge river level be 6.00 ft or more by November 30?": [
   {
+   "id": 7987,
+   "scanned_at": "2026-11-24T08:16:32.384477",
+   "date": "2026-11-24",
+   "agent": 43,
+   "market_price_t0": 54.2,
+   "edge": -0.11200000000000004,
+   "confidence": 0.44499999999999995,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.42, 0.44) after one crux research pass. (0) Not yet decided: the USGS daily-value feed through Nov 22 shows a window minimum of 6.38 ft (Nov 9) and 8.07 ft on Nov 22, with no day below 6.00. Yes fails only if a daily mean from Nov 23 to Nov 30 drops under 6.00. (a) Eight daily means remain (Nov 23-30). (b) Status quo is recession of about 0.24 ft/day from 8.55 ft with every upstream station falling. The NWS forecast issued Nov 23 runs 7.6, 7.4, 7.2, 6.6, 6.3 through Nov 27, about 0.5 ft below the prior issuance. The NOAA 6-hourly forecast, as read, crosses 6.0 at Nov 30 00Z for a Nov 30 mean near 5.6-5.7; the follow-up could not confirm those values but confirmed it ends near 4.7 ft in early December. (c) No: the recession continues and, even with the roughly 0.1-0.17 ft USGS-above-NWS offset, the Nov 30 USGS mean lands near 5.8. (d) Yes: the fall slows (the stage bounced to about 8.16 ft on Nov 23, upstream falls are decelerating, Wednesday's tributary rain could stall it) and the offset holds Nov 30 at or above 6.00. The margin is a few tenths on a 7-day forecast, so I sit modestly below the market's 0.54 mid.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7987",
+   "has_trace": true
+  },
+  {
    "id": 7646,
    "scanned_at": "2026-11-20T03:57:25.744493",
    "date": "2026-11-20",
@@ -36258,6 +36384,20 @@
   }
  ],
  "Houthis capture Taiz city by December 31?": [
+  {
+   "id": 7990,
+   "scanned_at": "2026-11-24T08:54:23.920337",
+   "date": "2026-11-24",
+   "agent": 11.5,
+   "market_price_t0": 17.5,
+   "edge": -0.06,
+   "confidence": 0.6,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.11). (0) Nothing has resolved yet. Al Jazeera (23 Nov), Asharq Al-Awsat (24 Nov) and Arab News all describe Taiz city as government-held but encircled. No source reports Houthi forces inside the city or near Al-Qahira Castle, which sits on the northern slope of Mount Sabr inside the defended core.\n\n(a) About five weeks remain until 31 Dec 2026 at 11:59 PM ET.\n\n(b) If nothing changes, the siege continues without a breach, and siege or encirclement explicitly does not count. That status quo resolves NO.\n\n(c) NO scenario: government and Islah-aligned units keep repelling attacks around Sabr, al-Aqroudh and Kahlan with Saudi air support. The Houthis keep strangling the city rather than storming it, as ACLED, RUSI and New Arab analysts describe. Meanwhile they put their effort into Aden and strikes on Saudi Arabia, or a mediated truce freezes the lines.\n\n(d) YES scenario: siege starvation breaks the defenders' cohesion. Food stocks are about 10% of needs and fuel deliveries are down about 97%. The Houthis then break in from Hawban or the north, take the city centre and the castle slope, and video confirms it before year-end. A negotiated surrender is a less likely variant.\n\nThe market anchor is 17.5% and has fallen 29 points in 30 days, consistent with the offensive stalling at the city's edge. The Houthis have not entered central Taiz in 11 years. The strict requirement that control be clearly evidenced and not contested, plus the castle being one of the last positions to fall, push me a bit below the market. The government's continued setbacks elsewhere, such as Bab al-Mandab, and the severity of the siege keep real tail risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7990",
+   "has_trace": true
+  },
   {
    "id": 7047,
    "scanned_at": "2026-11-12T22:23:06.139632",
@@ -37376,6 +37516,20 @@
   }
  ],
  "Will Iran sabotage undersea internet cables by December 31?": [
+  {
+   "id": 8004,
+   "scanned_at": "2026-11-24T12:56:33.664452",
+   "date": "2026-11-24",
+   "agent": 8.3,
+   "market_price_t0": 10.5,
+   "edge": -0.022499999999999992,
+   "confidence": 0.62,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.08). (0) Not met: as of ~Nov 22–24, credible reporting shows no cable damage attributed to Iran or a proxy, and the Nov 18 SMW5 fault off Karachi has no identified cause (regulator, Transworld, Tom's Hardware), with repair due Dec 6. (a) About 37 days remain until Dec 31, 11:59 PM ET. (b) Status quo is No: threats since March are conditional on renewed war, eight months of conflict produced zero confirmed cuts, and an Iranian official said a cut was discussed but not ordered. (c) NO: the blockade stalemate continues with Qatar mediating, the US prefers economic pressure, the SMW5 repair finds a mundane cause, and Houthi ship attacks stay sparse (latest Oct 4). (d) YES: US/Israeli strikes resume after the midterms and Iran uses its reported plans and pre-positioned vessels over Gulf of Oman cables; or a Houthi strike causes an anchor drag across Red Sea cables (Rubymar precedent); or SMW5 is later attributed to Iran. With ~28% odds of renewed fighting (ceasefire market) and ~20–25% chance of an attributed cut if war resumes, plus small other paths, I get ~8–9%, slightly below the market's 10.5% because attribution is hard and the three-day adjudication window favours No.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8004",
+   "has_trace": true
+  },
   {
    "id": 7436,
    "scanned_at": "2026-11-17T12:40:16.279761",
@@ -40247,6 +40401,20 @@
  ],
  "Jensen Huang divorce by December 31, 2026?": [
   {
+   "id": 7971,
+   "scanned_at": "2026-11-24T04:20:56.475532",
+   "date": "2026-11-24",
+   "agent": 9,
+   "market_price_t0": 12.7,
+   "edge": -0.036500000000000005,
+   "confidence": 0.62,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.09). (0) The condition has not been met. Coverage dated Nov 23–24 (Forbes, NZ Herald, Today, Finchannel) says no divorce has been filed or announced, and Lori Huang has made no public statement; the claimed filings on social media are satire or unsourced. (a) About five weeks remain until the Dec 31, 2026, 11:59 PM ET deadline, and they cover the holidays. (b) If nothing changes, the market resolves No: the couple is still married, Jensen was reinstated as CEO on Nov 23 and thanked his family for its 'love and support', and Trump told the NYT the couple had 'worked it out'. (c) No path: the attorneys quoted (Newman, Trombetti, Ziegler) all expect a quiet, delayed approach, with Newman suggesting they 'take it a year'. A private separation or financial settlement keeps the record clean through year-end. With trusts jointly controlled and the stock up about 31% on the reinstatement, both spouses have reasons not to start a public community-property fight now. (d) Yes path: Lori decides the marriage is over and retains counsel, or a new revelation pushes her to act. She files a dissolution petition in Santa Clara County, or a representative announces a split, and the news surfaces before Dec 31. The reinstatement removes the 'protect the company' reason to wait, and the reported fourth affair makes further damaging news more likely. The market anchor is 12.65% and has drifted up about 3.65 points this week, but I found no new marriage-specific facts behind that move. The reinstatement statement and Trump's comments point toward reconciliation or delay, so I shade slightly below the market to about 9%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7971",
+   "has_trace": true
+  },
+  {
    "id": 7326,
    "scanned_at": "2026-11-16T05:32:47.219584",
    "date": "2026-11-16",
@@ -40574,6 +40742,20 @@
   }
  ],
  "Will there be no next Gemini Carbon model (4.1+) release by December 31, 2026?": [
+  {
+   "id": 7984,
+   "scanned_at": "2026-11-24T07:36:52.294048",
+   "date": "2026-11-24",
+   "agent": 86.5,
+   "market_price_t0": 82,
+   "edge": 0.04500000000000004,
+   "confidence": 0.64,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.86, 0.87). (0) Not resolved. Google's official pages (AI Studio docs, the DeepMind Gemini page, Cloud docs as of Nov 21) list gemini-4-carbon from Nov 10 as the newest Carbon model, with no 4.1 Carbon or 5 Carbon, so the 'no release' condition is still pending.\n(a) About 37 days remain until Dec 31, 2026, and the late-December holiday period trims that window.\n(b) The status quo resolves Yes. Google's Gemini 4 line expands by new element names (Argon, Carbon, Hydrogen, Neon, with Helium teased and Krypton rumoured), not by version bumps. The only internal precedent, Gemini 3 to 3.1 Pro, took about 3 months.\n(c) A No outcome needs Google to rebrand a stronger checkpoint, such as the rumoured Krypton, as 'Gemini 4.1 Carbon' or 'Gemini 5 Carbon' and make it fully public before Dec 31. It has to get through the staged rollout that delayed Carbon by 13 days, and nothing has leaked through a pipeline (web code, SKU catalog, CLI strings) that flagged Neon in advance.\n(d) Yes follows if Google keeps shipping element-named models (Helium, Krypton) or nothing at all.\nThe market anchor is 82%. I move modestly above it because the research shows no Carbon-versioned signal and a clear element-naming convention. I keep meaningful No mass because Google's naming has been noisy and the market drifted down about 10 points this month, possibly on information I don't have.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7984",
+   "has_trace": true
+  },
   {
    "id": 7416,
    "scanned_at": "2026-11-17T07:07:06.116788",
@@ -41242,6 +41424,102 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.26, 0.27). (0) Nothing is resolved yet: Ornn's page (last settle Nov 22, $2.91) has no December values, and YES needs the mean of all 31 December settles above $3.10. (a) Resolution covers the December 1–31 settles, with the market closing Jan 1, 2027, so the index has about 5.5 weeks to move. (b) Status quo is NO: the last six settles averaged about $2.89, all below $3.10, and September/October averaged $2.83/$2.94; November's $3.15 rested on an early spike that has reversed. (c) NO: the index stays in its $2.8–3.0 on-demand regime, and Ornn's transacted series keeps ignoring the bullish rate-card and CoreWeave narrative, as it did through November. (d) YES: Ornn reverts toward Silicon Data's steady $3.09–3.10 neocloud level, and rate-card hikes and tight supply push transacted prices back to $3.2+ for most of December. Month-to-month moves of ±4–7% imply roughly 20–25% for a required +6.5% move, with mild mean reversion toward the $3.13 30-day median adding a little. The sibling ladder ($3.00 at ~40%, $3.20 at ~17%) interpolates to about 28%, so I shade slightly below the 29.5% mid.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/7941",
+   "has_trace": true
+  }
+ ],
+ "Jensen Huang announced resignation or removal again by December 31, 2026?": [
+  {
+   "id": 8007,
+   "scanned_at": "2026-11-24T13:37:23.995523",
+   "date": "2026-11-24",
+   "agent": 6,
+   "market_price_t0": 6.7,
+   "edge": -0.007000000000000006,
+   "confidence": 0.64,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) Not met. NVIDIA's newsroom shows the Nov 23 reinstatement, a unanimous board vote recorded in the 8-K, and no later announcement that Huang is resigning or being removed. The Nov 12 resignation is excluded by the rules. (a) About 37 days remain, to Dec 31, 2026 at 11:59 PM ET. (b) If nothing changes, Huang stays CEO and the market resolves No. The board just reversed itself under heavy market pressure (the stock rose 31%) and White House pressure, and administration officials reportedly told it there would be no criminal charges and no national security risk. Both pressures now favour keeping him. (c) NO scenario: Huang gets through the Dec 1–3 House and Senate appearances. The independent committee either does not finish by year-end or finishes without a decisive adverse finding, and he stays. (d) YES scenario: the committee's investigation, which the board did not wait for, finds Huang was not candid. Or a new disclosure emerges, such as a fourth affair, which the related market prices at about 95%, or Megaspeed details. The board then announces a second exit or a negotiated transition before Dec 31. The board has shown it can move within days, but a second reversal would be very costly for it, and boomerang CEOs (Altman, Mullenweg) were not re-removed within weeks. I anchor on the 6.7% Polymarket mid. The research surfaces no unpriced shock, and the likely fourth affair report appears already reflected in the price, so I stay slightly below it at 6%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8007",
+   "has_trace": true
+  }
+ ],
+ "Will Ukraine sign an EU accession treaty by December 31, 2027?": [
+  {
+   "id": 8001,
+   "scanned_at": "2026-11-24T12:10:24.718337",
+   "date": "2026-11-24",
+   "agent": 4,
+   "market_price_t0": 8,
+   "edge": -0.04,
+   "confidence": 0.8200000000000001,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.04). (0) Nothing shows the condition already met. The Commission's Ukraine page (newest item 20 Nov 2026) still lists Ukraine as a candidate country, with no chapters closed and no treaty drafted or signed. (a) About 13 months remain until the 31 Dec 2027 deadline. (b) Status quo is NO: Ukraine has not yet opened clusters 4–5 (expected around 15 Dec), has no IBAR and has not closed a chapter. The Commission roadmap (Politico, 4 Nov 2026) projects only 7 provisional closures in 2027, with an indicative finish at end-2028. (c) NO scenario: chapters close slowly through 2027, Hungary under Magyar keeps rejecting acceleration and promises a referendum, and the treaty drafting working party is not even created. Even front-runner Montenegro only targets a June 2027 signing after about 14 months of drafting. (d) YES scenario: a peace deal pushes the EU to sign an early, conditional or 'membership-lite' accession treaty in late 2027, with entry tied to later reforms. This would need unanimity, including Hungary and Slovakia, and the reverse-enlargement idea that would enable it was called 'dead' by diplomats. The historical base rate of no signing within about 3.5 years of opening talks, plus Kyiv's repeatedly slipped timelines, supports staying slightly below the market mid of 8% (bid 6%, last trade 5%). I put YES at about 4%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8001",
+   "has_trace": true
+  }
+ ],
+ "Will USD be between 3.0M and 3.5M Iranian rials on December 31?": [
+  {
+   "id": 7993,
+   "scanned_at": "2026-11-24T09:32:57.691699",
+   "date": "2026-11-24",
+   "agent": 50,
+   "market_price_t0": 56,
+   "edge": -0.06000000000000005,
+   "confidence": 0.51,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.50, 0.50). (0) The question is not resolved. Bonbast's homepage at 13:02 Tehran time on Nov 24 showed the dollar at 281,800 toman (about 2.818M rials). That is below the 3.0M floor, so the rate needs roughly a 6.5% further rise that holds on the single day of Dec 31. (a) About 37 days remain until the Dec 31 figure, which is finalized when the next day's figure is posted. (b) Status quo means NO. The rate drifted sideways at 2.6–2.8M for about 7 weeks after the Sept–Oct surge, and a flat path ends in the 2.5–3.0M bracket. (c) NO path: Qatar-mediated diplomacy or some blockade easing, plus central bank cash sales, push the rate back toward 2.7M. Or the rate keeps drifting up 1–2% a month and finishes around 2.85–2.95M. (d) YES path: oil revenue hits zero in mid-December, as Kpler projects. With near-90% inflation, monetary base growth near 90%, Bessent's shadow-banking pressure and dollar buying ahead of strikes Trump has signalled for after the new year, the rate breaks 300k toman. Today's move to new highs (AlanChand 2.825M, up 2.8%) shows that momentum. A simple lognormal centred near 3.0M, with about 10% volatility over 37 days, gives about 43–48% for this bracket. Escalation risk fattens the upside but is capped by the 3.5M ceiling. The market's 56% mid, after a +25-point week, looks a bit rich against a plateau that has mostly retraced its spikes. I shade it to about 50%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7993",
+   "has_trace": true
+  }
+ ],
+ "Will the average Ornn H100 rental price in January 2027 be above $3.00?": [
+  {
+   "id": 7981,
+   "scanned_at": "2026-11-24T06:56:33.691322",
+   "date": "2026-11-24",
+   "agent": 49,
+   "market_price_t0": 47.5,
+   "edge": 0.015000000000000013,
+   "confidence": 0.485,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.49, 0.49). (0) Nothing is resolved yet. The resolution source (data.ornn.com) shows Nov 23 2026 as the latest settle, and January 2027 values will only exist from Jan 1–31, finalized by about Feb 7. (a) About two months remain before the averaging window opens, and roughly 2.3 months until it closes. (b) Status quo: the index is $3.03 on Nov 23 and the 30-day median is $3.10, but the last 7 days averaged about $2.92. Monthly averages have gone Sep $2.83, Oct $2.94, Nov-to-date $3.15, so a flat-line January sits right at the strike. (c) NO: the early-November $3.5 spike keeps reverting toward the ~$2.9 level, as the Sept 7 spike did. Blackwell supply or the AI-equity sell-off (Nvidia down ~50% from its October high) softens short-term demand, and January averages around $2.85–2.95. (d) YES: the Hopper tightness that CoreWeave and Nvidia describe (prices rising 30–50% QoQ and \"continued higher in Q4\", recontracts at up to 2x) persists. Ornn's late-November dip proves to be thin-sample noise, since Silicon Data held $3.01–3.13 throughout, and the 2026 uptrend carries January to $3.05–3.20. The Polymarket anchor is 47.5%, and the December >$3.00 sibling trades at 46.5%, which is consistent. The monthly averages have risen steadily (Sep→Nov) and the demand backdrop is firm, which slightly offsets the recent downward momentum and the strict-\"above\" tie rule. I therefore land near a coin flip, marginally above the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7981",
+   "has_trace": true
+  }
+ ],
+ "Will Erling Haaland rank in Google’s Top 5 Most Searched People of 2026?": [
+  {
+   "id": 7979,
+   "scanned_at": "2026-11-24T06:16:20.959979",
+   "date": "2026-11-24",
+   "agent": 42,
+   "market_price_t0": 43.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.45,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.42, 0.42). {\"rationale\":\"(0) The condition is not met yet. Google's 2026 Year in Search page returns HTTP 404 and the hub still shows 2025. Past editions came out between Dec 5 and Dec 13, so the result should be known within about three weeks. The March 31, 2027 backstop almost certainly won't matter. (a) That leaves about 3 weeks to publication, and the data window has effectively closed already (cutoff around Nov 25).\\n\\n(b) There is no status quo in the usual sense. The ranking is fixed by search data that has already accrued. Anchors: Polymarket at 43.5%, and Kalshi's same question at about 49%, an independent crowd. Haaland's price has faded from 62–77% in September.\\n\\n(c) The NO case: Google ranks year-over-year growth. Haaland's 2025 baseline was large, which caps his ratio. Near-zero-baseline rivals take the five slots: Clancy, Huang, Bad Bunny, Maduro, and Lula or Flávio Bolsonaro. In 2021–2025 only two footballers reached the global top 5, and both were shock-event stories (Eriksen, Mbappé).\\n\\n(d) The YES case: the in-window, US-hosted World Cup produced a 900% worldwide rise in searches for Haaland (CBC, citing Google Trends). Google promoted it with a Viking Row search animation, and he became a crossover global phenomenon who leads the athlete markets. Because that spike was global and multilingual, he could outrank several single-region political or scandal spikes.\\n\\nThe research adds nothing decisive beyond what the market already prices. The structural base rate leans slightly to NO, so I sit just below the market mid, between the Polymarket and Kalshi prices.\",\"confidence\":0.4,\"unverified_claims\":[\"Google's 2026 methodology again ranks people by year-over-year growth with a late-November cutoff\",\"Haaland's full-year worldwide search growth versus his 2025 baseline is large enough to compete with near-zero-baseline newsmakers\",\"Jensen Huang's resignation and Lindsay Clancy's trial generated globally top-5-scale search spikes\"]}",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7979",
+   "has_trace": true
+  }
+ ],
+ "US announces end of Iranian blockade by December 31, 2026?": [
+  {
+   "id": 7963,
+   "scanned_at": "2026-11-24T02:24:07.352706",
+   "date": "2026-11-24",
+   "agent": 13,
+   "market_price_t0": 15.2,
+   "edge": -0.02149999999999999,
+   "confidence": 0.62,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.13). (0) No source shows the condition met: CENTCOM (Nov 7) and news from Nov 21–23 show the blockade enforced and tightening, and the White House has issued no lift; YES needs an official general end or suspension by Dec 31. (a) About 37 days remain. (b) If nothing changes the blockade persists, and Trump's stated next decision point (strikes) is 'after the New Year', past the deadline. (c) NO: mediation stalls over sequencing and enrichment, Trump keeps strangling Iran economically, and any easing is partial or conditional, so it fails the clear-announcement test. (d) YES: the Qatari two-day draft is accepted in December and the US lifts the blockade on day one, announced quickly as in the June precedent, driven by fuel prices and the midterm loss. I anchor on the 15% market, which fits the sibling term structure (7.5% by Dec 15, 24.5% by Jan 31), and shade slightly lower given the latest hawkish signals and the absence of any scheduled signing.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7963",
    "has_trace": true
   }
  ]

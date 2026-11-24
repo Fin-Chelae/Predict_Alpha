@@ -2185,6 +2185,20 @@
  ],
  "Will Venezuela recognize Israel by December 31?": [
   {
+   "id": 7948,
+   "scanned_at": "2026-11-23T22:19:59.300629",
+   "date": "2026-11-23",
+   "agent": 6.5,
+   "market_price_t0": 8.5,
+   "edge": -0.020000000000000004,
+   "confidence": 0.69,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.06). (0) Resolution check: no source shows the condition met. The 11 Aug 2026 joint statement set up only a consular coordination mechanism, with no embassies or ambassadors. The 16–18 Nov Venezuelan delegation was a technical team from Public Works (per AVN) attending an emergency-preparedness conference. As of 17–23 Nov, reports say full relations have not been restored.\n(a) About five weeks remain until 31 Dec 2026, and I found no scheduled signing, ambassador accreditation or embassy reopening in that window.\n(b) If nothing changes, this resolves No. Venezuela never revoked its 1948–49 recognition; the 2009 break was a rupture of relations. A strict reading therefore needs a fresh formal act that no one is signalling.\n(c) No scenario: ties keep warming through consular, technical and energy channels (NewMed's deal, crude shipments). Rodríguez stays cautious because of Chavista and Arab-community backlash, and Israel is absorbed by coalition formation.\n(d) Yes scenario: Sa'ar and Plasencia announce restored full diplomatic relations or an ambassador exchange before year-end, mirroring the fast US normalisation and the regional consular-then-ambassador pattern. A lenient resolver would then count that as 'formal recognition'.\nThe market sits at 8.5% (bid 7, ask 10), and secondary sites flagged a dispute. That suggests some residual resolver ambiguity, but the August step was not counted and the price collapsed from its spike. I shade slightly below the mid at 7%, given no sign of an imminent upgrade and the extra requirement that any upgrade be read as recognition.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7948",
+   "has_trace": true
+  },
+  {
    "id": 6080,
    "scanned_at": "2026-10-31T20:40:42.205473",
    "date": "2026-10-31",
@@ -5060,6 +5074,20 @@
   }
  ],
  "Will Trump's approval rating hit 35% in 2026?": [
+  {
+   "id": 7959,
+   "scanned_at": "2026-11-24T01:26:18.183905",
+   "date": "2026-11-24",
+   "agent": 17.5,
+   "market_price_t0": 27,
+   "edge": -0.09500000000000003,
+   "confidence": 0.555,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.15, 0.20). (0) Not resolved. No source shows Silver Bulletin's green line at or below 35.0% at any point in 2026. Its record low is about 36.2–36.3% (late October, and Nov 19 per Wikipedia). The Nov 23 page reads 37% after a rebound to 38%. Sibling Polymarket markets for Nov 27 (at least 37 priced at 91.5%, at least 38 at 38.5%) imply the line is around 37.5% now.\n(a) About 37 days remain, through Dec 31, and the late-December value must be finalized by Jan 4.\n(b) Status quo is No. The line needs to fall about 2–2.5 points from where it sits, to roughly 1.2 points below its all-time low. Each previous trough has set a new low by only 0.1–0.3 points and then rebounded 1–2 points.\n(c) No scenario: the heavily smoothed average keeps oscillating in the 36–38% band. Thin holiday polling slows movement, and the year ends near 36–37%.\n(d) Yes scenario: a cluster of post-midterm low-30s polls (Reuters/Ipsos 32, YouGov 32, Verasight 31, ARG 29) plus a new shock, such as gas prices, Iran or a price spike, pushes the average down about 2 points by mid-to-late December. Other aggregators like FiftyPlusOne (34.5%) are already below 35, which shows it is possible.\nThe market sits at 27% after a +13.5% weekly jump, likely reacting to the Nov 19 low. Since then the line has rebounded, and the required move exceeds the recent 10-week range of drift. I therefore shade below the market to about 15%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7959",
+   "has_trace": true
+  },
   {
    "id": 7673,
    "scanned_at": "2026-11-20T12:08:28.972418",
@@ -9503,6 +9531,20 @@
  ],
  "Will NVIDIA be the largest company in the world by market cap on December 31?": [
   {
+   "id": 7930,
+   "scanned_at": "2026-11-23T15:48:28.213085",
+   "date": "2026-11-23",
+   "agent": 20.5,
+   "market_price_t0": 23.4,
+   "edge": -0.028999999999999998,
+   "confidence": 0.575,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.21, 0.20). (0) Not resolved. CompaniesMarketCap and FMP data on 2026-11-23 show Apple #1 at about $5.10T and NVIDIA #2 at about $4.06T after a roughly 34% intraday surge. That surge followed the board's 8-K reinstating Jensen Huang as CEO. (a) There are about 27 trading days until the Dec 31 close, and only that single close counts. (b) Status quo: Apple leads by about $1.03T, so if nothing changes the answer is No. (c) NO path: the rebound fades as a 'mechanical' bounce. The SEC probe, the board investigation, congressional hearings or AI-sector weakness keep NVDA below about $210 while Apple holds about $5T as the defensive name. (d) YES path: the governance discount keeps unwinding toward the roughly $245 analyst targets on a 12x forward multiple, with record revenue and the AI trade recovering. NVDA reaches $212 or more relative to a flat or slipping Apple by Dec 31, which retakes #1 as it held through October. Assuming relative volatility of roughly 75-90% annualized over about 0.1 years, a 26% relative move is about a 0.9 sigma event, implying roughly 18-25%. That is consistent with the Polymarket mid of 23.4%; the bid is 21% and the ask 26%. I shade slightly below the mid given the open probe risks and the fact that only one close counts.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7930",
+   "has_trace": true
+  },
+  {
    "id": 7177,
    "scanned_at": "2026-11-14T10:59:43.413503",
    "date": "2026-11-14",
@@ -12376,6 +12418,20 @@
   }
  ],
  "Will Solana dip to $60 by December 31, 2026?": [
+  {
+   "id": 7925,
+   "scanned_at": "2026-11-23T14:33:50.168920",
+   "date": "2026-11-23",
+   "agent": 27.5,
+   "market_price_t0": 31.6,
+   "edge": -0.04149999999999998,
+   "confidence": 0.575,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.27, 0.28). (0) Binance's own SOLUSDT monthly klines show the lowest low since the window opened was 60.13 (June 2026) and the November low so far is 64.87, so the market is unresolved. A fresh 1-minute wick to $60.00 or below is needed by Dec 31, 23:59 ET. (a) About 38 days remain. (b) Status quo is No: SOL is at about $77.5–77.8 per the Binance data and CoinGecko after an 11% 24h bounce, so a touch needs roughly a 22% drop, not the ~17% the research reports assumed from $72. (c) No: the $60 floor holds again, as in June, and the oversold bounce (RSI near 15) plus negative funding turns into a short squeeze, leaving SOL in a $65–85 range into year-end. (d) Yes: a December Fed hike or hot Core PCE drags BTC toward the mid-$50s (Wintermute's warning, Kalshi's BTC repricing), and SOL breaks $64.81 and the June ~$60.1 low on a liquidation wick. A barrier estimate from ~$77.5 gives about 19–32% for 60–80% annualized volatility; fat tails and the one-wick rule push it up, while the repeated defence of $60 and the fresh rebound push it down. I anchor on the Polymarket mid of 31.65% (last trade 36%, wide 27/36 spread) and shade slightly lower, because the bounce to ~$78 looks only partly priced and the sibling $50 contract at 22% suggests a rich tail premium in these dip markets.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7925",
+   "has_trace": true
+  },
   {
    "id": 7767,
    "scanned_at": "2026-11-21T12:43:08.618511",
@@ -21607,6 +21663,20 @@
  ],
  "NATO x Russia military clash by December 31, 2026?": [
   {
+   "id": 7947,
+   "scanned_at": "2026-11-23T22:07:02.064239",
+   "date": "2026-11-23",
+   "agent": 11,
+   "market_price_t0": 15.5,
+   "edge": -0.045,
+   "confidence": 0.62,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.12). (0) No source shows a qualifying event in 2026. All NATO shootdowns this year were excluded munitions or stray drones, and the Nov 20 Kh-101 missiles that entered Poland were not engaged. The Nov 30 sibling at about 3% and the 0% Jun and Aug siblings confirm nothing has been recognised; the Oct 31 'In Review' status is an unexplained small risk. (a) About 5.5 weeks remain until Dec 31, 2026. (b) Status quo is No: NATO answered the year's biggest provocation with an AWACS deployment and consultations, Trump downplayed it, and talks continue. (c) NO: Russia keeps probing below the threshold, NATO stays defensive, and further shootdowns are excluded third-party munitions or stray drones. (d) YES: Polish or NATO jets under loosened rules of engagement down a Russian ISR drone, helicopter or Poland-targeted missile, or a Baltic naval encounter turns into gunfire. The market sits at 15.5%, up 4 points on the Poland news, implying about 12 points for one month over the Nov 30 market. Given zero qualifying events in 11 months despite frequent spillover, and the market's history of spiking then fading, I shade to about 10%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7947",
+   "has_trace": true
+  },
+  {
    "id": 7637,
    "scanned_at": "2026-11-20T00:56:10.353657",
    "date": "2026-11-20",
@@ -22382,7 +22452,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-23T12:37:47.414Z",
+  "last_sync": "2026-11-24T02:12:17.654Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -25754,6 +25824,20 @@
   }
  ],
  "Will Revolut launch a USD stablecoin in 2026?": [
+  {
+   "id": 7933,
+   "scanned_at": "2026-11-23T17:07:34.066279",
+   "date": "2026-11-23",
+   "agent": 5,
+   "market_price_t0": 8,
+   "edge": -0.03,
+   "confidence": 0.72,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.05). (0) Not resolved yet. No source shows a live Revolut USD token. The Pharos tracker (Nov 1) and the ESMA register reading (Oct 30) show no USDR white paper, contract or date. Bridge's reserves dashboard, checked Nov 23, lists Revolut's EURR but no Revolut USD token; 10 entries were hidden behind \"See more\", so this is not fully confirmed. (a) About 5.5 weeks remain until Dec 31, 2026, 11:59 PM ET. (b) Status quo is NO: EURR is the only live Revolut stablecoin and it is euro-pegged. (c) NO path: USDR follows the US bank, which targets opening in H1 2027, or simply slips. Revolut's only committed 2026 stablecoin item is the wider EURR rollout, and its recent news (blockchain funds, the GOMINING listing, Italian AML scrutiny) has nothing on dollar tokens. The StablR ticker clash over the USDR name may also need sorting out. (d) YES path: Bridge files a USDR MiCA white paper in late November, and Revolut enables it for selected EEA users before year-end. That would copy the EURR template, which took about 4 weeks from notification to offer, and a Revolut-branded, Bridge-issued token would likely count. That timeline is now very tight, and there is no sign of a filing. The market mid is 8% (bid 5 / ask 11), with the last trade at 4% and a steep downtrend. I shade slightly below the mid because time is running out and nothing points to an imminent filing.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7933",
+   "has_trace": true
+  },
   {
    "id": 7132,
    "scanned_at": "2026-11-13T23:20:44.966282",
@@ -29828,6 +29912,20 @@
   }
  ],
  "US strike on Colombia by December 31?": [
+  {
+   "id": 7936,
+   "scanned_at": "2026-11-23T17:47:09.625803",
+   "date": "2026-11-23",
+   "agent": 5.5,
+   "market_price_t0": 8,
+   "edge": -0.025,
+   "confidence": 0.71,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.05). (0) No source reports a US-launched or US-claimed air, drone or missile strike on Colombian land as of Nov 23, 2026. Every recent strike in Colombia (Ninfa, Tibú, Clan del Golfo) was carried out by Colombian forces. The US-linked land strikes nearby were in Venezuela (Apure, Oct 30) and Ecuador (Mar 6), and neither qualifies. (a) About 38 days remain until Dec 31, 2026. (b) If nothing changes, the market resolves No. Colombia's government is a cooperative partner that runs its own strike campaign, and any US combat role needs a Council of State opinion and a Senate vote. Neither has been filed or scheduled, and the opposition is hostile. (c) No: the Title 10 / joint-operations agreement stays stuck in Colombian legal process past year-end. Colombia keeps using its own aircraft and the loaned Reapers, which would not count as US operatives. The US keeps its kinetic action to boat strikes at sea and partner strikes in Venezuela. (d) Yes: the Senate approves joint operations quickly, or Bogotá quietly consents to a US-operated Reaper or special-forces strike on an ELN or Clan del Golfo camp. Hegseth or SOUTHCOM would then announce it, following the Ecuador pattern. The Pentagon's push, the assets already in place and the escalating ELN violence make this a real tail risk. The market's 8% mid (last trade 6%) is down 14.5 points over 30 days. I lean slightly below the mid because of the legal gate and the short window, while keeping some weight on a fast, consensual, US-claimed strike.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7936",
+   "has_trace": true
+  },
   {
    "id": 7240,
    "scanned_at": "2026-11-15T04:38:02.527585",
@@ -34861,6 +34959,20 @@
  ],
  "Ilhan Omar federally charged by December 31?": [
   {
+   "id": 7931,
+   "scanned_at": "2026-11-23T16:24:28.302237",
+   "date": "2026-11-23",
+   "agent": 8,
+   "market_price_t0": 10.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.63,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.08). (0) No source shows the condition met. NewsNation/Yahoo on 2026-11-23 says no charges have been filed. The DC docket shows only miscellaneous search-warrant and unsealing matters, not a criminal case. For YES, a grand jury would need to indict, or DOJ would need to file charges, by Dec 31.\n\n(a) About 5.5 weeks remain, including the holiday period.\n\n(b) The status quo is NO. At the 2026-11-17 hearing, DOJ told Judge Boasberg the probe is pre-charging, agents are still reviewing seized materials, and no charging decision has been made. The only scheduled events are unsealing disputes, with objections due 11/30.\n\n(c) NO path: Speech or Debate filter review of her phone and laptop drags on. Prosecutors also have to work around the statute of limitations on 1990s–2009 immigration conduct. The case slips into 2027, or moves to the civil denaturalization route, which would not count.\n\n(d) YES path: Pirro's DC office acts aggressively under political pressure, as this DOJ has with other critics. It obtains a quick indictment on a recent false statement, a passport filing, or the 2025 financial-disclosure discrepancy, none of which faces the limitations problem, and announces it in December.\n\nThe market sits at 10.5% after falling from a peak of 43%. The research turned up no unpriced signal of imminent charges. If anything, DOJ's own mid-November statements that the review is unfinished and the added privilege-review hurdles point slightly below the market. The tail risk is a politically driven rush, given the administration's track record.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7931",
+   "has_trace": true
+  },
+  {
    "id": 7362,
    "scanned_at": "2026-11-16T15:48:21.573002",
    "date": "2026-11-16",
@@ -37159,6 +37271,20 @@
  ],
  "Carles Puigdemont back in Spain in 2026?": [
   {
+   "id": 7921,
+   "scanned_at": "2026-11-23T13:15:43.790845",
+   "date": "2026-11-23",
+   "agent": 80.5,
+   "market_price_t0": 80.5,
+   "edge": 0,
+   "confidence": 0.61,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.80, 0.81). (0) Not resolved. As of 23 Nov 2026, credible reporting (CatalunyaPress, Ara, Diario Crítico) has Puigdemont still in Belgium. The Supreme Court closed the case and declared his liability extinguished on 20–23 Nov, and the arrest warrant was lifted in October, so no legal bar remains. (a) About 38 days are left until 31 Dec 2026. Since he has ruled out returning before the 29 Nov election, the usable window is roughly 32 days, and it includes the Christmas period. (b) If nothing changes, he stays in Waterloo and the market resolves No; YES needs him to act. (c) NO: after the election he takes his time staging an 'institutional' return with Parliament and the Mossos, or the 29-N result changes his calculus, and the return slips to January 2027. He has already shown he is in no hurry, waiting seven weeks after the warrants were lifted. (d) YES: his stated condition, full application of the amnesty, is now met. Several outlets point to a December return: ABC via Demócrata reports 12 Dec, OKDiario and Vozpópuli say 'before Christmas'. Parliament speaker Rull has committed to a reception, the Mossos are negotiating escort logistics, and Comín and Puig have already returned. The market sits at about 80.5% (bid 78 / ask 83). The research supports roughly that level: every reported date falls inside the window, but none is official, so slippage risk is real.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7921",
+   "has_trace": true
+  },
+  {
    "id": 7039,
    "scanned_at": "2026-11-12T19:55:04.129521",
    "date": "2026-11-12",
@@ -38444,6 +38570,20 @@
   }
  ],
  "Will Pete Hegseth leave the Trump administration before 2027?": [
+  {
+   "id": 7928,
+   "scanned_at": "2026-11-23T15:09:35.138533",
+   "date": "2026-11-23",
+   "agent": 10,
+   "market_price_t0": 11.5,
+   "edge": -0.015,
+   "confidence": 0.64,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.10). (0) No source shows the condition met: War.gov (Nov 19) and CBC (about Nov 22) still describe Hegseth as Secretary of War, and he issued directives on Nov 22. YES needs an official or credible-consensus announcement of his resignation or removal by Dec 31, 2026. (a) About 5.5 weeks remain. (b) The status quo is NO: Trump backed him publicly on Nov 4, 6 and 10, the House referred Massie's articles to committee 211-204 so impeachment cannot remove him before Jan 3, and the Pentagon says he is '100% committed' to serving out the term. (c) NO: Trump refuses to trade Hegseth for the Dec 11 funding deal, Hegseth carries on, and the fight moves to 2027 under a Democratic House, which Kalshi prices as a likely spring exit. (d) YES: Trump makes his promised shake-up, as with Wiles days after denying it, and announces Hegseth's exit, perhaps as a new role, to end the funding standoff and head off impeachment while the GOP Senate can still confirm a successor. The market anchor is 11.5%, the related 'out as SecDef by Dec 31' market is at 9.5%, both have faded since the post-election spike, and earlier out-by-date prices repeatedly overshot. Insider calls to quit (Kasper, Ullyot) add pressure but do not show a Trump decision, so I shade slightly below the market to about 10%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7928",
+   "has_trace": true
+  },
   {
    "id": 7359,
    "scanned_at": "2026-11-16T14:56:41.336657",
@@ -40279,6 +40419,20 @@
  ],
  "Will Jensen Huang's resignation or removal be announced and Nvidia's market cap be below $4T at the end of 2026?": [
   {
+   "id": 7944,
+   "scanned_at": "2026-11-23T21:14:44.727103",
+   "date": "2026-11-23",
+   "agent": 44,
+   "market_price_t0": 42,
+   "edge": 0.020000000000000018,
+   "confidence": 0.51,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.43, 0.45). (0) Component 1 (announcement) looks already met: Nvidia's official Nov 12 press release announced Huang 'has resigned… effective immediately'. The rules count an announcement regardless of when he leaves and nothing voids a later reversal, and a sibling Polymarket market reportedly shows strikes from Nov 12 onward at 100%; the residual risk is the resolver treating the Nov 23 reinstatement as cancelling it, so ~90-93% on this leg. Component 2 is open: NVDA closed Nov 23 at $165.05 (Yahoo/FMP, ~$3.977T) or $166.18 per one substack (~$4.005T), with $4T at roughly $166/share. (a) About 5.5 weeks remain to the Dec 31 regular-session close. (b) Status quo: component 1 counts as resigned/removed and market cap is a near coin flip. (c) NO: Huang's return holds, the rebound continues toward the $174 pre-scandal level and $200+ analyst targets, and the cap closes above $4T; or the resolver rules the reversed resignation does not count. (d) YES: the Nov 12 announcement counts and adverse news (Dec 1/Dec 3 congressional hearings, SEC/FBI/California AG probes, a committee finding, or an AI/Nasdaq selloff) drags NVDA below ~$166 by year-end. With beta ~2.4 the five-week 1-sd move is ~±15%; a slight bullish drift from analyst resets offset by probe risk gives ~46-48% for under $4T, times ~0.92, or about 0.43, essentially the market's 42% mid.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7944",
+   "has_trace": true
+  },
+  {
    "id": 7377,
    "scanned_at": "2026-11-16T20:43:16.220961",
    "date": "2026-11-16",
@@ -40358,6 +40512,20 @@
   }
  ],
  "No change in Bank of England’s interest rates after December 2026 meeting?": [
+  {
+   "id": 7923,
+   "scanned_at": "2026-11-23T13:54:51.336072",
+   "date": "2026-11-23",
+   "agent": 29,
+   "market_price_t0": 24,
+   "edge": 0.050000000000000044,
+   "confidence": 0.525,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.28, 0.30). (0) Not resolved. The BoE Bank Rate page shows 4.00% after the 5 Nov 8–1 hike, and the December decision is due 17 Dec. A hold resolves Yes; any hike resolves No. (a) About 24 days remain. Before the meeting come the 25 Nov Treasury Committee testimony, 15 Dec labour data and 16 Dec November CPI. (b) The status quo is a hold at 4.00%, but market pricing makes a hike the expected path. Polymarket's hold contract trades at 24% and the sibling +25bp contract at 75%. OIS trackers put a hike at about 75–78% as of 20–23 Nov. (c) NO path: Pill, Greene and Mann want to move, and Bailey and Lombardelli, read by Pantheon as inclined to act, swing behind a back-to-back hike. A hot labour or CPI print and energy upside risk would add to this, giving a 5–4 or wider hike vote. (d) YES path: energy prices keep drifting lower and the doves Dhingra and Taylor, who called November 'one-for-now', hold again. Softer October core and services CPI and weak vacancies and payrolls would then let Bailey wait for the February MPR. That matches the 64-of-65 Reuters economist poll and the Deutsche, ING and Scotiabank calls. The poll is stale, taken before Pill's interview and the October CPI, but the strong economist consensus against the market justifies nudging slightly above the 24% anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7923",
+   "has_trace": true
+  },
   {
    "id": 7354,
    "scanned_at": "2026-11-16T13:17:08.223842",
@@ -40978,6 +41146,102 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.07, 0.06). (0) The condition is not met. ISW/CTP (Nov 17) and other reporting show the Islamic Republic still governing under Supreme Leader Mojtaba Khamenei, with the IRGC and Guardian Council intact. There is no provisional government, revolutionary council or loss of control over most of the population. (a) About 128 days remain until March 31, 2027. (b) If nothing changes, the market resolves No. Trump says he is not pursuing regime change and may wait until 2027 on a new offensive, and the January uprising and the February decapitation both failed to break the system. (c) A No path: a renewed US-Israeli strike, or the winter fuel, bread and power crisis, produces rally-and-repress dynamics or an IRGC-dominated consolidation. Both are excluded or preserve the core structures. (d) A Yes path: a winter offensive hits internal-security forces, a nationwide strike wave in the bazaars, trucking and oil sector follows, Mojtaba proves incapacitated, and the security forces fracture. A transitional authority would then have to take Tehran, all within four months. Each link is unconfirmed. The anchor is the 9.5% Polymarket price, but this market is thin ($15.7k). The sibling curve (2.55% by end-2026, 11.5% by June 2027, 21.5% by end-2027) leaves only about 2 points of hazard for April–June, which suggests this contract is slightly rich. Generic autocracy base rates are about 2% for a four-month window, and elevated stress (protest incidents rising, power cuts, a possible new offensive) roughly triples that. I shade modestly below the market, to about 6.5%.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/7875",
+   "has_trace": true
+  }
+ ],
+ "Will Lindsay Clancy rank in Google’s Top 5 Most Searched People in the US of 2026?": [
+  {
+   "id": 7960,
+   "scanned_at": "2026-11-24T01:39:51.705859",
+   "date": "2026-11-24",
+   "agent": 89.5,
+   "market_price_t0": 93,
+   "edge": -0.03500000000000003,
+   "confidence": 0.63,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.88, 0.91). (0) Not resolved: Google's 2026 Year in Search pages return 404 and the hub shows only 2025; YES needs Clancy ranked 1–5 on the US Trending People list. (a) Release is expected in early December (about Dec 4 in 2025, Dec 10–11 in 2024), well before the March 31, 2027 fallback, so non-release is a negligible NO path. (b) Status quo: nothing scheduled before the late-November cutoff changes her standing; the July–September trial, mistrial and November retrial ruling drove a large spike (Similarweb #4 US keyword in September 2026), matching 2025 precedents Tyler Robinson (#2) and d4vd (#3), and Kalshi news had her at 40% for #1 globally. (c) NO: the Guthries, Maduro, Bad Bunny, Olympic or midterm figures or an unidentified event outrank her on year-over-year growth, or Google categorises her outside People; the 72–88% sibling prices are mostly global-scoped and her Polymarket US #1 price reportedly fell from 37% to about 19%. (d) YES: a seven-week, nationally livestreamed, US-only trial with repeated spikes puts her top 5, as Robinson in 2025. Anchoring on the 93% mid of a thin $17.7k market, I discount slightly for the US-vs-global mismatch and the competitor field.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7960",
+   "has_trace": true
+  }
+ ],
+ "Will Anthropic have the best AI model on December 15, 2026?": [
+  {
+   "id": 7958,
+   "scanned_at": "2026-11-24T00:54:34.647969",
+   "date": "2026-11-24",
+   "agent": 7,
+   "market_price_t0": 8.5,
+   "edge": -0.015,
+   "confidence": 0.7,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.07). (0) Not resolved. Arena's Hugging Face dataset for the no-style-control text view (Nov 22) has Google at ranks 1–3: Gemini 4 Carbon 1538.87, Argon 1527.67, Neon 1522.89. Anthropic's best is Claude Opus 5.5 (High) at 1514.12, about 25 points behind first, and Carbon's lower bound sits above Opus 5.5's upper bound. (a) About three weeks remain until the Dec 15, 12:00 PM ET check. (b) If nothing changes, Google is #1 and the market resolves NO. (c) NO scenario: Anthropic ships no new text model in time, or ships one too late to collect enough votes to be ranked. Even if Carbon's preliminary score drifts down, Argon at about 1528 and Neon at about 1523 still sit above Anthropic. (d) YES scenario: Anthropic releases an unannounced model (an Opus 6, a Fable variant, or a public Mythos 5.2 listing) by early December that debuts around 1540+ in the style-control-off view and gathers enough votes to take rank 1. Anthropic has shipped on short notice before, and Opus 5.5 debuted at #1. Against that, there is no announcement, its Mythos-class release cadence points to mid-January, and the no-style-control view tends to disadvantage Claude. The market's 8.5% looks roughly fair, perhaps slightly high given the 25-point gap across three Google models, so I shade it a little lower.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7958",
+   "has_trace": true
+  }
+ ],
+ "Will the average Ornn B300 rental price in January 2027 be above $11.00?": [
+  {
+   "id": 7951,
+   "scanned_at": "2026-11-23T22:48:01.043542",
+   "date": "2026-11-23",
+   "agent": 58,
+   "market_price_t0": 55.5,
+   "edge": 0.02499999999999991,
+   "confidence": 0.42,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.57, 0.59). (0) Not resolved: no January 2027 values yet; latest Ornn OCPI-B300 settle is $11.46 (Nov 22). (a) About 5-9 weeks until the 31 January settles print; the market closes Feb 1. (b) Status quo favors Yes: spot is about 4% above the $11.00 strike, Sep/Oct/Nov-to-date averages were $11.49/$12.29/$11.67, and a 31-day mean smooths daily crashes like Nov 11's $9.70. (c) No: a thin, unsmoothed index carrying a large premium over other B300 benchmarks falls into the $10.5-10.9 range for most of January, through a contributor-mix shift or post-AI-selloff demand softening; recent prints are drifting down and NVDA has crashed. (d) Yes: the $11.4-12 plateau persists on Nvidia-confirmed rising rental rates and tight B300 supply. The market at 55.5% sits below a naive no-drift estimate of about 62-65%, and B200 December siblings priced below spot suggest traders expect some softening; I lean only slightly above the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7951",
+   "has_trace": true
+  }
+ ],
+ "Poilievre out as leader of Conservatives by December 31, 2026?": [
+  {
+   "id": 7946,
+   "scanned_at": "2026-11-23T21:58:14.678955",
+   "date": "2026-11-23",
+   "agent": 8,
+   "market_price_t0": 10.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.64,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.08). (0) The condition has not been met. The party homepage still shows 'Team Pierre Poilievre', and CP24, CTV and CPAC coverage from Nov 19–23 still calls him Conservative Leader. No resignation, Reform Act petition or caucus vote has been reported. (a) About 38 days remain until Dec 31. The Dec 7 by-elections are the only scheduled catalyst, which leaves roughly 24 days for fallout, much of it during the holiday break. (b) If nothing changes, he stays leader and the market resolves No. He cleared his January review with 87.4%, CBC sources say there is no plan to remove him, and he has pledged to stay even if Brantford is lost. (c) No path: Brantford is held, or it is lost and blamed on the vote split with independent Dave Carrol. Caucus then repeats the April and August pattern of grumbling and public loyalty without a petition, and nobody steps forward to challenge him while Carney is this popular. (d) Yes path: the Conservatives lose Brantford, which is roughly a coin flip in the forecasts. MPs who privately doubt him, 17 spoke to CTV in August, then go public, and either a Reform Act letter reaches 20% of caucus or Poilievre announces an exit before Christmas. I put P(loss) at about 0.5, P(exit within the window | loss) at about 0.12–0.15, and P(exit | hold) at about 0.02, plus a small tail for unforeseen events. That totals around 8%. The Polymarket mid of 10.5% is a wide 7/14 quote, so I shade slightly below it given no reported organizing and the compressed window.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7946",
+   "has_trace": true
+  }
+ ],
+ "Will the average Ornn B200 rental price in December 2026 be above $9.60?": [
+  {
+   "id": 7943,
+   "scanned_at": "2026-11-23T20:48:08.708419",
+   "date": "2026-11-23",
+   "agent": 24,
+   "market_price_t0": 26.5,
+   "edge": -0.025000000000000022,
+   "confidence": 0.53,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.24, 0.24). (0) Not resolved. No December settles exist yet. The latest OCPI-B200 settle on data.ornn.com is $9.08 (Nov 22), below the $9.60 strike. (a) The outcome depends on the mean of the 31 December daily settles, finalized by early January 2027, which is about 5–6 weeks away. (b) Status quo: if the index stays near $9.08, the December average comes in around $9.1 and the market resolves No. (c) NO scenario: the broad Ornn cooling continues or levels off around $9. H200 is down sharply, H100 is down 7.6% over 30 days, B200 has fallen 7 straight days, and NVDA sold off steeply in November. The index then never sustains the ~6% rebound needed, and early-December prints near $9 pull the mean down mechanically. (d) YES scenario: the Nov 17–18 step-down proves to be a mix-driven dislocation. The daily declines have already flattened to -0.1%, and Silicon Data's B200 index is still rising. A gap-up like the +3.7% on Nov 7 returns the index to $9.7–10 by early December, and tight supply and credit keep it there. That would set a new all-time monthly high, consistent with the 2026 uptrend. The market anchor is 26.5%, and the strike ladder ($9.00 at 46%, $9.20 at 35.5%, $9.40 at 31%) is internally coherent with a slightly negative drift. Given broad weakness and the NVDA risk-off, I shade slightly below the market to 24%. The index's high volatility keeps a meaningful tail for YES.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7943",
+   "has_trace": true
+  }
+ ],
+ "Will the average Ornn H100 rental price in December 2026 be above $3.10?": [
+  {
+   "id": 7941,
+   "scanned_at": "2026-11-23T20:25:02.382582",
+   "date": "2026-11-23",
+   "agent": 26.5,
+   "market_price_t0": 29.5,
+   "edge": -0.02999999999999997,
+   "confidence": 0.555,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.26, 0.27). (0) Nothing is resolved yet: Ornn's page (last settle Nov 22, $2.91) has no December values, and YES needs the mean of all 31 December settles above $3.10. (a) Resolution covers the December 1–31 settles, with the market closing Jan 1, 2027, so the index has about 5.5 weeks to move. (b) Status quo is NO: the last six settles averaged about $2.89, all below $3.10, and September/October averaged $2.83/$2.94; November's $3.15 rested on an early spike that has reversed. (c) NO: the index stays in its $2.8–3.0 on-demand regime, and Ornn's transacted series keeps ignoring the bullish rate-card and CoreWeave narrative, as it did through November. (d) YES: Ornn reverts toward Silicon Data's steady $3.09–3.10 neocloud level, and rate-card hikes and tight supply push transacted prices back to $3.2+ for most of December. Month-to-month moves of ±4–7% imply roughly 20–25% for a required +6.5% move, with mild mean reversion toward the $3.13 30-day median adding a little. The sibling ladder ($3.00 at ~40%, $3.20 at ~17%) interpolates to about 28%, so I shade slightly below the 29.5% mid.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/7941",
    "has_trace": true
   }
  ]

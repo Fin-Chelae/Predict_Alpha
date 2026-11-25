@@ -19821,6 +19821,20 @@
  ],
  "Will Solana hit $60 or $140 first?": [
   {
+   "id": 8103,
+   "scanned_at": "2026-11-25T16:50:14.103999",
+   "date": "2026-11-25",
+   "agent": 78,
+   "market_price_t0": 77.7,
+   "edge": 0.0030000000000000027,
+   "confidence": 0.61,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.78, 0.78). (0) Not resolved: the market opened 2026-03-11, so the January highs above $140 don't count. Binance weekly candles show no low at or below $60 since then (June low $60.13, or $60.41 on 1-minute data per mania.market) and no high at or above $140. (a) About 36 days remain, to Dec 31. (b) Status quo: SOL is about $67 on Binance (Nov 25 low $65.84); if nothing changes, neither level is hit and the market resolves 50-50. (c) NO: the $60-65 support zone, tested twice, holds and an oversold short squeeze lifts SOL toward $75-78, giving a 50-50 payout; $140 first needs a ~110% rally and is near-impossible. (d) YES: a hawkish Dec 8-9 FOMC, tariff stress and BTC under $58k push SOL through $65, and one 1-minute wick to $60 on Binance (about 11% down) resolves Yes. Yes maps to $60, since Yes rose ~44% over 30 days as SOL fell. With ~78% implied volatility over 36 days, a driftless barrier model gives a $60 touch probability of ~0.6; supports above $60 and a stale 49% sibling quote pull this to ~0.55. Expected Yes value is 0.5 + 0.5 x P(touch), about 0.77-0.80, consistent with the 77.7% market mid.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8103",
+   "has_trace": true
+  },
+  {
    "id": 7245,
    "scanned_at": "2026-11-15T06:12:48.881637",
    "date": "2026-11-15",
@@ -22211,6 +22225,20 @@
  ],
  "Will Euphoria be the #1 searched TV show on Google this year?": [
   {
+   "id": 8095,
+   "scanned_at": "2026-11-25T14:50:37.610884",
+   "date": "2026-11-25",
+   "agent": 28,
+   "market_price_t0": 28,
+   "edge": 0,
+   "confidence": 0.4,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.29, 0.27). (0) Not resolved: the 2026 Year in Search page returns a 404 as of 2026-11-25, and the hub still shows 2025, whose #1 was Monster: Ed Gein. (a) The list is expected in December, with a fallback deadline of 2027-03-31, so the risk of an 'Other' outcome is small. (b) Euphoria's search year is fixed: a large April–May 2026 final-season spike (20M global premiere viewers, up 68%) off a dormant 2025 base, with a 2022 precedent of winning globally in a season year. Against that, reviews were poor, there was no catalyst after the summer, and recent #1s were Netflix breakouts. (c) NO: Stranger Things' early-2026 tail plus its spinoffs, or a breakout such as The Pitt, Heated Rivalry, Monster: Lizzie Borden or a K-drama, shows bigger year-over-year growth; the Kalshi sibling market makes Stranger Things favourite at about 34% and does not show Euphoria among its top strikes. (d) YES: Euphoria's concentrated 2026 spike proves the largest trending gain, as in 2022. I anchor on Polymarket's 28% mid and see no strong unpriced information, so I land at 29%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8095",
+   "has_trace": true
+  },
+  {
    "id": 7524,
    "scanned_at": "2026-11-18T14:05:17.368813",
    "date": "2026-11-18",
@@ -22550,7 +22578,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-25T12:53:51.930Z",
+  "last_sync": "2026-11-25T23:36:41.424Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -26055,6 +26083,20 @@
  ],
  "Israeli airspace closed by December 31, 2026?": [
   {
+   "id": 8124,
+   "scanned_at": "2026-11-25T23:14:14.191837",
+   "date": "2026-11-25",
+   "agent": 13,
+   "market_price_t0": 15,
+   "edge": -0.01999999999999999,
+   "confidence": 0.6,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.13). (0) No source shows a qualifying closure since the market opened on 15 Sep. Safe Airspace (25 Nov) says the LLLL FIR remains open, the Ben Gurion boards show about 174 departures and 174 arrivals, and on 24 Nov the Transport Ministry approved flydubai's return. Officials are reopening, not tightening. (a) About 36 days remain until 11:59 PM ET on 31 Dec 2026. (b) If nothing changes, the FIR stays open and the market resolves No. (c) No scenario: Trump keeps to his stated preference to wait until after the new year, mediation by Egypt, Qatar and others continues, and Iranian drone and missile fire stays low-level and intercepted. That fire has not triggered a general closure even at its recent peak. Any Houthi siren pauses would be brief halts at Ben Gurion, which are excluded. (d) Yes scenario: the US strike delayed by 'at least a week' goes ahead in December under Netanyahu's pressure, or Israel strikes alone after the security cabinet's 12 Nov directive. Iran retaliates against Israel and Regev orders a general FIR closure, as happened on 28 Feb 2026 and in June 2025. I anchor on the Polymarket price of 15%, which has fallen 11.5 points in a week. I shade it slightly lower because of Trump's repeated 'after the new year' signals, the pattern of postponed strikes since October, internal IDF opposition to acting alone, and the narrow rules that exclude partial closures and siren pauses. The live war, CENTCOM's maximum readiness and the history of closures within hours of any strike keep a real tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8124",
+   "has_trace": true
+  },
+  {
    "id": 7550,
    "scanned_at": "2026-11-18T22:18:42.818720",
    "date": "2026-11-18",
@@ -27553,6 +27595,20 @@
  ],
  "Will Benjamin Netanyahu be the next leader out before 2027?": [
   {
+   "id": 8118,
+   "scanned_at": "2026-11-25T21:00:36.008740",
+   "date": "2026-11-25",
+   "agent": 54.5,
+   "market_price_t0": 53.5,
+   "edge": 0.010000000000000009,
+   "confidence": 0.45999999999999996,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.55, 0.54). (0) Not resolved. Per the resolution-source read and AFP/Times of Israel reporting on 25 Nov, Netanyahu is caretaker PM after the 27 Oct election, and the rules say caretaker status does not count as leaving office. YES requires a new government sworn in by a Knesset confidence vote before 31 Dec 2026, with no other listed leader leaving first.\n\n(a) About five weeks remain. Eisenkot's mandate expires 6 Dec and can be extended to about 20 Dec, which leaves room for a vote.\n\n(b) If nothing changes, Netanyahu stays caretaker and the market resolves NO.\n\n(c) NO scenario: Eisenkot's minority-government vote fails or is never held. That could happen through Haredi refusal, a Yashar or Liberman defection, or Ra'am declining to back him. The mandate then goes back to Herzog, and Netanyahu remains caretaker into a 2027 election. A smaller risk is that another listed leader leaves first.\n\n(d) YES scenario: Haaretz reports Eisenkot targeting a 2 Dec swearing-in. The government would rest on Yisrael Beiteinu (pact signed), a yes vote or abstention from Ra'am, and abstentions from the Joint List and UTJ. A simple majority of votes cast suffices: 48 plus Ra'am's 8 is 56 against 53, or 48 against 46 if UTJ abstains. Yashar says it will bring the vote even without a majority. Netanyahu has no route of his own to 61.\n\nThe Polymarket price is 53.5%, up 23 points in a week, and research finds the stated plan credible. Against that, no confirmed majority exists, the Haredi signals are mixed, and Israeli coalition formation historically runs to its deadlines. On balance I sit slightly above the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8118",
+   "has_trace": true
+  },
+  {
    "id": 7542,
    "scanned_at": "2026-11-18T19:45:49.241424",
    "date": "2026-11-18",
@@ -29028,6 +29084,20 @@
   }
  ],
  "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?": [
+  {
+   "id": 8113,
+   "scanned_at": "2026-11-25T19:33:13.524640",
+   "date": "2026-11-25",
+   "agent": 53.5,
+   "market_price_t0": 53.5,
+   "edge": 0,
+   "confidence": 0.495,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.54, 0.53). (0) Not resolved. The upper bound is 4.00% (FRED DFEDTARU, Nov 25). The January 26–27, 2027 meeting is a normal voting meeting; reporting says the 2027 meeting with no vote is in October. Yes still needs a 25 bp December hike, or a December hold, followed by exactly a 25 bp hike in the January 27 statement. (a) About two months remain. Before the decision come the December 4 jobs report, November CPI, the December 9 FOMC meeting with its projections and dot plot, and December CPI and PCE. (b) The status quo is no change, which resolves No. But the Fed is mid-cycle with a hawkish tilt. The minutes said nearly all participants saw further hikes as likely appropriate. JPMorgan, Deutsche Bank and BofA all have December, January and March as their base case. (c) No scenario: the December hike comes alongside soft November data and an ongoing equity rout. The Fed then repeats its October skip, as Logan and Williams have suggested is acceptable, and does the second hike in March. Alternatively, December goes 50 bp as Waller wants and January holds. (d) Yes scenario: December hikes 25 bp and the dot plot signals more. Inflation keeps running hot, with core PCE at 3.3% and Q3 GDP at 4.3%. The Fed then delivers back-to-back hikes in January. The Polymarket anchor is 53.5%. Secondary readings of CME FedWatch and RateWatch for a January hike put it around 52–60%, and these readings are noisy, ranging from 40% to 75% within a week. A small share of hike paths would be the wrong size: 50 bp in December, or 50 bp in January. That offsets the slightly higher futures readings, so I stay near the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8113",
+   "has_trace": true
+  },
   {
    "id": 7532,
    "scanned_at": "2026-11-18T16:29:49.163850",
@@ -34795,6 +34865,20 @@
  ],
  "Will no next Israeli Minister of Defense be appointed by February 28, 2027?": [
   {
+   "id": 8097,
+   "scanned_at": "2026-11-25T15:30:58.533848",
+   "date": "2026-11-25",
+   "agent": 29.5,
+   "market_price_t0": 26.6,
+   "edge": 0.02949999999999997,
+   "confidence": 0.5,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.30, 0.29). (0) Not resolved: as of Nov 23-25 no new government exists, and Katz is only a caretaker Defense Minister, which doesn't count. (a) About 95 days remain to Feb 28, 2027, which is 124 days after the election and longer than any successful past formation. (b) Status quo is Yes, since No needs a Knesset confidence vote with a Defense Minister. (c) Yes path: Eisenkot's 48-seat bloc misses 61 by Dec 6-20 because Shas stays with Netanyahu, Liberman and Bennett reject Arab reliance, Golan balks, and unity talks stay stuck; Netanyahu's mandate then fails and dissolution pushes the election past the deadline, the outcome Brookings called most likely. (d) No path: the Eisenkot-Liberman pact plus UTJ's rabbinic green light support a reported swearing-in around Dec 2 with Liberman at Defense, with Shas, Arab abstention or a late unity deal as routes to 61, and Netanyahu's mandate as a later fallback. The market mid of 26.5% already prices the late-November progress; I sit slightly above it because no route to 61 is secured and a failed vote ends Eisenkot's mandate at once.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8097",
+   "has_trace": true
+  },
+  {
    "id": 6626,
    "scanned_at": "2026-11-07T17:21:18.938129",
    "date": "2026-11-07",
@@ -34990,6 +35074,20 @@
   }
  ],
  "Will no next Israeli Minister of Justice be appointed by February 28, 2027?": [
+  {
+   "id": 8115,
+   "scanned_at": "2026-11-25T20:17:42.213999",
+   "date": "2026-11-25",
+   "agent": 32,
+   "market_price_t0": 32,
+   "edge": 0,
+   "confidence": 0.5,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.33, 0.31). (0) Not resolved: as of 2026-11-25 no post-election government has been sworn in, and Levin is only caretaker Justice Minister, which does not count. A confidence vote approving a Justice Minister by Feb 28, 2027 is still needed. (a) About 95 days remain; Eisenkot's mandate ends Dec 6 (Dec 20 if extended) and the full legal formation window ends around Feb 15, after which dissolution and a roughly 90-day election would push any appointment past the deadline. (b) No government exists today, but momentum favours formation: a Yashar–Yisrael Beytenu pact reportedly gives Liberman's party Justice, Liberman reportedly dropped his minority-government objection, UTJ talks are progressing, and Eisenkot is planning a quick surprise vote. (c) The outcome resolves 'No Next Minister by Feb 28' if Shas refuses, the Democrats stay out over the Justice dispute, Arab abstention arithmetic or Liberman's base fails, Netanyahu's second mandate also fails given Likud's refusal of rotation, and the Knesset dissolves as in 2019. (d) A named minister follows if Eisenkot passes a minority or Haredi-backed government in December with a Yisrael Beytenu or Yashar figure as Justice Minister, or a later candidate succeeds before mid-February. The related Polymarket market for a government by Dec 31 at 58.5%, plus later chances, implies roughly 65–70% formation by the deadline. This is consistent with the 32–36% price here, plus a small risk that Justice is not filled at swearing-in, so I stay near the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8115",
+   "has_trace": true
+  },
   {
    "id": 6708,
    "scanned_at": "2026-11-08T21:19:18.658657",
@@ -37439,6 +37537,20 @@
  ],
  "Will no next Israeli Minister of National Security be appointed by February 28, 2027?": [
   {
+   "id": 8100,
+   "scanned_at": "2026-11-25T16:10:37.316909",
+   "date": "2026-11-25",
+   "agent": 27,
+   "market_price_t0": 29,
+   "edge": -0.019999999999999962,
+   "confidence": 0.5,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.27, 0.27). (0) Not resolved: as of Nov 25 no government exists, Ben-Gvir is caretaker only and does not count, and a new minister needs a Knesset confidence vote. (a) About 95 days remain to Feb 28, 2027; Eisenkot's mandate runs to Dec 6 (or about Dec 20 with extension), and the follow-on stages could extend to mid or late February. (b) Status quo means caretakers stay and Yes wins, but momentum is toward formation: the Yisrael Beytenu pact, a reported confidence vote around Dec 2, and Liberman predicting a government with UTJ by next week. A confidence vote needs only a plurality, so 48 plus UTJ or Ra'am, with abstentions, can pass. (c) Yes path: defections by Liberman, Bennett or the Democrats sink a rushed vote, Netanyahu's mandate also fails, and the Knesset dissolves for a spring election (Brookings' base case). (d) No path: Eisenkot wins confidence in December with someone such as Golan or Hamad Amar in the police portfolio, likely accepted as the successor post despite the renaming. Anchoring on the market's 29% (down from 60% as talks progressed), I sit slightly lower given the historical formation base rate and the 67-MK recommendation. I keep a small tail for a dispute over the renamed or split portfolio.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8100",
+   "has_trace": true
+  },
+  {
    "id": 6712,
    "scanned_at": "2026-11-08T22:11:25.787872",
    "date": "2026-11-08",
@@ -39425,6 +39537,20 @@
  ],
  "Will the 2026–27 El Niño be the strongest on record?": [
   {
+   "id": 8106,
+   "scanned_at": "2026-11-25T18:13:59.817183",
+   "date": "2026-11-25",
+   "agent": 49,
+   "market_price_t0": 70.5,
+   "edge": -0.21499999999999997,
+   "confidence": 0.435,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.56, 0.42) after one crux research pass. (0) Not resolved. CPC's RONI file shows only one qualifying season published so far: ASO 2026 at 1.97, below the 2.40 record. SON, OND, NDJ and DJF are still to come, due around Dec 5, Jan 5, Feb 5 and Mar 5. (a) About four months remain before the 1 Apr 2027 close, but the decisive prints are OND (early Jan) and NDJ (early Feb). (b) If anomalies merely plateau near current levels, the 3-month average likely stalls at about 2.2–2.4. CPC's monthly relative values were reportedly Sep 2.1 and Oct 2.16, and weekly relative Niño-3.4 is about 2.4 in late November. A plateau or a tie at 2.40 both resolve No. (c) No scenario: Niño-3.4 has already peaked, as the conventional weekly reading has plateaued or slipped from +3.4 to +3.3 and the SOI weakened. Then November–January average about 2.3–2.4, and NDJ prints at 2.3–2.4, matching the 1997/2015 analogs that ended near 2.3. (d) Yes scenario: the model consensus is right about a December peak near +4 on the conventional index. December–January relative anomalies reach 2.5–2.7, and NDJ prints around 2.5, near the reported NOAA median of 2.53. The market anchor is 70.5%, and CPC's own outlook gives about 60% for RONI ≥2.5 in OND/NDJ, which implies roughly 65–70% for >2.40. I shade below both because observations since that 12 Nov forecast show a plateau or decline. The month-by-month arithmetic also requires December and January to run above any monthly value seen so far, and CPC's odds have already been cut from 83% to 60%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8106",
+   "has_trace": true
+  },
+  {
    "id": 7857,
    "scanned_at": "2026-11-22T17:37:42.448013",
    "date": "2026-11-22",
@@ -41227,6 +41353,20 @@
  ],
  "Kimberly Powell announced resignation or removal by December 31, 2026?": [
   {
+   "id": 8107,
+   "scanned_at": "2026-11-25T18:15:04.342734",
+   "date": "2026-11-25",
+   "agent": 17.5,
+   "market_price_t0": 22.5,
+   "edge": -0.05000000000000002,
+   "confidence": 0.51,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.16, 0.19). (0) The condition has not been met. NVIDIA's newsroom has nothing through Nov 23, Dimsum Daily reported on Nov 24 that Powell remains in her role with no change, and NVIDIA bios still list her as VP of Healthcare. The viral X post saying she quit is uncorroborated and would not qualify anyway. (a) About 36 days remain until Dec 31, 2026, and they include the holiday slowdown. (b) If nothing changes, the market resolves No: she stays in role, both NVIDIA and Powell are silent, and the board has just reinstated Huang with 'every confidence'. That leaves her direct boss more powerful, not less. (c) NO scenario: board and congressional attention stays on the foreign-intelligence probe and the Dec 1 and Dec 3 hearings. Powell keeps a low profile, or at most takes a leave of absence, which does not count, and nothing is announced before year-end. (d) YES scenario: the unfinished independent investigation, the new Chief Compliance Officer function, or fresh reporting (Huang reportedly admitted more affairs) pushes NVIDIA toward a managed 'transition' of Powell out of healthcare leadership. Under the rules, even a move to another NVIDIA role qualifies, and that exit would be announced or credibly reported in December. The anchor is Polymarket at 22.5%, down 48 points in 30 days and still falling, while the Nov 30 contract trades at 7%. I shade slightly below the anchor for three reasons: the CEO's reinstatement reduces pressure on her, no source confirms the probe covers her, and sub-officer exits are often quiet and slow. I keep a material tail because scandals involving a subordinate's relationship with the CEO frequently end with the subordinate leaving.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8107",
+   "has_trace": true
+  },
+  {
    "id": 7536,
    "scanned_at": "2026-11-18T18:07:14.091526",
    "date": "2026-11-18",
@@ -42006,6 +42146,102 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.23, 0.23). (0) Not resolved. The publisher's own Hugging Face text_style_control data, published 2026-11-22, has Google #1 (Gemini 4 Carbon, 1526.5), Meta #2 (Muse Wonder Max, 1511.9) and Anthropic #3 (Opus 5.5 High, 1507.0). A Nov 11 snapshot of the arena.ai Labs view shows the same order. Even if confidence-interval ties let Meta share lab rank 1 with Google, the score tiebreak still leaves Meta second, so the status quo resolves No. (a) About 5 weeks remain until the Dec 31 noon ET check. (b) If nothing changes, Meta holds #2 and this market resolves No. (c) No scenario: both scores are already fairly settled (Wonder about 17k votes, Opus 5.5 about 19k), and Anthropic's newest text entry, Fable 5.2, debuted lower at 1502. Meta's 4–8 week release cadence could also add another model and widen its lead. (d) Yes scenario: the 4.9-point gap sits inside overlapping intervals. Meta's Wonder could drift down, Fable 5.2 could climb as its about 5.8k votes accumulate, or an off-cadence Anthropic release (only a single-source rumour) could land above 1512. I anchor on the 28.5% mid; last trade was 25% and the price fell 15 points this week, consistent with Fable 5.2 underwhelming. I shade slightly below the anchor because settled vote counts and the release asymmetry favour Meta.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/8016",
+   "has_trace": true
+  }
+ ],
+ "Sudan civil war ceasefire by December 31, 2026?": [
+  {
+   "id": 8122,
+   "scanned_at": "2026-11-25T22:29:16.537970",
+   "date": "2026-11-25",
+   "agent": 3.5,
+   "market_price_t0": 7,
+   "edge": -0.035,
+   "confidence": 0.8,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.03). (0) Resolution check: the condition is not met. Credible outlets on Nov 23–25, 2026 (The National, Anadolu, Sudan Tribune, Dabanga) all report that no SAF–RSF ceasefire exists, and US envoy Boulos is still only urging a 'swift agreement' on a humanitarian truce. (a) About 36 days remain until 11:59 PM ET on Dec 31, 2026, and they fall over the holiday period. (b) Status quo is No: Burhan demanded RSF surrender on Nov 22, the government rejected Ethiopia's mediation offer on Nov 25, and the army is mid-offensive in Kordofan. No SAF–RSF talks or signing are scheduled. (c) No scenario: the army keeps pushing toward En Nahud, the Quintet–Tasis contacts stay one-sided, and the year ends with only RSF acceptances and army refusals, as in every round since 2023. (d) Yes scenario: US, Egyptian and Saudi pressure gets Burhan to accept the 90-day truce text with RSF repositioning while he holds fresh battlefield gains. The Quad would then announce a dated cessation of hostilities that media widely report as a ceasefire. The deal's likely 'humanitarian truce' framing also creates a technical risk of being excluded under the rules. I anchor on the Polymarket mid of 7%, which has been falling (-2.5% over 7 days). The latest evidence, the Ethiopia rejection and Burhan's surrender demand, points further toward No, and the base rate gives one bilateral ceasefire in about 43 months. I therefore shade slightly below the market to 4%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8122",
+   "has_trace": true
+  }
+ ],
+ "Will the average Ornn B300 rental price in January 2027 be above $14.50?": [
+  {
+   "id": 8120,
+   "scanned_at": "2026-11-25T21:44:13.075069",
+   "date": "2026-11-25",
+   "agent": 6,
+   "market_price_t0": 8.5,
+   "edge": -0.02500000000000001,
+   "confidence": 0.7,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) Not resolved. No January 2027 settles exist yet. The Nov 24 OCPI-B300 settle on data.ornn.com was $10.87, about $3.63 (33%) below the strike. Monthly averages have run $11.49 (Sep), $12.29 (Oct) and $11.62 (Nov to date). The highest daily print in the public window is $14.23, which is still below $14.50.\n(a) There are about 5–9 weeks until the January 1–31 settles, and resolution comes in early February.\n(b) Status quo: if the index stays anywhere near its $10–13 range, the January mean lands well under $14.50, so No.\n(c) No scenario: the softening reported by SemiAnalysis continues. That includes SpaceX cutting Blackwell spot rates from about $15 to $10–12 and adding H200 sublet supply in early 2027. Together with the early-2027 HGX B300 capacity ramp, this keeps January prints around $10–13.\n(d) Yes scenario: Blackwell scarcity reasserts itself through long lead times, Nvidia price hikes and Kress's claim that rental prices are rising. The transaction mix shifts to expensive short-term deals, and the index holds above its all-time window high for the entire month. That would need a roughly 25–33% sustained regime shift, with no identified catalyst.\nThe market sits at 8.5% (bid 8%, ask 9%). Sibling strikes are December >$14.50 at about 5%, and January >$14.00 at about 16% and >$15.00 at about 9%, though those thin rungs look stale. A noisy, thinly-traded index justifies some fat-tail weight. Even so, the averaging over 31 days and the recent downtrend argue for slightly below the market, so I put Yes at about 6%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8120",
+   "has_trace": true
+  }
+ ],
+ "Will an open-source model be ranked #1 on Arena by December 31, 2027?": [
+  {
+   "id": 8110,
+   "scanned_at": "2026-11-25T18:54:01.512851",
+   "date": "2026-11-25",
+   "agent": 21.5,
+   "market_price_t0": 39.5,
+   "edge": -0.18,
+   "confidence": 0.56,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.25, 0.18) after one crux research pass. (0) The condition is not met. The publisher's Hugging Face raw Text Arena snapshot (style control off, 2026-11-22) shows proprietary Gemini 4 Carbon #1 at 1538.87 and the top 13 all proprietary, with the best open model MiMo-V2.6-Pro at #14 (1492.87), a confirmed 46-point gap. (a) About 13 months remain, until Dec 31, 2027. (b) Status quo is No: no open model has held overall #1 since 2023, the gap has stayed at roughly 40-55 points through 2026, and the open frontier's 4-5 points a month is matched by proprietary gains. (c) No: Chinese labs keep landing in the 1480-1500 band while K4 is delayed by Moonshot's lost B300 compute, Qwen4-Max stays closed, DeepSeek V5 slips, and closed labs push #1 toward 1550+. (d) Yes: a DeepSeek-R1-style surprise (V5, K4, GLM-6 or open Qwen weights) debuts at or above the leader during a closed-lab lull, and any brief spike counts. The tie rule orders by score, so overlapping intervals give no help, and the open filter mislabels some open-weight models (Qwen3.8-Max shows as Proprietary). The thin market ($16K) at 39.5% looks high against a confirmed 46-point gap, but 13 months in AI leaves real room for surprise, so I shade down to about 25%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8110",
+   "has_trace": true
+  }
+ ],
+ "Will Afghanistan be last in the World Happiness Report 2027?": [
+  {
+   "id": 8105,
+   "scanned_at": "2026-11-25T17:30:02.813358",
+   "date": "2026-11-25",
+   "agent": 74.5,
+   "market_price_t0": 76.5,
+   "edge": -0.020000000000000018,
+   "confidence": 0.485,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.79, 0.70). (0) Not resolved: a Wayback capture of the WHR site from 17 Nov 2026 shows no 2027 report; WHR 2027 is scheduled for 20 March 2027 using 2024–2026 Gallup data. (a) About four months to the 1 April 2027 close, with a 30 June fallback. (b) Status quo strongly favours Yes: Afghanistan has been last in 7 straight editions, and in 2026 it scored 1.446 against Sierra Leone's 3.251, a gap far beyond normal three-year-average movement, while 2026 conditions worsened. (c) No path is administrative: the WHR 2026 appendix lists Afghanistan as missing 2025 data with a single ~999 sample; if that wave was 2023 and Gallup did not field in 2026, Afghanistan drops out and Sierra Leone or Zimbabwe ranks last. Score arithmetic cannot tell whether that wave was 2023 or 2024, and Gallup's 2026 emotional-health report referencing Afghanistan hints at 2026 fieldwork. (d) Yes path: on-time publication with Afghanistan included, finishing last by a wide margin. The market's drop from 86.5% to 76.5% likely prices this inclusion risk; I sit slightly above it at 0.79 because inclusion looks more likely than not, but the unresolved question caps my confidence.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8105",
+   "has_trace": true
+  }
+ ],
+ "Will the average Ornn H100 rental price in March 2027 be above $2.60?": [
+  {
+   "id": 8092,
+   "scanned_at": "2026-11-25T14:10:21.246481",
+   "date": "2026-11-25",
+   "agent": 74.5,
+   "market_price_t0": 74.5,
+   "edge": 0,
+   "confidence": 0.555,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.74, 0.75). (0) Not resolved. No March 2027 settles exist yet. Ornn's page shows the OCPI-H100 at $3.16 on the Nov 24 settle and a November month-to-date mean of $3.15. September averaged $2.83 and October $2.94, all above the $2.60 strike.\n\n(a) About four months remain. The outcome is the mean of roughly 31 daily settles in March 2027, finalized by early April.\n\n(b) Status quo favours Yes. If prices hold near $2.9–3.2, the March mean clears $2.60 comfortably. Averaging damps the ±4–12% daily noise to roughly ±$0.05, so a sustained level drop of about 17–18% is needed for No.\n\n(c) No scenario: Blackwell oversupply cascades down the stack and drags Hopper toward the $2.0–2.6 band. Signals pointing that way include reported 20–35% Blackwell spot cuts and a neocloud stock selloff on Nov 25, plus 2023–24 H100 reservations rolling off. There is also precedent for 20–40% swings within 2026.\n\n(d) Yes scenario: the memory-driven shortage persists, as documented by SK hynix and TrendForce. CoreWeave reports being sold out through 2027 and repricing Hopper 30–50% higher. That keeps the index in a $2.9–3.5 band.\n\nAnchors: the Polymarket price is 74.5%, and the sibling $2.60 strikes for January (~79.5%) and February (~78%) form a coherent term structure, with March slightly lower for added time. The fresh oversupply headline is a modest bearish factor the market may only partly price, offset by the strong supply-tightness evidence, so I stay essentially at the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8092",
+   "has_trace": true
+  }
+ ],
+ "Next Russia-Ukraine senior diplomatic meeting by December 31, 2026?": [
+  {
+   "id": 8089,
+   "scanned_at": "2026-11-25T13:28:35.657706",
+   "date": "2026-11-25",
+   "agent": 56,
+   "market_price_t0": 62.5,
+   "edge": -0.06499999999999995,
+   "confidence": 0.455,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.55, 0.57). (0) Not yet resolved. The Nov 10–11 Abu Dhabi round predates the market's Nov 12 opening. The Kremlin and Russian MFA feeds and reporting through Nov 25 show no qualifying meeting since, so YES still needs a new senior round. In practice that means a US-mediated trilateral round led by figures such as Umerov and Medinsky, held by Dec 31. (a) About 5 weeks remain, including the holiday period. The November round needed about 18 days from announcement to meeting, so a date would likely have to be announced by about mid-December. (b) Status quo is NO: as of Nov 24–25 Peskov says no date is set, though Abu Dhabi is the base venue. (c) NO scenario: the format dispute stalls scheduling, with Moscow rejecting European participation while Europe and France demand a full seat and refuse bilateral Moscow trips. The US's Dec 25 target then slips into January, repeating the February→March and early-October slippages and the 5–9 week shuttle lags. (d) YES scenario: Washington pushes the round before Dec 25 and Russia keeps the trilateral format (Ushakov said more trilateral rounds may precede European entry). Ukraine attends in Abu Dhabi in early to mid December, possibly tied to finalising the large POW swap. I anchor on the 62.5% market price but shade down. The market has drifted down 13.5 points in 30 days, no date exists, Kremlin timelines have repeatedly slipped, and the format conflict is unresolved. Strong stated intent from all three parties and a named venue keep YES above even.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8089",
    "has_trace": true
   }
  ]

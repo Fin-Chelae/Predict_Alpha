@@ -22634,7 +22634,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-26T12:32:09.274Z",
+  "last_sync": "2026-11-26T23:50:58.829Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -27679,6 +27679,20 @@
  ],
  "Will Benjamin Netanyahu be the next leader out before 2027?": [
   {
+   "id": 8196,
+   "scanned_at": "2026-11-26T19:44:04.540318",
+   "date": "2026-11-26",
+   "agent": 72,
+   "market_price_t0": 73.5,
+   "edge": -0.015000000000000013,
+   "confidence": 0.575,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.72, 0.72). (0) Not resolved yet. As of Nov 25–26, Netanyahu is caretaker PM, and the rules say caretaker status does not count as leaving office. The other listed leaders (Macron, Erdogan, Xi, Kim, Albanese, Newsom, Milei) are all priced at 0.05–0.25%, so the market turns almost entirely on whether an Eisenkot-led government wins a Knesset confidence vote and is sworn in by Dec 31. (a) About 35 days remain. Eisenkot's mandate runs to Dec 6 and can be extended to about Dec 20, with the vote due within 7 days of notifying the Knesset, so even the slowest first-track path falls inside 2026. (b) Status quo, with Netanyahu still caretaker on Dec 31, resolves NO. (c) NO: UTJ talks stall, Liberman or Bennett balk at reliance on Arab abstention, or the Democrats' dispute over cabinet posts reopens. A failed or abandoned vote then passes the mandate to Netanyahu or toward new elections, keeping him caretaker into 2027. (d) YES: since a plurality is enough, a deal including UTJ plus abstention by Ra'am or the Joint List beats Netanyahu's 53, and the government is sworn in around Dec 2–20. Momentum is real: deals with Liberman and the Democrats are signed, Liberman has reversed on UTJ and Ra'am, UTJ has a rabbinic green light and a negotiating team, and Netanyahu reportedly told aides a 'miracle' is needed. I anchor on Polymarket's 73.5% and shade down slightly, because no 61-seat or abstention majority is signed, a failed vote ends the mandate immediately, and Israeli coalition-building has often overrun.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8196",
+   "has_trace": true
+  },
+  {
    "id": 8118,
    "scanned_at": "2026-11-25T21:00:36.008740",
    "date": "2026-11-25",
@@ -28946,6 +28960,20 @@
   }
  ],
  "Will CMI declare the Riemann Hypothesis solved by December 31, 2027?": [
+  {
+   "id": 8177,
+   "scanned_at": "2026-11-26T12:50:38.764789",
+   "date": "2026-11-26",
+   "agent": 12,
+   "market_price_t0": 16.5,
+   "edge": -0.04500000000000001,
+   "confidence": 0.56,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.12). (0) Not met: CMI's Riemann Hypothesis page still says 'Active', and its News page has nothing on the problem being solved. Bridson's 'historic significance' remark is not a declaration. (a) About 13 months remain until 2027-12-31. (b) Status quo is No: CMI's 2018 rules require qualifying publication, then two years, then general acceptance. The Alpöge/Claude proof (Nov 2026) has no journal submission and no human-readable write-up, so the mechanical earliest prize date is late 2028. (c) No path: CMI stays 'deliberately unhurried' as with OpenAI's Navier-Stokes claim, with no follow-up after 75 days, while the write-up and refereeing consume 2027. (d) Yes path: a readable exposition and endorsements from leading number theorists, on top of the Lean FRO/Mathlib certification, lead CMI to use its §3a sole discretion or to issue a 'settled/solved' communication. Its quick 'apparently been settled' Navier-Stokes note shows it will speak early, and a loose statement could be read as qualifying. Anchoring on the 16.5% Polymarket mid, which looks inflated by a 7-point hype jump this week, I shade down modestly given CMI's rules-based behaviour, while keeping a real tail for a discretionary statement or ambiguous wording.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8177",
+   "has_trace": true
+  },
   {
    "id": 3493,
    "scanned_at": "2026-09-27T12:01:19.324488",
@@ -33741,6 +33769,20 @@
  ],
  "Will the 5-year Treasury yield hit 5.10% before 2027?": [
   {
+   "id": 8191,
+   "scanned_at": "2026-11-26T17:46:26.913895",
+   "date": "2026-11-26",
+   "agent": 9.5,
+   "market_price_t0": 8.9,
+   "edge": 0.005500000000000005,
+   "confidence": 0.6599999999999999,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.09). (0) Not met: Treasury par 5 Yr max in window is 5.09% (9/30); latest 4.65% on 11/25. (a) ~24 sessions to 12/31. (b) Status quo is No, 45 bp below strike. (c) No: Dec hike fully priced, short-cycle sell-side views, equity risk-off keeps 5Y near 4.6-4.9%. (d) Yes: hot payrolls/CPI plus a 50bp hike or back-to-back-hike signal at the 12/9 FOMC, reversing the haven rally for a new cycle high above 5.09%. Recent 27bp weekly moves make a ~45bp touch a ~10-15% tail, but repeated failures to clear 5.10% and mean-reversion argue lower; anchored near market's ~9%, slight nudge up given volatile regime and sibling-ladder inconsistency.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8191",
+   "has_trace": true
+  },
+  {
    "id": 7615,
    "scanned_at": "2026-11-19T17:43:30.051081",
    "date": "2026-11-19",
@@ -36927,6 +36969,20 @@
  ],
  "Will Google have the best AI model at the end of December 2026?": [
   {
+   "id": 8180,
+   "scanned_at": "2026-11-26T13:36:08.799319",
+   "date": "2026-11-26",
+   "agent": 79,
+   "market_price_t0": 77.5,
+   "edge": 0.015000000000000013,
+   "confidence": 0.64,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.79, 0.79). (0) The condition is not yet settled. Resolution is a single snapshot of the arena.ai text board (style control off) at 12:00 PM ET on Dec 31. As of LMArena's own Hugging Face dataset (published Nov 22), Google holds ranks 1–3: Gemini 4 Carbon at about 1539 in the no-style-control view, with Argon and Neon behind it. The best non-Google model is Claude Opus 5.5 at about 1514, and Carbon's lower confidence bound sits above Opus's upper bound. (a) About five weeks remain until the Dec 31 check. (b) The status quo resolves YES. The newest rival flagships, Claude Fable 5.2 (8th, about 1502) and GPT-6.2 (about 1465), were already scored and did not challenge Google, and Carbon's score has been stable since launch despite its Preliminary tag. (c) NO path: Anthropic ships the rumored Opus 5.6 in early or mid December, or Meta updates Muse Wonder (1512), with a 20–25+ point jump that tops Carbon before the check. Meanwhile Carbon's score drifts down as votes accumulate. The 2026 record of frequent #1 changes after flagship launches makes this plausible but not likely. (d) YES path: December is quiet, or rival releases land short of about 1527–1539, and Google can still answer with Gemini 4.1. The anchor is Polymarket at 77.5%, with Kalshi's same-board market at 78%. The research adds the confirmation that Fable 5.2 and GPT-6.2 have already been scored and fell short. The recent 8-point slide in price likely reflects Opus 5.6 rumors, so I shade only slightly above the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8180",
+   "has_trace": true
+  },
+  {
    "id": 7598,
    "scanned_at": "2026-11-19T12:34:19.526044",
    "date": "2026-11-19",
@@ -39791,6 +39847,20 @@
  ],
  "Will Alphabet be the third-largest company in the world by market cap on December 31?": [
   {
+   "id": 8205,
+   "scanned_at": "2026-11-26T22:36:25.809966",
+   "date": "2026-11-26",
+   "agent": 33,
+   "market_price_t0": 36,
+   "edge": -0.02999999999999997,
+   "confidence": 0.525,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.35, 0.31). (0) Not resolved: Nov 26 CompaniesMarketCap and other trackers show Alphabet 4th at about $3.33T, behind Microsoft ($3.64T) and Nvidia ($3.61T). (a) About 5 weeks remain to the Dec 31 close, with no scheduled earnings for Alphabet or Nvidia. (b) Status quo is NO; Alphabet needs a relative gain of roughly 8–9% over the weaker of Nvidia or Microsoft. (c) NO: Alphabet's credit and capex worries (record CDS, about -$9B FCF, below key moving averages) persist and Nvidia holds near $149 with analyst upgrades; an Nvidia drop more likely pushes it behind Microsoft than behind Alphabet. (d) YES: Nvidia's Nov 23 reinstatement spike (+~30%) keeps fading, as it did the next three days, on AI-capex doubts or a Huang congressional or investigation headline, and Alphabet rebounds on TPU and Gemini news; TASS had Alphabet ahead of Nvidia on Nov 21, showing how fast the order flips. Realized volatility of 15–30% a month makes an 8% relative move plausible, and Alphabet only needs to beat the minimum of the two; a rough volatility model gives about 35–42%. The Polymarket mid is 36% on a wide, thin book, and I stay close to it, shading slightly toward NO for share-class counting ambiguity under a consensus-of-reporting resolution.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8205",
+   "has_trace": true
+  },
+  {
    "id": 7601,
    "scanned_at": "2026-11-19T13:20:54.651682",
    "date": "2026-11-19",
@@ -40172,6 +40242,20 @@
   }
  ],
  "Howard Lutnick out as Secretary of Commerce by December 31?": [
+  {
+   "id": 8198,
+   "scanned_at": "2026-11-26T20:27:16.988988",
+   "date": "2026-11-26",
+   "agent": 12.5,
+   "market_price_t0": 11.5,
+   "edge": 0.009999999999999995,
+   "confidence": 0.575,
+   "category": "Politics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.12). (0) Not resolved. As of Nov 26, credible reporting (Axios, Raw Story, the resolution-source read) still has Lutnick as Commerce Secretary, with no resignation or removal announced. YES needs an announced departure by Dec 31 at 11:59 PM ET. (a) About five weeks remain, and the only scheduled catalyst is his voluntary Senate Banking testimony on Dec 10. (b) The status quo is No. Trump publicly backed him on Nov 12, Nov 16 and Nov 20 and framed the Megaspeed delay as a deliberate China policy, and Lutnick has already survived the Epstein scandal and a reported near-firing. (c) NO: the Dec 10 hearing under a friendly chair (Scott) passes without a new revelation, Trump keeps backing him, and any reckoning slips to the Democratic-controlled Congress in 2027, which would not count for this market. (d) YES: a damaging hearing, or a fresh revelation such as the chip-approval data or the BIS-agents story, combined with Bessent's open hostility and Cotton's argument for acting before the Senate flips on Jan 3, prompts Trump to push him out in mid-to-late December. Trump's Wiles reversal shows his denials are weak evidence. The Polymarket anchor is 11.5%, down from about 22% in mid-November as the news cycle cooled. The sibling March 2027 strike sits at about 24.5%. I nudge slightly above the anchor because the lame-duck confirmation incentive concentrates any planned exit in December rather than spreading it evenly across the next four months.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8198",
+   "has_trace": true
+  },
   {
    "id": 7620,
    "scanned_at": "2026-11-19T19:28:02.735206",
@@ -41685,6 +41769,20 @@
  ],
  "Will Solana dip to $40 by December 31, 2026?": [
   {
+   "id": 8203,
+   "scanned_at": "2026-11-26T21:52:16.614176",
+   "date": "2026-11-26",
+   "agent": 5.5,
+   "market_price_t0": 8.8,
+   "edge": -0.032999999999999995,
+   "confidence": 0.64,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.05, 0.06). (0) Resolution check: the condition has not been met. Binance's own SOL/USDT monthly klines show the lowest low in the window was 60.13 in June 2026, and the November low so far is 64.87, with spot around $71.7. The week of Nov 24–30, 2025 was not covered by that query, but SOL traded around $133–143 then, so it is irrelevant. (a) About 35 days remain, through Dec 31, 2026 23:59 ET. (b) Status quo: SOL has held a $60–80 range since June, so if nothing changes this resolves No. (c) No scenario: the Dec 9 Fed hike, already priced at about 93–100%, passes without a fresh shock, and SOL holds the $60–65 support that held in February, June and November. (d) Yes scenario: a 50bp hike or hot Dec 10 CPI pushes BTC through $54k. SOL breaks $60 and cascades through an air pocket toward the $25–40 zones analysts cite, perhaps with a thin holiday-liquidity wick. That needs about a 44% drop in 5 weeks. A lognormal touch model at an elevated 80–90% volatility gives roughly 2–3%. Fat tails, the persistent downtrend (nine straight losing months) and extreme fear justify going higher, but the polymarket anchor of 8.8% likely carries longshot premium. I shade it to about 5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8203",
+   "has_trace": true
+  },
+  {
    "id": 7618,
    "scanned_at": "2026-11-19T19:00:14.434136",
    "date": "2026-11-19",
@@ -42560,6 +42658,118 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.09, 0.08). (0) Not met. The publisher's own Hugging Face dataset (raw text, overall, published 2026-11-22) shows proprietary Gemini 4 Carbon (High) at #1 with 1538.87. The best open model, Xiaomi's MiMo-V2.6-Pro, is #14 at 1492.87, and ranks 1–13 are all proprietary. Carbon's lower confidence bound sits well above MiMo's upper bound. (a) About 4 months remain until 2027-03-31. (b) If nothing changes, this resolves No: the open-versus-closed raw gap is about 46 points. Arena itself says the gap has stayed in a roughly 30–60 point band since early 2025, and the only near-tie was DeepSeek R1 in January 2025. (c) No path: Chinese labs ship incremental releases (Qwen4 27B, Kimi K3.x, GLM) that land around 1495–1510. Meanwhile Google and Anthropic keep raising the bar with models like Neon and Fable 5.2, so the gap persists. (d) Yes path: a DeepSeek V5 open release or a Kimi K4 makes an R1-style jump of about 45+ raw points in Q1 2027. Wide early confidence intervals and a high unrounded score could then place it at shared rank 1, especially if Carbon's preliminary score drifts down. DeepSeek V5 test identifiers exist, but no release date has been announced. The market sits at 12.5% and is trending down. The sibling markets (Dec 2026 at 2.5%, Jun 2027 at 23%) fit a hazard that rises in 2027. I land slightly below the market because the window is short, the gap is large, and no open frontier release has a date.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/8126",
+   "has_trace": true
+  }
+ ],
+ "Will the average Ornn B200 rental price in January 2027 be above $9.00?": [
+  {
+   "id": 8207,
+   "scanned_at": "2026-11-26T23:20:25.606654",
+   "date": "2026-11-26",
+   "agent": 57.5,
+   "market_price_t0": 59.5,
+   "edge": -0.020000000000000018,
+   "confidence": 0.45999999999999996,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.57, 0.58). (0) Resolution check: nothing is resolved yet. Ornn's OCPI-B200 page has no January 2027 values. The latest settle was $9.76 on Nov 25 and the November average to date is $9.51, so the index sits slightly above the $9.00 strike.\n(a) Time left: about five weeks until January starts, then the 31 January settles have to be averaged, so roughly two months of drift and noise remain.\n(b) Status quo: if the index holds near November's level ($9.1–9.8), the January mean clears $9.00 and this resolves YES. The cushion is thin, though: about 5–8%, and the Nov 23–24 prints of $9.06–$9.07 were only cents above the line.\n(c) NO scenario: the supply reports play out and drag B200 on-demand trades back into the $8s, as happened in the roughly 30% June drop. Those reports are SpaceX cutting Blackwell rates by up to 35%, returned H200s being sublet, and B300 leases being discounted. The Nov 25 jump may also prove to be a one-off print, with the mid-November slide resuming.\n(d) YES scenario: the multi-month uptrend and Blackwell scarcity persist, including the credit limits on GPU-backed loans and record B300 rents. December holds at $9.3–10 and January averages around $9.5.\nAnchor: Polymarket is at 59.5%. The ladder snapshot (56% above $9, 42% above $9.50) and the sibling curve implying mean reversion toward $8–9 by mid-2027 are consistent with that price. A rough lognormal estimate, with about 20% two-month volatility and slight negative drift from a roughly $9.5 base, gives about 55–60%. The fresh bearish supply news is unconfirmed, so I shade only slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8207",
+   "has_trace": true
+  }
+ ],
+ "Will the average Ornn H200 rental price in January 2027 be above $7.00?": [
+  {
+   "id": 8201,
+   "scanned_at": "2026-11-26T21:06:05.313639",
+   "date": "2026-11-26",
+   "agent": 35,
+   "market_price_t0": 38.5,
+   "edge": -0.03500000000000003,
+   "confidence": 0.475,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.35, 0.35). (0) Not resolved. No January 2027 settles exist; Ornn's page shows the latest settle at $6.69 on Nov 25 and a November month-to-date average of $6.66. (a) About two months remain before the 31-day January window, which runs to Jan 31, with closing on Feb 1. (b) If nothing changes, the index holds around $6.5–6.7. That gives a January mean below $7.00, so No. No full month has yet averaged above $7, after Sep at $4.89, Oct at $5.92 and Nov at about $6.66. (c) No path: about 50k H200s come back to market as Anthropic does not renew in Jan–Mar 2027, and the reported SpaceX re-offer at about $5/hr softens transacted prices. B200 and H100 are already rolling over, and NVDA's sharp drawdown points to fading AI-demand sentiment; together these keep January near $6–6.5. (d) Yes path: the Sep–Nov uptrend of roughly +$1 per month resumes, the Nov 19–25 dip proves to be noise, and AWS's January Capacity Blocks repricing plus a tight Hopper supply lift the level to $7+ for the whole month. Bearish forecasts have badly underestimated this series all year. Polymarket prices this at 38.5%, and its ladder ($6.50 at 49.5%, $7.50 at 23.5%) implies a median near $6.50, roughly flat to slightly down. I shade slightly below the market because the Anthropic handback lands in exactly the January window and the recent news flow is bearish, though the large volatility keeps this close to the market price.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8201",
+   "has_trace": true
+  }
+ ],
+ "Will the average Ornn B200 rental price in January 2027 be above $8.50?": [
+  {
+   "id": 8195,
+   "scanned_at": "2026-11-26T19:06:30.861659",
+   "date": "2026-11-26",
+   "agent": 70.5,
+   "market_price_t0": 69.5,
+   "edge": 0.010000000000000009,
+   "confidence": 0.555,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.70, 0.71). (0) Not resolved. The Ornn page shows the latest settle at $9.76 on Nov 25 and a November-to-date average of $9.51. No January 2027 values exist yet. (a) The resolution window is Jan 1–31, 2027, about 5–9 weeks out, and the outcome depends on 31 daily settles. (b) Status quo favours YES: every print since Oct 28 has been at least $9.06. A January average near current levels clears $8.50 by roughly 12–13%. (c) NO path: the Nov 8–24 slide resumes and the index falls back toward its September–October levels. Drivers would be SpaceX's Blackwell spot cuts, Anthropic's H200 cluster being re-offered, neocloud credit stress and slowing token spend. The October average was $8.51, so this is plausible on a volatile two-month horizon. (d) YES path: scarcity persists (CoreWeave sold out for 2027, the NVIDIA call, rising Silicon Data and list-price trackers) and the index holds around $9–10 through December into January. A simple lognormal check fits the market: roughly 20–25% volatility over the horizon against a ~13% buffer gives about 70–75%, before allowing for the mildly bearish forward-curve drift. That lines up with the Polymarket 69.5% anchor and the sibling ladder's implied median of about $9.2–9.3. I found no unpriced information strong enough to move off the market, so I stay at about 70%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8195",
+   "has_trace": true
+  }
+ ],
+ "Will the average Ornn B300 rental price in March 2027 be above $15.00?": [
+  {
+   "id": 8193,
+   "scanned_at": "2026-11-26T18:23:52.529806",
+   "date": "2026-11-26",
+   "agent": 12.5,
+   "market_price_t0": 18.5,
+   "edge": -0.06,
+   "confidence": 0.61,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.12, 0.13). (0) Not resolved: Ornn OCPI-B300 settled $10.83 on Nov 25, 2026 and no March 2027 values exist. (a) About 4 months remain until the March 1-31, 2027 averaging window, finalized by about April 7. (b) Status quo: spot is about $10.83 and trending down; monthly averages have ranged $11.49-$12.29 and the record daily print is $14.23, so an unchanged market gives a March average near $10-13 and resolves NO. A YES needs a sustained ~40% rise across 31 daily settles. (c) NO: the SpaceX small-cluster Blackwell cut ($15 to $10-12), Anthropic's returned H200 supply and cheap Asian neocloud B300 leases keep on-demand prices near $9-12 through Q1. (d) YES: a Q1 2027 scarcity shock (Nvidia's 60%+ B300 rate rise, 15%+ server cost pass-through, demand outrunning supply) pushes the thin, volatile on-demand index persistently above $15; its 24% drawdown in six weeks shows a matching rally is possible. Market anchor is 18.5%. The sibling ladder is non-monotonic (>$16 at 19.5%), suggesting longshot bias in thin markets, and the Feb >$14 sibling is reportedly near 13.5%, so I shade down to about 12% while keeping a real tail for the index's high volatility and short history.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8193",
+   "has_trace": true
+  }
+ ],
+ "Will the average Ornn B200 rental price in February 2027 be above $8.00?": [
+  {
+   "id": 8188,
+   "scanned_at": "2026-11-26T15:55:04.935832",
+   "date": "2026-11-26",
+   "agent": 71,
+   "market_price_t0": 69.5,
+   "edge": 0.015000000000000013,
+   "confidence": 0.53,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.71, 0.71). (0) Not resolved. Ornn's page shows no February 2027 values yet. The latest settle is $9.76 (Nov 25), November averages $9.51 to date, and the series has held above $8 since early October. (a) About three months remain before the Feb 1–28, 2027 averaging window, and resolution comes in early March. (b) If the index stays near today's level, February averages about $9–10 and resolves Yes. The cushion is about 12–18% above the $8.00 strike. (c) No path: the post-Nov-8 slide resumes, and the SemiAnalysis-reported Blackwell spot cuts (SpaceX down 20–35%) and Anthropic capacity returns flow through to executed trades. Ornn's premium over other B200 gauges (Silicon Data about $6.9, median list price about $8.08) then mean-reverts, much like the roughly 30% drop in three weeks seen in June, and February averages under $8. (d) Yes path: capacity stays sold out, CoWoS and HBM constraints persist through 2027, Nvidia's price rises arrive in early 2027, and credit limits curb new supply, so the index holds in an $8.50–10.50 band. The Polymarket mid of 69.5% is the anchor. The higher-volume sibling contract, March 2027 above $8, trades at 74.5%, which slightly supports Yes for the nearer February month. The bearish reports are single-sourced, so I land a touch above the market at 0.71.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8188",
+   "has_trace": true
+  }
+ ],
+ "Will the average Ornn B200 rental price in March 2027 be above $8.00?": [
+  {
+   "id": 8185,
+   "scanned_at": "2026-11-26T15:06:43.589568",
+   "date": "2026-11-26",
+   "agent": 69.5,
+   "market_price_t0": 73.5,
+   "edge": -0.040000000000000036,
+   "confidence": 0.51,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.69, 0.70). (0) Not resolved. No March 2027 values exist yet. Ornn's page shows the latest settle at $9.76 (Nov 25), a November month-to-date average of $9.51 and an October average of $8.51. (a) The window opens in about 3 months and closes in about 4. The result is the mean of 31 daily settles from March 1–31, 2027. (b) Status quo is YES: if the index held at $9.1–9.8, March would average about 15–22% above $8.00. (c) NO path: the Blackwell spot softening keeps going, cutting the index 20%+ to a high-$7 or lower average. Signals include SpaceX cutting spot rates 20–35%, Anthropic declining to renew its H200s, B300 down 24% from its peak, slowing token-spend growth, neocloud financing stress and Q1 2027 capacity additions. The May–June 2026 drop of 30% in three weeks shows this young, thin index can move that fast. (d) YES path: Blackwell supply stays pre-booked and constrained by HBM and packaging, NVIDIA's early-2027 system price hikes add support, and Rubin arrives broadly only after March. The index then holds $8.50–10, with the monthly average smoothing out daily noise. A simple lognormal model with no drift (about 30–35% vol over the horizon, a 17% cushion) gives roughly 70%. Forward markets imply decline: June 2027 above $8 trades at 45%, and the Dec 2028 PIRP is about $6. Fresh bearish supply evidence tilts me slightly below the 73.5% market, to 0.69.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8185",
+   "has_trace": true
+  }
+ ],
+ "Will Melania Trump meet with Putin by December 31, 2026?": [
+  {
+   "id": 8183,
+   "scanned_at": "2026-11-26T14:23:15.779329",
+   "date": "2026-11-26",
+   "agent": 9,
+   "market_price_t0": 8.2,
+   "edge": 0.008499999999999994,
+   "confidence": 0.605,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.08). (0) No credible report shows Melania meeting Putin since the market opened: she skipped the Shenzhen APEC trilateral and met only Putin's envoy Dmitriev on Nov 5. This market resolves on Putin; Zelenskyy has a separate market. (a) About five weeks remain, and the only scheduled venue is the Dec 14-15 Miami G20 at Trump's Doral. (b) Status quo is No: the Kremlin is 'undecided' (Peskov, Nov 26), and Putin has skipped every in-person G20 since 2019. (c) NO: Russia sends Lavrov or a deputy, or Putin attends but Melania only shares a room or photo with him, which the rules exclude. (d) YES: Putin comes to Doral after the Shenzhen thaw, and Melania, who has committed to host a Fostering the Future event at the G20 and whom Putin has thanked for the children channel, greets or talks with him in a credibly reported interaction. I put Putin's attendance at about 20-25% and a reported interaction given attendance at about 50%, so roughly 10%. That is slightly above the 8% market mid, which sits in a thin market with a wide spread.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8183",
    "has_trace": true
   }
  ]

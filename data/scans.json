@@ -505,6 +505,20 @@
  ],
  "Will Javier Milei win the 2027 Argentina presidential election?": [
   {
+   "id": 8166,
+   "scanned_at": "2026-11-26T09:35:36.557714",
+   "date": "2026-11-26",
+   "agent": 43.5,
+   "market_price_t0": 45.5,
+   "edge": -0.020000000000000018,
+   "confidence": 0.45999999999999996,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.44, 0.43). (0) Not resolved. The CNE and DINE sites show no 2027 results. The first round is set for 24 Oct 2027, with a likely runoff around 21 Nov 2027. (a) That leaves about 11 months to the first round and roughly 12 to a possible runoff. (b) If nothing changes, Milei narrowly leads first-round polls at about 33–35% against Peronism's 31%. Runoff polling is a technical tie: one aggregator has it at 41.2–40.6, while El Destape's eight-poll roundup has Kicillof about 3 points ahead. Approval is around 35% against roughly 60% disapproval, and the economy is in an apparent technical recession with inflation above 30% and country risk around 1,000. That is roughly a coin flip, tilted slightly against the incumbent. (c) NO: the economy stays weak, real wages don't recover, and Peronism unites behind Kicillof or Massa. Milei's 54–59% rejection rate then caps him in the runoff and he loses narrowly, as Macri did in 2019. (d) YES: the PASO primaries are suspended and Peronism fragments (the CFK–Massa versus Kicillof feud), growth rebounds in 2027 as forecast, and Milei beats the polls again as he did in the 2025 midterms (40.8% against about 31%), winning the runoff. I anchor on Polymarket's 45.5% and its stable recent range of 43.5–47%. The recession data and slightly negative runoff trend argue for shading down. The Peronist infighting, Milei's track record of beating polls, and the long horizon argue against moving far. The net is a small downward adjustment.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8166",
+   "has_trace": true
+  },
+  {
    "id": 7587,
    "scanned_at": "2026-11-19T07:51:58.229942",
    "date": "2026-11-19",
@@ -874,6 +888,20 @@
   }
  ],
  "Zhang Youxia sentenced to prison before 2027?": [
+  {
+   "id": 8147,
+   "scanned_at": "2026-11-26T04:26:38.697720",
+   "date": "2026-11-26",
+   "agent": 2.8,
+   "market_price_t0": 4.5,
+   "edge": -0.017499999999999995,
+   "confidence": 0.8300000000000001,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.03, 0.03). (0) The condition is not met. Reuters and Al Jazeera timelines as of Nov 25–26 list Zhang only as investigated, removed and expelled. No indictment, trial or verdict has been reported for him. His case was referred to military prosecutors on 2026-09-21. (a) About five weeks remain before the Dec 31, 2026 deadline. (b) If nothing changes, the market resolves NO. Polymarket trades at 4.5% (bid 4 / ask 5), down 6 points over 30 days. (c) NO path: the case follows the military precedents. Wei Fenghe and Li Shangfu took about 22 months from referral to sentence. He Weidong and Miao Hua are still unsentenced 13 months after their referral. Even the fast civilian Ma Xingrui case took about 4 months to reach indictment, with no trial yet. Zhang's verdict therefore lands well into 2027. (d) YES path: an indictment comes in early December, mirroring Ma's timing after the 10/29 ratification. A closed military trial follows quickly, and Xinhua announces a life sentence before year-end because Xi wants it wrapped up. That would require indictment, trial and verdict within about 5 weeks, faster than any precedent found, with no sign of it starting. I shade slightly below the market because the research finds no imminence signal and the military pipeline is demonstrably slower.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8147",
+   "has_trace": true
+  },
   {
    "id": 7490,
    "scanned_at": "2026-11-18T04:45:30.848108",
@@ -1984,6 +2012,20 @@
   }
  ],
  "Will Iran Reconstruction Funding be in a US-Iran deal in 2026?": [
+  {
+   "id": 8138,
+   "scanned_at": "2026-11-26T02:26:16.985274",
+   "date": "2026-11-26",
+   "agent": 3.3,
+   "market_price_t0": 5.5,
+   "edge": -0.0225,
+   "confidence": 0.76,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.03). (0) The condition is not met. The only signed US-Iran instrument is the June 2026 Islamabad MOU. Its text commits only to 'develop a definitive, mutually agreed plan' of at least $300bn, with the mechanism to be 'finalized as part of a final deal within 60 days'. That is the excluded plan-or-future-agreement case, and the MOU was also signed before the market opened. It collapsed in July, and Araghchi said on 22 November that it is 'no longer on the table'. (a) About five weeks remain until 31 December 2026, 11:59 PM ET. (b) Status quo is No: the two sides are in a 'no war, no peace' standoff. The blockade is in its fourth month and Hormuz is closed. Ghalibaf says there will be no negotiations until Iran's seven conditions are met, and a third-party development fund is not among them. (c) The likely No path is that the deadlock and escalation continue (a third carrier has arrived and new strikes are reportedly being considered), or an interim Hormuz-for-blockade understanding is reached that defers any fund to final-deal talks. (d) The YES path is a fast Qatar/Pakistan-brokered 'Islamabad II' text, signed by both sides before year-end, that turns the private $300bn fund into a presently binding clause. Nothing in the reporting shows a draft containing such language. I anchor on Polymarket at 5.5%, which has been drifting down. A sibling final-deal market sits near 8%, and even a deal would probably repeat the deferral structure, so I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8138",
+   "has_trace": true
+  },
   {
    "id": 6793,
    "scanned_at": "2026-11-09T19:04:29.633068",
@@ -15541,6 +15583,20 @@
  ],
  "UNSC Resolution Endorsing Final U.S.-Iran Deal by December 31?": [
   {
+   "id": 8132,
+   "scanned_at": "2026-11-26T01:24:56.286489",
+   "date": "2026-11-26",
+   "agent": 2.5,
+   "market_price_t0": 4,
+   "edge": -0.014499999999999999,
+   "confidence": 0.85,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.03, 0.03). (0) The condition is not met and not yet impossible. As of Nov 24–26, credible reporting (WaPo, Gulf News, Press TV, Alhurra) shows no final deal, no draft UNSC text and no scheduled Council vote. Ghalibaf says there will be no talks until Iran's seven conditions are met, Araghchi says the June MOU is 'no longer on the table', and fighting continues. (a) About 5 weeks remain until Dec 31, and December is a holiday-shortened Council month with no Iran item on its programme. (b) If nothing changes, this resolves No. (c) The NO path is the default: the sequencing deadlock persists, at most an interim Hormuz-for-blockade swap emerges, and Trump keeps his 'early 2027' horizon. (d) For YES, a Qatar/Pakistan breakthrough in early December would need to produce a comprehensive final deal, explicitly framed as the MOU's final deal, by mid-December. A Resolution 2231-style text would then have to be adopted within days, with Russia's June pledge of support holding. The market sits at 3.95%. However, Polymarket's own 'US-Iran Final Nuclear Deal by Dec 31' trades at 2.75%, and this market strictly requires that deal plus a Council vote in the same window. That makes 3.95% look slightly rich, so I shade down to about 2%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8132",
+   "has_trace": true
+  },
+  {
    "id": 6787,
    "scanned_at": "2026-11-09T17:23:44.839530",
    "date": "2026-11-09",
@@ -22578,7 +22634,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-25T23:36:41.424Z",
+  "last_sync": "2026-11-26T12:32:09.274Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -26475,6 +26531,20 @@
  ],
  "Will Assimi Goïta be out as President of Mali by June 30, 2027?": [
   {
+   "id": 8156,
+   "scanned_at": "2026-11-26T06:24:52.359486",
+   "date": "2026-11-26",
+   "agent": 14.5,
+   "market_price_t0": 17.5,
+   "edge": -0.02999999999999997,
+   "confidence": 0.575,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.14, 0.15). (0) Nothing shows the condition met. Credible reporting from APA, AMAP and WAVN has Goïta chairing a meeting of military chiefs at Koulouba on 24 Nov 2026 as President of the Transition, and no resignation, handover or coup has been reported. (a) About 7 months remain, to 30 June 2027 at 11:59 PM ET. (b) The status quo is No. The July 2025 charter gives him a renewable five-year mandate running to at least 2030, and no election or handover is scheduled, so only an unscheduled rupture (coup, death, flight or negotiated exit) resolves Yes. (c) No scenario: the counter-coup apparatus keeps catching plots, Africa Corps keeps protecting the regime, and tactical deals ease the JNIM blockade enough. Goïta then outlasts the window as he survived the 2025 blockade and the April 2026 offensive, despite repeated 'brink of collapse' predictions. (d) Yes scenario: a third coordinated JNIM/FLA offensive or a fuel and power collapse in Bamako triggers a barracks coup from Kati while Russia declines to intervene. Consensus reporting would then confirm his removal. The risk is clearly elevated: he is personally defence minister, lost his number two Camara, saw Kidal and the northern bases change hands, and the regime is bargaining under duress. The market anchor is 17.5% (bid 14 / ask 21) and has drifted down 13.5 points over 30 days. The sibling market for 31 Dec 2026 sits at about 3% for one month, which implies a monthly hazard consistent with roughly 15–19% over seven months. I shade slightly below the mid because the research surfaced no new escalation and the regime looks stable through late November, but I keep a meaningful tail for coup risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8156",
+   "has_trace": true
+  },
+  {
    "id": 3241,
    "scanned_at": "2026-09-20T13:42:34.649577",
    "date": "2026-09-20",
@@ -26872,6 +26942,20 @@
   }
  ],
  "Anthropic lab leak by June 30, 2027?": [
+  {
+   "id": 8128,
+   "scanned_at": "2026-11-26T00:24:50.186210",
+   "date": "2026-11-26",
+   "agent": 3,
+   "market_price_t0": 6.5,
+   "edge": -0.035,
+   "confidence": 0.72,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.03). (0) Not yet met. As of 2026-11-26, the resolution-source read and all four research reports find no credible report of any pathogen escape from Anthropic's Bay Area wet lab. The only 'escapes' reported involve AI model sandboxes, and the only leak was a data leak; neither counts. (a) About 7 months remain until 2027-06-30. Both the incident and a consensus-confirmed escape would have to happen inside that window. (b) The status quo is No: the lab is small and new, and by Anthropic's own statement it works only at BSL-1/2, with no human-infecting pathogens and humans doing all physical work. (c) No scenario: the lab keeps doing phage and enzyme work on standard lab strains. Any internal exposure or spill stays unreported, as US BSL-1/2 exposures generally are, or never meets the 'confirmed escape of a pathogen' bar. (d) Yes scenario: a staff infection or contamination involving a BSL-2 or recombinant organism surfaces through a whistleblower, a regulator or a public-company disclosure, and credible outlets describe it as an escape before the deadline. The market sits at 6.5% (flat for 30 days; the sibling Dec-2026 strike trades at 1.1%). The base rate of publicly confirmed escapes worldwide is about 0.7–1 per year across all labs, concentrated in high-containment and state facilities, which implies a far lower per-lab hazard. I therefore shade below the market, which likely carries a novelty and attention premium. I keep a few percent for resolver leniency on the word 'pathogen' and for scrutiny from Anthropic's new public listing.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8128",
+   "has_trace": true
+  },
   {
    "id": 6759,
    "scanned_at": "2026-11-09T08:57:58.704800",
@@ -28407,6 +28491,20 @@
  ],
  "Will the UK’s 2026 inflation be between 3.5% and 3.9%?": [
   {
+   "id": 8171,
+   "scanned_at": "2026-11-26T11:18:17.952418",
+   "date": "2026-11-26",
+   "agent": 57.5,
+   "market_price_t0": 54.9,
+   "edge": 0.025999999999999912,
+   "confidence": 0.5,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.56, 0.59). (0) Not yet met. The latest ONS print is 3.6% for October 2026, inside the band, and December 2026 CPI is due 20 January 2027. (a) About eight weeks remain, with November CPI due 16 December. (b) Status quo: December near 3.6% resolves YES. (c) NO: Brent is down about 23% since late October and petrol about 8p from the October collection, which could cut roughly 0.1–0.2 points; with soft food inflation, discounting and the tough December 2025 base, December could print 3.4% or lower (the sibling 3.0–3.4% market is at 36%). (d) YES: the Ofgem cap rise and other energy step-ups land in January 2027, after the December collection, and core and services stay stable. The Bank (about 3.75–3.8% for Q4) and Treasury-panel (3.6%) central forecasts sit inside the band, and the November/December 2025 base effects roughly net out. Upside above 3.9% looks small: 4%+ siblings total about 4%, and the Bank's Q4 path assumed oil near $108. My central estimate is about 3.5–3.6%, giving a slight edge over the 54.9% market mid.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8171",
+   "has_trace": true
+  },
+  {
    "id": 7396,
    "scanned_at": "2026-11-17T02:27:30.186904",
    "date": "2026-11-17",
@@ -28984,6 +29082,20 @@
   }
  ],
  "Will David Lisnard advance to the second round of the next French presidential election?": [
+  {
+   "id": 8139,
+   "scanned_at": "2026-11-26T02:29:34.397662",
+   "date": "2026-11-26",
+   "agent": 22.5,
+   "market_price_t0": 29.8,
+   "edge": -0.07249999999999998,
+   "confidence": 0.475,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.22, 0.23). (0) Not resolved. The first round is scheduled for 18 April 2027, and the Interior Ministry has no results; Lisnard would still have to finish in the top two. (a) About 4.7 months remain until the first round. (b) If nothing changes, the answer is No. Lisnard averages about 9% (range 8–12%) and is in the top two in none of the 46 scenarios tested over the last 60 days. Even his best poll (Harris, 11–12%, Nov 23) leaves him roughly 7 points behind a stable Mélenchon at 18–19%, with the RN candidate at about 30%. (c) No: the January centre-right primary collapses over Zemmour or Philippe's refusal, or Lisnard loses it to Attal. Philippe stays in and splits the centre-right, the novelty surge regresses, or the left consolidates behind Mélenchon. (d) Yes: the primary goes ahead and Lisnard wins it. The Ifop primary polls show him competitive at 29–33%, and Attal reportedly promises to step aside. Attal and Retailleau voters then consolidate, Philippe fades (7% in YouGov), and Lisnard's momentum (2% to 11% since July) carries him past about 19%. The market sits at 29.75% after a +14-point move in 30 days, and the sibling win market prices him at 23%, so the crowd is betting heavily on momentum and the primary. Polling and the historical base rate for a candidate about 8 points behind five months out argue for less. I shade below the market but respect the strong trajectory and the real consolidation path.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8139",
+   "has_trace": true
+  },
   {
    "id": 7973,
    "scanned_at": "2026-11-24T04:27:54.426493",
@@ -30821,6 +30933,20 @@
  ],
  "Will Predict.fun launch a token by December 31, 2026?": [
   {
+   "id": 8159,
+   "scanned_at": "2026-11-26T07:15:12.463292",
+   "date": "2026-11-26",
+   "agent": 60.5,
+   "market_price_t0": 63.5,
+   "edge": -0.030000000000000027,
+   "confidence": 0.5,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.60, 0.61). (0) Not resolved. The predict.fun homepage on Nov 26 shows no live PREDICT token, and multiple reports (Tokenpost, Coininsider, Cryptoticker on Nov 25) confirm the TGE and claims were postponed on Nov 17 with no new date. Pre-market perps and the Prime Sale don't count. (a) About 35 days remain until the Dec 31, 11:59 PM ET deadline, and that window includes the holidays. (b) Status quo is NO: nothing is tradable, and no date was announced in the 9 days since the Nov 17 delay. (c) NO path: the second slip gave no reason, Binance gives no replacement schedule, and the crypto market is weak. A third 2–3 week slip from the mid-December end of the '2–4 weeks' guidance, or a deliberate wait past the holidays, would push the launch into 2027. (d) YES path: Binance's post-hack recovery is under way. Futures listings resumed Nov 16, Alpha 2.0 runs normally, the Binance Wallet airdrop schedule and Prime Sale allocation remain committed, and the team targets roughly Dec 1–15. A Binance Alpha/Spot listing in December would resolve YES, with some buffer for a short further slip. The market anchor is 63.5% and falling (-27% over 30 days), which already reflects the repeated slips. I find no unpriced information, so I shade slightly below the anchor given the lack of a confirmed date and the holiday timing.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8159",
+   "has_trace": true
+  },
+  {
    "id": 7585,
    "scanned_at": "2026-11-19T07:03:29.135105",
    "date": "2026-11-19",
@@ -31660,6 +31786,20 @@
   }
  ],
  "Will AI solve the Hodge Conjecture in 2026?": [
+  {
+   "id": 8146,
+   "scanned_at": "2026-11-26T04:14:56.149418",
+   "date": "2026-11-26",
+   "agent": 13.5,
+   "market_price_t0": 18.5,
+   "edge": -0.04999999999999999,
+   "confidence": 0.56,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.14, 0.13). (0) Resolution check: nothing shows the condition met. Clay's Hodge page (modified 2026-11-24) and MathWorld (2026-11-25) list Hodge as unsolved. OpenAI's only surviving Hodge output is the CM-abelian-variety special case, which the rules exclude as a partial result, and its broader K3-products route was withdrawn on Oct 7 after a sign error that Lekili–Sheridan traced to a shared failing step. (a) About 35 days remain, including the holidays. (b) If nothing changes, this resolves No. No full-Hodge manuscript, scheduled event or lab statement exists, and no new Hodge item has appeared from any lab since early October. (c) NO: OpenAI keeps posting other results, such as VP vs VNP follow-ups, and Hodge stays partial through Dec 31. Caution after the withdrawal and the backlash from mathematicians also slows any overclaim. (d) YES: OpenAI's newer internal model, which per Pachocki's chart sits beyond GPT-6.2 Astra, or a rival lab runs a large agent swarm. That lab then posts an unverified 'full Hodge' manuscript in the same style as its Navier–Stokes post and its 722-manuscript bulk release. The race with Anthropic, after its Riemann claim, raises the odds of an early claim. I anchor on the 18.5% market price but shade down. The 7-day +8.5% move looks driven by sentiment from the Riemann and Valiant claims and the Astra chart, not by any Hodge-specific news. The single-source 'close to Hodge' rumour is now 10 weeks old, and the general route it implied has publicly failed. Even so, the pace of overclaims in 2026 and the low announcement-only bar justify a real tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8146",
+   "has_trace": true
+  },
   {
    "id": 7686,
    "scanned_at": "2026-11-20T15:18:49.289880",
@@ -36427,6 +36567,20 @@
  ],
  "Next US-Iran senior diplomatic meeting by December 31, 2026?": [
   {
+   "id": 8168,
+   "scanned_at": "2026-11-26T10:19:34.456357",
+   "date": "2026-11-26",
+   "agent": 15,
+   "market_price_t0": 17.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.64,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.15, 0.15). (0) Not resolved. Reporting through Nov 24-25 (WaPo/AP, Axios, Al Jazeera) shows no qualifying senior US-Iran meeting since the Sept 22 UNGA round. Trump's \"very near future\" follow-up never happened in 65 days, and Araghchi called the reported Vance-Rezaei Doha meeting baseless. (a) About 35 days remain until Dec 31, including the holiday period. (b) Status quo is No: contact runs only through Qatari and Pakistani shuttling, Iran says no talks until its seven conditions are met, Vance was pulled as lead negotiator on Nov 12, and Trump's clock points to early 2027 and possible January strikes. (c) No scenario: the sequencing deadlock persists, the US keeps sanctions and the blockade and weighs strikes, Qatar's restart framework stalls, and the year ends with only remote or mediator-only contact. Mediator-only contact does not count under the same-city, same-day rule. (d) Yes scenario: Qatar, backed by Pakistan, Egypt, Saudi Arabia and Turkey, brokers a confidence-building swap on the blockade and Hormuz. A Doha or Istanbul round follows with Witkoff/Kushner in the same city as Araghchi or Ghalibaf. That would count as an indirect meeting, and past rounds have formed within days. The market sits at 17.5%, flat over 7 days after falling from about 54% in early November. The research adds mildly bearish signals: Trump's \"tap dancers\" remark, the strike debate, and Iran's Nov 24 reiteration of its conditions. Against that, Qatari mediation is active at a high level and the indirect standard is fairly easy to meet. I shade slightly below the market to 15%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8168",
+   "has_trace": true
+  },
+  {
    "id": 7592,
    "scanned_at": "2026-11-19T10:09:58.986796",
    "date": "2026-11-19",
@@ -36978,6 +37132,20 @@
   }
  ],
  "Will no next Israeli Minister of Finance be appointed by February 28, 2027?": [
+  {
+   "id": 8153,
+   "scanned_at": "2026-11-26T05:40:36.114005",
+   "date": "2026-11-26",
+   "agent": 21,
+   "market_price_t0": 22.5,
+   "edge": -0.014999999999999986,
+   "confidence": 0.555,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.22, 0.20). (0) Not resolved: no new government has been sworn in. Smotrich is caretaker finance minister and does not count, and no confidence vote is scheduled. (a) There are about 3 months to the deadline of 28 Feb 2027, which is day 124 after the 27 Oct election. That is beyond the roughly 103-day legal formation maximum, so YES essentially requires the whole mandate chain to fail and the Knesset to dissolve, as in 2019. (b) Status quo is NO: Eisenkot holds the mandate to 6 Dec, extendable to 20 Dec. He has 67 recommendations and a signed Yashar–Yisrael Beytenu deal, and multiple reports (Kan, Jfeed, Times of Israel) say Bennett is slotted for Finance with a swearing-in targeted for early December. The Netanyahu–Bennett back channel also has Bennett at Finance, so more than one route produces a finance minister. (c) NO scenario: Eisenkot recruits UTJ and Shas (exactly 13 seats, giving 61) or secures Likud or Arab-abstention arithmetic, and wins a confidence vote by mid-to-late December. Failing that, Netanyahu's or the 61-signature mandate succeeds by early-to-mid February. (d) YES scenario: the arithmetic is genuinely fragile. Liberman vows to vote against a minority government, Bennett and Liberman reject Arab reliance, Shas has 'no intention' of joining, haredi draft terms are unresolved, and Likud demands no rotation. Eisenkot fails, Netanyahu cannot reach 61, and the Knesset heads to a spring election with the caretaker still in place. The market sits at 22.5%, down from about 39% a week ago after the Yisrael Beytenu deal. That roughly matches my read of a real but minority failure-chain risk, so I stay near the anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8153",
+   "has_trace": true
+  },
   {
    "id": 6474,
    "scanned_at": "2026-11-05T21:11:41.839390",
@@ -38939,6 +39107,20 @@
  ],
  "Will Ra'am be in the next Israeli government?": [
   {
+   "id": 8161,
+   "scanned_at": "2026-11-26T08:00:07.487821",
+   "date": "2026-11-26",
+   "agent": 11.5,
+   "market_price_t0": 15.5,
+   "edge": -0.04000000000000001,
+   "confidence": 0.63,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.11, 0.12). (0) Not resolved: per Wikipedia and Al Jazeera (25 Nov), formation is ongoing with no government sworn in, and Ra'am holds no minister post. (a) Eisenkot's mandate runs to 6 Dec, extendable to about 20 Dec; the market deadline is 30 Jun 2027. (b) Status quo: reported plans are a lean cabinet with portfolios already allocated (Public Security to Golan, four posts reserved for the Haredim) and Ra'am supporting or abstaining from outside, which resolves No. (c) No: a change bloc + UTJ government with Arab abstention, a Likud unity government (Likud demands Ra'am be excluded), or failed formation leading to a new election. Eisenkot's pledge, Bennett's opposition and Liberman's earlier veto all point here. (d) Yes: Shas stays out, the bloc needs Ra'am's votes, Liberman's softened wording allows Ra'am in, and Abbas trades a Hamas terror designation for a ministry. A deputy-minister post may not count, adding risk. Anchored on the 15.5% market, I shade slightly lower given the reported allocations without Ra'am.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8161",
+   "has_trace": true
+  },
+  {
    "id": 7554,
    "scanned_at": "2026-11-19T00:05:23.224377",
    "date": "2026-11-19",
@@ -39122,6 +39304,20 @@
   }
  ],
  "Will David Lisnard win the 2027 French presidential election?": [
+  {
+   "id": 8164,
+   "scanned_at": "2026-11-26T08:51:41.354982",
+   "date": "2026-11-26",
+   "agent": 18,
+   "market_price_t0": 22.7,
+   "edge": -0.046500000000000014,
+   "confidence": 0.455,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.17, 0.19). (0) Not resolved: the first round is 18 Apr 2027 and the runoff 2 May 2027; no official results exist yet. (a) About 5 months remain, with a possible late-January centre-right primary, the 12 March sponsorship deadline and Le Pen's Cassation ruling (early Jan to April 2027) still pending. (b) Status quo is NO: Lisnard polls 9-11% (average about 9%, Harris 11-12%), is in the top two in none of 46 recent first-round scenarios, and trails Le Pen (31-35%) and Mélenchon (17-19%) by 7-9 points for a runoff place. (c) NO: Philippe keeps refusing a primary, the right stays split, Lisnard's surge stalls as Zemmour's did in 2022, and Le Pen and Mélenchon qualify, or Lisnard qualifies and loses to Le Pen. (d) YES: he wins a January primary (Ifop 29 vs Philippe 28), consolidates the right, passes Mélenchon, and beats Le Pen in the runoff with anti-RN transfers (Odoxa preference 32-27), possibly helped by Le Pen's legal trouble. The market at 22.65% (+9 points in 30 days) treats him as the centre-right standard-bearer (Philippe 4%, Le Pen 44%). Multiplying roughly 20-25% to qualify by about 55-60% to win the runoff gives nearer 12-15%, so I shade below the market but respect its momentum.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8164",
+   "has_trace": true
+  },
   {
    "id": 7889,
    "scanned_at": "2026-11-23T03:19:42.347123",
@@ -39368,6 +39564,20 @@
   }
  ],
  "Syrian troops enter Yemen by December 31, 2026?": [
+  {
+   "id": 8143,
+   "scanned_at": "2026-11-26T03:26:41.804077",
+   "date": "2026-11-26",
+   "agent": 7.5,
+   "market_price_t0": 10.5,
+   "edge": -0.029999999999999985,
+   "confidence": 0.5800000000000001,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.08, 0.07). {\n  \"probabilities\": [\n    {\"market\": \"Yes\", \"probability\": 0.08},\n    {\"market\": \"No\", \"probability\": 0.92}\n  ]\n}\n\n\n**Rationale.** I put Yes at 8%, slightly below the 10.5% market price, which was about 22% a week ago.\n\n(0) No source shows the condition met.\n- The primary resolution source, the Syrian government, is on record denying it. Foreign Minister al-Shaibani said on Nov 9 there was no deployment and no plan for one \"in the near future\", and that any deployment would be announced publicly.\n- AP's three officials and Alhurra's Syrian and Yemeni defence sources say no Syrian fighters have gone into Yemen.\n- The only claim of Syrian troops inside Yemen is AFP's anonymous Yemeni sourcing (Nov 7), which nobody has corroborated.\n\n(a) About 35 days remain until 11:59 PM ET on Dec 31, 2026, plus a possible 3-day extension.\n\n(b) If nothing changes, this resolves No. The confirmed Syrian activity is advisers and trainers in Saudi Arabia, plus possibly a planned 600-man special forces unit for the Saudi side of the border. Staging inside Saudi Arabia does not count as entering Yemen.\n\n(c) No scenario: Syria keeps a training and border-security role on Saudi soil under the Nov 4 defence deal. US caution, threats from Iraqi militias and the cost to Syria's reconstruction keep Damascus out of Yemen. Any small covert presence is never established by a consensus of credible reporting.\n\n(d) Yes scenario: Houthi strikes on Riyadh, Jizan and Ras Tanura push Saudi pressure higher. The December coordination visits produce a decision, and Syrian special forces or drone teams cross into Yemen. That is then announced, or confirmed by several credible outlets.\n\n**Why I'm slightly under the market.** The price has fallen with no new pro-Yes news since mid-November. Syria has publicly committed to announcing any deployment. Entry would also have to be both fast and verifiable. Against that, the escalation, the signed deal and Damascus's narrowly worded denials keep a real tail.\n\n**Confidence: 0.62.**\n\n**Unverified claims:**\n- No credible reporting after about Nov 19 has confirmed Syrian troops inside Yemen.\n- The roughly 600 Syrian special forces, if deployed, are positioned only on the Saudi side of the border.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8143",
+   "has_trace": true
+  },
   {
    "id": 7486,
    "scanned_at": "2026-11-18T03:57:08.364682",
@@ -39813,6 +40023,20 @@
  ],
  "Government shutdown by December 12?": [
   {
+   "id": 8145,
+   "scanned_at": "2026-11-26T04:07:33.674345",
+   "date": "2026-11-26",
+   "agent": 22,
+   "market_price_t0": 24.5,
+   "edge": -0.024999999999999994,
+   "confidence": 0.55,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.22, 0.22). (0) Not resolved. OPM shows normal operations as of Nov 25, and funding under P.L. 119-103 runs through 11:59 PM ET Dec 11, so a lapse would begin at 12:01 AM Dec 12, inside this market's window. (a) About 16 days remain, but Congress returns only Nov 30, leaving roughly 8–9 legislative days. No CR text exists, and Senate Democrats hold their leadership vote Dec 1. (b) The status quo, no action, would mean a lapse. In practice, though, the default path that appropriators of both parties describe (Simpson, Rounds, Cole's Senate counterparts) is a CR to February or March, and a one-week bridge CR is the standard fallback if talks run late, as in Dec 2022. (c) NO: Schumer wins Dec 1. Collins and Thune's munitions-for-Iran-limits language or a clean CR draws enough of about 47 Senate Democrats, since the vocal holdouts are only about 5–6, and Jeffries prefers to fight in January when Democrats hold majorities. A CR or short bridge then passes by Dec 11. (d) YES: Van Hollen's pressure and Iran-war anger hold back the 8–9 Democratic votes. The White House and Thune refuse Iran limits, and the $350B reconciliation push and the fight over CR length compound the stalemate, so a vote slips past midnight on a weekend, as happened in Jan 2026. The market sits at 24.5%, with Kalshi near 27% on a narrower 10am criterion, and it has trended down. Base rates (only 2018 lapsed among recent December and lame-duck deadlines) and the Senate math lean slightly below the market. The recent record of three lapses in 14 months keeps the risk well above historical norms, so I shade only modestly lower to 22%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8145",
+   "has_trace": true
+  },
+  {
    "id": 7569,
    "scanned_at": "2026-11-19T03:10:29.397229",
    "date": "2026-11-19",
@@ -39874,6 +40098,20 @@
   }
  ],
  "Will NVIDIA be the second-largest company in the world by market cap on December 31?": [
+  {
+   "id": 8131,
+   "scanned_at": "2026-11-26T00:53:11.171793",
+   "date": "2026-11-26",
+   "agent": 44,
+   "market_price_t0": 47,
+   "edge": -0.02999999999999997,
+   "confidence": 0.56,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.43, 0.45). (0) Not resolved: the resolution-source snapshot (companiesmarketcap, Nov 25 close) shows Apple $5.167T, Microsoft $3.638T, NVIDIA $3.605T (#3, ~0.9% behind Microsoft), Alphabet $3.331T. (a) About 5 weeks (~23 trading days) remain to the Dec 31 close. (b) The status quo is No (NVIDIA #3), but the gap is tiny next to NVIDIA's recent daily swings of +31%, -14% and -6%. (c) No: the Dec 4 10-Q adds adverse disclosures on the Huang probe, an SEC or board finding goes against the company, or a hawkish Fed hits high-multiple AI names, leaving NVIDIA below a lower-beta Microsoft or below Alphabet. (d) Yes: the 10-Q and probes clear cleanly, NVIDIA rerates toward analyst targets ($220-280) and passes Microsoft (it needs only ~1-2%) while Alphabet stays ~7% behind. Modelling the NVIDIA-Microsoft relative move as near a coin flip, I subtract about 6-9% for NVIDIA surging ~40% past Apple to #1 (the sibling Polymarket market had NVIDIA at 8.5% for #1) and a little for Alphabet finishing ahead. That puts Yes slightly below the 47% market mid, at about 0.43.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8131",
+   "has_trace": true
+  },
   {
    "id": 7559,
    "scanned_at": "2026-11-19T00:51:27.854042",
@@ -42242,6 +42480,86 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.55, 0.57). (0) Not yet resolved. The Nov 10–11 Abu Dhabi round predates the market's Nov 12 opening. The Kremlin and Russian MFA feeds and reporting through Nov 25 show no qualifying meeting since, so YES still needs a new senior round. In practice that means a US-mediated trilateral round led by figures such as Umerov and Medinsky, held by Dec 31. (a) About 5 weeks remain, including the holiday period. The November round needed about 18 days from announcement to meeting, so a date would likely have to be announced by about mid-December. (b) Status quo is NO: as of Nov 24–25 Peskov says no date is set, though Abu Dhabi is the base venue. (c) NO scenario: the format dispute stalls scheduling, with Moscow rejecting European participation while Europe and France demand a full seat and refuse bilateral Moscow trips. The US's Dec 25 target then slips into January, repeating the February→March and early-October slippages and the 5–9 week shuttle lags. (d) YES scenario: Washington pushes the round before Dec 25 and Russia keeps the trilateral format (Ushakov said more trilateral rounds may precede European entry). Ukraine attends in Abu Dhabi in early to mid December, possibly tied to finalising the large POW swap. I anchor on the 62.5% market price but shade down. The market has drifted down 13.5 points in 30 days, no date exists, Kremlin timelines have repeatedly slipped, and the format conflict is unresolved. Strong stated intent from all three parties and a named venue keep YES above even.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/8089",
+   "has_trace": true
+  }
+ ],
+ "Will the average Ornn B200 rental price in March 2027 be above $10.00?": [
+  {
+   "id": 8174,
+   "scanned_at": "2026-11-26T12:03:11.158538",
+   "date": "2026-11-26",
+   "agent": 36,
+   "market_price_t0": 33.5,
+   "edge": 0.024999999999999967,
+   "confidence": 0.435,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.36, 0.36). (0) Not resolved. Ornn's OCPI-B200 page shows no March 2027 data yet. The latest settle is $9.76 on Nov 25, the November average to date is $9.51, and no daily settle has ever reached $10, with a high of $9.94 on Nov 8. (a) About four months remain, and resolution uses the mean of roughly 31 March daily settles, so one spike cannot carry it. (b) If nothing changes, the index sits around $9.5–9.8 and the month averages just under $10, which resolves NO; the threshold is only about 2.5% above spot. (c) NO: the SpaceX Blackwell rate cuts, the falling B300 index, tighter neocloud financing and possible mean reversion (as in the May–June 2026 drop from $6.11 to $4.22) pull the index down to $8–9. (d) YES: on-demand tightness persists through H1 2027, helped by sold-out 2027 neocloud capacity, Nvidia price increases in early 2027 and memory cost pass-through. The index then takes one more 5–10% step up, as it did repeatedly in 2026. I anchor on Polymarket's 33.5%. The sibling ladders are consistent: December above $10 at about 15%, June above $10 at about 27.5%. The index has risen steeply and earlier forward curves were badly too bearish, which argues for slightly more upside than the market prices. Fresh cooling signals offset that, so I nudge only to about 36%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8174",
+   "has_trace": true
+  }
+ ],
+ "Will the average Ornn B300 rental price in February 2027 be above $13.00?": [
+  {
+   "id": 8150,
+   "scanned_at": "2026-11-26T04:54:56.155630",
+   "date": "2026-11-26",
+   "agent": 25.5,
+   "market_price_t0": 32.5,
+   "edge": -0.07,
+   "confidence": 0.53,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.24, 0.27). (0) Not resolved. No February 2027 values exist yet, and the Ornn page shows the last settle at $10.87 on Nov 24. (a) About three months remain before the averaging window opens. February has 28 settles, and the market resolves in early March 2027. (b) Status quo is No. The index sits about 20% below the $13 strike. No month has averaged above $13: September was $11.49, October $12.29 and November to date $11.62. Only 2 of the last 30 days printed above $13.00. (c) No path: the late-November supply news keeps on-demand B300 around $10–12. That news includes SpaceX cutting Blackwell spot rates to $10–12, China remote-access rules pushing capacity back to the US with a license deadline of Feb 17, resale supply, and Liquid Compute's index falling. (d) Yes path: the SpaceX cut proves to be only a premium trim. Blackwell scarcity from hyperscaler pre-allocation and HBM limits returns, and Ornn's thin, volatile volume-weighted mean climbs back to the Oct–early Nov $13–14 range and holds for all of February. The index's 20% swings within a week show this is possible. The market anchor is 32.5%. The sibling January >$13 contract trades at only about 21.5%, and the fresh bearish supply news looks underpriced. So I shade down to about 24%, while keeping a meaningful fat tail for a short, volatile, thinly traded series.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8150",
+   "has_trace": true
+  }
+ ],
+ "Will the Ornn B200 Index be at least $7.00 on December 31, 2026?": [
+  {
+   "id": 8142,
+   "scanned_at": "2026-11-26T03:19:01.518863",
+   "date": "2026-11-26",
+   "agent": 83.5,
+   "market_price_t0": 74,
+   "edge": 0.09499999999999997,
+   "confidence": 0.5900000000000001,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.84, 0.83) after one crux research pass. (0) Not resolved: Ornn's public API shows B200 at $9.07 on Nov 24, about 23% above the $7.00 strike; Dec 31 is finalized when the Jan 1 point publishes. (a) About 5 weeks and 35 settles remain. (b) Status quo is YES: the index has been above $7 every day since Sep 13, and the post-peak slide flattened at $9.06–9.10. (c) NO needs a 23%+ collapse, from the SpaceX spot cuts and demand slowdown or a thin holiday print; a reported ~30% three-week drop in June shows it is possible. (d) YES: the SpaceX cuts still price at $10–12, H200 supply arrives in 2027, and list prices sit around $7.7–8.6. The sibling Nov 30 market prices sub-$7 at about 1%, and the December-average ladder shows about 94% above $7.40. Polymarket's 74% mid is thin with a wide spread, so I move above it but keep tail weight for the unobserved Nov 25–26 prints and the young series.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8142",
+   "has_trace": true
+  }
+ ],
+ "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 elections?": [
+  {
+   "id": 8135,
+   "scanned_at": "2026-11-26T01:42:18.908836",
+   "date": "2026-11-26",
+   "agent": 71.5,
+   "market_price_t0": 76.5,
+   "edge": -0.050000000000000044,
+   "confidence": 0.525,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.70, 0.73). (0) Not resolved. As of 26 Nov 2026, Luxon is caretaker PM, which does not count, and no Governor-General appointment has been made. The official count with about 399k special votes lands 27 Nov, and coalition talks follow, likely taking weeks. (a) There is about 13 months to the 31 Dec 2027 deadline, so timing is not a constraint. Even a second election would likely land inside it. (b) Status quo: on preliminary results the National–ACT–NZ First bloc holds 67 of 131 seats, one over the line. If that holds, Luxon is very likely re-appointed, as in 2023 when he was sworn in about three weeks after the final count. (c) NO path: special votes erode the margin, as they have since 1999 and as Farrar expects: NZ First's 12th list seat is likely lost, Wairarapa (139 votes) likely flips and Hamilton East (456) possibly flips. That leaves a hung or left-plus-Opportunity Parliament. NZ First has ruled out Opportunity, and Hipkins is the more eager partner, so a Labour/Greens/Te Pāti Māori/Opportunity government follows. Smaller NO tails are a National leadership change or a defection breaking a one-seat majority. (d) YES path: specials are smaller this year (about 400k versus 602k in 2023), so the bloc holds 66+ seats, which Hide puts at about 70%. Even if it falls short, Wong has said she will negotiate with National first and an abstention arrangement is possible. I anchor on the market's 76.5%, but shade slightly lower. Farrar's seat-by-seat analysis suggests the bloc's majority is closer to a coin-flip-plus than the market implies. The left also has a coherent fallback via Opportunity, while the right's Opportunity route is blocked by Peters.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8135",
+   "has_trace": true
+  }
+ ],
+ "Will an open-source model be ranked #1 on Arena by March 31, 2027?": [
+  {
+   "id": 8126,
+   "scanned_at": "2026-11-26T00:09:01.269092",
+   "date": "2026-11-26",
+   "agent": 8.5,
+   "market_price_t0": 12.5,
+   "edge": -0.04000000000000001,
+   "confidence": 0.64,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.08). (0) Not met. The publisher's own Hugging Face dataset (raw text, overall, published 2026-11-22) shows proprietary Gemini 4 Carbon (High) at #1 with 1538.87. The best open model, Xiaomi's MiMo-V2.6-Pro, is #14 at 1492.87, and ranks 1–13 are all proprietary. Carbon's lower confidence bound sits well above MiMo's upper bound. (a) About 4 months remain until 2027-03-31. (b) If nothing changes, this resolves No: the open-versus-closed raw gap is about 46 points. Arena itself says the gap has stayed in a roughly 30–60 point band since early 2025, and the only near-tie was DeepSeek R1 in January 2025. (c) No path: Chinese labs ship incremental releases (Qwen4 27B, Kimi K3.x, GLM) that land around 1495–1510. Meanwhile Google and Anthropic keep raising the bar with models like Neon and Fable 5.2, so the gap persists. (d) Yes path: a DeepSeek V5 open release or a Kimi K4 makes an R1-style jump of about 45+ raw points in Q1 2027. Wide early confidence intervals and a high unrounded score could then place it at shared rank 1, especially if Carbon's preliminary score drifts down. DeepSeek V5 test identifiers exist, but no release date has been announced. The market sits at 12.5% and is trending down. The sibling markets (Dec 2026 at 2.5%, Jun 2027 at 23%) fit a hazard that rises in 2027. I land slightly below the market because the window is short, the gap is large, and no open frontier release has a date.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8126",
    "has_trace": true
   }
  ]

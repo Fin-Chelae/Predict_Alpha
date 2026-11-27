@@ -1609,6 +1609,20 @@
  ],
  "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?": [
   {
+   "id": 8220,
+   "scanned_at": "2026-11-27T02:33:23.128352",
+   "date": "2026-11-27",
+   "agent": 93.3,
+   "market_price_t0": 93.5,
+   "edge": -0.0024999999999999467,
+   "confidence": 0.73,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.94, 0.93). (0) Not resolved yet. FRED DFEDTARU still shows an upper bound of 4.00% through Nov 26, and the Fed's open market page shows 3.75–4.00% after the Sept 17 hike. The FOMC must announce exactly +25 bp in its Dec 9 statement. (a) There are about 12 days until the Dec 8–9 meeting. The only major scheduled data release before it is the Nov jobs report on Dec 4. (b) The status quo strongly favours a 25 bp hike. CME FedWatch reportedly shows 97–99% for 25 bp, with 50 bp priced near zero after the late-November selloff. The October minutes said almost all participants saw further hikes as likely appropriate. JPM, BofA, Deutsche and Truist all forecast 25 bp, and no voter has publicly argued for a hold. (c) NO comes through two tails. One is a 50 bp move, pushed by Waller and backed by the argument that Warsh's dislike of forward guidance makes 25 bp alone look inadequate; that would resolve to a different bracket. The other is a hold after a weak Dec 4 payrolls print combined with a renewed AI/equity rout. Warsh already overrode two hawkish dissents in October, so he has shown he can hold. (d) YES comes if payrolls are roughly in line and markets stay calm. The committee would then deliver a gradual 25 bp hike, as Hammack, Paulson and Williams favour, with a hawkish dot plot to satisfy Waller. I anchor on Polymarket's 93.5% (sibling contracts show roughly 4% hold and 4% larger move). CME's higher reading argues for nudging up, but the volatile 50 bp tail and the Warsh discretion risk offset that, so I stay near the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8220",
+   "has_trace": true
+  },
+  {
    "id": 7521,
    "scanned_at": "2026-11-18T13:18:29.098963",
    "date": "2026-11-18",
@@ -3288,6 +3302,20 @@
   }
  ],
  "Will China invade Taiwan by December 31, 2027?": [
+  {
+   "id": 8224,
+   "scanned_at": "2026-11-27T03:34:04.353168",
+   "date": "2026-11-27",
+   "agent": 5.5,
+   "market_price_t0": 8.5,
+   "edge": -0.030000000000000006,
+   "confidence": 0.64,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.05). (0) The condition has not been met. The resolution-source read (Taiwan News, Nov 24; France 24, Nov 13) shows only drills and gray-zone pressure, with no offensive confirmed by China, Taiwan, the UN or a P5 member. (a) About 13 months remain until Dec 31, 2027. Amphibious weather allows only roughly 5 viable months (Mar–May, Sep–Oct 2027). (b) If nothing changes, the outcome is No: high-intensity coercion continues but no offensive. (c) The main NO path: the March 2026 US threat assessment says China does not plan to invade in 2027. US officials (Reuters, Oct 2026) judge an invasion before 2028 unlikely given the gutted CMC, sealift shortfalls and Beijing's apparent preference to wait for Taiwan's and America's 2028 elections. The 2027 Party Congress year and the active Trump–Xi summit track (G20 in December, April 2027 Beijing visit) also favour stability. (d) The main YES path: the unannounced November 2026 surge (more than 100 vessels) is used as a template for a no-notice move. That could be a coast-guard or PLA seizure or cutoff of Kinmen or Pratas framed as law enforcement, which a resolver reads as an offensive to establish control. A trigger could be an arms sale or a Japan incident. I anchor on Polymarket's 8.5%. I shade down because the sibling June-2027 market sits at 4.45% and rule-of-three base-rate arithmetic gives about 4.5% as an upper bound. Long-dated tail contracts also carry a known YES premium from capital lockup. I keep some weight on the resolution ambiguity around coast-guard or outlying-island actions.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8224",
+   "has_trace": true
+  },
   {
    "id": 5365,
    "scanned_at": "2026-10-22T14:38:49.014281",
@@ -9038,6 +9066,20 @@
   }
  ],
  "Will Bola Tinubu win the 2027 Nigerian Presidential Election?": [
+  {
+   "id": 8244,
+   "scanned_at": "2026-11-27T08:32:56.066915",
+   "date": "2026-11-27",
+   "agent": 71.5,
+   "market_price_t0": 69,
+   "edge": 0.025000000000000022,
+   "confidence": 0.525,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.71, 0.72). (0) Not resolved. INEC's site shows only the countdown to the 16 Jan 2027 vote and a mock-accreditation notice, with no results. Tinubu must be declared winner in round one or a runoff, with results definitive by 31 Oct 2027. (a) The vote is about 7 weeks away. Results normally come within days, so the Oct 2027 backstop is comfortably far off. (b) Status quo favours Tinubu: he is the incumbent; 31-34 governors and APGA back him; he cleared 25% in 30 states in 2023; and the opposition is split across Atiku (ADC), Obi (NDC) and Makinde (APM). Atiku's ticket is also clouded by the 5 Nov Lifu ruling, now under appeal. The incumbent or ruling party has won 6 of 7 elections since 1999. (c) NO path: the 30 Nov summit produces a real tactical-voting pact. The legal withdrawal deadline passed on 18 Oct, so names cannot formally leave the ballot. Opposition votes then concentrate on Obi, Tinubu misses the 24-state spread or loses outright, and Obi wins a runoff, as Earth Elects projects. Widespread economic and security discontent fuels this (SBM net favourability −58.5). (d) YES path: the split persists and Tinubu repeats a 35-40% plurality with the required spread on the back of governor machinery. The market sits at 69% (bid 68 / ask 70) and has been stable. Published projections are mostly amateur, and none is a probability-sample poll. Since the withdrawal deadline makes full consolidation harder, I nudge only slightly above the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8244",
+   "has_trace": true
+  },
   {
    "id": 7657,
    "scanned_at": "2026-11-20T06:57:34.033605",
@@ -19255,6 +19297,20 @@
  ],
  "Will Hamas agree to disarm by December 31?": [
   {
+   "id": 8216,
+   "scanned_at": "2026-11-27T01:35:09.931352",
+   "date": "2026-11-27",
+   "agent": 5.5,
+   "market_price_t0": 7,
+   "edge": -0.015499999999999993,
+   "confidence": 0.71,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.06). (0) The condition is not met in a way the resolver has credited. Hamas accepted a conditional, staged 15-point Board of Peace roadmap on July 30–31, 2026, which falls inside the market window that opened June 30. Five months later the market is still open at about 7%, which strongly suggests the resolver treats that acceptance as contingent and therefore excluded. Hamas's own statements tie any weapons step to Israeli withdrawal and Israeli acceptance of the roadmap, and Ghazi Hamad has disavowed the word 'disarmament'. (a) About 34 days remain until December 31, 2026. (b) The status quo resolves No. Implementation is stalled: no ISF has deployed, Netanyahu leads a caretaker government after the October 27 election and rejects reciprocal sequencing, and Israeli strikes on Hamas officials are escalating. Hamas's latest statements (Nov 21 and 26) are hostile and contain no weapons pledge. (c) No scenario: mutual preconditions persist, Hamas keeps issuing only conditional restatements, and year-end passes with no formal announcement. (d) Yes scenario: US pressure produces Israeli acceptance or an ISF status-of-forces agreement, and Hamas formally announces a start date for a staged handover to the NCAG, such as a Rafah pilot. Alternatively, the resolver could credit a December restatement or the Board of Peace's November 24 'Hamas agreed' report as a wide consensus of credible reporting. I anchor on the 7% mid (bid 4%, ask 10%). The 7-day rise looks tied to the Board of Peace's November 24 restatement, which adds nothing new, so I shade slightly lower while keeping some tail for resolver ambiguity.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8216",
+   "has_trace": true
+  },
+  {
    "id": 5727,
    "scanned_at": "2026-10-27T08:40:32.986307",
    "date": "2026-10-27",
@@ -22634,7 +22690,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-26T23:50:58.829Z",
+  "last_sync": "2026-11-27T12:18:21.605Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -26414,6 +26470,20 @@
   }
  ],
  "Russia military action against an EU country by December 31, 2026?": [
+  {
+   "id": 8251,
+   "scanned_at": "2026-11-27T11:39:39.408434",
+   "date": "2026-11-27",
+   "agent": 9.8,
+   "market_price_t0": 12.5,
+   "edge": -0.027499999999999997,
+   "confidence": 0.61,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.09). (0) No source shows the condition met. The closest case is the 20 Nov impact of three Kh-101 cruise missiles in SE Poland. Tusk called it a deliberate provocation, but it fell during a Russian raid on Ukraine, Russia denies it, and there is no forensic finding that Poland was targeted. A week later the contract is still trading at 12.5%, which implies it was not treated as qualifying, though a late UMA dispute is a small residual risk. (a) About 34 days remain until 31 Dec 2026. (b) If nothing changes, this resolves No: the 2026 impacts (Galați on 29 May, Kh-101s on 30 Jul and 20 Nov) were spillover that failed the 'directed at an EU target' test, and Moscow has claimed none of them. Airspace and maritime incidents, such as the Black Sea ship strikes and the Latvia and Estonia alerts, are excluded. (c) The No path is that Russia keeps up its winter strikes on Ukraine, any strays into Poland or Romania are again called unintended or remain ambiguous, and Russia keeps denying. (d) The Yes path is either a new impact on an EU town or military site that the consensus of sources calls targeted, or an explicit Russian strike claimed as retaliation against Estonia or Lithuania over the Kaliningrad and drone accusations. The 23 Nov 'open war' rhetoric makes the claimed-strike route somewhat more plausible but still unlikely. Impacts now recur every few months and tension is rising, but each must also clear the intent clause, so I shade slightly below the 12.5% market anchor to about 10.5%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8251",
+   "has_trace": true
+  },
   {
    "id": 7670,
    "scanned_at": "2026-11-20T11:37:41.512535",
@@ -34649,6 +34719,20 @@
  ],
  "Zelenskyy out as Ukraine president by June 30, 2027?": [
   {
+   "id": 8215,
+   "scanned_at": "2026-11-27T01:33:54.673498",
+   "date": "2026-11-27",
+   "agent": 13,
+   "market_price_t0": 20.5,
+   "edge": -0.07499999999999998,
+   "confidence": 0.61,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.13). (0) Not met: president.gov.ua, AP/PBS and Kyiv Independent (Nov 26-27, 2026) show Zelenskyy acting as president, with no resignation or announced departure. (a) About 7 months remain to June 30, 2027. (b) Status quo is No. Martial law runs to Jan 29, 2027 and is extended routinely; elections are barred under it; the election commission and Rada working group describe a 9-10 month pipeline after martial law ends; he refused to resign on Oct 14; trust stays above 50%. (c) No: the Dec-Jan US deal window slips like earlier deadlines, or a ceasefire comes with elections set for late 2027, and he serves past June 30. (d) Yes: a US-brokered peace package in Q1 2027 includes his announced resignation (the announcement clause resolves Yes at once), or a death/security/health shock, or a corruption case reaching him personally. I start from the 20.5% market but shade down because Polymarket's own 'election called by June 30, 2027' market is only 9% and this market is thin (~$65k). I keep a meaningful tail for the 56.5% ceasefire-by-June market, deal-linked resignation pressure from Trump, and ambiguity over how a 'transition' statement would be read.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8215",
+   "has_trace": true
+  },
+  {
    "id": 7518,
    "scanned_at": "2026-11-18T12:31:13.725724",
    "date": "2026-11-18",
@@ -36206,6 +36290,20 @@
   }
  ],
  "Saudi-Houthi ceasefire agreement announced by December 31?": [
+  {
+   "id": 8211,
+   "scanned_at": "2026-11-27T00:32:24.205786",
+   "date": "2026-11-27",
+   "agent": 5,
+   "market_price_t0": 6.5,
+   "edge": -0.015,
+   "confidence": 0.73,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.06, 0.04). (0) No source shows the condition met. Resolution-source checks and Reuters/AFP/Al Jazeera reporting through Nov 26–27 show no Saudi or Houthi acceptance of any ceasefire. Instead the fighting is escalating: strikes on Ras Tanura and Jazan refineries, the PIF tower hit in Riyadh, threats against Jeddah and Hodeidah, and heavy coalition airstrikes. (a) About 34 days remain until 11:59 PM ET Dec 31, 2026. (b) If nothing changes, the answer is No: the war continues, and Saudi planners reportedly expect a campaign running into 2027. (c) The likeliest No path is that mediation stays process-only (Oman, Iran, Qatar, Pakistan, the Islamabad Mecca-pact meeting) while the US–Iran track, which appears to gate any Houthi deal, stays stalled. Trump says he is 'not rushing', and the Houthis hold battlefield initiative while demanding money and the lifting of the blockade first. (d) The Yes path is a sudden Omani- or Iran-linked package in which Riyadh concedes compensation and humanitarian terms, and both SPA and Houthi outlets announce a dated, general stand-down. The precedent is the quick Oman-brokered US–Houthi deal of May 2025, and the haggling over truce lengths and the reported $1B offer show the parties are talking about terms. The criteria are strict: acceptance by both sides, a dated start, and a general rather than ports-only pause. I anchor on the Polymarket mid of 6.5%, which has fallen steadily. I see no new information to justify a move beyond trimming slightly for the escalation trend and the short window.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8211",
+   "has_trace": true
+  },
   {
    "id": 7503,
    "scanned_at": "2026-11-18T08:39:22.640436",
@@ -37821,6 +37919,20 @@
  ],
  "Major airlines suspend Ben Gurion flights by November 30, 2026?": [
   {
+   "id": 8228,
+   "scanned_at": "2026-11-27T04:34:06.832848",
+   "date": "2026-11-27",
+   "agent": 3,
+   "market_price_t0": 9.6,
+   "edge": -0.066,
+   "confidence": 0.855,
+   "category": "Other",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.03, 0.03). (0) Resolution check: the condition is not met. The resolution-source read of the IAA flight feed on data.gov.il shows all five basket airlines' own flights operating at Ben Gurion on Nov 26–27 and marked LANDED or DEPARTED: DL234/235, UA084/085, LH686/680, AF962/975 and BA404/405. Flights for all five are scheduled through Nov 30. An earlier qualifying overlap inside the window, which opened Oct 29, is also ruled out. Delta has flown JFK since Sept 6, United has flown since about September, and BA resumed on Oct 25, so at most two carriers could have been dark at once after Oct 29. (a) Only Nov 28–30 (Israel time) remain as possible overlap days. (b) Status quo: all five keep flying, and Delta is adding a second daily JFK flight from Nov 29, so the market resolves No. (c) No scenario: the war stays at its current simmer, as with recent Gulf incidents, and Ben Gurion keeps running normally, as the IAA said on Nov 26. (d) Yes scenario: a sudden major Iranian or Hezbollah escalation on Nov 28–30 closes Israeli airspace or prompts three carriers to stop all flights from that day. Those halts must then last at least 14 days. That is possible given the 2026 pattern of months-long suspensions, but it needs a large shock within about three days. The market mid of 9.6% sits on a wide 4/16 spread with a last trade of 7%. The longer-dated Dec 31 market at about 26% implies a monthly hazard that, scaled to three days, comes to only about 2–3%. I therefore price Yes below the venue mid, at about 3%, leaving a small allowance for escalation and resolver error.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8228",
+   "has_trace": true
+  },
+  {
    "id": 6866,
    "scanned_at": "2026-11-10T17:37:22.762382",
    "date": "2026-11-10",
@@ -38106,6 +38218,20 @@
   }
  ],
  "Ukraine signs peace deal with Russia by December 31, 2026?": [
+  {
+   "id": 8237,
+   "scanned_at": "2026-11-27T06:17:02.830814",
+   "date": "2026-11-27",
+   "agent": 4.8,
+   "market_price_t0": 7.4,
+   "edge": -0.02649999999999999,
+   "confidence": 0.74,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.04, 0.05). (0) No source shows the condition met. The resolution-source read (Nov 23–26) confirms nothing qualifying has been signed: the Nov 10–11 Abu Dhabi talks produced only a prisoner swap, and the Oleshky truce is a localized deal. Both are excluded by the rules. (a) About 34 days remain until 11:59 PM ET on Dec 31, 2026. (b) If nothing changes, this resolves NO. Russia keeps rejecting a general ceasefire (Peskov, Nov 16 and Nov 25), insists on Ukraine leaving Donbas first, and disputes European participation. Kushner, the mediator, calls the talks deadlocked, and no date is set for the next round. (c) NO scenario: a December round happens or slips into January, produces at most another swap or technical arrangement, and the US 'by January' target and Zelensky's 'beginning of 2027' window both pass Dec 31. (d) YES scenario: under Trump pressure, Russia abruptly accepts a ceasefire-plus-framework version of the existing 20-point text at a four-party meeting before Christmas, and Umerov or Zelensky signs pending a referendum. Every Russian prerequisite for this is still unmet. The market anchor is 7.4% (bid 6%, ask 9%), and the sibling ceasefire market is at 7.5%. The recent +3.4 point move likely reflects the US push and talk of a meeting rather than any substance. Given Russia's unchanged position, no reported draft text, and target dates past the deadline, I shade slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8237",
+   "has_trace": true
+  },
   {
    "id": 7058,
    "scanned_at": "2026-11-13T01:37:49.389762",
@@ -41163,6 +41289,20 @@
  ],
  "Will Waymo launch in Denver, CO by December 31 2026?": [
   {
+   "id": 8234,
+   "scanned_at": "2026-11-27T05:31:43.761946",
+   "date": "2026-11-27",
+   "agent": 38,
+   "market_price_t0": 33.7,
+   "edge": 0.04299999999999998,
+   "confidence": 0.45999999999999996,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.40, 0.36). (0) The condition is not clearly met. Waymo's help page lists Denver as 'Gradually adding riders' (shared only with waitlist-only Las Vegas), while Waymo's FAQ today lists Denver among cities where anyone can ride right away. The Nov 5 Denver Gazette still used waitlist access, trackers list Denver as waitlist, and no dated open-to-all announcement exists; the Sept 1 rolling-invite launch is likely excluded as invite-only. (a) About 5 weeks remain until Dec 31, 2026. (b) Status quo is a waitlist-gated service, so No. (c) NO: Waymo keeps the waitlist through December, as in Las Vegas since Sep 14, citing first-winter caution, the freeway pause and regulatory pressure, a fleet of about 60-100 cars, and a focus on metro and airport expansion. (d) YES: Waymo meets its stated 'open to anyone / fully operational before end of 2026' target, possibly with the expansion, or the FAQ listing already reflects an opening Waymo then confirms; most reference cities opened within 7-25 weeks and Denver reaches 17 weeks by Dec 31. The market fell from about 96% to 34% in 30 days, likely on the view that Sept 1 doesn't count, and matches the Las Vegas market at 35.5%. The FAQ is evidence it may underweight, but the conflicting help page limits the upward move.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8234",
+   "has_trace": true
+  },
+  {
    "id": 7298,
    "scanned_at": "2026-11-15T23:15:45.871602",
    "date": "2026-11-15",
@@ -41224,6 +41364,20 @@
   }
  ],
  "Will Mark Rutte visit Ukraine by December 31, 2026?": [
+  {
+   "id": 8213,
+   "scanned_at": "2026-11-27T00:49:23.941606",
+   "date": "2026-11-27",
+   "agent": 19,
+   "market_price_t0": 24,
+   "edge": -0.04999999999999999,
+   "confidence": 0.575,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.19, 0.19). (0) The resolving condition has not been met. The market opened on 2026-07-29, so the 3 Feb and 3–4 Jun 2026 Kyiv trips do not count. Searches through 27 Nov show no Rutte visit to Ukraine since June; his autumn contacts with Zelensky were by phone, in Brussels and in Dublin. (a) About 34 days remain. Rutte's 1–2 Dec Brussels ministerial is fixed, which leaves roughly 29 open days. (b) If nothing changes, the market resolves No: no trip is announced or rumoured, and in December 2025 he stayed in Brussels and Berlin. (c) No path: Rutte spends December on the ministerial, the Washington/Mar-a-Lago track and European capitals, as he did last December, with peace talks still deadlocked. (d) Yes path: an unannounced overnight-train trip to Kyiv in mid-December. It could follow the mass grid strike Zelensky warns is imminent, matching the pattern of his February and June trips that came right after big strikes. A sudden peace-framework breakthrough could also prompt one. On base rate, about 4–5 visits in 25 months is roughly one every 5–6 months, or about 17–20% for a 34-day window. His visits are unannounced, so the lack of news is only weak evidence against Yes. The market sits at 24% (bid 23 / ask 25) and has drifted down 10 points over 30 days. I shade slightly below it because there is no specific signal and his December calendar is Brussels-centred.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8213",
+   "has_trace": true
+  },
   {
    "id": 7383,
    "scanned_at": "2026-11-16T23:16:01.255061",
@@ -41705,6 +41859,20 @@
  ],
  "Will Moonshot AI be added to the Chinese Military Companies list by June 30, 2027?": [
   {
+   "id": 8247,
+   "scanned_at": "2026-11-27T09:22:59.009742",
+   "date": "2026-11-27",
+   "agent": 12.5,
+   "market_price_t0": 16.5,
+   "edge": -0.04000000000000001,
+   "confidence": 0.585,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.12). (0) Not resolved. The resolution-source read of the June 10, 2026 Federal Register list (88 FR notice 2026-11571) found no match for Moonshot, Kimi, Yuezhi or Anmian. The only notice since then is the Nov 10 WuXi AppTec removal, with no additions. (a) About 7 months remain until June 30, 2027. (b) Status quo is NO: a new DoD additions list has to appear inside that window and has to include Moonshot. (c) NO path: the next update follows the historical 12–17 month cadence and lands after June 30, 2027, or it is delayed by Trump-Xi truce diplomacy (as with the February 2026 withdrawal) or by litigation risk after the WuXi injunction. Or an update arrives but omits Moonshot, with US pressure on it running through Commerce, Treasury and NDAA AI-use provisions instead of 1260H. (d) YES path: DoD issues an update around June 2027 or an off-cycle addition. It cites Moonshot's state-fund ownership, the distillation and chip-smuggling allegations, and pressure from the same House chairs whose December 2025 list was largely honored. Even so, no source shows a 1260H-specific ask for Moonshot. DeepSeek, which had such an ask, was still not added in June. The market anchor is 16.5% (DeepSeek 25%, ByteDance 12%). My estimate is a roughly 35–45% chance of an additions update before the deadline times a roughly 25–30% chance Moonshot is included, which gives about 10–14%. That is slightly below the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8247",
+   "has_trace": true
+  },
+  {
    "id": 7534,
    "scanned_at": "2026-11-18T17:16:14.867509",
    "date": "2026-11-18",
@@ -41862,6 +42030,20 @@
   }
  ],
  "Will Japan's core CPI increase by less than or equal to 1.9% in 2026?": [
+  {
+   "id": 8227,
+   "scanned_at": "2026-11-27T04:00:58.907247",
+   "date": "2026-11-27",
+   "agent": 85,
+   "market_price_t0": 90.6,
+   "edge": -0.05600000000000005,
+   "confidence": 0.585,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.82, 0.88). (0) Not resolved: the SBJ 2026 annual report is due Jan 22, 2027, and only reports through 2025 are listed. (a) About eight weeks remain; national November CPI is out around Dec 17 and December CPI plus the annual figure around Jan 22. (b) The ten known months (Jan 2.0 to Oct 2.2) sum to about 17.3–17.6, so No needs November plus December to sum to roughly 5.8–6.1 (an average of about 2.9–3.0%) to reach a 1.95 mean that rounds to 2.0. The status-quo path gives about 1.85–1.92, which is Yes, and the Polymarket mid of 90.6% reflects that. (c) No scenario: Tokyo November core at 2.9% with energy up 9.5% after subsidies lapsed, plus a larger national energy weight, implies national November near 2.6–2.8%. The low December 2025 base from the gasoline cuts, the small ¥1/kWh December subsidy and the gasoline taper could push December toward 3.0–3.2%, taking the year to about 1.93–1.96. Index-level averaging and the 2025-base switch add about ±0.05 of noise. (d) Yes scenario: national November about 2.4–2.6% and December about 2.6–2.9%, consistent with recent downside misses (national October, Tokyo November), food and rice disinflation and cooling core-core, giving 1.8–1.9. My arithmetic shows a real chance of landing at the 1.95 rounding edge, so I shade below the market to about 82% Yes.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8227",
+   "has_trace": true
+  },
   {
    "id": 7634,
    "scanned_at": "2026-11-20T00:33:19.280090",
@@ -42770,6 +42952,102 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.10, 0.08). (0) No credible report shows Melania meeting Putin since the market opened: she skipped the Shenzhen APEC trilateral and met only Putin's envoy Dmitriev on Nov 5. This market resolves on Putin; Zelenskyy has a separate market. (a) About five weeks remain, and the only scheduled venue is the Dec 14-15 Miami G20 at Trump's Doral. (b) Status quo is No: the Kremlin is 'undecided' (Peskov, Nov 26), and Putin has skipped every in-person G20 since 2019. (c) NO: Russia sends Lavrov or a deputy, or Putin attends but Melania only shares a room or photo with him, which the rules exclude. (d) YES: Putin comes to Doral after the Shenzhen thaw, and Melania, who has committed to host a Fostering the Future event at the G20 and whom Putin has thanked for the children channel, greets or talks with him in a credibly reported interaction. I put Putin's attendance at about 20-25% and a reported interaction given attendance at about 50%, so roughly 10%. That is slightly above the 8% market mid, which sits in a thin market with a wide spread.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/8183",
+   "has_trace": true
+  }
+ ],
+ "Sweden snap election called in 2026?": [
+  {
+   "id": 8242,
+   "scanned_at": "2026-11-27T07:47:45.373509",
+   "date": "2026-11-27",
+   "agent": 6.5,
+   "market_price_t0": 8,
+   "edge": -0.015,
+   "confidence": 0.64,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.06). (0) Per riksdagen.se and regeringen.se as of 27 Nov, no extraordinary election has been ordered or scheduled. Two PM proposals have failed (Andersson 15 Oct, Thand Ringqvist 3 Nov), and the third vote, on Kristersson, is 30 Nov. (a) About 34 days remain to 31 Dec. The only live route is four failed PM proposals followed by the Speaker formally setting an election date; the Government route is closed (caretaker government, three-month bar to 28 Dec). (b) Status quo is NO: Centre's board and MPs back Kristersson and SD says it will abstain. He fails only if 175 MPs vote no, which requires essentially all 25 Centre MPs to join S, V and MP. (c) NO: Centre's council endorses on 29 Nov and Kristersson passes, or vote 3 fails but parties fold at vote 4 ('PM or election'), or a late vote-4 failure pushes formal date-setting into January. (d) YES: Centre's council rejects the deal, Kristersson falls on 30 Nov, vote 4 fails by about 18 Dec, and the Speaker fixes a date before 31 Dec using the Election Authority's 1 Dec proposal, or consensus reporting treats the fourth failure as the election being called. Estimate: P(vote 3 fails) ~0.21, consistent with the related 'approves by Nov 30' market at 79%; P(vote 4 fails | vote 3 fails) ~0.4; P(scheduled before 31 Dec | vote 4 fails) ~0.8. That gives about 6.5-7%, consistent with the related 'approves by Dec 31' market at 93%. This sits slightly below the 8% anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8242",
+   "has_trace": true
+  }
+ ],
+ "Will the average Ornn H200 rental price in March 2027 be above $5.00?": [
+  {
+   "id": 8240,
+   "scanned_at": "2026-11-27T06:59:57.438543",
+   "date": "2026-11-27",
+   "agent": 70,
+   "market_price_t0": 66.5,
+   "edge": 0.03499999999999992,
+   "confidence": 0.51,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.70, 0.70). (0) Not resolved: Ornn's OCPI-H200 page shows $6.79 on Nov 26, a Nov MTD average of $6.66 and no March 2027 data. (a) About 3-4 months remain until the March 1-31, 2027 settles; resolution is the mean of ~31 daily prints, which smooths the ±3-15% daily noise. (b) Status quo favors YES: every settle since late October is above $5.49, the secondary-sourced implied March forward is ~$6.2 (~24% cushion), and HBM/CoWoS tightness through H1 2027 plus Nebius's ~$5.40 list price support the level. (c) NO: the autumn rally reverses as the reported SpaceX ~50k H200 block near $5/hr for early 2027, Blackwell spot cuts and the post-Nov-11 pullback push the thin on-demand index back toward the $4-5 list cluster; September averaged $4.89 only three months ago. (d) YES: Hopper stays sold out, recontracting at up to 2x holds, and the index trades $5.8-7.5 in March. At ~30-35% horizon volatility of the monthly average, the required -0.21 to -0.29 log drop implies ~20-27% NO, plus a small 50-50 methodology tail. The January ladder (>$5.50 at 79.5%, >$6 at 63.5%) is consistent with ~70%, so I move slightly above the 66.5% anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8240",
+   "has_trace": true
+  }
+ ],
+ "Will Chris Hipkins be the next Prime Minister of New Zealand after the 2026 elections?": [
+  {
+   "id": 8231,
+   "scanned_at": "2026-11-27T04:46:51.070993",
+   "date": "2026-11-27",
+   "agent": 10,
+   "market_price_t0": 12,
+   "edge": -0.01999999999999999,
+   "confidence": 0.63,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.10, 0.10). (0) Not resolved. Final results on 27 Nov 2026 leave a hung parliament. National–ACT–NZ First holds 65 seats, and Labour–Greens–Te Pāti Māori plus Opportunity also reaches only 65. Luxon heads a caretaker government and nobody has been appointed PM. (a) The deadline is 31 Dec 2027, about 13 months away, which is long enough for drawn-out talks or even a second election. (b) Status quo: Opportunity negotiates with National first, as Wong pledged. She has signalled her bottom lines are softer than advertised and that a crossbench or confidence-and-supply role is an option. That path ends in Luxon's reappointment, which resolves No. (c) NO scenario: Opportunity gives confidence-and-supply or abstains for a four-party Luxon government by around January. Alternatively, Hipkins resigns, as Newsroom calls his exit \"inevitable\" with McAnulty the frontrunner, so even a later left government would be led by someone else. (d) YES scenario: the talks founder on ACT and NZ First opposition to climate and donation reform and on Wong's objection to Peters. A recount or some arrangement then lets a Labour–Greens–TPM–Opportunity bloc govern, or a fresh election is held and won by Labour with Hipkins still leader. Labour did narrowly win the party vote. Each YES path needs several steps, and a second election is unprecedented. Labour leading on 65 seats against 65 is shaky, and Hipkins may not survive as leader. The Polymarket price of 12% (Luxon at 82.5%) reflects this. I shade slightly lower because of the Hipkins resignation risk.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8231",
+   "has_trace": true
+  }
+ ],
+ "Will the average Ornn B300 rental price in March 2027 be above $12.00?": [
+  {
+   "id": 8223,
+   "scanned_at": "2026-11-27T03:12:33.169432",
+   "date": "2026-11-27",
+   "agent": 37,
+   "market_price_t0": 40.5,
+   "edge": -0.03500000000000003,
+   "confidence": 0.45999999999999996,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.37, 0.37). (0) Not resolved: no March 2027 values exist, and the latest Ornn OCPI-B300 settle is $10.83 (Nov 25, 2026); YES needs the 31 finalized March settles to average above $12.00. (a) About 3 months until March and about 4 months until resolution, a long horizon for a series that moved 15% in one day in November. (b) Status quo: the index is about 10% below the strike and falling, with monthly means of $11.49, $12.29 and $11.59; unchanged, March lands in the $10–12 band and resolves NO. (c) NO: the reported (unconfirmed) SpaceX Blackwell spot cut to $10–12, neocloud financing stress (CRWV -50%, NVDA -35% since late September) and growing hyperscaler capacity hold the index at $10–11.5, and Ornn's premium over other B300 trackers (about $7 to $9.50) leaves room to converge down. (d) YES: the November slide is a normalization; Nvidia citing rising rents, CoreWeave sold out through 2027 and no new packaging capacity before late 2027 re-tighten on-demand B300, and the index reverts to October's $12.3+. Polymarket's 40.5% is consistent with siblings (December above $12 at 31.5%, February above $11 at 56%) and already prices some rebound plus a fat right tail, so I shade slightly below it given the bearish late-November signals.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8223",
+   "has_trace": true
+  }
+ ],
+ "Will the average Ornn B200 rental price in January 2027 be above $9.50?": [
+  {
+   "id": 8219,
+   "scanned_at": "2026-11-27T02:24:37.512500",
+   "date": "2026-11-27",
+   "agent": 45,
+   "market_price_t0": 48.5,
+   "edge": -0.034999999999999976,
+   "confidence": 0.42,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.45, 0.45). (0) Not resolved. Resolution depends on the mean of Ornn's January 2027 daily OCPI-B200 settles, and none exist yet. Ornn's page shows $9.76 on Nov 25, a November-to-date mean of $9.51 and a 30-day median of $9.66, so the $9.50 strike sits right at the current level. (a) About two months remain before January begins, and the averaging window runs Jan 1–31 with settlement in early February. (b) Status quo: if the index stays where it has averaged in November, the January mean lands almost exactly on $9.50, and an exact $9.50 resolves No. The market sits at 48.5%, up 14 points after the Nov 25 jump. (c) NO path: the Nov 25 spike proves a one-off and the level drifts back to the $9.06–$9.43 band seen Nov 17–24. An unverified analytics widget shows $9.32, which may be the Nov 26 settle. Pressure toward that comes from SpaceX's reported spot cut for small Blackwell clusters, Anthropic's H200s being remarketed at about $5 in early 2027, falls of 16–24% in the H200 and B300 indices, and weak neocloud equities. (d) YES path: steps in the index tend to persist, so the ~$9.7 level holds through December and January averages $9.5–9.9, helped by thin-data carry-forward and capacity tightness. Sibling markets for March 2027 ($9.50 at 44.5%, $9.00 at 51.5%) imply a crowd view of mild softening. Together with the substitution pressure from neighbouring SKUs, I shade slightly below the 48.5% anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8219",
+   "has_trace": true
+  }
+ ],
+ "Will the average Ornn B200 rental price in February 2027 be above $9.00?": [
+  {
+   "id": 8209,
+   "scanned_at": "2026-11-27T00:03:20.828802",
+   "date": "2026-11-27",
+   "agent": 54,
+   "market_price_t0": 54.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.42,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.55, 0.53). (0) Not resolved: the Ornn OCPI-B200 page shows the latest settle at $9.76 on Nov 25, and no February 2027 values exist yet. (a) About three months remain until the February 1–28 averaging window, and roughly 3.1 months until settlement. (b) Status quo: if the index holds near $9.76 (or the November average of $9.51), February clears $9.00 and resolves YES; every settle in the last 30 days stayed between $9.06 and $9.94, and monthly averages rose from $7.26 in September to $8.51 in October to $9.51 in November to date. (c) NO: the index was sliding 8.8% from the Nov 8 peak to $9.07 before a single +7.6% day that could revert in a thin-trade index; SpaceX/Anthropic supply news points to easing Blackwell scarcity; a May–June 2026 precedent shows a 30% drop in three weeks; and Polymarket's own forward curve slopes down, so an 8–10% slide by February puts the average below $9.00. (d) YES: a plateau at $9.3–$10 through the winter, supported by demand statements from Dell and CoreWeave, rising memory and hardware costs, and a Rubin ramp that mostly lands after February. A zero-drift lognormal with about 22% three-month volatility gives roughly 60–64% YES, but the possible reversion of the Nov 25 jump and fresh bearish supply news pull it toward the market's 54.5%; I see no clear unpriced edge and sit at 55%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8209",
    "has_trace": true
   }
  ]

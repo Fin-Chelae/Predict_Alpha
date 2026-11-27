@@ -22690,7 +22690,7 @@
   }
  ],
  "_meta": {
-  "last_sync": "2026-11-27T12:18:21.605Z",
+  "last_sync": "2026-11-27T23:27:13.100Z",
   "source": "traces-api"
  },
  "Will Christine Fréchette be the next Premier of Quebec following the 2026 Quebec general election?": [
@@ -26032,6 +26032,20 @@
   }
  ],
  "Will any state enact a data center moratorium by December 31?": [
+  {
+   "id": 8266,
+   "scanned_at": "2026-11-27T16:33:39.342856",
+   "date": "2026-11-27",
+   "agent": 20.5,
+   "market_price_t0": 24.9,
+   "edge": -0.044499999999999984,
+   "confidence": 0.56,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.21, 0.20). (0) The condition is not met yet. Trackers and Quorum (Oct 26) agree that no state has enacted a moratorium by statute. Maine's LD 307 was vetoed and the veto sustained. New York's pause is Executive Order 62, which is not legislation. The Center Square (Nov 25–26) confirms NY S10642/A11560 was still awaiting action.\n\n(a) About 34 days remain until the Dec 31, 11:59 PM ET deadline. Most other legislatures are out of session, and Texas, Ohio, Oregon and Virginia are all aiming at 2027.\n\n(b) If nothing changes, the bill stays undelivered and unsigned through Dec 31, which resolves NO. Reports also say she may have an extra ~30-day window into January, and a signing in January would still be NO.\n\n(c) NO path: Hochul treats EO 62 as her answer. She ran on it, her office calls the bill \"complicated,\" she just vetoed an AI safety bill, and Hodgson Russ expects a veto. She then vetoes, pocket-vetoes, or simply never requests delivery.\n\n(d) YES path: she follows her RAISE Act template from Dec 19, 2025 and signs S10642 in late December with a chapter-amendment deal, perhaps aligning the threshold to 50 MW. Legislators, Heastie, the NYC mayor and 63% public support are pushing for this, and her re-election gives her cover.\n\nThere is also a small chance a lax resolver counts EO 62 as an enactment. I found no evidence of delivery or a deal, so I sit slightly below the 25% market mid.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8266",
+   "has_trace": true
+  },
   {
    "id": 6911,
    "scanned_at": "2026-11-11T05:33:33.792361",
@@ -29828,6 +29842,20 @@
   }
  ],
  "Will no qualifying US-Iran senior diplomatic meeting take place by December 31, 2026?": [
+  {
+   "id": 8283,
+   "scanned_at": "2026-11-27T21:13:38.973807",
+   "date": "2026-11-27",
+   "agent": 85,
+   "market_price_t0": 83.5,
+   "edge": 0.015000000000000013,
+   "confidence": 0.64,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.85, 0.85). (0) Resolution check: the resolution-source tool argues the Sept 22 New York Witkoff/Kushner–Araghchi round already resolved this market NO. I discount that heavily. The market opened on Sept 22 and has since traded from 13% up to 83.5%, rising 29 points in 30 days. That is inconsistent with an already-resolved meeting, so the venue evidently counts only meetings after the market's creation. No qualifying round after Sept 22 is documented. (a) About 34 days remain until Dec 31, 11:59 PM ET, and the holiday period falls inside that window. (b) Status quo is YES: there is no announced date or venue. Ghalibaf, Iran's chief negotiator, restated on Nov 24 that there will be no negotiation until Iran's seven conditions are met. Trump says he is \"not rushing,\" will decide after January 1, and has moved Vance off the file. The only live channel is Qatari/Pakistani message relay, which fails the same-city, same-day test. (c) NO scenario: Iran's reported, unconfirmed offer to reopen Hormuz within 7 days in exchange for lifting the blockade leads to a quick Qatar-brokered Doha or Islamabad round with Witkoff/Kushner and Araghchi/Ghalibaf in mid-to-late December. (d) YES scenario: stalemate and escalation continue, with carriers deployed, mines in Hormuz and possible strikes, and any diplomacy slips into 2027. The 2026 base rate of a senior round every 1–3 months gives some NO probability, and Qatar is actively pushing. But announced rounds have repeatedly failed to happen, and both sides' current posture argues against one. I sit slightly above the 83.5% market anchor.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8283",
+   "has_trace": true
+  },
   {
    "id": 7695,
    "scanned_at": "2026-11-20T17:32:01.217101",
@@ -38723,6 +38751,20 @@
  ],
  "Will Steve Witkoff attend a US x Iran diplomatic meeting by December 31, 2026?": [
   {
+   "id": 8289,
+   "scanned_at": "2026-11-27T22:36:46.776823",
+   "date": "2026-11-27",
+   "agent": 10,
+   "market_price_t0": 13,
+   "edge": -0.03,
+   "confidence": 0.64,
+   "category": "World",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.09, 0.11). (0) Not yet met. The September 22 UNGA round in New York, where Witkoff took part in Qatar/Pakistan-shuttled talks with Araghchi's delegation, came before the market opened on October 1, so it does not count. Since then Witkoff has met only mediators, Qatari officials in Berlin on November 19, which does not qualify. (a) About 34 days remain until December 31, and the Christmas period falls inside that window. (b) The status quo is mediator message-passing with no convened senior round, which resolves No. Araghchi has said repeatedly that no meeting with the US is planned. Qalibaf said on November 24 there will be no talks until the seven conditions are implemented. Trump has said he won't decide on Iran until the new year. (c) NO: escalation continues through year-end and diplomatic decisions slip to January. That escalation includes the Kuwait drone strike, mines in Hormuz and blockade incidents. (d) YES: Qatar convenes a snap indirect round in Doha within about 48 hours, as at Doha in late June. Witkoff attends in person and Araghchi or Qalibaf leads Iran's side. Even in that case, Witkoff's own attendance at a qualifying senior session is not guaranteed: at Doha he met only the mediators, and Vance or Kushner could lead instead. The market sits at 13% (bid 12, ask 14) and has drifted down 19 points in 30 days. The research found no announced December venue or date and hardening rhetoric, so I shade slightly below the market, to about 9%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8289",
+   "has_trace": true
+  },
+  {
    "id": 7654,
    "scanned_at": "2026-11-20T05:39:11.316174",
    "date": "2026-11-20",
@@ -40677,6 +40719,20 @@
  ],
  "Will Nvidia’s market capitalization be less than $4.00T at the end of 2026?": [
   {
+   "id": 8287,
+   "scanned_at": "2026-11-27T21:55:15.575391",
+   "date": "2026-11-27",
+   "agent": 70,
+   "market_price_t0": 67.9,
+   "edge": 0.020999999999999908,
+   "confidence": 0.64,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.70, 0.70). (0) Not resolved: NVDA closed at $150.49 on Nov 27 (Yahoo/FMP/Finviz), about $3.63T on the 10-Q's 24.1B shares, below $4.00T. NO needs a Dec 31 close at or above about $166, roughly 10% higher. (a) About 23 trading days remain until the Dec 31 close. (b) Status quo, with no change, resolves YES. (c) YES: the Dec 1/3 hearings give no clean all-clear, the SEC/DOJ probes stay open, export-control language lands in the defense bill, and rallies keep being sold as on Nov 23, leaving the stock below $166. (d) NO: the hearings pass uneventfully, the VIX mean-reverts, and the high-beta stock (beta about 2.3) rides the sector rebound back to $166+, a level it closed at on Nov 12 and Nov 23. With Dec 31 implied volatility of about 67% (about 20% over the period), a lognormal estimate gives roughly 28% above the line; the share-count update slightly raises the threshold and the dividend is negligible. Anchoring on Polymarket's 67.9%, I lean slightly toward YES at 0.70.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8287",
+   "has_trace": true
+  },
+  {
    "id": 7701,
    "scanned_at": "2026-11-20T19:13:07.382825",
    "date": "2026-11-20",
@@ -40737,6 +40793,20 @@
  ],
  "Will Teddy Riner be on the ballot for the 2027 French presidential election?": [
   {
+   "id": 8258,
+   "scanned_at": "2026-11-27T13:56:28.705672",
+   "date": "2026-11-27",
+   "agent": 34,
+   "market_price_t0": 33.6,
+   "edge": 0.003999999999999948,
+   "confidence": 0.45999999999999996,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.36, 0.32). (0) Not resolved. The Constitutional Council site, current to 27 Nov 2026, has no 2027 candidate list. Riner is a declared candidate (9 Nov) but has not qualified. He must file 500 valid sponsorships, spread over at least 30 départements, by 12 March 2027. The official list is expected around 16–26 March. (a) About 3.5 months remain to the sponsorship deadline and under 5 months to the 18 April close. (b) Status quo is NO: he holds roughly 100 claimed promises, not validated sponsorships. He has no party machinery, and the field of more than 40 declared candidates splits a finite pool, since only 32% of the 42,000 eligible officials signed in 2022. (c) NO path: Taubira-style attrition, where promises go unhonoured. His Ukraine gaffe and Macron's rebuke cool mainland mayors, overseas pledges cap out, and he finishes in the 200–400 range or withdraws. (d) YES path: his fame (20M video views, 4.5% Elabe poll ahead of Attal and Retailleau) persuades mayors to sign. Overseas officials Serva, Chalus and Bellay add to that base. Reported but unconfirmed Macron-network help could fill the remaining ~400 during the February–March window. I anchor on Polymarket's 33.6%, which has risen 28 points over 30 days. My slight upward nudge reflects that candidates polling around 4–5% with presidential sympathy usually qualify. That is offset by the many crowded-field risks and the celebrity-outsider precedent.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8258",
+   "has_trace": true
+  },
+  {
    "id": 7680,
    "scanned_at": "2026-11-20T13:47:26.858328",
    "date": "2026-11-20",
@@ -40766,6 +40836,20 @@
   }
  ],
  "Will the next governing coalition of Sweden include M + KD + L + C?": [
+  {
+   "id": 8256,
+   "scanned_at": "2026-11-27T13:13:33.937325",
+   "date": "2026-11-27",
+   "agent": 76.5,
+   "market_price_t0": 75.1,
+   "edge": 0.013500000000000068,
+   "confidence": 0.62,
+   "category": "Elections",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.77, 0.76). (0) Not resolved. The Riksdag homepage still shows a caretaker government. The Kristersson vote on a proposed M+KD+L+C cabinet is set for 30 Nov. The Centre Party's 59-member council decides on 29 Nov whether the party joins.\n(a) The formal deadline is 31 July 2027, about eight months away. The decisive events fall in the next 3–8 days: the C council on 29 Nov, the Riksdag vote on 30 Nov, and a cabinet that could be presented around 4 Dec.\n(b) Status quo: if nothing changes, C's leadership recommendation stands and SD abstains. S+V+MP hold only 151 seats against the 175 'no' votes needed to block, so Kristersson is approved and C takes ministerial posts. That is a YES.\n(c) NO scenario: the heavily split C council rejects the leadership. About 15 of 35 opposed in the board and group meeting, and the deputy leader and economic spokesperson are among the dissenters. C's 25 votes then push the no-count to 176, Kristersson fails, and the process goes to an Andersson attempt or a snap election in March. A late SD reversal, or C backing Kristersson without taking cabinet posts, would also give NO.\n(d) YES scenario: the council backs the leadership. Skåne's district voted 29–3 in favour and the youth wing CUF flipped to yes, which suggests grassroots support. Kristersson passes on 30 Nov and the four-party Alliance cabinet takes office in early December. Even a failure leaves a small residual chance of the same coalition after a fourth vote or a snap election before August.\nI put P(council yes) at roughly 0.78 and P(formation with C ministers given yes) at about 0.95, plus about 0.2 on the failure branch. That gives roughly 0.77, slightly above the 75% market mid. I don't stray far because the council outcome is genuinely uncertain.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8256",
+   "has_trace": true
+  },
   {
    "id": 7676,
    "scanned_at": "2026-11-20T12:42:13.470244",
@@ -41629,6 +41713,20 @@
  ],
  "Will Jensen Huang's resignation or removal be announced and Nvidia's market cap be above $4T at the end of 2026?": [
   {
+   "id": 8261,
+   "scanned_at": "2026-11-27T14:56:55.843027",
+   "date": "2026-11-27",
+   "agent": 29.5,
+   "market_price_t0": 34.5,
+   "edge": -0.04999999999999999,
+   "confidence": 0.5449999999999999,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.29, 0.30). (0) The first component looks already met. NVIDIA's official Nov 12, 2026 8-K said Huang \"has resigned … effective immediately,\" one day after this market opened. The rules contain no clause undoing a qualifying announcement after a reversal, and Polymarket's own page prices the \"Not resigned\" options below 1%. So the contract reduces almost entirely to whether Nvidia's market cap is at least $4T at the Dec 31 close. That cap is not met: Yahoo/FMP show about $146.8 early on Nov 27, roughly $3.54T, against about $166 a share needed on 24.1B shares. (a) About 23 trading days remain until the Dec 31 close. (b) If nothing changes, the cap stays near $3.55–3.7T, under $4T, and the market resolves NO. (c) NO path: the Dec 1–3 congressional appearances, the SEC accounting probe, S&P's CreditWatch, or the Southeast Asia shipment pause keep the stock in the $130–160 range. (d) YES path: testimony passes cleanly, overhangs fade, and the stock mean-reverts toward analyst targets ($200+). It only needs to regain the $165 it closed at on Nov 23. With implied volatility around 60–80% annualised, a lognormal model gives about 22–30% odds of a 12–13% gain in this window. A few percent comes off for the chance the resolver ignores the Nov 12 announcement or requires a fresh one, and a second ouster would itself likely sink the cap. The market's 34.5% looks a bit rich given the latest print is lower than the ~$153 many sources cite, so I shade below it to 0.29.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8261",
+   "has_trace": true
+  },
+  {
    "id": 7464,
    "scanned_at": "2026-11-17T22:27:51.645848",
    "date": "2026-11-17",
@@ -42061,6 +42159,20 @@
  ],
  "Will AI solve the Riemann Hypothesis in 2026?": [
   {
+   "id": 8275,
+   "scanned_at": "2026-11-27T19:08:07.876708",
+   "date": "2026-11-27",
+   "agent": 64.5,
+   "market_price_t0": 62.5,
+   "edge": 0.020000000000000018,
+   "confidence": 0.42,
+   "category": "Science and Technology",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.66, 0.63). (0) Partly met but disputed. Alpöge, an Anthropic staff mathematician, posted a personal-site note on 11/20 claiming a proof of RH 'working with Claude'. Lean FRO and Mathlib certified it on 11/21. Nature, The Register, AP and SciAm frame it as an Anthropic announcement. But Anthropic has made no official statement, and the newsroom and official repo show only the August partial result. Whether a personal note from an employee who consulted the CEO counts as an 'official representative' announcement is the crux. (a) About 34 days remain to the 12/31 deadline. (b) Status quo: the outcome rests on interpretation. The 'its researchers or its models' clause and the 'consensus of credible reporting' fallback favour Yes, but the strict 'official representative' language and the hedged 'I believe' wording favour No. (c) No: Anthropic stays silent through year-end, perhaps from post-IPO caution, and a strict resolver rejects the personal note; less likely, a flaw emerges. (d) Yes: Anthropic formally endorses the Lean-certified proof before 12/31, or the resolver accepts the press-consensus framing. The market at 62.5% has dropped 14.5 points in a week on these concerns; I sit slightly above it given the verified proof and media attribution.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8275",
+   "has_trace": true
+  },
+  {
    "id": 7692,
    "scanned_at": "2026-11-20T17:02:15.117545",
    "date": "2026-11-20",
@@ -42076,6 +42188,20 @@
   }
  ],
  "Will Inde Navarrette be the #1 searched actor on Google this year?": [
+  {
+   "id": 8269,
+   "scanned_at": "2026-11-27T17:09:20.190801",
+   "date": "2026-11-27",
+   "agent": 60,
+   "market_price_t0": 62,
+   "edge": -0.020000000000000018,
+   "confidence": 0.45999999999999996,
+   "category": "Companies",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.60, 0.60). (0) Not resolved: the 2026 Year in Search page returns 404 and the hub still shows 2025, so Google must publish the 2026 Global Actors list with Navarrette at #1. (a) About four months remain before the March 31, 2027 deadline; releases have historically landed December 4-12 and the related market prices release by December 15 at about 96%, so non-publication ('Other') is a small risk. (b) Status quo: Navarrette is the favourite at a 62% Polymarket mid, about 62% on Kalshi per Covers, and about 87% to make the top 5. The list ranks year-over-year spikes, and her near-zero 2025 base plus Obsession's roughly $520M global gross fit the Madison-style breakout pattern. (c) No: Jaafar Jackson's Michael debut produces a bigger global spike, or a news-driven name (death, scandal, regional star) wins, as in 2019, 2021 and 2023. (d) Yes: her breakout spike is the largest in the category, Jackson's interest leaks into 'Michael Jackson' queries, and Google releases in early December. I stay near the anchor because the research has no Google Trends data to beat it, and the thin market's recent 16.5-point weekly jump looks sentiment-driven.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8269",
+   "has_trace": true
+  },
   {
    "id": 7690,
    "scanned_at": "2026-11-20T16:27:39.865315",
@@ -43048,6 +43174,118 @@
    "pipeline": 2,
    "rationale": "Mean of 2 draws (0.55, 0.53). (0) Not resolved: the Ornn OCPI-B200 page shows the latest settle at $9.76 on Nov 25, and no February 2027 values exist yet. (a) About three months remain until the February 1–28 averaging window, and roughly 3.1 months until settlement. (b) Status quo: if the index holds near $9.76 (or the November average of $9.51), February clears $9.00 and resolves YES; every settle in the last 30 days stayed between $9.06 and $9.94, and monthly averages rose from $7.26 in September to $8.51 in October to $9.51 in November to date. (c) NO: the index was sliding 8.8% from the Nov 8 peak to $9.07 before a single +7.6% day that could revert in a thin-trade index; SpaceX/Anthropic supply news points to easing Blackwell scarcity; a May–June 2026 precedent shows a 30% drop in three weeks; and Polymarket's own forward curve slopes down, so an 8–10% slide by February puts the average below $9.00. (d) YES: a plateau at $9.3–$10 through the winter, supported by demand statements from Dell and CoreWeave, rising memory and hardware costs, and a Rubin ramp that mostly lands after February. A zero-drift lognormal with about 22% three-month volatility gives roughly 60–64% YES, but the possible reversion of the Nov 25 jump and fresh bearish supply news pull it toward the market's 54.5%; I see no clear unpriced edge and sit at 55%.",
    "url": "https://forecast.agenticlearning.ai/scans/v2/8209",
+   "has_trace": true
+  }
+ ],
+ "Will the average Ornn H200 rental price in December 2026 be above $6.00?": [
+  {
+   "id": 8291,
+   "scanned_at": "2026-11-27T23:22:18.058351",
+   "date": "2026-11-27",
+   "agent": 75,
+   "market_price_t0": 75.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.565,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.74, 0.76). (0) Not resolved: the Ornn page shows no December settles; the latest is $6.79 on Nov 26 and the November MTD average is $6.66. YES needs the mean of December's 31 finalized daily settles above $6.00. (a) About 5 weeks remain; the averaging window is Dec 1–31 and the market closes Jan 1. (b) Status quo: if the index holds its November $6.2–7.2 band, the December average is about $6.5–6.8 and resolves YES; the Polymarket-implied December price of ~$6.47 (range $5.86–7.09) also clears the strike. (c) NO: ~50k remarketed Anthropic H200s near $5/hr and weaker neocloud financing push prices back to October levels ($5.92 average), with a slide like Nov 19–22 that persists; monthly averages have moved ~$0.7–1.0 month to month, so this is roughly a one-sigma move. (d) YES: tight Hopper supply (Nvidia recontracting at up to 2x, CoreWeave +30–50% QoQ, no new H200 shipments) keeps the index above ~$6.2 for most of December, as in 22 of 26 November settles. The venue anchor is 75.5% and the January $6 sibling at ~61.5% is consistent; with no clearly unpriced information, I stay near the market, slightly shaded for the downward forward curve and holiday thin-volume noise.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8291",
+   "has_trace": true
+  }
+ ],
+ "Will the average Ornn H200 rental price in December 2026 be above $6.75?": [
+  {
+   "id": 8280,
+   "scanned_at": "2026-11-27T20:31:35.254233",
+   "date": "2026-11-27",
+   "agent": 43,
+   "market_price_t0": 40.5,
+   "edge": 0.024999999999999967,
+   "confidence": 0.485,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.44, 0.42). (0) Not met: no December settles exist yet. The latest confirmed settle is $6.79 (Nov 26), with about $6.83 shown on Polymarket Nov 27, and YES needs the 31-day December mean above $6.75. (a) The window is Dec 1–31, roughly 4–35 days out. (b) Status quo: if the index holds near current levels, the December mean lands just above the strike, close to a coin flip. (c) NO: the five-day bounce from $5.79 fades, the reported SpaceX remarketing of about 50,000 H200s near $5 weighs on sentiment, and settles drift to $6.0–6.5, consistent with the implied Dec forward of about $6.42–6.47 and November's own $6.66 average. (d) YES: the monthly step-up continues (Sep $4.89, Oct $5.92, Nov $6.66) on year-end demand and provider price hikes, holding settles in $6.7–7.2 with periodic spikes. The market's 40.5% (siblings $6.50 at 48%, $7.00 at 29%) prices mean reversion. Given spot already above the strike and the strong trend, I lean slightly above market at 44%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8280",
+   "has_trace": true
+  }
+ ],
+ "Will the US federal government take a stake in NVIDIA Corporation?": [
+  {
+   "id": 8277,
+   "scanned_at": "2026-11-27T19:51:59.630576",
+   "date": "2026-11-27",
+   "agent": 13.5,
+   "market_price_t0": 25.6,
+   "edge": -0.1205,
+   "confidence": 0.555,
+   "category": "Economics",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.13, 0.14) after one crux research pass. (0) Resolution check: the condition is not met. No official announcement of a completed or binding equity acquisition in Nvidia exists. Trump's remarks of Nov 23–24 (\"probably not too late\", \"didn't bring it up\") are speculation, which the rules exclude. The existing China-sales revenue shares are non-equity and also do not count. (a) About five weeks remain, to Dec 31, 2026. (b) Status quo is No: reporting from Nov 25–27 finds no offer, term sheet or negotiation, and NEC Director Hassett said on Nov 25 he had not discussed a stake with Trump. (c) NO scenario: congressional hearings (Dec 1, 3, 10), Trump's own insider-trading and conflict concerns, the Lutnick–Bessent feud, and the lack of any Intel-style grant to convert let the idea fade. Nvidia keeps facing leverage through export licensing and governance rather than equity. (d) YES scenario: Commerce quickly extracts a small equity or warrant grant from Nvidia as part of an export-compliance settlement while the company is under acute regulatory pressure. A signed agreement is then announced before year-end, echoing how Intel went from proposal to signing in about four days. The market anchor is 25.5% on Polymarket, with a 30% (falling) independent Kalshi price, inflated by the recent spike on Trump's comments. I shade well below both. The base rate for stakes in healthy mega-caps is zero across roughly 41 deals, there is no visible process, a stake of plausible size would be enormous, and a White House economic adviser has distanced himself from the idea. Trump's unpredictability and real leverage over Nvidia keep a meaningful tail.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8277",
+   "has_trace": true
+  }
+ ],
+ "Will Ink launch a token by December 31, 2026?": [
+  {
+   "id": 8274,
+   "scanned_at": "2026-11-27T18:31:03.086850",
+   "date": "2026-11-27",
+   "agent": 7.5,
+   "market_price_t0": 9.2,
+   "edge": -0.016499999999999987,
+   "confidence": 0.665,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.07, 0.08). (0) The condition is not met yet. The @inkonchain feed, checked today, shows no TGE, listing or trading announcement. Every tracker (eco.com, DropsTab, airdrops.io, CryptoDiffer) lists INK as announced but not launched, and the CoinGecko 'ink' entry is a dust-cap unrelated asset. (a) About 34 days remain until 11:59 PM ET on Dec 31, 2026, and the Christmas/New Year lull falls inside that window. (b) If nothing changes, the market resolves No. No snapshot, claim contract, date or exchange listing has been published, and every informal window (Q2, then Jul–Sep, then Q3–Q4) has slipped. (c) NO: Kraken keeps the program running and its legal/compliance review stays open. The weak market (BTC lows, Kraken's IPO pause, shrinking Ink TVL) pushes the TGE into 2027, which the later-dated sibling markets at ~70–75% already imply. (d) YES: Nado's Nov 12 points freeze, the 2x futures boost ending Nov 30, and today's post about a Kraken Pro points change are precursors. They could lead to a snapshot and TGE announced in early December, with Kraken listing INK immediately and Nado's prebuilt Merkle-claim plumbing making it tradable before year-end. Those signals are real but suggestive only; none ties a date to INK. I anchor on the Polymarket mid of ~9% (bid 8 / ask 10) and shade slightly lower. A token that must be announced and also made tradable within four holiday-heavy weeks, with no precursor announcement, usually doesn't happen. The Nado and Kraken cutoffs keep a non-trivial tail alive.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8274",
+   "has_trace": true
+  }
+ ],
+ "Will the average Ornn B200 rental price in February 2027 be above $7.50?": [
+  {
+   "id": 8271,
+   "scanned_at": "2026-11-27T17:50:26.891126",
+   "date": "2026-11-27",
+   "agent": 79,
+   "market_price_t0": 79.5,
+   "edge": -0.0050000000000000044,
+   "confidence": 0.575,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.79, 0.79). (0) Not resolved. No February 2027 settles exist yet. The Ornn page shows the latest OCPI-B200 settle at $9.78 on Nov 26, with a November-to-date average of $9.52, so the condition can neither be met nor ruled out today. (a) About three months remain: the market averages the Feb 1–28, 2027 settles, which are finalized by early March. (b) Status quo: the index has been at or above $9.06 on every settle since Oct 28. Polymarket's implied B200 curve puts Feb '27 at about $9.0–9.15, about $1.5–1.65 above the $7.50 strike, so an unchanged world resolves Yes. (c) No scenario: the SpaceX Blackwell spot cuts, Vera Rubin ramp, oversupply and stalling token spend turn the November softening (−8.8% from the Nov 8 peak; H200 and B300 down 16–24%) into a regime shift. A May–June-style ~30% slide in this thin on-demand index, possibly converging toward Silicon Data's ~$6.94, would put the February mean in the $7s. (d) Yes scenario: a plateau or gentle drift, supported by NVIDIA's 'demand outruns supply' comments, server price increases above 15%, and Azure/AWS reprices in Jan–Feb 2027. Any decline under ~20% still resolves Yes. A rough lognormal with roughly 35% three-month vol on a ~$9.1 forward gives about 70–78%, consistent with the 79.5% market anchor and the Dec ladder (above $7.80 at 92.5%). I see no unpriced information, so I stay near the market.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8271",
+   "has_trace": true
+  }
+ ],
+ "Will the average Ornn H200 rental price in February 2027 be above $7.00?": [
+  {
+   "id": 8263,
+   "scanned_at": "2026-11-27T15:41:52.833633",
+   "date": "2026-11-27",
+   "agent": 29,
+   "market_price_t0": 31.5,
+   "edge": -0.024999999999999967,
+   "confidence": 0.53,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.28, 0.30). (0) Not resolved. Ornn's page (data.ornn.com/markets/h200) shows a latest settle of $6.79 on Nov 26, and no February 2027 values can exist yet. The question needs the mean of the Feb 1–28 daily settles to land above $7.00.\n\n(a) About three months remain until February begins; settlement is in early March 2027.\n\n(b) Status quo: spot is $6.79 and the November average to date is $6.66. No month has yet averaged above $7.00 (Sep $4.89, Oct $5.92). Polymarket's implied forward curve puts February at about $6.29–6.55 across several snapshots, below the strike. If nothing changes, this resolves No.\n\n(c) NO scenario: Hopper supply loosens.\n- The SemiAnalysis-reported Anthropic non-renewal of about 50k SpaceX-hosted H200s is being re-quoted near $5/hr for early-2027 delivery.\n- Labs migrating to Blackwell free up more Hopper capacity.\n- The November spike (peak $7.75, already about 16% retraced at one point) mean-reverts into the low-to-mid $6s.\n\n(d) YES scenario: the 50% three-month uptrend continues.\n- CoreWeave's 30–50% Hopper repricing and list-price hikes at Lambda and Nebius feed into transacted prices.\n- The index re-centers above $7 through Q1. Only about a 3% gain from spot is needed, and the index swings ±10% daily.\n\nAnchor: this market trades at 31.5%, close to the related Jan $7.00 (33.5%) and Dec $7.00 (29%) strikes. The February forward sits below both, and the $5 H200 supply block is bearish news the thin market may not have fully priced. Against that, momentum and wide volatility keep the upper tail meaningful. I shade slightly below the market to 28%.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8263",
+   "has_trace": true
+  }
+ ],
+ "Will the average Ornn B300 rental price in January 2027 be above $12.00?": [
+  {
+   "id": 8254,
+   "scanned_at": "2026-11-27T12:29:17.700687",
+   "date": "2026-11-27",
+   "agent": 33.5,
+   "market_price_t0": 37.5,
+   "edge": -0.03999999999999998,
+   "confidence": 0.5,
+   "category": "Financials",
+   "pipeline": 2,
+   "rationale": "Mean of 2 draws (0.33, 0.34). (0) Not resolved. No January 2027 OCPI-B300 values exist yet. The latest settle on data.ornn.com is $10.89 (Nov 26), with November averaging $11.56 so far. (a) About five weeks remain until January starts, and resolution needs the mean of all January daily settles, so roughly 2+ months of price path matter. (b) Status quo is No: spot sits about 10% below the $12 strike, every settle since Nov 10 has been at or below $11.66, and the trend has been down since Nov 18. (c) NO scenario: B300 supply keeps loosening (remarketed Asian capacity, SpaceX Blackwell price cuts, a shrinking premium over B200), and the index holds around $10.5–11.5 through January. (d) YES scenario: demand reasserts around year-end and new-year training launches, as NVIDIA's comments on rising rents suggest. The thin on-demand market then spikes the index back to its late-Oct/early-Nov $12.1–13 plateau, and October's $12.29 average shows that is possible. On pricing, the Polymarket-implied January forward is about $11.39, and the Jan $11 strike trades near 60%. Given the index's high volatility, I put the January average's spread at roughly $1.3–1.5, which gives about 30–35% for above $12. The December $12 strike trades at about 29%, and the wider January horizon justifies slightly more. I shade a little below the 37.5% market anchor because of the downtrend and bearish supply news, and because the fallback sources (Silicon Data about $7–7.7, getdeploying about $9.50) all sit far below $12, which would favor No if Ornn's public series disappears behind its 'Enterprise' label.",
+   "url": "https://forecast.agenticlearning.ai/scans/v2/8254",
    "has_trace": true
   }
  ]
